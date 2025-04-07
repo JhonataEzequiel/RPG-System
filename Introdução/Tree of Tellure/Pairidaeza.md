@@ -1,0 +1,1 @@
+Pairidaeza recebeu a tarefa de manter a ordem entre os planos, além de ser o local para onde iriam os mortos que tiveram um bom coração em vida. Habitado por seres angelicais e ordeiros.

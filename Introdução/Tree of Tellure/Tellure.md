@@ -1,0 +1,1 @@
+Tellure ou Tellus é conhecido popularmente como plano terreno, sendo o local de morada de todas as raças jogáveis. Composto por diversos tipos de paisagens, é o lar de diversos povos e culturas, além de diversas criaturas.

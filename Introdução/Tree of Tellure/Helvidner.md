@@ -1,0 +1,1 @@
+Reino dos mortos que, quando em vida, cometeram atrocidades e tiveram um coração ruim. Local de punição e morada dos demônios. Possui diferentes subdivisões, servindo para punir diferentes tipos de malfeitores. Há regiões congelantes, e regiões de lava fervente escoante; pântanos ácidos que lentamente dissecam a carne dos mal afortunados; além de castelos e masmorras de demônios.

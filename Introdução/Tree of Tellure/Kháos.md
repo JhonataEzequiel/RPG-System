@@ -1,0 +1,1 @@
+O Kháos é o plano com menos restrições. De lá, seres que desafiam a lógica, como os devoradores de mentes, surgiram. É um local inóspito, habitado por criaturas malignas e enigmáticas. Algumas entidades do Kháos conseguem interferir momentaneamente nos outros planos, criando seres que naturalmente utilizam da magia, como certos monstros e feiticeiros.

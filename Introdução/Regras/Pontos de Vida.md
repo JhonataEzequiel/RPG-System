@@ -1,0 +1,3 @@
+Os pontos de vida de um jogador determinarão a sua condição física. Quanto mais próximo de 0, mais debilitado ele estará.
+
+Caso um jogador chegue a 0 pontos de vida, ele será nocauteado. Nesse estado, ele deverá rodar testes, sem bônus, de dificuldade 10 numa melhor de cinco. Caso o jogador obtenha êxito, ele ganhará um “sucesso”. Do contrário, ganhará um “fracasso”. Com 3 sucessos, ele retorna a consciência com 1 ponto de vida. Com 3 fracassos, ele morre, e seu corpo é apenas um objeto no cenário. Caso consiga um acerto crítico, obterá 2 sucessos. Se for um erro crítico, obterá 2 fracassos. Se ele tomar dano enquanto estiver nocauteado, ele ganha um “fracasso”.

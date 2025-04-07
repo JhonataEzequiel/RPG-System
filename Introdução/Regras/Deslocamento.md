@@ -1,0 +1,3 @@
+Cada raça possui um deslocamento diferente que é baseado em seu tamanho e nas capacidades individuais de cada raça. Raças menores, como os anões e gnomos, terão deslocamentos reduzidos, fazendo com que eles sejam personagens mais estáticos por serem mais lentos do que os outros. O deslocamento de cada raça é dito no capítulo de raças.
+
+Além disso, haverão magias, habilidades, e itens que podem conceder mais velocidade aos personagens, aumentando seus deslocamentos.
