@@ -47,11 +47,11 @@ Arredondando o nível médio para baixo, teremos as seguintes recompensas em XP:
 
 Uma vez adquirido XP para subir de nível, os jogadores receberão pontos de atributo para utilizarem da maneira que quiserem, seguindo a tabela a seguir:
 
-|   |   |
-|---|---|
-|Nível Novo do Jogador|Pontos Ganhos|
-|5, 10, 15, ou 20|+2|
-|Outros|+1|
+|                       |               |
+| --------------------- | ------------- |
+| Nível Novo do Jogador | Pontos Ganhos |
+| 5, 10, 15, ou 20      | +2            |
+| Outros                | +1            |
 
 Além disso, com exceção do nível de personagem 1, os atributos terão o seguinte limite:
 

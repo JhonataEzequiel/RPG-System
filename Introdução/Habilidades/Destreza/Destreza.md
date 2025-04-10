@@ -4,13 +4,13 @@ Ao entrar em furtividade, o personagem estará indetectável. É possível sair 
 
 A dificuldade do teste será definida pelo mestre.
 
-|Nível de Destreza|Bônus|
-|---|---|
-|0|+0|
-|1 ao 3|+3|
-|4 ao 5|Destreza|
-|6 ao 8|Destreza+3|
-|9 ao 10|Destreza+5|
+| Nível de Destreza | Bônus      |
+| ----------------- | ---------- |
+| 0                 | +0         |
+| 1 ao 3            | +3         |
+| 4 ao 5            | Destreza   |
+| 6 ao 8            | Destreza+3 |
+| 9 ao 10           | Destreza+5 |
 
 [[Introdução/Habilidades/Destreza/Nível 1|Nível 1]]
 

@@ -6,15 +6,15 @@ Apesar dos familiares terem atributos, eles funcionam como monstros normais, e n
 
 Caso o humano seja neutro, ele terá como familiar um Golem de pedra, capaz de desferir golpes de impacto e com bastante força. Os golens de pedra tem personalidades parecidas com as de seus parceiros. O Golem se tornará maior, mais robusto, e mais forte a medida que o humano evolui seu nível, tendo seus atributos detalhados a seguir:
 
-|   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|
-|Nível do humano|Nível do Golem|Constituição|Sabedoria|Força|Destreza|Inteligência|Fé|Carisma|Coeficiente de Armadura|Vida do Golem|
-|1|1|4|1|3|1|1|2|2|12|25|
-|4|2|6|1|4|1|1|2|4|12|45|
-|8|3|6|1|5|1|2|3|4|13|70|
-|12|4|8|1|6|1|2|3|5|15|100|
-|16|5|8|1|7|1|3|3|5|18|150|
-|20|6|10|1|8|1|3|3|6|19|210|
+|                 |                |              |           |       |          |              |     |         |                         |               |
+| --------------- | -------------- | ------------ | --------- | ----- | -------- | ------------ | --- | ------- | ----------------------- | ------------- |
+| Nível do humano | Nível do Golem | Constituição | Sabedoria | Força | Destreza | Inteligência | Fé  | Carisma | Coeficiente de Armadura | Vida do Golem |
+| 1               | 1              | 4            | 1         | 3     | 1        | 1            | 2   | 2       | 12                      | 25            |
+| 4               | 2              | 6            | 1         | 4     | 1        | 1            | 2   | 4       | 12                      | 45            |
+| 8               | 3              | 6            | 1         | 5     | 1        | 2            | 3   | 4       | 13                      | 70            |
+| 12              | 4              | 8            | 1         | 6     | 1        | 2            | 3   | 5       | 15                      | 100           |
+| 16              | 5              | 8            | 1         | 7     | 1        | 3            | 3   | 5       | 18                      | 150           |
+| 20              | 6              | 10           | 1         | 8     | 1        | 3            | 3   | 6       | 19                      | 210           |
 
 As habilidades e ataques do Golem de Pedra são as seguintes:
 
@@ -52,13 +52,13 @@ Caso o humano seja caótico, ele terá como familiar uma serpente venenosa e ard
 
 Caso o humano seja leal, ele terá um fiel lobo como companheiro para o resto da vida. O lobo, assim como os outros, evoluirá de acordo com o nível do jogador. O lobo possuirá 4 formas, assim como a serpente. Cada uma das formas do lobo é detalhada abaixo:
 
-|   |   |   |   |   |   |   |   |   |   |   |
-|---|---|---|---|---|---|---|---|---|---|---|
-|Nível do Humano|Forma do Lobo|Constituição|Sabedoria|Força|Destreza|Inteligência|Fé|Carisma|Pontos de vida|Deslocamento em metros|
-|1|1º|2|4|2|4|4|1|2|25|9|
-|4|2º|4|6|3|6|6|1|2|35|13.5|
-|10|3º|6|8|5|7|8|2|3|60|13.5|
-|17|4º|8|10|6|9|10|2|3|90|13.5|
+|                 |               |              |           |       |          |              |     |         |                |                        |
+| --------------- | ------------- | ------------ | --------- | ----- | -------- | ------------ | --- | ------- | -------------- | ---------------------- |
+| Nível do Humano | Forma do Lobo | Constituição | Sabedoria | Força | Destreza | Inteligência | Fé  | Carisma | Pontos de vida | Deslocamento em metros |
+| 1               | 1º            | 2            | 4         | 2     | 4        | 4            | 1   | 2       | 25             | 9                      |
+| 4               | 2º            | 4            | 6         | 3     | 6        | 6            | 1   | 2       | 35             | 13.5                   |
+| 10              | 3º            | 6            | 8         | 5     | 7        | 8            | 2   | 3       | 60             | 13.5                   |
+| 17              | 4º            | 8            | 10        | 6     | 9        | 10           | 2   | 3       | 90             | 13.5                   |
 
 ## Primeira forma
 

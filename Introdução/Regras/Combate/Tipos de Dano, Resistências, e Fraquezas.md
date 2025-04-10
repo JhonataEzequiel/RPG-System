@@ -6,7 +6,7 @@ Pode haver casos em que um dano persistirá por um tempo especificado. Tais caso
 
 ## Dano Físico
 
-Dano físico vem de qualquer tipo de ataque que não contenha magias, ou seja, qualquer ataque realizado apenas com a força física (ou destreza) de alguém. Existem três tipos de dano físico, o dano cortante, o perfurante, e o de impacto. Cada arma ou personagem que dê dano físico terá em sua descrição quais tipos de dano físico especificamente ele consegue causar. O dano cortante é normalmente causado por muitos tipos de armas, e basicamente trata-se de cortes que podem ser realizados em diferentes direções. O dano perfurante é quando se atinge o oponente com algum tipo de objeto ou habilidade capaz de perfurar, como um golpe de lança. O dano de impacto é normalmente causado por maças, e ataques baseados em força. Normalmente, usuários de armaduras não são resistentes a dano de impacto, como são dos outros, e ataques desarmados são considerados dano de impacto.
+Dano físico vem de qualquer tipo de ataque que não contenha magias, ou seja, qualquer ataque realizado apenas com a força física (ou destreza) de alguém. Existem três tipos de dano físico, o dano cortante, o perfurante, e o contundente. Cada arma ou personagem que dê dano físico terá em sua descrição quais tipos de dano físico especificamente ele consegue causar. O dano cortante é normalmente causado por muitos tipos de armas, e basicamente trata-se de cortes que podem ser realizados em diferentes direções. O dano perfurante é quando se atinge o oponente com algum tipo de objeto ou habilidade capaz de perfurar, como um golpe de lança. O dano de impacto é normalmente causado por maças, e ataques baseados em força. Normalmente, usuários de armaduras não são resistentes a dano de impacto, como são dos outros, e ataques desarmados são considerados dano de impacto.
 
 ## Dano Ácido e Dano Venenoso
 
@@ -16,10 +16,10 @@ Dano ácido normalmente causa dano contínuo, e pode corroer equipamentos. Já o
 
 Existem alguns tipos de dano mágico, os quais são causados pelo uso de magias, armas mágicas, ou habilidades mágicas, sendo eles:
 
-Elementais: dano de fogo, elétrico (ou raio), e gelo. Os outros elementos de magias elementais causam basicamente algum tipo de dano físico, como dano de impacto arremessando uma rocha gigante no inimigo, ou dano cortante, fazendo uma lâmina de ar.
+Elementais: dano de fogo, elétrico (ou raio), e gelo. Os outros elementos de magias elementais causam basicamente algum tipo de dano físico, como dano contundente arremessando uma rocha gigante no inimigo, ou dano cortante, fazendo uma lâmina de ar.
 
-Sagrados: tipo de dano mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e magias sagradas.
+Sagrado: tipo de dano mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e magias sagradas.
 
-Sortilégios: tipo de dano mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de ataque, o que o torna versátil.
+Sortilégio: tipo de dano mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de ataque, o que o torna versátil.
 
-Sangue: os feitiços de sangue normalmente são usados a partir do próprio sangue do portador, e causam danos de sortilégio, cortante, dentre outros. No entanto, existem alguns feitiços que controlam o sangue do oponente, podendo causar danos internos. São raros e poderosos, mas neste caso, o dano é um que ignora resistências, mas não imunidades. Um esqueleto animado, por exemplo, não seria afetado por uma magia dessas, por motivos óbvios.
+Sangue: os feitiços de sangue normalmente são usados a partir do próprio sangue do portador, e causam danos de sortilégio, cortante, dentre outros. No entanto, existem algumas magias que controlam o sangue do oponente, podendo causar danos internos. São raros e poderosos, mas neste caso, o dano é um que ignora resistências, mas não imunidades. Um esqueleto animado, por exemplo, não seria afetado por uma magia dessas.

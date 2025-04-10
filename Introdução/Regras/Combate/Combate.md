@@ -24,7 +24,7 @@ Para um ataque obter sucesso (seja ele mágico ou físico) ele precisará penetr
 
 Servirá como uma métrica para determinar se um determinado ataque atingirá um oponente ou não. Ela é calculada da seguinte maneira:
 
-$CA = ArmaduraAtual+(for|dex)$
+$CA = ArmaduraAtual+(for+dex)$
 
 O jogador poderá escolher se usará força ou destreza no cálculo, essa escolha pode ser alterada toda vez que subir de nível, e a alteração será feita quando o personagem tiver um descanso longo. A armadura atual diz respeito a proteção externa utilizada pelo personagem.
 

@@ -1,28 +1,28 @@
 As perícias são basicamente habilidades individuais que os personagens dos jogadores possuem, e são utilizadas em ações que não dizem respeito a combate (ainda que possam ser utilizadas durante o combate). Existem algumas perícias para cada atributo, menos constituição, que não possui nenhuma. Caso o jogador não possua a perícia em questão, mas o mestre pedir um teste dessa perícia, ele rolará um teste relacionado ao atributo em questão. Por exemplo, se for um teste de atletismo, mas o jogador não for perito em atletismo, ele realizará um teste apenas com o bônus do modificador de força. Caso o jogador possua uma perícia ele deve aplicar o bônus de proficiência à jogada que necessite dessa perícia, o qual aumenta conforme o nível, substituindo o bônus de atributo. Veja a tabela a seguir para mais detalhes:
 
-|   |   |
-|---|---|
-|Nível|Bônus de proficiência|
-|1|+2|
-|2|+3|
-|3|+4|
-|4|+4|
-|5|+5|
-|6|+5|
-|7|+8|
-|8|+8|
-|9|+8|
-|10|+10|
-|11|+10|
-|12|+10|
-|13|+12|
-|14|+12|
-|15|+12|
-|16|+13|
-|17|+15|
-|18|+15|
-|19|+15|
-|20|+16|
+|       |                       |
+| ----- | --------------------- |
+| Nível | Bônus de proficiência |
+| 1     | +2                    |
+| 2     | +3                    |
+| 3     | +4                    |
+| 4     | +4                    |
+| 5     | +5                    |
+| 6     | +5                    |
+| 7     | +8                    |
+| 8     | +8                    |
+| 9     | +8                    |
+| 10    | +10                   |
+| 11    | +10                   |
+| 12    | +10                   |
+| 13    | +12                   |
+| 14    | +12                   |
+| 15    | +12                   |
+| 16    | +13                   |
+| 17    | +15                   |
+| 18    | +15                   |
+| 19    | +15                   |
+| 20    | +16                   |
 
 O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regras detalhadas na criação de personagens:
 

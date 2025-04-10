@@ -2,19 +2,19 @@
 
 Concede ao personagem o potencial de obter e utilizar mana, além de conjurar magias e arcanos menores. Além disso, tem também o dado de mana, que funciona similarmente ao dado de vida, concedendo mana adicional a cada nível de sabedoria. A quantidade de magias e arcanos menores que poderão ser equipados ao mesmo tempo aumenta conforme a quantidade de sabedoria, assim como a quantidade de magias que podem ser aprendidas.
 
-|Nível de Sabedoria|Magias Conhecidas|Magias Preparáveis|Arcanos Menores Conhecidos|Arcanos Menores Preparáveis|Dado de Mana|
-|---|---|---|---|---|---|
-|0|0|0|0|0|0|
-|1|4|3|2|2|1d4|
-|2|6|4|5|3|1d4|
-|3|10|6|6|4|1d4|
-|4|14|8|7|5|1d6|
-|5|18|10|8|5|1d6|
-|6|22|12|9|5|1d6|
-|7|26|14|10|5|1d8|
-|8|32|16|10|5|1d8|
-|9|35|18|10|5|1d8|
-|10|40|20|10|5|2d4|
+| Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
+| ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
+| 0                  | 0                 | 0                  | 0                          | 0                           | 0            |
+| 1                  | 4                 | 3                  | 2                          | 2                           | 1d4          |
+| 2                  | 6                 | 4                  | 5                          | 3                           | 1d4          |
+| 3                  | 10                | 6                  | 6                          | 4                           | 1d4          |
+| 4                  | 14                | 8                  | 7                          | 5                           | 1d6          |
+| 5                  | 18                | 10                 | 8                          | 5                           | 1d6          |
+| 6                  | 22                | 12                 | 9                          | 5                           | 1d6          |
+| 7                  | 26                | 14                 | 10                         | 5                           | 1d8          |
+| 8                  | 32                | 16                 | 10                         | 5                           | 1d8          |
+| 9                  | 35                | 18                 | 10                         | 5                           | 1d8          |
+| 10                 | 40                | 20                 | 10                         | 5                           | 2d4          |
 
 [[Introdução/Habilidades/Sabedoria/Nível 1|Nível 1]]
 

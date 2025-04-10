@@ -12,19 +12,19 @@ Espíritos da floresta: o gnomo da natureza pode se comunicar com os espíritos 
 
 Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede um aumento de armadura.
 
-|Nível do gnomo|Armadura adicional|
-|---|---|
-|1|1|
-|5|3|
-|13|4|
-|19|6|
+| Nível do gnomo | Armadura adicional |
+| -------------- | ------------------ |
+| 1              | 1                  |
+| 5              | 3                  |
+| 13             | 4                  |
+| 19             | 6                  |
 
 ### Segunda forma
 
 Seu corpo absorve energia do sol e energiza o gnomo, concedendo a ele um aumento no deslocamento, que passa a ser 18m. Ganha bônus em jogadas de ataque, sendo ataques físicos ou mágicos, tanto para acertar, quanto para dar dano.
 
-|Nível do gnomo|Bônus de Ataque adicional|
-|---|---|
-|1|2|
-|7|4|
-|15|6|
+| Nível do gnomo | Bônus de Ataque adicional |
+| -------------- | ------------------------- |
+| 1              | 2                         |
+| 7              | 4                         |
+| 15             | 6                         |
