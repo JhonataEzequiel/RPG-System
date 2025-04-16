@@ -15,4 +15,4 @@ Os modificadores servirão em testes, que serão detalhados mais a frente. O mod
 
 Caso a sigla esteja em algum lugar das regras de algo, será o modificador que deverá ser usado. Caso não, o atributo em si é que contará.
 
-O operador “ | “ significa “ou”. É usado para indicar que o jogador pode escolher entre os modificadores dos atributos apresentados. Por exemplo: 2d4 + (int | fth), significa “rode 2d4 e some o resultado ao seu modificador de inteligência ou fé.”
+É possível que o jogador se depare com algo parecido com isso: "2d4 + (int ou fth)", isso significa que ele poderá escolher um dos dois modificadores para usar. 
