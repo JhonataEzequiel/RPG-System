@@ -20,6 +20,10 @@ Cada jogador terá um turno aonde poderá decidir o que vai fazer durante um com
 
 Para um ataque obter sucesso (seja ele mágico ou físico) ele precisará penetrar a armadura do oponente (CA). O jogador usará o modificador especificado em seu ataque para realizar esse teste. Caso ocorra um acerto crítico, o dano total que for infligido dobrará. Caso ocorra um erro crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
 
+## Ataques Com Empunhadura Dupla
+
+Se o jogador optar por usar duas armas de uma mão ao mesmo tempo, suas penalidades por ataques subsequentes aumentarão em relação a uma arma só. De -5 no segundo ataque irá para -10, e de -10 no terceiro para -15. É possível se livrar dessas penalidades adicionais conseguindo habilidades que proporcionem isso.
+
 ## Coeficiente de Armadura (CA)
 
 Servirá como uma métrica para determinar se um determinado ataque atingirá um oponente ou não. Ela é calculada da seguinte maneira:
