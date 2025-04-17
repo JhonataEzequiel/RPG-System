@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Introdução/Habilidades/Sabedoria/Sabedoria.md",
+                "file": "Introdução/Habilidades/Sabedoria/Nível 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sabedoria"
+              "title": "Nível 10"
             }
           }
         ]
@@ -167,6 +167,18 @@
   },
   "active": "2d979ca6911cd4a9",
   "lastOpenFiles": [
+    "Introdução/Habilidades/Força/Nível 4.md",
+    "Introdução/Habilidades/Força/Nível 3.md",
+    "Introdução/Habilidades/Força/Nível 2.md",
+    "Introdução/Habilidades/Força/Nível 1.md",
+    "Introdução/Habilidades/Força/Nível 10.md",
+    "Introdução/Habilidades/Força/Nível 9.md",
+    "Introdução/Habilidades/Força/Nível 8.md",
+    "Introdução/Habilidades/Força/Nível 7.md",
+    "Introdução/Habilidades/Força/Nível 6.md",
+    "Introdução/Habilidades/Carisma/Nível 2.md",
+    "Introdução/Habilidades/Carisma/Nível 1.md",
+    "Introdução/Habilidades/Sabedoria/Sabedoria.md",
     "Introdução/Habilidades/Sabedoria/Nível 9.md",
     "Introdução/Habilidades/Sabedoria/Nível 10.md",
     "Introdução/Habilidades/Sabedoria/Nível 8.md",
@@ -177,21 +189,9 @@
     "Introdução/Habilidades/Sabedoria/Nível 3.md",
     "Introdução/Habilidades/Sabedoria/Nível 2.md",
     "Introdução/Habilidades/Sabedoria/Nível 1.md",
-    "Introdução/Habilidades/Sabedoria/Sabedoria.md",
     "Introdução/Regras/Perícias.md",
     "Introdução/Raças/Raças.md",
     "Introdução/Raças/Siderium.md",
-    "Introdução/Raças/Fjer.md",
-    "Introdução/Raças/Elfo.md",
-    "Introdução/Raças/Humano.md",
-    "Introdução/Raças/Gnomo.md",
-    "Introdução/Regras/Criação de Personagens/Criação de Personagens.md",
-    "Introdução/Habilidades/Força/Nível 1.md",
-    "Introdução/Habilidades Extras/Nível 3.md",
-    "Introdução/Regras/Combate/Combate.md",
-    "Introdução/Habilidades/Destreza/Nível 10.md",
-    "Introdução/Habilidades/Destreza/Nível 9.md",
-    "Introdução/Habilidades/Destreza/Nível 8.md",
-    "Introdução/Habilidades/Destreza/Nível 7.md"
+    "Introdução/Raças/Fjer.md"
   ]
 }
