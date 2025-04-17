@@ -4,7 +4,7 @@ Os siderium são parentes distantes dos elfos, que compartilham de uma origem em
 
 Os diurnus possuem pele branca ou amarelada e cabelos que refletem um céu noturno, como se fosse possível ver o espaço sideral através deles. Eles recebem e convertem a energia das luzes, e a utilizam para ficar mais fortes.
 
-**Helius (Ação Bônus):** Caso fiquem 8 horas em contato direto com uma forte luz, recebem os benefícios de um descanso longo sem precisar descansar, a hora que desejarem. Só podem usar essa habilidade uma vez por semana.
+**Helius (Ação Bônus):** Caso fiquem 8 horas em contato direto com uma forte luz, recebem os benefícios de um descanso longo sem precisar descansar, a hora que desejarem. Só podem usar essa habilidade uma vez até se energizarem de novo.
 
 Só podem se curar por meio de descansos ou magias de cura, e não podem descansar em locais completamente escuros, devendo haver ao menos uma fonte de luz mínima que os energize, como uma tocha.
 

@@ -1,6 +1,10 @@
 ## Conhecimento Arcano (Nível 0):
 
-Concede ao personagem o potencial de obter e utilizar mana, além de conjurar magias e arcanos menores. Além disso, tem também o dado de mana, que funciona similarmente ao dado de vida, concedendo mana adicional a cada nível de sabedoria. A quantidade de magias e arcanos menores que poderão ser equipados ao mesmo tempo aumenta conforme a quantidade de sabedoria, assim como a quantidade de magias que podem ser aprendidas.
+Concede ao personagem o potencial de obter e utilizar mana, além de conjurar magias e arcanos menores. Além disso, tem também o dado de mana, que funciona similarmente ao dado de vida, concedendo mana adicional a cada nível de sabedoria. A quantidade de magias e arcanos menores que poderão ser equipados ao mesmo tempo aumenta conforme a quantidade de sabedoria, assim como a quantidade de magias que podem ser aprendidas. 
+
+Ao melhor seu atributo de sabedoria, você poderá escolher novas magias da lista de magias de acordo com o número listado em "Magias Conhecidas", na tabela abaixo. Você pode escolher até magias de nível alto, mas deverá atender aos requisitos para usá-las.
+
+Caso o número de magias preparadas seja maior do que o de conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer, caso alguma habilidade deixe você preparar mais magias do que o número da tabela abaixo.
 
 | Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
