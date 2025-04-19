@@ -27,6 +27,6 @@ Escolha dentre um dos seguintes estilos de luta. O jogador só poderá escolher 
 
 **Empunhadura Dupla:** O jogador se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus igual a 1d6 + des em suas rolagens de dano.
 
-**Empunhadura Única:** Caso esteja utilizando apenas uma arma de uma mão, e mais nada na outra arma, consegue utilizar esta arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de ataque e de dano igual a 1d6 + for. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus igual ao modificador de destreza na CA.
+**Empunhadura Única:** Caso esteja utilizando apenas uma arma de uma mão, e mais nada na outra mão, consegue utilizar esta arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de ataque e de dano igual a 1d6 + for. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus igual ao modificador de destreza na CA.
 
 **Posição de Poder:** Caso o jogador esteja utilizando uma arma de duas mãos, ele poderá utilizar ela em apenas uma mão, só que terá -1 em suas rolagens de ataque. Ao alcançar o nível 5 em força e destreza, poderá utilizar uma arma de duas mãos em cada mão, sem sofrer penalidades adicionais por isso.

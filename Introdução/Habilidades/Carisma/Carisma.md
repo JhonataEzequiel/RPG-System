@@ -2,6 +2,8 @@
 
 O usuário tem a capacidade de inspirar seus aliados até 6 metros de distância do usuário, podendo conceder diversos bônus à todos, que ficam melhores de acordo com o nível de carisma do personagem.
 
+**Custo:** ação bônus.
+
 |                  |             |          |
 | ---------------- | ----------- | -------- |
 | Nível de Carisma | Bônus de HP | Vantagem |

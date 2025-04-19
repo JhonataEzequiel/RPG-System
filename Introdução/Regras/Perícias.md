@@ -54,5 +54,5 @@ O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regr
 
 ## Carisma
 
-1. Conversação: determina a capacidade do jogador de intimidar, persuadir, ou barganhar com outros personagens. Podendo encerrar batalhas, ou iniciar outras, dependendo das circunstâncias,
+1. Conversação: determina a capacidade do jogador de intimidar, persuadir, ou barganhar com outros personagens. Podendo encerrar batalhas, ou iniciar outras, dependendo das circunstâncias.
 2. Atuação: determina a capacidade de se passar por outros personagens, ou enganar alguém.
