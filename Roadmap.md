@@ -3,8 +3,8 @@
 3->Escolher quantas habilidades vai ficar (Feito) 
 	144 habilidades 60 normais, 84 extras
 4->Popular o banco de dados das habilidades
-	4.1->Popular as habilidades básicas
-	4.2->Popular as habilidades extras
+	4.1->Popular as habilidades básicas (60 totais, 30 faltando)
+	4.2->Popular as habilidades extras (84 totais, 80 faltando)
 5->Popular magias
 	5.1->Adaptar magias de outros sistemas
 	5.2->Adicionar novas magias elementais
