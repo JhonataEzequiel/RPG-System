@@ -15,4 +15,7 @@
 	7.2->Criar novos equipamentos baseados na lore (Poucos)
 8->Bestiário
 	8.1->Adaptar criaturas padrão de outros rpgs (goblins, dragões, etc)
+		8.1.1->Balanceamento Focado nessas criaturas novas
 	8.2->Criar novas criaturas
+9->Playtest para versão alfa
+	9.1->Ajustes finos
