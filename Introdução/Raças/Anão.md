@@ -1,4 +1,4 @@
-Anões possuem a capacidade imbuir equipamentos de acordo com as suas propriedades fazendo uso de runas mágicas que drenam o poder de certos minerais. No total, os anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e não podem repetir as runas. O custo para aplicar uma runa em algum equipamento é de apenas uma ação.
+Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de runas mágicas que drenam o poder de certos minerais. No total, os anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e não podem repetir as runas. O custo para aplicar uma runa em algum equipamento é de apenas uma ação.
 
 ## Runa de diamante
 
