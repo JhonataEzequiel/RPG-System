@@ -21,3 +21,16 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 **Pontífice (ativa)**
 **Custo:** três ações. **Duração:** 1 encontro.
 **Descrição:** Ao usar essa habilidade, põe uma aura curativa ao seu redor. Essa aura recupera 3d6 + fth de vida de todos os aliados até 9m de você ao final do seu turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + fth de dano radiante. Aliados nocauteados já começam com um acerto no salva guarda.
+
+## Gnose
+### _Atributos_: Inteligência e Fé
+
+Seu intelecto transcende a materialidade de sua mente, e seu conhecimento penetra nas camadas mais profundas da sua alma. 
+
+Seu modificador de inteligência e fé serão somados em um só modificador de um novo atributo chamado "Conhecimento". Seu modificador será "con" +10. Sempre que rodar um teste de fé ou inteligência, utilize esse modificador. Além disso, quaisquer habilidades que usem do nível do atributo ao invés do modificador, agora terão +20. Este atributo terá apenas um nível, e concederá a escolha de uma das seguintes habilidades:
+
+**Estudioso (passiva):**  Suas magias elementais ou sagradas de nível 1 e 2 serão consideradas como arcanos menores. Suas magias de nível máximo tem o custo reduzido em 1.
+
+**Transcendente (passiva):** Você consegue aprender qualquer idioma só de ouvi-lo ou lê-lo uma única vez. Além disso, pode se comunicar com seres de outros planos telepaticamente, como deuses e outras entidades.
+
+**Imaterial (ativa):** Se seu corpo receber dano fatal, e você falhar nas salva guardas para não morrer, sua alma ainda continuará viva no plano físico. Você poderá escolher um novo corpo médio para se alocar. Você mantém todas as suas habilidades, mas com exceção de fé, inteligência, e sabedoria, todos os seus atributos passam a ser iguais aos daquele corpo. Só pode fazer isso uma vez.
