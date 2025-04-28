@@ -1,14 +1,15 @@
 ## Devoção (Nível 0):
 
-O jogador deverá escolher algo que o guia. Seja uma divindade, uma entidade maligna, ou um lema moral. O guia deverá ser aprovado pelo mestre, que ditará os requisitos para segui-lo. Uma vez escolhido, o jogador ganhará bônus de acordo com a tendência de seu guia, e com seu nível de fé. Os bônus serão os seguintes:
+A devoção demonstrada pela sua dedicação será recompensada. A cada nível de fé, certas ações se tornarão mais fáceis de serem executadas. Quanto maior seu nível de fé, maior deverá ser sua devoção à uma causa, um ideal, uma divindade, ou um lema. Você pode optar por ganhar um dos bônus abaixo, caso deseje se tornar um devoto de alguém que não seja uma divindade ou entidade, visto que estes seres terão seus próprios benefícios e requisitos para segui-los. Caso você opte por não seguir uma divindade ou entidade, e traia os requisitos para isso, decididos pelo mestre, você perderá os benefícios dessa habilidade até reatar-se com seu ideal.
 
-|         | Bom                                                                                                | Neutro                                                                                            | Mal                                                                                                      |
-| ------- | -------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------- |
-| Caótico | Todo dano causado por ataques mágicos terá um adicional de dano sagrado igual ao modificador de fé | O bônus de proficiência de uma perícia de sabedoria é agora somado também ao modificador de fé    | Todo dano causado por ataques mágicos terá um adicional de dano de sortilégio igual ao modificador de fé |
-| Neutro  | Toda vez que o modificador de fé aumentar ganha um ponto de atuação                                | O bônus de proficiência de uma perícia de fé é agora somado também ao modificador de fé           | Toda vez que o modificador de fé aumentar ganha um ponto de atuação                                      |
-| Leal    | Todo dano causado por ataques físicos terá um adicional de dano sagrado igual ao modificador de fé | O bônus de proficiência de uma perícia de constituição é agora somado também ao modificador de fé | Todo dano causado por ataques físicos terá um adicional de dano de sortilégio igual ao modificador de fé |
+| Nível de Fé | Bônus na CA | Inspiração por descanso longo |
+| ----------- | ----------- | ----------------------------- |
+| 1 a 3       | 0           | 0                             |
+| 4 a 6       | 0           | 0                             |
+| 7 a 8       | 1           | 1                             |
+| 9 a 10      | 2           | 1                             |
 
-Caso o jogador traia seus princípios, como fazer algo que sua divindade desaprova, ele perderá qualquer bônus dessa habilidade até reatar-se com seu guia, ou escolher outro.
+Alternativamente, você pode ser um devoto sem causa. Neste caso, você pode adicionar seu modificador de fé quando recuperar vida num descanso longo.
 
 [[Introdução/Habilidades/Fé/Nível 1|Nível 1]]
 

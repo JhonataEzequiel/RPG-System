@@ -2,8 +2,6 @@
 
 O jogador escolherá um dentre os 3 elementos que causam dano elemental: fogo, raio, ou gelo. Uma vez escolhido, ele ganhará alguns benefícios de acordo com o nível de inteligência dele, sendo eles: resistência contra aquele elemento, e dano adicional daquele elemento. Ambos serão iguais ao nível de inteligência. O dano adicional só é aplicado quando o personagem causar dano daquele elemento, seja com magias, itens mágicos, ou habilidades. O dano e a resistência adicionais serão do mesmo tipo que o elemento escolhido.
 
-O jogador também pode optar por escolher outro tipo de dano mágico que não seja elemental. Ao fazer isso, os bônus serão iguais ao modificador, e não ao atributo de inteligência.
-
 [[Introdução/Habilidades/Inteligência/Nível 1|Nível 1]]
 
 [[Introdução/Habilidades/Inteligência/Nível 2|Nível 2]]
