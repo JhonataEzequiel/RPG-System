@@ -1,4 +1,4 @@
-8## Canção da Mana
+## Canção da Mana
 
 **Requisitos:** habilidade "Fluir da Mana" (habilidade de sabedoria de nível 2)
 
