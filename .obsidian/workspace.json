@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Nirvana RPG/Magias/Lista de Magias/Carisma.md",
+                "file": "Nirvana RPG/Regras Básicas/Criação de Personagens.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Carisma"
+              "title": "Criação de Personagens"
             }
           }
         ]
@@ -180,37 +180,37 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "7fe3edee52a46ec8",
+  "active": "a1f5c1796ca3a889",
   "lastOpenFiles": [
-    "Nirvana RPG/Magias/Lista de Magias/Inteligência.md",
-    "Nirvana RPG/Magias/Lista de Magias/Fé.md",
+    "Nirvana RPG/Regras Básicas/Carga de Peso.md",
+    "Nirvana RPG/Raças/Anão.md",
+    "Nirvana RPG/Raças/Humano.md",
+    "Nirvana RPG/Raças/Siderium.md",
+    "Nirvana RPG/Raças/Raças.md",
+    "Nirvana RPG/Raças/Gnomo.md",
+    "Nirvana RPG/Raças/Fjer.md",
+    "Nirvana RPG/Raças/Elfo.md",
+    "Nirvana RPG/Lista de Habilidades/Custo 1.md",
+    "Nirvana RPG/Lista de Habilidades/Custo 3.md",
+    "Nirvana RPG/Lista de Habilidades/Custo 2.md",
+    "Nirvana RPG/Regras Básicas/Níveis.md",
+    "Nirvana RPG/Regras Básicas/Perícias.md",
+    "Nirvana RPG/Regras Básicas/Criação de Personagens.md",
+    "Nirvana RPG/Magias/Imaculadas/Arcanos Menores.md",
+    "Nirvana RPG/Magias/Sortilégios/Custo 4.md",
+    "Nirvana RPG/Magias/Sortilégios/Custo 3.md",
+    "Nirvana RPG/Magias/Sortilégios/Custo 2.md",
+    "Nirvana RPG/Magias/Sortilégios/Custo 1.md",
     "Nirvana RPG/Magias/Lista de Magias/Carisma.md",
-    "Nirvana RPG/Magias/Lista de Magias/Lista de Magias.md",
+    "Nirvana RPG/Magias/Lista de Magias/Fé.md",
+    "Nirvana RPG/Magias/Imaculadas/Custo 5.md",
+    "Nirvana RPG/Magias/Imaculadas/Custo 8.md",
+    "Nirvana RPG/Magias/Imaculadas/Custo 7.md",
+    "Nirvana RPG/Magias/Imaculadas/Custo 6.md",
+    "Nirvana RPG/Magias/Imaculadas/Custo 3.md",
     "Nirvana RPG/Magias/Lista de Magias",
     "Nirvana RPG/Magias/Carisma",
     "Nirvana RPG/Magias/Fé",
-    "Nirvana RPG/Magias/Inteligência",
-    "Nirvana RPG/Magias/De Sangue/Custo 10.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 10.md",
-    "Nirvana RPG/Magias/De Sangue/Arcanos Menores.md",
-    "Nirvana RPG/Magias/De Sangue/Custo 2.md",
-    "Nirvana RPG/Magias/De Sangue/Custo 1.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 3.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 5.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 6.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 9.md",
-    "Nirvana RPG/Magias/Magias.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 4.md",
-    "Nirvana RPG/Magias/Sortilégios/Custo 8.md",
-    "Nirvana RPG/Magias/Sortilégios/Custo 6.md",
-    "Nirvana RPG/Magias/Sortilégios/Custo 4.md",
-    "Nirvana RPG/Magias/Elementais/Custo 3.md",
-    "Nirvana RPG/Magias/Sagradas/Custo 1.md",
-    "Nirvana RPG/Magias/Imaculadas/Custo 1.md",
-    "Nirvana RPG/Magias/Sagradas/Arcanos Menores.md",
-    "Nirvana RPG/Magias/De Ilusão/Arcanos Menores.md",
-    "Nirvana RPG/Magias/De Ilusão/Custo 1.md",
-    "Nirvana RPG/Magias/De Ilusão/Custo 3.md",
-    "Nirvana RPG/Magias/De Ilusão/Custo 2.md"
+    "Nirvana RPG/Magias/Inteligência"
   ]
 }

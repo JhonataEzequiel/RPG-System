@@ -21,7 +21,14 @@ Um personagem pode conhecer uma magia, equipá-la, ou não conhecê-la. Após um
 
   
 
-[[Lista de Magias]]
+Lista de Magias de Inteligência:
+[[Inteligência]]
+
+Lista de Magias de Fé:
+[[Fé]]
+
+Lista de Magias de Carisma:
+[[Carisma]]
 
 [[Elementais]]
 

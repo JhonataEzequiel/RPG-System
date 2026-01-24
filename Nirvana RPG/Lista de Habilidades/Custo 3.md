@@ -110,7 +110,7 @@ Você não poderá preparar mais magias do que você conhece.
 
 **Suplementar (ação bônus):** Você atingiu um patamar além do comum em seu pensamento, tornando sua mente mais afiada que uma lâmina. Ganha +2 níveis em todos os atributos. Duração de um encontro.
 
-**Elementar (passiva)**: ao adquirir essa habilidade, você poderá escolher outra habilidade qualquer, e ignora os requisitos de atributo para utiliza-la. Essa habilidade não pode ser trocada.
+**Elementar (passiva)**: ao adquirir essa habilidade, você poderá escolher outra habilidade qualquer, e ignora os requisitos de atributo para utiliza-la. A habilidade escolhida não pode ser trocada.
 
 ## Um com a terra
 

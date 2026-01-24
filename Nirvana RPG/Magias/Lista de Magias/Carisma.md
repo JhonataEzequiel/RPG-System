@@ -36,4 +36,4 @@ Fortificar Flora: 3 de carisma. Imaculada.
 
 Éden: 10 de carisma. Sagrada.
 
-Alterar Forma: 10 de carisma. Imaculada
+Alterar Forma: 10 de carisma. Imaculada.

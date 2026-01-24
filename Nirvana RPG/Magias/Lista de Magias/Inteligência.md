@@ -38,6 +38,8 @@ Troca: 5 de inteligência. Imaculada.
 
 ### Custo 6:
 
+Chuva de Magma: 6 de inteligência. Elemental.
+
 ### Custo 7:
 
 ### Custo 8:
