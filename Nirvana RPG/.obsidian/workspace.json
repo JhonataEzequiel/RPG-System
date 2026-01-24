@@ -1,20 +1,24 @@
 {
   "main": {
-    "id": "83843651a9903b84",
+    "id": "19e2df83bd4eeeab",
     "type": "split",
     "children": [
       {
-        "id": "bbf9c0991f15c10f",
+        "id": "049e1f1680115680",
         "type": "tabs",
         "children": [
           {
-            "id": "ccee26800c72de26",
+            "id": "aa422bf637906acb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Lista de Habilidades/Custo 1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Custo 1"
             }
           }
         ]
@@ -23,15 +27,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "151867d81db33958",
+    "id": "bf82b1e1cd391adf",
     "type": "split",
     "children": [
       {
-        "id": "660f78cd4e93ef47",
+        "id": "ba4b75b2cbe9231c",
         "type": "tabs",
         "children": [
           {
-            "id": "7fe3edee52a46ec8",
+            "id": "a98fd579995a2474",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -44,7 +48,7 @@
             }
           },
           {
-            "id": "b24750f658589b9e",
+            "id": "7b7aa9a543823880",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -61,7 +65,7 @@
             }
           },
           {
-            "id": "64a03bd4c86d4496",
+            "id": "92c0d00842cdace0",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -77,19 +81,20 @@
     "width": 300
   },
   "right": {
-    "id": "93e79d587face600",
+    "id": "b54c2c79ccd90741",
     "type": "split",
     "children": [
       {
-        "id": "04f1f4f5f7afb7ba",
+        "id": "f8a7035e1b566773",
         "type": "tabs",
         "children": [
           {
-            "id": "50b6dca5b4feb8cf",
+            "id": "af8e51633473e848",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Lista de Habilidades/Custo 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,24 +104,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Links inversos para Custo 1"
             }
           },
           {
-            "id": "1c59145b501ea8da",
+            "id": "6e73c64b69694ff7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Lista de Habilidades/Custo 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Links de saída"
+              "title": "Links de saída para Custo 1"
             }
           },
           {
-            "id": "21d1e2c5b989cdfe",
+            "id": "2ca5241d83eea3e5",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -131,7 +137,7 @@
             }
           },
           {
-            "id": "976229b0c319ba60",
+            "id": "9206afd85dceb1b4",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -145,17 +151,18 @@
             }
           },
           {
-            "id": "8a8ba4d16e3177e5",
+            "id": "34e2a79973a16bf5",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
+                "file": "Lista de Habilidades/Custo 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Sumário"
+              "title": "Sumário de Custo 1"
             }
           }
         ]
@@ -176,6 +183,43 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "ccee26800c72de26",
-  "lastOpenFiles": []
+  "active": "aa422bf637906acb",
+  "lastOpenFiles": [
+    "Lista de Habilidades/Custo 2.md",
+    "Lista de Habilidades/Custo 3.md",
+    "Lista de Habilidades/Custo 1.md",
+    "Raças/Fjer.md",
+    "Magias/Sagradas/Custo 10.md",
+    "Magias/Sagradas/Custo 1.md",
+    "Regras Básicas/Níveis.md",
+    "Regras Básicas/Criação de Personagens.md",
+    "Regras Básicas/Habilidades.md",
+    "Regras Básicas/Índice.md",
+    "Introdução.md",
+    "Regras Básicas/Combate/Índice.md",
+    "Magias/Lista de Magias.md",
+    "Raças/Anão.md",
+    "Magias/Magias.md",
+    "Magias/Sortilégios/Sortilégios.md",
+    "Magias/Sortilégios/Custo 9.md",
+    "Magias/Sortilégios/Custo 8.md",
+    "Magias/Sortilégios/Custo 7.md",
+    "Magias/Sortilégios/Custo 6.md",
+    "Magias/Sortilégios/Custo 5.md",
+    "Magias/Sortilégios/Custo 4.md",
+    "Magias/Sortilégios/Custo 3.md",
+    "Magias/Sortilégios/Custo 2.md",
+    "Magias/Sortilégios/Custo 10.md",
+    "Magias/Sortilégios/Custo 1.md",
+    "Magias/Sortilégios",
+    "Magias/Sagradas",
+    "Magias/Imaculadas",
+    "Magias/Elementais",
+    "Magias/De Sangue",
+    "Magias/De Ilusão",
+    "Magias",
+    "Raças",
+    "Lista de Habilidades",
+    "Regras Básicas/Habilidades"
+  ]
 }
