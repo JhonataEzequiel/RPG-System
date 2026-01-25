@@ -138,6 +138,6 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 
 Requisitos: 10 de sabedoria, 10 de fé, e 5 de inteligência.
 
-Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 2 magias da sua lista de magia. Elas não custarão mais mana para serem conjuradas, e também não terão mais pré-requisitos. Você também ignora os requisitos adicionais da magia. Além disso, você ganha 1 ponto de atributo e 1 ponto de habilidade.
+Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 magia da sua lista de magia. Ela não custará mais mana para ser conjurada, e também não terá mais pré-requisitos. Você também ignora os requisitos adicionais da magia. Além disso, você ganha 1 ponto de atributo e 1 ponto de habilidade.
 
 Alternativamente, você pode realocar os seus atributos da maneira que quiser. Também pode trocar a raça do seu personagem, além da aparência dele. Isto só pode ser feito uma vez. Fazendo isso, você cessará sua conexão com uma divindade ou patrono, caso tenha algum. Você mantém seus níveis, mas pode escolher novas habilidades e magias. No entanto, não pode trocar as perícias.

@@ -6,6 +6,8 @@ Espalhar Sangue Fervente: 1 de inteligência, 1 de fé. Sangue.
 
 Raio de Fogo: 1 de inteligência. Elemental.
 
+Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.

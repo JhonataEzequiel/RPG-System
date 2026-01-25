@@ -10,6 +10,8 @@ Estabilizar: 1 de fé. Sagrada.
 
 Benção: 1 de fé. Sagrada.
 
+Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé. Sagrada.
