@@ -133,3 +133,11 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 **Pontífice (ativa)**:
 **Custo:** três ações. **Duração:** 1 encontro.
 **Descrição:** Ao usar essa habilidade, põe uma aura curativa ao seu redor. Essa aura recupera 3d6 + fth de vida de todos os aliados até 9m de você ao final do seu turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + fth de dano radiante. Aliados nocauteados já começam com um acerto no salva guarda.
+
+## Gnose
+
+Requisitos: 10 de sabedoria, 10 de fé, e 5 de inteligência.
+
+Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 2 magias da sua lista de magia. Elas não custarão mais mana para serem conjuradas, e também não terão mais pré-requisitos. Você também ignora os requisitos adicionais da magia.
+
+Alternativamente, você pode realocar os seus atributos da maneira que quiser, uma vez. Fazendo isso, você cessará sua conexão com o divino permanentemente. Em troca, você ganha todas as perícias disponíveis, independente do atributo.

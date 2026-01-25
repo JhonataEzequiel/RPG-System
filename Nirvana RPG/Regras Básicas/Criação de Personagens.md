@@ -76,11 +76,10 @@ Os maus são egocêntricos e buscam interferir negativamente na vida dos outros,
 
 As tendências disponíveis para um personagem são as seguintes:
 
-|   |   |   |
-|---|---|---|
-|Caótico bom|Caótico neutro|Caótico mal|
-|Neutro bom|Neutro Puro|Neutro mal|
-|Leal bom|Leal neutro|Leal mal|
+| Caótico bom | Caótico neutro | Caótico mal |
+| ----------- | -------------- | ----------- |
+| Neutro bom  | Neutro Puro    | Neutro mal  |
+| Leal bom    | Leal neutro    | Leal mal    |
 
 ## Traços de personalidade
 
