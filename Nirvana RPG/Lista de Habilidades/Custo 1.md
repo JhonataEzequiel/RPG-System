@@ -181,3 +181,9 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 Requisitos: 1 de cada atributo.
 
 A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. A partir do nível 10 pode ignorar o limite de nível máximo de atributo.
+
+## Bom Início
+
+Requisitos: Esta habilidade só pode ser escolhida no nível 1
+
+Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limite máximo para o nível de um atributo. Além disso, adicione 1d4 aos seus pontos de vida.
