@@ -10,6 +10,7 @@ Os modificadores servirão em testes, que serão detalhados mais a frente. O mod
 - Força: “for”
 - Destreza: “dex”
 - Sabedoria: “sab”
+- Inteligência: "int"
 - Fé: “fth”
 - Carisma: “car”
 
