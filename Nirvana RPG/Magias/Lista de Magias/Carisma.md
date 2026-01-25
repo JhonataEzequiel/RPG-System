@@ -10,6 +10,8 @@ Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
 
 Ajuda: 1 de fé, 1 de carisma. Imaculada.
 
+Falar com Animais: 1 de carisma. Imaculada.
+
 ### Custo 2:
 
 Alterar Forma (incompleta): 2 de carisma. Imaculada.

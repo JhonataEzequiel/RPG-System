@@ -29,3 +29,13 @@
 - Tempo de Conjuração: Duas ações
 
 **Descrição:** Conjura uma proteção mágica em volta do alvo, substituindo a CA dele para 13 + dex.
+
+### Falar com Animais
+
+- Custo: 1
+- Requisito em Carisma: 1
+- Duração: 1 hora
+- Alcance: 48 metros
+- Tempo de Conjuração: 2 ações
+
+**Descrição:** Você é capaz de se comunicar com animais. Você entende a língua deles, seja ela qual for, e também é entendido por eles. Para outros indivíduos fora da conversa, você imitará quaisquer barulhos que aquele animal normalmente faria. Por exemplo, alguém poderia te ver falando com um cachorro, e você estaria latindo para o cachorro.

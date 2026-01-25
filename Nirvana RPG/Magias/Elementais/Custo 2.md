@@ -10,7 +10,7 @@
 
 Caso haja uma fonte de água próxima com, no mínimo, 10 litros de água, você pode utilizar essa água como matéria prima da espada, reduzindo o custo da magia em 1 ponto.
 
-Você também pode aumentar o dano da espada em 1d8 adicionando 1 ponto ao custo total.
+Você também pode aumentar o dano da espada em 1d8 gastando um ponto de mana adicional.
 
 ### Pele de Pedra
 
@@ -20,7 +20,7 @@ Você também pode aumentar o dano da espada em 1d8 adicionando 1 ponto ao custo
 - Alcance: si mesmo
 - Tempo de Conjuração: 1 ação
 
-**Descrição:** Você adiciona uma camada por cima da superfície da sua pele, aumentando sua CA em 1d4 + 1, mas diminuindo seu deslocamento em 4.5m.
+**Descrição:** Você adiciona uma camada por cima da superfície da sua pele, aumentando sua CA em 1d4 + for, mas diminuindo seu deslocamento em 4.5m. Gastando um ponto de mana adicional, você não tem mais a penalidade no seu deslocamento.
 
 ### Proteção Elemental
 

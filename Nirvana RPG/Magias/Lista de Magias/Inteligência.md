@@ -4,6 +4,8 @@ Conjurar Luz: 1 de inteligência. Imaculada.
 
 Espalhar Sangue Fervente: 1 de inteligência, 1 de fé. Sangue.
 
+Raio de Fogo: 1 de inteligência. Elemental.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -23,6 +25,8 @@ Lâmina D’água: 2 de inteligência. Elemental.
 Pele de Pedra: 2 de inteligência. Elemental.
 
 Proteção Elemental: 2 de inteligência. Elemental.
+
+Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
 
 ### Custo 3:
 

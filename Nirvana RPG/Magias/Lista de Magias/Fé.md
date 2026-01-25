@@ -22,6 +22,8 @@ Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
 
+Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
+
 ### Custo 3:
 
 ### Custo 4:
