@@ -32,7 +32,7 @@ Concede ao personagem o potencial de obter e utilizar mana, além de conjurar ma
 
 Ao melhorar seu atributo de sabedoria, você poderá escolher novas magias da lista de magias de acordo com o número listado em "Magias Conhecidas" na tabela abaixo. Você pode escolher até magias de nível alto, mas deverá atender aos requisitos para usá-las.
 
-Caso o número de magias preparadas seja maior do que o de conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer, caso alguma habilidade deixe você preparar mais magias do que o número da tabela abaixo.
+O número de magias preparadas nunca poderá ser maior que o de magias conhecidas, caso o número de magias preparadas venha a ser maior do que o de conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer, caso alguma habilidade deixe você preparar mais magias do que o número da tabela abaixo.
 
 | Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
