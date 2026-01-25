@@ -14,7 +14,7 @@ $Iniciativa = D20+dex$
 
 Cada jogador terá um turno aonde poderá decidir o que vai fazer durante um combate. Um turno dura em média 10 segundos no mundo dos personagens, mas o jogador poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três ações diferentes em seu turno, com exceção, é claro, das ações bônus, que podem ser usadas independentemente desse limite, e de algumas ações livres. Normalmente ações corriqueiras como atacar ou correr consomem apenas uma ação, mas existem casos em que habilidades e magias podem consumir mais do que uma ação, caso sejam fortes o suficiente para isso. O custo em ações estará detalhado em cada habilidade. Ações básicas como correr, se esconder, atacar, etc, consumirão apenas uma ação. Uma rodada é a junção dos turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu turno, a rodada acaba e começa-se outra.
 
-É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, utilizar magia, atacar, ou usar um arcano menor mais do que uma vez num turno, ele terá uma penalidade de -5 na segunda jogada. Caso use a mesma ação 3x, terá uma penalidade de -10. Ações que não precisam de testes, a não ser que seja uma magia ou arcano menor, não terão penalidades em serem repetidas.
+É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, utilizar a mesma magia, a ação de atacar, ou usar um mesmo arcano menor mais do que uma vez num turno ele terá penalidades, por exemplo: se ele bater na primeira ação, caso ele queira bater de novo ele terá -5 na segunda rolagem. Caso use a mesma ação 3x, terá uma penalidade de -10. Ações que não precisam de testes, a não ser que seja uma magia ou arcano menor, não terão penalidades em serem repetidas.
 
 ## Ataques
 
@@ -30,7 +30,7 @@ Servirá como uma métrica para determinar se um ataque atingirá um oponente ou
 
 $CA = ArmaduraAtual+(for+dex)$
 
-O jogador poderá escolher se usará força ou destreza no cálculo, essa escolha pode ser alterada toda vez que subir de nível, e a alteração será feita quando o personagem tiver um descanso longo. A armadura atual diz respeito a proteção externa utilizada pelo personagem.
+A armadura atual diz respeito a proteção externa utilizada pelo personagem, caso ele não possua armadura atual, ela será considerada como 10.
 
 ## Dano de armas, magias, e ataques dos monstros
 
