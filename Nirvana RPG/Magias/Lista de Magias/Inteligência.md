@@ -10,7 +10,9 @@ Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
 
 Alarme: 1 de inteligência. Imaculada.
 
-Armadura Arcana: 1 de inteligência. Imaculada
+Armadura Arcana: 1 de inteligência. Imaculada.
+
+Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 
 ### Custo 2:
 
@@ -19,6 +21,8 @@ Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
 Lâmina D’água: 2 de inteligência. Elemental.
 
 Pele de Pedra: 2 de inteligência. Elemental.
+
+Proteção Elemental: 2 de inteligência. Elemental.
 
 ### Custo 3:
 
@@ -29,6 +33,8 @@ Teletransporte: 3 de inteligência. Imaculada.
 ### Custo 4:
 
 Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
+
+Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 ### Custo 5:
 

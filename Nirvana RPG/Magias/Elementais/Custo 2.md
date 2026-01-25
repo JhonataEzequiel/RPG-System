@@ -21,3 +21,13 @@ Você também pode aumentar o dano da espada em 1d8 adicionando 1 ponto ao custo
 - Tempo de Conjuração: 1 ação
 
 **Descrição:** Você adiciona uma camada por cima da superfície da sua pele, aumentando sua CA em 1d4 + 1, mas diminuindo seu deslocamento em 4.5m.
+
+### Proteção Elemental
+
+- Custo: 2
+- Requisito em Inteligência: 2
+- Duração: 1 hora
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você toca em um alvo que é revestido por uma proteção mágica oferecendo 10 pontos de resistência a um tipo de dano elemental. Você também pode gastar mais pontos de mana para aumentar em 5 pontos a resistência concedida.

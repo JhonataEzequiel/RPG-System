@@ -29,3 +29,6 @@
 - Sabedoria da coruja: O alvo tem vantagem em testes de sabedoria, e 1d4 a mais no dado de mana.
 - Vigor do urso: O alvo tem vantagem em testes de constituição, e também recebe 2d6 de pontos de vida temporários que são perdidos ao final da magia.
 - Paciência da tartaruga: O alvo tem vantagem em testes de fé
+
+
+

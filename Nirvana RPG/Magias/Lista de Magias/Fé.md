@@ -16,6 +16,8 @@ Cura Menor: 1 de fé. Sagrada.
 
 Ajuda: 1 de fé, 1 de carisma. Imaculada.
 
+Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -27,6 +29,8 @@ Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
 Bola de Fogo Sagrada: 4 de fé. Sagrada.
 
 Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
+
+Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 ### Custo 5:
 

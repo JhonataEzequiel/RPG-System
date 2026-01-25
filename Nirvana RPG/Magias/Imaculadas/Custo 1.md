@@ -7,7 +7,7 @@
 - Alcance: 9m em volta do usuário
 - Tempo de Conjuração: 1
 
-**Descrição:** Adiciona 5 pontos de vida na vida máxima e na atual durante a duração, que desaparecem quando ela acaba. O jogador deverá escolher até 3 criaturas no alcance para serem alvos dessa magia.
+**Descrição:** Adiciona 5 pontos de vida na vida máxima e na atual durante a duração, que desaparecem quando a magia acaba. O jogador deverá escolher até 3 criaturas no alcance para serem alvos dessa magia.
 
 ### Alarme
 
