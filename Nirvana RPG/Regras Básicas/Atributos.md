@@ -14,11 +14,11 @@ A destreza de um personagem é o atributo chave para realizar atividades que nec
 
 ## Sabedoria
 
-Ideal para classes mágicas, esse atributo ditará a quantidade de magias que se pode equipar ao mesmo tempo e a quantidade de mana disponível. Também é usada como métrica em testes que envolver o conhecimento sobre algo.
+Ideal para classes mágicas, esse atributo ditará a quantidade de magias que se pode equipar ao mesmo tempo e a quantidade de mana disponível. Representa a experiência prática, a percepção do mundo, e conhecimento adquirido pela vivência.
 
 ## Inteligência
 
-Magias elementais, sortilégios, e magias de sangue precisam deste atributo para serem usadas. Quais magias se pode usar, além do dano causado por elas, são determinados por esse atributo. Além disso, testes que envolvam resolver enigmas, mistérios, ou coisas similares, vão ser feitos com esse atributo.
+Magias elementais, sortilégios, e magias de sangue precisam deste atributo para serem usadas. Quais magias se pode usar, além do dano causado por elas, são determinados por esse atributo. Representa a capacidade de raciocínio lógico, memória, e aprendizado teórico. É usada para testes que envolvam dedução, análise, resolver enigmas, compreender sistemas complexos, e conhecimento acadêmico.
 
 ## Fé
 
