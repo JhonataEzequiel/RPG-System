@@ -6,7 +6,7 @@ Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nív
 
 ## Escolha de habilidades
 
-No nível 1, escolha duas habilidades da lista de habilidades com custo 1. Estas habilidades não podem conter outras habilidades como pré-requisitos.
+No nível 1, escolha duas habilidades da lista de habilidades com custo 1.
 
 ## Pontos de Vida
 
