@@ -26,10 +26,14 @@ A runa de ouro imbui uma arma com a capacidade de conduzir eletricidade, calor, 
 
 ## Runa de Safira
 
-Uma vez até ter um descanso longo, tem o poder de curar o anão seguindo a seguinte fórmula:
+Uma vez por descanso longo, tem o poder de curar o anão ou um aliado que tocar o objeto imbuído com a runa.
 
-$Cura =NívelDoAnão*(Constituição/4) +5$
-
-Arredondando para cima o resultado.
-
-Pode ser colocada em qualquer equipamento que já não tenha uma runa.
+ A cura se dá pela tabela, e aumenta conforme o nível do anão:
+ 
+| Nível do anão | Cura da runa de Safira |
+| ------------- | ---------------------- |
+| 1             | 5                      |
+| 5             | 10                     |
+| 10            | 20                     |
+| 15            | 30                     |
+| 20            | 50                     |

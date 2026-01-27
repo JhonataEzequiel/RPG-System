@@ -6,6 +6,8 @@ Espalhar Sangue Fervente: 1 de inteligência, 1 de fé. Sangue.
 
 Raio de Fogo: 1 de inteligência. Elemental.
 
+Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -57,6 +59,8 @@ Chuva de Magma: 6 de inteligência. Elemental.
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
 
 ### Custo 9:
+
+Nihil: 8 de inteligência, 9 de fé. Sangue.
 
 ### Custo 10:
 

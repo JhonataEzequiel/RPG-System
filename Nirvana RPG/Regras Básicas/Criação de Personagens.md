@@ -6,7 +6,7 @@ Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nív
 
 ## Escolha de habilidades
 
-No nível 1, escolha duas habilidades da lista de habilidades com custo 1. Estas habilidades não podem conter outras habilidades como pré-requisitos.
+No nível 1, escolha duas habilidades da lista de habilidades com custo 1.
 
 ## Pontos de Vida
 
@@ -16,13 +16,13 @@ Todo personagem terá um dado de vida diferente, que aumentará conforme o níve
 | --------------------- | ------------ |
 | 0                     | 1d6          |
 | 1                     | 1d8          |
-| 2                     | 2d4          |
-| 3                     | 1d10         |
+| 2                     | 1d10         |
+| 3                     | 2d4          |
 | 4                     | 2d6          |
 | 5                     | 2d8          |
-| 6                     | 4d4          |
-| 7                     | 2d10         |
-| 8                     | 3d8          |
+| 6                     | 3d4          |
+| 7                     | 4d4          |
+| 8                     | 4d6          |
 | 9                     | 3d10         |
 | 10                    | 3d12         |
 

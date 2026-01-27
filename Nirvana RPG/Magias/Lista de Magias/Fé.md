@@ -10,6 +10,8 @@ Estabilizar: 1 de fé. Sagrada.
 
 Benção: 1 de fé. Sagrada.
 
+Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé. Sagrada.
@@ -43,6 +45,8 @@ Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 ### Custo 8:
 
 ### Custo 9:
+
+Nihil: 8 de inteligência, 9 de fé. Sangue.
 
 ### Custo 10:
 
