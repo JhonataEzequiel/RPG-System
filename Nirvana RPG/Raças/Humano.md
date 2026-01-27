@@ -28,7 +28,7 @@ Há uma quarta forma que não depende de elementos, e é automaticamente ativada
 
 Caso você seja caótico, terá como familiar uma serpente espectral, que tem a capacidade de ficar invisível. A aparência em si dela fica ao seu critério.
 
-**Abafar passos** (duas ações): A serpente é capaz de tirar os sons de seus passos por 1 minuto, uma vez por descanso longo. Essa habilidade está ativa toda vez que ela fica invisível. Você tem vantagem em testes de furtividade relacionados a audição.
+**Abafar passos** (duas ações): A serpente é capaz de tirar os sons de seus passos por um encontro, uma vez por descanso longo. Essa habilidade está ativa toda vez que ela fica invisível. Você tem vantagem em testes de furtividade relacionados a audição.
 
 **Dado Serpentino**: A serpente é como um sinal de boa sorte e sabedoria, concedendo a você um dado serpentino. Este dano pode ser usado em qualquer teste ou rolagem de dano, aumentando o valor do resultado padrão. Caso seja usado em uma rolagem de dano, considere o dano como sendo do tipo igual ao do ataque efetuado. A quantidade de dados serpentinos aumenta conforme o nível, e você recupera seus dados uma vez que tiver um descanso longo. Você também recupera um dado a cada descanso curto. Você pode gastar todos os dados de uma vez só em um ataque, se assim desejar, mas só pode usar um deles por vez em cada teste.
 
