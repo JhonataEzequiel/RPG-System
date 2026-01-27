@@ -4,6 +4,10 @@
 
 Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nível um, os jogadores terão 7 pontos disponíveis para distribuir entre os 7 atributos diferentes, que começarão em 0. Ainda no primeiro nível, não é permitido gastar mais do que 2 pontos em um atributo só. Para calcular o valor de atributos após o primeiro nível, vá ao capítulo de níveis. Não é permitido guardar pontos para usar em próximos níveis.
 
+## Limitação Inicial
+
+Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes pontos em outro atributo, ignorando o limite de nível máximo de um atributo. Um atributo com valor negativo tem seu modificador negativo também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor.
+
 ## Escolha de habilidades
 
 No nível 1, escolha duas habilidades da lista de habilidades com custo 1.

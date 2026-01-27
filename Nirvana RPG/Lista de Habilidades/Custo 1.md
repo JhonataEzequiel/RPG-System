@@ -193,9 +193,3 @@ Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limi
 Requisitos: 1 de sabedoria.
 
 Você causa o dobro de dano todas as vezes que causar dano a uma criatura, e nunca erra ataques, não precisando mais realizar testes para acertar. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre. Se você tiver outras habilidades além dessa, você perderá todas as elas.
-
-## Limitação Inicial
-
-Requisitos: Esta habilidade só pode ser escolhida no nível 1.
-
-Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes pontos em outro atributo, ignorando o limite de nível máximo de um atributo. Um atributo com valor negativo tem seu modificador negativo também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor.
