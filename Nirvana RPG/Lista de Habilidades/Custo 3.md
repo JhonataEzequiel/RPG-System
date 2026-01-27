@@ -110,7 +110,7 @@ Você não poderá preparar mais magias do que você conhece.
 
 **Suplementar (ação bônus):** Você atingiu um patamar além do comum em seu pensamento, tornando sua mente mais afiada que uma lâmina. Ganha +2 níveis em todos os atributos. Duração de um encontro.
 
-**Elementar (passiva)**: ao adquirir essa habilidade, você poderá escolher outra habilidade qualquer, e ignora os requisitos de atributo para utiliza-la. A habilidade escolhida não pode ser trocada.
+**Elementar**: Você pode gastar pontos de habilidade para pegar qualquer outra habilidade, sem precisar atender aos requisitos de atributo dela. A quantidade de pontos gastos para adquirir a nova habilidade será o dobro do seu custo natural. No entanto o custo será diminuído em um ponto para cada requisito de atributo que você atenda. Por exemplo, se uma habilidade é de custo 3 (dobrando fica 6), e tem como requisito 3 pontos em inteligência e 1 em carisma, e você tem 1 em carisma, o custo dela será 5.
 
 ## Um com a terra
 
