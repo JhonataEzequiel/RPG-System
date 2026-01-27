@@ -184,6 +184,12 @@ A cada 10 níveis de atributo que você subir além do nível 1 de personagem ga
 
 ## Bom Início
 
-Requisitos: Esta habilidade só pode ser escolhida no nível 1
+Requisitos: Esta habilidade só pode ser escolhida no nível 1.
 
 Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limite máximo para o nível de um atributo. Além disso, adicione 1d4 aos seus pontos de vida.
+
+## Mente Simples
+
+Requisitos: 1 de sabedoria.
+
+Você causa o dobro de dano todas as vezes que causar dano a uma criatura, e nunca erra ataques, não precisando mais realizar testes para acertar. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre. Se você tiver outras habilidades além dessa, você perderá todas as elas.

@@ -10,4 +10,5 @@
 [[Atributos]]
 [[Habilidades]]
 [[Carga de Peso]]
+[[Elementos do Cenário]]
 Combate: [[Regras Básicas/Combate/Índice]]
