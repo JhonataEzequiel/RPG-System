@@ -10,7 +10,7 @@ Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível
 
 ## Escolha de habilidades
 
-No nível 1, escolha duas habilidades da lista de habilidades com custo 1.
+No nível 1, você possui dois pontos de habilidade para gastar como quiser.
 
 ## Pontos de Vida
 

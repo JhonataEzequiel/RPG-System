@@ -48,6 +48,8 @@ Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 Nihil: 8 de inteligência, 9 de fé. Sangue.
 
+Revelação: 9 de fé. Sagrada.
+
 ### Custo 10:
 
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.

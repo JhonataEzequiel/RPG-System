@@ -22,6 +22,8 @@ Sagrado: tipo de dano mágico eficaz contra mortos-vivos e criaturas das trevas.
 
 Sortilégio: tipo de dano mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de ataque, o que o torna versátil.
 
+Psíquico: normalmente associado a magias capazes de afetar diretamente a mente do oponente, esse tipo de dano é escasso de outras maneiras. 
+
 Sangue: os feitiços de sangue normalmente são usados a partir do próprio sangue do portador, e causam danos de sortilégio, cortante, dentre outros. No entanto, existem algumas magias que controlam o sangue do oponente, causando danos internos ao manipular diretamente o sangue dentro do corpo do alvo. São raros e poderosos. Essas magias causam dano verdadeiro. Criaturas sem sangue (como esqueletos animados, golems, elementais, etc.) são imunes à magias que controlam sangue, portanto não sofrem o dano verdadeiro dessas magias."
 
 ## Dano Verdadeiro

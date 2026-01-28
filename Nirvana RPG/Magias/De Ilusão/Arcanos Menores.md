@@ -7,4 +7,4 @@
 - Alcance: Toque
 - Tempo de Conjuração: 1 ação
 
-**Descrição:** Você recebe vantagem em testes de carisma e suas perícias contra uma criatura que você possa tocar. Uma vez que a duração da magia acabar, a criatura perceberá que você utilizou magia nela, e ficará hostil.
+**Descrição:** Você recebe vantagem em testes de carisma contra uma criatura que você possa tocar. Uma vez que a duração da magia acabar, a criatura perceberá que você utilizou magia nela, e ficará hostil.

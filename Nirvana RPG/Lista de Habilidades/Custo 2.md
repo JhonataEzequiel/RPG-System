@@ -127,7 +127,7 @@ Pode reduzir o custo de uma magia em 1 ponto, e reduzir um de seus requisitos em
 
 **Requisitos**: 3 de força e 3 de inteligência.
 
-O usuário é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as mãos dele fizerem. Elas são maiores do que os braços normais, e podem ser ativadas com uma ação bônus no começo do turno do usuário. Elas garantem um alcance maior aos ataques de um personagem que as conjurar, além de causarem mais dano que ataques desarmados normalmente causariam. Podem também ser usadas para carregar itens a mais, aumentando a capacidade de carga em 1d4*força.
+O usuário é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as mãos dele fizerem. Elas são maiores do que os braços normais, e podem ser ativadas com uma ação bônus no começo do turno do usuário. Elas garantem um alcance maior aos ataques de um personagem que as conjurar, além de causarem mais dano que ataques desarmados normalmente causariam. Podem também ser usadas para carregar itens a mais, aumentando a capacidade de carga pelo dobro da sua força.
 
 - **Alcance das Mãos:** 9m + Deslocamento do Usuário
 
@@ -163,3 +163,38 @@ Escolha dentre um dos seguintes estilos de luta. O jogador só poderá escolher 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 
 Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer imunidades a dano físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus ataques.
+
+## Temperança
+
+Requisitos: 6 de fé. 2 de constituição.
+
+Você se torna imune a qualquer doença e dano venenoso. Além disso, qualquer teste de carisma usado contra você tem desvantagem.
+
+## Fogo Fátuo
+
+Requisitos: 3 de inteligência. 3 de fé.
+
+Sempre que você causar dano de sortilégio com uma magia, pode transformar esse dano em dano de fogo. Além disso, aumente sua mana em 1d6.
+
+## Mente Focada
+
+Requisitos: 1 de sabedoria. 4 de inteligência.
+
+Você só pode recuperar mana com descansos longos, mas sua mana atual é dobrada. Você não dobrará qualquer mana obtida após adquirir esta habilidade.
+
+## Pau para toda obra
+
+Requisitos: 3 em cada atributo. Não pode haver uma diferença maior que 1 nível entre os atributos.
+
+Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente se especializar. Se algum de seus atributos tiver uma diferença de nível maior que um ponto a qualquer momento, você perderá essa habilidade para sempre, assim como os pontos gastos para adquiri-la. Em troca, você recebe os seguintes bônus:
+1. 2d8 a mais para o dado de vida.
+2. 1d10 a mais para o dado de mana.
+3. Você tem +1 em todos os testes.
+4. Você causa +1 de dano sempre que causar dano, o dano adicional é igual ao do ataque.
+5. Você ganha +1 ponto de atributo.
+
+## Bombardeio Aéreo
+
+Requisitos: Ser capaz de voar, ter uma arma à distância em mãos, e ser proficiente com ela.
+
+Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua margem de ameaça em 2 pontos caso você ataque à distância enquanto voa.

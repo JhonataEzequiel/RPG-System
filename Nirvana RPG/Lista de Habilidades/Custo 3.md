@@ -141,3 +141,39 @@ Requisitos: 10 de sabedoria, 10 de fé, e 5 de inteligência.
 Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 magia da sua lista de magia. Ela não custará mais mana para ser conjurada, e também não terá mais pré-requisitos. Você também ignora os requisitos adicionais da magia. Além disso, você ganha 1 ponto de atributo e 1 ponto de habilidade.
 
 Alternativamente, você pode realocar os seus atributos da maneira que quiser. Também pode trocar a raça do seu personagem, além da aparência dele. Isto só pode ser feito uma vez. Fazendo isso, você cessará sua conexão com uma divindade ou patrono, caso tenha algum. Você mantém seus níveis, mas pode escolher novas habilidades e magias. No entanto, não pode trocar as perícias.
+
+## Violência
+
+Requisitos: 10 de força.
+
+Qualquer dano físico que você cause agora é considerado dano verdadeiro, desde que ele seja causado por uma arma branca ou seus punhos. Além disso, quanto menos pontos de vida você tiver, mais dano você causa. O dado adicional também é dano verdadeiro.
+
+| Pontos de Vida Restantes | Dano Adicional |
+| ------------------------ | -------------- |
+| 100%                     | 0              |
+| Entre 50% e 99%          | 10             |
+| Entre 25% e 49%          | 20             |
+| Entre 0% e 24%           | 40             |
+
+## Fusão
+
+Requisitos: 3 de força. 6 de destreza.
+
+Caso você e um outro aliado possuam essa habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
+
+**Gestos de Equilíbrio** (duas ações): Escolham um gesto que você e seu aliado farão. Este gesto terá uma condição de falha, como caso um dos dois erre o ângulo. Os dois terão que passar por um teste de destreza CD 16 para se fundir. Caso falhem, a fusão ainda ocorrerá, mas será considerada um completo fracasso. Em caso de sucesso, os atributos serão multiplicados entre si.
+
+**Fundir**: A duração da fusão será idêntica em caso de sucesso ou fracasso, sendo de 1 encontro. 
+
+Em caso de fracasso na fusão, as seguintes coisas acontecerão com o personagem resultante:
+* O deslocamento será de 3m.
+* A CA será de 10.
+* Os atributos resultantes serão os mais baixos de cada um, com -2 em cada. Ou seja, se alguém tiver 10 de força e outro tiver 5, a força será 3.
+* A aparência resultante será uma fraca e patética, e fica a critério do mestre. Ela deve unir características de ambos os personagens originais.
+
+Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante:
+* O deslocamento dos dois será somado.
+* A CA dos dois será somada.
+* Os atributos resultantes serão os mais altos de cada um, dobrados. Ou seja, caso alguém tenha 10 de força e outro tenha 5, a força será 20.
+* Imunidade a qualquer condição negativa.
+* A aparência resultante ressaltará os pontos positivos de cada um dos personagens que se fundiram, ficando a critério do mestre.
