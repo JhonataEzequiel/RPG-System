@@ -102,8 +102,6 @@ Ao ativar essa habilidade, o usuário entra em hiper foco, e é impossibilitado 
 
 Descansos curtos agora recuperam toda a sua mana, e você pode preparar magias adicionais. O número de magias adicionais será igual ao seu modificador de sabedoria. Você também conhecerá mais magias. O número de magias conhecidas adicionais será igual a 1d4 + sab.
 
-Você não poderá preparar mais magias do que você conhece.
-
 ## Polivalente
 
 **Requisitos:** habilidade "Divergente" de custo 1. 10 de sabedoria.

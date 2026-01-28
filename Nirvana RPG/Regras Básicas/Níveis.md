@@ -80,3 +80,7 @@ Sua raça pode ou não conceder habilidades que aumentam conforme o nível. Os f
 Algumas habilidades de atributos tem suas características aumentadas quando se sobe de nível, concedendo mais poder de ataque, duração, dentre outras coisas.
 
 Magias são similares as habilidades de atributos, podendo também oferecer a opção ao jogador de melhorá-la utilizando mais pontos de mana, que normalmente são limitados pelo nível do atributo em específico. Por exemplo, uma magia pode dizer que é possível amplificá-la com pontos extras de mana iguais ao modificador de inteligência, o que dependerá, claro, de seu nível.
+
+### Indo além do nível 20
+
+Caso o mestre permita, é possível ir além do nível 20. Neste caso, cada nível subsequente te concederá um ponto de atributo e um ponto de habilidade.

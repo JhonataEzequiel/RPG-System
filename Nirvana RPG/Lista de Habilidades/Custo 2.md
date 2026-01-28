@@ -180,13 +180,14 @@ Sempre que você causar dano de sortilégio com uma magia, pode transformar esse
 
 Requisitos: 1 de sabedoria. 4 de inteligência.
 
-Você só pode recuperar mana com descansos longos, mas sua mana atual é dobrada. Você não dobrará qualquer mana obtida após adquirir esta habilidade.
+Você só pode recuperar mana com descansos longos, mas sua mana máxima é dobrada. Você não dobrará qualquer mana obtida após adquirir esta habilidade.
 
 ## Pau para toda obra
 
 Requisitos: 3 em cada atributo. Não pode haver uma diferença maior que 1 nível entre os atributos.
 
-Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente se especializar. Se algum de seus atributos tiver uma diferença de nível maior que um ponto a qualquer momento, você perderá essa habilidade para sempre, assim como os pontos gastos para adquiri-la. Em troca, você recebe os seguintes bônus:
+Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente se especializar. Se algum de seus atributos tiver uma diferença de nível maior que um ponto, você perderá essa habilidade para sempre, assim como os pontos gastos para adquiri-la. Isso se aplica apenas aos pontos que você alocar, e bônus temporários não contam. Em troca, você recebe os seguintes bônus:
+
 1. 2d8 a mais para o dado de vida.
 2. 1d10 a mais para o dado de mana.
 3. Você tem +1 em todos os testes.
@@ -197,4 +198,4 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 
 Requisitos: Ser capaz de voar, ter uma arma à distância em mãos, e ser proficiente com ela.
 
-Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua margem de ameaça em 2 pontos caso você ataque à distância enquanto voa.
+Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua margem de ameaça em 2 pontos caso você ataque à distância enquanto voa. Você não é mais capaz de ter um acerto crítico em um ataque se não estiver voando.
