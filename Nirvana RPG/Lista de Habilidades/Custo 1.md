@@ -193,3 +193,13 @@ Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limi
 Requisitos: 1 de sabedoria.
 
 Você causa o dobro de dano todas as vezes que causar dano a uma criatura, e nunca erra ataques, não precisando mais realizar testes para acertar. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre. Se você tiver outras habilidades além dessa, você perderá todas as elas.
+
+## Sem Especialidade
+
+Requisitos: todos os atributos com valores iguais.
+
+Você evolui de nível mais rápido que os outros, recebendo o dobro de experiência por qualquer ação feita. No entanto, você só poderá incrementar seus atributos quando for capaz de colocar um ponto em cada de uma vez, e só poderá adquirir habilidades nos níveis pares. O ganho de pontos de atributo e habilidades continuará o mesmo.
+
+## Descuidado
+
+Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. 

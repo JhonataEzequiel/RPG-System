@@ -143,15 +143,9 @@ Alternativamente, você pode realocar os seus atributos da maneira que quiser. T
 ## Violência
 
 Requisitos: 10 de força.
+Custo: 3 ações.
 
-Qualquer dano físico que você cause agora é considerado dano verdadeiro, desde que ele seja causado por uma arma branca ou seus punhos. Além disso, quanto menos pontos de vida você tiver, mais dano você causa. O dado adicional também é dano verdadeiro.
-
-| Pontos de Vida Restantes | Dano Adicional |
-| ------------------------ | -------------- |
-| 100%                     | 0              |
-| Entre 50% e 99%          | 10             |
-| Entre 25% e 49%          | 20             |
-| Entre 0% e 24%           | 40             |
+Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d8 + for de dano verdadeiro. O inimigo tem desvantagem no próximo ataque dele.
 
 ## Fusão
 
@@ -175,3 +169,9 @@ Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante
 * Os atributos resultantes serão os mais altos de cada um, dobrados. Ou seja, caso alguém tenha 10 de força e outro tenha 5, a força será 20.
 * Imunidade a qualquer condição negativa.
 * A aparência resultante ressaltará os pontos positivos de cada um dos personagens que se fundiram, ficando a critério do mestre.
+
+## Supressão Mental
+
+Requisitos: 3 de sabedoria, 5 de inteligência.
+
+A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 8 ou maior custam o triplo.
