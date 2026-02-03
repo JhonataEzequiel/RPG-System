@@ -211,3 +211,13 @@ Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas 
 **Requisitos**: 4 de constituição.
 
 Você se machuca de alguma maneira, sendo um corte, uma pancada, uma magia, ou qualquer coisa que possa te causar dano, ficando ao seu critério. Você ficará com 1 ponto de vida, e enquanto não se curar, causará o triplo de dano. No entanto, morrerá sem ser nocauteado. Essa habilidade só pode ser usada fora de combate, e o tempo para que ela esteja ativa depende exclusivamente do tempo que seu personagem demorará para se ferir a este ponto. Normalmente esse tempo é de menos de um minuto.
+
+## Maestria com lanças 
+
+**Requisitos**: estar empunhando uma lança 
+
+Com uma ação bônus, você pode trocar sua postura de batalha enquanto segurar uma lança ao final de seu turno. 
+
+A primeira postura aumenta sua constituição em 3 pontos e diminui a destreza e força em 3 pontos (mínimo de 0). Ganhe 5 pontos de resistência a qualquer dano, exceto dano verdadeiro.
+
+A segunda postura te coloca em posição ofensiva, fazendo com que você fique descuidado em suas defesas. Você recebe 1d6 a mais de dano sempre que receber dano. No entanto, seu próximo ataque realizado tem vantagem para acertar.
