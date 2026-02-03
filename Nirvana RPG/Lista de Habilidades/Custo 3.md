@@ -134,7 +134,7 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 
 ## Gnose
 
-Requisitos: 10 de sabedoria, 10 de fé, e 5 de inteligência.
+**Requisitos**: 10 de sabedoria, 10 de fé, e 5 de inteligência.
 
 Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 magia da sua lista de magia. Ela não custará mais mana para ser conjurada, e também não terá mais pré-requisitos. Você também ignora os requisitos adicionais da magia. Além disso, você ganha 1 ponto de atributo e 1 ponto de habilidade.
 
@@ -142,14 +142,14 @@ Alternativamente, você pode realocar os seus atributos da maneira que quiser. T
 
 ## Violência
 
-Requisitos: 10 de força.
-Custo: 3 ações.
+**Requisitos**: 10 de força.
+**Custo**: 3 ações.
 
 Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d8 + for de dano verdadeiro. O inimigo tem desvantagem no próximo ataque dele.
 
 ## Fusão
 
-Requisitos: 3 de força. 6 de destreza.
+**Requisitos**: 3 de força. 6 de destreza.
 
 Caso você e um outro aliado possuam essa habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
 
@@ -172,6 +172,16 @@ Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante
 
 ## Supressão Mental
 
-Requisitos: 3 de sabedoria, 5 de inteligência.
+**Requisitos**: 3 de sabedoria, 5 de inteligência.
 
 A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 8 ou maior custam o triplo.
+
+## Culto ao Desconhecido
+
+**Requisitos**: 10 de sabedoria, 8 de fé, 2 de inteligência.
+**Custo**: Três Ações.
+
+Você entoa um cântico de louvor à uma entidade cósmica desconhecida. Seu clamor é ouvido, e a entidade te responde. Essa resposta pode vir imediatamente ou depois de um tempo. Algumas dessas entidades costumam se comunicar pelos sonhos ou visões. Alguns dos efeitos possíveis desta habilidade são (O mestre rola 1d6, o valor que cair será o efeito):
+
+1. A entidade te responde na noite do dia em que você se comunicou com ela, através de um sonho. Neste sonho você terá uma visão que pode ou não ser benéfica. Caso você passe num teste de sabedoria CD 15 você conseguirá conhecimento sobre um determinado assunto. Esse conhecimento normalmente será dado em detalhes, mas você não poderá ter um descanso curto por uma semana.
+2.  Você ganha um 2d8 em todas as suas rolagens, e ignora erros críticos em qualquer teste que fizer. No entanto, você sente uma dor de cabeça toda vez que tiver que passar por um teste, recebendo 2d8 de dano psíquico. Esse efeito some após um descanso longo. O dano recebido é totalmente curado com um descanso curto, ainda que passe a quantidade do seu dado de vida.

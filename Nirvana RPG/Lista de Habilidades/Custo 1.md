@@ -178,28 +178,36 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 
 ## Aura
 
-Requisitos: 1 de cada atributo.
+**Requisitos**: 1 de cada atributo.
 
 A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. A partir do nível 10 pode ignorar o limite de nível máximo de atributo.
 
 ## Bom Início
 
-Requisitos: Esta habilidade só pode ser escolhida no nível 1.
+**Requisitos**: Esta habilidade só pode ser escolhida no nível 1.
 
 Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limite máximo para o nível de um atributo. Além disso, adicione 1d4 aos seus pontos de vida.
 
 ## Mente Simples
 
-Requisitos: 1 de sabedoria.
+**Requisitos**: 1 de sabedoria.
 
-Você causa o dobro de dano todas as vezes que causar dano a uma criatura, e nunca erra ataques, não precisando mais realizar testes para acertar. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre. Se você tiver outras habilidades além dessa, você perderá todas as elas.
+Todos os seus ataques são considerados críticos. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre. Se você tiver outras habilidades além dessa, você perderá todas elas.
 
 ## Sem Especialidade
 
-Requisitos: todos os atributos com valores iguais.
+**Requisitos**: todos os atributos com valores iguais.
 
 Você evolui de nível mais rápido que os outros, recebendo o dobro de experiência por qualquer ação feita. No entanto, você só poderá incrementar seus atributos quando for capaz de colocar um ponto em cada de uma vez, e só poderá adquirir habilidades nos níveis pares. O ganho de pontos de atributo e habilidades continuará o mesmo.
 
 ## Descuidado
 
+**Requisitos**: 3 de constituição, 2 de força.
+
 Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. 
+
+## Sacrifício
+
+**Requisitos**: 4 de constituição.
+
+Você se machuca de alguma maneira, sendo um corte, uma pancada, uma magia, ou qualquer coisa que possa te causar dano, ficando ao seu critério. Você ficará com 1 ponto de vida, e enquanto não se curar, causará o triplo de dano. No entanto, morrerá sem ser nocauteado. Essa habilidade só pode ser usada fora de combate, e o tempo para que ela esteja ativa depende exclusivamente do tempo que seu personagem demorará para se ferir a este ponto. Normalmente esse tempo é de menos de um minuto.

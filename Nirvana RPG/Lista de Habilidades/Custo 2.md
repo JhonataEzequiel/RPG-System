@@ -75,7 +75,7 @@ O jogador pisa no chão e o faz estremecer, derrubando todos os inimigos a frent
 
 **Requisitos**: Habilidade "Marcas de Guerra" de custo 1.
 
-Esta habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 30. O jogador também poderá escolher se o bônus de dano concedido por esta habilidade será do mesmo tipo da arma, de fogo, ou de gelo..
+Esta habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 30. O jogador também poderá escolher se o bônus de dano concedido por esta habilidade será do mesmo tipo da arma, de fogo, ou de gelo.
 
 ## Arcano Aprimorado
 
@@ -166,25 +166,25 @@ Sua lâmina agora é energizada com força divina que vem de dentro de você, n�
 
 ## Temperança
 
-Requisitos: 6 de fé. 2 de constituição.
+**Requisitos**: 6 de fé. 2 de constituição.
 
 Você se torna imune a qualquer doença e dano venenoso. Além disso, qualquer teste de carisma usado contra você tem desvantagem.
 
 ## Fogo Fátuo
 
-Requisitos: 3 de inteligência. 3 de fé.
+**Requisitos**: 3 de inteligência. 3 de fé.
 
 Sempre que você causar dano de sortilégio com uma magia, pode transformar esse dano em dano de fogo. Além disso, aumente sua mana em 1d6.
 
 ## Mente Focada
 
-Requisitos: 1 de sabedoria. 4 de inteligência.
+**Requisitos**: 1 de sabedoria. 4 de inteligência.
 
-Você só pode recuperar mana com descansos longos, mas sua mana máxima é dobrada. Você não dobrará qualquer mana obtida após adquirir esta habilidade.
+Você só pode recuperar mana com descansos longos, mas sua mana máxima atual é dobrada, ou seja, se você aumentar sua mana futuramente esse aumento não será dobrado.
 
 ## Pau para toda obra
 
-Requisitos: 3 em cada atributo. Não pode haver uma diferença maior que 1 nível entre os atributos.
+**Requisitos**: 3 em cada atributo. Não pode haver uma diferença maior que 1 nível entre os atributos.
 
 Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente se especializar. Se algum de seus atributos tiver uma diferença de nível maior que um ponto, você perderá essa habilidade para sempre, assim como os pontos gastos para adquiri-la. Isso se aplica apenas aos pontos que você alocar, e bônus temporários não contam. Em troca, você recebe os seguintes bônus:
 
@@ -196,6 +196,6 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 
 ## Bombardeio Aéreo
 
-Requisitos: Ser capaz de voar, ter uma arma à distância em mãos, e ser proficiente com ela.
+**Requisitos**: Ser capaz de voar, ter uma arma à distância em mãos, e ser proficiente com ela.
 
 Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua margem de ameaça em 2 pontos caso você ataque à distância enquanto voa. Você não é mais capaz de ter um acerto crítico em um ataque se não estiver voando.
