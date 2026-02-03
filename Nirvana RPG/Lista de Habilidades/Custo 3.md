@@ -174,14 +174,16 @@ Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante
 
 **Requisitos**: 3 de sabedoria, 5 de inteligência.
 
-A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 8 ou maior custam o triplo.
+A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 7 ou maior custam o triplo. Se você tiver diminuído o custo de uma magia que originalmente custava 7 ou mais, essa diminuição é ignorada, e a magia volta ao seu custo inicial antes de ter o custo triplicado.
 
 ## Culto ao Desconhecido
 
-**Requisitos**: 10 de sabedoria, 8 de fé, 2 de inteligência.
+**Requisitos**: 7 de fé, 6 de inteligência.
 **Custo**: Três Ações.
 
-Você entoa um cântico de louvor à uma entidade cósmica desconhecida. Seu clamor é ouvido, e a entidade te responde. Essa resposta pode vir imediatamente ou depois de um tempo. Algumas dessas entidades costumam se comunicar pelos sonhos ou visões. Alguns dos efeitos possíveis desta habilidade são (O mestre rola 1d6, o valor que cair será o efeito):
+Você entoa um cântico de louvor à uma entidade cósmica desconhecida. Seu clamor é ouvido, e a entidade te responde. Essa resposta pode vir imediatamente ou depois de um tempo. Algumas dessas entidades costumam se comunicar pelos sonhos ou visões. O mestre rola 1d4 em segredo, e o valor resultante será o efeito desta habilidade:
 
-1. A entidade te responde na noite do dia em que você se comunicou com ela, através de um sonho. Neste sonho você terá uma visão que pode ou não ser benéfica. Caso você passe num teste de sabedoria CD 15 você conseguirá conhecimento sobre um determinado assunto. Esse conhecimento normalmente será dado em detalhes, mas você não poderá ter um descanso curto por uma semana.
-2.  Você ganha um 2d8 em todas as suas rolagens, e ignora erros críticos em qualquer teste que fizer. No entanto, você sente uma dor de cabeça toda vez que tiver que passar por um teste, recebendo 2d8 de dano psíquico. Esse efeito some após um descanso longo. O dano recebido é totalmente curado com um descanso curto, ainda que passe a quantidade do seu dado de vida.
+1. A entidade te responde na noite do dia em que você se comunicou com ela, através de um sonho. Neste sonho você terá uma visão que pode ou não ser benéfica. Caso você passe num teste de sabedoria CD 15 você conseguirá conhecimento sobre um determinado assunto. Esse conhecimento normalmente será dado em detalhes, mas você não poderá ter um descanso curto por uma semana. Caso você falhe no teste, receberá 3d6 de dano psíquico que só poderão ser curados no próximo descanso longo que tiver.
+2. Você ganha um 2d8 em todas as suas rolagens, e ignora erros críticos em qualquer teste que fizer. É como se a própria realidade estivesse aos poucos tendendo para o que você deseja que aconteça. No entanto, você sente uma dor de cabeça toda vez que tiver que passar por um teste, recebendo 2d8 de dano psíquico. Esse efeito some após um descanso longo. O dano recebido é totalmente curado com um descanso curto, ainda que este dano ultrapasse a quantidade do seu dado de vida.
+3. A entidade se manifesta em você, fazendo com que todos aqueles que olharem em sua direção vejam não o seu personagem, mas um reflexo desse ser cósmico. Qualquer criatura que tiver contato visual com você durante 1 minuto deverá ter sucesso num teste de sabedoria CD 16. Caso falhe, receberá 3d6 de dano psíquico ao final de cada um de seus turnos até o fim do encontro. Você se cura toda vez que o inimigo sofre dano pela metade desse dano.
+4. Você desaparece deste plano e é levado ao local aonde a entidade habita. Seu cérebro é bombardeado de conhecimento de uma vez. Role um teste de sabedoria CD 20. Caso tenha sucesso, você pode escolher uma nova magia de custo 8 ou inferior. Ela não custará nada durante este encontro, você ignora os requisitos dela, e também pode usá-la como uma ação bônus. Caso você fracasse no teste, você receberá 4d8 de dano psíquico e ficará amedrontado até o final do encontro.
