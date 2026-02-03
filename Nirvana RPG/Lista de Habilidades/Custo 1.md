@@ -208,9 +208,10 @@ Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas 
 
 ## Sacrifício
 
-**Requisitos**: 4 de constituição.
+**Requisitos**: 2 de fé, 2 de inteligência.
+**Custo**: 1 ação.
 
-Você se machuca de alguma maneira, sendo um corte, uma pancada, uma magia, ou qualquer coisa que possa te causar dano, ficando ao seu critério. Você ficará com 1 ponto de vida, e enquanto não se curar, causará o triplo de dano. No entanto, morrerá sem ser nocauteado. Essa habilidade só pode ser usada fora de combate, e o tempo para que ela esteja ativa depende exclusivamente do tempo que seu personagem demorará para se ferir a este ponto. Normalmente esse tempo é de menos de um minuto.
+Você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 ponto de vida. Todo dano físico que você cause enquanto não se curar será dobrado e você não erra ataques. Com uma ação, você restaura os seus pontos de vida perdidos e encerra a ativação dessa habilidade, mas tem desvantagem em ataques na próxima rodada.
 
 ## Maestria com lanças 
 
