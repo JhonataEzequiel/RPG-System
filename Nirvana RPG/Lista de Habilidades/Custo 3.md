@@ -108,7 +108,7 @@ Descansos curtos agora recuperam toda a sua mana, e você pode preparar magias a
 
 **Suplementar (ação bônus):** Você atingiu um patamar além do comum em seu pensamento, tornando sua mente mais afiada que uma lâmina. Ganha +2 níveis em todos os atributos. Duração de um encontro.
 
-**Elementar**: Você pode gastar pontos de habilidade para pegar qualquer outra habilidade, sem precisar atender aos requisitos de atributo dela. A quantidade de pontos gastos para adquirir a nova habilidade será o dobro do seu custo natural. No entanto o custo será diminuído em um ponto para cada requisito de atributo que você atenda. Por exemplo, se uma habilidade é de custo 3 (dobrando fica 6), e tem como requisito 3 pontos em inteligência e 1 em carisma, e você tem 1 em carisma, o custo dela será 5.
+**Elementar**: Você pode gastar pontos de habilidade para pegar qualquer outra habilidade, sem precisar atender aos requisitos de atributo dela. A quantidade de pontos gastos para adquirir a nova habilidade será o dobro do seu custo natural. No entanto, o custo será diminuído em um ponto para cada requisito de atributo que você atenda. Por exemplo, se uma habilidade é de custo 3 (dobrando fica 6), e tem como requisito 3 pontos em inteligência e 1 em carisma, e você tem 1 em carisma, o custo dela será 5.
 
 ## Um com a terra
 
@@ -134,7 +134,7 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 
 ## Gnose
 
-Requisitos: 10 de sabedoria, 10 de fé, e 5 de inteligência.
+**Requisitos**: 10 de sabedoria, 10 de fé, e 5 de inteligência.
 
 Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 magia da sua lista de magia. Ela não custará mais mana para ser conjurada, e também não terá mais pré-requisitos. Você também ignora os requisitos adicionais da magia. Além disso, você ganha 1 ponto de atributo e 1 ponto de habilidade.
 
@@ -142,8 +142,8 @@ Alternativamente, você pode realocar os seus atributos da maneira que quiser. T
 
 ## Violência
 
-Requisitos: 10 de força.
-Custo: 3 ações.
+**Requisitos**: 10 de força.
+**Custo**: 3 ações.
 
 Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d8 + for de dano verdadeiro. O inimigo tem desvantagem no próximo ataque dele.
 

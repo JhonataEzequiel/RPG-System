@@ -10,12 +10,14 @@ Toda vez que você utilizar inspiração, adicione os seguintes benefícios:
 
 ## Golpe Duplo
 
-**Requisitos**: 2 de destreza e 1 de força.
+**Requisitos**: 2 de destreza ou 2 de força.
 **Custo:** Uma Ação e 1 de mana.
 
 Só pode ser usada uma vez por turno. Ao invés de gastar duas ações de ataque para atacar com duas armas leves ao mesmo tempo, você gastará apenas uma ação, e rolará apenas uma rolagem de ataque para acertar. 
 
-Caso não esteja empunhando armas leves, o seu segundo ataque neste turno não sofrerá penalidades de ataque, mas o terceiro ainda terá penalidade de -10. Caso você acerte os dois ataques, terá vantagem para acertar o inimigo no próximo turno.
+Caso não esteja empunhando armas leves, o seu segundo ataque neste turno não sofrerá penalidades de ataque, mas o terceiro ainda terá penalidade de -10. 
+
+Caso você acerte os dois ataques, terá vantagem para acertar o inimigo no próximo turno.
 
 ## Destrancar Rapidamente
 
