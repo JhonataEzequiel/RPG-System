@@ -40,7 +40,7 @@ O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regr
 
 1. Desarmar armadilhas: usada quando um personagem deseja se livrar de uma armadilha sem ativá-la, facilitando para o resto do grupo chegar ao objetivo.
 2. Acrobacia: usado em jogadas em que seja necessário realizar um movimento complicado com o corpo, como pular de cima de um prédio para outro.
-3.  Furtividade: Ao entrar em furtividade, o personagem estará indetectável. É possível sair deste estado caso o inimigo perceba o jogador. Fora isso, uma vez em furtividade, qualquer ataque contra um inimigo que não percebeu o personagem terá vantagem.
+3. Furtividade: Ao entrar em furtividade, o personagem estará indetectável. É possível sair deste estado caso o inimigo perceba o jogador. Fora isso, uma vez em furtividade, qualquer ataque contra um inimigo que não percebeu o personagem terá vantagem.
 
 ## Inteligência
 
