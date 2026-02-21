@@ -52,6 +52,7 @@ O número de magias preparadas nunca poderá ser maior que o de magias conhecida
 | 9                  | 35                | 18                 | 10                         | 5                           | 1d8          |
 | 10                 | 40                | 20                 | 10                         | 5                           | 2d4          |
 
+Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar pontos de mana em qualquer teste que for realizar, adicionando este número ao resultado final. Os pontos de mana gastos podem ser recuperados normalmente.
 ## Equipamento inicial
 
 Coisas como roupa utilizada e pequenos detalhes, serão considerados como objetos sem valor e sem peso, caso estejam de acordo com o bom senso. Além disso, os jogadores começarão com 15 peças de ouro, que poderão gastar em equipamentos diversos no capítulo de equipamentos, ou continuar com as 15 peças de ouro.
@@ -62,7 +63,7 @@ Após o jogador terminar de realizar as etapas anteriores, ele precisará escolh
 
 ## História de Origem
 
-Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maior idade em busca de aventuras, até um ladino com uma história trágica de fundo. O jogador pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPG’s, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que o jogador tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem, você pode ou não ser detalhista.
+Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maior idade em busca de aventuras, até um ladino com uma história trágica de fundo. O jogador pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPGs, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que o jogador tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem, você pode ou não ser detalhista.
 
 ## Tendência
 

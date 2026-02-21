@@ -202,4 +202,17 @@ Você evolui de nível mais rápido que os outros, recebendo o dobro de experiê
 
 ## Descuidado
 
-Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. 
+Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano.  Esse efeito é permanente e está sempre ativo.
+
+## Ataque Carregado
+
+**Custo**: Três Ações.
+
+Você carrega seu próximo ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo atordoado caso ele falhe num teste de constituição CD 14 + for. Você rola um ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar ações bônus ou reações naquela rodada. Além disso, não pode realizar esse ataque caso esteja empunhando duas armas ao mesmo tempo.
+
+## Disparo Poderoso
+
+**Custo**: Duas Ações, 2 de mana.
+**Requisitos**: Um arco e uma flecha equipados. Arcos e flechas conjurados também poderão ser utilizados.
+
+Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior. O alvo terá que realizar um teste de constituição CD 14 + dex. Caso falhe, terá 5 de vulnerabilidade a dano perfurante até o início de seu próximo turno. Esta habilidade causa o dano de um ataque normal, mas ignora resistências e imunidades a dano perfurante. Além disso, este ataque não conta para as penalidades de ataque no mesmo turno.

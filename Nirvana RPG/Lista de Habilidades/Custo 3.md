@@ -149,7 +149,7 @@ Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do in
 
 ## Fusão
 
-Requisitos: 3 de força. 6 de destreza.
+**Requisitos**: 5 de destreza.
 
 Caso você e um outro aliado possuam essa habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
 
@@ -172,6 +172,13 @@ Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante
 
 ## Supressão Mental
 
-Requisitos: 3 de sabedoria, 5 de inteligência.
+**Requisitos**: 3 de sabedoria, 5 de inteligência.
 
 A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 8 ou maior custam o triplo.
+
+## Jackpot Melhorado
+
+**Requisitos**: Habilidade "Jackpot" de custo 2. 2 de destreza.
+**Custo**: Uma ação, 1 de mana.
+
+Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um descanso longo anterior ao combate. Isso inclui poder usar novamente certas habilidades que podem ser usadas uma vez ao dia.
