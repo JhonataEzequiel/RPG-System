@@ -42,11 +42,15 @@ Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
 
 Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
+Campo Falso: 4 de inteligência. Ilusão.
+
 ### Custo 5:
 
 Aljava Elemental: 5 de inteligência. Elemental.
 
 Troca: 5 de inteligência. Imaculada.
+
+Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.
 
 ### Custo 6:
 
@@ -61,6 +65,8 @@ Arco Cromático: 7 de inteligência. Elemental.
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
+
+Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 
 ### Custo 9:
 

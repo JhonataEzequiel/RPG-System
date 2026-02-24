@@ -42,6 +42,8 @@ Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 ### Custo 5:
 
+Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.

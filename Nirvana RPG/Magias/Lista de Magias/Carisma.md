@@ -38,6 +38,8 @@ Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
 ### Custo 8:
 
+Aura Carismática: 8 de inteligência ou carisma. Ilusão.
+
 ### Custo 9:
 
 ### Custo 10:
