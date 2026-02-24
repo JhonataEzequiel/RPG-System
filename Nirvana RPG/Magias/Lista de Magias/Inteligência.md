@@ -79,3 +79,5 @@ Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.
 Dimensão de Bolso: 10 de inteligência. Imaculada.
 
 Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
+
+Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.

@@ -65,3 +65,5 @@ Revelação: 9 de fé. Sagrada.
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.
 
 Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
+
+Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
