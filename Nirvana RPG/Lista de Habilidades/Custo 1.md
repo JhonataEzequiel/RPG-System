@@ -180,7 +180,7 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 
 **Requisitos**: 1 de cada atributo.
 
-A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicional.
+A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicionais.
 
 ## Bom Início
 
