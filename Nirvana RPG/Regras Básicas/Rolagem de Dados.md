@@ -18,7 +18,7 @@ Ações bônus são aquelas que podem ser utilizadas no mesmo turno sem consumir
 
 ## Reações
 
-Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma magia que possa ser evitada por uma habilidade que concede uma reação ao jogador, ele poderá escolher utilizar essa reação para tentar evitá-la. Há um limite de 1 reação por rodada e por personagem. Caso gasta, no início do turno do personagem que a gastou ela se recupera, podendo ser usada de novo.
+Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma magia que possa ser evitada por uma habilidade que concede uma reação ao jogador, ele poderá escolher utilizar essa reação para tentar evitá-la. Há um limite de 1 reação por rodada por personagem. A reação se recupera ao final de cada rodada, que é quando todos os participantes na ordem de iniciativa tiverem completado seus turnos. Uma vez usada durante uma rodada, o personagem não poderá reagir novamente até que a rodada atual termine.
 
 ## Rolagem de Dados
 
