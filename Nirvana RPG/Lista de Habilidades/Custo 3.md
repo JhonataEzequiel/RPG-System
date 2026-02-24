@@ -182,3 +182,9 @@ A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que v
 **Custo**: Uma ação, 1 de mana.
 
 Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um descanso longo anterior ao combate. Isso inclui poder usar novamente certas habilidades que podem ser usadas uma vez ao dia.
+
+## Potência Pura
+
+**Requisitos**: 8 de força.
+
+Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 50% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 75.

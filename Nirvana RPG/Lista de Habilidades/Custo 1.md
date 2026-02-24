@@ -78,8 +78,8 @@ Desde que esteja usando armadura leve ou média, ganha +2 em testes de acrobacia
 
 ## Postura defensiva
 
-**Custo:** 1 Ação, não pode mais atacar neste turno
-**Duração:** Até o início do seu próximo turno
+**Custo:** 1 Ação, não pode mais atacar neste turno.
+**Duração:** Até o início do seu próximo turno.
 
 Só pode usar essa habilidade uma vez por encontro. Se o inimigo estiver armado e te atacar durante a duração, você pode realizar um teste de destreza utilizando o atributo como bônus (1d20 + destreza), com a CD igual a CA do inimigo, para desarmá-lo. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra, e pode cancelar o ataque, mas perderá a ação de qualquer forma, estando sujeito as penalidades de ações repetidas. Ou seja, caso ele cancele seu ataque e queira atacar novamente, o próximo teria -5 para acertar, e o terceiro teria -10.
 
@@ -216,3 +216,9 @@ Você carrega seu próximo ataque corpo a corpo, fazendo com que ele cause mais 
 **Requisitos**: Um arco e uma flecha equipados. Arcos e flechas conjurados também poderão ser utilizados.
 
 Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior. O alvo terá que realizar um teste de constituição CD 14 + dex. Caso falhe, terá 5 de vulnerabilidade a dano perfurante até o início de seu próximo turno. Esta habilidade causa o dano de um ataque normal, mas ignora resistências e imunidades a dano perfurante. Além disso, este ataque não conta para as penalidades de ataque no mesmo turno.
+
+## Canção do Perecimento
+
+**Requisitos**: 2 de fé, 2 de inteligência. Ser capaz de falar.
+
+Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três rodadas, todos no alcance do seu deslocamento morrerão, incluindo você. Você pode escolher perder toda sua mana permanentemente, assim como sua capacidade de conjurar qualquer magia, não importando como a conseguiu, em troca de ser apenas nocauteado.

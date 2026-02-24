@@ -221,4 +221,6 @@ Se caso após 6 tentativas não conseguir um jackpot, você precisará apenas ac
 **Duração**: 1 hora.
 **Custo**: Uma ação bônus, 1 de mana.
 
-Escolha uma criatura alvo que você possa ver. Você terá vantagem em testes de furtividade contra aquela criatura, e também em testes de natureza para rastreá-la. Se você estiver em combate com a criatura, você recebe um bônus de +2 de destreza enquanto o combate durar. Uma vez que o combate encerrar, a habilidade perde efeito.
+Enquanto fora de combate, escolha uma criatura alvo que você possa ver. Você terá vantagem em testes de furtividade contra aquela criatura, e também em testes de natureza para rastreá-la. 
+
+Alternativamente, se você estiver em combate com a criatura, você recebe um bônus de +2 de destreza enquanto o combate durar. Uma vez que o combate encerrar, a habilidade perde efeito.
