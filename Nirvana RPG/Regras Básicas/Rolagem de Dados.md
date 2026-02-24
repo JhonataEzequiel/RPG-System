@@ -2,7 +2,7 @@ Durante a campanha criada pelo mestre os jogadores poderão interagir de diversa
 
 ## Ações Padrão
 
-As ações padrão serão utilizadas para determinar quanto esforço é necessário para realizar uma atividade dentro de um combate, ou fora. Servirão mais como um contador. A exemplo, uma determinada magia “X” exige duas ações para ser utilizada, então 2 das ações disponíveis do jogador serão gastas, e caso ele não possua 2 disponíveis, não poderá conjurar a magia. As ações só são contabilizadas em combate, e o jogador terá 3 em seu turno.
+As ações padrão serão utilizadas para determinar quanto esforço é necessário para realizar uma atividade dentro de um combate, ou fora. Servirão mais como um contador. A exemplo, uma determinada magia 'X' exige duas ações para ser utilizada, então 2 das ações disponíveis do jogador serão gastas, e caso ele não possua 2 disponíveis, não poderá conjurar a magia. As ações só são contabilizadas em combate, e o jogador terá 3 em seu turno.
 
 ## Ações Livres
 
@@ -14,11 +14,11 @@ Os testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rola
 
 ## Ações Bônus
 
-Ações bônus são aquelas que podem ser utilizadas no mesmo turno e não consumirão uma ação. Normalmente são dadas com magias e habilidades específicas. O mestre também pode decidir dar uma ação bônus para um jogador dependendo da situação, como quando o jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. Caso o jogador tenha 2 ou mais ações bônus que possa utilizar, as próximas serão tratadas como ações normais.
+Ações bônus são aquelas que podem ser utilizadas no mesmo turno sem consumir uma ação padrão. Normalmente são dadas com magias e habilidades específicas. O mestre também pode decidir dar uma ação bônus para um jogador dependendo da situação, como quando o jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. **O jogador pode usar apenas 1 ação bônus por turno.** Caso deseje usar uma segunda ação bônus no mesmo turno, ela será tratada como uma ação normal, consumindo uma das 3 ações disponíveis.
 
 ## Reações
 
-Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma magia que possa ser evitada por uma habilidade que concede uma reação ao jogador, ele poderá escolher utilizar essa reação para tentar evitá-la. Há um limite de 1 reação por rodada e por personagem. Caso gasta, no início do turno do personagem que a gastou ela se recupera, podendo ser usada de novo.
+Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma magia que possa ser evitada por uma habilidade que concede uma reação ao jogador, ele poderá escolher utilizar essa reação para tentar evitá-la. Há um limite de 1 reação por rodada por personagem. A reação se recupera ao final de cada rodada, que é quando todos os participantes na ordem de iniciativa tiverem completado seus turnos. Uma vez usada durante uma rodada, o personagem não poderá reagir novamente até que a rodada atual termine.
 
 ## Rolagem de Dados
 
