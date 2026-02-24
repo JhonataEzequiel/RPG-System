@@ -224,3 +224,15 @@ Se caso após 6 tentativas não conseguir um jackpot, você precisará apenas ac
 Enquanto fora de combate, escolha uma criatura alvo que você possa ver. Você terá vantagem em testes de furtividade contra aquela criatura, e também em testes de natureza para rastreá-la. 
 
 Alternativamente, se você estiver em combate com a criatura, você recebe um bônus de +2 de destreza enquanto o combate durar. Uma vez que o combate encerrar, a habilidade perde efeito.
+
+## Consonância
+
+**Requisitos**: 3 de carisma. Ser proficiente em música.
+
+Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de atributo, pontos de vida temporários, ou adicionar pontos para ajudar alguém a realizar uma ação, você utiliza-se da música para aumentar a quantidade de bônus concedido. A quantidade aumentada depende é igual ao seu modificador de carisma.
+
+## Dissonância
+
+**Requisitos**: 3 de carisma. Ser proficiente em música.
+
+Adicione seu modificador de carisma a qualquer magia de dano que conjurar. Você agora pode gastar o dobro do custo de mana da magia para causar o dobro de dano. Ou seja, se uma magia custa 3 de mana, e depois da rolagem de dados causou 12 de dano, agora custará 6 e causará 24. O dano dobrado será o final. Você só pode dobrar o custo e dano antes de conjurar a magia e rolar os dados.
