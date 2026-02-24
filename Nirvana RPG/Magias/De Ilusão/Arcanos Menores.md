@@ -1,6 +1,5 @@
 ### Amizade
 
-- Custo: 0
 - Requisito em Carisma: 1
 - Requisitos Adicionais: A criatura não é hostil inicialmente
 - Duração: 1 minuto

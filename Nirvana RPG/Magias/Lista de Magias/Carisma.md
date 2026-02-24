@@ -22,7 +22,7 @@ Aprimorar Atributos: 2 de carisma. Imaculada.
 
 Fortificar Flora: 3 de carisma. Imaculada.
 
-Aprimorar Atributo: 3 de fé ou carisma. Sagrada.
+Canalizar Energia: 3 de fé ou carisma. Sagrada.
 
 ### Custo 4:
 

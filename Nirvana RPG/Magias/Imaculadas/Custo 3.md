@@ -1,6 +1,5 @@
 ### Fortificar Flora
 
-- Custo: 3
 - Requisito em Carisma: 3
 - Requisitos Adicionais: Ter plantas em volta
 - Duração: 1 encontro, ou 1 ano
@@ -15,7 +14,6 @@ Caso escolha utilizar 8 horas para conjurar a magia, as plantas num raio de 30 m
 
 ### Teletransporte
 
-- Custo: 3
 - Requisito em Inteligência: 3
 - Duração: Instantânea
 - Alcance: 18 metros

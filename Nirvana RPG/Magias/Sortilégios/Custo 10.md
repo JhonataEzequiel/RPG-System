@@ -1,6 +1,5 @@
 ### Cair da Noite
 
-- Custo: 10
 - Requisito em Inteligência: 10
 - Requisito em Fé: 10
 - Requisitos Adicionais: Precisa estar de noite em uma área aberta.

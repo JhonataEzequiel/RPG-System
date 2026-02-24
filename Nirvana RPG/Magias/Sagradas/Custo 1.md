@@ -1,6 +1,5 @@
 ### Cura Menor
 
-- Custo: 1
 - Requisito em Fé: 1
 - Alcance: Toque
 - Tempo de Conjuração: 1 ação
@@ -9,7 +8,6 @@
 
 ### Benção
 
-- Custo: 1
 - Requisito em Fé: 1
 - Duração: 1 encontro
 - Alcance: 9 metros

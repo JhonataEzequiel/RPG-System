@@ -1,6 +1,5 @@
 ### Acalmar
 
-- Custo: 1
 - Requisito em Inteligência: 1
 - Requisito em Carisma: 1
 - Duração: 1 rodada

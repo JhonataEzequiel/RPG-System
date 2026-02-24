@@ -1,6 +1,5 @@
 ### Dreno Vital
 
-- Custo: 1
 - Requisito em Inteligência: 1
 - Requisito em Fé: 1
 - Duração: Concentração

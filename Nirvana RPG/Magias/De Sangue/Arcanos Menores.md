@@ -1,6 +1,5 @@
 ### Espalhar Sangue Fervente
 
-- Custo: 0
 - Requisito em Inteligência: 1
 - Requisito em Fé: 1
 - Duração: 1 rodada

@@ -1,6 +1,5 @@
 ### Força Divina
 
-- Custo: 0
 - Requisito em Fé: 1
 - Requisitos Adicionais: Você tem algum tipo de proteção, como uma armadura ou escudo.
 - Duração: 1 rodada
@@ -13,7 +12,6 @@ Se você tiver 4 de fé, aumente o dano adicionado para 2d10 + fth, e os pontos 
 
 ### Estabilizar
 
-- Custo: 0
 - Requisito em Fé: 1
 - Duração: Instantânea
 - Alcance: Toque

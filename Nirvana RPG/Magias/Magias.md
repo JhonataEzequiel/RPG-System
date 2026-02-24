@@ -10,7 +10,6 @@ Um personagem pode conhecer uma magia, equipá-la, ou não conhecê-la. Após um
 
 ### Nome da Magia
 
-- Custo: 00
 - Requisito em Inteligência: 00
 - Requisito em Fé: 00
 - Requisito em Carisma: 00

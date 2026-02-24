@@ -1,6 +1,5 @@
 ### Submissão Cósmica
 
-- Custo: 6
 - Requisito em Fé ou Carisma: 6
 - Duração: 1 hora
 - Alcance: 18 metros

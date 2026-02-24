@@ -1,6 +1,5 @@
 ### Bola de Fogo Negra
 
-- Custo: 4
 - Requisito em Inteligência: 4
 - Requisito em Fé: 4
 - Alcance: 45m

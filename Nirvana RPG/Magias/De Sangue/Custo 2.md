@@ -1,6 +1,5 @@
 ### Equilíbrio
 
-- Custo: 2
 - Requisito em Inteligência: 2
 - Requisito em Fé: 2
 - Duração: Concentração

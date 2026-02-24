@@ -1,6 +1,5 @@
 ### Aura Carismática
 
-- Custo: 8
 - Requisito em Carisma: 8
 - Duração: 1 encontro
 - Alcance: deslocamento + 24 metros

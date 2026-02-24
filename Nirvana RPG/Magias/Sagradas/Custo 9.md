@@ -1,6 +1,5 @@
 ### Revelação
 
-- Custo: 9
 - Requisito em Fé: 9
 - Duração: Instantânea
 - Alcance: Toque

@@ -1,6 +1,5 @@
-### Aprimorar Atributo
+### Canalizar Energia
 
-- Custo: 3
 - Requisito em Fé ou Carisma: 3
 - Duração: 1 hora
 - Alcance: Toque

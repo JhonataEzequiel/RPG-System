@@ -1,6 +1,5 @@
 ### Nihil
 
-- Custo: 9
 - Requisito em Inteligência: 8
 - Requisito em Fé: 9
 - Duração: Concentração, até 3 rodadas

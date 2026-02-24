@@ -1,6 +1,5 @@
 ### Lâmina D’água
 
-- Custo: 2
 - Requisito em Inteligência: 2
 - Duração: 1 encontro
 - Alcance: si mesmo
@@ -14,7 +13,6 @@ Você também pode aumentar o dano da espada em 1d8 gastando um ponto de mana ad
 
 ### Pele de Pedra
 
-- Custo: 2
 - Requisito em Inteligência: 2
 - Duração: 1 encontro ou 10 minutos
 - Alcance: si mesmo
@@ -24,7 +22,6 @@ Você também pode aumentar o dano da espada em 1d8 gastando um ponto de mana ad
 
 ### Proteção Elemental
 
-- Custo: 2
 - Requisito em Inteligência: 2
 - Duração: 1 hora
 - Alcance: Toque

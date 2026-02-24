@@ -1,6 +1,5 @@
 ### Lâmina de Sangue
 
-- Custo: 4
 - Requisito em Inteligência: 4
 - Requisito em Fé: 4
 - Duração: 1 encontro

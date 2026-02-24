@@ -1,6 +1,5 @@
 ### Éden
 
-- Custo: 10
 - Requisito em Carisma: 10
 - Requisitos Adicionais: Deve ser um local em céu aberto.
 - Duração: 1 encontro

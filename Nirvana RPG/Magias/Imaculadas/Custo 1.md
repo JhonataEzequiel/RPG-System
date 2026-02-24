@@ -1,6 +1,5 @@
 ### Ajuda
 
-- Custo: 1
 - Requisito em Fé: 1
 - Requisito em Carisma: 1
 - Duração: 2 rodadas
@@ -11,7 +10,6 @@
 
 ### Alarme
 
-- Custo: 1
 - Requisito em Inteligência: 1
 - Duração: 8 horas
 - Alcance: Toque
@@ -21,7 +19,6 @@
 
 ### Armadura Arcana
 
-- Custo: 1
 - Requisito em Inteligência: 1
 - Requisitos Adicionais: O alvo não pode estar usando armadura
 - Duração: 24 horas
@@ -32,7 +29,6 @@
 
 ### Falar com Animais
 
-- Custo: 1
 - Requisito em Carisma: 1
 - Duração: 1 hora
 - Alcance: 48 metros

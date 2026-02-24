@@ -1,6 +1,5 @@
 ### Aljava Elemental
 
-- Custo: 5
 - Requisito em Inteligência: 5
 - Duração: 1 encontro
 - Alcance: toque

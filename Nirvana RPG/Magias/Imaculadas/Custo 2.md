@@ -1,6 +1,5 @@
 ### Alterar Forma (incompleta)
 
-- Custo: 2
 - Requisito em Carisma: 2
 - Duração: 1 hora
 - Alcance: si mesmo
@@ -14,7 +13,6 @@
 
 ### Aprimorar Atributos
 
-- Custo: 2
 - Requisito em Carisma: 2
 - Duração: 1 hora
 - Alcance: Toque

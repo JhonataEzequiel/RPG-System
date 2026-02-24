@@ -1,6 +1,5 @@
 ### Raio de Fogo
 
-- Custo: 0
 - Requisito em Inteligência: 1
 - Duração: Instantânea
 - Alcance: 36 metros

@@ -1,6 +1,5 @@
 ### Animar os Mortos
 
-- Custo: 2
 - Requisito em Inteligência: 1
 - Requisito em Fé: 2
 - Requisitos Adicionais: Uma pilha de ossos ou um corpo humanoide de tamanho médio.

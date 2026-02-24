@@ -1,6 +1,5 @@
 ### Bola de Fogo
 
-- Custo: 3
 - Requisito em Inteligência: 3
 - Alcance: 45m
 - Tempo de Conjuração: 2 ações

@@ -1,6 +1,5 @@
 ### Arco Cromático
 
-- Custo: 7
 - Requisito em Inteligência: 7
 - Duração: 1 encontro
 - Alcance: Toque

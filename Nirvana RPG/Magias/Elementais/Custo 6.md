@@ -1,6 +1,5 @@
 ### Chuva de Magma
 
-- Custo: 6
 - Requisito em Inteligência: 6
 - Duração: 3 rodadas
 - Alcance: 48 metros

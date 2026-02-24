@@ -1,6 +1,5 @@
 ### Conjurar Luz
 
-- Custo: 0
 - Requisito em Inteligência: 1
 - Duração: até ser desfeita ou 24 horas
 - Alcance: si mesmo

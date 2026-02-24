@@ -1,6 +1,5 @@
 ### Alterar Forma
 
-- Custo: 10
 - Requisito em Carisma: 10
 - Requisitos Adicionais: Ter visto uma criatura do mesmo tipo que você irá se transformar, e de um nível igual ou menor ao do seu personagem
 - Duração: 1 hora
@@ -11,7 +10,6 @@
 
 ### Dimensão de Bolso
 
-- Custo: 10
 - Requisito em Inteligência: 10
 - Duração: 1 minuto
 - Alcance: 6 metros

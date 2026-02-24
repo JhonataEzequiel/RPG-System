@@ -1,6 +1,5 @@
 ### Morto Novamente
 
-- Custo: 0
 - Requisito em Inteligência: 1
 - Requisito em Fé: 1
 - Duração: Instantânea
@@ -11,7 +10,6 @@
 
 ### Consciência Sombria
 
-- Custo: 0
 - Requisito em Fé: 1
 - Duração: 1 minuto
 - Alcance: Toque

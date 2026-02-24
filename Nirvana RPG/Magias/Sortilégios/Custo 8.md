@@ -1,6 +1,5 @@
 ### Perseguidores
 
-- Custo: 8
 - Requisito em Inteligência: 8
 - Requisito em Fé: 8
 - Duração: Instantânea

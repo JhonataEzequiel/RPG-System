@@ -178,27 +178,34 @@ A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que v
 
 ## Culto ao Desconhecido
 
-**Requisitos**: 7 de fé, 6 de inteligência.
+**Requisitos**: 6 de fé, 7 de inteligência.
 **Custo**: Três Ações.
 
 Você entoa um cântico de louvor à uma entidade cósmica desconhecida. Seu clamor é ouvido, e a entidade te responde. Essa resposta pode vir imediatamente ou depois de um tempo. Algumas dessas entidades costumam se comunicar pelos sonhos ou visões. O mestre rola 1d4 em segredo, e o valor resultante será o efeito desta habilidade:
 
 1. A entidade te responde na noite do dia em que você se comunicou com ela, através de um sonho. Neste sonho você terá uma visão que pode ou não ser benéfica. Caso você passe num teste de sabedoria CD 15 você conseguirá conhecimento sobre um determinado assunto. Esse conhecimento normalmente será dado em detalhes, mas você não poderá ter um descanso curto por uma semana. Caso você falhe no teste, receberá 3d6 de dano psíquico que só poderão ser curados no próximo descanso longo que tiver.
-2. Você ganha um 2d8 em todas as suas rolagens, e ignora erros críticos em qualquer teste que fizer. É como se a própria realidade estivesse aos poucos tendendo para o que você deseja que aconteça. No entanto, você sente uma dor de cabeça toda vez que tiver que passar por um teste, recebendo 2d8 de dano psíquico. Esse efeito some após um descanso longo. O dano recebido é totalmente curado com um descanso curto, ainda que este dano ultrapasse a quantidade do seu dado de vida.
-3. A entidade se manifesta em você, fazendo com que todos aqueles que olharem em sua direção vejam não o seu personagem, mas um reflexo desse ser cósmico. Qualquer criatura que tiver contato visual com você durante 1 minuto deverá ter sucesso num teste de sabedoria CD 16. Caso falhe, receberá 3d6 de dano psíquico ao final de cada um de seus turnos até o fim do encontro. Você se cura toda vez que o inimigo sofre dano pela metade desse dano.
-4. Você desaparece deste plano e é levado ao local aonde a entidade habita. Seu cérebro é bombardeado de conhecimento de uma vez. Role um teste de sabedoria CD 20. Caso tenha sucesso, você pode escolher uma nova magia de custo 8 ou inferior. Ela não custará nada durante este encontro, você ignora os requisitos dela, e também pode usá-la como uma ação bônus. Caso você fracasse no teste, você receberá 4d8 de dano psíquico e ficará amedrontado até o final do encontro.
-
-A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 8 ou maior custam o triplo.
+2. Você ganha 2d8 de bônus em todas as suas rolagens, sendo elas testes ou rolagens de dano, e ignora erros críticos em qualquer teste que fizer. É como se a própria realidade estivesse aos poucos tendendo para o que você deseja que aconteça. No entanto, você sente uma dor de cabeça toda vez que tiver que passar por um teste, recebendo 2d8 de dano psíquico. Esse efeito some após um descanso longo. O dano recebido é totalmente curado com um descanso curto, ainda que este dano ultrapasse a quantidade do seu dado de vida. Este efeito tem duração de um dia.
+3. A entidade se manifesta em você, fazendo com que todos aqueles que olharem em sua direção vejam não o seu personagem, mas um reflexo desse ser cósmico. Qualquer criatura que tiver contato visual com você deverá ter sucesso num teste de sabedoria CD 16. Caso falhe, receberá 3d6 de dano psíquico ao final de cada um de seus turnos até o fim do encontro. Você se cura toda vez que o inimigo sofre dano pela metade desse dano.
+4. Você desaparece deste plano e é levado ao local aonde a entidade habita. Seu cérebro é bombardeado de conhecimento de uma vez. Role um teste de sabedoria CD 20. Caso tenha sucesso, você pode escolher uma nova magia para aprender. Esta magia é considerada preparada. Ela não custará nada durante este encontro, você ignora os requisitos dela, e também pode usá-la como uma ação bônus. Além disso, você terá vantagem em testes de sabedoria e inteligência até o final do encontro. Caso você fracasse no teste, você receberá 4d8 de dano psíquico e ficará amedrontado até o final do encontro.
 
 ## Jackpot Melhorado
 
 **Requisitos**: Habilidade "Jackpot" de custo 2. 2 de destreza.
 **Custo**: Uma ação, 1 de mana.
 
-Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um descanso longo anterior ao combate. Isso inclui poder usar novamente certas habilidades que podem ser usadas uma vez ao dia.
+Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um descanso longo anterior ao combate. Isso inclui poder usar novamente certas habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua mana, trocar as magias preparadas, etc.
 
 ## Potência Pura
 
 **Requisitos**: 8 de força.
 
 Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 50% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 75.
+
+## Rei Oculto
+
+**Requisitos**: Habilidade "Saúdem o Rei" de custo 3. 10 de destreza.
+**Alcance**: deslocamento.
+
+Sempre que houver um aliado dentro do alcance desta habilidade, você será bem sucedido em testes de furtividade, e não sairá do estado de furtividade quando realizar outras ações, como atacar ou falar. 
+
+Uma vez ao dia, você pode escolher um aliado no alcance para conceder-lhe +10 em qualquer teste que ele for fazer.

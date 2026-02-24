@@ -1,6 +1,5 @@
 ### Troca
 
-- Custo: 5
 - Requisito em Inteligência: 5
 - Duração: Instantânea
 - Alcance: 18 metros

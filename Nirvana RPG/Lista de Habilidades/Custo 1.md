@@ -202,7 +202,6 @@ Você evolui de nível mais rápido que os outros, recebendo o dobro de experiê
 
 ## Descuidado
 
-<<<<<<< HEAD
 **Requisitos**: 3 de constituição, 2 de força.
 
 Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. 
@@ -223,7 +222,7 @@ Com uma ação bônus, você pode trocar sua postura de batalha enquanto segurar
 A primeira postura aumenta sua constituição em 3 pontos e diminui a destreza e força em 3 pontos (mínimo de 0). Ganhe 5 pontos de resistência a qualquer dano, exceto dano verdadeiro.
 
 A segunda postura te coloca em posição ofensiva, fazendo com que você fique descuidado em suas defesas. Você recebe 1d6 a mais de dano sempre que receber dano. No entanto, seu próximo ataque realizado tem vantagem para acertar.
-=======
+
 Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano.  Esse efeito é permanente e está sempre ativo.
 
 ## Ataque Carregado
@@ -245,8 +244,6 @@ Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com p
 **Custo**: 2 de mana.
 
 Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três rodadas, todos no alcance do seu deslocamento morrerão, incluindo você. Você pode escolher perder toda sua mana permanentemente, assim como sua capacidade de conjurar qualquer magia, não importando como a conseguiu, em troca de ser apenas nocauteado.
->>>>>>> BranchJhonata
-
 
 ## Riposta
 
@@ -254,3 +251,11 @@ Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciad
 **Duração**: 1 rodada.
 
 Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você abdica das três ações de seu turno para ser capaz de usar três reações nessa rodada. Os inimigos tem -5 para te acertar enquanto esta habilidade estiver ativa. Caso errem, você pode realizar uma ação de ataque com vantagem. Você não sofre penalidades de ataque enquanto a habilidade durar.
+
+## Hino do Valor
+
+**Requisitos**: Ser perito em música.
+**Custo**: 1 ação e 1 de mana.
+**Alcance**: deslocamento.
+
+Você seleciona até 2 alvos no alcance desta habilidade. Após isso, você toca uma música que os inspira, fazendo-os ter vantagem no próximo ataque. Caso errem o ataque, mantém a vantagem no próximo até acertar.

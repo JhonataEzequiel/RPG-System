@@ -1,6 +1,5 @@
 ### Convocar Ajuda
 
-- Custo: 7
 - Requisito em Inteligência, Carisma, ou Fé: 7 
 - Duração: Instantânea
 - Alcance: 18 metros

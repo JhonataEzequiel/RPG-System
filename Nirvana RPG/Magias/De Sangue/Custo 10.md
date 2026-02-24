@@ -1,6 +1,5 @@
 ### Lua de Sangue
 
-- Custo: 10
 - Requisito em Inteligência: 10
 - Requisito em Fé: 10
 - Requisitos Adicionais: Você é capaz de enxergar uma lua no local aonde você está

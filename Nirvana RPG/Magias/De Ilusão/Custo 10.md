@@ -1,6 +1,5 @@
 ### Controle Mental Completo
 
-- Custo: 10
 - Requisito em Carisma: 10
 - Duração: 1 hora
 - Alcance: Toque
