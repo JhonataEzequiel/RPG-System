@@ -18,9 +18,9 @@ Existem alguns tipos de dano mágico, os quais são causados pelo uso de magias,
 
 Elementais: dano de fogo, elétrico (ou raio), e gelo. Os outros elementos de magias elementais causam basicamente algum tipo de dano físico, como dano contundente arremessando uma rocha gigante no inimigo, ou dano cortante, fazendo uma lâmina de ar.
 
-Sagrado: tipo de dano mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e magias sagradas.
+Sagrado (ou luminoso): tipo de dano mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e magias sagradas.
 
-Sortilégio: tipo de dano mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de ataque, o que o torna versátil.
+Sortilégio (ou sombrio): tipo de dano mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de ataque, o que o torna versátil.
 
 Psíquico: normalmente associado a magias capazes de afetar diretamente a mente do oponente, esse tipo de dano é escasso de outras maneiras. 
 
