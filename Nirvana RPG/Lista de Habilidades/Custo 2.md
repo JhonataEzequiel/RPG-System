@@ -152,7 +152,7 @@ Escolha dentre um dos seguintes estilos de luta. O jogador só poderá escolher 
 * **Ajudar (reação):** Se um aliado estiver perto de você e ele for atacado fora do seu turno, você pode efetuar uma manobra evasiva com seu escudo, e tomar o golpe no lugar dele, recebendo metade do dano. A distância máxima que um aliado pode estar de você é metade do seu deslocamento. Você não poderá utilizar uma ação bônus no seu próximo turno. Você recebe 1d4 + for de pontos de vida temporários, que duram até o seu próximo turno, ao realizar esta ação.
 * **Aparar (reação):** Caso o inimigo tire exatamente o número da sua CA ou menor numa rolagem de ataque, você poderá repelir o ataque com o seu escudo e contra atacar em seguida. Este contra-ataque não contará para seu número de ações no seu turno, mas terá uma penalidade de -5. Caso o inimigo tenha um erro crítico na rolagem, você não terá penalidade alguma. 
 
-**Empunhadura Dupla:** O jogador se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus igual a 1d6 + des em suas rolagens de dano.
+**Empunhadura Dupla:** O jogador se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é físico.
 
 **Empunhadura Única:** Caso esteja utilizando apenas uma arma de uma mão, e mais nada na outra mão, consegue utilizar esta arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de ataque e de dano igual a 1d6 + for. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus igual ao modificador de destreza na CA.
 
@@ -201,3 +201,26 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 **Requisitos**: Ser capaz de voar, ter uma arma à distância em mãos, e ser proficiente com ela.
 
 Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua margem de ameaça em 2 pontos caso você ataque à distância enquanto voa. Você não é mais capaz de ter um acerto crítico em um ataque se não estiver voando.
+
+## Jackpot
+
+**Custo**: Uma ação, 1 de mana.
+**Requisitos**: 1 de destreza.
+
+Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha os seguintes benefícios durante um minuto:
+
+- Ao final de seu turno cura-se por toda a sua vida de uma vez, ignorando efeitos que possam te impedir de se curar. Também regenera partes do corpo perdidas, como um braço amputado.
+- Ao final de seu turno, recupera toda a mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar mana. 
+- Imunidade a encantamento.
+
+Se caso após 6 tentativas não conseguir um jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um jackpot voltam a ser os iniciais.
+
+## Marca de Caçador
+
+**Requisitos**: 3 de destreza, 1 de sabedoria.
+**Duração**: 1 hora.
+**Custo**: Uma ação bônus, 1 de mana.
+
+Enquanto fora de combate, escolha uma criatura alvo que você possa ver. Você terá vantagem em testes de furtividade contra aquela criatura, e também em testes de natureza para rastreá-la. 
+
+Alternativamente, se você estiver em combate com a criatura, você recebe um bônus de +2 de destreza enquanto o combate durar. Uma vez que o combate encerrar, a habilidade perde efeito.

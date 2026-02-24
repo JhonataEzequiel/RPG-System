@@ -149,7 +149,11 @@ Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do in
 
 ## Fusão
 
+<<<<<<< HEAD
 **Requisitos**: 3 de força. 6 de destreza.
+=======
+**Requisitos**: 5 de destreza.
+>>>>>>> BranchJhonata
 
 Caso você e um outro aliado possuam essa habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
 
@@ -174,6 +178,7 @@ Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante
 
 **Requisitos**: 3 de sabedoria, 5 de inteligência.
 
+<<<<<<< HEAD
 A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 7 ou maior custam o triplo. Se você tiver diminuído o custo de uma magia que originalmente custava 7 ou mais, essa diminuição é ignorada, e a magia volta ao seu custo inicial antes de ter o custo triplicado.
 
 ## Culto ao Desconhecido
@@ -187,3 +192,19 @@ Você entoa um cântico de louvor à uma entidade cósmica desconhecida. Seu cla
 2. Você ganha um 2d8 em todas as suas rolagens, e ignora erros críticos em qualquer teste que fizer. É como se a própria realidade estivesse aos poucos tendendo para o que você deseja que aconteça. No entanto, você sente uma dor de cabeça toda vez que tiver que passar por um teste, recebendo 2d8 de dano psíquico. Esse efeito some após um descanso longo. O dano recebido é totalmente curado com um descanso curto, ainda que este dano ultrapasse a quantidade do seu dado de vida.
 3. A entidade se manifesta em você, fazendo com que todos aqueles que olharem em sua direção vejam não o seu personagem, mas um reflexo desse ser cósmico. Qualquer criatura que tiver contato visual com você durante 1 minuto deverá ter sucesso num teste de sabedoria CD 16. Caso falhe, receberá 3d6 de dano psíquico ao final de cada um de seus turnos até o fim do encontro. Você se cura toda vez que o inimigo sofre dano pela metade desse dano.
 4. Você desaparece deste plano e é levado ao local aonde a entidade habita. Seu cérebro é bombardeado de conhecimento de uma vez. Role um teste de sabedoria CD 20. Caso tenha sucesso, você pode escolher uma nova magia de custo 8 ou inferior. Ela não custará nada durante este encontro, você ignora os requisitos dela, e também pode usá-la como uma ação bônus. Caso você fracasse no teste, você receberá 4d8 de dano psíquico e ficará amedrontado até o final do encontro.
+=======
+A quantidade de mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de mana, o valor aumentado será o dobro. No entanto, magias de custo 8 ou maior custam o triplo.
+
+## Jackpot Melhorado
+
+**Requisitos**: Habilidade "Jackpot" de custo 2. 2 de destreza.
+**Custo**: Uma ação, 1 de mana.
+
+Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um descanso longo anterior ao combate. Isso inclui poder usar novamente certas habilidades que podem ser usadas uma vez ao dia.
+
+## Potência Pura
+
+**Requisitos**: 8 de força.
+
+Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 50% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 75.
+>>>>>>> BranchJhonata
