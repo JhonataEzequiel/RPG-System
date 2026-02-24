@@ -37,7 +37,7 @@ Alternativamente, você pode ser um devoto sem causa. Neste caso, você pode adi
 
 ## Provocar
 
-**Custo de ações**: uma ação.
+**Custo de ações**: ação bônus.
 
 Provoca um inimigo ao alcance de seu deslocamento. O inimigo deverá passar por um teste de CD 10 + car de sabedoria para evitar de ser provocado. Caso falhe, todos os seus ataques, durante 2 rodadas, serão focados no jogador que o provocou.
 
@@ -242,6 +242,15 @@ Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com p
 ## Canção do Perecimento
 
 **Requisitos**: 2 de fé, 2 de inteligência. Ser capaz de falar.
+**Custo**: 2 de mana.
 
 Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três rodadas, todos no alcance do seu deslocamento morrerão, incluindo você. Você pode escolher perder toda sua mana permanentemente, assim como sua capacidade de conjurar qualquer magia, não importando como a conseguiu, em troca de ser apenas nocauteado.
 >>>>>>> BranchJhonata
+
+
+## Riposta
+
+**Requisitos**: 2 de destreza.
+**Duração**: 1 rodada.
+
+Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você abdica das três ações de seu turno para ser capaz de usar três reações nessa rodada. Os inimigos tem -5 para te acertar enquanto esta habilidade estiver ativa. Caso errem, você pode realizar uma ação de ataque com vantagem. Você não sofre penalidades de ataque enquanto a habilidade durar.

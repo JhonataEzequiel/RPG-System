@@ -49,7 +49,7 @@ O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regr
 
 ## Fé
 
-1. Medicina: capacidade de estancar sangramentos, imobilizar ossos quebrados, aplicar os primeiros socorros em alguém, etc.
+1. Medicina: capacidade de estancar sangramentos, imobilizar ossos quebrados, aplicar os primeiros socorros em alguém, estabilizar alguém, etc.
 2. Identificar motivação: o jogador pode tentar descobrir se outro personagem quer o bem ou o mal em uma determinada ação.
 
 ## Carisma

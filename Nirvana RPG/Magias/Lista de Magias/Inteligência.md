@@ -54,6 +54,10 @@ Chuva de Magma: 6 de inteligência. Elemental.
 
 ### Custo 7:
 
+Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
+
+Arco Cromático: 7 de inteligência. Elemental.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
