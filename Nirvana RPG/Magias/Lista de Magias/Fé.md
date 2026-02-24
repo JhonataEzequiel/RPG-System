@@ -12,6 +12,8 @@ Benção: 1 de fé. Sagrada.
 
 Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
 
+Consciência Sombria: 1 de fé. Sortilégio.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé. Sagrada.
@@ -40,7 +42,11 @@ Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 ### Custo 6:
 
+Submissão Cósmica: 6 de fé ou carisma. Sagrada.
+
 ### Custo 7:
+
+Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
 ### Custo 8:
 

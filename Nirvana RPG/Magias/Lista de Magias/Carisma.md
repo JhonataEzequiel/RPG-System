@@ -28,7 +28,11 @@ Fortificar Flora: 3 de carisma. Imaculada.
 
 ### Custo 6:
 
+Submissão Cósmica: 6 de fé ou carisma. Sagrada.
+
 ### Custo 7:
+
+Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
 ### Custo 8:
 

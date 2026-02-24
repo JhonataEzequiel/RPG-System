@@ -6,6 +6,4 @@
 - Alcance: si mesmo
 - Tempo de Conjuração: 1 ação
 
-**Descrição:**
-
-Cria uma esfera de luz que fica sobre a cabeça do usuário iluminando um raio de 12m ao seu redor.
+**Descrição:** Cria uma esfera de luz que fica sobre a cabeça do usuário iluminando um raio de 12m ao seu redor.
