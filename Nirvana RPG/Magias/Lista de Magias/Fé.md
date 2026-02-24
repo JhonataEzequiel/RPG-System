@@ -30,6 +30,8 @@ Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
 
 ### Custo 3:
 
+Aprimorar Atributo: 3 de fé ou carisma. Sagrada.
+
 ### Custo 4:
 
 Bola de Fogo Sagrada: 4 de fé. Sagrada.
