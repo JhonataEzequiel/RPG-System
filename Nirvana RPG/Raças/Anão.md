@@ -7,14 +7,14 @@ A runa de diamante concede à alguma armadura uma redução de dano que aumenta 
 | Nível do anão | redução de dano |
 | ------------- | --------------- |
 | 1             | 2               |
-| 5             | 5               |
-| 10            | 10              |
-| 15            | 15              |
-| 20            | 18              |
+| 5             | 4               |
+| 10            | 8               |
+| 15            | 13              |
+| 20            | 15              |
 
 ## Runa de ouro
 
-A runa de ouro imbui uma arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três elementos (raio, fogo, e gelo, respectivamente) no inimigo. O dano aumenta conforme o nível.
+A runa de ouro imbui uma arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três elementos (raio, fogo, e gelo, respectivamente) no inimigo. O dano aumenta conforme o nível. Ao ter um descanso longo você pode escolher o tipo do dano extra.
 
 | Nível do anão | Dano da runa de ouro |
 | ------------- | -------------------- |

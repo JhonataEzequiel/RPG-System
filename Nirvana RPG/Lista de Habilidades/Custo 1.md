@@ -18,7 +18,7 @@ A inspiração é temporária, e durará até o fim do encontro. Não pode recob
 
 **Requisitos**: Habilidade "Inspiração" de custo 1.
 
-Sendo do bem ou do mal, seu caráter inspira aqueles ao seu redor. Você pode utilizar a inspiração como um bônus de dano ao invés de vida para todos os seus aliados (aliados causarão mais dano físico igual ao bônus de HP normalmente concedido pela inspiração).
+Sendo do bem ou do mal, seu caráter inspira aqueles ao seu redor. Você pode utilizar a inspiração como um bônus de dano ao invés de vida para todos os seus aliados (aliados causarão mais dano físico igual a metade do bônus de HP normalmente concedido pela inspiração).
 
 No nível 10 de carisma, poderá utilizar inspiração como uma ação bônus, ao invés de uma ação normal.
 ## Devoção
@@ -27,13 +27,12 @@ A devoção demonstrada pela sua dedicação será recompensada. A cada nível d
 
 | Nível de Fé | Bônus na CA |
 | ----------- | ----------- |
-| 1 a 3       | 1           |
-| 4 a 6       | 1           |
+| 1 a 6       | 1           |
 | 7 a 8       | 2           |
 | 9 a 10      | 3           |
-Além do bônus de CA, você receberá uma inspiração toda vez que tiver um descanso longo.
+Além do bônus de CA, você receberá um ponto de atuação toda vez que tiver um descanso longo, e este ponto durará até o fim do próximo encontro.
 
-Alternativamente, você pode ser um devoto sem causa. Neste caso, você pode adicionar seu modificador de fé quando recuperar vida num descanso longo.
+Alternativamente, você pode ser um devoto sem causa. Neste caso, você pode adicionar seu modificador de fé quando recuperar vida num descanso curto.
 
 ## Provocar
 
@@ -172,7 +171,7 @@ Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá 
 **Duração:** 1 minuto.
 **Requisitos**: 5 de sabedoria.
 
-Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu nível de sabedoria te proporciona a opção de trocar o nível de um atributo por outro, com exceção de sabedoria e constituição. Você obtém vantagem em testes relacionados ao atributo que originalmente tinha o menor valor. Só pode usar uma vez por descanso longo.
+Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu nível de sabedoria te proporciona a opção de trocar o nível de um atributo por outro. Você obtém vantagem em testes relacionados ao atributo que originalmente tinha o menor valor. Você não pode trocar atributos de mesmo valor. Só pode usar uma vez por descanso longo.
 
 Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e desejar trocá-los para tentar intimidar um oponente, você terá vantagem nessa intimidação.
 
@@ -180,7 +179,7 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 
 **Requisitos**: 1 de cada atributo.
 
-A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicionais.
+A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicionais, uma vez.
 
 ## Bom Início
 
@@ -215,15 +214,13 @@ Você faz seu sangue borbulhar, tornando seu corpo completamente instável por u
 
 ## Maestria com lanças 
 
-**Requisitos**: estar empunhando uma lança 
+**Requisitos**: Proficiência em armas marciais
 
 Com uma ação bônus, você pode trocar sua postura de batalha enquanto segurar uma lança ao final de seu turno. 
 
 A primeira postura aumenta sua constituição em 3 pontos e diminui a destreza e força em 3 pontos (mínimo de 0). Ganhe 5 pontos de resistência a qualquer dano, exceto dano verdadeiro.
 
 A segunda postura te coloca em posição ofensiva, fazendo com que você fique descuidado em suas defesas. Você recebe 1d6 a mais de dano sempre que receber dano. No entanto, seu próximo ataque realizado tem vantagem para acertar.
-
-Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano.  Esse efeito é permanente e está sempre ativo.
 
 ## Ataque Carregado
 
@@ -236,7 +233,7 @@ Você carrega seu próximo ataque corpo a corpo, fazendo com que ele cause mais 
 **Custo**: Duas Ações, 2 de mana.
 **Requisitos**: Um arco e uma flecha equipados. Arcos e flechas conjurados também poderão ser utilizados.
 
-Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior. O alvo terá que realizar um teste de constituição CD 14 + dex. Caso falhe, terá 5 de vulnerabilidade a dano perfurante até o início de seu próximo turno. Esta habilidade causa o dano de um ataque normal, mas ignora resistências e imunidades a dano perfurante. Além disso, este ataque não conta para as penalidades de ataque no mesmo turno.
+Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior. O alvo terá que realizar um teste de constituição CD 14 + dex. Caso falhe, terá 5 de vulnerabilidade a dano perfurante até o início de seu próximo turno. Esta habilidade causa o dano de um ataque normal, mas ignora resistências e imunidades a dano perfurante. Além disso, este ataque não conta para as penalidades de ataque no mesmo turno. Você não pode mais atacar neste turno.
 
 ## Canção do Perecimento
 
@@ -249,6 +246,7 @@ Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciad
 
 **Requisitos**: 2 de destreza.
 **Duração**: 1 rodada.
+**Custo**: 1 de mana.
 
 Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você abdica das três ações de seu turno para ser capaz de usar três reações nessa rodada. Os inimigos tem -5 para te acertar enquanto esta habilidade estiver ativa. Caso errem, você pode realizar uma ação de ataque com vantagem. Você não sofre penalidades de ataque enquanto a habilidade durar.
 
@@ -258,4 +256,4 @@ Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz
 **Custo**: 1 ação e 1 de mana.
 **Alcance**: deslocamento.
 
-Você seleciona até 2 alvos no alcance desta habilidade. Após isso, você toca uma música que os inspira, fazendo-os ter vantagem no próximo ataque. Caso errem o ataque, mantém a vantagem no próximo até acertar.
+Você seleciona até 2 alvos no alcance desta habilidade. Após isso, você toca uma música que os inspira, fazendo-os ter vantagem no próximo ataque. Caso errem o ataque, mantém a vantagem até acertar.

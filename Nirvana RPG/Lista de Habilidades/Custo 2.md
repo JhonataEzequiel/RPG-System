@@ -6,7 +6,7 @@ Toda vez que você utilizar inspiração, adicione os seguintes benefícios:
 
 * Você ignora terreno difícil, e seus aliados tem mais 1.5m de deslocamento em terreno difícil.
 * Você adiciona o seu modificador de carisma à sua CA.
-* Escolha um aliado para receber um turno extra nesta rodada. Ele só poderá atacar, se locomover, ou usar magias. Quaisquer ações derivadas de habilidades não poderão ser usadas.
+* Escolha um aliado para receber um turno extra nesta rodada. Ele só poderá atacar, se locomover, ou usar magias. Quaisquer ações derivadas de habilidades não poderão ser usadas. Só pode ser usada uma vez por encontro.
 
 ## Golpe Duplo
 
@@ -150,7 +150,7 @@ Escolha dentre um dos seguintes estilos de luta. O jogador só poderá escolher 
 **Duelista de Escudo:** Caso o jogador esteja com uma arma de uma mão equipada em uma mão, e um escudo na outra, os seguintes bônus lhe serão concedidos:
 
 * **Ajudar (reação):** Se um aliado estiver perto de você e ele for atacado fora do seu turno, você pode efetuar uma manobra evasiva com seu escudo, e tomar o golpe no lugar dele, recebendo metade do dano. A distância máxima que um aliado pode estar de você é metade do seu deslocamento. Você não poderá utilizar uma ação bônus no seu próximo turno. Você recebe 1d4 + for de pontos de vida temporários, que duram até o seu próximo turno, ao realizar esta ação.
-* **Aparar (reação):** Caso o inimigo tire exatamente o número da sua CA ou menor numa rolagem de ataque, você poderá repelir o ataque com o seu escudo e contra atacar em seguida. Este contra-ataque não contará para seu número de ações no seu turno, mas terá uma penalidade de -5. Caso o inimigo tenha um erro crítico na rolagem, você não terá penalidade alguma. 
+* **Aparar (reação):** Caso o inimigo tire exatamente o número da sua CA ou menor numa rolagem de ataque, você poderá repelir o ataque com o seu escudo e contra atacar em seguida. Este contra-ataque terá uma penalidade de -5. Caso o inimigo tenha um erro crítico na rolagem, você não terá penalidade alguma. 
 
 **Empunhadura Dupla:** O jogador se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é físico.
 
@@ -229,7 +229,7 @@ Alternativamente, se você estiver em combate com a criatura, você recebe um b�
 
 **Requisitos**: 3 de carisma. Ser perito em música.
 
-Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de atributo, pontos de vida temporários, ou adicionar pontos para ajudar alguém a realizar uma ação, você utiliza-se da música para aumentar a quantidade de bônus concedido. A quantidade aumentada é igual ao seu modificador de carisma.
+Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de atributo, pontos de vida temporários, ou adicionar pontos para ajudar alguém a realizar uma ação, você se utiliza da música para aumentar a quantidade de bônus concedido. A quantidade aumentada é igual ao seu modificador de carisma.
 
 ## Dissonância
 

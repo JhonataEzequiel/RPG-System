@@ -145,7 +145,7 @@ Alternativamente, você pode realocar os seus atributos da maneira que quiser. T
 **Requisitos**: 10 de força.
 **Custo**: 3 ações.
 
-Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d8 + for de dano verdadeiro. O inimigo tem desvantagem no próximo ataque dele.
+Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d12 + força de dano verdadeiro. O inimigo tem desvantagem no próximo ataque dele.
 
 ## Fusão
 
@@ -199,7 +199,7 @@ Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mes
 
 **Requisitos**: 8 de força.
 
-Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 50% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 75.
+Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 50% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 75. Essa habilidade é ativa o tempo todo, e só funciona com ataques físicos.
 
 ## Rei Oculto
 
@@ -209,3 +209,14 @@ Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus ti
 Sempre que houver um aliado dentro do alcance desta habilidade, você será bem sucedido em testes de furtividade, e não sairá do estado de furtividade quando realizar outras ações, como atacar ou falar. 
 
 Uma vez ao dia, você pode escolher um aliado no alcance para conceder-lhe +10 em qualquer teste que ele for fazer.
+
+## Arqui-mãe
+
+**Requisitos**: Habilidade "Saúdem o Rei" de custo 3. 10 de inteligência.
+**Custo**: 3 ações, 4 de mana.
+**Alcance**: deslocamento.
+**Duração**: Concentração, até 1 encontro.
+
+Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da habilidade utilizarão o atributo ao invés do modificador em qualquer teste que fizerem na duração desta habilidade. Além disso, concede uma quantidade igual aos seus pontos de vida atuais como pontos de vida temporários a todos os seus aliados, menos a você mesmo. Os inimigos sabem que você utilizou essa habilidade, e num geral tendem a te atacar antes dos seus aliados, mas podem optar por não atacar você. 
+
+Essa habilidade ignora a ordem de iniciativa, se você optar por utilizá-la no início da rodada. A cada rodada você gasta 4 pontos de mana enquanto se manter concentrado.

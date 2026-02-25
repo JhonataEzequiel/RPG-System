@@ -2,26 +2,15 @@ As perícias são basicamente habilidades individuais que os personagens dos jog
 
 | Nível | Bônus de proficiência |
 | ----- | --------------------- |
-| 1     | +2                    |
-| 2     | +3                    |
-| 3     | +4                    |
-| 4     | +4                    |
-| 5     | +5                    |
-| 6     | +5                    |
-| 7     | +8                    |
-| 8     | +8                    |
-| 9     | +8                    |
-| 10    | +10                   |
-| 11    | +10                   |
-| 12    | +10                   |
-| 13    | +12                   |
-| 14    | +12                   |
-| 15    | +12                   |
-| 16    | +13                   |
-| 17    | +15                   |
-| 18    | +15                   |
-| 19    | +15                   |
-| 20    | +16                   |
+| 1-2   | +2                    |
+| 3-4   | +3                    |
+| 5-7   | +4                    |
+| 8-10  | +5                    |
+| 11-13 | +6                    |
+| 14-17 | +7                    |
+| 18-19 | +8                    |
+| 20    | +10                   |
+
 
 O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regras detalhadas na criação de personagens:
 
@@ -33,8 +22,7 @@ O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regr
 
 ## Força
 
-1. Erguer pesos: determina a capacidade do jogador de erguer algo por tempo determinado, por exemplo, levantar uma rocha que esteja no caminho.
-2. Atletismo: capacidade de manter-se constante em terrenos de difícil travessia, como nadar, estar com o corpo parcialmente coberto por água ou lama, dentre outras coisas.
+1. Atletismo: capacidade de manter-se constante em terrenos de difícil travessia, como nadar, estar com o corpo parcialmente coberto por água ou lama, dentre outras coisas. Além disso, determina a capacidade de erguer pesos por tempo determinado, como levantar uma rocha no meio do caminho.
 
 ## Destreza
 
@@ -46,14 +34,15 @@ O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regr
 
 1. Arcanismo: determina a capacidade do jogador de conseguir identificar coisas mágicas, como itens, poções, pergaminhos, etc.
 2. Linguística: determina a capacidade do jogador de entender um idioma o qual ele não fala. Além disso, cada ponto no modificador de inteligência agora dá ao jogador a capacidade de falar um idioma a mais.
+3. Investigação: determina a capacidade de procurar pistas sobre algum evento em um determinado ambiente.
 
 ## Fé
 
 1. Medicina: capacidade de estancar sangramentos, imobilizar ossos quebrados, aplicar os primeiros socorros em alguém, estabilizar alguém, etc.
-2. Identificar motivação: o jogador pode tentar descobrir se outro personagem quer o bem ou o mal em uma determinada ação.
+2. Intuição: o jogador pode tentar descobrir se outro personagem quer o bem ou o mal em uma determinada ação. Também consegue intuir as reais intenções de alguém, apesar de não ter uma resposta final totalmente confiável.
 
 ## Carisma
 
 1. Conversação: determina a capacidade do jogador de intimidar, persuadir, ou barganhar com outros personagens. Podendo encerrar batalhas, ou iniciar outras, dependendo das circunstâncias.
 2. Atuação: determina a capacidade de se passar por outros personagens, ou enganar alguém.
-3. Música: Capacidade de cantar ou tocar um instrumento musical. Caso seja proficiente em música, você deve escolher uma quantidade de instrumentos igual ao seu modificador de carisma. A voz conta como um instrumento. Você saberá tocar os instrumentos escolhidos.
+3. Música: Capacidade de cantar ou tocar um instrumento musical. Caso seja proficiente em música, você deve escolher uma quantidade de instrumentos igual ao seu modificador de carisma. A voz conta como um instrumento, ou seja, saber cantar necessitará que você escolha a voz como uma de suas opções musicais. Você saberá tocar os instrumentos escolhidos.

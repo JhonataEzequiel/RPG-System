@@ -24,6 +24,10 @@ Para um ataque obter sucesso (seja ele mágico ou físico) ele precisará penetr
 
 Se o jogador optar por usar duas armas de uma mão ao mesmo tempo, suas penalidades por ataques subsequentes aumentarão em relação a uma arma só. De -5 no segundo ataque irá para -10, e de -10 no terceiro para -15. É possível se livrar dessas penalidades adicionais conseguindo habilidades que proporcionem isso.
 
+## Ataques de Oportunidade
+
+Caso você tente andar ou correr e passar no alcance de um inimigo, o inimigo pode te atacar. Isso não conta como uma reação.
+
 ## Coeficiente de Armadura (CA)
 
 Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. Ela é calculada da seguinte maneira:
@@ -39,3 +43,7 @@ O dano é representado pela quantidade de dados que deverá ser rolada para cheg
 ## Ações lendárias
 
 Alguns monstros possuirão ações lendárias, que são ações que podem ser usadas como ação bônus no início do turno da criatura. As ações lendárias estarão na descrição dos monstros caso eles as possuam. Normalmente são dadas apenas a criaturas extremamente fortes.
+
+## Correr e Desengajar
+
+Andar é considerada uma ação livre. Ao correr, você gasta 2 ações e seu deslocamento é dobrado. Desengajar impede ataques de oportunidade, e custa 3 ações. Seu deslocamento também é dobrado ao desengajar. 
