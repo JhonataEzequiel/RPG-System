@@ -47,3 +47,7 @@ Alguns monstros possuirão ações lendárias, que são ações que podem ser us
 ## Correr e Desengajar
 
 Andar é considerada uma ação livre. Ao correr, você gasta 2 ações e seu deslocamento é dobrado. Desengajar impede ataques de oportunidade, e custa 3 ações. Seu deslocamento também é dobrado ao desengajar. 
+
+## Rastejar
+
+Ao rastejar, seu deslocamento é diminuído pela metade. Normalmente é causado por condições negativas, ou quando se é necessário passar por um local estreito.
