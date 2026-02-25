@@ -2,4 +2,4 @@ A força de um personagem determinará o quanto de peso ele pode carregar de uma
 
 | Humano         | Elfo           | Gnomo          | Anão           | Fjer           | Siderium       |
 | -------------- | -------------- | -------------- | -------------- | -------------- | -------------- |
-| 30+(nível*for) | 20+(nível*for) | 10+(nível*for) | 40+(nível*for) | 10+(nível*for) | 20+(nível*for) |
+| 35+(nível*for) | 30+(nível*for) | 20+(nível*for) | 40+(nível*for) | 15+(nível*for) | 20+(nível*for) |

@@ -50,7 +50,7 @@ A criatura larga o que estiver segurando e cai no chão.
 
 A criatura falha automaticamente em salvaguardas de Força e Destreza.
 
-Jogadas de ataque contra a criatura têm vantagem. Qualquer ataque que acerte a criatura é um acerto crítico se o atacante estiver a até 1,5m da criatura.
+Jogadas de ataque contra a criatura têm vantagem. Qualquer ataque que acerte a criatura é um acerto crítico se o atacante estiver a até 1.5m da criatura.
 
 ### Invisível
 
