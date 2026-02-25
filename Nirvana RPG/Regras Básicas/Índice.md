@@ -1,6 +1,7 @@
 [[Vida]]
 [[Mana]]
 [[Criação de Personagens]]
+[[Níveis]]
 [[Pontos de Atuação]]
 [[Perícias]]
 [[Modificadores]]
@@ -12,3 +13,4 @@
 [[Carga de Peso]]
 [[Elementos do Cenário]]
 Combate: [[Regras Básicas/Combate/Índice]]
+[[Condições]]
