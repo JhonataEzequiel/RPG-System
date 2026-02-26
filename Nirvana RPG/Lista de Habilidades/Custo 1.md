@@ -257,3 +257,27 @@ Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz
 **Alcance**: deslocamento.
 
 Você seleciona até 2 alvos no alcance desta habilidade. Após isso, você toca uma música que os inspira, fazendo-os ter vantagem no próximo ataque. Caso errem o ataque, mantém a vantagem até acertar.
+
+## Linha de Frente
+
+**Requisitos**: Usar armadura pesada. 2 de força e 1 de constituição.
+
+Toda vez que um aliado estiver dentro do alcance do seu deslocamento você receberá +3 pontos de vida toda vez que for curado de alguma maneira. Além disso, se a cura vier de um aliado esse bônus será de +5. No entanto, você não poderá se mover no turno em que receber a cura.
+
+## Canhão de Vidro
+
+**Requisitos**: 2 de força ou 2 de destreza.
+
+Você não pode mais usar qualquer armadura, nem mesmo armadura mágica. Sua CA não poderá ultrapassar 16 independente do que aconteça. Em troca, você recebe +1 ponto na margem de ameaça. Se você estiver nível 12 ou maior, a margem de ameaça aumenta em +1 ponto.
+
+## Do nada à nata
+
+**Requisitos**: Esta habilidade só pode ser escolhida nível 1.
+
+Você não ganha nada ao adquirir esta habilidade, mas a medida do tempo, quando atingir níveis superiores, você ganhará os seguintes benefícios:
+- Nível 5: aumenta a margem de ameaça em 1 ponto.
+- Nível 10: aumenta a CA em 1 ponto.
+- Nível 15: +1 ponto de atributo.
+- Nível 20: +1 ponto de habilidade.
+
+Você não pode escolher outras habilidades além desta no nível 1.
