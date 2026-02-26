@@ -220,3 +220,20 @@ Uma vez ao dia, você pode escolher um aliado no alcance para conceder-lhe +10 e
 Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da habilidade utilizarão o atributo ao invés do modificador em qualquer teste que fizerem na duração desta habilidade. Além disso, concede uma quantidade igual aos seus pontos de vida atuais como pontos de vida temporários a todos os seus aliados, menos a você mesmo. Os inimigos sabem que você utilizou essa habilidade, e num geral tendem a te atacar antes dos seus aliados, mas podem optar por não atacar você. 
 
 Essa habilidade ignora a ordem de iniciativa, se você optar por utilizá-la no início da rodada. A cada rodada você gasta 4 pontos de mana enquanto se manter concentrado.
+
+## Blitzkrieg
+
+**Requisitos**: 10 de destreza. 
+**Custo**: 3 ações, 1 de mana.
+
+Você escolhe um alvo dentro de até o triplo do seu deslocamento. Caso você esteja furtivo, ou com pelo menos 2 aliados no alcance do seu deslocamento, role um teste de inteligência ou sabedoria para identificar algum ponto cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse ataque será considerado crítico. O alvo fica atordoado caso falhe numa salvaguarda de constituição CD 12 + des. Ele pode realizar o teste novamente no início do turno dele. Esta habilidade não provoca ataques de oportunidade. Ignora terreno difícil.
+
+Caso você falhe em identificar o ponto cego do alvo, você perde seu turno e a mana gasta, mas você tem uma reação a mais nessa rodada.
+
+## General
+
+**Requisitos**: Habilidade "Comandante" de custo 2. 6 de carisma, 4 de constituição.
+
+Você abdica de todos os seus pontos de mana e os converte em pontos de vida. Além disso, 2 vezes ao dia você pode escolher ter sucesso em qualquer teste de constituição ou carisma caso falhe. 
+
+**Ordem** (3 ações): sempre que um aliado seu for nocauteado em um encontro que você esteja participando, você dá um comando com sua voz, que o faz ficar estável automaticamente. No entanto nem você nem ele poderão ficar furtivos pelo resto do dia. Você só pode dar uma ordem por aliado até ter um descanso longo.

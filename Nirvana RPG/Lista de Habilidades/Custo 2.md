@@ -242,3 +242,9 @@ Adicione seu modificador de carisma ao dano de qualquer magia de dano que você 
 **Requisitos**: 2 de carisma, inteligência, ou fé.
 
 Toda vez que uma magia com efeito em área poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 ponto de mana adicional quando conjurar a magia para tornar todos os seus aliados imunes também.
+
+## Comandante
+
+**Requisitos**: 1 de carisma, 1 de constituição.
+
+Caso você não seja proficiente em conversação, você ganha essa proficiência. Caso você já seja, adicione 1d8 aos seus pontos de vida totais. Você ganha +5 em testes relacionados a qualquer contexto militar fora de um encontro em que você esteja participando, como comandar tropas ao longe, avaliar o resultado de um combate, tentar entender a história de uma região devastada por uma guerra, ou qualquer coisa do gênero.
