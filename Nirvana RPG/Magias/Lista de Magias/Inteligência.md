@@ -52,15 +52,21 @@ Troca: 5 de inteligência. Imaculada.
 
 Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.
 
+Alucinação: 5 de inteligência. Ilusão.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.
+
+Despistar: 6 de carisma ou inteligência. Ilusão.
 
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
 Arco Cromático: 7 de inteligência. Elemental.
+
+Doppelganger: 7 de inteligência. Ilusão.
 
 ### Custo 8:
 
@@ -71,6 +77,8 @@ Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 ### Custo 9:
 
 Nihil: 8 de inteligência, 9 de fé. Sangue.
+
+Mansão Mental: 9 de inteligência. Ilusão.
 
 ### Custo 10:
 

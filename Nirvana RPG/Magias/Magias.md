@@ -6,6 +6,8 @@ Uma magia pode mostrar vários requisitos, mas requerer apenas um. Neste caso, o
 
 Um personagem pode conhecer uma magia, equipá-la, ou não conhecê-la. Após um descanso longo, é possível trocar as magias equipadas. Isso também é válido para os arcanos menores. A quantidade de magias conhecidas e equipáveis, assim como os arcanos menores conhecidos e equipáveis, estará de acordo com a passiva inicial de sabedoria.
 
+Magias com alcance "toque" podem ser utilizadas no próprio conjurador. Basta que ele toque em si mesmo e conjure a magia.
+
 ## Layout Básico
 
 ### Nome da Magia

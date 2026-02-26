@@ -32,6 +32,8 @@ Canalizar Energia: 3 de fé ou carisma. Sagrada.
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.
 
+Despistar: 6 de carisma ou inteligência. Ilusão.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
