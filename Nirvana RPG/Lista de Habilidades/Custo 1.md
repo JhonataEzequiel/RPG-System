@@ -274,7 +274,7 @@ Você não pode mais usar qualquer armadura, nem mesmo armadura mágica. Sua CA 
 
 **Requisitos**: Esta habilidade só pode ser escolhida nível 1.
 
-Você não ganha nada ao adquirir esta habilidade, mas a medida do tempo, quando atingir níveis superiores, você ganhará os seguintes benefícios:
+Você não ganha nada ao adquirir esta habilidade, mas quando atingir níveis superiores, você ganhará os seguintes benefícios:
 - Nível 5: aumenta a margem de ameaça em 1 ponto.
 - Nível 10: aumenta a CA em 1 ponto.
 - Nível 15: +1 ponto de atributo.
