@@ -15,5 +15,5 @@
 - Alcance: Toque
 - Tempo de Conjuração: 2 ações
 
-**Descrição:** Você toca uma criatura com 0 pontos de vida, a estabilizando no processo. A criatura volta com 1 ponto de vida, e tem qualquer sagramento ou ferida estancados. O alvo tem desvantagem em testes de sabedoria, mas tem vantagem em testes de inteligência durante a duração.
+**Descrição:** Você toca uma criatura com 0 pontos de vida, a estabilizando no processo. A criatura volta com 1 ponto de vida, e tem qualquer sagramento ou ferida estancados. O alvo tem -2 em qualquer teste que for realizar, exceto os de inteligência.
 

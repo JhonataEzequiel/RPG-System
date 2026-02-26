@@ -11,4 +11,4 @@ Caso deseje curar, todos que estiverem dentro de um raio de 6 metros a partir do
 
 Caso deseje causar dano, ele será dano sagrado, e causará 8d6 + fth de dano a todos dentro do mesmo raio de 6 metros. Aliados também são afetados pelo dano, assim como o próprio usuário, caso esteja na área de impacto.
 
-Caso o usuário deseje, pode aumentar o custo em 1 ponto de mana por ponto de fé adicional que ele tiver. Isso adicionará 1d6 tanto na cura, quanto no dano. O limite é 10 de custo, ou seja, 6 pontos adicionais.
+Caso o usuário deseje, pode aumentar o custo em 1 ponto de mana por ponto de fé adicional que ele tiver. Isso adicionará 1d6 tanto na cura, quanto no dano.

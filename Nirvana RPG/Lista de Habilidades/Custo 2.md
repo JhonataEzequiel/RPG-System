@@ -236,3 +236,9 @@ Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de atrib
 **Requisitos**: 3 de carisma. Ser perito em música.
 
 Adicione seu modificador de carisma ao dano de qualquer magia de dano que você conjurar. Você agora pode gastar o dobro do custo de mana da magia para causar o dobro de dano. Ou seja, se uma magia custa 3 de mana, e depois da rolagem de dados causou 12 de dano, agora custará 6 e causará 24. O dano dobrado será o final. Você só pode dobrar o custo e dano antes de conjurar a magia e rolar os dados.
+
+## Assinatura de Mana
+
+**Requisitos**: 2 de carisma, inteligência, ou fé.
+
+Toda vez que uma magia com efeito em área poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 ponto de mana adicional quando conjurar a magia para tornar todos os seus aliados imunes também.

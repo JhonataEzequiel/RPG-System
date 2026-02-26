@@ -5,7 +5,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: 3 ações
 
-**Descrição:** Você toca uma criatura no alcance da magia que deve passar por um teste de sabedoria CD 14 + (car ou int). 
+**Descrição:** Você toca uma criatura no alcance da magia que deve passar por um teste de resistência de sabedoria CD 14 + (car ou int). 
 
 Em caso de haver falha, você toma controle total da criatura, que obedecerá suas ordens. A criatura também ganha a condição encantado. Você basicamente ganha acesso a todas as estatísticas e ações da criatura, e pode utilizá-la como desejar. A ordem de iniciativa permanece a mesma, ou seja, quando for a vez da criatura agir, você agirá por ela.
 

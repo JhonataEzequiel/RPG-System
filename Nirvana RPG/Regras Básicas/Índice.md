@@ -7,7 +7,7 @@
 [[Modificadores]]
 [[Deslocamento]]
 [[Descansos]]
-[[Rolagem de Dados]]
+[[Interações com o mundo]]
 [[Atributos]]
 [[Habilidades]]
 [[Carga de Peso]]

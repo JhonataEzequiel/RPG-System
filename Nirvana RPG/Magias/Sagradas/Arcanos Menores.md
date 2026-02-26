@@ -17,4 +17,4 @@ Se você tiver 4 de fé, aumente o dano adicionado para 2d10 + fth, e os pontos 
 - Alcance: Toque
 - Tempo de Conjuração: 1 ação
 
-**Descrição:** Você toca uma criatura ao seu alcance. Se esta criatura estiver nocauteada, ela recobra a consciência, voltando a vida com 1 ponto de vida.
+**Descrição:** Você toca uma criatura ao seu alcance. Se esta criatura estiver nocauteada, ela recobra a consciência, voltando a vida com 1 ponto de vida. Uma mesma criatura só pode ser estabilizada novamente após ter um descanso longo.

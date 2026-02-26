@@ -8,10 +8,6 @@ As ações padrão serão utilizadas para determinar quanto esforço é necessá
 
 Existem certas atividades que não gastam ação alguma durante o turno para serem realizadas, como falar, largar um objeto, etc. Tais ações serão livres, podendo ser realizadas a vontade.
 
-## Testes
-
-Os testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um teste para ultrapassar a CA do oponente.
-
 ## Ações Bônus
 
 Ações bônus são aquelas que podem ser utilizadas no mesmo turno sem consumir uma ação padrão. Normalmente são dadas com magias e habilidades específicas. O mestre também pode decidir dar uma ação bônus para um jogador dependendo da situação, como quando o jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. **O jogador pode usar apenas 1 ação bônus por turno.** Caso deseje usar uma segunda ação bônus no mesmo turno, ela será tratada como uma ação normal, consumindo uma das 3 ações disponíveis.
@@ -20,11 +16,19 @@ Ações bônus são aquelas que podem ser utilizadas no mesmo turno sem consumir
 
 Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma magia que possa ser evitada por uma habilidade que concede uma reação ao jogador, ele poderá escolher utilizar essa reação para tentar evitá-la. Há um limite de 1 reação por rodada por personagem. A reação se recupera ao final de cada rodada, que é quando todos os participantes na ordem de iniciativa tiverem completado seus turnos. Uma vez usada durante uma rodada, o personagem não poderá reagir novamente até que a rodada atual termine.
 
-## Rolagem de Dados
+## Funcionamento dos Dados
 
 Na maioria das ações realizadas pelos jogadores eles precisarão rolar dados, seja para realizar um ataque, ou para investigar uma área. Normalmente o dado mais utilizado para realizar ações é o dado de 20 faces, e o resultado determinará o sucesso ou fracasso de uma certa ação. A dificuldade de realizar uma ação será definida pelo mestre. Exemplo: caso o mestre defina que para levantar uma pedra pesada o jogador precise de um resultado de 15 de força, o jogador precisará rolar um dado de 20 faces e caso o resultado seja maior ou igual a 15 ele consegue levantar a rocha.
 
 Cada habilidade, no entanto, também possui um modificador, e como se calcula eles está detalhado no tópico de modificadores no capítulo de regras. Esse modificador irá ser adicionado na rolagem de dados para decidir se uma ação terá sucesso ou não. Normalmente são utilizados para melhorar as chances de ataques ou de conseguir algo relacionado a perícias. Por exemplo, naquele mesmo exemplo da rocha, caso o jogador role o dado e resulte em 11, e ele tenha 8 de força, seu modificador adicionará 4 a mais a rolagem, totalizando 15, fazendo com que ele obtenha sucesso. E caso ele tenha a perícia, será o bônus de proficiência que será adicionado.
+
+## Testes
+
+Os testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um teste para ultrapassar a CA do oponente.
+
+## Salvaguardas (ou testes de resistência)
+
+Salvaguardas são testes feitos com o intuito de resistir a alguma coisa. Por exemplo, uma magia que causa uma explosão pode requerer que os alvos realizem uma salvaguarda de destreza para desviar do raio de impacto.
 
 ### Críticos e Margem de Ameaça
 

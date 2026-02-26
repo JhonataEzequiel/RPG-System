@@ -2,11 +2,13 @@
 
 - Requisito em Fé: 1
 - Requisito em Carisma: 1
-- Duração: 2 rodadas
-- Alcance: 9m em volta do usuário
-- Tempo de Conjuração: 1
+- Duração: 1 encontro
+- Alcance: deslocamento
+- Tempo de Conjuração: 1 ação
 
-**Descrição:** Adiciona 5 pontos de vida na vida máxima e na atual durante a duração, que desaparecem quando a magia acaba. O jogador deverá escolher até 3 criaturas no alcance para serem alvos dessa magia.
+**Descrição:** Adiciona 5 pontos de vida temporários, que desaparecem quando a magia acaba. Você deverá escolher até 3 criaturas no alcance para serem alvos dessa magia.
+
+Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana adicional que desejar gastar.
 
 ### Alarme
 
@@ -15,7 +17,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: 3 ações
 
-**Descrição:** Você põe um alarme em um objeto de até 6 metros cúbicos no alcance de suas mãos. Caso uma criatura toque naquele objeto durante a duração da magia, você será avisado telepaticamente. Você pode escolher criaturas para não acionarem o alarme.
+**Descrição:** Você põe um alarme em um objeto de até 6 metros cúbicos no alcance de suas mãos. Caso uma criatura toque naquele objeto durante a duração da magia, você será avisado telepaticamente. Você pode escolher quais criaturas não acionarão o alarme. O alarme se dissipa uma vez acionado.
 
 ### Armadura Arcana
 
