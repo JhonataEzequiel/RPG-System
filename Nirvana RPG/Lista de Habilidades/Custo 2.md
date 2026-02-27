@@ -6,7 +6,7 @@ Toda vez que você utilizar inspiração, adicione os seguintes benefícios:
 
 * Você ignora terreno difícil, e seus aliados tem mais 1.5m de deslocamento em terreno difícil.
 * Você adiciona o seu modificador de carisma à sua CA.
-* Escolha um aliado para receber um turno extra nesta rodada. Ele só poderá atacar, se locomover, ou usar magias. Quaisquer ações derivadas de habilidades não poderão ser usadas. Só pode ser usada uma vez por encontro.
+* Escolha um aliado para receber 3 ações adicionais. Ele só poderá atacar, se locomover, ou usar magias. Quaisquer ações derivadas de habilidades não poderão ser usadas. Ele poderá usar essas três ações logo após o seu turno acabar. Só pode conceder essas ações extras uma vez por descanso, seja ele curto ou longo.
 
 ## Golpe Duplo
 
@@ -17,7 +17,7 @@ Só pode ser usada uma vez por turno. Ao invés de gastar duas ações de ataque
 
 Caso não esteja empunhando armas leves, o seu segundo ataque neste turno não sofrerá penalidades de ataque, mas o terceiro ainda terá penalidade de -10. 
 
-Caso você acerte os dois ataques, terá vantagem para acertar o inimigo no próximo turno.
+**Risco e Recompensa** (ação bônus): Caso você acerte três ataques em um turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo ataque contra qualquer alvo no mesmo encontro. Se você acertar esse ataque, adicione 1d6 permanente a todo dano físico que você causar. O tipo de dano é igual ao da arma que você utilizar.
 
 ## Destrancar Rapidamente
 
@@ -32,14 +32,14 @@ Você também pode tentar desativar um autômato caso seja capaz de identificar 
 
 Você avança contra um inimigo que possa ver, dobrando seu deslocamento para isso. Seu próximo ataque terá vantagem para acertar, e você desvia de flechas e dardos até o início do seu próximo turno. 
 
-Caso esteja em furtividade, terá +5 de para acertar o ataque, e +5 de dano caso acerte. Seu deslocamento também dobra, mas você continua sem ser percebido.
+Caso esteja em furtividade, terá +5 de para acertar o ataque, e +5 de dano caso acerte. Seu deslocamento também dobra, e você continua sem ser percebido.
 
 ## Rajada de Estocadas
 
 **Requisitos:** Você empunha uma arma capaz de causar dano perfurante.
 **Custo:** Duas Ações.
 
-Esta ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um ataque normal e adicionando seu bônus de proficiência ao dano. O alvo ficará caído, e terá vantagem para se levantar no turno dele. Você não pode atacar mais até o início do próximo turno, o que inclui ataques de oportunidade.
+Esta ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um ataque normal e adicionando seu bônus de proficiência ao dano. O alvo ficará caído. Você não pode atacar mais até o início do próximo turno, o que inclui ataques de oportunidade.
 
 ## Folha na água
 
@@ -53,31 +53,27 @@ Você se move com destreza suficiente para conseguir caminhar, correr, pular, ou
 **Requisitos:** Criatura alvo deverá ser pequena ou média, não podendo ter imunidade a dano físico, e deverá estar ao alcance do jogador. 4 de força.
 **Custo:** duas ações.
 
-O jogador agarra um inimigo e o derruba no chão, impossibilitando o mesmo de realizar uma ação até que possa se levantar. Para impedir isso de acontecer, o adversário terá que passar num teste contra a tentativa do jogador, CD 11 + força, e o atributo do teste é destreza. Para levantar-se, o inimigo deverá repetir o teste. O teste poderá ser repetido até 3 vezes por turno, com a penalidade de repetição de ações sendo aplicada ao teste. Uma vez levantado, a criatura não poderá realizar uma ação até seu próximo turno.
+O jogador agarra um inimigo e o derruba no chão, que tem a condição caído. Para impedir isso de acontecer, o adversário terá que passar num teste de resistência contra a tentativa do jogador, CD 11 + força, e o atributo do teste é destreza. Uma vez levantado, a criatura não poderá realizar uma ação até seu próximo turno.
 
 ## Ataque Descontrolado
 
 **Custo:** três ações
 **Requisito:** estar empunhando uma arma de duas mãos. 6 de força.
 
-O jogador ataca todos os inimigos em um círculo centrado nele de raio igual ao seu deslocamento. Os inimigos precisarão passar num teste de destreza CD 12 + for para desviar do ataque. O dano do ataque, caso acerte, é calculado da seguinte maneira:
-$$
-Dano = 3*(DanoDaArma + For)
-$$
-O dano da arma deverá ser calculado antes de ser multiplicado. Ou seja, ao invés de rolar os dados 3 vezes, o jogador só rolará 1 vez e adicionará o modificador de força. Depois ele multiplicará por 3, e por fim somará o modificador de força mais uma vez.
+O jogador ataca todos os inimigos em um círculo centrado nele de raio igual ao seu deslocamento. Os inimigos precisarão passar num teste de resistência destreza CD 12 + for para desviar do ataque. O dano do ataque é o dano de um ataque normal, acrescentado de seu bônus de proficiência. Todos os inimigos afetados (que falharem no teste de resistência) terão a condição amedrontado.
 
 ## Estremecer
 
 **Custo:** 2 ações.
 **Requisito:** usar armadura pesada, habilidade "Derrubar" de custo 2. 6 de força.
 
-O jogador pisa no chão e o faz estremecer, derrubando todos os inimigos a frente dele num cone de tamanho igual a metade do deslocamento do jogador. Os inimigos terão os mesmos efeitos negativos da habilidade "Derrubar", inclusive os testes requeridos para resistir a essa habilidade serão os mesmos.
+O jogador pisa no chão e o faz estremecer, derrubando todos os inimigos a frente dele num cone de tamanho igual a metade do deslocamento do jogador. Os inimigos terão os mesmos efeitos negativos da habilidade "Derrubar", inclusive os testes requeridos para resistir a essa habilidade serão os mesmos. Caso sejam bem sucedidos no teste receberão 2d4 de dano de impacto.
 
 ## Marcas de Guerra Melhorada
 
 **Requisitos**: Habilidade "Marcas de Guerra" de custo 1.
 
-Esta habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 30. O jogador também poderá escolher se o bônus de dano concedido por esta habilidade será do mesmo tipo da arma, de fogo, ou de gelo.
+Esta habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 25. O jogador também poderá escolher se o bônus de dano concedido por esta habilidade será do mesmo tipo da arma, de fogo, ou de gelo.
 
 ## Arcano Aprimorado
 
@@ -127,9 +123,9 @@ Pode reduzir o custo de uma magia em 1 ponto, e reduzir um de seus requisitos em
 
 ## Mãos Espectrais
 
-**Requisitos**: 3 de força e 3 de inteligência.
+**Requisitos**: 3 de força e 3 de inteligência. Precisa estar desarmado.
 
-O usuário é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as mãos dele fizerem. Elas são maiores do que os braços normais, e podem ser ativadas com uma ação bônus no começo do turno do usuário. Elas garantem um alcance maior aos ataques de um personagem que as conjurar, além de causarem mais dano que ataques desarmados normalmente causariam. Podem também ser usadas para carregar itens a mais, aumentando a capacidade de carga pelo dobro da sua força.
+Você é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as mãos dele fizerem. Elas são maiores do que os braços normais, e podem ser ativadas com uma ação bônus no começo do turno do seu turno. Elas garantem um alcance maior aos ataques físicos, além de causarem mais dano que ataques desarmados normalmente causariam. Podem também ser usadas para carregar itens a mais, aumentando a capacidade de carga pelo dobro da sua força.
 
 - **Alcance das Mãos:** 9m + Deslocamento do Usuário
 
@@ -137,24 +133,25 @@ O usuário é capaz de criar mãos espectrais flutuantes que repetirão o mesmo 
 
 **Golpes Múltiplos (três ações):** Ataca uma vez pela esquerda e uma pela direita do inimigo, e finaliza com um golpe conjunto das duas mãos na vertical. Os primeiros 2 golpes causam 1d8 cada, e o final causa 3d8, totalizando 5d8. Além disso, deve-se somar o modificador de força, causando 5d8 + for no total como dano de impacto.
 
-**Cor:** a cor delas é definida pelo jogador, podendo ser vermelha ou azul. Cada cor terá ataques únicos delas, servindo como uma forma do jogador expressar o estilo de luta do personagem. A escolha será feita uma vez quando a habilidade for adquirida, e não pode ser desfeita.
+**Cor:** a cor delas é definida por você sempre que as conjurar, podendo ser vermelha ou azul. Cada cor terá ataques únicos delas, servindo como uma forma de expressar o estilo de luta do seu personagem. A escolha será feita uma vez quando a habilidade for adquirida, e não pode ser desfeita.
 
-- **Vermelhas:** Possuem garras grandes, capazes de desferir ataques cortantes. O usuário poderá escolher se “Golpear” será cortante ou de impacto. Caso seja cortante, ele será feito com as garras. Além disso, a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 1d8 + int de dano de fogo. Caso o acerto for crítico, o dano tem efeito em uma área de 4.5m a partir do local do impacto.
-- **Azuis:** São capazes de conjurar uma bola de fogo (três ações), com alcance igual a distância de ataque das mãos, que causa 3d8 + int de dano, além de causar dano contínuo até o fim do encontro caso o inimigo falhe em um teste de destreza CD 10 + inteligência, que será de 1d8.
+- **Neutras**: A cor neutra é a cor padrão das mãos, sendo um branco um pouco acinzentado. Você tem +30kg de capacidade de carga. Se as mãos espectrais estiverem carregando algo, você não poderá golpear com elas.
+- **Vermelhas:** Possuem garras grandes, capazes de desferir ataques cortantes. O usuário poderá escolher se “Golpear” será cortante ou de impacto. Caso seja cortante, ele será feito com as garras. Além disso, a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 1d8 + int de dano de fogo. Caso o acerto for crítico, o dano tem efeito em uma área de 4.5m de raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
+- **Azuis:** São capazes de conjurar uma bola de fogo (2 ações), com alcance igual a distância de ataque das mãos, que causa 3d8 + int de dano, além de causar dano contínuo até o fim do encontro caso o inimigo falhe em um teste de destreza CD 10 + inteligência, que será de 1d8.
 ## Estilo de Luta
 
 **Requisitos**: 3 de força e 3 de destreza.
 
-Escolha dentre um dos seguintes estilos de luta. O jogador só poderá escolher um estilo, e só terá uma chance de trocar de estilo (caso assim deseje) quando estiver no nível 7 de destreza e de força.
+Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com um descanso longo.
 
-**Duelista de Escudo:** Caso o jogador esteja com uma arma de uma mão equipada em uma mão, e um escudo na outra, os seguintes bônus lhe serão concedidos:
+**Duelista de Escudo:** Caso o jogador esteja com uma arma de uma mão equipada, e um escudo na outra mão, os seguintes bônus lhe serão concedidos:
 
-* **Ajudar (reação):** Se um aliado estiver perto de você e ele for atacado fora do seu turno, você pode efetuar uma manobra evasiva com seu escudo, e tomar o golpe no lugar dele, recebendo metade do dano. A distância máxima que um aliado pode estar de você é metade do seu deslocamento. Você não poderá utilizar uma ação bônus no seu próximo turno. Você recebe 1d4 + for de pontos de vida temporários, que duram até o seu próximo turno, ao realizar esta ação.
+* **Ajudar (reação):** Se um aliado estiver perto de você e ele for atacado fora do seu turno, você pode efetuar uma manobra evasiva com seu escudo, e tomar o golpe no lugar dele, recebendo metade do dano. A distância máxima que um aliado pode estar de você é metade do seu deslocamento. Você não poderá utilizar uma ação bônus no seu próximo turno. Você recebe de pontos de vida temporários iguais a sua força, que duram até o seu próximo turno, ao realizar esta ação. Esses pontos de vida não mitigam o dano do ataque defendido com esta reação, e só tem efeito depois de utilizá-la.
 * **Aparar (reação):** Caso o inimigo tire exatamente o número da sua CA ou menor numa rolagem de ataque, você poderá repelir o ataque com o seu escudo e contra atacar em seguida. Este contra-ataque terá uma penalidade de -5. Caso o inimigo tenha um erro crítico na rolagem, você não terá penalidade alguma. 
 
-**Empunhadura Dupla:** O jogador se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é físico.
+**Empunhadura Dupla:** Você se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é igual ao da arma.
 
-**Empunhadura Única:** Caso esteja utilizando apenas uma arma de uma mão, e mais nada na outra mão, consegue utilizar esta arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de ataque e de dano igual a 1d6 + for. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus igual ao modificador de destreza na CA.
+**Empunhadura Única:** Caso esteja utilizando apenas uma arma de uma mão, e mais nada na outra mão, consegue utilizar esta arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de ataque e de dano igual a 2d6 + for. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus de +1 na CA.
 
 **Posição de Poder:** Caso o jogador esteja utilizando uma arma de duas mãos, ele poderá utilizar ela em apenas uma mão, só que terá -1 em suas rolagens de ataque. Ao alcançar o nível 5 em força e destreza, poderá utilizar uma arma de duas mãos em cada mão, sem sofrer penalidades adicionais por isso.
 
@@ -164,25 +161,25 @@ Escolha dentre um dos seguintes estilos de luta. O jogador só poderá escolher 
 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 
-Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer imunidades a dano físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus ataques.
+Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer imunidades a dano físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus ataques. Você agora utiliza o atributo de destreza na iniciativa ao invés do modificador. Além disso, tem uma ação bônus a mais por encontro, podendo usá-la em qualquer um de seus turnos.
 
 ## Temperança
 
 **Requisitos**: 6 de fé. 2 de constituição.
 
-Você se torna imune a qualquer doença e dano venenoso. Além disso, qualquer teste de carisma usado contra você tem desvantagem.
+Você se torna imune a qualquer doença e dano venenoso. Além disso, qualquer teste de carisma usado contra você tem -4 para acertar.
 
 ## Fogo Fátuo
 
 **Requisitos**: 3 de inteligência. 3 de fé.
 
-Sempre que você causar dano de sortilégio com uma magia, pode transformar esse dano em dano de fogo. Além disso, aumente sua mana em 1d6.
+Sempre que você causar dano de sortilégio com uma magia, pode transformar esse dano em dano de fogo, e aumentar o dano em 1d6. Além disso, aumente sua mana em 1d6.
 
 ## Mente Focada
 
 **Requisitos**: 1 de sabedoria. 4 de inteligência.
 
-Você só pode recuperar mana com descansos longos, mas sua mana máxima atual é dobrada, ou seja, se você aumentar sua mana futuramente esse aumento não será dobrado.
+Você só pode recuperar mana com descansos longos, mas sua mana máxima atual é dobrada. Qualquer mana adquirida após adquirir essa habilidade não será dobrada.
 
 ## Pau para toda obra
 
@@ -191,8 +188,8 @@ Você só pode recuperar mana com descansos longos, mas sua mana máxima atual �
 Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente se especializar. Se algum de seus atributos tiver uma diferença de nível maior que um ponto, você perderá essa habilidade para sempre, assim como os pontos gastos para adquiri-la. Isso se aplica apenas aos pontos que você alocar, e bônus temporários não contam. Em troca, você recebe os seguintes bônus:
 
 1. 2d8 a mais para o dado de vida.
-2. 1d10 a mais para o dado de mana.
-3. Você tem +1 em todos os testes.
+2. 2d4 a mais para o dado de mana.
+3. Você tem +1 em todos os testes de resistência.
 4. Você causa +1 de dano sempre que causar dano, o dano adicional é igual ao do ataque.
 5. Você ganha +1 ponto de atributo.
 
@@ -213,7 +210,11 @@ Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha o
 - Ao final de seu turno, recupera toda a mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar mana. 
 - Imunidade a encantamento.
 
-Se caso após 6 tentativas não conseguir um jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um jackpot voltam a ser os iniciais.
+Se caso após 7 tentativas não conseguir um jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um jackpot voltam a ser os iniciais.
+
+## Dado de Sorte
+
+Uma vez por descanso longo ou curto você pode escolher o resultado de um dado que não seja de 20 lados.
 
 ## Marca de Caçador
 
@@ -254,9 +255,9 @@ Caso você não seja proficiente em conversação, você ganha essa proficiênci
 **Requisitos**: 5 de destreza.
 **Custo**: ação bônus.
 
-Até o início do seu próximo turno você não pode se utilizar de reações, ações de movimento (andar, correr, etc), e ações livres (falar, soltar um objeto, etc), e sua CA diminui em 2 pontos (mínimo de 0). Fazendo isso, você terá mais três ações neste turno. Além disso, você se concentra e recupera o fôlego durante o combate, curando-se em 1d6 + con.
+Até o início do seu próximo turno você não pode se utilizar de reações, ações de movimento (andar, correr, etc), e ações livres (falar, soltar um objeto, etc), e sua CA diminui em 2 pontos (mínimo de 0). Fazendo isso, você terá mais três ações neste turno. Ademais, você se concentra e recupera o fôlego durante o combate, curando-se em 1d6 + con.
 
-Você pode, alternativamente, só se curar ao invés de utilizar essa habilidade por completo. Fazendo isso você encerra seu turno, mas não sofre mais restrições de quais ações você pode ou não fazer. A cura também aumenta para 3d4 + con. Você ainda sofre a penalidade na CA.
+Você pode, alternativamente, só se curar ao invés de utilizar essa habilidade por completo. Fazendo isso você encerra seu turno, mas não sofre mais restrições de quais ações você pode ou não fazer. A cura também aumenta para 3d4 + con. Você ainda sofre a penalidade na CA até o início do seu próximo turno.
 
 ## Aura Aprimorada
 
@@ -265,3 +266,9 @@ Você pode, alternativamente, só se curar ao invés de utilizar essa habilidade
 Você agora pode adicionar metade do seu nível à iniciativa. 
 
 **Suprimir** (reação): Se uma criatura alvo no alcance de metade do seu deslocamento for receber dano que reduziria seus pontos de vida para 0, você pode recebê-lo no lugar, perdendo metade dos seus pontos de vida atuais. Você tem 3 de resistência a qualquer dano que a criatura que te atacou seja capaz de causar durante um encontro, e tem vantagem em testes de conversação contra a criatura, no entanto você não pode atacar a criatura (ou fazer qualquer ação que cause dano ou um efeito negativo a ela) até que o início do próximo turno daquele que você protegeu. Esta habilidade pode ser usada fora de combate, caso um de seus aliados receba dano de uma fonte não viva, como uma armadilha. Neste caso, você perderá metade dos seus pontos de vida máximos no processo, podendo ser nocauteado por isso. Você só pode usar esta reação uma vez por descanso longo. 
+
+## Mente Simples
+
+**Requisitos**: Esta habilidade só pode ser escolhida no nível 1.
+
+Todos os seus ataques são considerados críticos. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre.

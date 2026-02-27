@@ -31,3 +31,7 @@ Sangue: os feitiços de sangue normalmente são usados a partir do próprio sang
 É o tipo de dano que ignora todas as resistências e vulnerabilidades do alvo, essencialmente o dano verdadeiro recebido = dano verdadeiro causado sempre. Não existe imunidade ao dano verdadeiro em si, mas é possível ser imune à fonte que causa esse dano. 
 
 É possível que certas habilidades, magias, itens, ou outras coisas concedam resistência a todos os tipos de dano. Neste caso, dano verdadeiro será uma exceção. Não é possível resistir a dano verdadeiro.
+
+## Multiplicadores de Dano
+
+Sempre que você tiver que multiplicar o dano, seja por uma habilidade, ataque crítico, ou outra mecânica, os multiplicadores vão se multiplicar entre si. Ou seja, se uma habilidade deixa você dobrar o dano, e você tirou um ataque crítico, você irá quadruplicar o dano.

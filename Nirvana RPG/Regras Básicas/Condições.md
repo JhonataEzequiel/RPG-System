@@ -16,7 +16,7 @@ O deslocamento da criatura agarrada é reduzido a zero, e a criatura perde uma d
 
 ### Caído (ou derrubado)
 
-Uma criatura caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem desvantagem e jogadas de ataque. Quaisquer ataques direcionados a criatura tem vantagem para acertar caso o atacante esteja em até 1.5m de distância da criatura.
+Uma criatura caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem desvantagem em jogadas de ataque. Quaisquer ataques direcionados a criatura tem vantagem para acertar caso o atacante esteja em até 1.5m de distância da criatura. Ela pode se levantar com uma ção.
 
 ### Cego
 
