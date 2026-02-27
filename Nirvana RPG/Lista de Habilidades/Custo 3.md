@@ -243,3 +243,12 @@ Você abdica de todos os seus pontos de mana e os converte em pontos de vida. Al
 **Requisitos**: Habilidade "Aura Aprimorada" de custo 2. 4 de cada atributo.
 
 Você tem +3 em qualquer salvaguarda que tenha que fazer para evitar um efeito negativo de uma magia. Você também adiciona metade do seu nível a qualquer dano que causar por meio de ataques. Por último, adicione metade do seu nível como mana permanentemente.
+
+## Presa Ato IV
+
+**Requisitos**: Habilidade "Presa Ato III" de custo 2. 6 de destreza, 4 de inteligência. Ser capaz de realizar um ataque a distância.
+**Custo**: 3 ações.
+
+Você realiza um ataque a distância que sempre acerta o seu alvo. O alvo pode realizar um teste de resistência de constituição CD 12 + dex para diminuir o dano recebido em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do ataque, seu ataque sempre irá acertar. Você também consegue acertar um ataque a distância ainda que o inimigo fuja para outro plano de existência. 
+
+Além disso, de maneira passiva você sempre pode rolar novamente o dano de ataques a distância, escolhendo o maior valor entre eles.

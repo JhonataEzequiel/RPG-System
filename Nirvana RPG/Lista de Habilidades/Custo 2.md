@@ -276,3 +276,11 @@ Todos os seus ataques são considerados críticos. Ataques críticos efetuados c
 ## Minhas Regras
 
 Você ignora o limite máximo de nível de atributo.
+
+## Presa Ato III
+
+**Requisitos**: Habilidade "Presa Ato II" de custo 1. 3 de inteligência.
+**Custo**: 2 ações.
+**Duração**: 3 rodadas.
+
+Você pode acertar a si mesmo com um ataque que seria considerado um ataque a distância. Fazendo isso, você toma 1d4 + dex de dano do tipo da arma, e 1d4 de dano psíquico. No entanto você ganha 15 pontos de resistência a dano físico. Contra outros tipos de dano você ganha 5 de resistência. Caso o inimigo erre um ataque contra você enquanto esta habilidade estiver ativa, você aumenta a resistência a dano físico dessa habilidade permanentemente em 1 ponto, com um máximo de 5 pontos adicionais.

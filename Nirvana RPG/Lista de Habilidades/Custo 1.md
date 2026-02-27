@@ -295,3 +295,15 @@ Você não pode escolher outras habilidades além desta no nível 1.
 Você coloca sua divindade ou ideal como prioridade, abrindo o caminho para que tua crença vá à tua frente, o guiando. 
 
 Você adiciona seu modificador de fé na iniciativa. Você também pode realizar qualquer ação bônus fora do seu turno, uma vez por encontro, no início do turno de um aliado (o custo dessa habilidade diz respeito a esta ação bônus em questão). Esta ação bônus contará como se estivesse no seu turno, ou seja, se realizar outra ação bônus no seu turno ela será considerada uma ação normal. Se você já tiver usado uma ação bônus não poderá usar essa habilidade na rodada em questão.
+
+## Presa Ato I
+
+**Requisitos**: 2 de destreza.
+
+Você tem +2 de destreza até o início do seu próximo turno após realizar um ataque a distância. No entanto, você tem -2 em destreza até o início do seu próximo turno se realizar um ataque corpo a corpo.
+
+## Presa Ato II
+
+**Requisitos**: Habilidade "Presa Ato I" de custo 1. 3 de destreza.
+
+Sempre que você tiver um erro crítico ou erro normal em um ataque a distância você agora acerta, mas causa apenas 1 de dano do tipo do ataque.
