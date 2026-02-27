@@ -32,7 +32,7 @@ A devoção demonstrada pela sua dedicação será recompensada. A cada nível d
 | 9 a 10      | 3           |
 Além do bônus de CA, você receberá um ponto de atuação toda vez que tiver um descanso longo, e este ponto durará até o fim do próximo encontro.
 
-Alternativamente, você pode ser um devoto sem causa. Neste caso, você pode adicionar seu modificador de fé quando recuperar vida num descanso curto.
+Alternativamente a todos esses bônus mencionados, você pode ser um devoto sem causa. Neste caso, você pode adicionar seu modificador de fé quando recuperar vida num descanso curto, e também ganha +1 em iniciativa.
 
 ## Provocar
 
@@ -179,7 +179,7 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 
 **Requisitos**: 1 de cada atributo.
 
-A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicionais, uma vez.
+A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicionais, uma vez, quando adquirir essa habilidade.
 
 ## Bom Início
 
@@ -276,9 +276,18 @@ Você não pode mais usar qualquer armadura, nem mesmo armadura mágica. Sua CA 
 **Requisitos**: Esta habilidade só pode ser escolhida nível 1.
 
 Você não ganha nada ao adquirir esta habilidade, mas quando atingir níveis superiores, você ganhará os seguintes benefícios:
-- Nível 5: aumenta a margem de ameaça em 1 ponto, e tem +1 em iniciativa.
+- Nível 5: aumenta a margem de ameaça em 1 ponto, e tem +2 em iniciativa.
 - Nível 10: aumenta a CA em 1 ponto.
 - Nível 15: +1 ponto de atributo.
 - Nível 20: +1 ponto de habilidade.
 
 Você não pode escolher outras habilidades além desta no nível 1.
+
+## Porteiro do Divino
+
+**Requisitos**: 3 de fé.
+**Custo**: ação bônus, 1 de mana.
+
+Você coloca sua divindade ou ideal como prioridade, abrindo o caminho para que tua crença vá à tua frente, o guiando. 
+
+Você adiciona seu modificador de fé na iniciativa. Você também pode realizar qualquer ação bônus fora do seu turno, uma vez por encontro, no início do turno de um aliado (o custo dessa habilidade diz respeito a esta ação bônus em questão). Esta ação bônus contará como se estivesse no seu turno, ou seja, se realizar outra ação bônus no seu turno ela será considerada uma ação normal. Se você já tiver usado uma ação bônus não poderá usar essa habilidade na rodada em questão.

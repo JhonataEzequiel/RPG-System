@@ -28,4 +28,6 @@ Sangue: os feitiços de sangue normalmente são usados a partir do próprio sang
 
 ## Dano Verdadeiro
 
-É o tipo de dano que ignora todas as resistências e vulnerabilidades do alvo, essencialmente o dano verdadeiro recebido = dano verdadeiro causado sempre. Não existe imunidade ao dano verdadeiro em si, mas é possível ser imune à fonte que causa esse dano.
+É o tipo de dano que ignora todas as resistências e vulnerabilidades do alvo, essencialmente o dano verdadeiro recebido = dano verdadeiro causado sempre. Não existe imunidade ao dano verdadeiro em si, mas é possível ser imune à fonte que causa esse dano. 
+
+É possível que certas habilidades, magias, itens, ou outras coisas concedam resistência a todos os tipos de dano. Neste caso, dano verdadeiro será uma exceção. Não é possível resistir a dano verdadeiro.

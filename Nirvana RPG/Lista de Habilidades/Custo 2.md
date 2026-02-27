@@ -248,3 +248,20 @@ Toda vez que uma magia com efeito em área poderia te atingir, ela não mais o f
 **Requisitos**: 1 de carisma, 1 de constituição.
 
 Caso você não seja proficiente em conversação, você ganha essa proficiência. Caso você já seja, adicione 1d8 aos seus pontos de vida totais. Você ganha +5 em testes relacionados a qualquer contexto militar fora de um encontro em que você esteja participando, como comandar tropas ao longe, avaliar o resultado de um combate, tentar entender a história de uma região devastada por uma guerra, ou qualquer coisa do gênero.
+
+## Nove Vidas
+
+**Requisitos**: 5 de destreza.
+**Custo**: ação bônus.
+
+Até o início do seu próximo turno você não pode se utilizar de reações, ações de movimento (andar, correr, etc), e ações livres (falar, soltar um objeto, etc), e sua CA diminui em 2 pontos (mínimo de 0). Fazendo isso, você terá mais três ações neste turno. Além disso, você se concentra e recupera o fôlego durante o combate, curando-se em 1d6 + con.
+
+Você pode, alternativamente, só se curar ao invés de utilizar essa habilidade por completo. Fazendo isso você encerra seu turno, mas não sofre mais restrições de quais ações você pode ou não fazer. A cura também aumenta para 3d4 + con. Você ainda sofre a penalidade na CA.
+
+## Aura Aprimorada
+
+**Requisitos**: Habilidade "Aura" de custo 1. 2 de cada atributo.
+
+Você agora pode adicionar metade do seu nível à iniciativa. 
+
+**Suprimir** (reação): Se uma criatura alvo no alcance de metade do seu deslocamento for receber dano que reduziria seus pontos de vida para 0, você pode recebê-lo no lugar, perdendo metade dos seus pontos de vida atuais. Você tem 3 de resistência a qualquer dano que a criatura que te atacou seja capaz de causar durante um encontro, e tem vantagem em testes de conversação contra a criatura, no entanto você não pode atacar a criatura (ou fazer qualquer ação que cause dano ou um efeito negativo a ela) até que o início do próximo turno daquele que você protegeu. Esta habilidade pode ser usada fora de combate, caso um de seus aliados receba dano de uma fonte não viva, como uma armadilha. Neste caso, você perderá metade dos seus pontos de vida máximos no processo, podendo ser nocauteado por isso. Você só pode usar esta reação uma vez por descanso longo. 

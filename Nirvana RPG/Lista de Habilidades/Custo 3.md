@@ -237,3 +237,9 @@ Caso você falhe em identificar o ponto cego do alvo, você perde seu turno e a 
 Você abdica de todos os seus pontos de mana e os converte em pontos de vida. Além disso, 2 vezes ao dia você pode escolher ter sucesso em qualquer teste de constituição ou carisma caso falhe. 
 
 **Ordem** (3 ações): sempre que um aliado seu for nocauteado em um encontro que você esteja participando, você dá um comando com sua voz, que o faz ficar estável automaticamente. No entanto nem você nem ele poderão ficar furtivos pelo resto do dia. Você só pode dar uma ordem por aliado até ter um descanso longo.
+
+## Aura Suprema
+
+**Requisitos**: Habilidade "Aura Aprimorada" de custo 2. 4 de cada atributo.
+
+Você tem +3 em qualquer salvaguarda que tenha que fazer para evitar um efeito negativo de uma magia. Você também adiciona metade do seu nível a qualquer dano que causar por meio de ataques. Por último, adicione metade do seu nível como mana permanentemente.

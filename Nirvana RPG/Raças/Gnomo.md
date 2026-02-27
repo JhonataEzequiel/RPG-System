@@ -10,14 +10,14 @@ Existem dois tipos de gnomos, os feéricos e os da natureza. Além de suas habil
 
 ### Primeira forma
 
-Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede um aumento de armadura.
+Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede resistência a todos os tipos de dano.
 
-| Nível do gnomo | Armadura adicional |
-| -------------- | ------------------ |
-| 1              | 1                  |
-| 5              | 2                  |
-| 13             | 3                  |
-| 19             | 4                  |
+| Nível do gnomo | Resistência adicional |
+| -------------- | --------------------- |
+| 1              | 2                     |
+| 5              | 6                     |
+| 13             | 9                     |
+| 19             | 18                    |
 
 ### Segunda forma
 

@@ -43,3 +43,7 @@ Além das jogadas normais, existem condições que afetam a possibilidade de suc
 A vantagem é dada a um jogador caso a situação esteja a favor dele. Por exemplo, se o jogador quiser atacar um inimigo debilitado, ele pode ter vantagem se o mestre permitir. Essencialmente a vantagem é relacionada diretamente a jogada em questão. Caso o jogador tenha vantagem, ele pode rolar duas vezes para obter resultados diferentes, e nesse caso, escolherá obrigatoriamente o resultado mais alto das duas rolagens, aplicando o modificador em ambas.
 
 A desvantagem funciona de forma similar, no entanto o jogador escolherá o pior resultado das duas rolagens. Normalmente a desvantagem existe quando a situação não está favorável ao jogador, e também é decidida pelo mestre.
+
+## Arredondamentos
+
+Caso você precise arredondar um número, por exemplo, se precisar cortá-lo pela metade, sempre arredonde para baixo, a não ser que na descrição do que causar esse arredondamento esteja especificando para arredondar para cima.
