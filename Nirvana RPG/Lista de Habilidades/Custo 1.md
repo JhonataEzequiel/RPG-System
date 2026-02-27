@@ -55,7 +55,7 @@ Abaixo você poderá optar por uma das especializações disponíveis. Cada uma 
 
 ## Pele Dura
 
-A pele do usuário torna-se mais resistente a medida que ele recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que o usuário for nocauteado, ganha um bônus de 3 de resistência contra qualquer dano, com exceção do dano verdadeiro. O bônus é cumulativo, e é perpétuo.
+A pele do usuário torna-se mais resistente a medida que ele recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que o usuário for nocauteado, ganha um bônus de 3 de resistência contra qualquer dano. O bônus é cumulativo, e é perpétuo.
 
 ## Berserk
 
@@ -68,19 +68,19 @@ Tempo de duração: 1 turno.
 | Nível do Personagem | Dano Adicional |
 | ------------------- | -------------- |
 | 1-5                 | con            |
-| 6-10                | con+5          |
-| 11-15               | for+con+5      |
-| 16-20               | for+con+10     |
+| 6-10                | con+3          |
+| 11-15               | constituição+3 |
+| 16-20               | constituição+5 |
 ## Acrobata
 
-Desde que esteja usando armadura leve ou média, ganha +2 em testes de acrobacia. Pode usar desengajar como uma ação bônus uma vez por descanso longo.
+Desde que esteja usando armadura leve, média, ou nenhuma armadura, ganha +2 em testes de acrobacia. Pode usar desengajar como uma ação bônus uma vez por descanso longo.
 
 ## Postura defensiva
 
 **Custo:** 1 Ação, não pode mais atacar neste turno.
 **Duração:** Até o início do seu próximo turno.
 
-Só pode usar essa habilidade uma vez por encontro. Se o inimigo estiver armado e te atacar durante a duração, você pode realizar um teste de destreza utilizando o atributo como bônus (1d20 + destreza), com a CD igual a CA do inimigo, para desarmá-lo. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra, e pode cancelar o ataque, mas perderá a ação de qualquer forma, estando sujeito as penalidades de ações repetidas. Ou seja, caso ele cancele seu ataque e queira atacar novamente, o próximo teria -5 para acertar, e o terceiro teria -10.
+**Desarmar** (reação): Só pode usar essa habilidade uma vez por encontro. Se o inimigo estiver armado e te atacar durante a duração, você pode realizar um teste de destreza utilizando o atributo como bônus (1d20 + destreza), com a CD igual a CA do inimigo, para desarmá-lo. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra, e pode cancelar o ataque, mas perderá a ação de qualquer forma, estando sujeito as penalidades de ações repetidas. Ou seja, caso ele cancele seu ataque e queira atacar novamente, o próximo teria -5 para acertar, e o terceiro teria -10.
 
 Caso você não consiga desarmar, o dano recebido é reduzido conforme o seu modificador de destreza (-dex).
 
@@ -179,7 +179,9 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 
 **Requisitos**: 1 de cada atributo.
 
-A cada 10 níveis de atributo que você subir além do nível 1 de personagem ganhe um ponto de atributo adicional. Você também ganha 1d4 pontos de vida e mana adicionais, uma vez, quando adquirir essa habilidade.
+Naturalmente, no nível 1 de personagem você recebe 7 pontos para alocar como quiser, desde que respeite o máximo de dois pontos em um atributo só. Com essa habilidade, sempre que você tiver 10 pontos disponíveis ou alocados além dos 7 pontos iniciais, você ganhará 1 ponto extra.
+
+Além disso, você aumenta seus pontos de vida e mana em 1d4 uma única vez ao adquirir essa habilidade.
 
 ## Bom Início
 
@@ -197,7 +199,7 @@ Todos os seus ataques são considerados críticos. Ataques críticos efetuados c
 
 **Requisitos**: todos os atributos com valores iguais.
 
-Você evolui de nível mais rápido que os outros, recebendo o dobro de experiência por qualquer ação feita. No entanto, você só poderá incrementar seus atributos quando for capaz de colocar um ponto em cada de uma vez, e só poderá adquirir habilidades nos níveis pares. O ganho de pontos de atributo e habilidades continuará o mesmo.
+Você evolui de nível mais rápido que os outros, recebendo o dobro de experiência por qualquer ação feita. No entanto, você só poderá incrementar seus atributos quando for capaz de colocar um ponto em cada de uma vez. O ganho de pontos de atributo e habilidades continuará o mesmo.
 
 ## Descuidado
 
@@ -214,11 +216,11 @@ Você faz seu sangue borbulhar, tornando seu corpo completamente instável por u
 
 ## Maestria com lanças 
 
-**Requisitos**: Proficiência em armas marciais
+**Requisitos**: Proficiência em armas marciais e ter uma lança equipada.
 
 Com uma ação bônus, você pode trocar sua postura de batalha enquanto segurar uma lança ao final de seu turno. 
 
-A primeira postura aumenta sua constituição em 3 pontos e diminui a destreza e força em 3 pontos (mínimo de 0). Ganhe 5 pontos de resistência a qualquer dano, exceto dano verdadeiro.
+A primeira postura aumenta sua constituição em 3 pontos e diminui a destreza e força em 3 pontos (mínimo de 0). Ganhe 5 pontos de resistência a qualquer dano.
 
 A segunda postura te coloca em posição ofensiva, fazendo com que você fique descuidado em suas defesas. Você recebe 1d6 a mais de dano sempre que receber dano. No entanto, seu próximo ataque realizado tem vantagem para acertar.
 

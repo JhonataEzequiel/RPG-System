@@ -59,6 +59,8 @@ $NVMáximoAtributo=3+(NívelDoPersonagem/2)$
 
 Esse número deve ser arredondado para baixo. Ou seja, apenas no nível 14 serão capazes de ter um atributo no nível 10.
 
+Além disso, você pode guardar seus pontos de atributo para usar em outro nível. No nível 20, você é obrigado a alocá-los.
+
 ## Pontos de Habilidade
 
 Ao subir de nível, você receberá pontos de habilidades que poderão ser gastos para adquirir novas habilidades da lista de habilidades. É importante ressaltar que algumas habilidades custarão mais do que um ponto. A quantidade de pontos de habilidade ganha é igual aos pontos de atributo, ou seja, também seguirão a mesma tabela:
@@ -68,10 +70,17 @@ Ao subir de nível, você receberá pontos de habilidades que poderão ser gasto
 | 5, 10, 15, ou 20      | +2            |
 | Outros                | +1            
 
-Você pode adquirir qualquer habilidade que quiser, desde que tenha os pontos necessários para tal.
+Você pode adquirir qualquer habilidade que quiser, desde que tenha os pontos necessários para tal. Além disso, você pode guardar seus pontos de habilidade para usar em outro nível. No nível 20, você é obrigado a alocá-los.
+
+## Ganho de perícias adicionais
+
+Você pode optar por não gastar seus pontos de habilidade e escolher novas perícias no lugar. Ou seja, você não conseguirá novas habilidades naquele nível em específico. A quantidade de perícias que você pode adquirir em um único nível são duas. No total, você só pode adquirir uma quantidade de perícias igual ao seu modificador de sabedoria.
+
+A exceção a essa regra é o nível 20, aonde você poderá tanto adquirir perícias, quanto habilidades, visto que você não poderá guardar mais os seus pontos de habilidade.
+
 ### Pontos de Vida e Mana Adicionais
 
-Toda vez que subir de nível, o jogador adicionará seu dado de vida + con aos seus pontos de vida máximos. De maneira análoga, fará isso com o dado de mana + sab, adicionando o resultado aos pontos de mana máximos.
+Toda vez que subir de nível, você adicionará seu dado de vida + con aos seus pontos de vida máximos. De maneira análoga, fará isso com o dado de mana + sab, adicionando o resultado aos pontos de mana máximos.
 
 ### Habilidades de raça, habilidades de atributos, ou magias
 

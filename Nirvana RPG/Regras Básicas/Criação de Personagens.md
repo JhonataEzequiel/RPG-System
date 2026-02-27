@@ -2,15 +2,17 @@
 
 ## Escolha de atributos
 
-Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nível um, os jogadores terão 7 pontos disponíveis para distribuir entre os 7 atributos diferentes, que começarão em 0. Ainda no primeiro nível, não é permitido gastar mais do que 2 pontos em um atributo só. Para calcular o valor de atributos após o primeiro nível, vá ao capítulo de níveis. Não é permitido guardar pontos para usar em próximos níveis.
+Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nível um, os jogadores terão 7 pontos disponíveis para distribuir entre os 7 atributos diferentes, que começarão em 0. Ainda no primeiro nível, não é permitido gastar mais do que 2 pontos em um atributo só. Para calcular o valor de atributos após o primeiro nível, vá ao capítulo de níveis. Você pode guardar esses pontos para utilizá-los em outros níveis. Caso isso aconteça, você agora estará sujeito a regra de nível máximo de atributo descrita no capítulo de [[Níveis]].
 
 ## Limitação Inicial
 
 Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes pontos em outro atributo, ignorando o limite de nível máximo de um atributo. Um atributo com valor negativo tem seu modificador negativo também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor.
 
+Os 7 pontos iniciais do nível um ainda seguirão a limitação de nível máximo, seja a do nível 1 (máximo de 2 em um atributo), ou de níveis subsequentes. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma limitação inicial.
+
 ## Escolha de habilidades
 
-No nível 1, você possui dois pontos de habilidade para gastar como quiser.
+No nível 1, você possui dois pontos de habilidade para gastar como quiser. Você pode guardar esses pontos e utilizá-los em outro momento.
 
 ## Pontos de Vida
 
@@ -18,6 +20,7 @@ Todo personagem terá um dado de vida diferente, que aumentará conforme o níve
 
 | Nível de Constituição | Dado de vida |
 | --------------------- | ------------ |
+| <0                    | 1d4          |
 | 0                     | 1d6          |
 | 1                     | 1d8          |
 | 2                     | 1d10         |
@@ -52,7 +55,7 @@ O número de magias preparadas nunca poderá ser maior que o de magias conhecida
 | 9                  | 35                | 18                 | 10                         | 5                           | 1d8          |
 | 10                 | 40                | 20                 | 10                         | 5                           | 2d4          |
 
-Se a sua sabedoria for 0 ou inferior você tem 1 de mana.
+Se a sua sabedoria for 0 ou inferior você tem 1 ponto de mana, e a cada nível ganha mais 1 ponto de mana.
 
 Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 pontos de mana em qualquer teste que for realizar (3 pontos por teste), adicionando este número ao resultado final. Os pontos de mana gastos podem ser recuperados normalmente.
 ## Equipamento inicial
@@ -98,4 +101,4 @@ Além dos traços de personalidade, o jogador também deverá apontar uma qualid
 
 ### Defeitos
 
-Ninguém é perfeito, é necessário destacar, além das qualidades, alguns defeitos do personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
+Ninguém é perfeito. É necessário destacar, além das qualidades, alguns defeitos do personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
