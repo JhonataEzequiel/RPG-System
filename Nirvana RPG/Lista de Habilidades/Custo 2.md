@@ -272,3 +272,7 @@ Você agora pode adicionar metade do seu nível à iniciativa.
 **Requisitos**: Esta habilidade só pode ser escolhida no nível 1.
 
 Todos os seus ataques são considerados críticos. Ataques críticos efetuados contra você são considerados apenas ataques normais também. Porém, você não pode mais escolher nenhuma outra habilidade para sempre.
+
+## Minhas Regras
+
+Você ignora o limite máximo de nível de atributo.
