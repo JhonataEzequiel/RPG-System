@@ -18,6 +18,8 @@ Armadura Arcana: 1 de inteligência. Imaculada.
 
 Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 
+Esquentar Metal: 1 de inteligência. Elemental.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -44,6 +46,10 @@ Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 Campo Falso: 4 de inteligência. Ilusão.
 
+Congelamento: 4 de inteligência. Elemental.
+
+Pulo Suave: 4 de inteligência ou carisma. Imaculada.
+
 ### Custo 5:
 
 Aljava Elemental: 5 de inteligência. Elemental.
@@ -60,6 +66,8 @@ Chuva de Magma: 6 de inteligência. Elemental.
 
 Despistar: 6 de carisma ou inteligência. Ilusão.
 
+Nuvem Voadora: 6 de inteligência ou carisma. Imaculada.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -74,11 +82,15 @@ Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
 
 Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 
+Lança de Raio: 8 de inteligência. Elemental.
+
 ### Custo 9:
 
 Nihil: 8 de inteligência, 9 de fé. Sangue.
 
 Mansão Mental: 9 de inteligência. Ilusão.
+
+Serpente de Fogo: 9 de inteligência. Elemental.
 
 ### Custo 10:
 
@@ -89,3 +101,5 @@ Dimensão de Bolso: 10 de inteligência. Imaculada.
 Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
 
 Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
+
+Caos Cromático: 10 e inteligência. Elemental.

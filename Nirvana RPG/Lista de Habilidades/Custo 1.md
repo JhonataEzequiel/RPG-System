@@ -307,3 +307,15 @@ Você tem +2 de destreza até o início do seu próximo turno após realizar um 
 **Requisitos**: Habilidade "Presa Ato I" de custo 1. 3 de destreza.
 
 Sempre que você tiver um erro crítico ou erro normal em um ataque a distância você agora acerta, mas causa apenas 1 de dano do tipo do ataque.
+
+## Retirada Tática
+
+**Custo:** 1 de mana. Ação bônus.
+
+Ao adquirir esta habilidade, você sempre será o último nas iniciativas. Esta habilidade substitui desengajar, e tem os mesmos efeitos de desengajar. Se você não tiver mais mana, pode usar desengajar normalmente.
+
+## Escalador
+
+**Requisitos**: 5 de destreza ou força.
+
+Você tem +12 em qualquer teste de escalada fora de combate, e +5 em combate. Você pode pular mesmo em terreno difícil, mas o seu deslocamento de pulo é apenas metade do normal.

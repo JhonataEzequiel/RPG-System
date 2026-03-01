@@ -26,6 +26,8 @@ Canalizar Energia: 3 de fé ou carisma. Sagrada.
 
 ### Custo 4:
 
+Pulo Suave: 4 de inteligência ou carisma. Imaculada.
+
 ### Custo 5:
 
 ### Custo 6:
@@ -33,6 +35,8 @@ Canalizar Energia: 3 de fé ou carisma. Sagrada.
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.
 
 Despistar: 6 de carisma ou inteligência. Ilusão.
+
+Nuvem Voadora: 6 de inteligência ou carisma. Imaculada.
 
 ### Custo 7:
 

@@ -92,4 +92,4 @@ Magias são similares as habilidades de atributos, podendo também oferecer a op
 
 ### Indo além do nível 20
 
-Caso o mestre permita, é possível ir além do nível 20. Neste caso, cada nível subsequente te concederá um ponto de atributo e um ponto de habilidade.
+Caso o mestre permita, é possível ir além do nível 20. Neste caso, cada nível subsequente te concederá um ponto de atributo e um ponto de habilidade. O restante continua igual, você ganha pontos de vida e mana como sempre.
