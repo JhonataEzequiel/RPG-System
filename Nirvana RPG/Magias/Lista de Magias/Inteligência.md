@@ -20,6 +20,10 @@ Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 
 Esquentar Metal: 1 de inteligência. Elemental.
 
+Leitura Dinâmica: 1 de inteligência. Imaculada.
+
+Campo Anti-magia: 8 de inteligência. Imaculada.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -37,6 +41,8 @@ Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
 Bola de Fogo: 3 de inteligência. Elemental.
 
 Teletransporte: 3 de inteligência. Imaculada.
+
+Barreira de Sangue Cortante: 3 de fé, 3 de inteligência. Sangue.
 
 ### Custo 4:
 

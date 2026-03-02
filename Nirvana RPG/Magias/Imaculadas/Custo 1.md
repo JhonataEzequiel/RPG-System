@@ -41,8 +41,8 @@ Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana 
 ### Leitura Dinâmica
 
 - Requisito em Inteligência: 1
-- Duração: Instantânea
+- Duração: concentração
 - Alcance: 9m
-- Tempo de Conjuração: 1 hora (concentração)
+- Tempo de Conjuração: 1 hora
 
 **Descrição:** Você lê todos os livros e escritos que estiverem no alcance da magia acessando os conhecimentos contidos neles através de sua mente. Caso encontre uma magia você não a aprenderá, mas saberá de sua existência, e em qual dos livros está.

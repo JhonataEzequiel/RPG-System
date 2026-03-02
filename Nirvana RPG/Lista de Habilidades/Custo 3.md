@@ -252,3 +252,17 @@ Você tem +3 em qualquer salvaguarda que tenha que fazer para evitar um efeito n
 Você realiza um ataque a distância que sempre acerta o seu alvo. O alvo pode realizar um teste de resistência de constituição CD 12 + dex para diminuir o dano recebido em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do ataque, seu ataque sempre irá acertar. Você também consegue acertar um ataque a distância ainda que o inimigo fuja para outro plano de existência. 
 
 Além disso, de maneira passiva você sempre pode rolar novamente o dano de ataques a distância, escolhendo o maior valor entre eles.
+
+## ...Com ferro será ferido
+
+**Requisitos**: Habilidade "Quem com ferro fere..." de custo 2. 8 de constituição.
+**Custo**: 3 de mana.
+
+Gastando 3 de mana uma vez por encontro como ação livre, você pode executar qualquer uma das seguintes ações utilizando seus pontos de contingência:
+
+| Custo em pontos de contingência | Custo de ações | Efeito                                                                                                                                                                                                               |
+| ------------------------------- | -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1                               | reação         | Você adiciona +1 à CA de um aliado prestes a receber um ataque. Caso o ataque falhe por conta disso, você recebe +1 de resistência a qualquer dano causado pelo inimigo que realizou o ataque até o fim do encontro. |
+| 3                               | 2 ações        | Você desvia de todos os ataques físicos de alvo único direcionados a você até o início do seu próximo turno, mas tem desvantagem em salvaguardas até lá.                                                             |
+| 5                               | ação bônus     | Você ganha 5d6 de pontos de vida temporários até o início do seu próximo turno. Caso um inimigo te acerte com um ataque nesse meio tempo, ele tem -5 para te acertar novamente até o início do próximo turno dele.   |
+| 10                              | 3 ações        | Você aumenta todo o dano causado por você e um aliado a sua escolha em 5 pontos, independente de qual dano seja. Ignora resistências, mas ainda respeita vulnerabilidades. Dura um encontro.                         |

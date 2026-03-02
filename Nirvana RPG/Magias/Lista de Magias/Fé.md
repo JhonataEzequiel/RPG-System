@@ -32,6 +32,8 @@ Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
 
 Canalizar Energia: 3 de fé ou carisma. Sagrada.
 
+Barreira de Sangue Cortante: 3 de fé, 3 de inteligência. Sangue.
+
 ### Custo 4:
 
 Bola de Fogo Sagrada: 4 de fé. Sagrada.
