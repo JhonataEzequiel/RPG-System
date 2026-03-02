@@ -37,3 +37,12 @@ Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana 
 - Tempo de Conjuração: 2 ações
 
 **Descrição:** Você é capaz de se comunicar com animais. Você entende a língua deles, seja ela qual for, e também é entendido por eles. Para outros indivíduos fora da conversa, você imitará quaisquer barulhos que aquele animal normalmente faria. Por exemplo, alguém poderia te ver falando com um cachorro, e você estaria latindo para o cachorro.
+
+### Leitura Dinâmica
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: 9m
+- Tempo de Conjuração: 1 hora (concentração)
+
+**Descrição:** Você lê todos os livros e escritos que estiverem no alcance da magia acessando os conhecimentos contidos neles através de sua mente. Caso encontre uma magia você não a aprenderá, mas saberá de sua existência, e em qual dos livros está.
