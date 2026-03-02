@@ -149,11 +149,11 @@ Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do in
 
 ## Fusão
 
-**Requisitos**: 5 de destreza.
+**Requisitos**: 5 de destreza, 1 de sabedoria.
 
 Caso você e um outro aliado possuam essa habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
 
-**Gestos de Equilíbrio** (duas ações): Escolham um gesto que você e seu aliado farão. Este gesto terá uma condição de falha, como caso um dos dois erre o ângulo. Os dois terão que passar por um teste de destreza CD 16 para se fundir. Caso falhem, a fusão ainda ocorrerá, mas será considerada um completo fracasso. Em caso de sucesso, os atributos serão multiplicados entre si.
+**Gestos de Equilíbrio** (duas ações): Escolham um gesto que você e seu aliado farão. Este gesto terá uma condição de falha, como caso um dos dois erre o ângulo. Os dois terão que passar por um teste de destreza CD 16 para se fundir. Caso falhem, a fusão ainda ocorrerá, mas será considerada um completo fracasso. Em caso de sucesso, os atributos de ambos aumentarão, e também ganharão outros bônus.
 
 **Fundir**: A duração da fusão será idêntica em caso de sucesso ou fracasso, sendo de 1 encontro. 
 
@@ -199,7 +199,7 @@ Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mes
 
 **Requisitos**: 8 de força.
 
-Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 50% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 75. Essa habilidade é ativa o tempo todo, e só funciona com ataques físicos.
+Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 25% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 63. Essa habilidade é ativa o tempo todo, e só funciona com ataques físicos.
 
 ## Rei Oculto
 

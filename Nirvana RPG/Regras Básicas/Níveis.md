@@ -84,7 +84,7 @@ Toda vez que subir de nível, você adicionará seu dado de vida + con aos seus 
 
 ### Habilidades de raça, habilidades de atributos, ou magias
 
-Sua raça pode ou não conceder habilidades que aumentam conforme o nível. Os familiares dos humanos, por exemplo, podem ficar cada vez mais fortes conforme o humano sobe de nível.
+Sua raça pode ou não conceder habilidades que aumentam conforme o nível. 
 
 Algumas habilidades de atributos tem suas características aumentadas quando se sobe de nível, concedendo mais poder de ataque, duração, dentre outras coisas.
 

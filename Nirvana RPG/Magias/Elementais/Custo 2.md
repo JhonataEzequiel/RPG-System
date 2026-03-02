@@ -27,4 +27,4 @@ Você também pode aumentar o dano da espada em 1d8 gastando por ponto de mana a
 - Alcance: Toque
 - Tempo de Conjuração: 1 ação
 
-**Descrição:** Você toca em um alvo que é revestido por uma proteção mágica oferecendo 10 pontos de resistência a um tipo de dano elemental. Você também pode aumentar a resistência em 5 pontos por ponto de manda gasto adicional.
+**Descrição:** Você toca em um alvo que é revestido por uma proteção mágica oferecendo 10 pontos de resistência a um tipo de dano elemental. Você também pode aumentar a resistência em 5 pontos por ponto de mana gasto adicional.

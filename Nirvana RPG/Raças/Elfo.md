@@ -8,7 +8,7 @@
 
 **Marcial:** Aumenta a margem de ameaça de ataques físicos em um ponto.
 
-**Suporte:** Ganham a perícia em medicina, e caso já tenham, ganham um ponto de atributo em fé.
+**Suporte:** você tem +5 em testes de medicina. No nível 15 você ganha um ponto de habilidade extra, mas não pode escolher uma habilidade que cause dano, ou que aumente qualquer dano que você cause.
 
 ## Elfo da floresta
 

@@ -24,7 +24,7 @@
 - Força do touro: O alvo tem vantagem em testes de força, e sua capacidade de carga é dobrada.
 - Sabedoria da coruja: O alvo tem vantagem em testes de sabedoria, e ganha 3 pontos de mana temporários.
 - Vigor do urso: O alvo tem vantagem em testes de constituição, e também recebe 6 pontos de vida temporários.
-- Paciência da tartaruga: O alvo tem vantagem em testes de fé
+- Paciência da tartaruga: O alvo tem vantagem em testes de fé. Também tem imunidade a condições negativas por 2 rodadas.
 
 
 

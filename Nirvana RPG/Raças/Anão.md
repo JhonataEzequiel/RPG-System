@@ -2,7 +2,7 @@ Anões possuem a capacidade de imbuir equipamentos de acordo com as suas proprie
 
 ## Runa de diamante
 
-A runa de diamante concede à alguma armadura uma redução de dano que aumenta com o nível. A redução é aplicada diretamente ao dano recebido.
+A runa de diamante concede à alguma armadura uma redução de dano físico que aumenta com o nível. A redução é aplicada diretamente ao dano recebido.
 
 | Nível do anão | redução de dano |
 | ------------- | --------------- |
@@ -14,7 +14,7 @@ A runa de diamante concede à alguma armadura uma redução de dano que aumenta 
 
 ## Runa de ouro
 
-A runa de ouro imbui uma arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três elementos (raio, fogo, e gelo, respectivamente) no inimigo. O dano aumenta conforme o nível. Ao ter um descanso longo você pode escolher o tipo do dano extra.
+A runa de ouro imbui uma arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três elementos (raio, fogo, e gelo, respectivamente) no inimigo. O dano aumenta conforme o nível. Sempre que tiver um descanso longo você pode escolher o tipo do dano extra.
 
 | Nível do anão | Dano da runa de ouro |
 | ------------- | -------------------- |
@@ -26,7 +26,7 @@ A runa de ouro imbui uma arma com a capacidade de conduzir eletricidade, calor, 
 
 ## Runa de Safira
 
-Uma vez por descanso longo, tem o poder de curar o anão ou um aliado que tocar o objeto imbuído com a runa.
+Uma vez por descanso longo, tem o poder de curar o anão ou um aliado que tocar o objeto imbuído com a runa. 
 
  A cura se dá pela tabela, e aumenta conforme o nível do anão:
  

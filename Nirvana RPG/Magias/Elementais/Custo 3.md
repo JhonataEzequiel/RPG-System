@@ -1,6 +1,7 @@
 ### Bola de Fogo
 
 - Requisito em Inteligência: 3
+- Duração: Instantânea
 - Alcance: 45m
 - Tempo de Conjuração: 2 ações
 

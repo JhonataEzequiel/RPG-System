@@ -4,7 +4,7 @@
 - Requisito em Carisma: 1
 - Duração: 1 encontro
 - Alcance: deslocamento
-- Tempo de Conjuração: 1 ação
+- Tempo de Conjuração: 2 ações
 
 **Descrição:** Adiciona 5 pontos de vida temporários, que desaparecem quando a magia acaba. Você deverá escolher até 3 criaturas no alcance para serem alvos dessa magia.
 
@@ -27,7 +27,7 @@ Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana 
 - Alcance: Toque
 - Tempo de Conjuração: Duas ações
 
-**Descrição:** Conjura uma proteção mágica em volta do alvo, substituindo a CA dele para 13 + dex.
+**Descrição:** Conjura uma proteção mágica em volta do alvo, substituindo a CA dele para 9 + inteligência.
 
 ### Falar com Animais
 

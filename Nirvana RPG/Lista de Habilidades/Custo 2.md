@@ -137,7 +137,7 @@ Você é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movim
 
 - **Neutras**: A cor neutra é a cor padrão das mãos, sendo um branco um pouco acinzentado. Você tem +30kg de capacidade de carga. Se as mãos espectrais estiverem carregando algo, você não poderá golpear com elas.
 - **Vermelhas:** Possuem garras grandes, capazes de desferir ataques cortantes. O usuário poderá escolher se “Golpear” será cortante ou de impacto. Caso seja cortante, ele será feito com as garras. Além disso, a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 1d8 + int de dano de fogo. Caso o acerto for crítico, o dano tem efeito em uma área de 4.5m de raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
-- **Azuis:** São capazes de conjurar uma bola de fogo (2 ações), com alcance igual a distância de ataque das mãos, que causa 3d8 + int de dano, além de causar dano contínuo até o fim do encontro caso o inimigo falhe em um teste de destreza CD 10 + inteligência, que será de 1d8.
+- **Azuis:** São capazes de conjurar uma bola de energia (2 ações), com alcance igual a distância de ataque das mãos, que causa 3d8 + int de dano de raio, além de causar dano contínuo até o fim do encontro caso o inimigo falhe em um teste de destreza CD 10 + inteligência, que será 1d8 de raio.
 ## Estilo de Luta
 
 **Requisitos**: 3 de força e 3 de destreza.
@@ -203,8 +203,9 @@ Os céus são sua casa, e você se sente mais confortável lutando de cima. Aume
 
 **Custo**: Uma ação, 1 de mana.
 **Requisitos**: 1 de destreza.
+**Duração**: 3 rodadas.
 
-Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha os seguintes benefícios durante um minuto:
+Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha os seguintes benefícios:
 
 - Ao final de seu turno cura-se por toda a sua vida de uma vez, ignorando efeitos que possam te impedir de se curar. Também regenera partes do corpo perdidas, como um braço amputado.
 - Ao final de seu turno, recupera toda a mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar mana. 
@@ -275,7 +276,9 @@ Todos os seus ataques são considerados críticos. Ataques críticos efetuados c
 
 ## Minhas Regras
 
-Você ignora o limite máximo de nível de atributo.
+Você ignora o limite máximo de nível de atributo por level. Você pode escolher um atributo e evoluir apenas ele além do nível 10.
+
+Gastando outros dois pontos de habilidade, você também pode evoluir mais um atributo além do nível 10 a sua escolha. Você só poderá escolher mais um atributo, ou seja, o total serão 2 atributos por conta dessa habilidade.
 
 ## Presa Ato III
 

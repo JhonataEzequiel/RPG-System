@@ -102,4 +102,6 @@ Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
 
 Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
 
-Caos Cromático: 10 e inteligência. Elemental.
+Caos Cromático: 10 de inteligência. Elemental.
+
+Tsunami: 10 de inteligência. Elemental.
