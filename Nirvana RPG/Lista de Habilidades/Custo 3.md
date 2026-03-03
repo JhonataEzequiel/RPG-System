@@ -226,7 +226,7 @@ Essa habilidade ignora a ordem de iniciativa, se você optar por utilizá-la no 
 **Requisitos**: 10 de destreza. 
 **Custo**: 3 ações, 1 de mana.
 
-Você escolhe um alvo dentro de até o triplo do seu deslocamento. Caso você esteja furtivo, ou com pelo menos 2 aliados no alcance do seu deslocamento, role um teste de inteligência ou sabedoria para identificar algum ponto cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse ataque será considerado crítico. O alvo fica atordoado caso falhe numa salvaguarda de constituição CD 12 + des. Ele pode realizar o teste novamente no início do turno dele. Esta habilidade não provoca ataques de oportunidade. Ignora terreno difícil.
+Você escolhe um alvo dentro de até o triplo do seu deslocamento. Caso você esteja furtivo, ou com pelo menos 2 aliados no alcance do seu deslocamento, role um teste de inteligência ou sabedoria para identificar algum ponto cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse ataque será considerado crítico. O alvo fica atordoado caso falhe numa salvaguarda de constituição CD 13 + des. Ele pode realizar o teste novamente no início do turno dele. Esta habilidade não provoca ataques de oportunidade. Ignora terreno difícil.
 
 Caso você falhe em identificar o ponto cego do alvo, você perde seu turno e a mana gasta, mas você tem uma reação a mais nessa rodada.
 
