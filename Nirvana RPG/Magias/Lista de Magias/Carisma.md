@@ -56,6 +56,6 @@ Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 
 ### Custo 10:
 
-Éden: 10 de carisma. Sagrada.
+Éden: 10 de carisma ou fé. Sagrada.
 
 Alterar Forma: 10 de carisma. Imaculada.

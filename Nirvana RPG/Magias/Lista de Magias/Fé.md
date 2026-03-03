@@ -90,6 +90,8 @@ Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
 
 ### Custo 10:
 
+Éden: 10 de carisma ou fé. Sagrada.
+
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.
 
 Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
