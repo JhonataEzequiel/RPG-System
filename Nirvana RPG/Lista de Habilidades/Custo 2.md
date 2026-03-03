@@ -293,7 +293,7 @@ Você pode acertar a si mesmo com um ataque que seria considerado um ataque a di
 **Requisitos**: 4 de constituição.
 **Custo**: 1 ação, 2 de mana.
 
-Todas as vezes que você receber dano físico você adquire 1 ponto de contingência. Você pode ter um máximo de pontos de contingência iguais ao seu nível de constituição. Você pode gastar 1 ponto de contingência para aumentar qualquer cura que você receba em 1d6. 
+Todas as vezes que você receber dano físico adquire 1 ponto de contingência. Você pode ter um máximo de pontos de contingência iguais ao seu nível de constituição. Você pode gastar 1 ponto de contingência para aumentar qualquer cura que você receba em 1d6. 
 
 A partir do nível 7, um ponto de contingência também poderá te conceder +2 de constituição por um encontro. Para este fim só é permitido a utilização de 1 ponto de contingência por vez.
 

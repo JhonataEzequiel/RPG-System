@@ -10,3 +10,13 @@
 **Descrição:** A lua assume uma coloração vermelho carmesim, tornando toda a matiz de cor do ambiente avermelhada. Todos no planeta em que a lua orbitar poderão ver esse fenômeno.
 
 Todos no alcance da magia perderão o controle de si próprios caso falhem num teste de resistência de constituição CD 12 + int + fth. Aqueles afetados começarão a atacar o alvo mais próximo no seu alcance. Além disso, receberão um +10 de força e destreza. Você pode destacar até 6 alvos para não serem afetados pelo frenesi da magia, recebendo apenas os bônus nos atributos físicos. Você recebe esses bônus também, sem entrar em frenesi.
+
+### Explodir Coração
+
+- Requisito em Inteligência: 10
+- Requisito em Fé: 10
+- Duração: Instantânea
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você toca uma criatura viva. Ela terá que passar por uma salvaguarda de constituição CD 11 + int + fth. Caso seja bem sucedida, o sangue da criatura começa a coagular lentamente, o que a faz tomar 20d6 de dano verdadeiro de sangue, e ficará incapacitada pelo resto do encontro. Caso falhe, o coração da criatura é explodido, o que a mata instantaneamente.

@@ -80,6 +80,10 @@ A criatura tem 20 pontos de resistência contra todos os tipos de dano, exceto d
 
 A criatura é imune a veneno e doenças, porém, venenos e doenças que já estão em seu corpo são apenas suspensas, não neutralizadas.
 
-### Surda
+### Surdo
 
 Uma criatura surda não pode ouvir e falha automaticamente em qualquer teste de atributo que dependa da audição.
+
+### Sangrando 
+
+A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado.
