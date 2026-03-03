@@ -319,3 +319,11 @@ Ao adquirir esta habilidade, você sempre será o último nas iniciativas. Esta 
 **Requisitos**: 5 de destreza ou força.
 
 Você tem +12 em qualquer teste de escalada fora de combate, e +5 em combate. Você pode pular mesmo em terreno difícil, mas o seu deslocamento de pulo é apenas metade do normal.
+
+## À Moda Antiga
+
+**Requisitos**: Perito em atletismo.
+**Custo**: ação bônus.
+**Duração**: 1 encontro.
+
+Você tem -1 em todos os testes de perícias que não sejam atletismo. Em troca, você ganha +2 de força. Você pode desativar essa habilidade antes do fim da duração com uma ação bônus.

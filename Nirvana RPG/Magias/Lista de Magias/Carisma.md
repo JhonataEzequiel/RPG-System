@@ -4,6 +4,8 @@
 
 Amizade: 1 de carisma. Ilusão.
 
+Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -53,6 +55,10 @@ Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 
 ### Custo 9:
+
+Gaia: 9 de carisma. Sagrada.
+
+Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 
 ### Custo 10:
 

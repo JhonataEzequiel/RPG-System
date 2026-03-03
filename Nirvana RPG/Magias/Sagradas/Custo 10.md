@@ -15,3 +15,16 @@ Consumir um fruto requer uma ação.
 **Frutos Normais:** Caso o usuário tenha um erro crítico, será um erro normal. Caso tenha um acerto, será um acerto crítico. E caso tenha um crítico, o resultado será dobrado novamente (se for um ataque), ou amplificado mais ainda se for outra ação (ficando a critério do mestre). Esse efeito só é válido para o próximo teste realizado após comer o fruto.
 
 **Fruto Proibido:** Concederá os bônus dos frutos normais em qualquer teste que o usuário faça durante a duração da magia, mas sugará toda a energia vital do mesmo, fazendo com que ele só acorde após 24 horas, quando a magia acabar. A exceção são os testes necessários para levantar após ser nocauteado. Ele pode ser acordado através de uma magia de custo 5 ou superior que remova efeitos de sono ou encantamento. O usuário não sente nada enquanto estiver dormindo, como se estivesse dopado, impossibilitado de reagir a qualquer ataque.
+
+### Ressurreição Completa
+
+- Requisito em Fé: 10
+- Duração: Instantânea
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você toca uma criatura morta a no máximo 10 dias. Essa criatura volta a vida com todos os pontos de vida recuperados. Caso o corpo já tenha sinais claros de decomposição, ele é completamente restaurado.
+
+Por mais 10 pontos de mana você pode reviver qualquer criatura a partir de um único fragmento de seu corpo original. Por outros 10 pontos de mana, totalizando 30 pontos, você pode reviver uma criatura mesmo que não existam mais restos mortais dela, como alguém que foi vaporizado por um sopro de dragão. Você apenas precisa pensar na criatura que deseja reviver na hora que for conjurar a magia.
+
+Ao conjurar essa magia, você não pode usar magias até ter um descanso longo. Você não pode reviver a mesma criatura com essa magia duas vezes.

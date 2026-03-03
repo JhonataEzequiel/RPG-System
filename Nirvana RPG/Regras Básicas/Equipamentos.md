@@ -1,0 +1,3 @@
+### Itens Mágicos
+
+Os itens mágicos irão variar de grau 1 ao grau 3. Um item de grau 3 não é necessariamente mais forte ou melhor que um de grau mais baixo, já que isso depende do que um determinado personagem se beneficia mais. No entanto, os itens de graus superiores são mais difíceis de serem criados, ou são completamente únicos. Ademais, o custo para criar um item de grau superior ou adquiri-lo são muito maiores que graus inferiores.

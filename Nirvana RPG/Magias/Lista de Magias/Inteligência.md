@@ -8,6 +8,14 @@ Raio de Fogo: 1 de inteligência. Elemental.
 
 Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
 
+Relâmpago Gêmeo: 1 de inteligência. Elemental.
+
+Bolha Ácida: 1 de inteligência. Elemental.
+
+Toque Gélido: 1 de inteligência. Elemental.
+
+Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -115,6 +123,8 @@ Mansão Mental: 9 de inteligência. Ilusão.
 Serpente de Fogo: 9 de inteligência. Elemental.
 
 Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
+
+Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 
 ### Custo 10:
 

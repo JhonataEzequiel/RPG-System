@@ -24,6 +24,8 @@ Magias tem suas próprias regras detalhadas em um capítulo só para elas. No en
 
 Por exemplo, caso uma habilidade amplifique o dano de magias de fogo, estarão inclusos os arcanos menores de fogo, mas se a habilidade especificar que apenas o dano dos arcanos menores de fogo aumentará, então as magias em si não serão afetadas.
 
+Magias sempre acertam o alvo, a menos que a descrição da magia especifique o contrário. Algumas magias permitem que o alvo realize uma salvaguarda para evitar ou reduzir o efeito total.
+
 ## Penalidade de Ações
 
 É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, utilizar a mesma magia, ou atacar mais do que uma vez num turno ele terá penalidades, por exemplo: se ele atacar na primeira ação, caso ele queira bater de novo ele terá -5 na segunda rolagem. Caso use a mesma ação descrita três vezes seguida, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidade de Ações" ou "Penalidade de Ataque".

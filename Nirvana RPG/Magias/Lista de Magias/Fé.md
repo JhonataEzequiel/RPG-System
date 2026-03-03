@@ -14,6 +14,8 @@ Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
 
 Consciência Sombria: 1 de fé. Sortilégio.
 
+Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé ou carisma. Sagrada.
@@ -99,3 +101,5 @@ Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
 Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
 
 Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
+
+Ressurreição Completa: 10 de fé. Sagrada.
