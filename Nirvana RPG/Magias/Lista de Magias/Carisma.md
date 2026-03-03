@@ -12,11 +12,15 @@ Ajuda: 1 de fé, 1 de carisma. Imaculada.
 
 Falar com Animais: 1 de carisma. Imaculada.
 
+Cura Menor: 1 de fé ou carisma. Sagrada.
+
 ### Custo 2:
 
 Alterar Forma (incompleta): 2 de carisma. Imaculada.
 
 Aprimorar Atributos: 2 de carisma. Imaculada.
+
+Curar Ferimentos Maiores: 2 de fé ou carisma. Sagrada.
 
 ### Custo 3:
 
@@ -29,6 +33,8 @@ Canalizar Energia: 3 de fé ou carisma. Sagrada.
 Pulo Suave: 4 de inteligência ou carisma. Imaculada.
 
 ### Custo 5:
+
+Curar Condições: 5 de fé ou carisma. Sagrada.
 
 ### Custo 6:
 

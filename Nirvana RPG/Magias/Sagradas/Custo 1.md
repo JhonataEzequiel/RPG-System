@@ -1,6 +1,6 @@
 ### Cura Menor
 
-- Requisito em Fé: 1
+- Requisito em Fé ou Carisma: 1
 - Alcance: Toque
 - Tempo de Conjuração: 1 ação
 

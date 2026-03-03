@@ -16,7 +16,7 @@ Consciência Sombria: 1 de fé. Sortilégio.
 
 ### Custo 1:
 
-Cura Menor: 1 de fé. Sagrada.
+Cura Menor: 1 de fé ou carisma. Sagrada.
 
 Ajuda: 1 de fé, 1 de carisma. Imaculada.
 
@@ -27,6 +27,8 @@ Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
 
 Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
+
+Curar Ferimentos Maiores: 2 de fé ou carisma. Sagrada.
 
 ### Custo 3:
 
@@ -46,15 +48,29 @@ Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
 Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.
 
+Corrupção do Sangue: 5 de inteligência, 5 de fé. Sangue.
+
+Curar Condições: 5 de fé ou carisma. Sagrada.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.
+
+Cicatrizar: 5 de inteligência, 6 de fé. Sangue.
 
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
+Beira do Mundo: 7 de fé. Sagrada.
+
+Devorar Cérebro: 7 de inteligência, 7 de fé. Sangue.
+
 ### Custo 8:
+
+Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
+
+Banir: 8 de fé. Sagrada.
 
 ### Custo 9:
 
@@ -69,3 +85,5 @@ Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.
 Lua de Sangue: 10 de inteligência, 10 de fé. Sangue.
 
 Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
+
+Explodir Coração: 10 de inteligência, 10 de fé. Sangue.

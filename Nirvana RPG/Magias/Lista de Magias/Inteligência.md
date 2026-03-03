@@ -66,6 +66,8 @@ Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.
 
 Alucinação: 5 de inteligência. Ilusão.
 
+Corrupção do Sangue: 5 de inteligência, 5 de fé. Sangue.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.
@@ -73,6 +75,8 @@ Chuva de Magma: 6 de inteligência. Elemental.
 Despistar: 6 de carisma ou inteligência. Ilusão.
 
 Nuvem Voadora: 6 de inteligência ou carisma. Imaculada.
+
+Cicatrizar: 5 de inteligência, 6 de fé. Sangue.
 
 ### Custo 7:
 
@@ -82,6 +86,8 @@ Arco Cromático: 7 de inteligência. Elemental.
 
 Doppelganger: 7 de inteligência. Ilusão.
 
+Devorar Cérebro: 7 de inteligência, 7 de fé. Sangue.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
@@ -89,6 +95,8 @@ Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
 Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 
 Lança de Raio: 8 de inteligência. Elemental.
+
+Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
 
 ### Custo 9:
 
@@ -111,3 +119,5 @@ Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
 Caos Cromático: 10 de inteligência. Elemental.
 
 Tsunami: 10 de inteligência. Elemental.
+
+Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
