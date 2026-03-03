@@ -78,6 +78,8 @@ Nihil: 8 de inteligência, 9 de fé. Sangue.
 
 Revelação: 9 de fé. Sagrada.
 
+Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
+
 ### Custo 10:
 
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.

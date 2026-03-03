@@ -106,6 +106,8 @@ Mansão Mental: 9 de inteligência. Ilusão.
 
 Serpente de Fogo: 9 de inteligência. Elemental.
 
+Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
+
 ### Custo 10:
 
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.
