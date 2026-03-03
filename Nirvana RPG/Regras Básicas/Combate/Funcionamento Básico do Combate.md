@@ -73,3 +73,17 @@ Exemplo: se na descrição de um ataque diz que o dano será de 1d8 + for, ele i
 Alguns monstros possuirão ações lendárias, que são ações que podem ser usadas a qualquer momento, sem custo algum, até mesmo fora do turno dos monstros. As ações lendárias estarão na descrição dos monstros caso eles as possuam. Normalmente são dadas apenas a criaturas extremamente fortes. As ações lendárias são algo bem específico, como um monstro poder atacar ou usar uma magia fora de seu turno, o que não engloba tudo que se pode realizar numa ação normal.
 
 Algumas das habilidades deixam você utilizar algum tipo de ação fora de seu turno, modificando o fluxo do combate. Estas não são ações lendárias, mas funcionam de maneira similar.
+
+## Áreas de Efeito
+
+Existem alguns tipos diferentes de áreas de efeito, as quais são utilizadas por ataques, magias, habilidades, dentre outras coisas. 
+
+**Circular (ou esférica)**: uma área circular é definida por um ponto central e um raio.
+
+**Cone**: um cone é definido como uma área que se expande a partir do ponto de origem, atingindo sua largura máxima na extremidade.
+
+**Cubo (ou quadrática)**: uma área cúbica centrada em um ponto ou a partir de um ponto.
+
+**Cilindro**: uma área circular com altura, como uma coluna ou tornado.
+
+**Linha**: uma área estreita e longa em linha reta a partir do ponto de origem, como um raio ou jato.
