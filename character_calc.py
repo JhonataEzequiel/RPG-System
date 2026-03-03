@@ -11,7 +11,7 @@ class Character:
 
     @property
     def max_skill_level(self):
-        return 2 if self.level == 1 else 3 + self.level // 2
+        return 3 + self.level // 2
 
     def add_attribute_point(self, quantity = 0):
         self.attribute_points += quantity
