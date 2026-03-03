@@ -149,7 +149,7 @@ Golpeia um inimigo com toda a sua força, afetando o psicológico e a alma do in
 
 ## Fusão
 
-**Requisitos**: 5 de destreza, 1 de sabedoria.
+**Requisitos**: Habilidade "Ki" de custo 1. 5 de destreza.
 
 Caso você e um outro aliado possuam essa habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
 
@@ -266,3 +266,11 @@ Gastando 3 de mana uma vez por encontro como ação livre, você pode executar q
 | 3                               | 2 ações        | Você desvia de todos os ataques físicos de alvo único direcionados a você até o início do seu próximo turno, mas tem desvantagem em salvaguardas até lá.                                                             |
 | 5                               | ação bônus     | Você ganha 5d6 de pontos de vida temporários até o início do seu próximo turno. Caso um inimigo te acerte com um ataque nesse meio tempo, ele tem -5 para te acertar novamente até o início do próximo turno dele.   |
 | 10                              | 3 ações        | Você aumenta todo o dano causado por você e um aliado a sua escolha em 5 pontos, independente de qual dano seja. Ignora resistências, mas ainda respeita invulnerabilidades. Dura um encontro.                       |
+
+## Golpe Cromático
+
+**Requisitos**: Habilidade "Força Natural" de custo 1. 6 de força ou destreza, 1 de sabedoria. 
+
+**Sinergia Corpo e Mente** (passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu modificador de inteligência aos ataques desarmados, caso seja positivo. Essa parte da habilidade é passiva, e está sempre ativa.
+
+**Elementar** (ação bônus): Você pode trocar o tipo de dano do seu ataque desarmado para qualquer um dos tipos elementais. O tipo de dano só será trocado quando você utilizar essa habilidade novamente. Você também pode escolher causar dano em área com seus ataques. Neste caso, você escolherá um elemento e causará o dano de um ataque desarmado em todos que estiverem na área de impacto, que será uma área circular de raio 3m no alcance do seu deslocamento. Você não precisará rolar para acertar este ataque, mas os inimigos na área de impacto terão que realizar uma salvaguarda de destreza CD 14 + (for ou dex) para desviar, recebendo metade do dano.

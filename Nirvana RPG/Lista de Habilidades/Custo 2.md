@@ -300,3 +300,11 @@ A partir do nível 7, um ponto de contingência também poderá te conceder +2 d
 Você também pode utilizar seus pontos de contingência em qualquer salvaguarda de constituição, aonde cada um deles concederá +1 na salvaguarda. Neste caso, não custará nenhuma ação.
 
 Todos os pontos de contingência são perdidos ao fim do encontro.
+
+## Explosão de Ki
+
+**Requisitos**: Habilidade "Ki" de nível 1. 2 de sabedoria.
+**Alcance**: 18m.
+**Custo**: 1 ação.
+
+Você concentra parte de sua energia vital e a dispara em um ataque a distância. O dano é igual ao do seu ataque desarmado, mas você utilizará apenas o seu modificador de sabedoria como bônus de dano.

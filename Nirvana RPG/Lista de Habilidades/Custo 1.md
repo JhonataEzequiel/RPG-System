@@ -327,3 +327,23 @@ Você tem +12 em qualquer teste de escalada fora de combate, e +5 em combate. Vo
 **Duração**: 1 encontro.
 
 Você tem -1 em todos os testes de perícias que não sejam atletismo. Em troca, você ganha +2 de força. Você pode desativar essa habilidade antes do fim da duração com uma ação bônus.
+
+## Força Natural
+
+**Requisitos**: 2 de força ou destreza.
+
+Seus ataques desarmados agora ficam mais fortes de acordo com seu nível de força ou destreza. No nível 2 de qualquer um desses atributos eles causarão 1d6 ao invés de 1d4, no nível 4 causarão 1d8, no nível 6 causarão 2d4, no nível 8 causarão 2d6, e no nível 10 você não mais usará o modificador como bônus, mas sim o atributo.
+
+## Ki
+
+**Requisitos**: 1 de sabedoria.
+
+Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus ataques desarmados são fortalecidos. Adicione seu modificador de sabedoria aos seus golpes desarmados. Esse dano adicional causa dano de impacto. Você também pode escolher que seus ataques desarmados causem dano de impacto com uma ação livre.
+
+## Corte Ilusório
+
+**Requisitos**: Habilidade "Força Natural" de custo 1.
+
+Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
+
+Você agora pode escolher se seus ataques desarmados causarão dano cortante ou não.

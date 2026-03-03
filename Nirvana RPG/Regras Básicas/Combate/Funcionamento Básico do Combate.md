@@ -46,6 +46,10 @@ Caso você tente andar ou correr e passar no alcance de um inimigo com o intuito
 
 Ataques de oportunidade também impedem quaisquer outras ações de movimento.
 
+## Ataques Desarmados
+
+Os ataques desarmados causam, por padrão, 1d4 + for ou dex de dano de impacto, à sua escolha. Você pode escolher se um ataque desarmado será não letal.
+
 ## Ataques de Magia
 
 Existem vários tipos de magias de ataque, e a maioria não requer um teste para acertar o adversário. Quando for necessário estará escrito na descrição da magia. Normalmente é o alvo que tem que realizar uma salvaguarda para desviar (a CD é especificada pela magia), ou evitar algum efeito negativo da magia. E mesmo que a maioria das magias num geral custem mais do que uma ação, ainda existem certas magias que custam apenas uma. Sendo de ataque ou não, tais magias ainda estarão sujeitas as penalidades de ações no mesmo turno, caso você opte por utilizá-la várias vezes em seguida.
@@ -54,7 +58,7 @@ Existem vários tipos de magias de ataque, e a maioria não requer um teste para
 
 Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. Ela é calculada da seguinte maneira:
 
-$CA = ArmaduraAtual+(for+dex)$
+$CA = ArmaduraAtual+for+dex$
 
 A armadura atual diz respeito a proteção externa utilizada pelo personagem, caso ele não possua armadura atual, ela será considerada como 10. Para critérios lúdicos, o coeficiente de armadura é tanto a capacidade de suportar um ataque sem tomar dano, ou de desviar dele. Isto dependerá do tipo de personagem, e de como o mestre irá narrar o ataque em si.
 
