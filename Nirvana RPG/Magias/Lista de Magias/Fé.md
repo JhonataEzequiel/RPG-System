@@ -22,6 +22,8 @@ Ajuda: 1 de fé, 1 de carisma. Imaculada.
 
 Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 
+Orbe Negro: 1 de inteligência, 1 de fé. Sortilégio.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -35,6 +37,8 @@ Curar Ferimentos Maiores: 2 de fé ou carisma. Sagrada.
 Canalizar Energia: 3 de fé ou carisma. Sagrada.
 
 Barreira de Sangue Cortante: 3 de fé, 3 de inteligência. Sangue.
+
+Escuridão: 3 de inteligência, 3 de fé. Sortilégio.
 
 ### Custo 4:
 
@@ -58,6 +62,8 @@ Submissão Cósmica: 6 de fé ou carisma. Sagrada.
 
 Cicatrizar: 5 de inteligência, 6 de fé. Sangue.
 
+Reanimação Completa: 5 de inteligência, 6 de fé. Sortilégio.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -65,6 +71,8 @@ Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 Beira do Mundo: 7 de fé. Sagrada.
 
 Devorar Cérebro: 7 de inteligência, 7 de fé. Sangue.
+
+Tempestade Negra: 7 de inteligência, 7 de fé. Sortilégio.
 
 ### Custo 8:
 

@@ -24,6 +24,8 @@ Leitura Dinâmica: 1 de inteligência. Imaculada.
 
 Campo Anti-magia: 8 de inteligência. Imaculada.
 
+Orbe Negro: 1 de inteligência, 1 de fé. Sortilégio.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -43,6 +45,8 @@ Bola de Fogo: 3 de inteligência. Elemental.
 Teletransporte: 3 de inteligência. Imaculada.
 
 Barreira de Sangue Cortante: 3 de fé, 3 de inteligência. Sangue.
+
+Escuridão: 3 de inteligência, 3 de fé. Sortilégio.
 
 ### Custo 4:
 
@@ -78,6 +82,8 @@ Nuvem Voadora: 6 de inteligência ou carisma. Imaculada.
 
 Cicatrizar: 5 de inteligência, 6 de fé. Sangue.
 
+Reanimação Completa: 5 de inteligência, 6 de fé. Sortilégio.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -87,6 +93,8 @@ Arco Cromático: 7 de inteligência. Elemental.
 Doppelganger: 7 de inteligência. Ilusão.
 
 Devorar Cérebro: 7 de inteligência, 7 de fé. Sangue.
+
+Tempestade Negra: 7 de inteligência, 7 de fé. Sortilégio.
 
 ### Custo 8:
 
