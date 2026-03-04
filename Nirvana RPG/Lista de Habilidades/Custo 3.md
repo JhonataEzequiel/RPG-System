@@ -50,7 +50,7 @@ Se o alvo estiver imobilizado, você pode gastar suas três ações para convenc
 **Requisitos:** Habilidade "Golpe Duplo" de custo 2.
 **Custo**: Duas Ações e 1 de mana.
 
-Caso esteja usando armas leves, você poderá realizar três ataques ao mesmo tempo, com apenas uma rolagem de ataque. Você também utiliza seu bônus de proficiência na jogada ao invés de seu modificador de destreza. 
+Caso esteja usando armas leves, você poderá realizar três ataques ao mesmo tempo, com apenas uma rolagem de ataque. Você também utiliza seu bônus de proficiência na jogada ao invés de seu modificador de destreza ou força para acertar o ataque. 
 
 Caso não esteja usando armas leves, ataca três vezes sem penalidades, mas não pode mais atacar com a ação restante.
 

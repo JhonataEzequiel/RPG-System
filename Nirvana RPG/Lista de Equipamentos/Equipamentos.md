@@ -16,9 +16,7 @@ Aqui estão os benefícios que cada escala proporciona ao atingir um determinado
 
 ### Armas
 
-Assim como as armaduras, as armas terão pré-requisitos e escala. Os pré-requisitos das armas determinarão se você é capaz de utilizá-las em combate. Caso você não atenda aos requisitos, você ainda poderá utilizar a arma, mas o dano dela será sempre 1, e cada ataque custará 3 ações para ser realizado. Você também não poderá utilizar ataques de oportunidade.
-
-Quando uma arma receber bônus de dano, esse bônus é do mesmo tipo de dano da arma. Caso a arma seja capaz de causar múltiplos tipos de dano, você escolherá qual deles será o tipo do bônus. 
+Assim como as armaduras, as armas terão pré-requisitos e escala. Os pré-requisitos das armas determinarão se você é capaz de utilizá-las em combate. Caso você não atenda aos requisitos, você ainda poderá utilizar a arma, mas o dano dela será sempre 1, e cada ataque custará 3 ações para ser realizado. Você também não poderá utilizar ataques de oportunidade. Quando uma arma receber bônus de dano da escala, esse bônus é do mesmo tipo de dano da arma. Caso a arma seja capaz de causar múltiplos tipos de dano, você escolherá qual deles será o tipo do bônus. O bônus para acertar um ataque referente ao atributo será igual ao bônus de dano referente ao atributo de uma arma. Por exemplo, a adaga causa 1d4 + dex de dano perfurante, então para acertar o ataque você usará + dex também.
 
 Armas vem em 3 tipos diferentes: leves, comuns, e de empunhadura dupla. Elas também podem variar no alcance, caso sejam longas, aumentando a distância possível para um ataque corpo-a-corpo. Armas longas aumentam o alcance de seus ataques em um valor específico que depende de cada arma.
 
