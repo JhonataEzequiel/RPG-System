@@ -347,3 +347,9 @@ Você sente e aprende a ter um controle básico sobre a energia vital do seu cor
 Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
 
 Você agora pode escolher se seus ataques desarmados causarão dano cortante ou não.
+
+## Reinhardt
+
+**Requisitos**: 3 de força.
+
+A sua resiliência acima do normal é notória. Você aumenta sua capacidade de carga em 10 quilos, e ignora a penalidade de deslocamento nas armaduras. Quaisquer outras penalidades ainda se aplicam.

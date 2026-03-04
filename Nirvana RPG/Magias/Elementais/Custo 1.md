@@ -36,3 +36,12 @@ Após a duração, tanto a armadura quanto a arma, ainda que o alvo deseje conti
 - **Dano:** 1d6 + 2 de dano de impacto por ataque corpo a corpo.
 
 O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas vivas, como magias de sangue e a maioria das curas sagradas. Caso o golem seja destruído antes do fim do encontro, a magia se encerra.
+
+### Criar Água
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: 3m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você faz com que saia água de suas mãos, até um total de 8 litros.

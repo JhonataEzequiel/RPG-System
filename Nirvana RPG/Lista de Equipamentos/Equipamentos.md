@@ -20,6 +20,16 @@ Assim como as armaduras, as armas terão pré-requisitos e escala. Os pré-requi
 
 Quando uma arma receber bônus de dano, esse bônus é do mesmo tipo de dano da arma. Caso a arma seja capaz de causar múltiplos tipos de dano, você escolherá qual deles será o tipo do bônus. 
 
+Armas vem em 3 tipos diferentes: leves, comuns, e de empunhadura dupla. Elas também podem variar no alcance, caso sejam longas, aumentando a distância possível para um ataque corpo-a-corpo. Armas longas aumentam o alcance de seus ataques em um valor específico que depende de cada arma.
+
+Leves: Você pode ter uma arma leve em cada mão, equipando-as ao mesmo tempo, causando o dano de cada uma em um ataque só, ao custo de duas ações. Você ainda pode atacar com apenas uma, e isto custará apenas uma ação.
+
+Comuns: Você pode equipar uma arma comum em cada mão naturalmente. Assim como as armas leves, você pode atacar com as duas ao mesmo tempo ao custo de duas ações, mas terá -3 para acertar o ataque. Fora isso, armas comuns são todas aquelas que não tem uma característica que os diferencia das demais.
+
+Empunhadura Dupla: Tratam-se de armas mais pesadas ou longas, sendo necessário empunhá-las com uma mão. Por padrão, é impossível empunhar duas dessas ao mesmo tempo, ou utilizá-las em uma mão só.
+
+Além desses três tipos, existem as armas à distância. No campo de "aumento de alcance" dessas armas está descrito a distância máxima do ataque à distância. Caso alguém realize um ataque em que o alvo se encontra mais distante do que o aceito, o ataque terá desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de 1 ação para recarregar antes de realizar um ataque à distância, já os arcos funcionam normalmente.
+
 Os bônus das escalas estão listados abaixo:
 
 | Escala | Nível 1 de atributo | Nível 3 de atributo | Nível 5 de atributo | Nível 7 de atributo | Nível 10 de atributo     |
@@ -30,7 +40,27 @@ Os bônus das escalas estão listados abaixo:
 | C      | +1 de dano          | +1 de dano          | +2 de dano          | +2 de dano          | +2 para acertar o ataque |
 | D      | +1 de dano          | +1 de dano          | +1 de dano          | +1 de dano          | +1 para acertar o ataque |
 
+### Escudos
+
+Escudos funcionam de maneira similar as armaduras, no entanto não adicionam CA. Num geral, muitas habilidades podem utilizar-se de escudos, mas por padrão eles apenas concedem os bônus das suas escalas, que são as mesmas das armaduras. Caso uma escala em específico da armadura conceda CA, o escudo concederá duas vezes a quantidade de CA como pontos de vida máximos. Assim como as armas e armaduras, os benefícios das escalas só estarão ativos quando o objeto estiver equipado. Ao contrário das armaduras, escudos não oferecem nenhuma penalidade.
 
 ### Itens Mágicos
 
 Os itens mágicos irão variar de grau 1 ao grau 3. Um item de grau 3 não é necessariamente mais forte ou melhor que um de grau mais baixo, já que isso depende do que um determinado personagem se beneficia mais. No entanto, os itens de graus superiores são mais difíceis de serem criados, ou são completamente únicos. Ademais, o custo para criar um item de grau superior ou adquiri-lo são muito maiores que graus inferiores.
+
+### Munições
+
+Armas à distância que disparam projéteis, como arcos e bestas, requerem munições para funcionar. Cada ataque consome uma unidade de munição. Caso o jogador fique sem munições, não poderá realizar ataques com a arma até adquirir mais.
+
+Após um encontro, é possível recuperar metade das munições gastas, arredondado para baixo, desde que o campo de batalha esteja acessível.
+
+### Moedas
+
+As moedas ditam a economia do jogo, e também servem como tesouro mais básico. Os preços variam de local para local, e também a partir da raridade do item. Nem sempre um item útil para um personagem é útil para outro, portanto é comum ver itens únicos e raros valerem mais do que uma espada qualquer. 
+
+[[Armaduras]]
+[[Armas]]
+[[Escudos]]
+[[Moedas]]
+[[Itens Únicos e Itens Mágicos]]
+[[Outros Itens]]

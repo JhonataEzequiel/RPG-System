@@ -15,9 +15,9 @@ Toda vez que você utilizar inspiração, adicione os seguintes benefícios:
 
 Só pode ser usada uma vez por turno. Ao invés de gastar duas ações de ataque para atacar com duas armas leves ao mesmo tempo, você gastará apenas uma ação, e rolará apenas uma rolagem de ataque para acertar. 
 
-Caso não esteja empunhando armas leves, o seu segundo ataque neste turno não sofrerá penalidades de ataque, mas o terceiro ainda terá penalidade de -10. 
+Caso esteja empunhando uma arma comum apenas, o seu segundo ataque neste turno não sofrerá penalidades de ataque, mas o terceiro ainda terá penalidade de -10. 
 
-**Risco e Recompensa** (ação bônus): Caso você acerte três ataques em um turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo ataque contra qualquer alvo no mesmo encontro. Se você acertar esse ataque, adicione 1d6 permanente a todo dano físico que você causar. O tipo de dano é igual ao da arma que você utilizar.
+**Risco e Recompensa** (ação bônus): Caso você acerte dois ataques em um turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo ataque contra qualquer alvo no mesmo encontro. Se você acertar esse ataque, adicione 1d6 permanente a todo dano físico que você causar. O tipo de dano é igual ao da arma que você utilizar.
 
 ## Destrancar Rapidamente
 
@@ -149,7 +149,7 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 * **Ajudar (reação):** Se um aliado estiver perto de você e ele for atacado fora do seu turno, você pode efetuar uma manobra evasiva com seu escudo, e tomar o golpe no lugar dele, recebendo metade do dano. A distância máxima que um aliado pode estar de você é metade do seu deslocamento. Você não poderá utilizar uma ação bônus no seu próximo turno. Você recebe de pontos de vida temporários iguais a sua força, que duram até o seu próximo turno, ao realizar esta ação. Esses pontos de vida não mitigam o dano do ataque defendido com esta reação, e só tem efeito depois de utilizá-la.
 * **Aparar (reação):** Caso o inimigo tire exatamente o número da sua CA ou menor numa rolagem de ataque, você poderá repelir o ataque com o seu escudo e contra atacar em seguida. Este contra-ataque terá uma penalidade de -5. Caso o inimigo tenha um erro crítico na rolagem, você não terá penalidade alguma. 
 
-**Empunhadura Dupla:** Você se torna capaz de utilizar uma arma de uma mão em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é igual ao da arma.
+**Empunhadura Dupla:** Você se torna capaz de utilizar uma arma comum em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é igual ao da arma.
 
 **Empunhadura Única:** Caso esteja utilizando apenas uma arma de uma mão, e mais nada na outra mão, consegue utilizar esta arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de ataque e de dano igual a 2d6 + for. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus de +1 na CA.
 
@@ -250,6 +250,8 @@ Toda vez que uma magia com efeito em área poderia te atingir, ela não mais o f
 **Requisitos**: 1 de carisma, 1 de constituição.
 
 Caso você não seja proficiente em conversação, você ganha essa proficiência. Caso você já seja, adicione 1d8 aos seus pontos de vida totais. Você ganha +5 em testes relacionados a qualquer contexto militar fora de um encontro em que você esteja participando, como comandar tropas ao longe, avaliar o resultado de um combate, tentar entender a história de uma região devastada por uma guerra, ou qualquer coisa do gênero.
+
+Você também ignora completamente as penalidades de deslocamento das armaduras. Quaisquer outras penalidades ainda se aplicam.
 
 ## Nove Vidas
 
