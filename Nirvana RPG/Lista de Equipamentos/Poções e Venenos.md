@@ -1,0 +1,43 @@
+## Poções
+
+Poções são itens portáteis que garantem um efeito quando são consumidas. Elas podem ser de restauração, as quais recuperam parte da vida ou mana de quem as consome, ou de outros tipos variados. Todas as poções pesam 0.3 kg.
+
+Ao usar uma ação bônus, o jogador bebe a poção e rola os dados de cura normalmente, conforme descrito na poção. No entanto, se o jogador optar por beber a poção utilizando três ações, a cura será maximizada, considerando o valor máximo de todos os dados. A tabela a seguir detalha as poções de restauração:
+
+| Item                | Funcionalidade                                                            | Custo |
+| ------------------- | ------------------------------------------------------------------------- | ----- |
+| Poção de Cura Menor | Restaura 1d8 + con pontos de vida ao ser consumida como 1 ação.           | 3po   |
+| Poção de Cura Média | Restaura 2d10 + con pontos de vida ao ser consumida como 1 ação.          | 7po   |
+| Poção de Cura Maior | Restaura 5d12 + constituição pontos de vida ao ser consumida como 1 ação. | 25po  |
+| Poção de Mana Menor | Restaura 1d4 + sab pontos de mana ao ser consumida como 1 ação.           | 3po   |
+| Poção de Mana Média | Restaura 2d8 + sab pontos de mana ao ser consumida como 1 ação.           | 7po   |
+| Poção de Mana Maior | Restaura 3d8 + sabedoria pontos de mana ao ser consumida como 1 ação.     | 25po  |
+As outras poções tem efeitos diversos. Poções que não são de restauração necessitam de uma ação para serem usadas. Os efeitos delas estão detalhados a seguir:
+
+| Item                                       | Funcionalidade                                                                                                                                                                                                                                                                                                  | Custo |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Poção de Invisibilidade                    | Você se torna invisível por 3 rodadas, concedendo vantagem em testes de furtividade. A invisibilidade é desativada ao realizar qualquer ação, ou ação bônus que interaja fisicamente com o mundo. O efeito também é encerrado ao conjurar magias.                                                               | 18po  |
+| Poção de Levitação                         | Você é capaz de levitar, ganhando seu deslocamento como deslocamento de voo por 3 rodadas. Você também pode escolher cair normalmente e negar completamente o dano de queda.                                                                                                                                    | 15po  |
+| Poção de Encolhimento                      | Seu tamanho é diminuído a um tamanho inferior por 10 minutos. Se você for grande, por exemplo, se tornará uma criatura de tamanho médio, e assim por diante. O limite é minúsculo.                                                                                                                              | 8po   |
+| Poção de Crescimento                       | Seu tamanho é aumentado a um tamanho superior por 10 minutos. Se você for grande, por exemplo, se tornará uma criatura de tamanho enorme, e assim por diante. O limite é colossal.                                                                                                                              | 10po  |
+| Poção de Velocidade                        | Você pode escolher se ganha uma ação extra no turno, ou aumenta seu deslocamento em 9m por 3 rodadas.                                                                                                                                                                                                           | 16po  |
+| Poção de Resistência (fogo, gelo, ou raio) | Aumenta sua resistência em 10 a um elemento específico, a depender to tipo da poção.                                                                                                                                                                                                                            | 10po  |
+| Poção de Respiração                        | Você pode respirar embaixo d'água por 1 hora.                                                                                                                                                                                                                                                                   | 10po  |
+| Poção de Escalada                          | Torna-se capaz de escalar superfícies verticais planas sem precisar de testes para tal. Suas mãos grudam nas paredes, assim como seus pés.                                                                                                                                                                      | 11po  |
+| Poção de Visão no Escuro                   | Seus olhos se adaptam a ambientes com pouca ou nenhuma iluminação, sendo capaz de enxergar completamente nesses locais.                                                                                                                                                                                         | 15po  |
+| Poção de Regeneração                       | Recupera 1d8 de pontos de vida por rodada, por 3 rodadas.                                                                                                                                                                                                                                                       | 10po  |
+| Poção de Atributo                          | Aumenta um atributo aleatório em 2 pontos, à sua escolha, por 3 rodadas.                                                                                                                                                                                                                                        | 10po  |
+| Bafo de Dragão                             | Concede a capacidade de soltar um sopro dracônico em um cone de 15m de área, causando 4d6 de dano a todas as criaturas no alcance que falharem num teste de resistência de destreza CD 15. Caso tenham sucesso, recebem metade do dano. Você escolhe o elemento do dano entre qualquer um dos danos elementais. | 30po  |
+
+## Venenos
+
+Os venenos são aplicados em armas brancas, flechas, e virotes. Para aplicar um veneno é necessário uma ação. Caso esteja furtivo, o custo é uma ação bônus. Venenos também podem ter efeitos narrativos diversos, como envenenar a bebida de um nobre. Os venenos pesam, assim como as poções, 0.3 kg. Os venenos básicos estão detalhados a seguir.
+
+| Item               | Funcionalidade                                                                                                                                                                                 | Custo |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
+| Veneno de Contato  | O alvo atingido deverá passar em uma salvaguarda de constituição CD 12 ou receberá 2d6 de dano de veneno contínuo. Em caso de sucesso, recebe metade do dano.                                  | 2po   |
+| Veneno Paralisador | O alvo atingido é paralisado por 6 rodadas caso falhe num teste de resistência de constituição CD 15.                                                                                          | 17po  |
+| Veneno Sonífero    | O alvo atingido fica inconsciente por 5 rodadas caso falhe num teste de resistência de sabedoria CD 15.                                                                                        | 15po  |
+| Presa de Vespa     | O alvo atingido perde 2 pontos em destreza, força, e constituição por 2 rodadas caso falhe em um teste de constituição CD 14. Em caso de sucesso, o efeito dura apenas uma rodada.             | 5po   |
+| Amatoxina          | De imediato o alvo não sofre nenhum efeito. Após 24 horas ele começa a sentir náuseas, e tem a condição exaustão 3. A condição aumenta a cada 6 horas, até exaustão 6, levando o alvo à morte. | 25po  |
+

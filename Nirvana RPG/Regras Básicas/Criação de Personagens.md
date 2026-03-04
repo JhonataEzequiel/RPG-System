@@ -60,7 +60,7 @@ Se a sua sabedoria for 0 ou inferior você tem 1 ponto de mana, e a cada nível 
 Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 pontos de mana em qualquer teste que for realizar (3 pontos por teste), adicionando este número ao resultado final. Os pontos de mana gastos podem ser recuperados normalmente.
 ## Equipamento inicial
 
-Coisas como roupa utilizada e pequenos detalhes, serão considerados como objetos sem valor e sem peso, caso estejam de acordo com o bom senso. Além disso, os jogadores começarão com 15 peças de ouro, que poderão gastar em equipamentos diversos no capítulo de equipamentos, ou continuar com as 15 peças de ouro.
+Coisas como roupa utilizada e pequenos detalhes, serão considerados como objetos sem valor e sem peso, caso estejam de acordo com o bom senso. Além disso, os jogadores começarão com 15 peças de ouro, que poderão gastar em equipamentos diversos no capítulo de equipamentos, ou continuar com as 25 peças de ouro.
 
 ## Escolha de perícias
 

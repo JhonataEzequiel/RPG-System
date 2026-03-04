@@ -67,4 +67,7 @@ As moedas ditam a economia do jogo, e também servem como tesouro mais básico. 
 [[Escudos]]
 [[Moedas]]
 [[Itens Únicos e Itens Mágicos]]
+[[Instrumentos Musicais]]
+[[Grimórios]]
+[[Poções e Venenos]]
 [[Outros Itens]]
