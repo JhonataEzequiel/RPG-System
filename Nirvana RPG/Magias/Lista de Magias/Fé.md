@@ -16,6 +16,8 @@ Consciência Sombria: 1 de fé. Sortilégio.
 
 Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
 
+Aposta: 1 de inteligência, carisma, ou fé. Imaculada.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé ou carisma. Sagrada.

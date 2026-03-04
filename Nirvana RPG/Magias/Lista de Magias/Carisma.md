@@ -6,6 +6,12 @@ Amizade: 1 de carisma. Ilusão.
 
 Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
 
+Emaranhar: 1 de carisma. Sagrada.
+
+Aposta: 1 de inteligência, carisma, ou fé. Imaculada.
+
+Sons Fantasmas: 1 de carisma ou inteligência. Ilusão.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -15,6 +21,10 @@ Ajuda: 1 de fé, 1 de carisma. Imaculada.
 Falar com Animais: 1 de carisma. Imaculada.
 
 Cura Menor: 1 de fé ou carisma. Sagrada.
+
+Anular Cheiro: 1 de carisma ou inteligência. Ilusão.
+
+Carga de Formiga: 1 de carisma. Sagrada.
 
 ### Custo 2:
 

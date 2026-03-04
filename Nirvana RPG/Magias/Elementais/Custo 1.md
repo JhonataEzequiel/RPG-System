@@ -12,3 +12,12 @@ Você também pode ter como alvo alguém utilizando uma armadura. Neste caso o a
 Se você tiver como alvo alguém empunhando uma arma, ele deverá soltar a arma dele em uma ação livre, ou sofrer 3d6 + int de dano de fogo ao final de cada turno dele enquanto segurar a arma. 
 
 Após a duração, tanto a armadura quanto a arma, ainda que o alvo deseje continuar com elas, serão inutilizadas caso a resistência do metal ao calor seja menor ou igual ao ferro.
+
+### Bolha de Ar
+
+- Requisito em Inteligência: 1
+- Duração: 1 hora
+- Alcance: 9m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Escolha uma criatura alvo no alcance da magia. Uma bolha de ar cerca a cabeça da criatura, a permitindo respirar. O ar se renova de tempos em tempos, impedindo que a mesma sufoque até o fim da magia.

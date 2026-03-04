@@ -32,7 +32,7 @@ O jogador poderá escolher qualquer uma das perícias a seguir, seguindo as regr
 
 ## Inteligência
 
-1. Arcanismo: determina a capacidade do jogador de conseguir identificar coisas mágicas, como itens, poções, pergaminhos, etc.
+1. Arcanismo: determina a capacidade do jogador de conseguir identificar se um item é mágico ou não, e se algo ou alguém está sob efeito de alguma magia. Não consegue saber os efeitos da magia em si, nem o grau do item mágico.
 2. Linguística: determina a capacidade do jogador de entender um idioma o qual ele não fala. Além disso, cada ponto no modificador de inteligência agora dá ao jogador a capacidade de falar um idioma a mais.
 3. Investigação: determina a capacidade de procurar pistas sobre algum evento em um determinado ambiente.
 

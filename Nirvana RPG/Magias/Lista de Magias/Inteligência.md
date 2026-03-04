@@ -16,6 +16,16 @@ Toque Gélido: 1 de inteligência. Elemental.
 
 Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
 
+Mão Espectral: 1 de inteligência. Imaculada.
+
+Mensagem: 1 de inteligência. Ilusão.
+
+Aposta: 1 de inteligência, carisma, ou fé. Imaculada.
+
+Marcação: 1 de inteligência. Imaculada.
+
+Sons Fantasmas: 1 de carisma ou inteligência. Ilusão.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -33,6 +43,12 @@ Leitura Dinâmica: 1 de inteligência. Imaculada.
 Campo Anti-magia: 8 de inteligência. Imaculada.
 
 Orbe Negro: 1 de inteligência, 1 de fé. Sortilégio.
+
+Anular Cheiro: 1 de carisma ou inteligência. Ilusão.
+
+Aura Mágica: 1 de inteligência. Ilusão.
+
+Bolha de Ar: 1 de inteligência. Elemental.
 
 ### Custo 2:
 

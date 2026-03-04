@@ -16,3 +16,12 @@ Você pode aumentar em 1d8 a cura total por ponto de mana adicional gasto.
 - Tempo de Conjuração: 1 ação
 
 **Descrição:** Abençoe até 3 criaturas no alcance da magia. Você concede pontos de vida temporários iguais ao seu modificador de fé, além de adicionar +1 em qualquer teste que eles forem realizar.
+
+### Carga de Formiga
+
+- Requisito em Carisma: 1
+- Duração: 1 hora
+- Alcance: Toque
+- Tempo de Conjuração: 2 ações
+
+**Descrição:** Selecione um alvo. Ao tocá-lo, sua capacidade de carga é temporariamente dobrada.
