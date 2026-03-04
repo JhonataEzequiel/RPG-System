@@ -274,3 +274,9 @@ Gastando 3 de mana uma vez por encontro como ação livre, você pode executar q
 **Sinergia Corpo e Mente** (passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu modificador de inteligência aos ataques desarmados, caso seja positivo. Essa parte da habilidade é passiva, e está sempre ativa.
 
 **Elementar** (ação bônus): Você pode trocar o tipo de dano do seu ataque desarmado para qualquer um dos tipos elementais. O tipo de dano só será trocado quando você utilizar essa habilidade novamente. Você também pode escolher causar dano em área com seus ataques. Neste caso, você escolherá um elemento e causará o dano de um ataque desarmado em todos que estiverem na área de impacto, que será uma área circular de raio 3m no alcance do seu deslocamento. Você não precisará rolar para acertar este ataque, mas os inimigos na área de impacto terão que realizar uma salvaguarda de destreza CD 14 + (for ou dex) para desviar, recebendo metade do dano.
+
+## Alquimista Supremo
+
+**Requisitos**: 3 de inteligência ou sabedoria.
+
+Você agora pode tomar qualquer poção como uma ação bônus, e aplicar qualquer veneno como uma ação bônus. Poções de restauração curam o máximo possível sempre que consumidas.

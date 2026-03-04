@@ -318,3 +318,9 @@ Você concentra parte de sua energia vital e a dispara em um ataque a distância
 **Duração**: 2 rodadas.
 
 Você concentra seu Ki na palma das mãos, fecha os olhos, e solta uma luz cegante que tem um efeito semelhante a olhar diretamente para o sol. Todos os inimigos dentro de um cone de 9m à sua frente que falharem num teste de resistência de constituição CD 13 + fth ficarão cegos pela duração. Caso sejam bem sucedidos, terão -1 para acertar ataques.
+
+## Justiça Cega
+
+**Requisitos**: 1 de destreza, 3 de carisma.
+
+Você tem vantagem em testes de conversação contra autoridades da lei ao tentar evadir um crime que você cometeu, ou ao tentar subornar alguém. Testes de conversação com o intuito de intimidar pessoas participantes do submundo do crime tem +2.
