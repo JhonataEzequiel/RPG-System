@@ -68,4 +68,4 @@ As moedas ditam a economia do jogo, e também servem como tesouro mais básico. 
 [[Instrumentos Musicais]]
 [[Grimórios]]
 [[Poções e Venenos]]
-[[Outros Itens]]
+[[Itens de Sobrevivência e Exploração]]
