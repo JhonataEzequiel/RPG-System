@@ -44,6 +44,10 @@ Os bônus das escalas estão listados abaixo:
 
 Escudos funcionam de maneira similar as armaduras, no entanto não adicionam CA. Num geral, muitas habilidades podem utilizar-se de escudos, mas por padrão eles apenas concedem os bônus das suas escalas, que são as mesmas das armaduras. Caso uma escala em específico da armadura conceda CA, o escudo concederá duas vezes a quantidade de CA como pontos de vida máximos. Assim como as armas e armaduras, os benefícios das escalas só estarão ativos quando o objeto estiver equipado. Ao contrário das armaduras, escudos não oferecem nenhuma penalidade.
 
+### Peso dos Equipamentos
+
+Todos os equipamentos possuem um peso em quilos especificado em suas respectivas tabelas. O peso total carregado pelo personagem é a soma do peso de todos os itens equipados e transportados. Caso esse peso ultrapasse a capacidade de carga do personagem, as regras de Carga de Peso se aplicam normalmente.
+
 ### Itens Mágicos
 
 Os itens mágicos irão variar de grau 1 ao grau 3. Um item de grau 3 não é necessariamente mais forte ou melhor que um de grau mais baixo, já que isso depende do que um determinado personagem se beneficia mais. No entanto, os itens de graus superiores são mais difíceis de serem criados, ou são completamente únicos. Ademais, o custo para criar um item de grau superior ou adquiri-lo são muito maiores que graus inferiores.
