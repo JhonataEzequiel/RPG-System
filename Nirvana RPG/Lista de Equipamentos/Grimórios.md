@@ -5,3 +5,14 @@ Grimórios são livros mágicos que ampliam a capacidade de um conjurador de arm
 | Grimório Simples  | Aumenta em 5 a quantidade de magias conhecidas, e em 1 a de arcanos menores.  | 5po   | 1 kg   |
 | Grimório Avançado | Aumenta em 10 a quantidade de magias conhecidas, e em 3 a de arcanos menores. | 15po  | 1.5 kg |
 | Grimório Arcano   | Aumenta em 15 a quantidade de magias conhecidas, e em 5 a de arcanos menores. | 40po  | 2 kg   |
+
+É necessário que você passe um tempo anotando uma magia no grimório para poder utilizá-la. Para isso você precisa de algo capaz de escrever nele, como uma pena e tinta. O tempo varia de acordo com o custo da magia.
+
+| Custo da Magia | Tempo Necessário para Anotar |
+| -------------- | ---------------------------- |
+| Arcano Menor   | 10 minutos                   |
+| 1-2            | 20 minutos                   |
+| 3-4            | 30 minutos                   |
+| 5-6            | 1 hora                       |
+| 7-8            | 4 horas                      |
+| 9-10           | 8 horas                      |
