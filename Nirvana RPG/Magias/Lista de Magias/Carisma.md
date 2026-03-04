@@ -26,6 +26,8 @@ Anular Cheiro: 1 de carisma ou inteligência. Ilusão.
 
 Carga de Formiga: 1 de carisma. Sagrada.
 
+Conjurar Animal: 1 de carisma. Sagrada.
+
 ### Custo 2:
 
 Alterar Forma (incompleta): 2 de carisma. Imaculada.

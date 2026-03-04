@@ -50,6 +50,8 @@ Aura Mágica: 1 de inteligência. Ilusão.
 
 Bolha de Ar: 1 de inteligência. Elemental.
 
+Conjurar Golem Menor: 1 de inteligência. Elemental.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.

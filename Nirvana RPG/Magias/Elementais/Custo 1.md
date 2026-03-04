@@ -21,3 +21,18 @@ Após a duração, tanto a armadura quanto a arma, ainda que o alvo deseje conti
 - Tempo de Conjuração: 1 ação
 
 **Descrição:** Escolha uma criatura alvo no alcance da magia. Uma bolha de ar cerca a cabeça da criatura, a permitindo respirar. O ar se renova de tempos em tempos, impedindo que a mesma sufoque até o fim da magia.
+
+### Conjurar Golem Menor
+
+- Requisito em Inteligência: 1
+- Duração: 1 encontro
+- Alcance: 18m
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você cria um pequeno golem com magia, que surge em um local desocupado dentro do alcance. O golem age imediatamente após o seu turno, e lhe obedece completamente. Ele tem as seguintes características:
+
+- **HP:** 30
+- **CA:** 12
+- **Dano:** 1d6 + 2 de dano de impacto por ataque corpo a corpo.
+
+O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas vivas, como magias de sangue e a maioria das curas sagradas. Caso o golem seja destruído antes do fim do encontro, a magia se encerra.

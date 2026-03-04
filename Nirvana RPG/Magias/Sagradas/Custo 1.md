@@ -4,7 +4,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: 1 ação
 
-**Descrição:** Uma criatura que você tocar recupera uma quantidade de pontos de vida iguais a 1d8 + fth. Essa magia não produz efeito em construtos. 
+**Descrição:** Uma criatura que você tocar recupera uma quantidade de pontos de vida iguais a 1d8 + fth. Essa magia não produz efeito em autômatos. 
 
 Você pode aumentar em 1d8 a cura total por ponto de mana adicional gasto.
 
@@ -25,3 +25,12 @@ Você pode aumentar em 1d8 a cura total por ponto de mana adicional gasto.
 - Tempo de Conjuração: 2 ações
 
 **Descrição:** Selecione um alvo. Ao tocá-lo, sua capacidade de carga é temporariamente dobrada.
+
+### Conjurar Animal
+
+- Requisito em Carisma: 1
+- Duração: 1 encontro
+- Alcance: 18m
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Escolha um local desocupado dentro do alcance da magia. Você invoca um animal à sua escolha de nível 1 ou inferior. Ele age imediatamente após o seu turno, e lhe obedece completamente.
