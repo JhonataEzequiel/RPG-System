@@ -7,4 +7,4 @@ Há 4 tipos de moedas, sendo a principal PO (peças de ouro). As demais são mú
 | Peças de Ouro (PO)    | 100  | 10   | 1     | 1/10   |
 | Peças de Platina (PL) | 1000 | 100  | 10    | 1      |
 
-Como regra geral, um punhado de moedas pesa meio quilo.
+Como regra geral, uma bolsa pequena de moedas, costumeiramente encontradas em aventuras, pesa meio quilo. Para critérios de simplificação, adota-se 3 kg para cada 100 moedas de qualquer tipo.
