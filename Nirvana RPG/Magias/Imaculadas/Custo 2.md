@@ -26,5 +26,13 @@
 - Vigor do urso: O alvo tem vantagem em testes de constituição, e também recebe 6 pontos de vida temporários.
 - Paciência da tartaruga: O alvo tem vantagem em testes de fé. Também tem imunidade a condições negativas por 2 rodadas.
 
+### Preservar
 
+- Requisito em Inteligência: 2
+- Duração: 24 horas
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
 
+**Descrição:** Você seleciona um objeto alvo e o toca. O objeto em questão pausa seu processo de deterioração pela duração da magia. Por exemplo, se tocar em uma armadura, ela não enferrujará mais do que já está pela duração, após isso o processo de ferrugem continuará normalmente. Caso a magia for utilizada em cadáveres você impede a decomposição dele temporariamente.
+
+Cada ponto de mana adicional dobra a duração da magia.

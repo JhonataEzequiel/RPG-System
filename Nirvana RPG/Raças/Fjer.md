@@ -4,7 +4,7 @@ Os Fjer são uma raça de pássaros humanoides que possuem a habilidade de se ap
 
 É capaz de possuir objetos por tempo indefinido, mas o corpo original dele fica vulnerável. Caso o corpo original receba um golpe fatal, o Fjer morrerá, sem ao menos ser nocauteado. O Fjer não sente se o corpo dele estiver sendo atacado. O Fjer só pode possuir um objeto caso esteja ao alcance de seu deslocamento e que possa vê-lo. Ele só pode possuir objetos, o que incluí cadáveres. Ele pode usar qualquer habilidade inata aquele corpo, como conjurar magias de um mago morto. Caso o objeto não possua qualquer sentido físico, ele pode escutar, ver, ou sentir qualquer coisa que tocar, além de trocar de objeto enquanto já está possuindo um. No entanto, não pode falar. O Fjer não pode se apossar de um objeto com acionamento automático. O Fjer não pode se apossar de um objeto que esteja sendo utilizado por outra criatura. Confira as regras de objetos no capítulo [[Elementos do Cenário]] para mais informações.
 
-O objeto em si terá os pontos de vida iguais aos pontos de vida máximos que tinha antes de morrer, caso se trate de um cadáver. Caso o cadáver seja morto novamente, o Fjer voltará ao seu corpo original com seus pontos de vida intactos. 
+O objeto em si terá os pontos de vida iguais aos pontos de vida máximos que tinha antes de morrer, caso se trate de um cadáver. Caso o cadáver seja morto novamente, o Fjer voltará ao seu corpo original com seus pontos de vida intactos. O cadáver não apodrece enquanto o Fjer o estiver possuindo. Os atributos de inteligência, sabedoria, fé e carisma permanecerão os maiores entre o cadáver e o Fjer.
 
 ### Voar
 
