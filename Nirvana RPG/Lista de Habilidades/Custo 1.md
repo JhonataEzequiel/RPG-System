@@ -150,7 +150,7 @@ Coisas como a religião do povo, seus costumes, e organização social serão de
 
 **Requisitos**: 1 de sabedoria.
 
-Quando tiver um descanso curto e for recuperar mana utilizando seu dado de mana, adicione seu modificador de sabedoria a rolagem.
+Quando tiver um descanso curto e for recuperar mana utilizando seu dado de mana, adicione seu modificador de inteligência, fé, ou carisma à rolagem.
 
 Você também pode preparar uma magia a mais da sua lista de magias conhecidas.
 
@@ -203,8 +203,6 @@ Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limi
 Você evolui de nível mais rápido que os outros, recebendo o dobro de experiência por qualquer ação feita. No entanto, você só poderá incrementar seus atributos quando for capaz de colocar um ponto em cada de uma vez. O ganho de pontos de atributo e habilidades continuará o mesmo.
 
 ## Descuidado
-
-**Requisitos**: 3 de constituição, 2 de força.
 
 Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. 
 

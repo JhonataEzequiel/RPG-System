@@ -1,4 +1,10 @@
-Os atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As habilidades inatas estão atreladas a esses atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso o jogador opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de atributos totais são 7, sendo eles: constituição, força, destreza, sabedoria, inteligência, fé, e carisma.
+Os atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso o jogador opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de atributos totais são 7, sendo eles: constituição, força, destreza, sabedoria, inteligência, fé, e carisma. Você receberá pontos de atributo para investir como quiser, tanto no nível 1, quanto nos níveis subsequentes.
+
+Os atributos terão o seguinte limite:
+
+$NVMáximoAtributo=3+(NívelDoPersonagem/2)$
+
+Esse número deve ser arredondado para baixo. Ou seja, apenas no nível 14 serão capazes de ter um atributo no nível 10. Além disso, você pode guardar seus pontos de atributo para usar em outro nível. No nível 20, você é obrigado a alocá-los.
 
 ## Constituição
 
@@ -10,7 +16,7 @@ Dita o quão apto fisicamente um personagem é para conseguir realizar tarefas q
 
 ## Destreza
 
-A destreza de um personagem é o atributo chave para realizar atividades que necessitem de agilidade, empunhar e manusear armas rápidas, dentre outras coisas. Também é um dos principais atributos de ataque, utilizado em armas rápidas, como adagas, certos arcos, espadas curtas, espadas perfurantes, algumas lanças, dentre outras. Ideal para personagens que procuram serem mais rápidos em combate.
+A destreza de um personagem é o atributo chave para realizar atividades que necessitem de agilidade, empunhar e manusear armas rápidas, dentre outras coisas. Também é um dos principais atributos de ataque, utilizado em armas rápidas, como adagas, arcos, espadas curtas, espadas perfurantes, algumas lanças, dentre outras. Ideal para personagens que procuram serem mais rápidos em combate.
 
 ## Sabedoria
 
@@ -18,12 +24,34 @@ Ideal para classes mágicas, esse atributo ditará a quantidade de magias que se
 
 ## Inteligência
 
-Magias elementais, sortilégios, e magias de sangue precisam deste atributo para serem usadas. Quais magias se pode usar, além do dano causado por elas, são determinados por esse atributo. Representa a capacidade de raciocínio lógico, memória, e aprendizado teórico. É usada para testes que envolvam dedução, análise, resolver enigmas, compreender sistemas complexos, e conhecimento acadêmico.
+Boa parte das magias precisam deste atributo para serem usadas. Quais magias se pode usar, além do dano causado por elas, são determinados por esse atributo. Representa a capacidade de raciocínio lógico, memória, e aprendizado teórico. É usada para testes que envolvam dedução, análise, resolver enigmas, compreender sistemas complexos, e conhecimento acadêmico.
 
 ## Fé
 
-Magias sagradas, sortilégios, e magias de sangue se beneficiam deste atributo. Determina quais magias desses tipos podem ser usadas, e o dano causado por elas (ou cura concedida, se forem magias de cura). Testes que envolvam o divino, como resistir a uma maldição; ou testes que envolvam medicina, como não ser afetado por uma doença, são feitos com este atributo.
+Várias magias se beneficiam deste atributo. O dano causado e a cura concedida através de certas magias também está atrelado a esse atributo. Testes que envolvam o divino, como resistir a uma maldição; ou testes que envolvam medicina, como não ser afetado por uma doença, são feitos com este atributo.
 
 ## Carisma
 
-Normalmente é utilizado fora de combate, mas também pode ser usado para desbloquear e usar certas magias de suporte. Este atributo é responsável por ditar o quão bem alguém é em inteligência interpessoal, e o quão bem é visto pelos outros indivíduos.
+Normalmente é utilizado fora de combate, mas também pode ser usado para desbloquear e usar certas magias de suporte ou druídicas. Este atributo é responsável por ditar o quão bem alguém é em inteligência interpessoal, e o quão bem é visto pelos outros indivíduos.
+
+## Modificadores
+
+Os modificadores são calculados da seguinte maneira:
+
+$Modificador=atributo/2$
+
+Caso o número for fracionado, arredonde para baixo.
+
+Os modificadores servirão em testes, que serão detalhados mais a frente. O modificador é representado pela sigla de seu atributo, sendo elas:
+
+- Constituição: “con”
+- Força: “for”
+- Destreza: “dex”
+- Sabedoria: “sab”
+- Inteligência: "int"
+- Fé: “fth”
+- Carisma: “car”
+
+Caso a sigla esteja em algum lugar das regras de algo, será o modificador que deverá ser usado. Caso não, o atributo em si é que contará.
+
+É possível que o jogador se depare com algo parecido com isso: "2d4 + (int ou fth)", isso significa que ele poderá escolher um dos dois modificadores para usar.  Caso apareça algo como "2d4 + (int e fth)", os dois modificadores deverão ser usados.

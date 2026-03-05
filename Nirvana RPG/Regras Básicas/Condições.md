@@ -87,3 +87,9 @@ Uma criatura surda não pode ouvir e falha automaticamente em qualquer teste de 
 ### Sangrando 
 
 A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado.
+
+## Nocauteado
+
+Você é incapacitado, e só pode sair desta condição caso seja estabilizado de alguma forma. A única forma de ser nocauteado é caso seus pontos de vida cheguem a zero. 
+
+Para se libertar desta condição você precisará passar por algumas salvaguardas de constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um sucesso. Caso contrário, obtém um fracasso.

@@ -1,4 +1,4 @@
-O nível de um jogador determinará o quão apto para encarar certos desafios ele está. O nível médio do grupo é calculado dividindo a soma dos níveis por 4. Esse nível médio será o critério utilizado pelo mestre para determinar os desafios que o grupo enfrentará, como monstros, testes, dentre outras coisas. Um jogador pode aumentar seu nível adquirindo pontos de experiência. Caso queira saber as regras para um personagem de nível 1, vá ao capítulo “Criação de Personagens”.
+O nível de um personagem determinará o quão apto para encarar certos desafios ele está. O nível médio do grupo é calculado dividindo a soma dos níveis por 4. Esse nível médio será o critério utilizado pelo mestre para determinar os desafios que o grupo enfrentará, como monstros, testes, dentre outras coisas. Um jogador pode aumentar seu nível adquirindo pontos de experiência.
 
 # Evoluindo Além do Nível 1
 
@@ -44,51 +44,36 @@ Arredondando o nível médio para baixo, teremos as seguintes recompensas em XP:
 
 Uma vez adquirido XP para subir de nível será necessário ter um descanso longo para ganhar as recompensas. O XP sobressalente contará para o progresso do próximo nível. 
 
-## Pontos de Atributo
+## Pontos de Vida e Mana Adicionais
 
-Os jogadores receberão pontos de atributo para utilizarem da maneira que quiserem, seguindo a tabela a seguir:
+Ao evoluir de nível você ganhará mais pontos de vida e mana. Você pode optar por adicionar novos pontos de duas maneiras: rolando os dados, ou pegando o valor médio deles. 
+
+Se optar por rolar os dados, você rolará seu dado de vida e adicionará o resultado ao seu modificador de constituição. Após isso, juntará os dois nos seus pontos de vida máximos. Analogamente, fará o mesmo com a mana, mas utilizando seu dado de mana e seu modificador de sabedoria.
+
+Se optar pelo valor médio, você dividirá o número máximo possível com seu dado de vida ou mana, e somará ao modificador correspondente, adicionando os resultados ao seu total máximo de cada um.
+
+Caso sua constituição tenha valor negativo, você não somará o modificador. Caso sua sabedoria seja 0 ou inferior, você receberá apenas 1 de mana por nível.
+
+## Pontos de Atributo e Habilidade
+
+Os jogadores receberão pontos de atributo e habilidade para utilizarem da maneira que quiserem, seguindo a tabela a seguir:
 
 | Nível Novo do Jogador | Pontos Ganhos |
 | --------------------- | ------------- |
 | 5, 10, 15, ou 20      | +2            |
 | Outros                | +1            |
 
-Além disso, com exceção do nível de personagem 1, os atributos terão o seguinte limite:
-
-$NVMáximoAtributo=3+(NívelDoPersonagem/2)$
-
-Esse número deve ser arredondado para baixo. Ou seja, apenas no nível 14 serão capazes de ter um atributo no nível 10.
-
-Além disso, você pode guardar seus pontos de atributo para usar em outro nível. No nível 20, você é obrigado a alocá-los.
-
-## Pontos de Habilidade
-
-Ao subir de nível, você receberá pontos de habilidades que poderão ser gastos para adquirir novas habilidades da lista de habilidades. É importante ressaltar que algumas habilidades custarão mais do que um ponto. A quantidade de pontos de habilidade ganha é igual aos pontos de atributo, ou seja, também seguirão a mesma tabela:
-
-| Nível Novo do Jogador | Pontos Ganhos |
-| --------------------- | ------------- |
-| 5, 10, 15, ou 20      | +2            |
-| Outros                | +1            
-
-Você pode adquirir qualquer habilidade que quiser, desde que tenha os pontos necessários para tal. Além disso, você pode guardar seus pontos de habilidade para usar em outro nível. No nível 20, você é obrigado a alocá-los.
-
 ## Ganho de perícias adicionais
 
-Você pode optar por não gastar seus pontos de habilidade e escolher novas perícias no lugar. Ou seja, você não conseguirá novas habilidades naquele nível em específico. A quantidade de perícias que você pode adquirir em um único nível são duas. No total, você só pode adquirir uma quantidade de perícias igual ao seu modificador de sabedoria.
+Você pode optar por não gastar seus pontos de habilidade e escolher novas perícias no lugar. A quantidade de perícias que você pode adquirir em um único nível são duas. No total, você só pode adquirir uma quantidade de perícias igual ao seu modificador de sabedoria. Cada perícia é um ponto de habilidade.
 
 A exceção a essa regra é o nível 20, aonde você poderá tanto adquirir perícias, quanto habilidades, visto que você não poderá guardar mais os seus pontos de habilidade.
-
-### Pontos de Vida e Mana Adicionais
-
-Toda vez que subir de nível, você adicionará seu dado de vida + con aos seus pontos de vida máximos. De maneira análoga, fará isso com o dado de mana + sab, adicionando o resultado aos pontos de mana máximos.
 
 ### Habilidades de raça, habilidades de atributos, ou magias
 
 Sua raça pode ou não conceder habilidades que aumentam conforme o nível. 
 
 Algumas habilidades de atributos tem suas características aumentadas quando se sobe de nível, concedendo mais poder de ataque, duração, dentre outras coisas.
-
-Magias são similares as habilidades de atributos, podendo também oferecer a opção ao jogador de melhorá-la utilizando mais pontos de mana, que normalmente são limitados pelo nível do atributo em específico. Por exemplo, uma magia pode dizer que é possível amplificá-la com pontos extras de mana iguais ao modificador de inteligência, o que dependerá, claro, de seu nível.
 
 ### Indo além do nível 20
 

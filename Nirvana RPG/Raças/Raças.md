@@ -1,4 +1,4 @@
-Cada raça possui habilidades e deslocamentos únicos, sendo esses os diferenciais entre elas. O objetivo de não incluir mais estatísticas ou características nas raças é para que o jogador possa usufruir da versatilidade do sistema, podendo combinar qualquer raça com qualquer arquétipo, criando combinações criativas e inventivas.
+Cada raça possui habilidades e deslocamentos únicos, sendo esses os diferenciais entre elas. O objetivo de não incluir mais estatísticas ou características nas raças é para que você possa usufruir da versatilidade do sistema, podendo combinar qualquer raça com qualquer arquétipo, criando combinações criativas e inventivas.
 
 | Raça              | Deslocamento em metros |
 | ----------------- | ---------------------- |
