@@ -4,19 +4,17 @@ Os siderium são parentes distantes dos elfos, que compartilham de uma origem em
 
 Os diurnus possuem pele branca ou amarelada e cabelos que refletem um céu noturno, como se fosse possível ver o espaço sideral através deles. Eles recebem e convertem a energia das luzes, e a utilizam para ficar mais fortes.
 
-**Helius (Ação Bônus):** Caso fiquem 8 horas em contato direto com uma luz, recebem os benefícios de um descanso longo sem precisar descansar, a hora que desejarem. Só podem usar essa habilidade uma vez até se energizarem de novo.
+**Helius** (Ação Bônus): Caso fiquem 8 horas em contato direto com uma luz, recebem os benefícios de um descanso longo sem precisar descansar, a hora que desejarem. Só podem usar essa habilidade uma vez até se energizarem de novo.
 
-Só podem se curar por meio de descansos ou magias de cura, e não podem descansar em locais completamente escuros, devendo haver ao menos uma fonte de luz mínima que os energize, como uma tocha.
+Só podem se curar por meio de descansos ou magias de cura, e não podem descansar em locais completamente escuros, devendo haver ao menos uma fonte de luz mínima que os energize, como uma tocha. As magias de cura, no entanto, curarão apenas metade do total, arredondado para cima.
 
-As magias de cura, no entanto, curarão apenas metade do total, arredondado para cima.
-
-**Minnerva (Passiva):** Os siderium diurnus tem um bônus de +3 em testes de sabedoria, e não sofrem penalidades nesses testes, nem mesmo desvantagens. Isso também se aplica as perícias de sabedoria. Não existem erros críticos nesses testes para os diurnus.
+**Minnerva** (Passiva) : Os siderium diurnus tem um bônus de +3 em testes de sabedoria, e não sofrem penalidades nesses testes, nem mesmo desvantagens. Isso também se aplica as perícias de sabedoria. Não existem erros críticos nesses testes para os diurnus.
 
 ## Nocturnus
 
 Os nocturnus refletem o céu noturno através de sua pele, possuindo olhos azuis ou dourados sem pupila. Seus cabelos são totalmente brancos ou amarelos.
 
-**Luna (Uma Ação):** A Luna de um nocturnus é uma característica intrínseca presente na alma deles, que os permite direcionar o foco de suas mentes a algo. A Luna pode ser de três tipos: Plenus, Novus, ou Sanguis Eclipsis.
+**Luna** (Uma Ação): A Luna de um nocturnus é uma característica intrínseca presente na alma deles, que os permite direcionar o foco de suas mentes a algo. A Luna pode ser de três tipos: Plenus, Novus, ou Sanguis Eclipsis.
 
 O jogador pode alterar sua Luna com uma ação bônus, mas só pode usufruir de seus efeitos uma vez ao dia por 10 minutos. Uma vez que a Luna seja ativada, só poderá ser trocada no próximo turno.
 
