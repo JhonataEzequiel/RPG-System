@@ -1,6 +1,5 @@
 ### Bola de Fogo Sagrada
 
-- Custo: 4
 - Requisito em Fé: 4
 - Alcance: 36m
 - Tempo de Conjuração: 2 Ações

@@ -92,4 +92,4 @@ A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra
 
 Você é incapacitado, e só pode sair desta condição caso seja estabilizado de alguma forma. A única forma de ser nocauteado é caso seus pontos de vida cheguem a zero. 
 
-Para se libertar desta condição você precisará passar por algumas salvaguardas de constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um sucesso. Caso contrário, obtém um fracasso.
+Para se libertar desta condição você precisará passar por algumas salvaguardas de constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um sucesso. Caso contrário, obtém um fracasso. Você passará por uma salvaguarda no início de cada um de seus turnos, até que um resultado final seja obtido.
