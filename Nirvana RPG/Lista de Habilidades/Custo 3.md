@@ -304,10 +304,10 @@ Uma vez por descanso longo, você flexiona suas costas, que ficam tão definidas
 
 Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham como a luz refletindo em um metal. Para acertar este ataque você utilizará o atributo de força ao invés do modificador, caso tenha escolhido o modificador de força para ser seu bônus de ataques desarmados. O dano continuará sendo calculado da mesma maneira de um ataque desarmado, mas o alvo ficará atordoado até o início do próximo turno dele. Você ganha +5 para acertar ataques contra o alvo em questão.
 
-## Akuma
+## Assassino Instantâneo do Inferno
 
 **Requisitos**: Habilidades "Cérebro do Demônio", "Costas do Demônio", e "Mandíbula do Demônio" de custo 3.
 **Custo**: 3 ações, 4 de mana.
 **Duração**: 2 rodadas.
 
-Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O alvo fica incapacitado pela duração caso falhe num teste de resistência de constituição CD 5 + con + for + sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Este ataque sempre acerta.
+Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O alvo fica incapacitado pela duração caso falhe num teste de resistência de constituição CD 5 + con + for + sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Essa habilidade sempre acerta.
