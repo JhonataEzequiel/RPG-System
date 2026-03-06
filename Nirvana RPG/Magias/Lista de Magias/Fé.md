@@ -20,6 +20,10 @@ Aposta: 1 de inteligência, carisma, ou fé. Imaculada.
 
 Sangue de Fera: 1 de inteligência, 1 de fé. Sangue.
 
+Corte de Papel: 1 de inteligência, 1 de fé. Sangue.
+
+Sombra Agente: 1 de inteligência, 1 de fé. Sortilégio.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé ou carisma. Sagrada.

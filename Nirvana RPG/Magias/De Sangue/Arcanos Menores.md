@@ -21,3 +21,13 @@ Você pode escolher quantos pontos de vida gastará para conjurar este arcano me
 **Descrição:** Você faz o sangue do alvo correr mais rápido pelo corpo. Qualquer dano causado ou recebido proveniente de ataques físicos causa 1d8 a mais de dano do tipo de dano do ataque. O alvo tem vantagem para acertar ataques, e quaisquer ataques contra ele também têm vantagem para acertar.
 
 Você pode gastar 3 pontos de mana adicionais para remover a vantagem dos ataques contra o alvo.
+
+### Corte de Papel
+
+- Requisito em Inteligência: 1
+- Requisito em Fé: 1
+- Duração: Instantânea
+- Alcance: 9m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você dispara uma pequena quantidade de sangue em alta velocidade. Você perde 1 ponto de vida ao conjurar essa magia. O sangue é praticamente invisível, mas é extremamente doloroso e eficaz. Causa 1d4 de dano cortante e 2d4 + int de dano psíquico a um alvo no alcance da magia.

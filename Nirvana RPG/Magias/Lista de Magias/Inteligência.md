@@ -28,6 +28,10 @@ Sons Fantasmas: 1 de carisma ou inteligência. Ilusão.
 
 Sangue de Fera: 1 de inteligência, 1 de fé. Sangue.
 
+Corte de Papel: 1 de inteligência, 1 de fé. Sangue.
+
+Sombra Agente: 1 de inteligência, 1 de fé. Sortilégio.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
