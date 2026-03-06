@@ -310,4 +310,4 @@ Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham com
 **Custo**: 3 ações, 4 de mana.
 **Duração**: 2 rodadas.
 
-Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O alvo fica incapacitado pela duração caso falhe num teste de resistência de constituição CD 8 + con + for + sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Este ataque sempre acerta.
+Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O alvo fica incapacitado pela duração caso falhe num teste de resistência de constituição CD 5 + con + for + sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Este ataque sempre acerta.

@@ -6,7 +6,7 @@ Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nív
 
 ## Limitação Inicial
 
-Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes pontos em outro atributo, ignorando o limite de nível máximo de um atributo. Um atributo com valor negativo tem seu modificador negativo também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor.
+Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes pontos em outro atributo, ignorando o limite de nível máximo de um atributo. Um atributo com valor negativo tem seu modificador negativo também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em destreza e -6 em força, você não poderá ter mais limitações.
 
 Os 7 pontos iniciais do nível um ainda seguirão a limitação de nível máximo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma limitação inicial.
 

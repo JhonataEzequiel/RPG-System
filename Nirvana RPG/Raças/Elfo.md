@@ -1,14 +1,10 @@
 ## Alto elfo
 
-**Afinidade mágica:** Os alto elfos podem utilizar uma magia (de qualquer tipo), à escolha deles, como um arcano menor, ou seja, não gastarão pontos de mana para usá-la. Podem trocar a magia escolhida toda vez que tiverem um descanso longo. Eles podem, inclusive, escolher uma magia mesmo tendo 0 de sabedoria, mas ainda devem atender aos requisitos de atributos da magia. Eles só podem conjurar essa magia uma vez até terem um descanso longo.
+Como alto elfo você terá facilidade em aprender sobre temas diversos. Você tem acesso a mais uma perícia, e também fala élfico. 
 
-**Especialista:** A partir do nível 5, os alto elfos podem escolher um caminho que estará ligado diretamente ao estilo de luta deles. Quanto mais o conhecimento de um alto elfo aumenta sobre um determinado assunto, mais eles extrairão o real potencial daquilo. Os caminhos disponíveis são:
+**Adaptação Élfica** (ação livre): Uma vez por descanso longo você pode adicionar um modificador de qualquer atributo, à sua escolha, como dano em um ataque ou magia, ou como cura em uma poção de cura ou magia de cura.
 
-**Arcanista:** dá a habilidade de conjurar um arcano menor como uma ação bônus uma vez por encontro. A magia escolhida por Afinidade mágica também pode ser considerada para essa habilidade. Você pode trocar o arcano menor escolhido toda vez que tiver um descanso curto ou longo.
-
-**Marcial:** Aumenta a margem de ameaça de ataques físicos em um ponto.
-
-**Suporte:** você tem +5 em testes de medicina. No nível 15 você ganha um ponto de habilidade extra, mas não pode escolher uma habilidade que cause dano, ou que aumente qualquer dano que você cause.
+**Descanso Élfico** (passiva): Os alto elfos podem trocar as magias conhecidas em um descanso curto, não só os arcanos menores. Caso não utilize magias, você recuperará 2d4 a mais de vida ao ter um descanso curto. No nível 5, esse bônus aumenta para 3d4, e no nível 10, 3d6.
 
 ## Elfo da floresta
 

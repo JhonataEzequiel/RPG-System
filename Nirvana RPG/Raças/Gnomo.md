@@ -2,9 +2,12 @@ Existem dois tipos de gnomos, os feéricos e os da natureza. Além de suas habil
 
 ## Gnomo feérico
 
-**Proteção das fadas**: Os gnomos feéricos possuem uma barreira mágica que os protege. Essa habilidade os acompanha durante todo o tempo, e é desfeita após receber o primeiro ataque ou magia de dano. Tentativas de ataque e de usar magias de dano sofrem desvantagem, e caso obtenham sucesso, causam metade do dano. Só quando o ataque acertar é que a proteção é desfeita. A habilidade é automática, e independe de você querer usá-la ou não. Recupera com descanso longo. 
+**Proteção das Fadas** (passiva): Os gnomos feéricos possuem uma barreira mágica que os protege, a qual os acompanha durante todo o tempo e é desfeita após receber dano. Os efeitos variam dependendo da fonte do dano:
 
-No entanto, é possível desativá-la caso você deseje. Neste caso, a habilidade só poderá ser ativada novamente caso você tenha um descanso curto ou longo.
+- **Ataques diretos:** Tentativas de ataque sofrem uma penalidade de -4 para acertar. Caso obtenham sucesso, causam metade do dano. A proteção é desfeita somente quando o ataque acertar.
+- **Outras fontes de dano** (como magias de dano): A proteção é desfeita imediatamente, e você recebe o dano completamente. No entanto, antes de receber o dano, você ganha seu nível + 10 como pontos de vida temporários. Esses pontos de vida desaparecem no início do seu próximo turno.
+
+A habilidade é automática e independe de você querer usá-la ou não. No entanto, é possível desativá-la caso você deseje. Neste caso, a habilidade só poderá ser ativada novamente após um descanso curto ou longo. Naturalmente, ela recupera com descanso longo.
 
 ## Gnomo da natureza
 
@@ -12,24 +15,33 @@ No entanto, é possível desativá-la caso você deseje. Neste caso, a habilidad
 
 ### Primeira forma
 
-Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede resistência a todos os tipos de dano.
+Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede resistência a todos os tipos de dano, mas tem 5 de vulnerabilidade a dano de fogo.
 
-| Nível do gnomo | Resistência adicional |
+| Nível do Gnomo | Resistência Adicional |
 | -------------- | --------------------- |
-| 1              | 2                     |
-| 5              | 6                     |
-| 13             | 9                     |
-| 19             | 18                    |
+| 1-3            | 2                     |
+| 4-5            | 6                     |
+| 6-10           | 9                     |
+| 11-14          | 11                    |
+| 15-20          | 18                    |
 
 ### Segunda forma
 
-Seu corpo absorve energia do sol e energiza o gnomo, concedendo a ele um aumento no deslocamento, que passa a ser 18m. Ganha bônus em jogadas de ataque, sendo ataques físicos ou mágicos, tanto para acertar, quanto para dar dano.
+Seu corpo absorve energia do sol e energiza o gnomo, concedendo a ele um aumento no deslocamento, que passa a ser 12m. Ganha bônus em jogadas de ataque, tanto para acertar, quanto para dar dano. Caso você utilize uma magia de dano nessa forma, o dano da magia também aumentará.
 
-| Nível do gnomo | Bônus de Ataque adicional |
+| Nível do Gnomo | Bônus de Ataque Adicional |
 | -------------- | ------------------------- |
 | 1              | 2                         |
 | 7              | 4                         |
 | 15             | 6                         |
+
+| Nível do Gnomo | Bônus de Dano de Magias |
+| -------------- | ----------------------- |
+| 1-3            | +2                      |
+| 4-6            | +4                      |
+| 7-10           | +7                      |
+| 11-14          | +12                     |
+| 15-20          | +15                     |
 
 ### Meditação Ambiente
 
