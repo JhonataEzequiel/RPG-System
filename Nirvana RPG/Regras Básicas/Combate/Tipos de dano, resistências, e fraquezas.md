@@ -35,3 +35,14 @@ Sangue: os feitiços de sangue normalmente são usados a partir do próprio sang
 ## Multiplicadores de Dano
 
 Sempre que você tiver que multiplicar o dano, seja por uma habilidade, ataque crítico, ou outra mecânica, os multiplicadores vão se multiplicar entre si. Ou seja, se uma habilidade deixa você dobrar o dano, e você tirou um ataque crítico, você irá quadruplicar o dano.
+
+## Interação entre tipos de dano mágico
+
+Existem algumas interações possíveis entre os tipos de dano mágicos. Muitas vezes dependerá da situação atual do alvo. Para que um alvo esteja em chamas é necessário que ele tenha recebido uma mágica de dano de fogo de custo 3 ou maior na última rodada, ou que algo tenha acontecido para ele estar envolto em chamas, como ser vítima de uma explosão no cenário.
+
+| Situação                                                 | Efeito                                                                                            |
+| -------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Alvo Molhado                                             | Todo dano de raio contra o alvo recebe um aumento de 1d6, enquanto o dano de fogo diminui em 1d6. |
+| Alvo em Chamas                                           | Todo dano de fogo contra o alvo recebe um aumento de 1d6                                          |
+| Alvo recebeu dano psíquico até no máximo a última rodada | A CD para resistir a magias de ilusão ou identificar seus efeitos é aumentada em 1 ponto          |
+

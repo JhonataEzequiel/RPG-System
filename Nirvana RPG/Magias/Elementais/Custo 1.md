@@ -45,3 +45,32 @@ O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas
 - Tempo de Conjuração: 1 ação
 
 **Descrição:** Você faz com que saia água de suas mãos, até um total de 8 litros.
+
+### Jato D'água
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: 9m
+- Tempo de Conjuração: 2 ações
+
+**Descrição:** Você dispara um jato d'água com pressão alta. O alvo recebe 2d4 + int de dano de impacto, e caso falhe num teste de resistência de força CD 11 + int ele é empurrado 3m para trás, e é derrubado, tendo a condição caído.
+
+### Mãos Flamejantes
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: 9m
+- Tempo de Conjuração: 2 ações
+
+**Descrição:** Chamas saem de suas mãos, causando 2d8 + int de dano de fogo a qualquer criatura numa área em cone no alcance da magia.
+
+Você pode aumentar o dano em 1d8 por ponto de mana adicional até um máximo de 5 pontos investidos. Ao investir 5 pontos adicionais de uma vez nesta magia, seu dano é aumentado em 1d4 permanentemente.
+
+### Mísseis Mágicos
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: 24m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você dispara um pequeno foguete mágico em um alvo no alcance da magia, causando 1d8 + int de dano de fogo ou de impacto, à sua escolha. Você pode gastar ações adicionais para aumentar a quantidade de misseis disparados. A quantidade de misseis aumenta em 1 para cada ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de uma ação bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa magia na próxima rodada. Os mísseis sempre acertam, significando que não é possível desviar deles com um teste de resistência.

@@ -9,3 +9,15 @@
 **Descrição:** Você espalha sangue de seu próprio corpo num semicírculo a sua frente de 6 metros de comprimento, no alcance dessa magia. 
 
 Você pode escolher quantos pontos de vida gastará para conjurar este arcano menor, como mínimo de 1 ponto. O inimigo que for afetado diretamente quando você jorrar o sangue receberá 1d6 de dano de fogo. Caso termine seu turno dentro da área da magia, receberá o dobro dos pontos de vida sacrificados como dano de fogo. Para cada 10 pontos de vida sacrificados, a área afetada dobra.
+
+### Sangue de Fera
+
+- Requisito em Inteligência: 1
+- Requisito em Fé: 1
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você faz o sangue do alvo correr mais rápido pelo corpo. Qualquer dano causado ou recebido proveniente de ataques físicos causa 1d8 a mais de dano do tipo de dano do ataque. O alvo tem vantagem para acertar ataques, e quaisquer ataques contra ele também têm vantagem para acertar.
+
+Você pode gastar 3 pontos de mana adicionais para remover a vantagem dos ataques contra o alvo.

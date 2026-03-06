@@ -18,6 +18,8 @@ Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
 
 Aposta: 1 de inteligência, carisma, ou fé. Imaculada.
 
+Sangue de Fera: 1 de inteligência, 1 de fé. Sangue.
+
 ### Custo 1:
 
 Cura Menor: 1 de fé ou carisma. Sagrada.

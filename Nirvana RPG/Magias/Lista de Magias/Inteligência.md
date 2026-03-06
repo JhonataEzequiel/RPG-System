@@ -26,6 +26,8 @@ Marcação: 1 de inteligência. Imaculada.
 
 Sons Fantasmas: 1 de carisma ou inteligência. Ilusão.
 
+Sangue de Fera: 1 de inteligência, 1 de fé. Sangue.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
@@ -53,6 +55,16 @@ Bolha de Ar: 1 de inteligência. Elemental.
 Conjurar Golem Menor: 1 de inteligência. Elemental.
 
 Criar Água: 1 de inteligência. Elemental.
+
+Disfarce Ilusório: 1 de inteligência. Ilusão.
+
+Emendar: 1 de inteligência. Imaculada.
+
+Golpe Certo: 1 de inteligência ou carisma. Imaculada.
+
+Caleidoscópio: 1 de inteligência. Ilusão.
+
+Mísseis Mágicos: 1 de inteligência. Elemental.
 
 ### Custo 2:
 

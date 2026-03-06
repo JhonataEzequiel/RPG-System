@@ -46,3 +46,21 @@ Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana 
 - Tempo de Conjuração: 1 hora
 
 **Descrição:** Você lê todos os livros e escritos que estiverem no alcance da magia acessando os conhecimentos contidos neles através de sua mente. Caso encontre uma magia você não a aprenderá, mas saberá de sua existência, e em qual dos livros está.
+
+### Emendar
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você toca um item não mágico que tem sua durabilidade restaurada. Esta magia não se aplica a qualquer objeto, apenas a itens na lista de item. O item fica novo em folha.
+
+### Golpe Certo
+
+- Requisito em Inteligência ou Carisma: 1
+- Duração: Instantânea
+- Alcance: 18m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Escolha um alvo no alcance da magia. O próximo ataque efetuado pelo alvo terá +4 para acertar. Você pode escolher alvos adicionais ao custo de uma ação adicional por cada.

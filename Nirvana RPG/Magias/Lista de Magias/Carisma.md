@@ -28,6 +28,8 @@ Carga de Formiga: 1 de carisma. Sagrada.
 
 Conjurar Animal: 1 de carisma. Sagrada.
 
+Golpe Certo: 1 de inteligência ou carisma. Imaculada.
+
 ### Custo 2:
 
 Alterar Forma (incompleta): 2 de carisma. Imaculada.

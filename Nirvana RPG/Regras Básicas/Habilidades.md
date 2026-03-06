@@ -1,1 +1,6 @@
 Conforme você adquire pontos de habilidades, você pode gastar estes pontos para conseguir habilidades novas. Uma habilidade nova requer uma quantidade de pontos determinada que pode variar. Além disso, algumas habilidades terão pré-requisitos de atributos, de outras habilidades, ou pré-requisitos específicos que não necessariamente se enquadram em alguma categoria. Você pode adquirir qualquer habilidade que quiser, desde que tenha os pontos necessários para tal. Além disso, você pode guardar seus pontos de habilidade para usar em outro nível. No nível 20, você é obrigado a alocá-los. Você só pode pegar uma habilidade específica uma vez, não podendo repeti-la.
+
+Algumas habilidades causam dano de alguma maneira, sendo consideradas habilidades de ataque. Nestes casos, a não ser que a própria habilidade diga o contrário, será necessário rolar um teste para acertá-lo, como em um ataque comum. O atributo usado no teste será:
+
+- O mesmo que seria usado para aquele tipo de ataque, caso a habilidade envolva uma arma ou ataque desarmado;
+- O mesmo usado para calcular o dano, caso a fonte do ataque não esteja clara.
