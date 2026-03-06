@@ -97,7 +97,7 @@ Se estiver até 1.5 metros de um aliado, e o último ataque inimigo ter sido rea
 
 ## Marcas de Guerra
 
-Uma tatuagem surge em uma mão do usuário, podendo ser a esquerda ou direita. Quanto mais inimigos forem derrotados com ataques físicos, mais a tatuagem vai se expandindo. Desde que o usuário tenha usado ao menos um ataque físico em um inimigo, ele já é contabilizado como inimigo derrotado. A tatuagem vai garantir um bônus de dano aos ataques físicos que aumentará conforme ela se expande, como detalhado na tabela a seguir:
+Uma tatuagem surge em uma mão do usuário, podendo ser a esquerda ou direita. Quanto mais inimigos forem derrotados com ataques físicos em encontros, mais a tatuagem vai se expandindo. Desde que o usuário tenha usado ao menos um ataque físico em um inimigo, ele já é contabilizado como inimigo derrotado. A tatuagem vai garantir um bônus de dano aos ataques físicos que aumentará conforme ela se expande, como detalhado na tabela a seguir:
 
 | Tamanho da Tatuagem          | Inimigos Derrotados Necessários | Bônus de Dano |
 | ---------------------------- | ------------------------------- | ------------- |
@@ -211,7 +211,7 @@ Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas 
 **Requisitos**: 2 de fé, 2 de inteligência.
 **Custo**: 1 ação.
 
-Você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 ponto de vida. Todo dano físico que você cause enquanto não se curar será dobrado e você não erra ataques. Com uma ação, você restaura os seus pontos de vida perdidos e encerra a ativação dessa habilidade, mas tem desvantagem em ataques na próxima rodada.
+Uma vez por encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 ponto de vida. Todo dano físico que você cause enquanto não se curar será dobrado e você não erra ataques. Com uma ação, você restaura os seus pontos de vida perdidos e encerra a ativação dessa habilidade, mas tem desvantagem em ataques na próxima rodada.
 
 ## Maestria com lanças 
 
@@ -227,7 +227,7 @@ A segunda postura te coloca em posição ofensiva, fazendo com que você fique d
 
 **Custo**: Três Ações.
 
-Você carrega seu próximo ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo atordoado caso ele falhe num teste de constituição CD 10 + for. Você rola um ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar ações bônus ou reações naquela rodada. Além disso, não pode realizar esse ataque caso esteja empunhando duas armas ao mesmo tempo.
+Você carrega seu próximo ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo atordoado caso ele falhe num teste de resistência constituição CD 10 + for. Você rola um ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar ações bônus ou reações naquela rodada. Além disso, não pode realizar esse ataque caso esteja empunhando duas armas ao mesmo tempo.
 
 ## Disparo Poderoso
 
@@ -241,7 +241,7 @@ Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com p
 **Requisitos**: 2 de fé, 2 de inteligência. Ser capaz de falar.
 **Custo**: 2 de mana.
 
-Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três rodadas, todos no alcance do seu deslocamento morrerão, incluindo você. Você pode escolher perder toda sua mana permanentemente, assim como sua capacidade de conjurar qualquer magia, não importando como a conseguiu, em troca de ser apenas nocauteado.
+Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três rodadas, todos no alcance do seu deslocamento morrerão, incluindo você. Você pode escolher perder toda sua mana permanentemente, assim como sua capacidade de conjurar qualquer magia, não importando como a conseguiu, em troca de ser apenas nocauteado. Criaturas com resistência a dano sombrio, assim como aquelas com a condição surdo são imunes a essa habilidade.
 
 ## Riposta
 

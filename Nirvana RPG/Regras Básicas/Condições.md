@@ -54,7 +54,7 @@ Jogadas de ataque contra a criatura têm vantagem. Qualquer ataque que acerte a 
 
 ### Invisível
 
-Uma criatura invisível tem vantagem em testes de furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer ataque contra alguém invisível tem vantagem.
+Uma criatura invisível tem vantagem em testes de furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer ataque contra alguém invisível tem desvantagem.
 
 ### Paralisado
 
