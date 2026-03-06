@@ -70,6 +70,10 @@ Caleidoscópio: 1 de inteligência. Ilusão.
 
 Mísseis Mágicos: 1 de inteligência. Elemental.
 
+Tormenta Carmesim: 1 de inteligência, 1 de fé. Sangue.
+
+Garras de Sangue: 1 de inteligência, 1 de fé. Sangue.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -81,6 +85,8 @@ Pele de Pedra: 2 de inteligência. Elemental.
 Proteção Elemental: 2 de inteligência. Elemental.
 
 Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
+
+Ilusão Menor: 2 de inteligência. Ilusão.
 
 ### Custo 3:
 

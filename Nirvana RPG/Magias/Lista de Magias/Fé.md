@@ -34,6 +34,10 @@ Dreno Vital: 1 de inteligência, 1 de fé. Sangue.
 
 Orbe Negro: 1 de inteligência, 1 de fé. Sortilégio.
 
+Tormenta Carmesim: 1 de inteligência, 1 de fé. Sangue.
+
+Garras de Sangue: 1 de inteligência, 1 de fé. Sangue.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
