@@ -1,0 +1,8 @@
+
+Os tártaros são povos tartarugas, carregando seus cascos em suas costas. A cor da pele de réptil deles varia muito, mas normalmente é um tom de verde ou verde-azulado. Os tártaros possuem uma defesa adicional se comparados as outras raças, mas seu deslocamento é o menor de todos. Eles podem abdicar de seus cascos, diminuindo sua defesa e aumentando seu deslocamento. Eles valorizam seus cascos, sendo uma marca de orgulho de sua raça, pois demonstra o quão focados eles são ao ponto de carregar algo tão pesado. Lendas entre os tártaros falam sobre aventureiros poderosos que se acostumaram tanto com seus cascos que se movem como qualquer outro mesmo com ele.
+
+**Casco** (passiva): Seu deslocamento enquanto estiver com o casco é de 3m, e você tem 2 a mais na CA. Quando você atingir o nível 20, caso sua força não seja negativa, você perderá a penalidade do deslocamento.
+
+**Soltura de Casco** (ação bônus): Você retira o casco de suas costas, o jogando no chão. Sua CA diminui em 2 pontos, e seu deslocamento aumenta para 15m até que coloque seu casco novamente. Para colocar o casco são necessárias 3 ações.
+
+**Escola da Tartaruga** (passiva): Caso você não tenha removido seu casco entre um descanso longo ou outro, você ganha 1 ponto de treino. Ao atingir 3 pontos, você terá +2 pontos de vida e + 1 ponto de mana permanentes. Quando você atingir, no total, 10 pontos de treino, você ganha a habilidade "Ki" de custo 1.

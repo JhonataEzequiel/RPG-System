@@ -11,6 +11,7 @@ Cada raça possui habilidades e deslocamentos únicos, sendo esses os diferencia
 | Anão              | 7.5                    |
 | Fjer              | 7.5 andando, 15 voando |
 | Siderium          | 9                      |
+| Tártaro           | 3m, 15m sem casco      |
 
 [[Humano]]
 

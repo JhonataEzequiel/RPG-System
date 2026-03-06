@@ -280,3 +280,34 @@ Gastando 3 de mana uma vez por encontro como ação livre, você pode executar q
 **Requisitos**: 3 de inteligência ou sabedoria.
 
 Você agora pode tomar qualquer poção como uma ação bônus, e aplicar qualquer veneno como uma ação bônus. Poções de restauração curam o máximo possível sempre que consumidas.
+
+## Cérebro do Demônio
+
+**Requisitos**: 10 de sabedoria.
+
+Seu cérebro funciona mais rapidamente que o das outras pessoas, e você processa informações de combate mais rápido que todas elas, se adaptando para a próxima vez que for lutar. Toda vez que você passar por um encontro em que sofrer dano físico e sobreviver com menos da metade de seus pontos de vida, aumente-os permanentemente em 5 pontos. Caso o oponente não esteja utilizando armas, com exceção de armas naturais (como garras e dentes), você adiciona +10 pontos de vida permanentemente ao invés de 5. 
+
+**Revelar** (3 ações): Quaisquer ilusões que você criar que não visem fazer mal a uma criatura, seja com danos psíquicos ou causando um efeito negativo nela, podem ser manifestadas na realidade por 1 hora. Você pode interagir com elas como se existissem, e elas tem efeito no plano material.
+
+## Costas do Demônio
+
+**Requisitos**: 10 de Constituição.
+**Custo**: 2 ações.
+**Duração**: 1 encontro.
+
+Uma vez por descanso longo, você flexiona suas costas, que ficam tão definidas que é possível enxergar uma figura demoníaca em seus músculos. Aumenta seu deslocamento em 3m, sua CA em 1 ponto, seu dano físico causado por ataques em 2d8, e você ganha 15 pontos de vida temporários.
+
+## Mandíbula do Demônio
+
+**Requisitos**: 10 de força.
+**Custo**: 3 ações.
+
+Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham como a luz refletindo em um metal. Para acertar este ataque você utilizará o atributo de força ao invés do modificador, caso tenha escolhido o modificador de força para ser seu bônus de ataques desarmados. O dano continuará sendo calculado da mesma maneira de um ataque desarmado, mas o alvo ficará atordoado até o início do próximo turno dele. Você ganha +5 para acertar ataques contra o alvo em questão.
+
+## Akuma
+
+**Requisitos**: Habilidades "Cérebro do Demônio", "Costas do Demônio", e "Mandíbula do Demônio" de custo 3.
+**Custo**: 3 ações, 4 de mana.
+**Duração**: 2 rodadas.
+
+Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O alvo fica incapacitado pela duração caso falhe num teste de resistência de constituição CD 8 + con + for + sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Este ataque sempre acerta.
