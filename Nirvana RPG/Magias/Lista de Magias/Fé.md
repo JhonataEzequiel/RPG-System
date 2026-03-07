@@ -46,6 +46,10 @@ Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
 
 Curar Ferimentos Maiores: 2 de fé ou carisma. Sagrada.
 
+Tornado das Pestes: 1 de inteligência, 2 de fé. Sangue.
+
+Quebra Crânios: 2 de inteligência, 2 de fé. Sangue.
+
 ### Custo 3:
 
 Canalizar Energia: 3 de fé ou carisma. Sagrada.

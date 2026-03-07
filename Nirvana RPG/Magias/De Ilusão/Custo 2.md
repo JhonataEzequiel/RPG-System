@@ -24,3 +24,12 @@ Você cria uma pequena ilusão nas suas mãos, podendo representar qualquer cois
 - Você mostra uma bela paisagem, podendo acalmar uma criatura amedrontada.
 
 Outros efeitos podem ser criados. Converse com o mestre para decidir se o que você deseja fazer é possível.
+
+### Calar Voz
+
+- Requisito em Inteligência: 2
+- Duração: 3 rodadas
+- Alcance: 15m
+- Tempo de Conjuração: 2 ações
+
+**Descrição:** Você seleciona uma criatura alvo dentro do alcance da magia e projeta nela um campo que impede que qualquer som seja emitido pela mesma. Caso o alvo falhe num teste de resistência de sabedoria CD 13 + int ele não conseguirá escutar nada, ganhando a condição surdo pela duração. Caso tenha um erro crítico, ficará ainda mais desnorteado, e perderá uma de suas ações pela duração da magia.
