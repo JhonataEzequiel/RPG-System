@@ -324,3 +324,19 @@ Você concentra seu Ki na palma das mãos, fecha os olhos, e solta uma luz cegan
 **Requisitos**: 1 de destreza, 3 de carisma.
 
 Você tem vantagem em testes de conversação contra autoridades da lei ao tentar evadir um crime que você cometeu, ou ao tentar subornar alguém. Testes de conversação com o intuito de intimidar pessoas participantes do submundo do crime tem +2.
+
+## Desvanecer-se
+
+**Requisitos**: 6 de destreza.
+**Custo**: ação bônus, 1 de mana.
+**Duração**: 3 rodadas.
+
+Você aumenta seu deslocamento em um valor igual ao seu nível em metros. Neste meio tempo, você se torna focado apenas em se mover o mais rápido possível, não podendo realizar testes de perícias. Se for necessário passar por um teste de perícia, você falhará automaticamente.
+
+## Velocidade de Gato
+
+**Requisitos**: 8 de destreza.
+**Custo**: ação bônus.
+**Duração**: 2 rodadas.
+
+Você aumenta seu deslocamento em 9m. Você também não pode ser alvo de ataques de oportunidade. Essa habilidade só pode ser usada uma vez por descanso longo.

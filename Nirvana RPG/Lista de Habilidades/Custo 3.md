@@ -319,6 +319,14 @@ Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O 
 
 Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus golpes parecem feixes de luz. Você ataca todos os inimigos no alcance do seu deslocamento ao mesmo tempo, causando o dano de três ataques em cada um deles. Você retorna para a sua posição inicial ao fim do seu turno, e não ativa ataques de oportunidade. Essa habilidade sempre acerta.
 
+## Guepardo
+
+**Requisitos**: Habilidade "Leve Como uma Pena" de custo 1. Você não pode estar usando nenhuma armadura, ou escudo. 4 de destreza.
+**Custo**: ação livre, 5 de mana.
+**Duração**: 1 encontro.
+
+Você larga todo o equipamento que estiver carregando, com exceção de armas equipadas e grimórios. Você poderá pegar algum equipamento caído ao custo de uma ação. Seu deslocamento dobra caso você não pegue nenhum equipamento do chão, e continue como está.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.

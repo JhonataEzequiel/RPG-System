@@ -351,3 +351,9 @@ Você agora pode escolher se seus ataques desarmados causarão dano cortante ou 
 **Requisitos**: 3 de força.
 
 A sua resiliência acima do normal é notória. Você aumenta sua capacidade de carga em 10 quilos, e ignora a penalidade de deslocamento nas armaduras. Quaisquer outras penalidades ainda se aplicam.
+
+## Leve Como uma Pena
+
+**Requisitos**: Você está carregando menos da metade da sua capacidade de carga atual.
+
+Explorar o mundo com pouca bagagem é algo que você preza. Você recupera 1d4 a mais de vida em descansos curtos, e tem +3m de deslocamento. Essa habilidade é desativada automaticamente caso o requisito seja quebrado. Ela também se ativa automaticamente se você passar a cumprí-lo novamente.
