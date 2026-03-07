@@ -44,6 +44,10 @@ Fortificar Flora: 3 de carisma. Imaculada.
 
 Canalizar Energia: 3 de fé ou carisma. Sagrada.
 
+Raio de Frenesi: 3 de inteligência ou carisma. Ilusão.
+
+Raio Desacelerador: 3 de inteligência ou carisma. Ilusão.
+
 ### Custo 4:
 
 Pulo Suave: 4 de inteligência ou carisma. Imaculada.

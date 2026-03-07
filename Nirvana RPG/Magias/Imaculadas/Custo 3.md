@@ -20,3 +20,12 @@ Caso escolha utilizar 8 horas para conjurar a magia, as plantas num raio de 30 m
 - Tempo de Conjuração: 2 Ações.
 
 **Descrição:** Se teletransporta para um local que possa ver no alcance da magia. Você pode estender o alcance da magia em 9 metros por ponto de mana adicional gasto.
+
+### Arma Incorpórea
+
+- Requisito em Inteligência ou Fé: 3
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você toca uma arma e a imbui de magia. Você ignora invulnerabilidades a dano físico com aquela arma, podendo causar dano a seres espectrais e similares.

@@ -106,6 +106,16 @@ Barreira de Sangue Cortante: 3 de fé, 3 de inteligência. Sangue.
 
 Escuridão: 3 de inteligência, 3 de fé. Sortilégio.
 
+Arma Incorpórea: 3 de inteligência ou fé. Imaculada.
+
+Muralha de Vento: 3 de inteligência. Elemental.
+
+Relâmpago: 3 de inteligência. Elemental.
+
+Raio de Frenesi: 3 de inteligência ou carisma. Ilusão.
+
+Raio Desacelerador: 3 de inteligência ou carisma. Ilusão.
+
 ### Custo 4:
 
 Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.

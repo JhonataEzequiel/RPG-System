@@ -66,6 +66,8 @@ Barreira de Sangue Cortante: 3 de fé, 3 de inteligência. Sangue.
 
 Escuridão: 3 de inteligência, 3 de fé. Sortilégio.
 
+Arma Incorpórea: 3 de inteligência ou fé. Imaculada.
+
 ### Custo 4:
 
 Bola de Fogo Sagrada: 4 de fé. Sagrada.
