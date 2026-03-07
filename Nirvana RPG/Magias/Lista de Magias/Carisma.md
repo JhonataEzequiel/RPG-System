@@ -48,6 +48,8 @@ Raio de Frenesi: 3 de inteligência ou carisma. Ilusão.
 
 Raio Desacelerador: 3 de inteligência ou carisma. Ilusão.
 
+Neutralizar Magia: 3 de fé ou carisma. Sagrada.
+
 ### Custo 4:
 
 Pulo Suave: 4 de inteligência ou carisma. Imaculada.

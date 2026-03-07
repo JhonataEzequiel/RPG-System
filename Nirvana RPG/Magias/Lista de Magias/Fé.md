@@ -68,6 +68,18 @@ Escuridão: 3 de inteligência, 3 de fé. Sortilégio.
 
 Arma Incorpórea: 3 de inteligência ou fé. Imaculada.
 
+Neutralizar Magia: 3 de fé ou carisma. Sagrada.
+
+Zona da Verdade: 3 de fé. Sagrada.
+
+Frio Noturno: 3 de inteligência, 3 de fé. Sortilégio.
+
+Morto Novamente: 3 de inteligência, 3 de fé. Sortilégio.
+
+Esfera de Espinhos: 3 de inteligência, 3 de fé. Sangue.
+
+Bombear: 3 de inteligência, 3 de fé. Sangue.
+
 ### Custo 4:
 
 Bola de Fogo Sagrada: 4 de fé. Sagrada.

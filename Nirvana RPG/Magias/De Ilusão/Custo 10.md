@@ -12,3 +12,12 @@ Em caso de haver falha, você toma controle total da criatura, que obedecerá su
 Em caso de sucesso, ela recebe 8d8 + car de dano psíquico, e até o fim do encontro recebe 2d8 de dano psíquico.
 
 A criatura tocada se torna imune a conjurações adicionais desta magia durante um dia.
+
+### Sumir
+
+- Requisito em Inteligência: 10
+- Duração: 2 rodadas
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você toca uma criatura que desaparece completamente. Nenhuma criatura conseguirá ouvir o alvo, sentir o cheiro, ou vê-lo. O alvo ainda poderá ser atingido por ataques e magias caso acabe sendo pego num fogo cruzado, além de ser afetado normalmente por magias de área caso esteja dentro do alcance. No entanto, está furtivo, não podendo ser descoberto por nenhum método.

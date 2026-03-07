@@ -116,6 +116,16 @@ Raio de Frenesi: 3 de inteligência ou carisma. Ilusão.
 
 Raio Desacelerador: 3 de inteligência ou carisma. Ilusão.
 
+Esfera de Invisibilidade: 3 de inteligência. Ilusão.
+
+Frio Noturno: 3 de inteligência, 3 de fé. Sortilégio.
+
+Morto Novamente: 3 de inteligência, 3 de fé. Sortilégio.
+
+Esfera de Espinhos: 3 de inteligência, 3 de fé. Sangue.
+
+Bombear: 3 de inteligência, 3 de fé. Sangue.
+
 ### Custo 4:
 
 Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
@@ -201,3 +211,5 @@ Caos Cromático: 10 de inteligência. Elemental.
 Tsunami: 10 de inteligência. Elemental.
 
 Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
+
+Sumir: 10 de inteligência. Ilusão.
