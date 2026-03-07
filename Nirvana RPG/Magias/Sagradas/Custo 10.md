@@ -28,3 +28,19 @@ Consumir um fruto requer uma ação.
 Por mais 10 pontos de mana você pode reviver qualquer criatura a partir de um único fragmento de seu corpo original. Por outros 10 pontos de mana, totalizando 30 pontos, você pode reviver uma criatura mesmo que não existam mais restos mortais dela, como alguém que foi vaporizado por um sopro de dragão. Você apenas precisa pensar na criatura que deseja reviver na hora que for conjurar a magia.
 
 Ao conjurar essa magia, você não pode usar magias até ter um descanso longo. Você não pode reviver a mesma criatura com essa magia duas vezes.
+
+### Refazer
+
+- Requisito em Fé: 10
+- Duração: Instantânea
+- Alcance: Toque
+- Tempo de Conjuração: até 72 horas, dependendo do objeto
+
+**Descrição:** Você recria um objeto destruído ao qual você conheça as propriedades dele, como aparência, material, grau e efeito (caso seja um item mágico), e tamanho. O tempo para recriar um objeto varia de acordo com o tipo.
+
+| Objeto             | Tempo Necessário |
+| ------------------ | ---------------- |
+| Item Comum         | 2 ações          |
+| Item Mágico Grau 1 | 1 hora           |
+| Item Mágico Grau 2 | 24 horas         |
+| Item Mágico Grau 3 | 72 horas         |

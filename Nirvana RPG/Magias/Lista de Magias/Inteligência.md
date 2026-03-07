@@ -213,3 +213,5 @@ Tsunami: 10 de inteligência. Elemental.
 Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
 
 Sumir: 10 de inteligência. Ilusão.
+
+Duplicata: 10 de inteligência. Ilusão.

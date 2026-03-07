@@ -141,3 +141,5 @@ Alterar Realidade: 10 de inteligência, 10 de fé. Imaculada.
 Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
 
 Ressurreição Completa: 10 de fé. Sagrada.
+
+Refazer: 10 de fé. Sagrada.
