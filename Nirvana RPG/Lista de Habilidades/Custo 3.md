@@ -311,3 +311,15 @@ Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham com
 **Duração**: 2 rodadas.
 
 Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O alvo fica incapacitado pela duração caso falhe num teste de resistência de constituição CD 5 + con + for + sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Essa habilidade sempre acerta.
+
+## Nirvana
+
+**Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
+
+Você ultrapassa o ciclo de morte e vida do universo, o observando como uma entidade superior, capaz de ver a efemeridade do momento. Você se torna um ser de natureza maior, atuando na realidade de maneira mais significativa. Você agora tem 3 ações lendárias, podendo usá-las quando quiser, independente da ordem de iniciativa ou se está no seu turno. Toda rodada você recarrega as suas ações lendárias. Você pode:
+
+- Passar em um teste no qual tenha falhado;
+- Curar completamente qualquer condição negativa;
+- Atacar;
+- Estabilizar um aliado apenas o tocando (só pode usar uma vez por descanso longo), fazendo com que ele volte a vida com metade dos seus pontos de vida totais;
+- Utilizar uma reação.

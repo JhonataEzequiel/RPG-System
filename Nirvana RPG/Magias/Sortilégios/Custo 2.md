@@ -8,3 +8,25 @@
 - Tempo de Conjuração: 3 ações
 
 **Descrição:** Você transforma uma pilha de ossos em um esqueleto animado, ou um corpo morto em um zumbi. Pode controlar as criaturas animadas por esta magia no início de seu turno, e, no início do turno delas, elas realizarão o seu comando. As estatísticas desses monstros estão no bestiário.
+
+### Corte Sombrio
+
+- Requisito em Inteligência: 2
+- Requisito em Fé: 2
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: ação bônus
+
+**Descrição:** Você imbui uma arma capaz de causar dano cortante. Um brilho sombrio aparece no contorno da lâmina. Você causa 2d6 + int + fth de dano sombrio por ataque. Caso o inimigo esteja sangrando, atordoado, caído, ou incapacitado, você causa 3d8 + int + fth de dano sombrio no lugar do dano normal.
+
+### Glutão
+
+- Requisito em Inteligência: 2
+- Requisito em Fé: 2
+- Duração: Instantânea
+- Alcance: Toque
+- Tempo de Conjuração: reação
+
+**Descrição:** Você engole qualquer projétil mágico de magias de dano lançado contra você como alvo (não tem efeito em magias de área). Esse projétil é absorvido, anulando o dano que ele causaria. Caso seja um sortilégio, você recupera 1d6 de pontos de vida. A magia devorada não pode ser de custo 5 ou maior.
+
+Você pode aumentar o custo máximo da magia engolida em 1 para cada ponto adicional de mana gasto.

@@ -92,6 +92,10 @@ Tornado das Pestes: 1 de inteligência, 2 de fé. Sangue.
 
 Quebra Crânios: 2 de inteligência, 2 de fé. Sangue.
 
+Corte Sombrio: 2 de fé, 2 de inteligência. Sortilégio.
+
+Glutão: 2 de fé, 2 de inteligência. Sortilégio.
+
 ### Custo 3:
 
 Bola de Fogo: 3 de inteligência. Elemental.
