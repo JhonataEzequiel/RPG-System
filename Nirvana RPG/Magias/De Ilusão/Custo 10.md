@@ -29,7 +29,7 @@ A criatura tocada se torna imune a conjurações adicionais desta magia durante 
 - Alcance: 9m
 - Tempo de Conjuração: reação
 
-**Descrição:** Você cria uma duplicata de você e de quaisquer alvos que desejar (com limite de 3), desde que não sejam hostis a você. Essa magia só pode ser usada ao final da rodada.
+**Descrição:** Você cria uma duplicata de você e de quaisquer alvos que desejar (com limite de 3), desde que não sejam hostis a você. Essa magia só pode ser usada ao final da rodada, quanto todos os turnos já tiverem sido finalizados.
 
 As duplicatas refazem os passos dos alvos, replicando o dano causado naquela rodada — só que pela metade e como dano psíquico.
 
