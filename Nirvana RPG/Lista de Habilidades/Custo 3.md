@@ -321,8 +321,8 @@ Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus 
 
 ## Guepardo
 
-**Requisitos**: Habilidade "Leve Como uma Pena" de custo 1. Você não pode estar usando nenhuma armadura, ou escudo. 4 de destreza.
-**Custo**: ação livre, 5 de mana.
+**Requisitos**: Habilidade "Leve Como uma Pena" de custo 1, e habilidade "Velocidade de Gato" de custo 2. Você não pode estar usando nenhuma armadura, ou escudo. 4 de destreza.
+**Custo**: ação livre.
 **Duração**: 1 encontro.
 
 Você larga todo o equipamento que estiver carregando, com exceção de armas equipadas e grimórios. Você poderá pegar algum equipamento caído ao custo de uma ação. Seu deslocamento dobra caso você não pegue nenhum equipamento do chão, e continue como está.
