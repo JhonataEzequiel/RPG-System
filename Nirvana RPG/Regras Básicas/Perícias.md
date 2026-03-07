@@ -25,7 +25,7 @@ Você poderá escolher qualquer uma das perícias a seguir, seguindo as regras d
 
 ## Destreza
 
-1. Desarmar armadilhas: usada quando você deseja se livrar de uma armadilha sem ativá-la, facilitando para o resto do grupo chegar ao objetivo.
+1. Ladroagem: usada quando você deseja se livrar de uma armadilha sem ativá-la, ou quando deseja roubar alguém.
 2. Acrobacia: usado em jogadas em que seja necessário realizar um movimento complicado com o corpo, como pular de cima de um prédio para outro.
 3. Furtividade: Ao entrar em furtividade, o personagem estará indetectável. É possível sair deste estado caso a criatura da qual se deseja esconder perceba que você está furtivo. Fora isso, uma vez em furtividade, qualquer ataque contra um alvo que não percebeu o personagem furtivo terá vantagem.
 

@@ -24,3 +24,5 @@ Cada raça possui habilidades e deslocamentos únicos, sendo esses os diferencia
 [[Fjer]]
 
 [[Siderium]]
+
+[[Tártaro]]

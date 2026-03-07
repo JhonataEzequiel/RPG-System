@@ -1,10 +1,10 @@
 [[Arcanos Menores]]
 
-[[Custo 1]]
+[[Nirvana RPG/Magias/Imaculadas/Custo 1]]
 
-[[Custo 2]]
+[[Nirvana RPG/Magias/Imaculadas/Custo 2]]
 
-[[Custo 3]]
+[[Nirvana RPG/Magias/Imaculadas/Custo 3]]
 
 [[Custo 4]]
 
