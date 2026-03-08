@@ -148,6 +148,8 @@ Névoa Negra: 4 de inteligência, 4 de fé. Sortilégio.
 
 Mundo Invertido: 4 de inteligência. Ilusão.
 
+Chocolate: 4 de inteligência ou carisma. Ilusão.
+
 ### Custo 5:
 
 Aljava Elemental: 5 de inteligência. Elemental.

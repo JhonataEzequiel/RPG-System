@@ -16,4 +16,13 @@ Você pode gastar um ponto de mana a mais para estender a duração da magia par
 - Alcance: 9m + deslocamento
 - Tempo de Conjuração: 3 ações
 
-**Descrição:** Você embaralha os sentidos de uma criatura alvo. A visão dela fica de cabeça para baixo, a audição dela identifica sons distantes como próximos e vice e versa, o olfato dela confunde cheios, o tato dela não mais sente, e o paladar confunde todos os sabores como sendo venenosos. A criatura falha automaticamente testes de percepção. Caso falhe em um teste inteligência CD 14 + int, ela também terá desvantagem em ataques até o fim da duração, além de não saber se está sob efeito de alguma condição negativa, ou que sofreu um ataque. Ela pode repetir o teste em troca de duas ações.
+**Descrição:** Você embaralha os sentidos de uma criatura alvo. A visão dela fica de cabeça para baixo, a audição dela identifica sons distantes como próximos e vice e versa, o olfato dela confunde cheios, o tato dela não mais sente, e o paladar confunde todos os sabores como sendo venenosos. A criatura falha automaticamente testes de percepção. Caso falhe em um teste de resistência de inteligência CD 14 + int, ela também terá desvantagem em ataques até o fim da duração, além de não saber se está sob efeito de alguma condição negativa, ou que sofreu um ataque. Ela pode repetir o teste em troca de duas ações.
+
+### Chocolate
+
+- Requisito em Inteligência ou Carisma: 4
+- Duração: 3 rodadas
+- Alcance: 18m
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você seleciona uma criatura alvo no alcance da magia. A criatura terá que passar por um teste de resistência de inteligência CD 14 + int. Caso falhe, a criatura acreditará, sem dúvida alguma, que é um chocolate. Ela tem a condição incapacitado até o fim da duração. Você tem vantagem em testes de conversação contra ela uma vez que a duração acabe, por 10 minutos. Em caso de sucesso, ela verá você como um chocolate gigante, achando a visão estranha, mas saberá que você conjurou algum tipo de magia nela. Você tem +3 em testes de conversação até o fim da magia.

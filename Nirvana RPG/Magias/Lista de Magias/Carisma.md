@@ -58,6 +58,8 @@ Imparável: 4 de carisma. Imaculada.
 
 Voo: 4 de carismas. Imaculada.
 
+Chocolate: 4 de inteligência ou carisma. Ilusão.
+
 ### Custo 5:
 
 Curar Condições: 5 de fé ou carisma. Sagrada.
