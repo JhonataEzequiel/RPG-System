@@ -147,3 +147,22 @@ Você aumenta seu deslocamento em um valor igual a metade do seu nível em metro
 **Duração**: 2 rodadas.
 
 Você aumenta seu deslocamento em 4.5m. Você também não pode ser alvo de ataques de oportunidade.
+
+## Cartas do Destino
+
+**Requisitos**: 3 de carisma, fé, ou inteligência.
+
+Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A origem desse baralho é desconhecida, sendo entregue a você por algo fora do seu controle (o mestre pode criar uma justificativa dentro da campanha, se ele quiser). Você deve manter esse baralho oculto de seus olhos, podendo guardar ele em qualquer lugar.  Essa habilidade só pode ser usada em combate.
+
+**Puxar Carta** (duas ações, 2 de mana): Você puxa uma carta desse baralho, podendo ser de um dos quatro naipes disponíveis: copas, ouros, paus, e espadas. Os efeitos concedidos por cada uma são:
+
+| Naipe       | Efeito                                                                                                                                                                                                                                                                                                                                                                                       |
+| ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1- Copas    | Você se cura em um valor igual a 1d12 + int ou car ou fth. Se você estiver com algum nível de exaustão, um nível de exaustão será diminuído.                                                                                                                                                                                                                                                 |
+| 2 - Ouros   | Você aplica uma vulnerabilidade de 10 pontos a uma criatura alvo dentro do alcance do seu deslocamento.                                                                                                                                                                                                                                                                                      |
+| 3 - Paus    | Você diminui o deslocamento de uma criatura alvo dentro do alcance do seu deslocamento em 4.5m, além disso, ela não pode executar nenhuma ação de movimento além de andar. Caso o alvo seja bem sucedido em um teste de resistência de destreza CD 12 + int ou fth ou car, o deslocamento dele diminui em apenas 3m, e ele pode fazer outras ações de movimento normalmente. Dura 3 rodadas. |
+| 4 - Espadas | Você adiciona o nível de um atributo entre carisma, fé, ou inteligência ao dano do seu próximo ataque que acertar ou magia. Você não pode puxar outra carta até que tenha causado feito uma dessas coisas, ou que o encontro se encerre.                                                                                                                                                     |
+
+Para puxar uma carta você deverá rolar 1d4, e o número correspondente será o da carta. Após ter puxado uma carta, você não poderá puxá-la até que todas as outras tenham sido puxadas. Caso role 1d4 e o resultado seja o de uma carta que você já puxou, role novamente o dado. Ao puxar as quatro cartas, você pode puxar uma quinta carta, a carta coringa. Ela concede os bônus de todas as outras ao mesmo tempo. Você recebe os efeitos positivos, e escolhe um alvo para os efeitos negativos. A posição do baralho não reinicia a não ser que você o embaralhe.
+
+**Embaralhar** (ação bônus): você descarta a sua carta atual caso não queira a usar, e embaralha novamente o seu baralho, recomeçando a contagem das cartas. 
