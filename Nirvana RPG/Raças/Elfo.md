@@ -8,7 +8,7 @@ Como alto elfo você terá facilidade em aprender sobre temas diversos. Você te
 
 ## Elfo da floresta
 
-**Visão de caçador:** A visão de um elfo da floresta possui diversas habilidades passivas. Dentre elas, ele pode ver no escuro ou na penumbra com perfeição num alcance até 3 vezes o deslocamento deles, tem um alcance de visão mais longe do que o normal, podendo enxergar mais longe do que as outras raças, e uma mira aprimorada, fazendo com que ataques de projéteis a longa distância usem o atributo, ao invés do modificador. A mira aprimorada é aplicada à qualquer projétil, seja ele mágico ou físico. 
+**Visão de caçador:** A visão de um elfo da floresta possui diversas habilidades passivas. Dentre elas, ele pode ver no escuro ou na penumbra com perfeição num alcance até 3 vezes o deslocamento deles. Normalmente a visão deles permite encontrar pontos cegos no inimigo, chegar até uma posição avantajada antes de um combate, ou identificar alvos a distancia. Essa capacidade é refletida na seguinte escolha: você pode escolher, ao início de um encontro, se você será o primeiro na iniciativa, ou se utilizará o seu atributo ao invés do modificador para ataques à distância. 
 
 **Bem no alvo**: Uma vez por descanso longo também são capazes de escolher passar em um teste de alguma perícia que sejam peritos, se falharem.
 

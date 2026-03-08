@@ -31,7 +31,7 @@ As outras poções tem efeitos diversos. Poções que não são de restauração
 
 ## Venenos
 
-Os venenos são aplicados em armas brancas, flechas, e virotes. Para aplicar um veneno é necessário uma ação. Caso esteja furtivo, o custo é uma ação bônus. Venenos também podem ter efeitos narrativos diversos, como envenenar a bebida de um nobre. Os venenos pesam, assim como as poções, 0.3 kg. Os venenos básicos estão detalhados a seguir.
+Os venenos são aplicados em armas brancas, flechas, e virotes. Para aplicar um veneno é necessário uma ação, e eles tem efeito apenas no próximo ataque realizado por um objeto envenenado. Caso esteja furtivo, o custo é uma ação bônus. Venenos também podem ter efeitos narrativos diversos, como envenenar a bebida de um nobre. Os venenos pesam, assim como as poções, 0.3 kg. Venenos também podem ser arremessados num inimigo, mas tem efeito em apenas um único alvo. Os venenos básicos estão detalhados a seguir.
 
 | Item               | Funcionalidade                                                                                                                                                                                 | Custo |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |

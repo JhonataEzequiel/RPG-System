@@ -120,3 +120,9 @@ Você sente e aprende a ter um controle básico sobre a energia vital do seu cor
 Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
 
 Você agora pode escolher se seus ataques desarmados causarão dano cortante ou não.
+
+## Lança Granadas
+
+**Requisitos**: 3 de destreza.
+
+Você agora adiciona seu modificador de destreza a qualquer item arremessável que cause dano. O dano de itens arremessáveis aumenta em 1d8 quando você chegar no nível 8 de destreza. O dano aumentado é igual ao tipo causado pelo item em questão.

@@ -46,16 +46,16 @@ No nível 1, seus pontos de mana serão o maior número possível do seu dado de
 | Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
 | 0                  | 0                 | 0                  | 0                          | 0                           | 0            |
-| 1                  | 4                 | 3                  | 2                          | 2                           | 1d4          |
-| 2                  | 6                 | 4                  | 5                          | 3                           | 1d4          |
-| 3                  | 10                | 6                  | 6                          | 4                           | 1d4          |
-| 4                  | 14                | 8                  | 7                          | 5                           | 1d6          |
-| 5                  | 18                | 10                 | 8                          | 5                           | 1d6          |
-| 6                  | 22                | 12                 | 9                          | 5                           | 1d6          |
-| 7                  | 26                | 14                 | 10                         | 5                           | 1d8          |
-| 8                  | 32                | 16                 | 10                         | 5                           | 1d8          |
-| 9                  | 35                | 18                 | 10                         | 5                           | 1d8          |
-| 10                 | 40                | 20                 | 10                         | 5                           | 2d4          |
+| 1                  | 3                 | 2                  | 2                          | 2                           | 1d4          |
+| 2                  | 4                 | 3                  | 4                          | 3                           | 1d4          |
+| 3                  | 6                 | 4                  | 5                          | 4                           | 1d4          |
+| 4                  | 9                 | 7                  | 6                          | 5                           | 1d6          |
+| 5                  | 13                | 8                  | 7                          | 5                           | 1d6          |
+| 6                  | 16                | 10                 | 8                          | 5                           | 1d6          |
+| 7                  | 20                | 12                 | 9                          | 5                           | 1d8          |
+| 8                  | 23                | 14                 | 10                         | 5                           | 1d8          |
+| 9                  | 25                | 15                 | 10                         | 5                           | 1d8          |
+| 10                 | 28                | 18                 | 10                         | 5                           | 2d4          |
 
 Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 pontos de mana em qualquer teste que for realizar (3 pontos por teste), adicionando este número ao resultado final. Os pontos de mana gastos podem ser recuperados normalmente.
 ## Equipamento inicial

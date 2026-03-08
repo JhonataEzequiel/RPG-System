@@ -37,3 +37,18 @@ Uma vez ao dia, você pode escolher um aliado no alcance para conceder-lhe +10 e
 Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da habilidade utilizarão o atributo ao invés do modificador em qualquer teste que fizerem na duração desta habilidade. Além disso, concede uma quantidade igual aos seus pontos de vida atuais como pontos de vida temporários a todos os seus aliados, menos a você mesmo. Os inimigos sabem que você utilizou essa habilidade, e num geral tendem a te atacar antes dos seus aliados, mas podem optar por não atacar você. 
 
 Essa habilidade ignora a ordem de iniciativa, se você optar por utilizá-la no início da rodada. A cada rodada você gasta 4 pontos de mana enquanto se manter concentrado.
+
+## Guardar Milagres
+
+**Requisitos**: 3 de fé ou carisma.
+
+Você pode conjurar magias de cura em si mesmo quando estiver fora de combate e com pontos de vida cheios. Ao fazer isso você mantém essa cura em estoque, e pode utilizá-la para curar um alvo por metade do total de cura como uma ação livre. A cura em si é calculada como sendo o resultado depois de conjurar a magia, rolar os dados, e somar os bônus cabíveis. A outra metade é perdida. 
+
+Por 3 pontos de mana, você poderá utilizar a outra metade da cura guardada em um alvo diferente, ao custo de uma ação. O estoque desaparece após ter um descanso, longo ou curto. Você só pode guardar a cura de uma única magia.
+
+## Chuva de Bençãos
+
+**Requisitos**: Habilidade "Bomba Benéfica" de custo 1. 5 de fé ou carisma.
+**Custo**: 3 de mana.
+
+Sempre que arremessar uma poção de cura, você curará o valor padrão da poção, removendo o teto anterior de 10 pontos máximos curados.. Você pode gastar 3 ações para currar o valor máximo da poção, independente da quantidade de alvos.

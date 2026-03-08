@@ -47,6 +47,18 @@ Você seleciona até 2 alvos no alcance desta habilidade. Após isso, você toca
 
 ## Curandeiro
 
-**Requisitos**: 3 de fé.
+**Requisitos**: 3 de fé ou carisma.
 
-Sempre que realizar uma cura a um único alvo, você pode selecionar outro alvo para curá-lo em 1d4 + fth gratuitamente.
+Sempre que realizar uma cura a um único alvo, você pode selecionar outro alvo para curá-lo em 1d4 + fth gratuitamente. Ao atingir o nível 10, esse valor aumenta para 1d6 + fth. No nível 16, aumenta para 1d8 + fth.
+
+## Agente Divino
+
+**Requisitos**: Ter um símbolo sagrado. 2 de fé.
+
+Você pode adicionar o seu modificador de fé como bônus na iniciativa de um alvo antes de rolar iniciativa. Você também pode trocar sua iniciativa com a de um aliado antes do combate se iniciar.
+
+## Bomba Benéfica
+
+**Requisitos**: 1 de destreza ou força.
+
+Você agora pode arremessar poções, que caem em um local, afetando uma área circular de 3m de raio. Poções de restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 pontos de vida. Outras poções são de alvo único, e a duração delas é de uma rodada, mesmo que na descrição o item diga que é maior.

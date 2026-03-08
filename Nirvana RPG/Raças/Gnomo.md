@@ -5,7 +5,7 @@ Existem dois tipos de gnomos, os feéricos e os da natureza. Além de suas habil
 **Proteção das Fadas** (passiva): Os gnomos feéricos possuem uma barreira mágica que os protege, a qual os acompanha durante todo o tempo e é desfeita após receber dano. Os efeitos variam dependendo da fonte do dano:
 
 - **Ataques diretos:** Tentativas de ataque sofrem uma penalidade de -4 para acertar. Caso obtenham sucesso, causam metade do dano. A proteção é desfeita somente quando o ataque acertar.
-- **Outras fontes de dano** (como magias de dano): A proteção é desfeita imediatamente, e você recebe o dano completamente. No entanto, antes de receber o dano, você ganha seu nível + 10 como pontos de vida temporários. Esses pontos de vida desaparecem no início do seu próximo turno.
+- **Outras fontes de dano** (como magias de dano): A proteção é desfeita imediatamente, e você recebe o dano normalmente. No entanto, antes de receber o dano, você ganha seu nível + 10 como pontos de vida temporários. Esses pontos de vida desaparecem no início do seu próximo turno.
 
 A habilidade é automática e independe de você querer usá-la ou não. No entanto, é possível desativá-la caso você deseje. Neste caso, a habilidade só poderá ser ativada novamente após um descanso curto ou longo. Naturalmente, ela recupera com descanso longo.
 

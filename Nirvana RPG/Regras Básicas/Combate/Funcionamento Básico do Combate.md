@@ -54,6 +54,12 @@ Os ataques desarmados causam, por padrão, 1d4 + for ou dex de dano de impacto, 
 
 Existem vários tipos de magias de ataque, e a maioria não requer um teste para acertar o adversário. Quando for necessário estará escrito na descrição da magia. Normalmente é o alvo que tem que realizar uma salvaguarda para desviar (a CD é especificada pela magia), ou evitar algum efeito negativo da magia. E mesmo que a maioria das magias num geral custem mais do que uma ação, ainda existem certas magias que custam apenas uma. Sendo de ataque ou não, tais magias ainda estarão sujeitas as penalidades de ações no mesmo turno, caso você opte por utilizá-la várias vezes em seguida.
 
+## Arremessar
+
+Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro ataque, e não utilizará nenhum atributo como bônus a priori, podendo conseguir isto através de habilidades. Arremessar não se beneficia de habilidades que melhoram ataques num geral, nem conta para a penalidade de ações. As habilidades que influenciam sua capacidade de arremessar itens deixarão isso explicito na descrição delas.
+
+Ademais, o alcance de seus arremessos é igual ao seu modificador de força em metros mais seu deslocamento. Arremessar, num geral, custa uma ação, seja para causar dano a um inimigo ou não. Poções não tem efeito quando arremessadas.
+
 ## Coeficiente de Armadura (CA)
 
 Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. Ela é calculada da seguinte maneira:
@@ -82,7 +88,7 @@ Existem alguns tipos diferentes de áreas de efeito, as quais são utilizadas po
 
 **Cone**: um cone é definido como uma área que se expande a partir do ponto de origem, atingindo sua largura máxima na extremidade.
 
-**Cubo (ou quadrática)**: uma área cúbica centrada em um ponto ou a partir de um ponto.
+**Cubo (ou quadrática)**: uma área cúbica centrada em um ponto.
 
 **Cilindro**: uma área circular com altura, como uma coluna ou tornado.
 

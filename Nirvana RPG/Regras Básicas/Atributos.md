@@ -1,10 +1,19 @@
 Os atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso o jogador opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de atributos totais são 7, sendo eles: constituição, força, destreza, sabedoria, inteligência, fé, e carisma. Você receberá pontos de atributo para investir como quiser, tanto no nível 1, quanto nos níveis subsequentes.
 
-Os atributos terão o seguinte limite:
+Os atributos terão um limite de nível máximo que aumentará conforme seu nível, seguindo a tabela a seguir:
 
-$NVMáximoAtributo=3+(NívelDoPersonagem/2)$
+| Nível        | Nível Máximo de Atributo |
+| ------------ | ------------------------ |
+| 1            | 3                        |
+| 2-3          | 4                        |
+| 4-5          | 5                        |
+| 6-7          | 6                        |
+| 8-9          | 7                        |
+| 10-11        | 8                        |
+| 12-13        | 9                        |
+| Maior que 14 | 10                       |
 
-Esse número deve ser arredondado para baixo. Ou seja, apenas no nível 14 serão capazes de ter um atributo no nível 10. Além disso, você pode guardar seus pontos de atributo para usar em outro nível. No nível 20, você é obrigado a alocá-los.
+Para critérios de simplificação, o nível máximo que um atributo pode assumir é metade do seu nível de personagem acrescido de 3.
 
 ## Constituição
 
