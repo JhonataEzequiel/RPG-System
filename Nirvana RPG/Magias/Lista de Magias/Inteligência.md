@@ -32,6 +32,8 @@ Corte de Papel: 1 de inteligência, 1 de fé. Sangue.
 
 Sombra Agente: 1 de inteligência, 1 de fé. Sortilégio.
 
+Batalha Mental: 1 de inteligência. Ilusão.
+
 ### Custo 1:
 
 Acalmar: 1 de inteligência, 1 de carisma. Ilusão.

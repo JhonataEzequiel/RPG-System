@@ -27,3 +27,12 @@ Você pode conjurar essa magia para falar com qualquer alvo marcado por ela ante
 - Tempo de Conjuração: 1 ação
 
 **Descrição:** Escolha um local dentro do alcance. Uma área esférica de raio igual a 24m é afetada. Qualquer criatura capaz de ouvir começa a escutar algum som que você queira que escutem. As criaturas com inteligência 0 ou maiores automaticamente sabem que se trata de uma ilusão. As que tiverem inteligência menor são levadas a crer que se trata de um som real, podendo se distrair por ele.
+
+### Batalha Mental
+
+- Requisito em Inteligência: 1
+- Duração: concentração
+- Alcance: Toque
+- Tempo de Conjuração: ação livre
+
+**Descrição:** Você cria um cenário de batalha na sua cabeça e na cabeça da criatura alvo. O cenário deve ser neutro, não favorecendo você ou seu adversário. Seu adversário deve concordar em participar dessa luta, e ele deve ser inicialmente hostil a você. Uma vez aceito o duelo, nenhum dos dois pode abandoná-lo voluntariamente. A mente de vocês dois é transportada para essa dimensão ilusória, e os corpos ficam incapacitados. Quaisquer aliados e inimigos presentes no combate não poderão ferir nenhum de vocês dois, nem curar, como se tivessem feito um voto mental de não atrapalharem o duelo. Vocês lutam até que um de vocês caia a 0 pontos de vida. Após a batalha acabar, o perdedor receberá seus pontos de vida atuais como dano verdadeiro, sendo nocauteado. Essa magia não tem efeito em criaturas com inteligência inferior a -2.
