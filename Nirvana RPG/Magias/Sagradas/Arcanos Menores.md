@@ -8,7 +8,7 @@
 
 **Descrição:** Concede 1d8 de dano sagrado aos ataques físicos realizados pelo alvo. Alternativamente, você também pode escolher adicionar 1d4 como pontos de vida temporários ao alvo.
 
-Se você tiver 4 de fé, aumente o dano adicionado para 2d10 + fth, e os pontos de vida temporários para 2d6. Com 8 de fé, será 2d12 + fth de dano adicionado, e 2d8 + fth de pontos de vida temporários.
+Se você tiver 4 de fé, aumente o dano adicionado para 2d8 + fth, e os pontos de vida temporários para 2d6. Com 8 de fé, será 2d10 + fth de dano adicionado, e 2d8 + fth de pontos de vida temporários.
 
 ### Estabilizar
 
@@ -26,4 +26,4 @@ Se você tiver 4 de fé, aumente o dano adicionado para 2d10 + fth, e os pontos 
 - Alcance: 18m
 - Tempo de Conjuração: 2 ações
 
-**Descrição:** Você comanda vinhas a saírem do chão a sua volta e atacarem um alvo a sua escolha. As vinhas saltam do chão rapidamente, emaranhando o alvo, que ganha a condição agarrado. Ele terá que realizar um teste de força CD 12 + car para se soltar. O alvo pode repetir o teste no início de cada um de seus turnos até o fim da duração a magia, onde as vinhas se soltam e o libertam. Criaturas aladas poderão ser atingidas pelas vinhas também, desde que estejam no alcance.
+**Descrição:** Você comanda vinhas a saírem do chão a sua volta e atacarem um alvo a sua escolha. As vinhas saltam do chão rapidamente, emaranhando o alvo, que ganha a condição agarrado. Ele terá que realizar um teste de força CD 10 + car para se soltar. O alvo pode repetir o teste no início de cada um de seus turnos ao custo de uma ação bônus até o fim da duração a magia, onde as vinhas se soltam e o libertam. Criaturas aladas poderão ser atingidas pelas vinhas também, desde que estejam no alcance.

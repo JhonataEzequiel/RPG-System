@@ -6,7 +6,7 @@ Espalhar Sangue Fervente: 1 de inteligência, 1 de fé. Sangue.
 
 Raio de Fogo: 1 de inteligência. Elemental.
 
-Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
+Dispensar Servos: 1 de fé, 1 de inteligência. Sortilégio.
 
 Relâmpago Gêmeo: 1 de inteligência. Elemental.
 
@@ -137,6 +137,16 @@ Campo Falso: 4 de inteligência. Ilusão.
 Congelamento: 4 de inteligência. Elemental.
 
 Pulo Suave: 4 de inteligência ou carisma. Imaculada.
+
+Escudo de Fogo: 4 de inteligência. Elemental.
+
+Lastro Cromático: 4 de inteligência. Elemental.
+
+Perguntar aos Mortos: 4 de inteligência, 4 de fé. Sortilégio.
+
+Névoa Negra: 4 de inteligência, 4 de fé. Sortilégio.
+
+Mundo Invertido: 4 de inteligência. Ilusão.
 
 ### Custo 5:
 

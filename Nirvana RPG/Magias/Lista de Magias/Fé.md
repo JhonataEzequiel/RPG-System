@@ -10,7 +10,7 @@ Estabilizar: 1 de fé. Sagrada.
 
 Benção: 1 de fé. Sagrada.
 
-Morto Novamente: 1 de fé, 1 de inteligência. Sortilégio.
+Dispensar Servos: 1 de fé, 1 de inteligência. Sortilégio.
 
 Consciência Sombria: 1 de fé. Sortilégio.
 
@@ -87,6 +87,14 @@ Bola de Fogo Sagrada: 4 de fé. Sagrada.
 Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
 
 Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
+
+Perguntar aos Mortos: 4 de inteligência, 4 de fé. Sortilégio.
+
+Névoa Negra: 4 de inteligência, 4 de fé. Sortilégio.
+
+Golpe Divino: 4 de fé. Sagrada.
+
+Palma da Mão: 4 de fé. Sagrada.
 
 ### Custo 5:
 

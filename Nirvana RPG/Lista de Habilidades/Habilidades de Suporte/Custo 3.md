@@ -51,4 +51,4 @@ Por 3 pontos de mana, você poderá utilizar a outra metade da cura guardada em 
 **Requisitos**: Habilidade "Bomba Benéfica" de custo 1. 5 de fé ou carisma.
 **Custo**: 3 de mana.
 
-Sempre que arremessar uma poção de cura, você curará o valor padrão da poção, removendo o teto anterior de 10 pontos máximos curados.. Você pode gastar 3 ações para currar o valor máximo da poção, independente da quantidade de alvos.
+Sempre que arremessar uma poção de cura, você curará o valor padrão da poção, removendo o teto anterior de 10 pontos máximos curados. Você pode gastar 3 ações para curar o valor máximo da poção, independente da quantidade de alvos.

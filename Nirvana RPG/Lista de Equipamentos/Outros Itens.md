@@ -41,5 +41,9 @@ A tabela abaixo contém itens básicos úteis para aventureiros em suas jornadas
 | Saco de Areia (5kg)       | Útil para criar barreiras, apagar fogo, ou como peso. Sem utilidade mecânica direta.                                                                                                   | 1pc   | 5 kg                         |
 | Roupa de Disfarce         | Conjunto de roupas neutras e adaptáveis. Concede vantagem em testes de atuação ao se passar por alguém de outra classe social ou profissão.                                            | 8pp   | 1 kg                         |
 | Ferramentas de Ladrão     | Gazuas, grampos, e ferramentas finas para arrombar fechaduras e desarmar armadilhas. Concede +7 em testes de desarmar armadilhas.                                                      | 1po   | 0.5 kg                       |
-| Símbolo Sagrado           | Representação física de uma divindade ou crença. Pode ser usado como catalisador de magias sagradas no lugar de outros itens. Concede +1 em testes de fé.                              | 1po   | 0.2 kg                       |
-| Água Benta (frasco)       | Água consagrada por um sacerdote. Causa 1d4 de dano sagrado a mortos-vivos e demônios ao ser jogada neles. Pode ser usada em rituais religiosos.                                       | 5pp   | 0.3 kg                       |
+| Item                      | Funcionalidade                                                                                                                                                                         | Custo | Peso                         |
+| Símbolo Sagrado           | Representação física de uma divindade ou crença. Pode ser usado como catalisador de magias sagradas no lugar de outros itens. Concede +1 em testes de fé.                              | 3po   | 0.2 kg                       |
+
+
+
+

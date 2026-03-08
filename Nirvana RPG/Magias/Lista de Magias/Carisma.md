@@ -54,6 +54,10 @@ Neutralizar Magia: 3 de fé ou carisma. Sagrada.
 
 Pulo Suave: 4 de inteligência ou carisma. Imaculada.
 
+Imparável: 4 de carisma. Imaculada.
+
+Voo: 4 de carismas. Imaculada.
+
 ### Custo 5:
 
 Curar Condições: 5 de fé ou carisma. Sagrada.

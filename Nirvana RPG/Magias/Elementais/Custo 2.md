@@ -5,7 +5,7 @@
 - Alcance: si mesmo
 - Tempo de Conjuração: 2 ações
 
-**Descrição:** Faz surgir uma espada longa feita de água em constante movimento, sendo tão rápida que é capaz de cortar. Causa 2d8 + des de dano cortante por ataque.
+**Descrição:** Faz surgir uma espada longa feita de água em constante movimento, sendo tão rápida que é capaz de cortar. Causa 2d8 + dex de dano cortante por ataque. Tem escala D em força e C em inteligência.
 
 Caso haja uma fonte de água próxima com, no mínimo, 10 litros de água, você pode utilizar essa água como matéria prima da espada, reduzindo o custo da magia em 1 ponto.
 

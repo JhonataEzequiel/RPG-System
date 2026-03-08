@@ -27,7 +27,7 @@ Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana 
 - Alcance: Toque
 - Tempo de Conjuração: Duas ações
 
-**Descrição:** Conjura uma proteção mágica em volta do alvo, substituindo a CA dele para 9 + inteligência.
+**Descrição:** Conjura uma proteção mágica em volta do alvo, substituindo a CA dele para 9 + inteligência. A armadura tem escala B em inteligência. Você pode gastar 5 pontos de mana adicionais para aumentar a escala para S.
 
 ### Falar com Animais
 

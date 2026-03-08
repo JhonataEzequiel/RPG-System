@@ -134,3 +134,4 @@ Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O 
 **Custo**: 3 ações, toda a sua mana com um mínimo de 20 pontos.
 
 Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus golpes parecem feixes de luz. Você ataca todos os inimigos no alcance do seu deslocamento ao mesmo tempo, causando o dano de três ataques em cada um deles. Você retorna para a sua posição inicial ao fim do seu turno, e não ativa ataques de oportunidade. Essa habilidade sempre acerta.
+

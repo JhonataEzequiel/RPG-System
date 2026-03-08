@@ -9,7 +9,7 @@ Aqui estão os benefícios que cada escala proporciona ao atingir um determinado
 | Escala | Nível 1 de atributo        | Nível 3 de atributo                         | Nível 5 de atributo        | Nível 7 de atributo | Nível 10 de atributo    |
 | ------ | -------------------------- | ------------------------------------------- | -------------------------- | ------------------- | ----------------------- |
 | S      | +10 pontos de vida máximos | +3 de resistência a dano físico e elemental | +10 pontos de vida máximos | +3 de iniciativa    | +3 de CA                |
-| A      | +6 pontos de vida máximos  | +2 de resistência a dano físico             | +1 de CA                   | +2 de iniciativa    | +2 de CA                |
+| A      | +3 pontos de vida máximos  | +2 de resistência a dano físico             | +3 pontos de vida máximos  | +2 de iniciativa    | +3 de CA                |
 | B      | +4 pontos de vida máximos  | +1 de resistência a dano físico             | +2 pontos de vida máximos  | +2 de iniciativa    | +2 de CA                |
 | C      | +2 pontos de vida máximos  | +1 de iniciativa                            | +2 pontos de vida máximos  | +1 de iniciativa    | +1 de CA                |
 | D      | +1 ponto de vida máximo    | +1 de iniciativa                            | +1 ponto de vida máximo    | +1 de inciativa     | +1 ponto de vida máximo |
@@ -68,4 +68,5 @@ As moedas ditam a economia do jogo, e também servem como tesouro mais básico. 
 [[Instrumentos Musicais]]
 [[Grimórios]]
 [[Poções e Venenos]]
-[[Itens de Sobrevivência e Exploração]]
+[[Outros Itens]]
+[[Arremessáveis]]

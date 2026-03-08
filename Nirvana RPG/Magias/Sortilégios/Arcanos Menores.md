@@ -1,4 +1,4 @@
-### Morto Novamente
+### Dispensar Servos
 
 - Requisito em Inteligência: 1
 - Requisito em Fé: 1

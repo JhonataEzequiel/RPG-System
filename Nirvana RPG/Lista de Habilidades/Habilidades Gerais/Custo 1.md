@@ -125,3 +125,7 @@ Você tem +10 em qualquer teste para escalar algo fora de combate, e +5 em comba
 **Requisitos**: Você está carregando menos da metade da sua capacidade de carga atual.
 
 Explorar o mundo com pouca bagagem é algo que você preza. Você recupera 1d4 a mais de vida em descansos curtos, e tem +3m de deslocamento. Essa habilidade é desativada automaticamente caso o requisito seja quebrado. Ela também se ativa automaticamente se você passar a cumprí-lo novamente.
+
+## Refazer
+
+Você pode trocar as magias e arcanos menores que você conhece uma única vez. Essa habilidade pode ser pega mais de uma vez.
