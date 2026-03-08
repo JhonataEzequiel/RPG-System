@@ -16,7 +16,7 @@ Você pode gastar um ponto de mana adicional para adicionar um alvo a mais na ho
 - Alcance: 24m
 - Tempo de Conjuração: 2 ações
 
-**Descrição:** Você seleciona uma criatura alvo no alcance da magia. Quaisquer penalidades a movimentação do alvo, com exceção daquelas ocasionadas por condições negativas, serão anuladas.
+**Descrição:** Você seleciona uma criatura alvo no alcance da magia. Quaisquer penalidades a movimentação do alvo, com exceção daquelas ocasionadas por condições, serão anuladas.
 
 Fora de combate você pode selecionar até 4 alvos ao mesmo tempo.
 

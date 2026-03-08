@@ -104,6 +104,10 @@ Corrupção do Sangue: 5 de inteligência, 5 de fé. Sangue.
 
 Curar Condições: 5 de fé ou carisma. Sagrada.
 
+Abençoado: 5 de fé. Sagrada.
+
+Amaldiçoado: 5 de fé. Sagrada.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.
