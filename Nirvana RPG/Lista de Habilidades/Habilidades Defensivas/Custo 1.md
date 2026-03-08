@@ -61,3 +61,11 @@ Você planta seus pés em um local, agindo como uma parede protetora para com se
 **Requisitos**: 3 de força.
 
 A sua resiliência acima do normal é notória. Você aumenta sua capacidade de carga em 10 quilos, e ignora a penalidade de deslocamento nas armaduras. Quaisquer outras penalidades ainda se aplicam.
+
+## Energia Confiscada
+
+**Requisitos**: 3 de constituição, 1 de sabedoria.
+**Custo**: 3 ações.
+**Duração**: 1 encontro.
+
+Você liga sua mente ao de um alvo caso ele falhe num teste de resistência de sabedoria CD 10 + sab. Você anula a capacidade dele de usar mana, e você também não pode usar mana. Todo dano causado no alvo será refletido em você, fazendo com que você tome metade dele como dano verdadeiro. O alvo ainda recebe o dano completo, você apenas é ferido também. O dano que você receberá será metade do dano que o alvo recebeu após ter calculado o valor sobre quaisquer resistências que ele possua.

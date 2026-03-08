@@ -138,12 +138,12 @@ Você tem vantagem em testes de conversação contra autoridades da lei ao tenta
 **Custo**: ação bônus, 1 de mana.
 **Duração**: 3 rodadas.
 
-Você aumenta seu deslocamento em um valor igual ao seu nível em metros. Neste meio tempo, você se torna focado apenas em se mover o mais rápido possível, não podendo realizar testes de perícias. Se for necessário passar por um teste de perícia, você falhará automaticamente.
+Você aumenta seu deslocamento em um valor igual a metade do seu nível em metros.
 
 ## Velocidade de Gato
 
 **Requisitos**: 8 de destreza.
-**Custo**: ação bônus.
+**Custo**: ação bônus, 3 de mana.
 **Duração**: 2 rodadas.
 
-Você aumenta seu deslocamento em 9m. Você também não pode ser alvo de ataques de oportunidade. Essa habilidade só pode ser usada uma vez por descanso longo.
+Você aumenta seu deslocamento em 4.5m. Você também não pode ser alvo de ataques de oportunidade.

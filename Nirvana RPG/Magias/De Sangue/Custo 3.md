@@ -20,7 +20,7 @@ Você pode escolher gastar 1d6 de vida e 1 ponto de mana adicionais para aumenta
 - Alcance: 18m
 - Tempo de Conjuração: 3 ações
 
-**Descrição:** Você retira um montante considerável de seu sangue, perdendo 3d8 pontos de vida. Com esse sangue você cria uma esfera de sangue que flutua no ar em um local desocupado no alcance da magia. Quaisquer criaturas num raio de 36m da esfera serão afetadas por espinhos de sangue que são arremessados em direção a elas de dentro da esfera, sendo 1 espinho por criatura a cada rodada. Cada espinho causa 4d12 de dano perfurante. A cada rodada o dano aumenta em 1d12, mas não pode ultrapassar 7d12.
+**Descrição:** Você retira um montante considerável de seu sangue, perdendo 3d8 pontos de vida. Com esse sangue você cria uma esfera de sangue que flutua no ar em um local desocupado no alcance da magia. Quaisquer criaturas num raio de 36m da esfera serão afetadas por espinhos de sangue que são arremessados em direção a elas de dentro da esfera, sendo 1 espinho por criatura a cada rodada. Cada espinho causa 4d10 de dano perfurante. A cada rodada o dano aumenta em 1d10, mas não pode ultrapassar 7d10.
 
 Você pode diminuir o custo em pontos de vida caso utilize o sangue de um cadáver em estado conservado, ou se um aliado lhe emprestar sangue para conjurar essa magia (neste caso, ele que sacrificará os pontos de vida, mas serão apenas 2d8). Independentemente de qual dos dois métodos você usar, ainda terá que misturar um pouco do seu sangue ao sangue externo, perdendo 1d8 de pontos de vida no processo para tal.
 
