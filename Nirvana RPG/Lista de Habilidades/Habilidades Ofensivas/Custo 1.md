@@ -11,7 +11,7 @@ Uma tatuagem surge em uma mão do usuário, podendo ser a esquerda ou direita. Q
 | Cobre até metade do peitoral | 40                              | +10           |
 ## Fúria
 
-**Requisitos:** Não pode usar armadura pesada. 2 de força.
+**Requisitos:** Não pode usar armadura. 2 de força.
 
 **Cargas de Fúria:** Fúria é uma habilidade que pode ser usada por um número de vezes limitado, mas a quantidade de vezes que se pode usá-la aumenta conforme o nível de força do jogador.
 

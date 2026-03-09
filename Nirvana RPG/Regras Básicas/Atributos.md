@@ -2,16 +2,16 @@ Os atributos são as estatísticas que ditam como o seu personagem se comporta p
 
 Os atributos terão um limite de nível máximo que aumentará conforme seu nível, seguindo a tabela a seguir:
 
-| Nível        | Nível Máximo de Atributo |
-| ------------ | ------------------------ |
-| 1            | 3                        |
-| 2-3          | 4                        |
-| 4-5          | 5                        |
-| 6-7          | 6                        |
-| 8-9          | 7                        |
-| 10-11        | 8                        |
-| 12-13        | 9                        |
-| Maior que 14 | 10                       |
+| Nível               | Nível Máximo de Atributo |
+| ------------------- | ------------------------ |
+| 1                   | 3                        |
+| 2-3                 | 4                        |
+| 4-5                 | 5                        |
+| 6-7                 | 6                        |
+| 8-9                 | 7                        |
+| 10-11               | 8                        |
+| 12-13               | 9                        |
+| Maior ou igual a 14 | 10                       |
 
 Para critérios de simplificação, o nível máximo que um atributo pode assumir é metade do seu nível de personagem acrescido de 3.
 
