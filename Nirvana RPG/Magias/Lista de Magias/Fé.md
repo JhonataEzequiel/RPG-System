@@ -96,6 +96,8 @@ Golpe Divino: 4 de fé. Sagrada.
 
 Palma da Mão: 4 de fé. Sagrada.
 
+Golem de Sangue: 4 de inteligencia, 4 de fé. Sangue.
+
 ### Custo 5:
 
 Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.

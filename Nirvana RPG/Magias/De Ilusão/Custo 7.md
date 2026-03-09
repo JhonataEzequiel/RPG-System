@@ -1,6 +1,6 @@
 ### Doppelganger
 
-- Requisito em Inteligência: 7
+- Requisito em Inteligência ou Carisma: 7
 - Duração: 1 encontro
 - Alcance: 9 metros
 - Tempo de Conjuração: 2 ações.

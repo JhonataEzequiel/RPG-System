@@ -1,6 +1,6 @@
 ### Amizade
 
-- Requisito em Carisma: 1
+- Requisito em Carisma ou Inteligência: 1
 - Requisitos Adicionais: A criatura não é hostil inicialmente
 - Duração: 1 minuto
 - Alcance: Toque
@@ -10,7 +10,7 @@
 
 ### Mensagem
 
-- Requisito em Inteligência: 1
+- Requisito em Inteligência ou Carisma: 1
 - Duração: 10 minutos
 - Alcance: 48m
 - Tempo de Conjuração: ação bônus
@@ -30,7 +30,7 @@ Você pode conjurar essa magia para falar com qualquer alvo marcado por ela ante
 
 ### Batalha Mental
 
-- Requisito em Inteligência: 1
+- Requisito em Inteligência ou Carisma: 1
 - Duração: concentração
 - Alcance: Toque
 - Tempo de Conjuração: ação livre

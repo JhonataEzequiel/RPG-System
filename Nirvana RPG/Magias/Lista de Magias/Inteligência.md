@@ -2,6 +2,8 @@
 
 Conjurar Luz: 1 de inteligência. Imaculada.
 
+Amizade: 1 de carisma ou inteligência. Ilusão.
+
 Espalhar Sangue Fervente: 1 de inteligência, 1 de fé. Sangue.
 
 Raio de Fogo: 1 de inteligência. Elemental.
@@ -18,7 +20,7 @@ Detectar Magia: 1 de carisma, inteligência, ou fé. Imaculada.
 
 Mão Espectral: 1 de inteligência. Imaculada.
 
-Mensagem: 1 de inteligência. Ilusão.
+Mensagem: 1 de inteligência ou carisma. Ilusão.
 
 Aposta: 1 de inteligência, carisma, ou fé. Imaculada.
 
@@ -32,7 +34,7 @@ Corte de Papel: 1 de inteligência, 1 de fé. Sangue.
 
 Sombra Agente: 1 de inteligência, 1 de fé. Sortilégio.
 
-Batalha Mental: 1 de inteligência. Ilusão.
+Batalha Mental: 1 de inteligência ou carisma. Ilusão.
 
 ### Custo 1:
 
@@ -54,7 +56,7 @@ Orbe Negro: 1 de inteligência, 1 de fé. Sortilégio.
 
 Anular Cheiro: 1 de carisma ou inteligência. Ilusão.
 
-Aura Mágica: 1 de inteligência. Ilusão.
+Aura Mágica: 1 de inteligência ou carisma. Ilusão.
 
 Bolha de Ar: 1 de inteligência. Elemental.
 
@@ -62,13 +64,13 @@ Conjurar Golem Menor: 1 de inteligência. Elemental.
 
 Criar Água: 1 de inteligência. Elemental.
 
-Disfarce Ilusório: 1 de inteligência. Ilusão.
+Disfarce Ilusório: 1 de inteligência, 1 de carisma. Ilusão.
 
 Emendar: 1 de inteligência. Imaculada.
 
 Golpe Certo: 1 de inteligência ou carisma. Imaculada.
 
-Caleidoscópio: 1 de inteligência. Ilusão.
+Caleidoscópio: 1 de inteligência, 1 de carisma. Ilusão.
 
 Mísseis Mágicos: 1 de inteligência. Elemental.
 
@@ -88,7 +90,7 @@ Proteção Elemental: 2 de inteligência. Elemental.
 
 Equilíbrio: 2 de inteligência, 2 de fé. Sangue.
 
-Ilusão Menor: 2 de inteligência. Ilusão.
+Ilusão Menor: 2 de inteligência, 2 de carisma. Ilusão.
 
 Tornado das Pestes: 1 de inteligência, 2 de fé. Sangue.
 
@@ -97,6 +99,8 @@ Quebra Crânios: 2 de inteligência, 2 de fé. Sangue.
 Corte Sombrio: 2 de fé, 2 de inteligência. Sortilégio.
 
 Glutão: 2 de fé, 2 de inteligência. Sortilégio.
+
+Calar Voz: 2 de inteligência, 2 de carisma. Ilusão.
 
 ### Custo 3:
 
@@ -118,7 +122,7 @@ Raio de Frenesi: 3 de inteligência ou carisma. Ilusão.
 
 Raio Desacelerador: 3 de inteligência ou carisma. Ilusão.
 
-Esfera de Invisibilidade: 3 de inteligência. Ilusão.
+Esfera de Invisibilidade: 3 de inteligência ou carisma. Ilusão.
 
 Frio Noturno: 3 de inteligência, 3 de fé. Sortilégio.
 
@@ -134,7 +138,7 @@ Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
 
 Lâmina de Sangue: 4 de inteligência, 4 de fé. Sangue.
 
-Campo Falso: 4 de inteligência. Ilusão.
+Campo Falso: 4 de inteligência, 4 de carisma. Ilusão.
 
 Congelamento: 4 de inteligência. Elemental.
 
@@ -148,9 +152,11 @@ Perguntar aos Mortos: 4 de inteligência, 4 de fé. Sortilégio.
 
 Névoa Negra: 4 de inteligência, 4 de fé. Sortilégio.
 
-Mundo Invertido: 4 de inteligência. Ilusão.
+Mundo Invertido: 4 de inteligência, 4 de carisma. Ilusão.
 
 Chocolate: 4 de inteligência ou carisma. Ilusão.
+
+Golem de Sangue: 4 de inteligencia, 4 de fé. Sangue.
 
 ### Custo 5:
 
@@ -160,7 +166,7 @@ Troca: 5 de inteligência. Imaculada.
 
 Tumba Aberta: 5 de inteligência, 5 de fé. Sortilégio.
 
-Alucinação: 5 de inteligência. Ilusão.
+Alucinação: 5 de inteligência, 5 de carisma. Ilusão.
 
 Corrupção do Sangue: 5 de inteligência, 5 de fé. Sangue.
 
@@ -182,7 +188,7 @@ Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
 Arco Cromático: 7 de inteligência. Elemental.
 
-Doppelganger: 7 de inteligência. Ilusão.
+Doppelganger: 7 de inteligência ou carisma. Ilusão.
 
 Devorar Cérebro: 7 de inteligência, 7 de fé. Sangue.
 
@@ -202,7 +208,7 @@ Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
 
 Nihil: 8 de inteligência, 9 de fé. Sangue.
 
-Mansão Mental: 9 de inteligência. Ilusão.
+Mansão Mental: 9 de inteligência, 9 de carisma. Ilusão.
 
 Serpente de Fogo: 9 de inteligência. Elemental.
 
@@ -226,6 +232,6 @@ Tsunami: 10 de inteligência. Elemental.
 
 Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
 
-Sumir: 10 de inteligência. Ilusão.
+Sumir: 10 de inteligência ou carisma. Ilusão.
 
-Duplicata: 10 de inteligência. Ilusão.
+Duplicata: 10 de inteligência ou carisma. Ilusão.

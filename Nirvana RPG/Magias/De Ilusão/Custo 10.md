@@ -15,7 +15,7 @@ A criatura tocada se torna imune a conjurações adicionais desta magia durante 
 
 ### Sumir
 
-- Requisito em Inteligência: 10
+- Requisito em Inteligência ou Carisma: 10
 - Duração: 2 rodadas
 - Alcance: Toque
 - Tempo de Conjuração: 3 ações

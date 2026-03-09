@@ -18,7 +18,7 @@
 
 ### Esfera de Invisibilidade
 
-- Requisito em Inteligência: 3
+- Requisito em Inteligência ou Carisma: 3
 - Duração: concentração
 - Alcance: Toque
 - Tempo de Conjuração: 3 ações
