@@ -34,4 +34,4 @@ Você pode diminuir o custo em pontos de vida caso utilize o sangue de um cadáv
 
 **Descrição:** Você toca uma parte do seu corpo ou de um alvo aliado à sua escolha, fazendo com que aquela parte do corpo bombeie mais sangue, amplificando o dano causado pelo próximo ataque realizado com ela. Por exemplo, você pode tocar o braço de um aliado para aumentar o dano de um ataque com uma arma empunhada por aquele braço. Caso nenhum ataque seja realizado dentro da duração, o efeito cessa.
 
-O ataque amplificado adiciona o modificador de força ao dano, mesmo que ele já tenha sido adicionado anteriormente. Além disso, a criatura atingida pelo ataque deverá realizar um teste de resistência de constituição CD 15 + int + fth. Caso falhe, ficará atordoada até o início do seu próximo turno.
+O ataque amplificado adiciona o modificador de força ao dano, mesmo que ele já tenha sido adicionado anteriormente. Além disso, a criatura atingida pelo ataque deverá realizar um teste de resistência de constituição CD 15 + int + fth. Caso falhe, ficará atordoada até o início do próximo turno dela.
