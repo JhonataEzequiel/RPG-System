@@ -166,3 +166,13 @@ Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A o
 Para puxar uma carta você deverá rolar 1d4, e o número correspondente será o da carta. Após ter puxado uma carta, você não poderá puxá-la até que todas as outras tenham sido puxadas. Caso role 1d4 e o resultado seja o de uma carta que você já puxou, role novamente o dado. Ao puxar as quatro cartas, você pode puxar uma quinta carta, a carta coringa. Ela concede os bônus de todas as outras ao mesmo tempo. Você recebe os efeitos positivos, e escolhe um alvo para os efeitos negativos.
 
 **Embaralhar** (ação bônus): você descarta a sua carta atual caso não queira a usar, e embaralha novamente o seu baralho, recomeçando a contagem das cartas. Você pode embaralhar as cartas fora de combate. A posição do baralho não reinicia a não ser que você o embaralhe.
+
+## Sorte
+
+**Requisitos**: Você só pode escolher esta habilidade no nível 1.
+
+Você agora possui um oitavo atributo chamado sorte. Sorte é um atributo especial, e pode ser aumentado gastando pontos de atributo como qualquer outro atributo. Você pode adicionar o seu valor de sorte a qualquer teste que for realizar, com um limite de 3 testes por dia. Você deve adicionar esse valor antes de rolar um teste. 
+
+Além disso, você pode rolar novamente qualquer rolagem uma quantidade de vezes igual ao seu modificador de sorte, cuja sigla será "sor". Uma rolagem que envolva múltiplos dados simultaneamente — como 20d6 de dano de uma magia — conta como um único uso, independente da quantidade de dados envolvidos. Após rolar novamente, você escolhe qual dos resultados utilizar. Você reinicia a contagem de rolagens ao ter um descanso longo.
+
+O valor inicial de sorte é 0.
