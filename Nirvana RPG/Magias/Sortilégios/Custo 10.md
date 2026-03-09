@@ -22,3 +22,13 @@ Causa 20d6 + int + fth de dano de sortilégio em cada alvo escolhido por rodada.
 - Tempo de Conjuração: 3 ações
 
 **Descrição:** Você conjura um orbe negro amplificado com força máxima. É impossível desviar dessa magia, ou mitigar o dano de alguma forma que não seja por resistência a dano de sortilégio. O orbe negro exibe uma face de angústia independente da direção que se olhe para ele. É possível que o que antes era apenas um resquicío de poder mágico agora criou vida. Causa 15d10 + int + fth de dano de sortilégio.
+
+### Sono de Séculos
+
+- Requisito em Inteligência: 10
+- Requisito em Fé: 10
+- Duração: um século
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você toca uma criatura que voluntariamente se deixa ser afetada pela magia. Ela terá a condição inconsciente. Enquanto a magia durar, ela se torna imune a qualquer dano que não seja dano verdadeiro, e não pode ser despertada. Uma vez que a magia acabar, o corpo dela acorda sem nenhum tipo de resquício da passagem do tempo. Caso o alvo seja você mesmo, você terá 10 minutos para se preparar antes da magia ter feito uma vez conjurada.

@@ -235,3 +235,7 @@ Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
 Sumir: 10 de inteligência ou carisma. Ilusão.
 
 Duplicata: 10 de inteligência ou carisma. Ilusão.
+
+Resquícios: 10 de inteligência, 10 de fé. Sortilégio.
+
+Sono de Séculos: 10 de inteligência, 10 de fé. Sortilégio.
