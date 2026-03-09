@@ -230,6 +230,8 @@ Caos Cromático: 10 de inteligência. Elemental.
 
 Tsunami: 10 de inteligência. Elemental.
 
+Sol Proibido: 10 de inteligência. Elemental.
+
 Explodir Coração: 10 de inteligência, 10 de fé. Sangue.
 
 Sumir: 10 de inteligência ou carisma. Ilusão.
