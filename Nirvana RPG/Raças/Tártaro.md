@@ -5,4 +5,4 @@ Os tártaros são povos tartarugas, carregando seus cascos em suas costas. A cor
 
 **Soltura de Casco** (ação bônus): Você retira o casco de suas costas, o jogando no chão. Sua CA diminui em 2 pontos, e seu deslocamento aumenta para 15m até que coloque seu casco novamente. Para colocar o casco são necessárias 3 ações.
 
-**Escola da Tartaruga** (passiva): Caso você não tenha removido seu casco entre um descanso longo ou outro, você ganha 1 ponto de treino. Ao atingir 3 pontos, você terá +2 pontos de vida e + 1 ponto de mana permanentes. Quando você atingir, no total, 10 pontos de treino, você ganha a habilidade "Ki" de custo 1.
+**Escola da Tartaruga** (passiva): Caso você não tenha removido seu casco entre um descanso longo ou outro, você ganha 1 ponto de treino. Ao atingir 3 pontos, você terá +3 pontos de vida e + 2 pontos de mana permanentes. O máximo de pontos que você pode adquirir por nível são 6. Uma vez que você subir de nível não poderá adquirir os pontos de treino dos níveis anteriores. Quando você atingir, no total, 10 pontos de treino, você ganha a habilidade "Ki" de custo 1.

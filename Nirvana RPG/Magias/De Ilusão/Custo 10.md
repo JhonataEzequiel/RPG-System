@@ -24,7 +24,7 @@ A criatura tocada se torna imune a conjurações adicionais desta magia durante 
 
 ### Duplicata
 
-- Requisito em Inteligência: 10
+- Requisito em Inteligência ou Carisma: 10
 - Duração: Instantânea
 - Alcance: 9m
 - Tempo de Conjuração: reação
