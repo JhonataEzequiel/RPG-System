@@ -170,6 +170,8 @@ Alucinação: 5 de inteligência, 5 de carisma. Ilusão.
 
 Corrupção do Sangue: 5 de inteligência, 5 de fé. Sangue.
 
+Chuva de Morcegos: 5 de inteligência, 5 de fé. Sangue.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.
@@ -241,3 +243,5 @@ Duplicata: 10 de inteligência ou carisma. Ilusão.
 Resquícios: 10 de inteligência, 10 de fé. Sortilégio.
 
 Sono de Séculos: 10 de inteligência, 10 de fé. Sortilégio.
+
+Magia Carmesim: 10 de inteligência, 10 de fé. Sangue.

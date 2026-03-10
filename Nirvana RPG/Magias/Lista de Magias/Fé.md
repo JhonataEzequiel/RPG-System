@@ -110,6 +110,8 @@ Abençoado: 5 de fé. Sagrada.
 
 Amaldiçoado: 5 de fé. Sagrada.
 
+Chuva de Morcegos: 5 de inteligência, 5 de fé. Sangue.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.
@@ -161,3 +163,5 @@ Refazer: 10 de fé. Sagrada.
 Resquícios: 10 de inteligência, 10 de fé. Sortilégio.
 
 Sono de Séculos: 10 de inteligência, 10 de fé. Sortilégio.
+
+Magia Carmesim: 10 de inteligência, 10 de fé. Sangue.

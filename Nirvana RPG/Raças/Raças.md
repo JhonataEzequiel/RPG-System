@@ -14,15 +14,9 @@ Cada raça possui habilidades e deslocamentos únicos, sendo esses os diferencia
 | Tártaro           | 3, 15 sem casco          | Médio   |
 
 [[Humano]]
-
 [[Elfo]]
-
 [[Gnomo]]
-
 [[Anão]]
-
 [[Fjer]]
-
 [[Siderium]]
-
 [[Tártaro]]
