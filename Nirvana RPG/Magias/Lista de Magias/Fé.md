@@ -146,6 +146,8 @@ Revelação: 9 de fé. Sagrada.
 
 Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
 
+Rosa Sangrenta: 10 de inteligência, 8 de fé. Sangue.
+
 ### Custo 10:
 
 Éden: 10 de carisma ou fé. Sagrada.

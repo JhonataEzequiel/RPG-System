@@ -230,6 +230,8 @@ Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
 
 Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 
+Rosa Sangrenta: 10 de inteligência, 8 de fé. Sangue.
+
 ### Custo 10:
 
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.

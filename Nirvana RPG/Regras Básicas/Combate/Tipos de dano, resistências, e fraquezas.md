@@ -2,7 +2,7 @@ Dependendo do ataque realizado, o dano pode vir de fontes diferentes, sendo elas
 
 ## Dano Contínuo
 
-Pode haver casos em que um dano persistirá por um tempo especificado. Tais casos serão chamados de “dano contínuo”, e continuarão até o efeito acabar. No início de cada turno de quem sofreu o dano continuo, ele receberá a quantidade de dano especificada na descrição do ataque/magia.
+Pode haver casos em que um dano persistirá por um tempo especificado. Tais casos serão chamados de “dano contínuo”, e continuarão até o efeito acabar. No início de cada turno de quem sofreu o dano continuo, ele receberá a quantidade de dano especificada na descrição do ataque/magia. Além disso, ao ser afetado por dano contínuo o alvo recebe imediatamente uma instância do dano.
 
 ## Dano Físico
 

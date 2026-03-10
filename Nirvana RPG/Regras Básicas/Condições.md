@@ -86,7 +86,18 @@ Uma criatura surda não pode ouvir e falha automaticamente em qualquer teste de 
 
 ### Sangrando 
 
-A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado.
+A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado. Cada rodada simboliza um nível de sangramento, indo de sangramento 1 (1d6) até sangramento 6 (6d6).
+
+Caso deseje estancar o sangramento, é necessário performar um teste de medicina cuja CD aumenta a cada nível de sangramento. 
+
+| Nível de Sangramento | Dificuldade do Teste |
+| -------------------- | -------------------- |
+| 1                    | 11                   |
+| 2                    | 13                   |
+| 3                    | 15                   |
+| 4                    | 16                   |
+| 5                    | 18                   |
+| 6                    | 20                   |
 
 ## Nocauteado
 
