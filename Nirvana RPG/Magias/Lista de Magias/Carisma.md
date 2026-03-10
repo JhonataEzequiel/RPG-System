@@ -86,6 +86,10 @@ Curar Condições: 5 de fé ou carisma. Sagrada.
 
 Alucinação: 5 de inteligência, 5 de carisma. Ilusão.
 
+Dragão Azul Devorador: 5 de inteligência, 5 de carisma. Ilusão.
+
+Cópia Ilusória de Ataque: 5 de inteligência, 5 de carisma. Ilusão.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.
@@ -121,3 +125,7 @@ Alterar Forma: 10 de carisma. Imaculada.
 Sumir: 10 de inteligência ou carisma. Ilusão.
 
 Duplicata: 10 de inteligência ou carisma. Ilusão.
+
+Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
+
+Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.

@@ -172,6 +172,18 @@ Corrupção do Sangue: 5 de inteligência, 5 de fé. Sangue.
 
 Chuva de Morcegos: 5 de inteligência, 5 de fé. Sangue.
 
+Sobrevida: 5 de inteligência, 5 de fé. Sangue.
+
+Dragão Azul Devorador: 5 de inteligência, 5 de carisma. Ilusão.
+
+Cópia Ilusória de Ataque: 5 de inteligência, 5 de carisma. Ilusão.
+
+Esmagamento de Rochas: 5 de inteligência. Elemental.
+
+Águas Dançantes: 5 de inteligência. Elemental.
+
+Sala de Cirurgia: 5 de inteligência. Imaculada.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.
@@ -245,3 +257,9 @@ Resquícios: 10 de inteligência, 10 de fé. Sortilégio.
 Sono de Séculos: 10 de inteligência, 10 de fé. Sortilégio.
 
 Magia Carmesim: 10 de inteligência, 10 de fé. Sangue.
+
+Buraco Negro: 10 de inteligência, 10 de fé. Sortilégio.
+
+Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
+
+Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.

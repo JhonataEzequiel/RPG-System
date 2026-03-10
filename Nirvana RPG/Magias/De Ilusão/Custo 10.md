@@ -36,3 +36,27 @@ As duplicatas refazem os passos dos alvos, replicando o dano causado naquela rod
 Caso o dano replicado tenha como alvo uma criatura que já morreu, ele é anulado. Cada criatura que recebeu dano durante o turno receberá a quantia adequada a ela; ou seja, se dois inimigos estiverem em campo, mas apenas um sofreu dano, ele será o único que sofrerá mais dano.
 
 Independentemente de quantas criaturas forem afetadas por essa magia, elas precisarão passar por uma salvaguarda de sabedoria CD 13 + int. Caso sejam bem sucedidas, vão tomar metade do dano refletido.
+
+### Espaço Branco
+
+- Requisito em Inteligência: 10
+- Requisito em Carisma: 10
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** O espaço branco é uma dimensão mental que muitas pessoas conseguem acessar, mas não controlar. Normalmente quando se tenta fugir de um pensamento ou momento ruim, essa região da mente é acessada. Ela representa os seus melhores dias, sendo tanto nostálgica, quanto um refúgio. No entanto, ficar nela por muito tempo tem efeitos negativos que impedem as pessoas de seguirem em frente. Você acessa essa região mental, que pode te trazer alguma memória feliz, mas que nada mais é que uma fuga da realidade.
+
+Você tem imunidade total a quaisquer danos mágicos, e a dano verdadeiro de qualquer fonte. No entanto, você terá que passar por um teste de resistência de sabedoria CD 3 + int + car ao início de cada um de seus turnos. A CD aumenta em 1 a cada rodada. Caso falhe, você se deixará levar pelas boas memórias e entrará em um sono profundo, tendo a condição inconsciente. Você pode despertar dessa condição caso passe num teste de resistência de sabedoria CD 12. A magia perde o efeito quando você adormecer, mas você continua sonhando com as suas memórias enquanto estiver inconsciente. Você pode desativá-la quando quiser.
+
+### Espaço Negro
+
+- Requisito em Inteligência: 10
+- Requisito em Carisma: 10
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** O espaço negro é uma dimensão mental que pouquíssimas pessoas conseguem acessar, e quando conseguem, fogem dela o mais rápido possível. Ela representa tudo aquilo que as pessoas desejam reprimir, as escondendo nas partes mais profundas da psiquê. Você acessa essa região mental, encarando as piores partes sobre você que não quer admitir, e vendo seus traumas em primeira mão. Apesar disso, você volta de lá com uma força mental maior, amplificando o efeito de suas magias.
+
+Você deverá passar por três testes que aumentam de dificuldade a cada um. O primeiro será um teste de resistência de constituição CD 3 + int + car. Caso seja bem sucedido, suas magias custam -1 de mana pela duração. O segundo será um teste de resistência de sabedoria CD 5 + int + car. Caso seja bem sucedido, a CD para resistir a efeitos negativos de suas magias aumenta em 2 pontos pela duração. O terceiro e último teste será um teste de resistência de carisma CD 10 + int + car. Caso seja bem sucedido, o custo de suas magias diminuirá em mais dois pontos, totalizando -3. Você pode optar por passar por quantos testes quiser. Caso falhe em qualquer um deles, você reduzirá o custo das magias em 1 ponto, mas terá a condição amedrontado até o início do seu próximo turno. Não há como curar ou ser imune a essa condição.

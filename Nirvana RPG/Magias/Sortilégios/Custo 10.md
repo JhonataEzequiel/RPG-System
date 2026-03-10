@@ -32,3 +32,13 @@ Causa 20d6 + int + fth de dano de sortilégio em cada alvo escolhido por rodada.
 - Tempo de Conjuração: 3 ações
 
 **Descrição:** Você toca uma criatura que voluntariamente se deixa ser afetada pela magia. Ela terá a condição inconsciente. Enquanto a magia durar, ela se torna imune a qualquer dano que não seja dano verdadeiro, e não pode ser despertada. Uma vez que a magia acabar, o corpo dela acorda sem nenhum tipo de resquício da passagem do tempo. Caso o alvo seja você mesmo, você terá 10 minutos para se preparar antes da magia ter feito uma vez conjurada.
+
+### Buraco Negro
+
+- Requisito em Inteligência: 10
+- Requisito em Fé: 10
+- Duração: Instantânea
+- Alcance: 36m
+- Tempo de Conjuração: reação
+
+**Descrição:** Você anula os efeitos de uma magia completamente desde que o conjurador esteja no alcance da magia. Um buraco negro intangível surge e devora a mana gasta pelo conjurador para conjurar a magia em si, anulando completamente o efeito dela. Você só pode usar essa magia uma vez por descanso curto ou longo.
