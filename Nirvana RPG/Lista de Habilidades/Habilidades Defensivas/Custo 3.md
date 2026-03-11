@@ -19,3 +19,9 @@ Gastando 3 de mana uma vez por encontro como ação livre, você pode executar q
 | 3                               | 2 ações        | Você desvia de todos os ataques físicos de alvo único direcionados a você até o início do seu próximo turno, mas tem desvantagem em salvaguardas até lá.                                                             |
 | 5                               | ação bônus     | Você ganha 5d6 de pontos de vida temporários até o início do seu próximo turno. Caso um inimigo te acerte com um ataque nesse meio tempo, ele tem -5 para te acertar novamente até o início do próximo turno dele.   |
 | 10                              | 3 ações        | Você aumenta todo o dano causado por você e um aliado a sua escolha em 5 pontos, independente de qual dano seja. Ignora resistências, mas ainda respeita invulnerabilidades. Dura um encontro.                       |
+
+## Gordura Grossa
+
+**Requisitos**: 6 de constituição.
+
+Sua gordura corporal se torna mais resistente, podendo ou não afetar a sua aparência (ao seu critério). Caso você sofra dano de raio, gelo, ou fogo, que cause até duas vezes seu nível de constituição, esse dano é anulado.

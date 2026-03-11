@@ -64,3 +64,12 @@ Você pode aumentar em 5 os pontos de vida temporários para cada ponto de mana 
 - Tempo de Conjuração: 1 ação
 
 **Descrição:** Escolha um alvo no alcance da magia. O próximo ataque efetuado pelo alvo terá +4 para acertar. Você pode escolher alvos adicionais ao custo de uma ação adicional por cada.
+
+### Mísseis Mágicos
+
+- Requisito em Inteligência: 1
+- Duração: Instantânea
+- Alcance: 24m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você dispara um pequeno foguete mágico em um alvo no alcance da magia, causando 1d8 + int de dano de fogo ou de impacto, à sua escolha. Você pode gastar ações adicionais para aumentar a quantidade de misseis disparados. A quantidade de misseis aumenta em 1 para cada ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de uma ação bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa magia na próxima rodada. Os mísseis sempre acertam, significando que não é possível desviar deles com um teste de resistência.

@@ -126,6 +126,12 @@ Você agora pode tomar qualquer poção como uma ação bônus, e aplicar qualqu
 
 Você larga todo o equipamento que estiver carregando, com exceção de armas equipadas e grimórios. Você poderá pegar algum equipamento caído ao custo de uma ação. Seu deslocamento dobra caso você não pegue nenhum equipamento do chão, e continue como está.
 
+## Bibliotecário
+
+**Requisitos**: 10 de inteligência.
+
+Seus grimórios agora flutuam ao seu redor quando você precisar utilizar uma magia contida neles, não mais necessitando que você os segure, assim liberando a mão que antes seria ocupada. Você pode ter até 3 grimórios ao mesmo tempo.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.

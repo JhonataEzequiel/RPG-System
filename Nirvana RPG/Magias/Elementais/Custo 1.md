@@ -65,12 +65,3 @@ O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas
 **Descrição:** Chamas saem de suas mãos, causando 2d8 + int de dano de fogo a qualquer criatura numa área em cone no alcance da magia.
 
 Você pode aumentar o dano em 1d8 por ponto de mana adicional até um máximo de 5 pontos investidos. Ao investir 5 pontos adicionais de uma vez nesta magia, seu dano é aumentado em 1d4 permanentemente.
-
-### Mísseis Mágicos
-
-- Requisito em Inteligência: 1
-- Duração: Instantânea
-- Alcance: 24m
-- Tempo de Conjuração: 1 ação
-
-**Descrição:** Você dispara um pequeno foguete mágico em um alvo no alcance da magia, causando 1d8 + int de dano de fogo ou de impacto, à sua escolha. Você pode gastar ações adicionais para aumentar a quantidade de misseis disparados. A quantidade de misseis aumenta em 1 para cada ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de uma ação bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa magia na próxima rodada. Os mísseis sempre acertam, significando que não é possível desviar deles com um teste de resistência.

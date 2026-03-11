@@ -72,7 +72,7 @@ Golpe Certo: 1 de inteligência ou carisma. Imaculada.
 
 Caleidoscópio: 1 de inteligência, 1 de carisma. Ilusão.
 
-Mísseis Mágicos: 1 de inteligência. Elemental.
+Mísseis Mágicos: 1 de inteligência. Imaculada.
 
 Tormenta Carmesim: 1 de inteligência, 1 de fé. Sangue.
 

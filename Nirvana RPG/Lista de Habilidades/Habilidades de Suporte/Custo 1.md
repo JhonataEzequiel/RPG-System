@@ -62,3 +62,11 @@ Você pode adicionar o seu modificador de fé como bônus na iniciativa de um al
 **Requisitos**: 1 de destreza ou força.
 
 Você agora pode arremessar poções, que caem em um local, afetando uma área circular de 3m de raio. Poções de restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 pontos de vida. Outras poções são de alvo único, e a duração delas é de uma rodada, mesmo que na descrição o item diga que é maior.
+
+## Canção Heroica
+
+**Requisitos**: Ser perito em música.
+**Custo**: 3 ações.
+**Duração**: 1 rodada.
+
+Você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as penalidades de ataques de até 3 alvos à sua escolha durante a rodada que a música iniciar. Para cada alvo escolhido você terá que gastar 2 de mana. Para continuar com esta canção nos próximos turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de rodadas igual ao número escolhido. Caso o resultado for menor, a canção parará, e caso for maior, ela continuará por uma rodada. Por exemplo, se você escolher 2 e o resultado for 3, a canção continuará por mais uma rodada. Caso escolha 4 e o resultado seja 3, ela irá parar. Caso escolha 4 e o resultado seja 4, ela continuará por mais quatro rodadas. Esta habilidade consome ações e mana apenas na primeira vez que você executá-la, o que torna você livre em rodadas posteriores.
