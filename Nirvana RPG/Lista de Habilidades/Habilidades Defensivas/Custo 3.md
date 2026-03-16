@@ -32,3 +32,9 @@ Sua gordura corporal se torna mais resistente, podendo ou não afetar a sua apar
 **Custo**: ação bônus.
 
 O próximo ataque que você receber causará apenas metade do dano. O restante do dano será postergado, e você o sofrerá quando o encontro acabar como dano verdadeiro. Quanto mais você usar essa habilidade em um mesmo combate, mais dano ficará guardado. Caso você seja nocauteado durante o encontro, o dano guardado é anulado.
+
+## Eternidade
+
+**Requisitos**: 5 de constituição, 5 de sabedoria.
+
+Você agora é imune a quaisquer efeitos advindos da velhice, e a própria velhice, permanecendo sempre jovem. Você é incapaz de morrer por causas naturais, como doenças adquiridas naturalmente com o passar do tempo. Você pode adicionar o seu modificador de sabedoria e de constituição a qualquer teste que for fazer, mas não recupera mais vida e mana em descansos.

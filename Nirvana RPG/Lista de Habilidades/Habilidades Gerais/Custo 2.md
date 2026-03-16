@@ -176,3 +176,9 @@ Você agora possui um oitavo atributo chamado sorte. Sorte é um atributo especi
 Além disso, você pode rolar novamente qualquer rolagem uma quantidade de vezes igual ao seu modificador de sorte, cuja sigla será "sor". Uma rolagem que envolva múltiplos dados simultaneamente — como 20d6 de dano de uma magia — conta como um único uso, independente da quantidade de dados envolvidos. Após rolar novamente, você escolhe qual dos resultados utilizar. Você reinicia a contagem de rolagens ao ter um descanso longo.
 
 O valor inicial de sorte é 0.
+
+## Amado Coiote
+
+**Requisitos**: 5 de carisma.
+
+Você tem +4 em testes de conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma condição negativa você ganha vantagem ao invés de +4.

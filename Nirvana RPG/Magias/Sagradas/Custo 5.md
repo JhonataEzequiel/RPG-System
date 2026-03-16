@@ -17,7 +17,7 @@ Você pode gastar 2 pontos adicionais de mana para selecionar mais um alvo. O al
 - Alcance: Toque
 - Tempo de Conjuração: 2 ações
 
-**Descrição:** Você clama a sua divindade que te ilumine. Você é afetado por uma nova condição chamada "Abençoado". Esta condição não pode ser desfeita por nada além da duração acabar. Você se torna imune as condições atordoado, amedrontado, encantado, cego, exausto, inconsciente, paralisado, petrificado, e surdo. Se esteve com qualquer uma dessas condições elas são curadas quando conjurar essa magia. Quando a magia acaba você ganha a condição de exaustão 2.
+**Descrição:** Você clama a sua divindade que te ilumine. Você é afetado por uma nova condição chamada "Abençoado". Esta condição não pode ser desfeita por nada além do fim de sua duração. Você se torna imune as condições atordoado, amedrontado, encantado, cego, exausto, inconsciente, paralisado, petrificado, e surdo. Se esteve com qualquer uma dessas condições elas são curadas quando conjurar essa magia. Quando a magia acaba você ganha a condição de exaustão 2.
 
 ### Amaldiçoado
 

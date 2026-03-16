@@ -126,6 +126,8 @@ Cicatrizar: 5 de inteligência, 6 de fé. Sangue.
 
 Reanimação Completa: 5 de inteligência, 6 de fé. Sortilégio.
 
+Redenção Tardia: 6 de fé. Sagrada.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -141,6 +143,8 @@ Tempestade Negra: 7 de inteligência, 7 de fé. Sortilégio.
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
 
 Banir: 8 de fé. Sagrada.
+
+Ruína: 8 de inteligência, 8 de fé. Sortilégio.
 
 ### Custo 9:
 

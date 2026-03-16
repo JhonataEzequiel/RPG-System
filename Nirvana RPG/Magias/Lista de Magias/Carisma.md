@@ -100,6 +100,8 @@ Despistar: 6 de carisma ou inteligência. Ilusão.
 
 Nuvem Voadora: 6 de inteligência ou carisma. Imaculada.
 
+Batida Pesada: 6 de inteligência ou Carisma. Imaculada.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.

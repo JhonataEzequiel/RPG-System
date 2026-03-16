@@ -202,6 +202,10 @@ Cicatrizar: 5 de inteligência, 6 de fé. Sangue.
 
 Reanimação Completa: 5 de inteligência, 6 de fé. Sortilégio.
 
+Caminho de Gelo: 6 de inteligência. Elemental.
+
+Batida Pesada: 6 de inteligência ou Carisma. Imaculada.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -225,6 +229,10 @@ Lança de Raio: 8 de inteligência. Elemental.
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
 
 Terremoto: 8 de inteligência. Elemental.
+
+Domo de Gelo: 8 de inteligência. Elemental.
+
+Ruína: 8 de inteligência, 8 de fé. Sortilégio.
 
 ### Custo 9:
 

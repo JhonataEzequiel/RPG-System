@@ -21,3 +21,14 @@ Você pode gastar 2 pontos de mana adicionais para fazer com que uma área ao re
 **Descrição:** Um pequeno terremoto toma conta de um espaço de 1km de raio centrado em você. Ao conjurar essa magia, todos que estiverem no alcance terão que passar por um teste de resistência de destreza CD 11 + int. Em caso de falha, recebem 4d8 de dano de impacto e tem a condição caído. Em caso de sucesso, recebem apenas o dano. Você é imune aos efeitos dessa magia, mas seus aliados não.
 
 Estruturas tomam 12d8 de dano de impacto.
+
+### Domo de Gelo
+
+- Requisito em Inteligência: 8
+- Duração: 3 rodadas
+- Alcance: Toque
+- Tempo de Conjuração: 2 ações
+
+**Descrição:** Um domo de gelo é erguido ao seu redor, cobrindo uma área esférica com raio de 12m. Você pode desfazer o domo quando quiser com uma ação livre. Enquanto dentro do domo não é possível sair. Você seleciona até 3 criaturas alvo para conceder a elas mais uma ação bônus durante a duração do domo, e até 2 criaturas alvo para diminuir o deslocamento delas em 3m pela duração. Inimigos com vulnerabilidade a dano de gelo recebem 4d8 + int de dano de gelo contínuo até o final da duração do domo. Criaturas maiores do que o domo ignoram ele, não podendo ser afetadas por quaisquer efeitos desta magia.
+
+Você pode estender a duração do domo em 1 rodada por 2 pontos de mana adicionais, e pode fazer isso quantas vezes quiser.
