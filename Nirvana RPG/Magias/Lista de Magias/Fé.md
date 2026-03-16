@@ -128,6 +128,8 @@ Reanimação Completa: 5 de inteligência, 6 de fé. Sortilégio.
 
 Redenção Tardia: 6 de fé. Sagrada.
 
+Toque Necrótico: 6 de inteligência, 6 de fé. Sortilégio.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.

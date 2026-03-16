@@ -30,4 +30,4 @@ Você pode gastar pontos de mana adicionais para aumentar o dano em 2d4 por pont
 - Alcance: deslocamento
 - Tempo de Conjuração: 3 ações
 
-**Descrição:** Selecione uma criatura alvo no alcance da magia. Apenas na mente da criatura alvo uma palma dourada gigante a segura. Caso ela falhe num teste de sabedoria CD 13 + fth terá a condição agarrado. No início de cada turno dela ela pode repetir o teste ao custo de três ações, até se libertar.
+**Descrição:** Selecione uma criatura alvo no alcance da magia. Apenas na mente da criatura alvo uma palma dourada gigante a segura. Caso ela falhe num teste de sabedoria CD 13 + fth terá a condição agarrado. No início de cada turno dela ela pode repetir o teste ao custo de três ações, até se libertar. Ignora imunidade à condição agarrado, e pode ser usada independente do tamanho do alvo.

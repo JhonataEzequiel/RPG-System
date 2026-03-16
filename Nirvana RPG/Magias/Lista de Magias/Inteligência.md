@@ -206,6 +206,8 @@ Caminho de Gelo: 6 de inteligência. Elemental.
 
 Batida Pesada: 6 de inteligência ou Carisma. Imaculada.
 
+Toque Necrótico: 6 de inteligência, 6 de fé. Sortilégio.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.

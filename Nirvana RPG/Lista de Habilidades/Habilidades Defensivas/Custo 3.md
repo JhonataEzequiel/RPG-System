@@ -37,4 +37,12 @@ O próximo ataque que você receber causará apenas metade do dano. O restante d
 
 **Requisitos**: 5 de constituição, 5 de sabedoria.
 
-Você agora é imune a quaisquer efeitos advindos da velhice, e a própria velhice, permanecendo sempre jovem. Você é incapaz de morrer por causas naturais, como doenças adquiridas naturalmente com o passar do tempo. Você pode adicionar o seu modificador de sabedoria e de constituição a qualquer teste que for fazer, mas não recupera mais vida e mana em descansos.
+Você agora é imune a quaisquer efeitos advindos da velhice, e a própria velhice, permanecendo sempre jovem. Você é incapaz de morrer por causas naturais, como doenças adquiridas naturalmente com o passar do tempo. Você pode adicionar o seu modificador de sabedoria ou constituição a qualquer teste que for fazer.
+
+## Pacto Derradeiro
+
+**Requisitos**: 3 de constituição, 3 de fé. Precisa ter sido nocauteado ao menos uma vez.
+
+Ao pegar essa habilidade, você abdica de sua capacidade de recuperar vida e mana em descansos longos. Em troca, você se torna imune a nocautes. Todo dano que você recebe enquanto está com 0 pontos de vida é considerado negativo. Ao atingir a quantidade de pontos de vida máximos que você tem como dano negativo, você morrerá. Descansos longos curam o dano negativo acumulado, mas não restauram pontos de vida normais. 
+
+A única forma de curar dano negativo é por descansos longos. Isso é representado através de uma comunicação externa com a entidade ou divindade que você fez o pacto. Se o pacto for feito como uma espécie de promessa a si mesmo de não tombar mais em combate, o descanso longo será como uma meditação.
