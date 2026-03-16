@@ -142,14 +142,23 @@ Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus 
 
 Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus sortilégios que causem dano sombrio. Esse aumento só é aplicado caso a magia cause dano sombrio, e quaisquer outros tipos de dano são ignorados, inclusive se você modificar a magia com o uso da habilidade "Fogo Fátuo". A ativação dessa habilidade custa mana apenas para colher as almas, não para usar o dano extra.
 
-O dano aumentado é igual ao número de almas colhidas, com um teto de 100, e ele é adicionado ao final da rolagem de dano e de qualquer multiplicador. Este dano extra só funcionará em um sortilégio que você conjure por descanso longo, à sua escolha. 
+O que você colhe não é a alma de fato da criatura, pois isso a impediria de seguir o ciclo natural, mas sim parte da essência vital dela, como uma fonte de energia que a estava mantendo viva, e se separou do corpo. Você pode pensar nisso como sendo apenas parte da alma, não ela por completo. Para critérios de simplificação, serão chamadas apenas de "almas".
 
-A criatura que terá sua essência vital colhida deve ter sido morta no último encontro que você participou.
+| Quantidade de Almas Coletadas | Aumento de Dano |
+| ----------------------------- | --------------- |
+| 1-10                          | 1d12            |
+| 11-25                         | 2d12            |
+| 26-50                         | 3d12            |
+| 51-75                         | 4d10            |
+| 76-99                         | 5d10            |
+| 100                           | 6d12            |
+
+Você pode escolher uma conjuração de sortilégio para ter o aumento de dano a cada descanso longo ou curto.
 
 ## Deus da Morte
 
 **Requisitos**: Habilidade "Devorador de Almas" de custo 3. 6 de inteligência, 10 de fé.
 
-Essa habilidade terá efeito apenas quando 100 essências vitais sejam colhidas pela habilidade "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por descanso longo. 
+Essa habilidade terá efeito apenas quando 100 essências vitais sejam colhidas pela habilidade "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por descanso longo ou curto. 
 
-Você também pode optar por ter esse bônus de dano em todos os sortilégios de dano. Neste caso, você utilizará de sua própria essência vital para canalizar o dano. Sua vida máxima será o menor valor entre a vida máxima atual e 30 pontos de vida. Você não recuperará vida em descansos longos. Essa escolha é irreversível.
+Você também pode optar por ter esse bônus de dano em um sortilégio de dano por rodada. Neste caso, você utilizará de sua própria essência vital para canalizar o dano. Sua vida máxima será o menor valor entre a vida máxima atual e 30 pontos de vida. Você não recuperará vida em descansos curtos. Essa escolha é irreversível.

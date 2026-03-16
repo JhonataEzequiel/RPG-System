@@ -188,6 +188,8 @@ Raio da Morte: 5 de inteligência, 5 de fé. Sortilégio.
 
 Ordem e Caos: 5 de inteligência, 5 de fé. Sortilégio.
 
+Esticar: 5 de inteligência ou carisma. Imaculada.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.
@@ -221,6 +223,8 @@ Aura Carismática: 8 de inteligência ou carisma. Ilusão.
 Lança de Raio: 8 de inteligência. Elemental.
 
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
+
+Terremoto: 8 de inteligência. Elemental.
 
 ### Custo 9:
 

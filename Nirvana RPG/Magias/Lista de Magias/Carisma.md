@@ -90,6 +90,8 @@ Dragão Azul Devorador: 5 de inteligência, 5 de carisma. Ilusão.
 
 Cópia Ilusória de Ataque: 5 de inteligência, 5 de carisma. Ilusão.
 
+Esticar: 5 de inteligência ou carisma. Imaculada.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.

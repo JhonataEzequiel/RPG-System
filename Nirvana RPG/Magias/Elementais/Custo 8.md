@@ -10,3 +10,14 @@
 Você pode conjurar essa magia uma segunda vez no mesmo turno por apenas uma ação. Neste caso, você precisará fazer uma rolagem de ataque utilizando int como bônus para acertar contra a CA do alvo. O alvo não poderá realizar a salvaguarda neste caso. Esta segunda conjuração também pode ser um ataque crítico.
 
 Você pode gastar 2 pontos de mana adicionais para fazer com que uma área ao redor do local de impacto do raio fique energizada, fazendo com que qualquer um que terminar o seu turno dentro de uma área circular com raio de 3 metros tome 5d6 de dano de raio, e tenha desvantagem em salvaguardas de destreza por um encontro.
+
+### Terremoto
+
+- Requisito em Inteligência: 8
+- Duração: Instantânea
+- Alcance: 1km
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Um pequeno terremoto toma conta de um espaço de 1km de raio centrado em você. Ao conjurar essa magia, todos que estiverem no alcance terão que passar por um teste de resistência de destreza CD 11 + int. Em caso de falha, recebem 4d8 de dano de impacto e tem a condição caído. Em caso de sucesso, recebem apenas o dano. Você é imune aos efeitos dessa magia, mas seus aliados não.
+
+Estruturas tomam 12d8 de dano de impacto.
