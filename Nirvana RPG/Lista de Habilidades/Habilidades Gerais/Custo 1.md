@@ -129,3 +129,9 @@ Explorar o mundo com pouca bagagem é algo que você preza. Você recupera 1d4 a
 ## Refazer
 
 Você pode trocar as magias e arcanos menores que você conhece uma única vez. Essa habilidade pode ser pega mais de uma vez.
+
+## Transferência Arcana
+
+**Requisitos**: 2 de sabedoria.
+
+Você consegue extrair uma pequena esfera de mana do seu corpo, composta por metade da sua mana atual. Ela é azulada, e não é tangível, mas segue o movimento de suas mãos. Ao encostar essa esfera em uma criatura alvo, ela a absorve, recebendo a mana extraída. Você só pode usar essa habilidade uma vez por descanso longo ou curto, e somente fora de combate.

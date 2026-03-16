@@ -114,6 +114,10 @@ Chuva de Morcegos: 5 de inteligência, 5 de fé. Sangue.
 
 Sobrevida: 5 de inteligência, 5 de fé. Sangue.
 
+Raio da Morte: 5 de inteligência, 5 de fé. Sortilégio.
+
+Ordem e Caos: 5 de inteligência, 5 de fé. Sortilégio.
+
 ### Custo 6:
 
 Submissão Cósmica: 6 de fé ou carisma. Sagrada.

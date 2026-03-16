@@ -25,3 +25,10 @@ Gastando 3 de mana uma vez por encontro como ação livre, você pode executar q
 **Requisitos**: 6 de constituição.
 
 Sua gordura corporal se torna mais resistente, podendo ou não afetar a sua aparência (ao seu critério). Caso você sofra dano de raio, gelo, ou fogo, que cause até duas vezes seu nível de constituição, esse dano é anulado.
+
+## Atrasar Dano
+
+**Requisitos**: 10 de constituição.
+**Custo**: ação bônus.
+
+O próximo ataque que você receber causará apenas metade do dano. O restante do dano será postergado, e você o sofrerá quando o encontro acabar como dano verdadeiro. Quanto mais você usar essa habilidade em um mesmo combate, mais dano ficará guardado. Caso você seja nocauteado durante o encontro, o dano guardado é anulado.

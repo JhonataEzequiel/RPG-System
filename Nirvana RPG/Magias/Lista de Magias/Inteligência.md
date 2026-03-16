@@ -184,6 +184,10 @@ Esmagamento de Rochas: 5 de inteligência. Elemental.
 
 Sala de Cirurgia: 5 de inteligência. Imaculada.
 
+Raio da Morte: 5 de inteligência, 5 de fé. Sortilégio.
+
+Ordem e Caos: 5 de inteligência, 5 de fé. Sortilégio.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.

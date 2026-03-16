@@ -135,3 +135,21 @@ Você avança para cima do alvo, golpeando-o com extrema velocidade e força. O 
 
 Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus golpes parecem feixes de luz. Você ataca todos os inimigos no alcance do seu deslocamento ao mesmo tempo, causando o dano de três ataques em cada um deles. Você retorna para a sua posição inicial ao fim do seu turno, e não ativa ataques de oportunidade. Essa habilidade sempre acerta.
 
+## Devorador de Almas
+
+**Requisitos**: 3 de inteligência, 6 de fé.
+**Custo**: 1 ação, 5 de mana.
+
+Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus sortilégios que causem dano sombrio. Esse aumento só é aplicado caso a magia cause dano sombrio, e quaisquer outros tipos de dano são ignorados, inclusive se você modificar a magia com o uso da habilidade "Fogo Fátuo". A ativação dessa habilidade custa mana apenas para colher as almas, não para usar o dano extra.
+
+O dano aumentado é igual ao número de almas colhidas, com um teto de 100, e ele é adicionado ao final da rolagem de dano e de qualquer multiplicador. Este dano extra só funcionará em um sortilégio que você conjure por descanso longo, à sua escolha. 
+
+A criatura que terá sua essência vital colhida deve ter sido morta no último encontro que você participou.
+
+## Deus da Morte
+
+**Requisitos**: Habilidade "Devorador de Almas" de custo 3. 6 de inteligência, 10 de fé.
+
+Essa habilidade terá efeito apenas quando 100 essências vitais sejam colhidas pela habilidade "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por descanso longo. 
+
+Você também pode optar por ter esse bônus de dano em todos os sortilégios de dano. Neste caso, você utilizará de sua própria essência vital para canalizar o dano. Sua vida máxima será o menor valor entre a vida máxima atual e 30 pontos de vida. Você não recuperará vida em descansos longos. Essa escolha é irreversível.
