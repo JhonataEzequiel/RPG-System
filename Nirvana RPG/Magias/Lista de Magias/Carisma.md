@@ -100,7 +100,11 @@ Despistar: 6 de carisma ou inteligência. Ilusão.
 
 Nuvem Voadora: 6 de inteligência ou carisma. Imaculada.
 
-Batida Pesada: 6 de inteligência ou Carisma. Imaculada.
+Batida Pesada: 6 de inteligência ou carisma. Imaculada.
+
+Ritmo de Cura: 6 de fé ou carisma. Sagrada.
+
+Fim dos Tempos: 6 de carisma, 6 de inteligência. Ilusão.
 
 ### Custo 7:
 
@@ -119,6 +123,8 @@ Gaia: 9 de carisma. Sagrada.
 Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 
 Mansão Mental: 9 de inteligência, 9 de carisma. Ilusão.
+
+Psicose: 9 de inteligência, 9 de carisma. Ilusão.
 
 ### Custo 10:
 

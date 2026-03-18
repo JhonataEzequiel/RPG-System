@@ -130,6 +130,10 @@ Redenção Tardia: 6 de fé. Sagrada.
 
 Toque Necrótico: 6 de inteligência, 6 de fé. Sortilégio.
 
+Ritmo de Cura: 6 de fé ou carisma. Sagrada.
+
+Esfera Vampírica: 6 de fé, 6 de inteligência. Sangue.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.

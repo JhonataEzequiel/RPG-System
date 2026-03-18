@@ -135,3 +135,11 @@ Você pode trocar as magias e arcanos menores que você conhece uma única vez. 
 **Requisitos**: 2 de sabedoria.
 
 Você consegue extrair uma pequena esfera de mana do seu corpo, composta por metade da sua mana atual. Ela é azulada, e não é tangível, mas segue o movimento de suas mãos. Ao encostar essa esfera em uma criatura alvo, ela a absorve, recebendo a mana extraída. Você só pode usar essa habilidade uma vez por descanso longo ou curto, e somente fora de combate.
+
+## Empréstimo
+
+**Requisitos**: 2 de carisma. Um aliado com o qual você tenha compartilhado ao menos três descansos longos.
+
+Você aprendeu uma maneira de transferir conhecimento apenas por ter uma aliança com alguém, criando um laço de amizade e aprendendo como aquela pessoa pensa.
+
+Você pode pegar emprestada uma habilidade de um aliado seu. Ao ter um descanso longo, ele voluntariamente entrega essa habilidade para você. Você ignora os requisitos de atributo dela, mas ainda terá que cumprir quaisquer outros. O seu aliado não poderá usar a habilidade dele enquanto você estiver com ela, e você só pode devolvê-la ao ter um descanso longo. Seu aliado deve ter o descanso longo junto de você para que possa pegar a habilidade emprestada, e também para devolvê-la.

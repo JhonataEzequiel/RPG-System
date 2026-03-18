@@ -17,3 +17,19 @@ Caso você comande a criatura a entrar em combate contra um inimigo, ela decidir
 - Tempo de Conjuração: 3 ações
 
 **Descrição:** Você escolhe um local dentro do alcance. Uma ajuda divina vem ao seu chamado, afetando uma área circular de 9m de raio com o centro sendo o local escolhido. Depois de duas rodadas, todos as criaturas com tendência boa se curam em metade da vida máxima deles. Além disso, criaturas com tendência maligna tomam 2d8 + fth de dano radiante, e tem o deslocamento reduzido em 3m por duas rodadas. 
+
+### Ritmo de Cura
+
+- Requisito em Fé ou Carisma: 6
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: ação bônus
+
+**Descrição:** Você se conecta com a fonte de poder das suas magias e habilidades de cura, seja ela uma divindade, um poder extraído da natureza, ou qualquer outra coisa. Sempre que conjurar uma magia de cura durante o encontro, o alvo da cura receberá os seguintes bônus, todos válidos apenas durante o próximo turno dele:
+
+- +6m de deslocamento;
+- +3 para acertar ataques;
+- +1 na CD para evitar efeitos negativos de magias conjuradas pelo alvo;
+- +3 de dano em ataques.
+
+Você não se beneficia dos efeitos desta magia.
