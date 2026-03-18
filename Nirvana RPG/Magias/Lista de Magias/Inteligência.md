@@ -232,6 +232,8 @@ Devorar Cérebro: 7 de inteligência, 7 de fé. Sangue.
 
 Tempestade Negra: 7 de inteligência, 7 de fé. Sortilégio.
 
+Pintura Perdida: 7 de inteligência, 7 de fé. Sangue.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.

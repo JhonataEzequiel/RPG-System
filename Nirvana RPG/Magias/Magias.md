@@ -18,7 +18,7 @@ Magias de ilusão afetam a mente de um ou mais alvos. Os efeitos são diversos, 
 
 ### Magias de Sangue
 
-Magias de sangue utilizam ou do seu sangue, ou do sangue de algum alvo, ou das duas coisas para ter efeitos diversos, variando de magias de ataque, controle de grupo, ou de suporte. Tem como requisitos tanto fé quanto inteligência.
+Magias de sangue utilizam ou do seu sangue, ou do sangue de algum alvo, ou das duas coisas para ter efeitos diversos, variando de magias de ataque, controle de grupo, ou de suporte. Tem como requisitos tanto fé quanto inteligência. Caso você tenha pontos de vida temporários eles não poderão ser usados para conjurar magias de sangue, apenas os seus pontos de vida normais. No entanto, você não perderá os pontos de vida temporários para outros fins, como receber dano.
 
 ### Magias Elementais
 

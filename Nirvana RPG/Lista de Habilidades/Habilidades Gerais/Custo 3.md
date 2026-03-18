@@ -132,6 +132,12 @@ Você larga todo o equipamento que estiver carregando, com exceção de armas eq
 
 Seus grimórios agora flutuam ao seu redor quando você precisar utilizar uma magia contida neles, não mais necessitando que você os segure, assim liberando a mão que antes seria ocupada. Você pode ter até 3 grimórios ao mesmo tempo.
 
+## Mente Incansável
+
+**Requisitos**: 6 de sabedoria.
+
+Quando você tiver um descanso longo, escolha uma habilidade, magia, ou efeito que só possa ser utilizado uma vez por descanso longo. Essa escolha poderá ser utilizada duas vezes até o próximo descanso longo. Além disso, adicione 1d6 + sab de pontos de mana permanentemente.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.

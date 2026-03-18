@@ -11,3 +11,15 @@
 O alvo não pode ser libertado da incapacitação enquanto não receber o dano necessário, ou for protegido pela duração da magia. Nenhuma magia, poção, ou teste poderá quebrar essa incapacitação além desses dois métodos.
 
 Você pode gastar 1 ponto de mana adicional para aumentar a CD do teste em 1 ponto, com limite de 3 pontos.
+
+### Pintura Perdida
+
+- Requisito em Inteligência: 7
+- Requisito em Fé: 7
+- Duração: Instantânea
+- Alcance: 18m
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Sangue começa a sair de um de seus dedos indicadores, e você agora pode desenhar no ar a imagem de alguém. Mesmo que você não seja muito bom com desenhos, ele sairá perfeito. Essa criatura escolhida precisa estar no alcance da magia. Você escolhe quanto sangue irá utilizar.
+
+Cada 1 ponto de vida gasto, o inimigo receberá 2 de dano verdadeiro. Esse dano verdadeiro não é de sangue, é simplesmente um dano causado ao alvo como uma maldição que deteriora o corpo dele.
