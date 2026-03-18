@@ -106,6 +106,8 @@ Ritmo de Cura: 6 de fé ou carisma. Sagrada.
 
 Fim dos Tempos: 6 de carisma, 6 de inteligência. Ilusão.
 
+Comunicação Onírica: 6 de carisma ou inteligência. Ilusão.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -139,3 +141,5 @@ Duplicata: 10 de inteligência ou carisma. Ilusão.
 Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
+
+Midas: 10 de inteligência, 10 de carisma. Imaculada.

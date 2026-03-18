@@ -134,6 +134,8 @@ Ritmo de Cura: 6 de fé ou carisma. Sagrada.
 
 Esfera Vampírica: 6 de fé, 6 de inteligência. Sangue.
 
+Hiposfagma: 6 de fé, 6 de inteligência. Sangue.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.

@@ -214,6 +214,12 @@ Ventania: 6 de inteligência. Elemental.
 
 Esfera Vampírica: 6 de fé, 6 de inteligência. Sangue.
 
+Comunicação Onírica: 6 de carisma ou inteligência. Ilusão.
+
+Hiposfagma: 6 de fé, 6 de inteligência. Sangue.
+
+Azul: 6 de inteligência. Imaculada.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
@@ -291,3 +297,5 @@ Buraco Negro: 10 de inteligência, 10 de fé. Sortilégio.
 Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
+
+Midas: 10 de inteligência, 10 de carisma. Imaculada.

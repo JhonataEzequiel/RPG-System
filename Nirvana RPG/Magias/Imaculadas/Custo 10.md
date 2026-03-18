@@ -33,3 +33,15 @@ O local é um círculo em branco com paredes invisíveis ao redor dele. Do lado 
 **Descrição:** Você altera o código fonte da realidade. Você pode apagar uma regra existente do jogo, modificá-la, ou adicionar uma nova. Você pode modificar qualquer aspecto do jogo. O mestre tem poder de veto, e você pode tentar barganhar com ele. Ele pode impor uma condição ao que você deseja realizar, e vocês podem chegar num acordo.
 
 Você só pode conjurar essa magia uma vez. Essa magia também não pode ser transformada ou encontrada em forma de pergaminho. Essas são as únicas regras que não podem ser alteradas.
+
+### Midas
+
+- Requisito em Inteligência: 10
+- Requisito em Carisma: 10
+- Duração: Instantânea
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você toca um alvo, que se torna uma estátua de ouro. Pode ser um objeto ou criatura, e o tamanho não importa. Se você quiser alterar um cenário inteiro, uma área circular com 1km de raio é transformada em ouro, mas criaturas serão imunes a transformação do cenário.
+
+Caso o alvo seja uma criatura, ela terá que passar numa salvaguarda de constituição CD 13 + int + car. Em caso de sucesso, recebe 8d8 + int + car de dano verdadeiro. Se fracassar, é transformado em uma estátua de ouro. A criatura não está morta, e o efeito pode ser revertido caso alguém seja capaz de fazê-lo, seja por uma magia ou qualquer outra coisa capaz de fazer isso.
