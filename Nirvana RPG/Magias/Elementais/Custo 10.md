@@ -41,3 +41,12 @@ Você pode gastar 2 pontos de mana adicionais para causar 12d12 + inteligência 
 Ao chegar ao final do trajeto ou colidir com um obstáculo — seja parte do cenário ou uma criatura — a esfera explode, causando 20d8 + int de dano de fogo em uma área esférica de 9m. Criaturas na área da explosão podem tentar desviar com um teste de resistência de destreza CD 15 + int; em caso de sucesso, recebem apenas metade do dano. O chão no local da explosão também pega fogo, e qualquer criatura que encerre seu turno na área recebe 4d8 + int de dano de fogo, sem direito a salvaguarda.
 
 Após o fim da duração, as chamas do rastro e do local da explosão se dissipam completamente.
+
+### Trovão Flamejante
+
+- Requisito em Inteligência: 10
+- Duração: Instantânea
+- Alcance: 48m
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você conjura um raio que viaja em direção a um alvo, assumindo a forma de um dragão voador por um breve período de tempo. O dragão se desfaz no impacto, gerando uma corrente elétrica e explodindo em chamas ao mesmo tempo. As chamas ficam concentradas em um único ponto, como um turbilhão, portanto não afetam múltiplos alvos. É impossível desviar desta magia, mas é possível evitar o dano de fogo se o alvo for particularmente resiliente. Caso o alvo falhe em um teste de resistência de constituição CD 15 + int, ele recebe 10d8 + int de dano de raio e 6d12 + int de dano de fogo. Em caso de sucesso, recebe apenas o dano de raio.

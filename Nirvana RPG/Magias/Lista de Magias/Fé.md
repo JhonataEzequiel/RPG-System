@@ -148,6 +148,10 @@ Tempestade Negra: 7 de inteligência, 7 de fé. Sortilégio.
 
 Pintura Perdida: 7 de inteligência, 7 de fé. Sangue.
 
+Sangue Perfurante: 7 de inteligência, 7 de fé. Sangue.
+
+Floresta de Ossos: 7 de inteligência, 7 de fé. Sortilégio.
+
 ### Custo 8:
 
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
@@ -165,6 +169,8 @@ Revelação: 9 de fé. Sagrada.
 Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
 
 Rosa Sangrenta: 10 de inteligência, 8 de fé. Sangue.
+
+Peão: 9 de inteligência, 9 de fé. Sangue.
 
 ### Custo 10:
 

@@ -234,6 +234,14 @@ Tempestade Negra: 7 de inteligência, 7 de fé. Sortilégio.
 
 Pintura Perdida: 7 de inteligência, 7 de fé. Sangue.
 
+Sangue Perfurante: 7 de inteligência, 7 de fé. Sangue.
+
+Explosão Atrasada: 7 de inteligência. Elemental.
+
+Cubo de Ácido: 7 de inteligência. Elemental.
+
+Floresta de Ossos: 7 de inteligência, 7 de fé. Sortilégio.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
@@ -265,6 +273,8 @@ Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 Rosa Sangrenta: 10 de inteligência, 8 de fé. Sangue.
 
 Psicose: 9 de inteligência, 9 de carisma. Ilusão.
+
+Peão: 9 de inteligência, 9 de fé. Sangue.
 
 ### Custo 10:
 
@@ -301,3 +311,5 @@ Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
 
 Midas: 10 de inteligência, 10 de carisma. Imaculada.
+
+Trovão Flamejante: 10 de inteligência. Elemental.
