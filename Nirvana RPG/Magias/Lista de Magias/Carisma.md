@@ -114,9 +114,25 @@ Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
 
 Doppelganger: 7 de inteligência ou carisma. Ilusão.
 
+Horrípilo: 7 de inteligência, 7 e carisma. Ilusão.
+
+Mente Conectada: 7 de inteligência, 7 de carisma. Ilusão.
+
+Bestas Selvagens: 7 de carisma. Sagrada.
+
+Sonho de Fogo: 7 de inteligência, 7 de carisma. Imaculada.
+
 ### Custo 8:
 
 Aura Carismática: 8 de inteligência ou carisma. Ilusão.
+
+Arrancar Psiquê: 8 de inteligência, 8 de carisma. Ilusão.
+
+Repouso Gentil: 8 de inteligência ou carisma. Ilusão.
+
+Luz Resplandescente: 8 de carisma ou fé. Sagrada.
+
+Curar Maldições: 8 de carisma, 8 de fé. Sagrada.
 
 ### Custo 9:
 
@@ -127,6 +143,14 @@ Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 Mansão Mental: 9 de inteligência, 9 de carisma. Ilusão.
 
 Psicose: 9 de inteligência, 9 de carisma. Ilusão.
+
+Horror de Argila: 9 de inteligência, 9 de carisma. Ilusão.
+
+Cura Suprema: 9 de fé ou carisma. Sagrada.
+
+Midas: 9 de inteligência, 9 de carisma. Imaculada.
+
+Trio da Mana: 9 de fé, 9 de inteligência, 9 de carisma. Imaculada.
 
 ### Custo 10:
 
@@ -141,5 +165,3 @@ Duplicata: 10 de inteligência ou carisma. Ilusão.
 Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
-
-Midas: 10 de inteligência, 10 de carisma. Imaculada.

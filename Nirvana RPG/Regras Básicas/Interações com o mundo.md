@@ -24,7 +24,9 @@ Os bônus em si podem variar dependendo do teste, mas geralmente são os modific
 
 ## Testes
 
-Os testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um teste para ultrapassar a CA do oponente.
+Os testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um teste para ultrapassar a CA do oponente. 
+
+É possível que dois jogadores realizem um teste ao mesmo tempo caso o mestre permita. Por exemplo, se você deseja realizar um teste de uma perícia, e seu companheiro pergunta se pode ajudar, e o mestre permitir, você terá vantagem naquele teste.
 
 ## Salvaguardas (ou testes de resistência)
 

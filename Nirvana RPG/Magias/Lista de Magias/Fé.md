@@ -152,6 +152,10 @@ Sangue Perfurante: 7 de inteligência, 7 de fé. Sangue.
 
 Floresta de Ossos: 7 de inteligência, 7 de fé. Sortilégio.
 
+Sutra: 7 de fé. Sagrada.
+
+Singularidade Perfeita: 7 de fé, 7 de inteligência. Sortilégio.
+
 ### Custo 8:
 
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
@@ -159,6 +163,12 @@ Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
 Banir: 8 de fé. Sagrada.
 
 Ruína: 8 de inteligência, 8 de fé. Sortilégio.
+
+Luz Resplandescente: 8 de carisma ou fé. Sagrada.
+
+Curar Maldições: 8 de carisma, 8 de fé. Sagrada.
+
+Espada de Ossos: 8 de fé, 8 de inteligência. Sortilégio.
 
 ### Custo 9:
 
@@ -171,6 +181,12 @@ Contaminação: 9 de inteligência, 9 de fé. Sortilégio.
 Rosa Sangrenta: 10 de inteligência, 8 de fé. Sangue.
 
 Peão: 9 de inteligência, 9 de fé. Sangue.
+
+Cura Suprema: 9 de fé ou carisma. Sagrada.
+
+Trio da Mana: 9 de fé, 9 de inteligência, 9 de carisma. Imaculada.
+
+Quebra Ossos: 9 de fé, 9 de inteligência. Sortilégio.
 
 ### Custo 10:
 

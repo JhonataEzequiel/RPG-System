@@ -23,3 +23,13 @@ Caso a criatura obtenha sucesso no teste, recebe apenas 4d6 + car de dano psíqu
 **Descrição:** Você toca uma criatura alvo, que terá que passar por uma salvaguarda de sabedoria CD 12 + int + car. 
 
 Em caso de falha, o alvo entra em um estado de choque imediato, se desconectando da realidade. O alvo confundirá amigos com inimigos, ouvirá vozes estranhas, sentirá toques e cheiros que não existem, acreditará que está sendo perseguido por alguém, etc. O alvo fica incapacitado pela duração, e não pode se libertar por conta própria, sendo necessário ajuda externa de alguma forma, como uma magia capaz de curar condições. Ele recebe dano psíquico contínuo enquanto a condição durar de 4d8 + int + car. Em caso de sucesso, o dano cai pela metade e o alvo não fica incapacitado, mas terá -3 em ataques pelo resto do encontro.
+
+### Horror de Argila
+
+- Requisito em Inteligência: 9
+- Requisito em Carisma: 9
+- Duração: 1 encontro
+- Alcance: 18m
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você escolhe uma criatura alvo no alcance da magia. A mente dela é temporariamente transportada para uma dimensão esquisita, aonde ela se verá em uma sala fechada, com uma mesa e uma figura de argila em cima, retratando uma entidade desconhecida. Ao ver esta cena, ela terá que passar por um teste de resistência de inteligência CD 13 + int + car. Após realizar o teste, a mente do alvo volta ao dono. Em caso de falha, se ele te olhar uma vez sequer verá o rosto da entidade desconhecida no lugar do seu, e receberá 4d8 + int + car de dano psíquico contínuo, além de ficar amedrontado. Ele pode escolher fechar os olhos e ter a condição cego, e se fizer isso, não poderá mais atacar enquanto não abrir os olhos. Em caso de sucesso, recebe apenas 4d8 + int + car de dano psíquico uma única vez.

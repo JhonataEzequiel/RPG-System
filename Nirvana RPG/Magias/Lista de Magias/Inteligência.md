@@ -242,6 +242,16 @@ Cubo de Ácido: 7 de inteligência. Elemental.
 
 Floresta de Ossos: 7 de inteligência, 7 de fé. Sortilégio.
 
+Horrípilo: 7 de inteligência, 7 de carisma. Ilusão.
+
+Mente Conectada: 7 de inteligência, 7 de carisma. Ilusão.
+
+Sonho de Fogo: 7 de inteligência, 7 de carisma. Imaculada.
+
+Ouro no Lixo: 7 de inteligência. Imaculada.
+
+Singularidade Perfeita: 7 de fé, 7 de inteligência. Sortilégio.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
@@ -257,6 +267,14 @@ Terremoto: 8 de inteligência. Elemental.
 Domo de Gelo: 8 de inteligência. Elemental.
 
 Ruína: 8 de inteligência, 8 de fé. Sortilégio.
+
+Arrancar Psiquê: 8 de inteligência, 8 de carisma. Ilusão.
+
+Repouso Gentil: 8 de inteligência ou carisma. Ilusão.
+
+Meteorito: 8 de inteligência. Imaculada.
+
+Devorar Matéria: 8 de inteligência. Imaculada.
 
 ### Custo 9:
 
@@ -275,6 +293,14 @@ Rosa Sangrenta: 10 de inteligência, 8 de fé. Sangue.
 Psicose: 9 de inteligência, 9 de carisma. Ilusão.
 
 Peão: 9 de inteligência, 9 de fé. Sangue.
+
+Horror de Argila: 9 de inteligência, 9 de carisma. Ilusão.
+
+Midas: 9 de inteligência, 9 de carisma. Imaculada.
+
+Trio da Mana: 9 de fé, 9 de inteligência, 9 de carisma. Imaculada.
+
+Quebra Ossos: 9 de fé, 9 de inteligência. Sortilégio.
 
 ### Custo 10:
 
@@ -309,7 +335,5 @@ Buraco Negro: 10 de inteligência, 10 de fé. Sortilégio.
 Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
-
-Midas: 10 de inteligência, 10 de carisma. Imaculada.
 
 Trovão Flamejante: 10 de inteligência. Elemental.
