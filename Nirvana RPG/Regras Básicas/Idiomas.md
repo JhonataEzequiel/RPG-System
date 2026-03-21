@@ -1,4 +1,4 @@
-Seu personagem, por padrão, fala "comum", o idioma central mais falado por todas as raças. Existem outros idiomas que irão depender do cenário da campanha, e de quem o fala. Alguns exemplos são:
+Seu personagem, por padrão, fala "Comum", o idioma central mais falado por todas as raças. Existem outros idiomas que irão depender do cenário da Campanha, e de quem o fala. Alguns exemplos são:
 
 Feérico: falado por fadas e seres mágicos.
 Demoníaco: falado for seres ínferos.

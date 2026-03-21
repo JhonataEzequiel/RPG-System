@@ -1,10 +1,10 @@
-O nível de um personagem determinará o quão apto para encarar certos desafios ele está. O nível médio do grupo é calculado dividindo a soma dos níveis por 4. Esse nível médio será o critério utilizado pelo mestre para determinar os desafios que o grupo enfrentará, como monstros, testes, dentre outras coisas. Um jogador pode aumentar seu nível adquirindo pontos de experiência.
+O Nível de um personagem determinará o quão apto para encarar certos desafios ele está. O Nível Médio do grupo é calculado dividindo a soma dos Níveis por 4. Esse Nível Médio será o critério utilizado pelo mestre para determinar os desafios que o grupo enfrentará, como monstros, Testes, dentre outras coisas. Um jogador pode aumentar seu Nível adquirindo Pontos de Experiência.
 
 # Evoluindo Além do Nível 1
 
-### Calculando XP
+### Calculando Pontos de Experiência (XP)
 
-Os pontos de experiência de um jogador ditarão se ele é capaz de subir de nível ou não. Existem 3 modos de jogo que o mestre deverá optar, e que determinará a velocidade que os jogadores aumentam de nível. O mestre também pode arbitrariamente escolher uma outra quantidade de XP para os jogadores evoluírem de nível.
+Os Pontos de Experiência de um jogador ditarão se ele é capaz de subir de Nível ou não. Existem 3 modos de jogo que o mestre deverá optar, e que determinará a velocidade que os jogadores aumentam de nível. O mestre também pode arbitrariamente escolher uma outra quantidade de XP para os jogadores evoluírem de Nível.
 
 | Modo     | XP Para Evoluir |
 | -------- | --------------- |
@@ -42,39 +42,39 @@ Arredondando o nível médio para baixo, teremos as seguintes recompensas em XP:
 
 ## Recompensas Por Subir de Nível
 
-Uma vez adquirido XP para subir de nível será necessário ter um descanso longo para ganhar as recompensas. O XP sobressalente contará para o progresso do próximo nível. 
+Uma vez adquirido XP para subir de Nível será necessário ter um Descanso Longo para ganhar as recompensas. O XP sobressalente contará para o progresso do próximo Nível. 
 
 ## Pontos de Vida e Mana Adicionais
 
-Ao evoluir de nível você ganhará mais pontos de vida e mana. Você pode optar por adicionar novos pontos de duas maneiras: rolando os dados, ou pegando o valor médio deles. 
+Ao evoluir de Nível você ganhará mais Pontos de Vida e Pontos de Mana. Você pode optar por adicionar novos Pontos de duas maneiras: **rolando** os dados, ou pegando o **valor médio** deles. 
 
-Se optar por rolar os dados, você rolará seu dado de vida e adicionará o resultado ao seu modificador de constituição. Após isso, juntará os dois nos seus pontos de vida máximos. Analogamente, fará o mesmo com a mana, mas utilizando seu dado de mana e seu modificador de sabedoria.
+Se optar por rolar os dados, você rolará seu Dado de Vida e adicionará o resultado ao seu Modificador de Constituição. Após isso, juntará os dois nos seus Pontos de Vida Máximos. Analogamente, fará o mesmo com a Mana, mas utilizando seu Dado de Mana e seu Modificador de Sabedoria.
 
-Se optar pelo valor médio, você dividirá o número máximo possível com seu dado de vida ou mana, e somará ao modificador correspondente, adicionando os resultados ao seu total máximo de cada um.
+Se optar pelo valor médio, você dividirá o número máximo possível com seu Dado de Vida ou Dado de Mana, e somará ao modificador correspondente, adicionando os resultados ao seu total máximo de cada um.
 
-Caso sua constituição tenha valor negativo, você não somará o modificador. Caso sua sabedoria seja 0 ou inferior, você receberá apenas 1 de mana por nível.
+Caso sua constituição tenha valor **negativo**, você não somará o modificador. Caso sua sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana por Nível.
 
 ## Pontos de Atributo e Habilidade
 
-Os jogadores receberão pontos de atributo e habilidade para utilizarem da maneira que quiserem, seguindo a tabela a seguir:
+Os jogadores receberão Pontos de Atributo e Pontos de Habilidade para utilizarem da maneira que quiserem, seguindo a tabela a seguir:
 
 | Nível Novo do Jogador | Pontos Ganhos |
 | --------------------- | ------------- |
 | 5, 10, 15, ou 20      | +2            |
 | Outros                | +1            |
 
-## Ganho de perícias adicionais
+## Ganho de Perícias Adicionais
 
-Você pode optar por não gastar seus pontos de habilidade e escolher novas perícias no lugar. A quantidade de perícias que você pode adquirir em um único nível são duas. No total, você só pode adquirir uma quantidade de perícias igual ao seu modificador de sabedoria. Cada perícia é um ponto de habilidade.
+Você pode optar por não gastar seus Pontos de Habilidade e escolher novas Perícias no lugar. A quantidade de Perícias que você pode adquirir em um único Nível são **duas**. No total, você só pode adquirir uma quantidade de Perícias igual ao seu Modificador de Inteligência. O custo de  cada Perícia é um Ponto de Habilidade.
 
-A exceção a essa regra é o nível 20, aonde você poderá tanto adquirir perícias, quanto habilidades, visto que você não poderá guardar mais os seus pontos de habilidade.
+A exceção a essa regra é o Nível 20, aonde você poderá tanto adquirir Perícias, quanto Habilidades, visto que você não poderá guardar mais os seus Pontos de Habilidade.
 
-### Habilidades de raça, habilidades de atributos, ou magias
+### Habilidades de Raça, Habilidades de Atributos, ou Magias
 
-Sua raça pode ou não conceder habilidades que aumentam conforme o nível. 
+Sua raça pode ou não conceder habilidades que aumentam conforme o Nível. 
 
-Algumas habilidades de atributos tem suas características aumentadas quando se sobe de nível, concedendo mais poder de ataque, duração, dentre outras coisas.
+Algumas habilidades de atributos tem suas características aumentadas quando se sobe de Nível, concedendo mais poder de ataque, duração, dentre outras coisas.
 
-### Indo além do nível 20
+### Indo Além do Nível 20
 
-Caso o mestre permita, é possível ir além do nível 20. Neste caso, cada nível subsequente te concederá um ponto de atributo e um ponto de habilidade. O restante continua igual, você ganha pontos de vida e mana como sempre.
+Caso o mestre permita, é possível ir além do Nível 20. Neste caso, cada Nível subsequente te concederá um Ponto de Atributo e um Ponto de Habilidade. O restante continua igual, você ganha Pontos de Vida e Pontos de Mana como sempre.

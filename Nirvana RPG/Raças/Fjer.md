@@ -4,16 +4,16 @@ Os Fjer são uma raça de pássaros humanoides que possuem a habilidade de se ap
 
 O Fjer é capaz de possuir objetos por tempo indefinido, mas seu corpo original fica vulnerável durante esse período. Algumas regras se aplicam:
 
-- **Morte do corpo original:** Caso o corpo original receba um golpe fatal, o Fjer morrerá sem ao menos ser nocauteado. O Fjer não sente se o seu corpo estiver sendo atacado.
-- **Requisitos para possuir:** O Fjer só pode possuir um objeto caso esteja ao alcance de seu deslocamento e consiga vê-lo. Não pode se apossar de objetos com acionamento automático, nem de objetos que estejam sendo utilizados por outra criatura.
-- **O que pode ser possuído:** O Fjer só pode possuir objetos, o que inclui cadáveres. Confira as regras de objetos no capítulo [[Elementos do Cenário]] para mais informações.
-- **Habilidades do corpo possuído:** O Fjer pode usar qualquer habilidade inata ao corpo possuído, como conjurar magias de um mago morto.
+- **Morte do Corpo Original:** Caso o corpo original receba um golpe fatal, o Fjer morrerá sem ao menos ser Nocauteado. O Fjer não sente se o seu corpo estiver sendo atacado.
+- **Requisitos Para Possuir:** O Fjer só pode possuir um objeto caso esteja ao alcance de seu deslocamento e consiga vê-lo. Não pode se apossar de Objetos Com Acionamento Automático, nem de objetos que estejam sendo utilizados por outra criatura.
+- **O Que Pode Ser Possuído:** O Fjer só pode possuir objetos, o que inclui cadáveres. Confira as regras de objetos no capítulo [[Elementos do Cenário]] para mais informações.
+- **Habilidades do Corpo Possuído:** O Fjer pode usar qualquer habilidade inata ao corpo possuído, como conjurar magias de um mago morto.
 - **Sentidos:** Caso o objeto não possua sentidos físicos, o Fjer pode escutar, ver, ou sentir qualquer coisa que tocar. Ele também pode trocar de objeto enquanto já está possuindo um. No entanto, não pode falar.
 
-**Cadáveres possuídos:** O objeto possuído terá os pontos de vida iguais aos pontos de vida máximos que tinha antes de morrer, caso se trate de um cadáver. Caso o cadáver seja morto novamente, o Fjer voltará ao seu corpo original com seus pontos de vida intactos. O cadáver não apodrece enquanto o Fjer o estiver possuindo. Os atributos de inteligência, sabedoria, fé, e carisma do corpo possuído serão sempre os maiores entre os do cadáver e os do Fjer.
+**Cadáveres Possuídos:** O objeto possuído terá os pontos de vida iguais aos pontos de vida máximos que tinha antes de morrer, caso se trate de um cadáver. Caso o cadáver seja morto novamente, o Fjer voltará ao seu corpo original com seus pontos de vida intactos. O cadáver não apodrece enquanto o Fjer o estiver possuindo. Os atributos de inteligência, sabedoria, fé, e carisma do corpo possuído serão sempre os maiores entre os do cadáver e os do Fjer.
 
 ## Voar
 
-**Custo:** ação bônus.
+**Custo:** Ação Bônus.
 
-Os Fjer são naturalmente capazes de voar, podendo atacar e realizar qualquer ação que não exija estar no chão enquanto em voo. Seu deslocamento é dobrado quando voam.
+Os Fjer são naturalmente capazes de voar, podendo atacar e realizar qualquer ação que não exija estar no chão enquanto em voo. Seu Deslocamento é dobrado quando voam.

@@ -2,23 +2,23 @@
 
 ## Escolha de atributos
 
-Os jogadores irão iniciar no nível 1, podendo chegar até o nível 20. No nível um, os jogadores terão 7 pontos disponíveis para distribuir entre os 7 atributos diferentes, que começarão em 0.
+Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, você terá 7 Pontos de Atributo disponíveis para distribuir entre os 7 atributos diferentes, que começarão em 0.
 
 ## Limitação Inicial
 
-Você pode optar por tirar pontos de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes pontos em outro atributo, ignorando o limite de nível máximo de um atributo. Um atributo com valor negativo tem seu modificador negativo também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em destreza e -6 em força, você não poderá ter mais limitações.
+Você pode optar por tirar Pontos de atributo de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes Pontos de atributo em outro atributo, ignorando o limite de Nível Máximo de Um Atributo. Um atributo com valor **negativo** tem seu modificador **negativo** também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações.
 
-Os 7 pontos iniciais do nível um ainda seguirão a limitação de nível máximo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma limitação inicial.
+Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de Nível Máximo de Atributo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma Limitação Inicial.
 
 ## Escolha de habilidades
 
-No nível 1, você possui dois pontos de habilidade para gastar como quiser. Você pode guardar esses pontos e utilizá-los em outro momento.
+No Nível 1, você possui dois Pontos de Habilidade para gastar como quiser. Você pode guardar esses pontos e utilizá-los em outro momento.
 
 ## Pontos de Vida
 
-Todo personagem terá um dado de vida diferente, que aumentará conforme o nível de constituição. Esse dado de vida determinará os pontos de vida iniciais, os subsequentes, e a cura garantida após um descanso curto. Você não gasta os dados de vida ao ter um descanso curto. Eles servem apenas para dizer quanto você vai curar. No nível 1, seus pontos de vida serão o número máximo do seu dado de vida mais seu modificador de constituição.
+Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição. Esse Dado de Vida determinará os Pontos de Vida Iniciais, os subsequentes, e a cura garantida após um Descanso Curto. Você não gasta os Dados de Vida ao ter um descanso curto. Eles servem apenas para dizer quanto você vai curar. No Nível 1, seus Pontos de Vida serão o número **máximo** do seu Dado de Vida mais seu Modificador de Constituição.
 
-| Nível de Constituição | Dado de vida |
+| Nível de Constituição | Dado de Vida |
 | --------------------- | ------------ |
 | <0                    | 1d4          |
 | 0                     | 1d6          |
@@ -35,13 +35,13 @@ Todo personagem terá um dado de vida diferente, que aumentará conforme o níve
 
 ## Pontos de Mana
 
-Concede ao personagem o potencial de obter e utilizar mana, além de conjurar magias e arcanos menores. O dado de mana funciona similarmente ao dado de vida, concedendo mana adicional a cada nível de sabedoria. A quantidade de magias e arcanos menores que poderão ser equipados ao mesmo tempo aumenta conforme a quantidade de sabedoria, assim como a quantidade de magias que podem ser aprendidas. 
+Todos podem utilizar mana de alguma maneira, além de conjurar magias e arcanos menores. Para tal, você receberá um Dado de Mana. O Dado de Mana funciona similarmente ao Dado de Vida, concedendo Mana adicional a cada Nível de Sabedoria. A quantidade de magias e arcanos menores que poderão ser equipados ao mesmo tempo aumenta conforme a quantidade de Sabedoria, assim como a quantidade de magias que podem ser aprendidas. 
 
-Ao melhorar seu atributo de sabedoria, você poderá escolher novas magias da lista de magias de acordo com o número listado em "Magias Conhecidas" na tabela abaixo. Você pode escolher até magias de nível alto, mas deverá atender aos requisitos para usá-las.
+Ao melhorar seu atributo de sabedoria, você poderá escolher novas magias da lista de magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma magia se não atender primeiro aos requisitos dela.
 
-O número de magias preparadas nunca poderá ser maior que o de magias conhecidas, caso o número de magias preparadas venha a ser maior do que o de conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer caso alguma habilidade deixe você preparar mais magias, e isto acabe por ultrapassar o número de magias conhecidas.
+O número de Magias Preparadas nunca poderá ser maior que o de Magias Conhecidas, caso o número de Magias Preparadas venha a ser maior do que o de Magias Conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer caso alguma Habilidade deixe você preparar mais magias, e isto acabe por ultrapassar o número de Magias Conhecidas.
 
-No nível 1, seus pontos de mana serão o maior número possível do seu dado de vida mais o seu modificador de sabedoria. Caso sua sabedoria seja 0 ou inferior, sua mana inicial será 1.
+No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Vida mais o seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
 
 | Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
@@ -57,14 +57,14 @@ No nível 1, seus pontos de mana serão o maior número possível do seu dado de
 | 9                  | 25                | 15                 | 10                         | 5                           | 1d8          |
 | 10                 | 28                | 18                 | 10                         | 5                           | 2d4          |
 
-Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 pontos de mana em qualquer teste que for realizar (3 pontos por teste), adicionando este número ao resultado final. Os pontos de mana gastos podem ser recuperados normalmente.
+Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente.
 ## Equipamento inicial
 
-Você começará com 25 peças de ouro que poderá gastar da maneira que quiser com qualquer item do capítulo de [[Equipamentos]]. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.
+Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item do capítulo de [[Equipamentos]]. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.
 
 ## Escolha de perícias
 
-Após você terminar de realizar as etapas anteriores, você precisará escolher um número de perícias igual a 2 + int, até um limite de 5 perícias. Ou seja, se o jogador tiver 2 de inteligência, ele poderá escolher 3 perícias. Com 4 de inteligência, poderá escolher 4. Com 10 de inteligência, poderá escolher apenas 5. As perícias em si estão detalhadas no capítulo de [[Perícias]].
+Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. Ou seja, se o jogador tiver 2 de Inteligência, ele poderá escolher 3 Perícias. Com 4 de Inteligência, poderá escolher 4. Com 10 de Inteligência, poderá escolher apenas 5. As Perícias em si estão detalhadas no capítulo de [[Perícias]].
 
 ## História de Origem
 

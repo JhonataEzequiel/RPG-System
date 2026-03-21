@@ -1,4 +1,4 @@
-Os atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso o jogador opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de atributos totais são 7, sendo eles: constituição, força, destreza, sabedoria, inteligência, fé, e carisma. Você receberá pontos de atributo para investir como quiser, tanto no nível 1, quanto nos níveis subsequentes.
+Os atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso o jogador opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de atributos totais são 7, sendo eles: Constituição, Força, Destreza, Sabedoria, Inteligência, Fé, e Carisma. Você receberá pontos de atributo para investir como quiser, tanto no nível 1, quanto nos níveis subsequentes.
 
 Os atributos terão um limite de nível máximo que aumentará conforme seu nível, seguindo a tabela a seguir:
 
@@ -29,7 +29,7 @@ A destreza de um personagem é o atributo chave para realizar atividades que nec
 
 ## Sabedoria
 
-Ideal para classes mágicas, esse atributo ditará a quantidade de magias que se pode equipar ao mesmo tempo e a quantidade de mana disponível. Representa a experiência prática, a percepção do mundo, e conhecimento adquirido pela vivência.
+Ideal para personagens mágicos, esse atributo ditará a quantidade de magias que se pode equipar ao mesmo tempo e a quantidade de mana disponível. Representa a experiência prática, a percepção do mundo, e conhecimento adquirido pela vivência e, portanto, pode também ser o foco de personagens não-mágicos caso queiram se aproveitar de outras características deste atributo.
 
 ## Inteligência
 
@@ -41,26 +41,20 @@ Várias magias se beneficiam deste atributo. O dano causado e a cura concedida a
 
 ## Carisma
 
-Normalmente é utilizado fora de combate, mas também pode ser usado para desbloquear e usar certas magias de suporte ou druídicas. Este atributo é responsável por ditar o quão bem alguém é em inteligência interpessoal, e o quão bem é visto pelos outros indivíduos.
+Normalmente é utilizado fora de combate, mas também pode ser usado para desbloquear e usar certas magias de suporte, druídicas, e de ilusão. Este atributo é responsável por ditar o quão bem alguém é em inteligência interpessoal, e o quão bem é visto pelos outros indivíduos.
 
 ## Modificadores
 
-Os modificadores são calculados da seguinte maneira:
+Os modificadores serão valores derivados dos atributos, correspondendo a metade do valor total, arredondado para baixo. Servirão em testes, cuja as regras estão detalhadas no capítulo de [[Interações com o mundo]]. O modificador é representado pela sigla de seu atributo, sendo elas:
 
-$Modificador=atributo/2$
-
-Caso o número for fracionado, arredonde para baixo.
-
-Os modificadores servirão em testes, que serão detalhados mais a frente. O modificador é representado pela sigla de seu atributo, sendo elas:
-
-- Constituição: “con”
-- Força: “for”
-- Destreza: “dex”
-- Sabedoria: “sab”
-- Inteligência: "int"
-- Fé: “fth”
-- Carisma: “car”
+- Constituição: “Con”
+- Força: “For”
+- Destreza: “Dex”
+- Sabedoria: “Sab”
+- Inteligência: "Int"
+- Fé: “Fth”
+- Carisma: “Car”
 
 Caso a sigla esteja em algum lugar das regras de algo, será o modificador que deverá ser usado. Caso não, o atributo em si é que contará.
 
-É possível que o jogador se depare com algo parecido com isso: "2d4 + (int ou fth)", isso significa que ele poderá escolher um dos dois modificadores para usar.  Caso apareça algo como "2d4 + (int e fth)", os dois modificadores deverão ser usados.
+É possível que o jogador se depare com algo parecido com isso: "2d4 + Int ou Fth", isso significa que ele poderá escolher um dos dois modificadores para usar.  Caso apareça algo como "2d4 + Int + Fth", os dois modificadores deverão ser usados.

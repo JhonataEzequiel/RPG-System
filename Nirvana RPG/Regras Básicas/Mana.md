@@ -1,1 +1,1 @@
-Determina o vigor mental de um personagem. Servirão como um medidor de poder para usuários de magia. O atributo de sabedoria determina a sua quantidade de mana. Algumas habilidades também podem exigir mana para executar alguma ação.
+Determina o vigor mental de um personagem. Servirá como um medidor de poder para usuários de magia, ditando quantas e quais podem ser conjuradas. O atributo de Sabedoria determina a sua quantidade de mana. Algumas habilidades também podem exigir mana para executar alguma ação.
