@@ -65,7 +65,7 @@ Os jogadores receberão Pontos de Atributo e Pontos de Habilidade para utilizare
 
 ## Ganho de Perícias Adicionais
 
-Você pode optar por não gastar seus Pontos de Habilidade e escolher novas Perícias no lugar. A quantidade de Perícias que você pode adquirir em um único Nível são **duas**. No total, você só pode adquirir uma quantidade de Perícias igual ao seu Modificador de Inteligência. O custo de  cada Perícia é um Ponto de Habilidade.
+Você pode optar por não gastar seus Pontos de Habilidade e escolher novas Perícias no lugar. A quantidade de Perícias que você pode adquirir em um único Nível são **duas**. No total, você só pode adquirir uma quantidade de Perícias menor do que cinco. O custo de cada Perícia é um Ponto de Habilidade.
 
 A exceção a essa regra é o Nível 20, aonde você poderá tanto adquirir Perícias, quanto Habilidades, visto que você não poderá guardar mais os seus Pontos de Habilidade.
 

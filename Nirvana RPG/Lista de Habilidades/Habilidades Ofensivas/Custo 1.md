@@ -111,7 +111,7 @@ Seus ataques desarmados agora ficam mais fortes de acordo com seu nível de for�
 
 **Requisitos**: 1 de sabedoria.
 
-Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus ataques desarmados são fortalecidos. Adicione seu modificador de sabedoria aos seus golpes desarmados. Esse dano adicional causa dano de impacto. Você também pode escolher que seus ataques desarmados causem dano de impacto com uma ação livre.
+Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus ataques desarmados são fortalecidos. Adicione seu modificador de sabedoria aos seus golpes desarmados. Esse dano adicional causa dano de impacto. Você também pode escolher que seus ataques desarmados causem dano radiante com uma ação livre.
 
 ## Corte Ilusório
 
