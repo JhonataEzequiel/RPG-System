@@ -2,94 +2,87 @@ Batalhas acontecerão o tempo todo, e podem se desenrolar de várias maneiras di
 
 ## Encontros
 
-Um encontro é definido por qualquer envolvimento dos personagens do jogador de maneira conflituosa com outros personagens ou com eles mesmos, aonde se inicia um combate.
+Um Encontro é definido por qualquer envolvimento dos personagens do jogador de maneira conflituosa com outros personagens ou com eles mesmos, aonde se inicia um combate.
 
-Um encontro é equivalente a 10 minutos no mundo do jogo. Então, caso uma magia ou habilidade tenha como duração 1 encontro, e os personagens estiverem fora de combate, considere como sendo 10 minutos de duração.
+Um Encontro é equivalente a 10 minutos no mundo do jogo. Então, caso uma magia ou habilidade tenha como duração 1 encontro, e os personagens estiverem fora de combate, considere como sendo 10 minutos de duração.
 
 ## Iniciativa
 
-A iniciativa determinará quem irá agir primeiro quando um combate for iniciado. Assim como os jogadores, os inimigos e monstros também terão que rolar iniciativa. A iniciativa é calculada fazendo com que cada um dos presentes no combate rolem um d20 e somem ao modificador de destreza. Quem tirar o maior resultado será o primeiro a atacar, seguido pelo segundo maior, e por ai vai. Caso dois participantes tirem o mesmo resultado, eles vão rolar novamente o teste para decidir qual dos dois irá primeiro. Caso os dois sejam aliados, eles podem escolher juntos a ordem.
-
-$Iniciativa = D20+dex$
+A Iniciativa determinará quem irá agir primeiro quando um combate for iniciado. Assim como os jogadores, os inimigos e monstros também terão que rolar Iniciativa. A Iniciativa é calculada fazendo com que cada um dos presentes no combate rolem 1d20 e somem ao Modificador de Destreza. Quem tirar o maior resultado será o primeiro a atacar, seguido pelo segundo maior, e por ai vai. Caso dois participantes tirem o mesmo resultado, eles vão rolar novamente o teste para decidir qual dos dois irá primeiro. Caso os dois sejam aliados, eles podem escolher juntos a ordem.
 
 ## Turnos e rodadas
 
-Cada jogador terá um turno aonde poderá decidir o que vai fazer durante um combate. Um turno dura em média 10 segundos no mundo dos personagens, mas o jogador poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três ações diferentes em seu turno, com exceção, é claro, das ações bônus, que podem ser usadas independentemente desse limite, e de ações livres. O custo em ações estará detalhado em cada habilidade. Uma rodada é a junção dos turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu turno, a rodada acaba e começa-se outra.
+Cada jogador terá um Turno aonde poderá decidir o que vai fazer durante um combate. Um Turno dura em média 10 segundos no mundo dos personagens, mas o jogador poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três Ações diferentes em seu turno, com exceção, é claro, das Ações Bônus, que podem ser usadas independentemente desse limite, e de Ações Livres. O custo em Ações estará detalhado em cada habilidade. Uma Rodada é a junção dos Turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu Turno, a Rodada acaba e outra começa.
 
-Algumas vezes a duração de certas habilidades e magias será de uma rodada. Quando fora de combate, considere essa duração como sendo de 1 minuto.
+Algumas vezes a duração de certas habilidades e magias será de uma Rodada. Quando fora de combate, considere essa duração como sendo de 1 minuto.
 
 ## Magias
 
-Magias tem suas próprias regras detalhadas em um capítulo só para elas. No entanto, para critérios de simplificação de combate, quando uma habilidade ou regra se referir a "magias", também estarão inclusos os arcanos menores, a não que seja especificado o contrário. É possível também que afetem apenas os arcanos menores e, neste caso, essa informação será clara na descrição da regra ou habilidade.
+Magias tem suas próprias regras detalhadas em um capítulo só para elas. No entanto, para critérios de simplificação de combate, quando uma habilidade ou regra se referir a "magias", também estarão inclusos os arcanos menores, a não ser que seja especificado o contrário. É possível também que afetem apenas os arcanos menores e, neste caso, essa informação será clara na descrição da regra ou habilidade.
 
 Por exemplo, caso uma habilidade amplifique o dano de magias de fogo, estarão inclusos os arcanos menores de fogo, mas se a habilidade especificar que apenas o dano dos arcanos menores de fogo aumentará, então as magias em si não serão afetadas.
 
-Magias sempre acertam o alvo, a menos que a descrição da magia especifique o contrário. Algumas magias permitem que o alvo realize uma salvaguarda para evitar ou reduzir o efeito total.
+Magias sempre acertam o alvo, a menos que a descrição da magia especifique o contrário. Algumas magias permitem que o alvo realize uma Salvaguarda para evitar ou reduzir o efeito total.
 
 ## Penalidade de Ações
 
-É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, utilizar a mesma magia, ou atacar mais do que uma vez num turno ele terá penalidades, por exemplo: se ele atacar na primeira ação, caso ele queira bater de novo ele terá -5 na segunda rolagem. Caso use a mesma ação descrita três vezes seguida, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidade de Ações" ou "Penalidade de Ataque".
+É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, Atacar múltiplas vezes no seu turno, ele sofrerá penalidades. Por exemplo: se ele Atacar na primeira Ação, e queira Atacar de novo ele terá -5 na segunda rolagem. Caso use a mesma Ação descrita três vezes seguida, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidade de Ações" ou "Penalidade de Ataque".
 
 ## Ataques
 
-Ataques são definidos por tentativas do jogador de causar dano a um inimigo sem ser por meio direto de uma magia.
+Ataques são definidos por tentativas do jogador de causar dano a um inimigo sem ser por meio direto de uma magia, ou por inimigos causando dano a algum personagem do jogador através de ataques físicos.
 
-Para um ataque obter sucesso ele precisará penetrar a armadura do oponente (CA). O jogador usará o modificador especificado em seu ataque para realizar esse teste. Caso ocorra um acerto crítico, o dano total que for infligido dobrará. Caso ocorra um erro crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
-
-## Ataques Com Empunhadura Dupla
-
-Se o jogador optar por usar duas armas de uma mão ao mesmo tempo, suas penalidades por ataques subsequentes aumentarão em relação a uma arma só. De -5 no segundo ataque irá para -10, e de -10 no terceiro para -15. É possível se livrar dessas penalidades adicionais conseguindo habilidades que proporcionem isso.
+Para um Ataque obter sucesso ele precisará penetrar a armadura do oponente (CA). O jogador usará o modificador especificado em seu Ataque para realizar esse Teste. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
 
 ## Ataques de Oportunidade
 
-Caso você tente andar ou correr e passar no alcance de um inimigo com o intuito de passar por ele, o inimigo pode te atacar. Isso não conta como uma reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta andar ou correr de você.
+Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito de passar por ele, ou de fugir dele, o inimigo pode te atacar. Isso não conta como uma reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta Andar ou Correr de você.
 
-Ataques de oportunidade também impedem quaisquer outras ações de movimento.
+Ataques de Oportunidade também impedem quaisquer outras Ações de movimento.
 
 ## Ataques Desarmados
 
-Os ataques desarmados causam, por padrão, 1d4 + for ou dex de dano de impacto, à sua escolha. Você pode escolher se um ataque desarmado será não letal.
+Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de **Impacto**, à sua escolha. Você pode escolher se um Ataque Desarmado será não-letal.
 
 ## Ataques de Magia
 
-Existem vários tipos de magias de ataque, e a maioria não requer um teste para acertar o adversário. Quando for necessário estará escrito na descrição da magia. Normalmente é o alvo que tem que realizar uma salvaguarda para desviar (a CD é especificada pela magia), ou evitar algum efeito negativo da magia. E mesmo que a maioria das magias num geral custem mais do que uma ação, ainda existem certas magias que custam apenas uma. Sendo de ataque ou não, tais magias ainda estarão sujeitas as penalidades de ações no mesmo turno, caso você opte por utilizá-la várias vezes em seguida.
+Existem vários tipos de magias de ataque, e a maioria não requer um Teste para acertar o adversário. Quando for necessário estará escrito na descrição da magia. Normalmente é o alvo que tem que realizar uma Salvaguarda para desviar (a CD é especificada pela magia), ou evitar algum efeito negativo da magia. Se você precisar realizar um Teste de Ataque com a magia, ela estará sujeita as Penalidades de Ações.
 
 ## Arremessar
 
-Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro ataque, e não utilizará nenhum atributo como bônus a priori, podendo conseguir isto através de habilidades. Arremessar não se beneficia de habilidades que melhoram ataques num geral, nem conta para a penalidade de ações. As habilidades que influenciam sua capacidade de arremessar itens deixarão isso explicito na descrição delas.
+Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um Ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro Ataque, e não utilizará nenhum atributo como bônus a priori, podendo conseguir isto através de habilidades. Arremessar não se beneficia de habilidades que melhoram ataques num geral, nem conta para a Penalidade de Ações. As habilidades que influenciam sua capacidade de Arremessar itens deixarão isso explicito na descrição delas.
 
-Ademais, o alcance de seus arremessos é igual ao seu modificador de força em metros mais seu deslocamento. Arremessar, num geral, custa uma ação, seja para causar dano a um inimigo ou não. Poções não tem efeito quando arremessadas.
+Ademais, o alcance de seus arremessos é igual ao seu Modificador de Força em metros mais seu Deslocamento. Arremessar, num geral, custa uma Ação, seja para causar dano a um inimigo ou não. Poções não tem efeito quando arremessadas.
 
 ## Coeficiente de Armadura (CA)
 
-Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. Ela é calculada da seguinte maneira:
+Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. A CA é calculada da seguinte maneira:
 
-$CA = ArmaduraAtual+for+dex$
-
-A armadura atual diz respeito a proteção externa utilizada pelo personagem, caso ele não possua armadura atual, ela será considerada como 10. Para critérios lúdicos, o coeficiente de armadura é tanto a capacidade de suportar um ataque sem tomar dano, ou de desviar dele. Isto dependerá do tipo de personagem, e de como o mestre irá narrar o ataque em si.
-
+$$
+CA = 10 + For + Dex + ArmaduraEquipada
+$$
 ## Dano de armas, magias, e ataques dos monstros
 
 O dano é representado pela quantidade de dados que deverá ser rolada para chegar ao resultado e o atributo ao qual o modificador será usado (algumas vezes o modificador pode não ser usado). 
 
-Exemplo: se na descrição de um ataque diz que o dano será de 1d8 + for, ele irá rolar um dado de 8 lados e adicionar o modificador de força ao dano. Isso se aplica a qualquer fonte de dano.
+Exemplo: se na descrição de um ataque diz que o dano será de 1d8 + For, ele irá rolar um dado de 8 lados e adicionar o Modificador de Força ao dano. Isso se aplica a qualquer fonte de dano.
 
 ## Ações lendárias
 
-Alguns monstros possuirão ações lendárias, que são ações que podem ser usadas a qualquer momento, sem custo algum, até mesmo fora do turno dos monstros. As ações lendárias estarão na descrição dos monstros caso eles as possuam. Normalmente são dadas apenas a criaturas extremamente fortes. As ações lendárias são algo bem específico, como um monstro poder atacar ou usar uma magia fora de seu turno, o que não engloba tudo que se pode realizar numa ação normal.
+Alguns monstros possuirão Ações Lendárias, que são Ações que podem ser usadas a qualquer momento, sem custo algum, até mesmo fora do Turno dos monstros. As Ações Lendárias estarão na descrição dos monstros caso eles as possuam. Normalmente são dadas apenas a criaturas extremamente fortes. As Ações Lendárias são algo bem específico, como um monstro poder Atacar ou usar uma magia fora de seu Turno, o que não engloba tudo que se pode realizar numa Ação.
 
-Algumas das habilidades deixam você utilizar algum tipo de ação fora de seu turno, modificando o fluxo do combate. Estas não são ações lendárias, mas funcionam de maneira similar.
+Algumas das habilidades deixam você utilizar algum tipo de Ação fora de seu Turno, modificando o fluxo do combate. Estas não são Ações Lendárias, mas funcionam de maneira similar.
 
 ## Áreas de Efeito
 
-Existem alguns tipos diferentes de áreas de efeito, as quais são utilizadas por ataques, magias, habilidades, dentre outras coisas. 
+Existem alguns tipos diferentes de Áreas de Efeito, as quais são utilizadas por Ataques, magias, habilidades, dentre outras coisas. 
 
-**Circular (ou esférica)**: uma área circular é definida por um ponto central e um raio.
+**Circular (ou esférica)**: uma Área Circular é definida por um ponto central e um raio.
 
-**Cone**: um cone é definido como uma área que se expande a partir do ponto de origem, atingindo sua largura máxima na extremidade.
+**Cone**: um Cone é definido como uma área que se expande a partir do ponto de origem, atingindo sua largura máxima na extremidade.
 
-**Cubo (ou quadrática)**: uma área cúbica centrada em um ponto.
+**Cubo (ou quadrática)**: uma Área Cúbica centrada em um ponto.
 
-**Cilindro**: uma área circular com altura, como uma coluna ou tornado.
+**Cilindro**: uma Área Circular com altura, como uma coluna ou tornado.
 
 **Linha**: uma área estreita e longa em linha reta a partir do ponto de origem, como um raio ou jato.

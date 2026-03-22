@@ -22,9 +22,9 @@ Armas vem em 3 tipos diferentes: leves, comuns, e de empunhadura dupla. Elas tam
 
 Leves: Você pode ter uma arma leve em cada mão, equipando-as ao mesmo tempo, causando o dano de cada uma em um ataque só, ao custo de duas ações. Você ainda pode atacar com apenas uma, e isto custará apenas uma ação.
 
-Comuns: Você pode equipar uma arma comum em cada mão naturalmente. Assim como as armas leves, você pode atacar com as duas ao mesmo tempo ao custo de duas ações, mas terá -3 para acertar o ataque. Fora isso, armas comuns são todas aquelas que não tem uma característica que os diferencia das demais.
+Comuns: Você pode equipar uma arma comum em cada mão naturalmente. Assim como as armas leves, você pode atacar com as duas ao mesmo tempo ao custo de duas ações, mas terá -2 para acertar o ataque. Fora isso, armas comuns são todas aquelas que não tem uma característica que os diferencia das demais.
 
-Empunhadura Dupla: Tratam-se de armas mais pesadas ou longas, sendo necessário empunhá-las com uma mão. Por padrão, é impossível empunhar duas dessas ao mesmo tempo, ou utilizá-las em uma mão só.
+Empunhadura Dupla: Tratam-se de armas mais pesadas ou longas, sendo necessário empunhá-las com duas mãos. Por padrão, é impossível empunhar duas dessas ao mesmo tempo, ou utilizá-las em uma mão só.
 
 Além desses três tipos, existem as armas à distância. No campo de "aumento de alcance" dessas armas está descrito a distância máxima do ataque à distância. Caso alguém realize um ataque em que o alvo se encontra mais distante do que o aceito, o ataque terá desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de 1 ação para recarregar antes de realizar um ataque à distância, já os arcos funcionam normalmente.
 

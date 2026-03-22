@@ -56,7 +56,7 @@ Caso sua constituição tenha valor **negativo**, você não somará o modificad
 
 ## Pontos de Atributo e Habilidade
 
-Os jogadores receberão Pontos de Atributo e Pontos de Habilidade para utilizarem da maneira que quiserem, seguindo a tabela a seguir:
+Você receberá Pontos de Atributo e Pontos de Habilidade para utilizarem da maneira que quiser, seguindo a tabela a seguir:
 
 | Nível Novo do Jogador | Pontos Ganhos |
 | --------------------- | ------------- |
