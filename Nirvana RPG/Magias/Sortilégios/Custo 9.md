@@ -22,3 +22,13 @@ Você pode gastar 5 pontos de mana adicionais para estender a duração da magia
 - Tempo de Conjuração: 2 ações
 
 **Descrição:** Você controla os ossos de uma criatura alvo que falhe em um teste de resistência de constituição CD 10 + int + fth, quebrando-os. A criatura recebe 18d6 + int + fth de dano verdadeiro em caso de falha. Em caso de sucesso, não recebe dano, e fica imune a essa magia pelo resto do encontro.
+
+### Melancolia Sombria
+
+- Requisito em Inteligência: 9
+- Requisito em Fé: 9
+- Duração: 1 encontro
+- Alcance: 36m
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você escolhe até três criaturas alvo no alcance da magia. Pequenas caveiras flutuantes aparecem e começam a sobrevoar os alvos. Elas são intangíveis, mas sussurram maldições que somente os alvos conseguem ouvir. Cada alvo perderá 2 pontos na CA, tem -2 para acertar ataques, e toda a cura feita aos alvos é diminuída pela metade até o fim da duração da magia.
