@@ -302,6 +302,8 @@ Trio da Mana: 9 de fé, 9 de inteligência, 9 de carisma. Imaculada.
 
 Quebra Ossos: 9 de fé, 9 de inteligência. Sortilégio.
 
+Melancolia Sombria: 9 de fé, 9 de inteligência. Sortilégio.
+
 ### Custo 10:
 
 Cair da Noite: 10 de inteligência, 10 de fé. Sortilégio.
@@ -337,3 +339,5 @@ Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
 
 Trovão Flamejante: 10 de inteligência. Elemental.
+
+Livro do Fim: 10 de inteligência, 10 de carisma. Ilusão.

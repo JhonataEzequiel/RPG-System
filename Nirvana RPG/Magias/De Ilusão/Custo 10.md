@@ -60,3 +60,15 @@ Você tem imunidade total a quaisquer danos mágicos, e a dano verdadeiro de qua
 **Descrição:** O espaço negro é uma dimensão mental que pouquíssimas pessoas conseguem acessar, e quando conseguem, fogem dela o mais rápido possível. Ela representa tudo aquilo que as pessoas desejam reprimir, as escondendo nas partes mais profundas da psiquê. Você acessa essa região mental, encarando as piores partes sobre você que não quer admitir, e vendo seus traumas em primeira mão. Apesar disso, você volta de lá com uma força mental maior, amplificando o efeito de suas magias.
 
 Você deverá passar por três testes que aumentam de dificuldade a cada um. O primeiro será um teste de resistência de constituição CD 3 + int + car. Caso seja bem sucedido, suas magias custam -1 de mana pela duração. O segundo será um teste de resistência de sabedoria CD 5 + int + car. Caso seja bem sucedido, a CD para resistir a efeitos negativos de suas magias aumenta em 2 pontos pela duração. O terceiro e último teste será um teste de resistência de carisma CD 10 + int + car. Caso seja bem sucedido, o custo de suas magias diminuirá em mais dois pontos, totalizando -3. Você pode optar por passar por quantos testes quiser. Caso falhe em qualquer um deles, você reduzirá o custo das magias em 1 ponto, mas terá a condição amedrontado até o início do seu próximo turno. Não há como curar ou ser imune a essa condição.
+
+### Livro do Fim
+
+- Requisito em Inteligência: 10
+- Requisito em Carisma: 10
+- Duração: Permanentemente
+- Alcance: Toque
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você conjura um pequeno livro em suas mãos, que toma a aparência que você desejar. Este livro conterá todas as informações sobre a vida de uma criatura alvo que você toque. Você saberá tudo sobre ela, inclusive as estatísticas da criatura, suas possíveis ações, trejeitos, etc. 
+
+Uma vez conjurado o livro, você gastará uma Ação para ler o conteúdo dele, tendo então todas as informações mencionadas. Você também pode gastar outras 3 ações e mais 10 pontos de mana para se inserir no livro, alterando permanentemente as memórias daquela criatura. Você pode escrever o que quiser, desde que não afete a criatura negativamente. Por exemplo, você pode escrever que é um tio distante de um ladrão que foi alvo da sua magia, mas não pode escrever que o matou quando bebê. A criatura que falhar num teste de resistência de carisma CD 12 + int + car sofrerá os efeitos, mas caso ela seja bem sucedida, receberá 8d10 + int + car de dano psíquico. Você pode alterar a memória da criatura quantas vezes quiser, mas para isso terá que gastar mais três ações e 10 de mana sempre que fizer. Uma vez que a criatura tenha sua memória alterada, ela sempre falhará nos testes para resistir a novas alterações.

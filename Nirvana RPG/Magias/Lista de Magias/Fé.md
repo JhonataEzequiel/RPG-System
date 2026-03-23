@@ -188,6 +188,8 @@ Trio da Mana: 9 de fé, 9 de inteligência, 9 de carisma. Imaculada.
 
 Quebra Ossos: 9 de fé, 9 de inteligência. Sortilégio.
 
+Melancolia Sombria: 9 de fé, 9 de inteligência. Sortilégio.
+
 ### Custo 10:
 
 Éden: 10 de carisma ou fé. Sagrada.

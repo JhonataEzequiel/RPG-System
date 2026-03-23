@@ -84,10 +84,12 @@ Caso você falhe em identificar o ponto cego do alvo, você perde seu turno e a 
 
 **Requisitos**: Habilidade "Presa Ato III" de custo 2. 6 de destreza, 4 de inteligência. Ser capaz de realizar um ataque a distância.
 **Custo**: 3 ações.
+**Alcance**: O alcance normal de seu ataque a distância + 48m.
+**Duração**: 1 encontro.
 
-Você realiza um ataque a distância que sempre acerta o seu alvo. O alvo pode realizar um teste de resistência de constituição CD 12 + dex para diminuir o dano recebido em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do ataque, seu ataque sempre irá acertar. Você também consegue acertar um ataque a distância ainda que o inimigo fuja para outro plano de existência. 
+Você realiza um ataque a distância que sempre acerta o seu alvo. O alvo pode realizar um teste de resistência de constituição CD 12 + dex para diminuir o dano recebido pelo ataque em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do ataque, seu ataque sempre irá acertar. Você também consegue acertar um ataque a distância ainda que o alvo fuja para outro plano de existência. A partir do próximo turno do alvo ele recebe 1d4 de dano contínuo, que aumenta em 1d4 por rodada.
 
-Além disso, de maneira passiva você sempre pode rolar novamente o dano de ataques a distância, escolhendo o maior valor entre eles.
+**Maior Resultado** (passiva): Você sempre pode rolar novamente o dano de ataques a distância, escolhendo o maior valor entre eles. Isto não se aplica ao dano contínuo do uso principal da Presa Ato IV.
 
 ## Golpe Cromático
 
