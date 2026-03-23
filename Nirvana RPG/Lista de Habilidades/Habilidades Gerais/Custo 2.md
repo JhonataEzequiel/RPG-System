@@ -177,7 +177,7 @@ Além disso, você pode rolar novamente qualquer rolagem uma quantidade de vezes
 
 O valor inicial de sorte é 0.
 
-## Minhas Regras
+## Alterar Chances
 
 **Requisitos**: Habilidade "Sorte" de custo 2.
 
@@ -195,7 +195,7 @@ Você agora não mais usará o d20 para realizar testes de qualquer tipo. No lug
 | 18         | 10         |
 | 19         | 11         |
 | 20         | 12         |
-Os bônus em testes serão metade do usual. Ou seja, você irá dividir por dois a soma de bônus em um determinado teste realizado com os 2d6, e esse bônus não pode ultrapassar o valor 8. A margem de ameaça do 2d6 é inexistente, ou seja, não é possível aumentar a chance de ter acertos críticos, a não ser que outra habilidade permita isso.
+Os bônus em testes serão metade do usual. Ou seja, você irá dividir por dois a soma de bônus em um determinado teste realizado com os 2d6, e esse bônus não pode ultrapassar o valor 5. A margem de ameaça do 2d6 é inexistente, ou seja, não é possível aumentar a chance de ter acertos críticos, a não ser que outra habilidade permita isso.
 
 ## Amado Coiote
 
