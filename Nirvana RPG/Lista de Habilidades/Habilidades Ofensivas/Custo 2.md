@@ -131,3 +131,11 @@ Todos os seus ataques são considerados críticos. Ataques críticos efetuados c
 **Custo**: 1 ação.
 
 Você concentra parte de sua energia vital e a dispara em um ataque a distância. O dano é igual ao do seu ataque desarmado, mas você utilizará apenas o seu modificador de sabedoria como bônus de dano.
+
+## Sem Controle
+
+**Requisitos**: 6 de constituição, 2 de força ou 2 de destreza.
+**Alcance**: 18m
+**Custo**: Ação Bônus, 2 de mana.
+
+Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de raio igual ao alcance dessa habilidade, que falhem num teste de resistência de sabedoria CD 12 + con, só possam realizar ataques ou andar durante a rodada. Essa habilidade deve ser usada ao início de uma rodada, e ignora iniciativa.

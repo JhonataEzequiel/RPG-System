@@ -252,6 +252,8 @@ Ouro no Lixo: 7 de inteligência. Imaculada.
 
 Singularidade Perfeita: 7 de fé, 7 de inteligência. Sortilégio.
 
+Retornar ao Zero: 7 de fé, 7 de inteligência, 7 de carisma. Imaculada.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.

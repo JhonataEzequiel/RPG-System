@@ -177,6 +177,26 @@ Além disso, você pode rolar novamente qualquer rolagem uma quantidade de vezes
 
 O valor inicial de sorte é 0.
 
+## Minhas Regras
+
+**Requisitos**: Habilidade "Sorte" de custo 2.
+
+Você agora não mais usará o d20 para realizar testes de qualquer tipo. No lugar do d20, você usará 2d6, somando o resultado da rolagem dos dois dados. As classes de dificuldade do d20 serão ajustadas seguindo a seguinte tabela:
+
+| CD com d20 | CD com 2d6 |
+| ---------- | ---------- |
+| 1          | 2          |
+| 2-3        | 3          |
+| 4-5        | 4          |
+| 6-8        | 5          |
+| 9-12       | 6-7        |
+| 13-15      | 8          |
+| 16-17      | 9          |
+| 18         | 10         |
+| 19         | 11         |
+| 20         | 12         |
+Os bônus em testes serão metade do usual. Ou seja, você irá dividir por dois a soma de bônus em um determinado teste realizado com os 2d6, e esse bônus não pode ultrapassar o valor 8. A margem de ameaça do 2d6 é inexistente, ou seja, não é possível aumentar a chance de ter acertos críticos, a não ser que outra habilidade permita isso.
+
 ## Amado Coiote
 
 **Requisitos**: 5 de carisma.

@@ -27,3 +27,14 @@ Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas aç�
 - Tempo de Conjuração: 3 ações
 
 **Descrição:** Você consegue transmutar qualquer objeto de, no mínimo, 1 quilo em um item do capítulo de equipamentos. A exceção são os grimórios, itens mágicos, moedas, ou joias. O item escolhido para ser o resultante não tem limitação de peso, e se for mais pesado que 1 quilo, o custo de mana dessa magia já cobre o aumento do peso. Cada vez que você usa essa magia ela fica 1 ponto de mana mais cara, até que você tenha um descanso longo, fazendo o custo retomar ao normal.
+
+### Retornar ao Zero
+
+- Requisito em Inteligência: 7
+- Requisito em Fé: 7
+- Requisito em Carisma: 7
+- Duração: Instantânea
+- Alcance: Ilimitado
+- Tempo de Conjuração: 3 ações
+
+**Descrição:** Você consegue, por um momento, acessar o poder que controla o tempo. Você desfaz a último turno de uma criatura alvo que esteja em combate com você. Ela volta ao estado que estava antes de realizar o turno anterior, mas o perde. A magia falha caso você esteja com menos da metade da mana total.

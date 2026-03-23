@@ -156,6 +156,8 @@ Sutra: 7 de fé. Sagrada.
 
 Singularidade Perfeita: 7 de fé, 7 de inteligência. Sortilégio.
 
+Retornar ao Zero: 7 de fé, 7 de inteligência, 7 de carisma. Imaculada.
+
 ### Custo 8:
 
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.

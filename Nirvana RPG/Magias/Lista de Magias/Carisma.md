@@ -122,6 +122,8 @@ Bestas Selvagens: 7 de carisma. Sagrada.
 
 Sonho de Fogo: 7 de inteligência, 7 de carisma. Imaculada.
 
+Retornar ao Zero: 7 de fé, 7 de inteligência, 7 de carisma. Imaculada.
+
 ### Custo 8:
 
 Aura Carismática: 8 de inteligência ou carisma. Ilusão.

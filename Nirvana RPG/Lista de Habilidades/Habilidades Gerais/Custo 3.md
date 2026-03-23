@@ -138,6 +138,12 @@ Seus grimórios agora flutuam ao seu redor quando você precisar utilizar uma ma
 
 Quando você tiver um descanso longo, escolha uma habilidade, magia, ou efeito que só possa ser utilizado uma vez por descanso longo. Essa escolha poderá ser utilizada duas vezes até o próximo descanso longo. Além disso, adicione 1d6 + sab de pontos de mana permanentemente.
 
+## Sortudo
+
+**Requisitos**: Habilidade "Minhas Regras" de custo 2.
+
+Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. A cada dois pontos adicionais a sua margem de ameaça, você obterá um ponto na margem de ameaça para os 2d6.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
