@@ -28,3 +28,12 @@ No nível 10 de inteligência essa magia causará 3d8 + int de dano de gelo a qu
 - Tempo de Conjuração: 3 ações
 
 **Descrição:** Você cria uma ventania à sua frente em uma área de cone com o comprimento igual ao alcance da magia, empurrando qualquer criatura que esteja no alcance da magia. Todas as criaturas terão que realizar um teste de resistência de destreza CD 13 + int. Caso falhem, serão empurradas em 36m em relação a posição inicial, e receberão 3d12 + int de dano de impacto ao caírem no chão, além da condição caído até o início do próximo turno delas. Em caso de sucesso, são empurrados 18m, mas não recebem nenhuma condição ou dano.
+
+### Sol e a Lua
+
+- Requisito em Inteligência: 6
+- Duração: 1 encontro
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você toca em algum lugar, sendo uma criatura alvo ou não, marcando-a com a marca do sol. Uma pequena imagem de um sol aparece no local tocado. Inicialmente, não tem efeito. Em qualquer outro turno seu após deixar a marca do sol você pode gastar outra ação para tocar novamente no mesmo lugar, criando uma marca da lua que aparece brevemente. Ao fazer isso, o local explode, causando 10d12 + int de dano de fogo. A marca do sol não desaparece antes do fim da duração da magia. Você não pode colocar as duas marcas no mesmo turno.

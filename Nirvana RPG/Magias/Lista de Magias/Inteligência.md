@@ -220,6 +220,8 @@ Hiposfagma: 6 de fé, 6 de inteligência. Sangue.
 
 Azul: 6 de inteligência. Imaculada.
 
+Sol e a Lua: 6 de inteligência. Elemental.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.
