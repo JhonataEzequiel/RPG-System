@@ -20,7 +20,7 @@ Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de atrib
 **Custo**: 1 ação, 2 de mana.
 **Duração**: 2 rodadas.
 
-Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo um poder necrótico fluir entre ambos. No final do seu turno as condições negativas de ambas as criaturas são curadas e elas terão +3 para acertar o próximo ataque. No entanto, ambas terão 7 pontos de vulnerabilidade a dano sombrio, ainda que sejam inicialmente imunes.
+Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo um poder necrótico fluir entre ambos. No final do seu turno as condições negativas de ambas as criaturas são curadas e elas terão +3 para acertar o próximo ataque. No entanto, ambas terão 7 pontos de vulnerabilidade a qualquer dano mágico, ainda que sejam inicialmente imunes.
 
 ## Luz da Madrugada
 
@@ -28,3 +28,24 @@ Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo u
 **Custo**: reação, 1 de mana.
 
 Você ergue uma de suas mãos que não esteja ocupada com um item (com exceção de um símbolo sagrado) para cima quando uma criatura estiver para atacar outra. Uma luz emana de você, fazendo com que ela tenha desvantagem nesse ataque. Você recebe pontos de vida temporários igual ao seu modificador de fé ou carisma, à sua escolha, pelo resto do encontro, que podem se acumular se você usar essa habilidade novamente no mesmo encontro.
+
+## União
+
+**Requisitos**: 3 de carisma, 2 de fé.
+
+Quando um aliado utilizar uma habilidade que adiciona um efeito positivo em alguém, como curá-lo ou aumentar a velocidade de uma criatura alvo, você pode duplicar esse efeito com uma ação livre. A habilidade será utilizada duas vezes. Se a habilidade pede, por exemplo, para escolher uma criatura alvo, seu aliado poderá escolher duas criaturas, ou utilizar o dobro do efeito em uma só.
+
+Você pode fazer isso uma vez por descanso longo. A habilidade usada não pode ser uma passiva.
+
+## Insone
+
+**Requisitos**: 1 de carisma ou fé, 3 de constituição.
+**Duração**: até o próximo descanso curto ou longo.
+
+Você não mais dorme quando tem um descanso qualquer, mas ainda se recupera normalmente apenas descansando parado. Você não mais é afetado pela condição Inconsciente. Além disso, você pode gastar 10 de mana quando estiver tendo um descanso longo para sonhar acordado. Você fecha seus olhos e imagina cenários que normalmente só apareceriam em sonhos. Fazendo isso, você agora possuí uma força intrínseca contra fontes de dano psíquico e de controle mental. Você pode compartilhar esse seu conhecimento com mais 2 outras criaturas, contando o sonho que teve. Ao fazer isso, tanto você quanto as criaturas alvo terão 20 de resistência a dano psíquico, e serão imunes a condição inconsciente. Você recupera 3 de mana para cada criatura escolhida.
+
+## Amigo
+
+**Requisitos**: 5 de carisma ou fé.
+
+Sempre que estiver em um encontro e tiver pelo menos uma criatura aliada consigo, você não poderá causar dano algum. No entanto, você dobra permanentemente o valor do seu atributo de carisma ou fé, à sua escolha, e também cura 3d8 a mais todas as vezes que curar alguém ou a si mesmo. Você ainda poderá se utilizar de quaisquer meios de causar dano, mas o dano será completamente negado. A exceção é se você estiver lutando a sós. Neste caso, essa habilidade é desativada completamente, assim como todos os seus efeitos, incluindo o de dobrar o valor de carisma ou fé.

@@ -52,3 +52,9 @@ Por 3 pontos de mana, você poderá utilizar a outra metade da cura guardada em 
 **Custo**: 3 de mana.
 
 Sempre que arremessar uma poção de cura, você curará o valor padrão da poção, removendo o teto anterior de 10 pontos máximos curados. Você pode gastar 3 ações para curar o valor máximo da poção, independente da quantidade de alvos.
+
+## Descanso Rápido
+
+**Requisitos**: Habilidade "Insone" de custo 2. 3 de fé ou carisma, 8 de constituição.
+
+Você consegue ter um descanso curto em 30 minutos ao invés de 1 hora, e um descanso longo em 4 horas ao invés de 8 horas. Você pode escolher um alvo a mais para a habilidade Insone, mas não recuperará mana por isso.
