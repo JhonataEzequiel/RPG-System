@@ -24,7 +24,7 @@ Gastando 3 de mana uma vez por encontro como ação livre, você pode executar q
 
 **Requisitos**: 6 de constituição.
 
-Sua gordura corporal se torna mais resistente, podendo ou não afetar a sua aparência (ao seu critério). Caso você sofra dano de raio, gelo, ou fogo, que cause até duas vezes seu nível de constituição, esse dano é anulado.
+Sua gordura corporal se torna mais resistente, podendo ou não afetar a sua aparência (ao seu critério). Você tem o dobro de seu nível de constituição como resistência a dano de gelo, fogo, e raio. Além disso, uma vez por descanso longo você pode dobrar essa resistência como uma reação.
 
 ## Atrasar Dano
 
