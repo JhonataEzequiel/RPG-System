@@ -167,7 +167,7 @@ A essência do mundo é a mudança. Você entende que iluminar este caminho para
 
 Durante esta rodada você se torna imune a dano de sortilégio. Além disso, caso acerte um ataque ainda neste turno você terá vantagem em todos os testes que fizer pelo resto do encontro. Isso inclui ataques, testes de atributos, perícias, e também salvaguardas, com exceção das necessárias para se estabilizar. Aliados no raio do seu deslocamento terão +1 em todos os testes até o início do seu próximo turno. Quando acertar o ataque, você também causará 1d6 de dano radiante adicional.
 
-Caso você tenha a habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de agarrado, incapacitado, e nocauteado. Quando juntas, ambas as habilidades se complementam.
+Caso utilize em conjunto com a habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de agarrado, incapacitado, e nocauteado. Quando juntas, ambas as habilidades se complementam.
 
 ## Lua
 
@@ -178,7 +178,7 @@ Apesar de compreender a mudança constante da vida, você procura por outro cami
 
 Durante esta rodada você se torna imune a dano radiante. Além disso, você se cura de quaisquer condições negativas que estiver sobre você, incluindo nocauteado. Esta habilidade pode ser usada quando você estiver nocauteado, e neste caso não custará ação. Você só pode se estabilizar uma vez por descanso longo com esta habilidade. Você também adiciona 3d10 de dano verdadeiro ao seu próximo ataque.
 
-Caso você tenha a habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer teste, com exceção dos testes para se estabilizar. Quando juntas, ambas as habilidades se complementam.
+Caso utilize em conjunto com a habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer teste, com exceção dos testes para se estabilizar. Quando juntas, ambas as habilidades se complementam.
 
 ## Nirvana
 
