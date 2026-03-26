@@ -105,7 +105,9 @@ Você tem -1 em todos os testes de perícias que não sejam atletismo. Em troca,
 
 **Requisitos**: 2 de força ou destreza.
 
-Seus ataques desarmados agora ficam mais fortes de acordo com seu nível de força ou destreza. No nível 2 de qualquer um desses atributos eles causarão 1d6 ao invés de 1d4, no nível 4 causarão 1d8, no nível 6 causarão 2d4, no nível 8 causarão 2d6, e no nível 10 você não mais usará o modificador como bônus, mas sim o atributo.
+Seus punhos agora tem escala B tanto em força, quanto em destreza. Quando você chegar no nível 10 de qualquer um desses atributos, você escolhe uma dessas duas escalas para aumentá-la para A. Ao chegar no nível 14, o outro atributo que não foi escolhido também terá escala A.
+
+Caso você utilize uma arma de punho, ela causará 2d8 a mais de dano, mas suas escalas não serão modificadas.
 
 ## Ki
 
@@ -119,13 +121,15 @@ Você sente e aprende a ter um controle básico sobre a energia vital do seu cor
 
 Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
 
-Você agora pode escolher se seus ataques desarmados causarão dano cortante ou não.
+Você agora pode escolher se seus ataques desarmados causarão dano cortante ou de impacto. Caso você esteja utilizando uma arma de punho que já é capaz de causar dano cortante, o dano cortante dela aumenta em 1d6.
 
 ## Lança Granadas
 
-**Requisitos**: 3 de destreza.
+**Requisitos**: 3 de destreza ou força.
 
-Você agora adiciona seu modificador de destreza a qualquer item arremessável que cause dano. O dano de itens arremessáveis aumenta em 1d8 quando você chegar no nível 8 de destreza. O dano aumentado é igual ao tipo causado pelo item em questão.
+Você agora escolhe se quer utilizar o modificador de força, o de destreza, ou ambos para calcular a distância de arremesso. Além disso, você pode adicionar o modificador de força ou destreza ao dano de itens arremessáveis, à sua escolha. O dano adicional é do mesmo tipo causado pelo item.
+
+Ao atingir o nível 8 em força ou destreza, o dano de itens arremessáveis aumenta em 1d8 do mesmo tipo causado pelo item. Este bônus se aplica ao atributo que você escolher para o dano.
 
 ## Fluxo do Rio
 
@@ -136,12 +140,19 @@ Toda vez que você acertar um ataque físico em um inimigo ele estará como se e
 ## Pontos de Pressão
 
 **Requisitos**: Habilidade "Força Natural" de custo 1. 3 de força ou destreza.
-**Custo**: 3 ações.
+**Custo**: 3 ações, 1 de mana.
 
-Você consegue atacar um alvo em seus pontos de pressão, causando danos significativos. Você deverá passar por três testes nos quais poderá utilizar tanto o modificador de força, quanto o de destreza, à sua escolha. O primeiro terá CD 10, o segundo CD 15, e o terceiro CD 17. Os efeitos em caso de sucesso são os seguintes:
+Você consegue atacar um alvo em seus pontos de pressão, causando danos significativos. Você deverá passar por três testes nos quais poderá utilizar tanto o modificador de força, quanto o de destreza, à sua escolha. Somente ataques desarmados terão efeitos com esta habilidade. O primeiro terá CD 10, o segundo CD 15, e o terceiro CD 17. Os efeitos em caso de sucesso são os seguintes:
 
 | Teste    | Efeito                                                                                                                                                                                                              |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Primeiro | Você causa o dano de um ataque desarmado, e o alvo tem -1 em salvaguardas por 3 rodadas.                                                                                                                            |
 | Segundo  | Você causa o dano de um ataque desarmado, e o alvo tem -3 em salvaguardas pelo resto do encontro. Este efeito substitui o efeito negativo em salvaguardas do primeiro teste.                                        |
 | Terceiro | Você causa o dano de um ataque desarmado, e o alvo fica atordoado por 3 rodadas, além de ter -3 em salvaguardas pelo resto do encontro. Este efeito substitui o efeito negativo em salvaguardas de ambos os testes. |
+
+## Submissão
+
+**Requisitos**: Habilidade "Agarrar" de custo 2.
+**Custo**: 2 ações.
+
+Quando você agarrar um oponente, você pode levá-lo ao chão. Ele terá a condição caído juntamente da condição agarrado. Os efeitos são somados.

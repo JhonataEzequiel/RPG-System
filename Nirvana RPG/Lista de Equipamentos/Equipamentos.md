@@ -18,7 +18,7 @@ Aqui estão os benefícios que cada escala proporciona ao atingir um determinado
 
 Assim como as armaduras, as armas terão pré-requisitos e escala. Os pré-requisitos das armas determinarão se você é capaz de utilizá-las em combate. Caso você não atenda aos requisitos, você ainda poderá utilizar a arma, mas o dano dela será sempre 1, e cada ataque custará 3 ações para ser realizado. Você também não poderá utilizar ataques de oportunidade. Quando uma arma receber bônus de dano da escala, esse bônus é do mesmo tipo de dano da arma. Caso a arma seja capaz de causar múltiplos tipos de dano, você escolherá qual deles será o tipo do bônus. O bônus para acertar um ataque referente ao atributo será igual ao bônus de dano referente ao atributo de uma arma. Por exemplo, a adaga causa 1d4 + dex de dano perfurante, então para acertar o ataque você usará + dex também.
 
-Armas vem em 3 tipos diferentes: leves, comuns, e de empunhadura dupla. Elas também podem variar no alcance, caso sejam longas, aumentando a distância possível para um ataque corpo-a-corpo. Armas longas aumentam o alcance de seus ataques em um valor específico que depende de cada arma.
+Armas vem em 4 tipos diferentes: leves, comuns, de empunhadura dupla, e de punhos. Elas também podem variar no alcance, caso sejam longas, aumentando a distância possível para um ataque corpo-a-corpo. Armas longas aumentam o alcance de seus ataques em um valor específico que depende de cada arma.
 
 Leves: Você pode ter uma arma leve em cada mão, equipando-as ao mesmo tempo, causando o dano de cada uma em um ataque só, ao custo de duas ações. Você ainda pode atacar com apenas uma, e isto custará apenas uma ação.
 
@@ -26,7 +26,9 @@ Comuns: Você pode equipar uma arma comum em cada mão naturalmente. Assim como 
 
 Empunhadura Dupla: Tratam-se de armas mais pesadas ou longas, sendo necessário empunhá-las com duas mãos. Por padrão, é impossível empunhar duas dessas ao mesmo tempo, ou utilizá-las em uma mão só.
 
-Além desses três tipos, existem as armas à distância. No campo de "aumento de alcance" dessas armas está descrito a distância máxima do ataque à distância. Caso alguém realize um ataque em que o alvo se encontra mais distante do que o aceito, o ataque terá desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de 1 ação para recarregar antes de realizar um ataque à distância, já os arcos funcionam normalmente.
+Punho: Armas de punhos se beneficiam de quaisquer habilidades de ataques desarmados. Quando utilizar uma arma de punho, ambas as mãos precisarão estar desocupadas para que se beneficiem de habilidades de ataques desarmados. Estas armas não se beneficiam de habilidades que especificamente afetam armas num geral, sendo atreladas apenas a ataques desarmados. No entanto, se beneficiam normalmente de habilidades que modificam ataques num geral.
+
+Além desses tipos, existem as armas à distância. No campo de "aumento de alcance" dessas armas está descrito a distância máxima do ataque à distância. Caso alguém realize um ataque em que o alvo se encontra mais distante do que o aceito, o ataque terá desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de 1 ação para recarregar antes de realizar um ataque à distância, já os arcos funcionam normalmente.
 
 Os bônus das escalas estão listados abaixo:
 

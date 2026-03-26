@@ -70,3 +70,9 @@ Você agora pode arremessar poções, que caem em um local, afetando uma área c
 **Duração**: 1 rodada.
 
 Você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as penalidades de ataques de até 3 alvos à sua escolha durante a rodada que a música iniciar. Para cada alvo escolhido você terá que gastar 2 de mana. Para continuar com esta canção nos próximos turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de rodadas igual ao número escolhido. Caso o resultado for menor, a canção parará, e caso for maior, ela continuará por uma rodada. Por exemplo, se você escolher 2 e o resultado for 3, a canção continuará por mais uma rodada. Caso escolha 4 e o resultado seja 3, ela irá parar. Caso escolha 4 e o resultado seja 4, ela continuará por mais quatro rodadas. Esta habilidade consome ações e mana apenas na primeira vez que você executá-la, o que torna você livre em rodadas posteriores.
+
+## Artesão de Poções
+
+**Requisitos**: 4 de inteligência.
+
+Você agora pode criar uma poção. Para isso, você precisa estar fora de combate, e cada poção precisará de 1 hora para ser feita. Você reduz esse tempo pela metade caso você escolha gastar 5 pontos de mana para tal. A mana gasta representa um esforço mental adicional colocado na fabricação do item, simbolizando sua dedicação. Para criar uma poção você precisa gastar uma quantidade de materiais que se refletirão em moedas. O custo será metade do custo sugerido da poção. Você não pode criar itens considerados mágicos com esta habilidade.

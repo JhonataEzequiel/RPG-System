@@ -139,3 +139,25 @@ Você concentra parte de sua energia vital e a dispara em um ataque a distância
 **Custo**: Ação Bônus, 2 de mana.
 
 Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de raio igual ao alcance dessa habilidade, que falhem num teste de resistência de sabedoria CD 12 + con, só possam realizar ataques ou andar durante a rodada. Essa habilidade deve ser usada ao início de uma rodada, e ignora iniciativa.
+
+## Agarrar
+
+**Requisitos**: 3 de força.
+**Custo**: 1 ação.
+
+Você executa um golpe em uma criatura alvo afim de agarrá-la. Se a criatura falhar num teste de resistência de força CD 13 + for, ela terá a condição agarrado até que você a solte, ou ela passe no teste. Ela pode repetir o teste no início de cada um dos turnos dela ao custo de uma ação.
+
+Você pode agarrar criaturas do seu tamanho, menores, ou de um patamar de tamanho acima. Você não pode atacar ou utilizar magias enquanto agarrar a criatura. No entanto, você pode se mover junto com ela, mas seu deslocamento será cortado pela metade.
+
+## Luta Agarrada
+
+**Requisitos**: Habilidade "Agarrar" de custo 2. 3 de destreza.
+
+Você agora é capaz de realizar ataques desarmados em um alvo da habilidade agarrar que falhou no teste e está, atualmente, sendo agarrado por você. Habilidades de ataques desarmados também podem ser utilizadas.
+
+## Mata-Leão
+
+**Requisitos**: Habilidade "Submissão" de custo 1. 5 de força.
+**Custo**: Ação Bônus.
+
+Você pode realizar um ataque desarmado em um alvo afetado por submissão utilizando apenas uma ação bônus. Você aperta o pescoço do seu oponente, causando o dano de um ataque desarmado. O alvo terá que passar por um teste de resistência CD 10 + for + dex. Em caso de falha, ele terá a condição inconsciente também.

@@ -151,3 +151,9 @@ Você pode pegar emprestada uma habilidade de um aliado seu. Ao ter um descanso 
 Seja por um voto pessoal, ou uma deficiência de nascença, você não pode mais falar. Todas as habilidades e efeitos que dependeriam de sua fala não serão mais possíveis. Em troca, você ganha +3 em testes de furtividade permanentemente, e não tem mais erros críticos nestes testes, sendo considerados erros comuns. Além disso, você tem +1 em testes de conversação que visem intimidar um alvo, caso você e eles estejam sozinhos.
 
 Uma vez escolhida esta habilidade, seus efeitos são irreversíveis. Ou seja, ainda que você queira quebrar um voto pessoal de não mais falar, não conseguirá. Nem se você for forçado a falar por uma magia você emitirá sons, mesmo que tenha uma deficiência e seja curado antes disso. No entanto, magias que te forcem a dizer algo terão efeito, e você buscará uma forma de se comunicar. Seja através da escrita, ou se gesticulando.
+
+## Artesão de Bombas
+
+**Requisitos**: 2 de inteligência.
+
+Você agora consegue fabricar um item arremessável qualquer que não seja considerado um item mágico. Para cada item criado você dedica 1 minuto fora de combate, ou 3 ações em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
