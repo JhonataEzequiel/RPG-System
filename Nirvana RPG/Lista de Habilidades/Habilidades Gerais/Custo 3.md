@@ -150,6 +150,36 @@ Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapa
 
 Sempre que você falar o nome de uma magia antes de utilizá-la, adicione +1 na CD para evitar quaisquer efeitos negativos da magia. Esse valor aumenta em +2 caso você conjure apenas esta magia durante seu turno, e não faça mais nada. Isto inclui não utilizar quaisquer ações ou ações bônus restantes nele. Você ainda poderá utilizar reações neste rodada.
 
+## Respiração
+
+**Requisitos**: 10 de destreza, 1 de inteligência.
+
+Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus ataques agora causarão dano mágico adicional, sendo ele composto por 1d10 de dano radiante e 1d10 de outro tipo à sua escolha entre raio, fogo, gelo, e sortilégio. O multiplicador deste bônus aumenta conforme a quantidade de oponentes no encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante. O multiplicador máximo é 20 vezes, atingido ao enfrentar 15 ou mais oponentes simultaneamente — oponentes adicionais além desse número não aumentam o multiplicador.
+
+Quando você for realizar um descanso longo, diminua o tempo necessário dele em 2 horas.
+
+## Sol
+
+**Requisitos**: 10 de sabedoria, 10 de carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Lua" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Custo**: 1 ação, 15 de mana.
+
+A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
+
+Durante esta rodada você se torna imune a dano de sortilégio. Além disso, caso acerte um ataque ainda neste turno você terá vantagem em todos os testes que fizer pelo resto do encontro. Isso inclui ataques, testes de atributos, perícias, e também salvaguardas, com exceção das necessárias para se estabilizar. Aliados no raio do seu deslocamento terão +1 em todos os testes até o início do seu próximo turno. Quando acertar o ataque, você também causará 1d6 de dano radiante adicional.
+
+Caso você tenha a habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de agarrado, incapacitado, e nocauteado. Quando juntas, ambas as habilidades se complementam.
+
+## Lua
+
+**Requisitos**: 10 de sabedoria, 10 de carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Sol" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Custo**: 1 ação, 15 de mana.
+
+Apesar de compreender a mudança constante da vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
+
+Durante esta rodada você se torna imune a dano radiante. Além disso, você se cura de quaisquer condições negativas que estiver sobre você, incluindo nocauteado. Esta habilidade pode ser usada quando você estiver nocauteado, e neste caso não custará ação. Você só pode se estabilizar uma vez por descanso longo com esta habilidade. Você também adiciona 3d10 de dano verdadeiro ao seu próximo ataque.
+
+Caso você tenha a habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer teste, com exceção dos testes para se estabilizar. Quando juntas, ambas as habilidades se complementam.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
