@@ -61,4 +61,4 @@ Você se ajoelha por um momento no combate, rezando e pedindo por auxílio. Role
 | 2                | Seu deslocamento dobra                                                            |
 | 3                | Você tem vantagem em qualquer salvaguarda                                         |
 | 4                | Você tem vantagem em ataques, e causa 1d10 de dano radiante adicional caso acerte |
-Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 5 de mana para rolar novamente o dado e obter um novo bônus. Um bônus já resultante poderá ser novamente o resultado da rolagem, sendo adicionado novamente. Para cada vez que rolar o dado a partir de então o custo de mana dobrará.
+Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 3 de mana para rolar novamente o dado e obter um novo bônus. Um bônus já resultante poderá ser novamente o resultado da rolagem, sendo adicionado novamente. Para cada vez que rolar o dado a partir de então o custo de mana dobrará.

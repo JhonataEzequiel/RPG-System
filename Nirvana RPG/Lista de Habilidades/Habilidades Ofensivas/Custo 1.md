@@ -52,7 +52,7 @@ Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas 
 **Requisitos**: 2 de fé, 2 de inteligência.
 **Custo**: 1 ação.
 
-Uma vez por encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 ponto de vida. Todo dano físico que você cause enquanto não se curar será dobrado e você não erra ataques. Com três ações, você restaura os seus pontos de vida perdidos e encerra a ativação dessa habilidade, mas tem desvantagem em ataques na próxima rodada.
+Uma vez por encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 ponto de vida. Todo ataque feito por você será considerado crítico. Com três ações, você restaura os seus pontos de vida perdidos e encerra a ativação dessa habilidade, mas tem desvantagem em ataques na próxima rodada.
 
 ## Ataque Carregado
 
@@ -132,3 +132,16 @@ Você agora adiciona seu modificador de destreza a qualquer item arremessável q
 **Requisitos**: 5 de destreza.
 
 Toda vez que você acertar um ataque físico em um inimigo ele estará como se estivesse molhado. É como se seus ataques canalizassem a essência das águas contra seu oponente. Você escolhe quais ataques terão este efeito.
+
+## Pontos de Pressão
+
+**Requisitos**: Habilidade "Força Natural" de custo 1. 3 de força ou destreza.
+**Custo**: 3 ações.
+
+Você consegue atacar um alvo em seus pontos de pressão, causando danos significativos. Você deverá passar por três testes nos quais poderá utilizar tanto o modificador de força, quanto o de destreza, à sua escolha. O primeiro terá CD 10, o segundo CD 15, e o terceiro CD 17. Os efeitos em caso de sucesso são os seguintes:
+
+| Teste    | Efeito                                                                                                                                                                                                              |
+| -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Primeiro | Você causa o dano de um ataque desarmado, e o alvo tem -1 em salvaguardas por 3 rodadas.                                                                                                                            |
+| Segundo  | Você causa o dano de um ataque desarmado, e o alvo tem -3 em salvaguardas pelo resto do encontro. Este efeito substitui o efeito negativo em salvaguardas do primeiro teste.                                        |
+| Terceiro | Você causa o dano de um ataque desarmado, e o alvo fica atordoado por 3 rodadas, além de ter -3 em salvaguardas pelo resto do encontro. Este efeito substitui o efeito negativo em salvaguardas de ambos os testes. |

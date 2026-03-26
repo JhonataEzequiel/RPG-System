@@ -33,7 +33,7 @@ O jogador não sofre mais penalidades de ataques, e sua margem de ameaça é aum
 Os seguintes bônus são adicionados toda vez que o jogador entra em fúria:
 
 * Vantagem em testes de constituição;
-* Imunidade a controle mental;
+* Imunidade a condição encantado;
 * Imunidade a veneno;
 * Seus ataques agora usam o atributo ao invés do modificador para calcular o dano.
 
@@ -44,7 +44,7 @@ Os seguintes bônus são adicionados toda vez que o jogador entra em fúria:
 **Requisitos**: 10 de força ou 10 de destreza.
 **Custo:** uma ação e 1 de mana.
 
-Durante um encontro, todos os ataques que utilizem força serão considerados ataques críticos, isso significa que o jogador não precisará passar por testes de rolagens de ataque para acertar o inimigo. O jogador desmaia depois do encontro por 24 horas. Só pode ser usado uma vez por descanso longo.
+Durante um encontro, todos os ataques que utilizem força ou destreza serão considerados ataques críticos, isso significa que o jogador não precisará passar por testes de rolagens de ataque para acertar o inimigo. O jogador desmaia depois do encontro por 24 horas. Só pode ser usado uma vez por descanso longo.
 
 Ao ativar essa habilidade, o usuário entra em hiper foco, e é impossibilitado de usar magias de qualquer tipo. Também ignora terreno difícil e condições que o incapacitariam, como habilidades que possam derrubá-lo ou o deixar atordoado.
 
@@ -169,9 +169,17 @@ Você também pode optar por ter esse bônus de dano em um sortilégio de dano p
 
 **Requisitos**: 10 de destreza, 1 de inteligência.
 
-Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus ataques agora causarão dano mágico adicional, sendo ele composto por 1d10 de dano radiante e 1d10 de outro tipo à sua escolha entre raio, fogo, gelo, e sortilégio. O multiplicador deste bônus aumenta conforme a quantidade de oponentes no encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante. O multiplicador máximo é 20 vezes, atingido ao enfrentar 15 ou mais oponentes simultaneamente — oponentes adicionais além desse número não aumentam o multiplicador.
+Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus ataques causarão dano mágico adicional, composto por 1d10 de dano radiante e 1d10 de outro tipo à sua escolha entre raio, fogo, gelo, e sortilégio.
 
-Quando você for realizar um descanso longo, diminua o tempo necessário dele em 2 horas.
+O multiplicador deste bônus aumenta conforme a quantidade de oponentes no encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante, até o máximo de 5 inimigos.
+
+No entanto, o multiplicador só se aplica caso você esteja lutando completamente sozinho. As seguintes condições devem ser atendidas simultaneamente:
+
+- Nenhum aliado pode estar presente no campo de visão dos combatentes;
+- Nenhum aliado pode interferir no encontro de qualquer forma;
+- Você não pode estar sob efeito de nenhuma habilidade, magia, ou bônus concedido por um aliado, mesmo que aplicado antes do encontro.
+
+Quando for realizar um descanso longo, diminua o tempo necessário em 2 horas. Essa habilidade não funciona caso você não consiga respirar.
 
 ## Sol
 
