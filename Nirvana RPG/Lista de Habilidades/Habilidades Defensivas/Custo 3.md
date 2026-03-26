@@ -46,3 +46,19 @@ Você agora é imune a quaisquer efeitos advindos da velhice, e a própria velhi
 Ao pegar essa habilidade, você abdica de sua capacidade de recuperar vida e mana em descansos longos. Em troca, você se torna imune a nocautes. Todo dano que você recebe enquanto está com 0 pontos de vida é considerado negativo. Ao atingir a quantidade de pontos de vida máximos que você tem como dano negativo, você morrerá. Descansos longos curam o dano negativo acumulado, mas não restauram pontos de vida normais. 
 
 A única forma de curar dano negativo é por descansos longos. Isso é representado através de uma comunicação externa com a entidade ou divindade que você fez o pacto. Se o pacto for feito como uma espécie de promessa a si mesmo de não tombar mais em combate, o descanso longo será como uma meditação.
+
+## Querido Deus
+
+**Requisitos**: 10 de constituição, 8 de fé.
+**Custo**: 1 ação.
+**Duração**: 3 rodadas.
+
+Você se ajoelha por um momento no combate, rezando e pedindo por auxílio. Role 1d4, e o resultado corresponderá ao bônus recebido:
+
+| Valor Resultante | Bônus                                                                             |
+| ---------------- | --------------------------------------------------------------------------------- |
+| 1                | Sua CA aumenta em 5 pontos                                                        |
+| 2                | Seu deslocamento dobra                                                            |
+| 3                | Você tem vantagem em qualquer salvaguarda                                         |
+| 4                | Você tem vantagem em ataques, e causa 1d10 de dano radiante adicional caso acerte |
+Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 5 de mana para rolar novamente o dado e obter um novo bônus. Um bônus já resultante poderá ser novamente o resultado da rolagem, sendo adicionado novamente. Para cada vez que rolar o dado a partir de então o custo de mana dobrará.

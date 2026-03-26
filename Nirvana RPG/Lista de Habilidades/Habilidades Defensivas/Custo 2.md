@@ -40,3 +40,12 @@ A partir do nível 7, um ponto de contingência também poderá te conceder +2 d
 Você também pode utilizar seus pontos de contingência em qualquer salvaguarda de constituição, aonde cada um deles concederá +1 na salvaguarda. Neste caso, não custará nenhuma ação.
 
 Todos os pontos de contingência são perdidos ao fim do encontro.
+
+## Roubar Tempo
+
+**Requisitos**: 10 de constituição.
+**Custo**: 3 ações, 7 de mana.
+
+Você pode realizar novamente uma salvaguarda falha neste encontro, independente de quando ela ocorreu. Fazendo isso, você adiciona um modificador à sua escolha nesta nova rolagem. Em caso de sucesso, tudo que decorreu da falha original é completamente revertido — isso inclui dano recebido, dano contínuo acumulado desde então, condições negativas aplicadas, e ações perdidas. No caso de ações, você pode utilizá-las imediatamente após a utilização desta habilidade. 
+
+Seu corpo se recupera dos efeitos negativos como se nunca estivessem lá, fazendo com que até os inimigos no encontro notem esta sua habilidade.
