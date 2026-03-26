@@ -143,3 +143,11 @@ Você consegue extrair uma pequena esfera de mana do seu corpo, composta por met
 Você aprendeu uma maneira de transferir conhecimento apenas por ter uma aliança com alguém, criando um laço de amizade e aprendendo como aquela pessoa pensa.
 
 Você pode pegar emprestada uma habilidade de um aliado seu. Ao ter um descanso longo, ele voluntariamente entrega essa habilidade para você. Você ignora os requisitos de atributo dela, mas ainda terá que cumprir quaisquer outros. O seu aliado não poderá usar a habilidade dele enquanto você estiver com ela, e você só pode devolvê-la ao ter um descanso longo. Seu aliado deve ter o descanso longo junto de você para que possa pegar a habilidade emprestada, e também para devolvê-la.
+
+## Andarilho Silencioso
+
+**Requisitos**: 3 de destreza.
+
+Seja por um voto pessoal, ou uma deficiência de nascença, você não pode mais falar. Todas as habilidades e efeitos que dependeriam de sua fala não serão mais possíveis. Em troca, você ganha +3 em testes de furtividade permanentemente, e não tem mais erros críticos nestes testes, sendo considerados erros comuns. Além disso, você tem +1 em testes de conversação que visem intimidar um alvo, caso você e eles estejam sozinhos.
+
+Uma vez escolhida esta habilidade, seus efeitos são irreversíveis. Ou seja, ainda que você queira quebrar um voto pessoal de não mais falar, não conseguirá. Nem se você for forçado a falar por uma magia você emitirá sons, mesmo que tenha uma deficiência e seja curado antes disso. No entanto, magias que te forcem a dizer algo terão efeito, e você buscará uma forma de se comunicar. Seja através da escrita, ou se gesticulando.
