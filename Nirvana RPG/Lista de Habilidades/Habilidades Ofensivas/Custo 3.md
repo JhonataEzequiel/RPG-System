@@ -142,18 +142,18 @@ Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus 
 **Requisitos**: 3 de inteligência, 6 de fé.
 **Custo**: 1 ação, 5 de mana.
 
-Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus sortilégios que causem dano sombrio. Esse aumento só é aplicado caso a magia cause dano sombrio, e quaisquer outros tipos de dano são ignorados, inclusive se você modificar a magia com o uso da habilidade "Fogo Fátuo". A ativação dessa habilidade custa mana apenas para colher as almas, não para usar o dano extra.
+Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus sortilégios que causem dano sombrio. Esse aumento só é aplicado caso a magia cause dano sombrio, e quaisquer outros tipos de dano são ignorados, inclusive se você modificar a magia com o uso da habilidade "Fogo Fátuo". A ativação dessa habilidade custa mana e ações apenas para colher as almas, não para usar o dano extra.
 
 O que você colhe não é a alma de fato da criatura, pois isso a impediria de seguir o ciclo natural, mas sim parte da essência vital dela, como uma fonte de energia que a estava mantendo viva, e se separou do corpo. Você pode pensar nisso como sendo apenas parte da alma, não ela por completo. Para critérios de simplificação, serão chamadas apenas de "almas".
 
 | Quantidade de Almas Coletadas | Aumento de Dano |
 | ----------------------------- | --------------- |
-| 1-10                          | 1d12            |
-| 11-25                         | 2d12            |
-| 26-50                         | 3d12            |
-| 51-75                         | 4d10            |
-| 76-99                         | 5d10            |
-| 100                           | 6d12            |
+| 1-10                          | 1d6             |
+| 11-25                         | 2d8             |
+| 26-50                         | 3d10            |
+| 51-75                         | 4d12            |
+| 76-99                         | 8d6             |
+| 100                           | 10d6            |
 
 Você pode escolher uma conjuração de sortilégio para ter o aumento de dano a cada descanso longo ou curto.
 
@@ -164,3 +164,33 @@ Você pode escolher uma conjuração de sortilégio para ter o aumento de dano a
 Essa habilidade terá efeito apenas quando 100 essências vitais sejam colhidas pela habilidade "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por descanso longo ou curto. 
 
 Você também pode optar por ter esse bônus de dano em um sortilégio de dano por rodada. Neste caso, você utilizará de sua própria essência vital para canalizar o dano. Sua vida máxima será o menor valor entre a vida máxima atual e 30 pontos de vida. Você não recuperará vida em descansos curtos. Essa escolha é irreversível.
+
+## Respiração
+
+**Requisitos**: 10 de destreza, 1 de inteligência.
+
+Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus ataques agora causarão dano mágico adicional, sendo ele composto por 1d10 de dano radiante e 1d10 de outro tipo à sua escolha entre raio, fogo, gelo, e sortilégio. O multiplicador deste bônus aumenta conforme a quantidade de oponentes no encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante. O multiplicador máximo é 20 vezes, atingido ao enfrentar 15 ou mais oponentes simultaneamente — oponentes adicionais além desse número não aumentam o multiplicador.
+
+Quando você for realizar um descanso longo, diminua o tempo necessário dele em 2 horas.
+
+## Sol
+
+**Requisitos**: 10 de sabedoria, 10 de carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Lua" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Custo**: 1 ação, 15 de mana.
+
+A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
+
+Durante esta rodada você se torna imune a dano de sortilégio. Além disso, caso acerte um ataque ainda neste turno você terá vantagem em todos os testes que fizer pelo resto do encontro. Isso inclui ataques, testes de atributos, perícias, e também salvaguardas, com exceção das necessárias para se estabilizar. Aliados no raio do seu deslocamento terão +1 em todos os testes até o início do seu próximo turno. Quando acertar o ataque, você também causará 1d6 de dano radiante adicional.
+
+Caso utilize em conjunto com a habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de agarrado, incapacitado, e nocauteado. Quando juntas, ambas as habilidades se complementam.
+
+## Lua
+
+**Requisitos**: 10 de sabedoria, 10 de carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Sol" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Custo**: 1 ação, 15 de mana.
+
+Apesar de compreender a mudança constante da vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
+
+Durante esta rodada você se torna imune a dano radiante. Além disso, caso acerte um ataque ainda neste turno, você se cura de quaisquer condições negativas que estiver sobre você, incluindo nocauteado. Esta habilidade pode ser usada quando você estiver nocauteado, e neste caso não custará ação. Você só pode se estabilizar uma vez por descanso longo com esta habilidade. Você também adiciona 1d6 de dano de sortilégio ao ataque efetuado.
+
+Caso utilize em conjunto com a habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer teste, com exceção dos testes para se estabilizar. Quando juntas, ambas as habilidades se complementam.
