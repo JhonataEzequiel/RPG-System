@@ -126,3 +126,9 @@ Você agora pode escolher se seus ataques desarmados causarão dano cortante ou 
 **Requisitos**: 3 de destreza.
 
 Você agora adiciona seu modificador de destreza a qualquer item arremessável que cause dano. O dano de itens arremessáveis aumenta em 1d8 quando você chegar no nível 8 de destreza. O dano aumentado é igual ao tipo causado pelo item em questão.
+
+## Fluxo do Rio
+
+**Requisitos**: 5 de destreza.
+
+Toda vez que você acertar um ataque físico em um inimigo ele estará como se estivesse molhado. É como se seus ataques canalizassem a essência das águas contra seu oponente. Você escolhe quais ataques terão este efeito.

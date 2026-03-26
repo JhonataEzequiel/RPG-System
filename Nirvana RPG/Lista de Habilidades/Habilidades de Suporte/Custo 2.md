@@ -49,3 +49,11 @@ Você não mais dorme quando tem um descanso qualquer, mas ainda se recupera nor
 **Requisitos**: 5 de carisma ou fé.
 
 Sempre que estiver em um encontro e tiver pelo menos uma criatura aliada consigo, você não poderá causar dano algum. No entanto, você dobra permanentemente o valor do seu atributo de carisma ou fé, à sua escolha, e também cura 3d8 a mais todas as vezes que curar alguém ou a si mesmo. Você ainda poderá se utilizar de quaisquer meios de causar dano, mas o dano será completamente negado. A exceção é se você estiver lutando a sós. Neste caso, essa habilidade é desativada completamente, assim como todos os seus efeitos, incluindo o de dobrar o valor de carisma ou fé.
+
+## Transpôr Energia
+
+**Requisitos**: 5 de destreza, efeito adicional desbloqueado com 5 de carisma.
+
+Você agora pode se mover duas vezes durante uma rodada. Uma no seu turno, como sempre, e outra em qualquer outro momento da rodada. Quando não se mover no seu turno, você poderá andar ou correr, mas não poderá utilizar desengajar ou qualquer outra ação de movimentos. É impossível evitar ataques de oportunidades se você for alvo de um quando se mover fora do seu turno, ainda que tenha alguma habilidade ou efeito que te torne imune a estes ataques normalmente. 
+
+Caso você tenha 5 de carisma, você pode conceder este segundo movimento na rodada como deslocamento adicional a um de seus aliados durante o turno deles, aumentando o deslocamento que eles normalmente teriam, somando-o com o seu. Você abdica de se mover uma segunda vez nesta rodada para fazer isso. O aliado que foi alvo deste aumento de deslocamento também não será imune a ataques de oportunidade durante este turno, ainda que normalmente seria por conta de algum efeito ativo ou habilidade.

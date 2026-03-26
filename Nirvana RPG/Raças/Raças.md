@@ -12,6 +12,7 @@ Cada raça possui habilidades e deslocamentos únicos, sendo esses os diferencia
 | Fjer              | 7.5 andando, 15 voando   | Médio   |
 | Siderium          | 9                        | Médio   |
 | Tártaro           | 3, 15 sem casco          | Médio   |
+| Halfling          | 7.5                      | Pequeno |
 
 [[Humano]]
 [[Elfo]]

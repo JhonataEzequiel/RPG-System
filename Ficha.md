@@ -71,62 +71,76 @@
 ### Resistências
 > _Liste os tipos de dano ou condições aos quais o personagem tem resistência._
 
-| Tipo | Descrição |
-|------|-----------|
-|      |           |
+| Tipo       | Descrição |
+| ---------- | --------- |
+| Fogo       |           |
+| Gelo       |           |
+| Raio       |           |
+| Sortilégio |           |
+| Radiante   |           |
+| Impacto    |           |
+| Cortante   |           |
+| Perfurante |           |
+
 
 ### Fraquezas
 > _Liste os tipos de dano ou condições que afetam o personagem com mais intensidade._
 
-| Tipo | Descrição |
-|------|-----------|
-|      |           |
+| Tipo       | Descrição |
+| ---------- | --------- |
+| Fogo       |           |
+| Gelo       |           |
+| Raio       |           |
+| Sortilégio |           |
+| Radiante   |           |
+| Impacto    |           |
+| Cortante   |           |
+| Perfurante |           |
 
 ### Invulnerabilidades
 > _Liste os tipos de dano ou condições aos quais o personagem é completamente imune._
 
-| Tipo | Descrição |
-|------|-----------|
-|      |           |
+| Tipo       | Descrição |
+| ---------- | --------- |
+| Fogo       |           |
+| Gelo       |           |
+| Raio       |           |
+| Sortilégio |           |
+| Radiante   |           |
+| Impacto    |           |
+| Cortante   |           |
+| Perfurante |           |
+| Sangue     |           |
 
 ---
 
 ## 🎯 Perícias
 
-| Perícia | Bônus | Proficiente? |
-| ------- | ----- | ------------ |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
-|         |       |              |
+| Perícia      | Bônus | Proficiente? |
+| ------------ | ----- | ------------ |
+| História     |       |              |
+| Natureza     |       |              |
+| Percepção    |       |              |
+| Atletismo    |       |              |
+| Ladroagem    |       |              |
+| Acrobacia    |       |              |
+| Furtividade  |       |              |
+| Arcanismo    |       |              |
+| Linguística  |       |              |
+| Investigação |       |              |
+| Medicina     |       |              |
+| Intuição     |       |              |
+| Conversação  |       |              |
+| Atuação      |       |              |
+| Música       |       |              |
 
 ---
 
 ## 🧬 Habilidades da Raça
 
-| Habilidade | Descrição |
-|------------|-----------|
-|            |           |
-|            |           |
-|            |           |
-
 ---
 
 ## ✨ Habilidades
-
-| Habilidade | Origem | Descrição | Uso / Recarga |
-|------------|--------|-----------|---------------|
-|            |        |           |               |
-|            |        |           |               |
-|            |        |           |               |
-|            |        |           |               |
-|            |        |           |               |
 
 ---
 
@@ -134,32 +148,24 @@
 
 ### Armas
 
-| Nome | Dano | Tipo | Propriedades |
-|------|------|------|--------------|
-|      |      |      |              |
-|      |      |      |              |
+
 
 ### Armaduras e Escudos
 
-| Nome | CA | Tipo | Propriedades |
-|------|-----|------|--------------|
-|      |    |      |              |
+
 
 ### Itens Gerais
 
-| Item | Qtd. | Descrição |
-|------|------|-----------|
-|      |      |           |
-|      |      |           |
-|      |      |           |
-|      |      |           |
-|      |      |           |
+
 
 ### Moedas
 
-| PC  | PP  | PO  | PL  |
-| --- | --- | --- | --- |
-|     |     |     |     |
+| Tipo | Quantidade |
+| ---- | ---------- |
+| PC   |            |
+| PP   |            |
+| PO   |            |
+| PL   |            |
 
 ---
 

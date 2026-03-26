@@ -1,0 +1,9 @@
+Os halflings são conhecidos pela hospitalidade, lábia, e capacidade de se mover silenciosamente por seus tamanhos diminutos. Nem todos os pequeninos seguem esses estereótipos, mas é uma generalização coerente com o estilo de vida dos mesmos. Usualmente, são caseiros e não gostam de se meter em aventuras, mas alguns decidem se aventurar e engajar em perigosos percursos.
+
+## Linhagem Halfling
+
+Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Este aspecto afeta como você interage com o ambiente ao seu redor.
+
+- **Pés Sorrateiros** (reação): De maneira passiva, você pode escalar utilizando seu deslocamento total ao invés de metade dele. Fora isso, você também pode utilizar uma reação para desviar de um ataque direcionado a você. O atacante sofrerá desvantagem. Você pode usar essa reação quantas vezes quiser, desde que tenha uma reação disponível na rodada.
+- **Caseiro** (passiva): Caso você dedique 2 horas do dia para preparar um local para descansar antes de fazê-lo de fato, você diminuirá o tempo de descanso longo de todos os aliados que descansarem com você em duas horas. O local preparado pode ser utilizado de maneira ilimitada. Você também adiciona metade do seu bônus de proficiência a testes de sabedoria, uma vez por descanso longo. No nível 8, pode fazer isso duas vezes. No nível 15, além de poder adicionar metade do bônus duas vezes para os testes de sabedoria, agora você pode adicionar ele inteiro em dois testes de perícias que você não seja perito.
+- **Mercador** (passiva): Você adquire a perícia de conversação. A cada 5 itens comprados ou vendidos com o valor sendo de 1 peça de ouro ou maior, que não façam parte do seu equipamento inicial, você recebe +1 no seu bônus de proficiência até um máximo de 10 pontos. Este aumento é permanente.

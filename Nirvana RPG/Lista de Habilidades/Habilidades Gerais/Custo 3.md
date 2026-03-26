@@ -144,6 +144,12 @@ Quando você tiver um descanso longo, escolha uma habilidade, magia, ou efeito q
 
 Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. A cada dois pontos adicionais a sua margem de ameaça, você obterá um ponto na margem de ameaça para os 2d6.
 
+## Foco Vocal
+
+**Requisitos**: 8 de inteligência, 2 de sabedoria.
+
+Sempre que você falar o nome de uma magia antes de utilizá-la, adicione +1 na CD para evitar quaisquer efeitos negativos da magia. Esse valor aumenta em +2 caso você conjure apenas esta magia durante seu turno, e não faça mais nada. Isto inclui não utilizar quaisquer ações ou ações bônus restantes nele. Você ainda poderá utilizar reações neste rodada.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
