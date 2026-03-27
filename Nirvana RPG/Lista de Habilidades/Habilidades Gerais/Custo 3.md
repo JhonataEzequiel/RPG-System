@@ -160,11 +160,35 @@ Você se torna mais hábil na criação das gaiolas, fazendo com que desperdice 
 
 **Requisitos**: Habilidade "Autômatos Medianos" de custo 2. 10 de inteligência.
 
-Você agora consegue criar autômatos medianos pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses autômatos maiores possuem quaisquer capacidades que os demais, mais fracos, possuíam. Eles são de tamanho grande, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
+Você agora consegue criar autômatos medianos pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses autômatos maiores possuem quaisquer capacidades que os demais, mais fracos, possuíam. Eles são de tamanho grande, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos. Um autômato demora 1 hora para recarregar na luz do sol.
 
 Você pode ter até 4 autômatos ativos ao mesmo tempo. Assim como os autômatos menores e medianos, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um autômato maior são todos iguais a 3, e eles tem duas ações e uma ação bônus no turno deles. A CA deles é 13 + qualquer bônus concedido por armaduras, e tem 5d8 de pontos de vida. O deslocamento deles é de 9m.
 
 Você gasta o equivalente a 35po em materiais para criar um autômato mediano, e precisa de 8 horas para criar um deles.
+
+## Atirador Profissional
+
+**Requisitos**: Habilidade "Bucaneiro" de custo 2. 5 de inteligência, 3 de força ou destreza.
+
+Você pode modificar suas armas de fogo e bestas ainda mais, fazendo com que as escalas delas aumentem. Visualmente falando, você escolhe como suas armas se parecerão agora. Para cada vez que modificar uma arma já modificada pela habilidade Bucaneiro, ou por outra pessoa que tenha essa habilidade ou algo similar, aumente uma das escalas dela em um grau. Você gasta 10po em materiais para aumentar a escala para C, 25po para B, 50po para A, e 250po para S. O tempo para aumentar uma escala é de 8 horas.
+
+## Engenharia Reversa
+
+**Requisitos**: 7 de inteligência.
+
+Você consegue analisar e recriar invenções mecânicas não mágicas que encontrar pelo caminho, como autômatos, armadilhas, dispositivos, e mecanismos complexos. Itens simples como fechaduras comuns ou alavancas básicas não contam como invenções para fins desta habilidade. Você não pode analisar nem recriar autômatos e itens advindos de magias, como golems invocados.
+
+O tempo para analisar uma invenção é de 4 horas, e você precisará ter acesso físico a ela durante esse tempo. Você pode se lembrar de uma quantidade de invenções igual ao seu modificador de inteligência + modificador de sabedoria. Caso você tenha papel e tinta, pode registrar esquemas de invenções adicionais, gastando uma folha por invenção. Invenções registradas não contam para o limite de memória, mas você precisará ter o esquema em mãos para recriá-las.
+
+Para recriar uma invenção você precisará de materiais e tempo decididos pelo mestre de acordo com a complexidade. Como referência, uma invenção simples não deveria custar mais que 10po nem demorar mais que 1 hora. Invenções mais complexas, como autômatos, seguem os custos e tempos das habilidades de artífice como parâmetro.
+
+## Baterias
+
+**Requisitos**: 10 de inteligência.
+
+Você agora pode criar baterias que se recarregam ao serem expostas a luz do sol ou a qualquer outra fonte de energia elétrica, caso você tenha capacidade de recarregá-las com ela. Uma bateria demora 8 horas para se recarregar, e tem duração de 1 semana. Você pode colocar uma bateria em qualquer invenção que precise de energia com o custo de 3 ações, assim como trocá-la. Você também pode recarregar uma bateria instantaneamente utilizando mana, gastando 7d4 pontos de mana no processo.
+
+Para construir uma bateria é necessário gastar 30po em materiais, e 4 horas.
 
 ## Nirvana
 

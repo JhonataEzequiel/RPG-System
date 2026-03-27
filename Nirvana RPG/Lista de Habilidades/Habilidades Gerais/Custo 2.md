@@ -207,11 +207,11 @@ Você tem +4 em testes de conversação que visam enganar alguém, desde que sua
 
 **Requisitos**: 3 de inteligência.
 
-Você agora consegue criar pequenas capsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho grande dentro delas. As gaiolas encolhem o item, que fica dentro delas como se estivesse em miniatura. Com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do seu alcance. Para liberar um item você gasta uma ação bônus. 
+Você agora consegue criar pequenas capsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho grande dentro delas. As gaiolas encolhem o item, que fica dentro delas como se estivesse em miniatura. Com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do seu alcance. Para liberar um item você gasta uma ação bônus. Um autômato demora 1 hora para recarregar na luz do sol.
 
 As gaiolas precisam de energia para funcionar, e se alimentam da luz do sol para isso. Caso elas passem 24 horas sem contato com a luz do sol, elas param de funcionar, e o item dentro delas fica preso. Ao receber energia novamente sua função é recobrada. Alternativamente, você também pode energizá-las com mana. Você gasta 1d6 pontos de mana para energizar uma gaiola por 24 horas.
 
-Qualquer coisa que seja considerada um objeto pode ser guardado na gaiola. O tempo necessário para fabricar uma gaiola é de 20 minutos. Cada gaiola pesa 0.5 kg.
+Qualquer coisa que seja considerada um objeto pode ser guardado na gaiola. O tempo necessário para fabricar uma gaiola é de 20 minutos. Cada gaiola pesa 0.5 kg, e é de tamanho minúsculo.
 
 ## Autômatos Medianos
 
@@ -222,3 +222,9 @@ Você agora consegue criar autômatos menores pela metade do tempo normal, e tam
 Você pode ter até 3 autômatos no total ativos ao mesmo tempo. Assim como os autômatos menores, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um autômato mediano são todos iguais a 1, e eles tem uma ação e uma ação bônus no turno deles. A CA deles é 11 + qualquer bônus concedido por armaduras, e tem 5d4 de pontos de vida. O deslocamento deles é de 9m.
 
 Você gasta o equivalente a 15po em materiais para criar um autômato mediano, e precisa de 2 horas para criar um deles.
+
+## Bucaneiro
+
+**Requisitos**: 3 de força ou destreza.
+
+As suas armas de fogo e bestas agora podem ser modificadas para possuírem escalas. Você gasta 10po em materiais para adicionar uma escala D em força ou destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.

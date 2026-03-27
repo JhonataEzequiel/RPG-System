@@ -56,7 +56,7 @@ Os itens mágicos irão variar de grau 1 ao grau 3. Um item de grau 3 não é ne
 
 Armas à distância que disparam projéteis, como arcos e bestas, requerem munições para funcionar. Cada ataque consome uma unidade de munição. Caso o jogador fique sem munições, não poderá realizar ataques com a arma até adquirir mais.
 
-Após um encontro, é possível recuperar metade das munições gastas, arredondado para baixo, desde que o campo de batalha esteja acessível.
+Após um encontro, é possível recuperar metade das munições gastas, arredondado para baixo, desde que o campo de batalha esteja acessível. A exceção a esta regra são as armas de fogo, as quais as munições não poderão ser recuperadas.
 
 ### Moedas
 
