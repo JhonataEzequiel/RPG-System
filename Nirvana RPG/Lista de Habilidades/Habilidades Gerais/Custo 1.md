@@ -157,3 +157,13 @@ Uma vez escolhida esta habilidade, seus efeitos são irreversíveis. Ou seja, ai
 **Requisitos**: 2 de inteligência.
 
 Você agora consegue fabricar um item arremessável qualquer que não seja considerado um item mágico. Para cada item criado você dedica 1 minuto fora de combate, ou 3 ações em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
+
+## Autômatos Menores
+
+**Requisitos**: 2 de inteligência.
+
+Você consegue criar pequenos autômatos a partir de materiais encontrados pelo caminho, sendo compostos de metais, minerais, e outros materiais necessários. Esses autômatos conseguem seguir um único comando antes de desligarem, e precisam ter estado sob a luz do sol a pelo menos 24 horas, caso contrário não funcionarão. Você também pode energizá-las com mana, gastando 1d4 pontos de mana para energizá-los por 24 horas. Você escolhe a aparência deles na hora da confecção. Autômatos criados por você são considerados objetos.
+
+Eles podem andar, sendo seu deslocamento de 12m. Além disso, podem realizar qualquer ação livre possível. Eles tem o tamanho pequeno. Além disso tudo, podem realizar tarefas básicas, como pegar um item, levar um item até um local, puxar uma alavanca, limpar um local, cozinhar receitas simples, etc.
+
+Você pode ter até 2 autômatos ativos no total ao mesmo tempo. Você gasta 5po para confeccionar um autômato, e demora 1 hora para fazer cada um deles. A CA deles é 10, e possuem 10 pontos de vida. Todos os atributos deles são -1.

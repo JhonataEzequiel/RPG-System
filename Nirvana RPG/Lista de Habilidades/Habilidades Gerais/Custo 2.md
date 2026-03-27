@@ -202,3 +202,23 @@ Os bônus em testes serão metade do usual. Ou seja, você irá dividir por dois
 **Requisitos**: 5 de carisma.
 
 Você tem +4 em testes de conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma condição negativa você ganha vantagem ao invés de +4.
+
+## Gaiolas Encolhedoras
+
+**Requisitos**: 3 de inteligência.
+
+Você agora consegue criar pequenas capsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho grande dentro delas. As gaiolas encolhem o item, que fica dentro delas como se estivesse em miniatura. Com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do seu alcance. Para liberar um item você gasta uma ação bônus. 
+
+As gaiolas precisam de energia para funcionar, e se alimentam da luz do sol para isso. Caso elas passem 24 horas sem contato com a luz do sol, elas param de funcionar, e o item dentro delas fica preso. Ao receber energia novamente sua função é recobrada. Alternativamente, você também pode energizá-las com mana. Você gasta 1d6 pontos de mana para energizar uma gaiola por 24 horas.
+
+Qualquer coisa que seja considerada um objeto pode ser guardado na gaiola. O tempo necessário para fabricar uma gaiola é de 20 minutos. Cada gaiola pesa 0.5 kg.
+
+## Autômatos Medianos
+
+**Requisitos**: Habilidade "Autômatos Menores" de custo 1. 5 de inteligência.
+
+Você agora consegue criar autômatos menores pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses autômatos medianos possuem capacidade de lutar ou agir por conta própria em um encontro. Eles podem atacar, se esconder, arremessar objetos, utilizar-se de armas e armaduras que você concede a eles, realizar ataques a distância com armas a distância, administrar poções e venenos, e realizar qualquer ação de movimento. Eles são de tamanho pequeno, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
+
+Você pode ter até 3 autômatos no total ativos ao mesmo tempo. Assim como os autômatos menores, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um autômato mediano são todos iguais a 1, e eles tem uma ação e uma ação bônus no turno deles. A CA deles é 11 + qualquer bônus concedido por armaduras, e tem 5d4 de pontos de vida. O deslocamento deles é de 9m.
+
+Você gasta o equivalente a 15po em materiais para criar um autômato mediano, e precisa de 2 horas para criar um deles.

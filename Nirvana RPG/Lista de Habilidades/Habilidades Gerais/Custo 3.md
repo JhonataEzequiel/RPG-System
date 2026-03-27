@@ -150,6 +150,22 @@ Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapa
 
 Sempre que você falar o nome de uma magia antes de utilizá-la, adicione +1 na CD para evitar quaisquer efeitos negativos da magia. Esse valor aumenta em +2 caso você conjure apenas esta magia durante seu turno, e não faça mais nada. Isto inclui não utilizar quaisquer ações ou ações bônus restantes nele. Você ainda poderá utilizar reações neste rodada.
 
+## Mestre das Gaiolas
+
+**Requisitos**: Habilidade "Gaiolas Encolhedoras" de custo 2. 6 de inteligência.
+
+Você se torna mais hábil na criação das gaiolas, fazendo com que desperdice menos materiais em sua confecção. O preço para criar uma gaiola agora passa a ser de 1po, e você consegue criar uma em uma rodada.
+
+## Autômatos Maiores
+
+**Requisitos**: Habilidade "Autômatos Medianos" de custo 2. 10 de inteligência.
+
+Você agora consegue criar autômatos medianos pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses autômatos maiores possuem quaisquer capacidades que os demais, mais fracos, possuíam. Eles são de tamanho grande, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
+
+Você pode ter até 4 autômatos ativos ao mesmo tempo. Assim como os autômatos menores e medianos, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um autômato maior são todos iguais a 3, e eles tem duas ações e uma ação bônus no turno deles. A CA deles é 13 + qualquer bônus concedido por armaduras, e tem 5d8 de pontos de vida. O deslocamento deles é de 9m.
+
+Você gasta o equivalente a 35po em materiais para criar um autômato mediano, e precisa de 8 horas para criar um deles.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
