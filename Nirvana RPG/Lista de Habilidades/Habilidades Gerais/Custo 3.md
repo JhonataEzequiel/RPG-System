@@ -142,7 +142,7 @@ Quando você tiver um descanso longo, escolha uma habilidade, magia, ou efeito q
 
 **Requisitos**: Habilidade "Alterar Chances" de custo 2.
 
-Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. A cada dois pontos adicionais a sua margem de ameaça, você obterá um ponto na margem de ameaça para os 2d6.
+Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 8. A cada dois pontos adicionais a sua margem de ameaça, você obterá um ponto na margem de ameaça para os 2d6.
 
 ## Foco Vocal
 
