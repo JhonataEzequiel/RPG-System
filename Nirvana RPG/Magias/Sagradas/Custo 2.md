@@ -31,3 +31,12 @@ Você pode aumentar o dano dessa magia em 2d6 contra mortos vivos e 1d6 contra o
 **Descrição:** Você seleciona um local dentro do alcance. Uma imagem idêntica ao símbolo sagrado que você possui aparece naquele local, ocupando uma área circular de 6m de raio. Inimigos dentro da área realizarão um teste de resistência de fé CD 14 + fth. Caso falhe, recebem 1d12 de dano sagrado contínuo até o final da magia. Em caso de sucesso, recebem metade do dano.
 
 Caso algum aliado esteja na área de impacto, você cura-o em 2d8 + fth instantaneamente. Você decide quem é aliado ou inimigo.
+
+### Falar Com Animais e Plantas
+
+- Requisito em Carisma: 2
+- Duração: 1 hora
+- Alcance: Toque
+- Tempo de Conjuração: 1 ação
+
+**Descrição:** Você se torna capaz de entender o idioma de qualquer animal ou planta, compreendendo tudo que eles conseguem dizer. Você também pode se comunicar com eles normalmente, como se fossem pessoas.

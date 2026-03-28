@@ -52,6 +52,8 @@ Ilusão Menor: 2 de inteligência, 2 de carisma. Ilusão.
 
 Calar Voz: 2 de inteligência, 2 de carisma. Ilusão.
 
+Falar Com Animais e Plantas: 2 de carisma. Sagrada.
+
 ### Custo 3:
 
 Fortificar Flora: 3 de carisma. Imaculada.
