@@ -44,7 +44,7 @@ Essa habilidade ignora a ordem de iniciativa, se você optar por utilizá-la no 
 
 Você pode conjurar magias de cura em si mesmo quando estiver fora de combate e com pontos de vida cheios. Ao fazer isso você mantém essa cura em estoque, e pode utilizá-la para curar um alvo por metade do total de cura como uma ação livre. A cura em si é calculada como sendo o resultado depois de conjurar a magia, rolar os dados, e somar os bônus cabíveis. A outra metade é perdida. 
 
-Por 3 pontos de mana, você poderá utilizar a outra metade da cura guardada em um alvo diferente, ao custo de uma ação. O estoque desaparece após ter um descanso, longo ou curto. Você só pode guardar a cura de uma única magia.
+Por 3 pontos de mana, você poderá utilizar a outra metade da cura guardada em um alvo diferente, ao custo de uma ação. O estoque desaparece após ter um descanso, longo ou curto. Você só pode guardar a cura de uma única magia ou habilidade.
 
 ## Chuva de Bençãos
 

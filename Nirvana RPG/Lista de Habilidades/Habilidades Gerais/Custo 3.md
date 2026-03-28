@@ -194,7 +194,7 @@ Para construir uma bateria é necessário gastar 30po em materiais, e 4 horas.
 
 **Requisitos**: 10 em qualquer atributo. Você precisa estar em um encontro com pelo menos 3 inimigos.
 
-Você começa o encontro com três ações adicionais no seu turno. Na próxima rodada esse número cai para duas. Na seguinte, para uma, e na última esse bônus de ações cessa. Depois disso, todos os inimigos terão uma ação adicional por turno até o final do encontro, totalizando 4 ações para cada até o encontro finalizar.
+Você começa o encontro com uma ação adicional nas primeiras três rodadas. Após isso, um inimigo à escolha do mestre ganhará uma ação adicional em algum momento do encontro, durante o turno da criatura escolhida. A sua ação adicional não poderá ser usada para atacar, mas a concedida ao seu oponente, sim.
 
 ## Nirvana
 
