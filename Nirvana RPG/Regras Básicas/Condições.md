@@ -40,7 +40,7 @@ A exaustão pode variar em alguns níveis, cada um aplicando uma penalidade dife
 
 ### Incapacitado
 
-Uma criatura incapacitada não pode realizar nenhum tipo de ação ou reação.
+Uma criatura incapacitada não pode realizar nenhum tipo de ação ou reação. 
 
 ### Inconsciente
 
