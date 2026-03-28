@@ -171,3 +171,9 @@ Você dobra a quantidade de peças de ouro disponíveis que você possui no nív
 Duas vezes ao dia você pode escolher um teste de furtividade que for realizar para ter vantagem nele. Você não pode ter sido visto por ninguém anteriormente que você queira se esconder antes de utilizar essa habilidade. Ao atingir o Nível 7 de destreza esse limite aumenta para quatro vezes ao dia.
 
 Alternativamente, você pode adicionar +1 em todos os testes de furtividade. No nível 7 de destreza, esse bônus aumenta em um ponto adicional, totalizando +2.
+
+## Conjuração Ritual
+
+**Requisitos**: 2 de sabedoria.
+
+Você pode conjurar magias até custo 6 sem gastar mana. Para isso você terá que fazer um ritual sem ser interrompido por 10 minutos. A magia em si não pode ter como tempo de conjuração um tempo maior que três ações.

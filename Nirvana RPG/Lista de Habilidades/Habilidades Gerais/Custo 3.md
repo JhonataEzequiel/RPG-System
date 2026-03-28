@@ -196,6 +196,12 @@ Para construir uma bateria é necessário gastar 30po em materiais, e 4 horas.
 
 Você começa o encontro com uma ação adicional nas primeiras três rodadas. Após isso, um inimigo à escolha do mestre ganhará uma ação adicional em algum momento do encontro, durante o turno da criatura escolhida. A sua ação adicional não poderá ser usada para atacar, mas a concedida ao seu oponente, sim.
 
+## Ritual Supremo
+
+**Requisitos**: Habilidade "Conjuração Ritual" de custo 1. 5 de sabedoria.
+
+Você agora pode conjurar magias como ritual independentemente do custo, mas elas ainda tem que ter como tempo de conjuração 3 ações ou menos.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
