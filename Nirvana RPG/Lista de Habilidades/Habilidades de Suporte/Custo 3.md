@@ -58,3 +58,15 @@ Sempre que arremessar uma poção de cura, você curará o valor padrão da poç
 **Requisitos**: Habilidade "Insone" de custo 2. 3 de fé ou carisma, 8 de constituição.
 
 Você consegue ter um descanso curto em 30 minutos ao invés de 1 hora, e um descanso longo em 4 horas ao invés de 8 horas. Você pode escolher um alvo a mais para a habilidade Insone, mas não recuperará mana por isso.
+
+## Vazio
+
+**Requisitos**: 8 de carisma ou fé.
+
+Existe uma tristeza alcançável na alma de cada um. Diferentes culturas dão diferentes nomes a esse estado mental: sombra, morte espiritual, inferno mental, e vazio. Mas o que muitos não entendem é que o vazio na verdade é uma espada de dois gumes. Ele não é nem bom, nem ruim, e acessá-lo tem seu preço e suas recompensas.
+
+Você agora pode acessar o vazio, um estado mental aonde sua mente não pensa em mais nada. Você apenas existe no mundo naquele momento, incapaz de interagir com o mesmo. Você fica incapacitado até passar por três testes de resistência de sabedoria cuja CD vai aumentando com o tempo. Você realiza um desses testes no início de cada um de seus turnos. A CD inicial é 12, e aumente em 4 pontos por teste, totalizando 20 no último. Somente quando for bem sucedido em todos os testes você sairá do vazio.
+
+Quando sair, sua mente estará mais clara do que nunca. Você será capaz de pensar mais livremente, e agir de maneira mais compassiva. Quaisquer magias que causem um efeito positivo em um alvo que não seja você tem seus efeitos triplicados pelo resto do encontro. Por exemplo, se uma magia curar alguém, ela curará o triplo agora.
+
+Você só pode iniciar essa habilidade caso você não tenha feito nada ainda durante o turno que decidir usá-la. Você pode gastar 8 pontos de mana ao utilizar essa habilidade para estender este efeito para habilidades também.
