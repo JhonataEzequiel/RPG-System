@@ -156,3 +156,31 @@ Você consegue atacar um alvo em seus pontos de pressão, causando danos signifi
 **Custo**: 2 ações.
 
 Quando você agarrar um oponente, você pode levá-lo ao chão. Ele terá a condição caído juntamente da condição agarrado. Os efeitos são somados.
+
+## Maestria em Armas Comuns
+
+Ao invés de utilizar um bônus de atributo para acertar ataques com armas comums, você agora utilizará o maior entre o bônus de atributo e o de proficiência. Caso a arma se beneficie de múltiplos atributos para acertar o ataque, você escolhe qual deles substituirá. 
+
+O dano de suas armas comuns ignora 1 ponto de resistência do alvo, caso ele tenha resistência. O número ignorado aumenta para 3 pontos no Nível 10, e 7 pontos no Nível 15.
+
+Essa habilidade não tem efeito em armas à distância.
+
+## Maestria em Armas Leves
+
+Sempre que estiver com duas armas leves equipadas ao mesmo tempo, adicione metade do seu bônus de proficiência ao dano de ataques que acertarem. O tipo do dano será um dos possíveis tipos causados por uma das armas, à sua escolha.
+
+No Nível 15, você adiciona seu bônus de proficiência inteiro, ao invés da metade.
+
+## Maestria com Empunhadura Dupla
+
+As armas de empunhadura dupla agora ganham um aumento de alcance de ataque de 1.5m. Quando você atingir o nível 10, você perde esse bônus, e adiciona o modificador do atributo que você usa para acertar o ataque da arma em questão como aumento de alcance de ataque. Cada ponto no modificador adiciona 1.5m de alcance.
+
+## Maestria com Punhos
+
+Para cada novo inimigo em combate que você acertar um ataque desarmado, adicione +1 para acertar os ataques. Esse bônus dura durante todo o encontro.
+
+Alternativamente, você tem +1 na iniciativa, e +1 de CA se o seu modificador de destreza for 1 ou maior. Você pode trocar os efeitos dessa habilidade quando tiver um descanso curto ou longo.
+
+## Maestria com Armas à Distância
+
+Se uma arma à distância sua precisar de recarga, você pode recarregá-la com uma ação bônus. Caso não precise, adicione +5 para acertar o ataque se o alvo estiver em até metade do alcance total da arma.

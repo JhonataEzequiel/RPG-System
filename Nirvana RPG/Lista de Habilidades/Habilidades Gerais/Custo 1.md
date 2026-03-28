@@ -70,20 +70,10 @@ Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limi
 
 Você evolui de nível mais rápido que os outros, recebendo o dobro de experiência por qualquer ação feita. No entanto, você só poderá incrementar seus atributos quando for capaz de colocar um ponto em cada de uma vez. O ganho de pontos de atributo e habilidades continuará o mesmo.
 
-## Maestria com lanças 
-
-**Requisitos**: Você empunha uma lança.
-
-Com uma ação bônus, você pode trocar sua postura de batalha enquanto segurar uma lança ao final de seu turno. 
-
-A primeira postura aumenta sua constituição em 3 pontos e diminui a destreza e força em 3 pontos (mínimo de 0). Ganhe 5 pontos de resistência a qualquer dano.
-
-A segunda postura te coloca em posição ofensiva, fazendo com que você fique descuidado em suas defesas. Você recebe 1d6 a mais de dano sempre que receber dano. No entanto, seu próximo ataque realizado tem vantagem para acertar.
-
 ## Canção do Perecimento
 
 **Requisitos**: 2 de fé, 2 de inteligência. Ser capaz de falar.
-**Custo**: 2 de mana.
+**Custo**: 5 de mana.
 
 Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três rodadas, todos no alcance do seu deslocamento morrerão, incluindo você. Você pode escolher perder toda sua mana permanentemente, assim como sua capacidade de conjurar qualquer magia, não importando como a conseguiu, em troca de ser apenas nocauteado. Criaturas com resistência a dano sombrio, assim como aquelas com a condição surdo são imunes a essa habilidade. Caso obtenham a condição surdo após ouvir a canção não serão mais afetadas.
 

@@ -228,3 +228,11 @@ Você gasta o equivalente a 15po em materiais para criar um autômato mediano, e
 **Requisitos**: 3 de força ou destreza.
 
 As suas armas de fogo e bestas agora podem ser modificadas para possuírem escalas. Você gasta 10po em materiais para adicionar uma escala D em força ou destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.
+
+## Margem de Ameaça Reversa
+
+**Requisitos**: 6 em qualquer atributo.
+
+Toda vez que você causar um efeito negativo ao qual o alvo precise passar por um teste de resistência, você aplica uma punição maior para as falhas do seu oponente. A margem de ameaça reversa aumenta em 1 o número necessário para obter uma falha crítica. Por exemplo, se você tiver +1 na margem de ameaça reversa, e o alvo tirar 1 ou 2 como resultado do teste, ele terá uma falha crítica.
+
+Você tem +1 na margem de ameaça reversa. Essa habilidade pode ser pega múltiplas vezes, até um total de 3. Cada vez que você escolher essa habilidade o número da margem de ameaça aumenta em +1. Na terceira vez que escolher esta habilidade ela custará 3 pontos de habilidade para ser pega.

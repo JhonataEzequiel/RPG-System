@@ -190,6 +190,12 @@ Você agora pode criar baterias que se recarregam ao serem expostas a luz do sol
 
 Para construir uma bateria é necessário gastar 30po em materiais, e 4 horas.
 
+## Impulso Inicial
+
+**Requisitos**: 10 em qualquer atributo. Você precisa estar em um encontro com pelo menos 3 inimigos.
+
+Você começa o encontro com três ações adicionais no seu turno. Na próxima rodada esse número cai para duas. Na seguinte, para uma, e na última esse bônus de ações cessa. Depois disso, todos os inimigos terão uma ação adicional por turno até o final do encontro, totalizando 4 ações para cada até o encontro finalizar.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
