@@ -57,3 +57,16 @@ Sempre que estiver em um encontro e tiver pelo menos uma criatura aliada consigo
 Você agora pode se mover duas vezes durante uma rodada. Uma no seu turno, como sempre, e outra em qualquer outro momento da rodada. Quando não se mover no seu turno, você poderá andar ou correr, mas não poderá utilizar desengajar ou qualquer outra ação de movimentos. É impossível evitar ataques de oportunidades se você for alvo de um quando se mover fora do seu turno, ainda que tenha alguma habilidade ou efeito que te torne imune a estes ataques normalmente. 
 
 Caso você tenha 5 de carisma, você pode conceder este segundo movimento na rodada como deslocamento adicional a um de seus aliados durante o turno deles, aumentando o deslocamento que eles normalmente teriam, somando-o com o seu. Você o incentiva de alguma forma, seja com um grito de guerra, ou um gesto característico, que aumenta o espírito de luta dele. Você abdica de se mover uma segunda vez nesta rodada para fazer isso. O aliado que foi alvo deste aumento de deslocamento também não será imune a ataques de oportunidade durante este turno, ainda que normalmente seria por conta de algum efeito ativo ou habilidade.
+
+## Armadura Elemental
+
+**Requisitos**: 5 de carisma ou fé.
+
+Sempre que você conceder armadura temporariamente a um aliado, ou pontos de vida temporários, o alvo recebe resistência a dano elemental igual a metade do seu nível.
+
+## Matemático
+
+**Requisitos**: 6 de inteligência.
+**Custo**: 1 ação.
+
+Uma vez ao dia você pode analisar a situação atual de um encontro. Rode 1d100. Caso você tire um número primo, você descobrirá as resistências, vulnerabilidades, invulnerabilidades, e a CA de até 4 alvos à sua escolha. Você não gasta essa habilidade se você não tirar um número primo no d100.

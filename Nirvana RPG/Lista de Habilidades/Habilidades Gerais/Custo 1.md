@@ -163,3 +163,11 @@ Você pode ter até 2 autômatos ativos no total ao mesmo tempo. Você gasta 5po
 **Requisitos**: Esta habilidade só pode ser pega no Nível 1.
 
 Você dobra a quantidade de peças de ouro disponíveis que você possui no nível 1.
+
+## Gatuno
+
+**Requisitos**: Perito em furtividade.
+
+Duas vezes ao dia você pode escolher um teste de furtividade que for realizar para ter vantagem nele. Você não pode ter sido visto por ninguém anteriormente que você queira se esconder antes de utilizar essa habilidade. Ao atingir o Nível 7 de destreza esse limite aumenta para quatro vezes ao dia.
+
+Alternativamente, você pode adicionar +1 em todos os testes de furtividade. No nível 7 de destreza, esse bônus aumenta em um ponto adicional, totalizando +2.

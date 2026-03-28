@@ -70,3 +70,9 @@ Você agora pode acessar o vazio, um estado mental aonde sua mente não pensa em
 Quando sair, sua mente estará mais clara do que nunca. Você será capaz de pensar mais livremente, e agir de maneira mais compassiva. Quaisquer magias que causem um efeito positivo em um alvo que não seja você tem seus efeitos triplicados pelo resto do encontro. Por exemplo, se uma magia curar alguém, ela curará o triplo agora.
 
 Você só pode iniciar essa habilidade caso você não tenha feito nada ainda durante o turno que decidir usá-la. Você pode gastar 8 pontos de mana ao utilizar essa habilidade para estender este efeito para habilidades também.
+
+## Numerólogo
+
+**Requisitos**: Habilidade "Matemático" de custo 2. 10 de inteligência.
+
+Você ganha efeitos adicionais ao conseguir um número primo através da habilidade Matemático. Você agora sabe os pontos de vida máximos, atuais, e temporários dos alvos. Além disso, você tem acesso aos atributos das criaturas alvo, sabendo seus valores.

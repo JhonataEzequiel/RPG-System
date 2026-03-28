@@ -1,6 +1,6 @@
 Existem dois tipos de Gnomos, os Feéricos e os da Natureza. Além de suas habilidades e aparência, eles se diferenciam principalmente em suas origens. Os Gnomos são uma espécie de entidades que representam seus respectivos ambientes, e os primeiros nasceram como se fossem a própria vontade destes ambientes de se manifestar. Além de terem essa característica de nascerem representando os locais em questão, eles também são criaturas pequenas e bastante inteligentes, apesar de não serem tão ágeis graças a seus tamanhos diminutos.
 
-## Gnomo feérico
+## Gnomo Feérico
 
 **Proteção das Fadas** (passiva): Os Gnomos Feéricos possuem uma barreira mágica que os protege, a qual os acompanha durante todo o tempo e é desfeita após receber dano. Os efeitos variam dependendo da fonte do dano:
 
@@ -9,11 +9,11 @@ Existem dois tipos de Gnomos, os Feéricos e os da Natureza. Além de suas habil
 
 A habilidade é automática e independe de você querer usá-la ou não. No entanto, é possível desativá-la caso você deseje. Neste caso, a habilidade só poderá ser ativada novamente após um Descanso Curto ou Longo. Naturalmente, ela recupera com Descanso Longo.
 
-## Gnomo da natureza
+## Gnomo da Natureza
 
-**Espíritos da Floresta**: o Gnomo da Natureza pode se comunicar com os espíritos ao seu redor, sendo capaz de receber certas bênçãos deles. Quanto maior o Nível do Gnomo, mais afinidade ele terá com os espíritos. Os espíritos podem alterar o corpo dos Gnomos de 2 formas diferentes, garantindo estatísticas únicas. O Gnomo pode alternar entre as 2 formas com uma Ação Bônus no final de seu Turno.
+**Espíritos da Floresta**: o Gnomo da Natureza pode se comunicar com os espíritos ao seu redor, sendo capaz de receber certas bênçãos deles. Quanto maior o Nível do Gnomo, mais afinidade ele terá com os espíritos. Os espíritos podem alterar o corpo dos Gnomos de 2 formas diferentes, garantindo estatísticas únicas. O Gnomo pode alternar entre as 2 formas com uma Ação Bônus no final de seu Turno. Os Gnomos da Natureza podem desativar ambas as formas com uma ação livre, voltando a um estado neutro aonde nenhuma das duas está ativada.
 
-### Primeira forma
+### Primeira Forma
 
 Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede resistência a todos os tipos de dano, mas tem 5 de Vulnerabilidade a Dano de Fogo.
 
@@ -25,7 +25,7 @@ Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. 
 | 11-14          | 11                    |
 | 15-20          | 18                    |
 
-### Segunda forma
+### Segunda Forma
 
 Seu corpo absorve energia do sol te energiza, concedendo a você um aumento no Deslocamento, que passa a ser 12m. Ganha bônus em jogadas de Ataque, tanto para acertar, quanto para dar dano. Caso você utilize uma Magia de dano nessa forma, o dano da Magia também aumentará.
 

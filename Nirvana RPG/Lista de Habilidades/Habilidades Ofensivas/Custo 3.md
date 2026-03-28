@@ -184,7 +184,7 @@ Quando for realizar um descanso longo, diminua o tempo necessário em 2 horas. E
 ## Sol
 
 **Requisitos**: 10 de sabedoria, 10 de carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Lua" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
-**Custo**: 1 ação, 15 de mana.
+**Custo**: 1 ação, 10 de mana.
 
 A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
 
@@ -195,7 +195,7 @@ Caso utilize em conjunto com a habilidade "Lua" de custo 3, você agora curará 
 ## Lua
 
 **Requisitos**: 10 de sabedoria, 10 de carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Sol" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
-**Custo**: 1 ação, 15 de mana.
+**Custo**: 1 ação, 10 de mana.
 
 Apesar de compreender a mudança constante da vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
 
