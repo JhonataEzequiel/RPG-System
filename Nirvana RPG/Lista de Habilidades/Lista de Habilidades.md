@@ -4,3 +4,4 @@ As habilidades estarão separadas por três arquétipos para uma melhor visualiz
 [[Habilidades de Suporte]]
 [[Habilidades Defensivas]]
 [[Habilidades Gerais]]
+[[Habilidades Supremas de Raça]]

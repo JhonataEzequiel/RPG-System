@@ -1,3 +1,6 @@
+
+Todas as Habilidades Supremas de Raça custam 3 pontos de habilidade para serem adquiridas, e representam seres que se alinham com suas características raciais mais do que outros.
+
 ## Runa de Jade
 
 **Requisitos**: Você é um Anão de Nível 10 ou superior. 
