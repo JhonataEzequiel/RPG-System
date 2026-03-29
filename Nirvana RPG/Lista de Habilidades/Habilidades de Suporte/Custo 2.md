@@ -70,3 +70,9 @@ Sempre que você conceder armadura temporariamente a um aliado, ou pontos de vid
 **Custo**: 1 ação.
 
 Uma vez ao dia você pode analisar a situação atual de um encontro. Rode 1d100. Caso você tire um número primo, você descobrirá as resistências, vulnerabilidades, invulnerabilidades, e a CA de até 4 alvos à sua escolha. Você não gasta essa habilidade se você não tirar um número primo no d100.
+
+## Talento Divino
+
+**Requisitos**: 3 de fé ou carisma.
+
+Sempre que você conjurar uma magia divina, você cura o alvo da magia em metade do seu bônus de proficiência, caso seja uma magia com efeito benéfico, e adiciona metade do seu bônus de proficiência ao dano, caso seja uma magia de dano.

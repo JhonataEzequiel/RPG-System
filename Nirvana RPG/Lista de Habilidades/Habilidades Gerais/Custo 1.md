@@ -50,17 +50,17 @@ Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu nível de sab
 
 Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e desejar trocá-los para tentar intimidar um oponente, você terá +4 nessa intimidação.
 
-## Aura
+## Equilíbrio
 
-**Requisitos**: 1 de cada atributo.
+**Requisitos**: Essa habilidade só pode ser escolhida no Nível 1.
 
-Naturalmente, no nível 1 de personagem você recebe 7 pontos para alocar como quiser, desde que respeite o máximo de dois pontos em um atributo só. Com essa habilidade, sempre que você tiver 10 pontos disponíveis ou alocados além dos 7 pontos iniciais, você ganhará 1 ponto extra.
+Você ganha 1 ponto de atributo adicional nos níveis 5, e 10. No entanto, você só poderá investir esse ponto adicional no seu atributo de menor valor. Você pode adicionar o valor do seu menor atributo ao seu bônus de proficiência, se assim desejar.
 
-Além disso, você aumenta seus pontos de vida e mana em 1d4 uma única vez ao adquirir essa habilidade.
+Você ganha 1d4 de pontos de mana e vida permanentemente ao adquirir essa habilidade.
 
 ## Bom Início
 
-**Requisitos**: Esta habilidade só pode ser escolhida no nível 1.
+**Requisitos**: Esta habilidade só pode ser escolhida no Nível 1.
 
 Ganhe mais 1 ponto de atributo para alocar como quiser. Este ponto ignora o limite máximo para o nível de um atributo. Além disso, adicione 1d4 aos seus pontos de vida e mana.
 

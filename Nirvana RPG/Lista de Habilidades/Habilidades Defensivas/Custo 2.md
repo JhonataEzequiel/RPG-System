@@ -1,8 +1,8 @@
 ## Temperança
 
-**Requisitos**: 6 de fé. 2 de constituição.
+**Requisitos**: 6 de constituição.
 
-Você tem 10 de resistência a dano venenoso. Além disso, qualquer teste de carisma usado contra você tem -4.
+Você tem 3 de resistência a todos os tipos de dano. Além disso, você ganha +1 em salvaguardas para evitar magias. Caso seu bônus em uma salvaguarda qualquer seja de +1 ou menor, ele será +2.
 
 ## Comandante
 
@@ -11,14 +11,6 @@ Você tem 10 de resistência a dano venenoso. Além disso, qualquer teste de car
 Caso você não seja proficiente em conversação, você ganha essa proficiência. Caso você já seja, adicione 1d8 aos seus pontos de vida totais. Você ganha +5 em testes relacionados a qualquer contexto militar fora de um encontro em que você esteja participando, como comandar tropas ao longe, avaliar o resultado de um combate, tentar entender a história de uma região devastada por uma guerra, ou qualquer coisa do gênero.
 
 Você também ignora completamente as penalidades de deslocamento das armaduras. Quaisquer outras penalidades ainda se aplicam.
-
-## Aura Aprimorada
-
-**Requisitos**: Habilidade "Aura" de custo 1. 2 de cada atributo.
-
-Você agora pode adicionar metade do seu nível à iniciativa. 
-
-**Suprimir** (reação): Se uma criatura alvo no alcance de metade do seu deslocamento for receber dano que reduziria seus pontos de vida para 0, você pode recebê-lo no lugar, perdendo metade dos seus pontos de vida atuais. Você tem 3 de resistência a qualquer dano que a criatura que te atacou seja capaz de causar durante um encontro, e tem vantagem em testes de conversação contra a criatura, no entanto você não pode atacar a criatura (ou fazer qualquer ação que cause dano ou um efeito negativo a ela) até que o início do próximo turno daquele que você protegeu. Esta habilidade pode ser usada fora de combate, caso um de seus aliados receba dano de uma fonte não viva, como uma armadilha. Neste caso, você perderá metade dos seus pontos de vida máximos no processo, podendo ser nocauteado por isso. Você só pode usar esta reação uma vez por descanso longo. 
 
 ## Presa Ato III
 
@@ -49,3 +41,39 @@ Todos os pontos de contingência são perdidos ao fim do encontro.
 Você pode realizar novamente uma salvaguarda falha neste encontro, independente de quando ela ocorreu. Fazendo isso, você adiciona um modificador à sua escolha nesta nova rolagem. Em caso de sucesso, tudo que decorreu da falha original é completamente revertido — isso inclui dano recebido, dano contínuo acumulado desde então, condições negativas aplicadas, e ações perdidas. No caso de ações, você pode utilizá-las imediatamente após a utilização desta habilidade. 
 
 Seu corpo se recupera dos efeitos negativos como se nunca estivessem lá, fazendo com que até os inimigos no encontro notem esta sua habilidade.
+
+## Aura Aprimorada
+
+**Requisitos**: Habilidade "Aura" de custo 1. 5 de constituição.
+
+Você agora pode escolher passar em uma salvaguarda que tenha falhado, uma vez por descanso longo. Você também adquire dois pontos de aura sempre que sobreviver depois de ser nocauteado.
+
+Você pode gastar 3 pontos de aura para utilizar essa habilidade novamente sem precisar descansar.
+
+## Tamanho é Documento
+
+Dependendo do seu tamanho, você ganha alguns bônus.
+
+| Tamanho   | Bônus                                                                                    |
+| --------- | ---------------------------------------------------------------------------------------- |
+| Minúsculo | Seu deslocamento dobra, e você tem +2 em CA                                              |
+| Pequeno   | Você tem +1 em iniciativa, e +1 em CA                                                    |
+| Médio     | Sua CA nunca poderá ser menor que 12, e passa a ser 12 se ela for atualmente menor       |
+| Grande    | Você tem +3 em salvaguardas de força ou constituição                                     |
+| Enorme    | Você tem vantagem em salvaguardas de força ou constituição                               |
+| Colossal  | Você pode escolher ser bem sucedido em uma salvaguarda 3 vezes ao dia, sempre que falhar |
+
+## Amigo
+
+**Requisitos**: 1 de carisma, 4 de constituição.
+**Custo**: Reação.
+
+Você seleciona uma criatura alvo fora de combate para proteger. Você só pode ter uma criatura selecionada por vez, e pode trocar o alvo entre encontros. Sempre que essa criatura estiver dentro do alcance do seu deslocamento e for alvo de um ataque, você pode usar sua reação para se jogar na frente, adicionando metade do seu modificador de constituição à CA dela. Caso o ataque ainda acerte após esse bônus, você não sofre nenhum dano — o dano é recebido normalmente pela criatura. Caso o ataque erre, você recebe 1d4 de dano do tipo do ataque. Você termina a reação em um local adjacente ao seu amigo, a 1.5m de distância.
+
+Após usar essa habilidade três vezes na mesma criatura, você pode usar seu modificador de constituição inteiro ao invés da metade. Caso você deseje gastar 3 de mana, você pode usar o seu valor de constituição ao invés do modificador.
+
+## Além da Morte
+
+**Requisitos**: 3 de constituição.
+
+Uma vez por descanso longo, você nega metade do dano de um ataque que o deixaria nocauteado. No nível 10 de constituição, você nega completamente o dano.

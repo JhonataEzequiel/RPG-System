@@ -93,6 +93,12 @@ Se caso após 7 tentativas não conseguir um jackpot, você precisará apenas ac
 
 Uma vez por descanso longo ou curto você pode escolher o resultado de um dado que não seja de 20 lados.
 
+## Equilíbrio Aprimorado
+
+**Requisitos**: Habilidade "Equilíbrio" de custo 1.
+
+Você pode ou não adicionar o nível do seu menor atributo em qualquer teste. Além disso, você adiciona metade do seu Nível na iniciativa. Você também ganha um ponto de atributo adicional no Nível 15, mas só pode colocá-lo no seu atributo de menor nível. Por último, você pode escolher uma habilidade de custo 1 para o qual atenda aos requisitos e adquiri-la.
+
 ## Marca de Caçador
 
 **Requisitos**: 3 de destreza, 1 de sabedoria.

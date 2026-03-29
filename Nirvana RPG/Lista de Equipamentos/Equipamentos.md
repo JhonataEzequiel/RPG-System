@@ -4,6 +4,8 @@ As armaduras possuem pré-requisitos para serem utilizadas, além de possuírem 
 
 Além disso, as armaduras escalam com atributos, tornando-as melhores quanto melhor você for em utilizá-las. As escalas variam de D até S, sendo D a pior, e S a melhor. As armaduras mais fracas não possuem escala. Por exemplo, caso a armadura tenha escala S em força, e você tenha 10 de força, você conseguirá o benefício concedido no nível 1, 3, 5, 7, e 10 da escala em questão. Os benefícios de escala terão efeito apenas enquanto a armadura estiver sendo usada. Caso uma armadura escale com múltiplos atributos, você terá os bônus de ambos os atributos. Múltiplos atributos podem ter escalas diferentes. Por exemplo, uma armadura pode escalar B em força e D em destreza. Neste caso, você ganhará os benefícios da escala B em força, e D em destreza.
 
+São consideradas armaduras pesadas todas aquelas que tem alguma penalidade de deslocamento. Armaduras leves são aquelas que concede pontos adicionais na CA, mas não tem penalidades. As demais são consideradas roupas. Caso uma armadura seja uma exceção a essa regra, como uma armadura pesada mágica que não tem nenhuma penalidade, será especificado no item.
+
 Aqui estão os benefícios que cada escala proporciona ao atingir um determinado nível de atributo:
 
 | Escala | Nível 1 de atributo        | Nível 3 de atributo                         | Nível 5 de atributo        | Nível 7 de atributo | Nível 10 de atributo    |

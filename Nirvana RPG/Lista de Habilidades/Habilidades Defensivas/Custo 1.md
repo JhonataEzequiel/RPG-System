@@ -69,3 +69,21 @@ A sua resiliência acima do normal é notória. Você aumenta sua capacidade de 
 **Duração**: 1 encontro.
 
 Você liga sua mente ao de um alvo caso ele falhe num teste de resistência de sabedoria CD 10 + sab. Você anula a capacidade dele de usar mana, e você também não pode usar mana. Todo dano causado no alvo será refletido em você, fazendo com que você tome metade dele como dano verdadeiro. O alvo ainda recebe o dano completo, você apenas é ferido também. O dano que você receberá será metade do dano que o alvo recebeu após ter calculado o valor sobre quaisquer resistências que ele possua.
+
+## Aura
+
+**Requisitos**: 2 de constituição.
+
+Você agora adiciona o modificador de constituição como bônus à uma salvaguarda uma vez por descanso longo. Se você conseguir passar por um encontro recebendo, no mínimo, metade dos seus pontos de vida como dano, você ganha 1 ponto de aura. Você pode gastar um ponto de aura para utilizar essa habilidade novamente quando quiser.
+
+## Indestrutível
+
+**Requisitos**: 1 de constituição.
+
+Adicione +1 pontos de vida por Nível permanentemente, tanto para níveis anteriores ao momento em que você adquirir essa habilidade, quanto futuros.
+
+## Tribulação
+
+**Requisitos**: 4 de constituição.
+
+Sempre que você optar por rolar o dado para adquirir pontos de vida ao subir de nível, adicione metade do seu bônus de proficiência. Nos níveis 5, 10, 15, e 20, adicione o bônus inteiro ao resultado ao invés da metade.

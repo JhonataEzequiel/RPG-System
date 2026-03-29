@@ -62,3 +62,23 @@ Você se ajoelha por um momento no combate, rezando e pedindo por auxílio. Role
 | 3                | Você tem vantagem em qualquer salvaguarda                                         |
 | 4                | Você tem vantagem em ataques, e causa 1d10 de dano radiante adicional caso acerte |
 Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 3 de mana para rolar novamente o dado e obter um novo bônus. Um bônus já resultante poderá ser novamente o resultado da rolagem, sendo adicionado novamente. Para cada vez que rolar o dado a partir de então o custo de mana dobrará.
+
+## Aura Final
+
+**Requisitos**: Habilidade "Aura Aprimorada" de custo 2. 10 de constituição.
+
+Você agora pode transformar seus pontos de aura em pontos de vida temporários com uma ação bônus. Cada ponto de aura equivale a 10 pontos de vida temporários. Você escolhe quantos pontos de aura irá gastar. Se, por qualquer razão, você consiga pelo menos 50 pontos de vida temporários no total, ao somar quaisquer bônus que o conceda pontos de vida temporários, você pode escolher gastar todos os seus pontos de vida temporários para conceder +50 de dano verdadeiro no seu próximo ataque.
+
+## Supremo Protetor
+
+**Requisitos**: 7 de constituição. Você precisa estar pelo menos Nível 12 para adquirir essa habilidade.
+
+Após muitas batalhas e desafios, você sente que está se aproximando do seu auge como defensor da equipe. 
+
+Você tem uma reação adicional em todas as rodadas, mas ela só pode ser usada para efeitos positivos que visem evitar ou mitigar um efeito negativo em um alvo, como habilidades e magias de proteção usadas como reação. Ademais, você tem +1 de CA.
+
+## Forjado no Fogo
+
+**Requisitos**: 10 em constituição, 10 em qualquer outro atributo.
+
+Quando você estiver sob o efeito de uma condição negativa, você não sofrerá mais desvantagens em nada, nem mesmo se essas desvantagens forem advindas de outras fontes que não são a condição em si.

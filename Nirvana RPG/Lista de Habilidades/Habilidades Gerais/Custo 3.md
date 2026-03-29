@@ -106,11 +106,13 @@ Você entoa um cântico de louvor à uma entidade cósmica desconhecida. Seu cla
 
 Esta habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um descanso longo anterior ao combate. Isso inclui poder usar novamente certas habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua mana, trocar as magias preparadas, etc.
 
-## Aura Suprema
+## Equilíbrio Supremo
 
-**Requisitos**: Habilidade "Aura Aprimorada" de custo 2. 4 de cada atributo.
+**Requisitos**: Habilidade "Equilíbrio Aprimorado" de custo 2.
 
-Você tem +3 em qualquer salvaguarda que tenha que fazer para evitar um efeito negativo de uma magia. Você também adiciona metade do seu nível a qualquer dano que causar por meio de ataques. Por último, adicione metade do seu nível como mana permanentemente.
+Você adiciona o valor do seu menor atributo como pontos de vida e mana permanentemente. Sua CA aumenta de acordo com o modificador do seu atributo de menor nível, se você assim desejar. Você também ganha dois pontos de atributo adicionais no Nível 20, mas só pode colocá-los no seu atributo de menor nível. 
+
+Por último, na primeira vez que utilizar uma habilidade que tenha custo de ações e mana, você não gastará nenhuma ação nem mana. Esse efeito só acontece se você não tiver nenhum atributo abaixo de 0, e recarrega com descanso longo.
 
 ## Alquimista Supremo
 
