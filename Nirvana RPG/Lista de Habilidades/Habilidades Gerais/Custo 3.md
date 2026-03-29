@@ -204,6 +204,24 @@ Você começa o encontro com uma ação adicional nas primeiras três rodadas. A
 
 Você agora pode conjurar magias como ritual independentemente do custo, mas elas ainda tem que ter como tempo de conjuração 3 ações ou menos.
 
+## Ferraria Avançada
+
+**Requisitos**: Habilidade "Ferraria Intermediária" de custo 2. 5 de sabedoria, 2 de inteligência.
+
+Você agora pode realizar múltiplas infusões de itens mágicos, assim como consta as regras de infusão. Você não terá custo adicional pelas pedras mágicas, ou seja, elas custarão o valor que consta na tabela. Ainda que ferreiros normalmente cobrem o dobro do preço para infundir uma pedra mágica em um item já infundido, isto não refletirá no preço das pedras em si. Você ainda pode cobrar o valor que quiser pelos seus serviços, claro.
+
+## Ferraria Mágica
+
+**Requisitos**: Habilidade "Ferraria Avançada" de custo 3. 8 de sabedoria, 3 de inteligência.
+
+Você pode criar itens mágicos, caso tenha os materiais necessários. Neste caso, o que for necessário para criar um item mágico fica a critério do mestre, caso o próprio item não especifique isso. Para criar um item mágico de grau 1 você gasta 3 dias. De grau 2, uma semana. De grau 3, um mês.
+
+## Ferraria Inigualável
+
+**Requisitos**: Habilidade "Ferraria Mágica" de custo 3. 10 de sabedoria, 4 de inteligência.
+
+Você diminui o tempo para forjar ou infundir qualquer item não-mágico pela metade. Além disso, você gasta metade do valor em materiais para criar itens não-mágicos. Sua capacidade de carga agora não é aumentada em duas vezes o seu nível de proficiência, como dizia na habilidade Ferraria, mas em quatro vezes.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.

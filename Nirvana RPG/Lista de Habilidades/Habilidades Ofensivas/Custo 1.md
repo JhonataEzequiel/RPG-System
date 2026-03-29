@@ -105,7 +105,7 @@ Você tem -1 em todos os testes de perícias que não sejam atletismo. Em troca,
 
 **Requisitos**: 2 de força ou destreza.
 
-Seus punhos agora tem escala B tanto em força, quanto em destreza. Quando você chegar no nível 10 de qualquer um desses atributos, você escolhe uma dessas duas escalas para aumentá-la para A. Ao chegar no nível 14, o outro atributo que não foi escolhido também terá escala A.
+Seus punhos agora tem escala B tanto em força, quanto em destreza. Quando você chegar no nível 10 de qualquer um desses atributos, você escolhe uma dessas duas escalas para aumentá-la para A. Ao chegar no nível 14 de personagem, o outro atributo que não foi escolhido também terá escala A.
 
 Caso você utilize uma arma de punho, ela causará 2d8 a mais de dano, mas suas escalas não serão modificadas.
 
@@ -135,7 +135,7 @@ Ao atingir o nível 8 em força ou destreza, o dano de itens arremessáveis aume
 
 **Requisitos**: 5 de destreza.
 
-Toda vez que você acertar um ataque físico em um inimigo ele estará como se estivesse molhado. É como se seus ataques canalizassem a essência das águas contra seu oponente. Você escolhe quais ataques terão este efeito.
+Toda vez que você acertar um ataque desarmado em um inimigo ele estará como se estivesse molhado. É como se seus ataques canalizassem a essência das águas contra seu oponente. Você escolhe quais ataques terão este efeito.
 
 ## Pontos de Pressão
 
@@ -173,7 +173,7 @@ No Nível 15, você adiciona seu bônus de proficiência inteiro, ao invés da m
 
 ## Maestria com Empunhadura Dupla
 
-As armas de empunhadura dupla agora ganham um aumento de alcance de ataque de 1.5m. Quando você atingir o nível 10, você perde esse bônus, e adiciona o modificador do atributo que você usa para acertar o ataque da arma em questão como aumento de alcance de ataque. Cada ponto no modificador adiciona 1.5m de alcance.
+As armas de empunhadura dupla agora ganham um aumento de alcance de ataque de 1.5m. Quando você atingir o nível 10, você perde esse bônus, e adiciona o modificador do atributo que você usa para acertar o ataque da arma em questão como aumento de alcance de ataque. Cada ponto no modificador adiciona 1.5m de alcance. O alcance máximo que você pode aumentar é de 4.5m, quando o seu modificador for 3.
 
 ## Maestria com Punhos
 

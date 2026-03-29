@@ -177,3 +177,18 @@ Alternativamente, você pode adicionar +1 em todos os testes de furtividade. No 
 **Requisitos**: 2 de sabedoria.
 
 Você pode conjurar magias até custo 6 sem gastar mana. Para isso você terá que fazer um ritual sem ser interrompido por 10 minutos. A magia em si não pode ter como tempo de conjuração um tempo maior que três ações.
+
+## Ferraria
+
+**Requisitos**: 2 de sabedoria. Você precisa ter uma Bigorna e um Martelo de Forja.
+
+Você pode forjar qualquer arma ou armadura não-mágica da lista de itens, desde que tenha o dinheiro necessário para tal. O custo para forjar um item é igual ao preço sugerido na tabela de itens, refletindo o custo dos materiais necessários. O tempo para forjar um item aumenta conforme o peso dele:
+
+|Peso do Item|Tempo de Forja|
+|---|---|
+|Menos de 1 kg|8 horas|
+|1 kg a 10 kg|24 horas|
+|10 kg a 30 kg|3 dias|
+|Mais de 30 kg|1 semana|
+
+Sua capacidade de carga agora é aumentada em duas vezes o seu nível de proficiência.

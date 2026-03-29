@@ -161,3 +161,20 @@ Você agora é capaz de realizar ataques desarmados em um alvo da habilidade aga
 **Custo**: Ação Bônus.
 
 Você pode realizar um ataque desarmado em um alvo afetado por submissão utilizando apenas uma ação bônus. Você aperta o pescoço do seu oponente, causando o dano de um ataque desarmado. O alvo terá que passar por um teste de resistência CD 10 + for + dex. Em caso de falha, ele terá a condição inconsciente também.
+
+## Evolução Pugilista
+
+**Requisitos**: Habilidade "Força Natural" de custo 1. Você deve estar pelo menos Nível 14.
+
+Você pode optar por escolher um dos seguintes benefícios:
+- Suas escalas A em força e em destreza com os punhos agora serão S;
+- Seus punhos terão escala S em algum outro atributo de sua escolha, com exceção de força e destreza;
+- Você aumenta seu deslocamento em 3m, ganha +3 em iniciativa, e +1 de CA enquanto só estiver equipado com armas de punho;
+
+## Punho Divino e Blasfemo
+
+**Requisitos**: Habilidade "Evolução Pugilista" de custo 2.
+
+Você agora tem opção de causar dano sombrio ou radiante com seus ataques desarmados. Caso você não esteja usando uma arma de punhos, seu dano de ataques desarmados recebe um aumento de 1d12 + int ou fth de dano radiante ou sombrio, à sua escolha. Caso seus modificadores de inteligência ou fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
+
+Caso esteja com uma arma de punho que já cause algum desses tipos de dano, adicione metade do seu nível ao dano causado por ela. O tipo de dano adicional será de acordo com o tipo de dano causado pela arma.

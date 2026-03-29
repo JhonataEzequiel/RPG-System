@@ -2,7 +2,7 @@
 
 As armaduras possuem pré-requisitos para serem utilizadas, além de possuírem escalas com alguns atributos. Os pré-requisitos podem ir de 0 até 10, e para ganhar os benefícios da armadura você precisará atendê-los. Caso contrário, ela apenas contará como peso extra, não aumentando a sua CA ou proporcionando efeitos positivos. Efeitos negativos ainda terão efeitos, caso a armadura em questão possua algum.
 
-Além disso, as armaduras escalam com atributos, tornando-as melhores quanto melhor você for em utilizá-las. As escalas variam de D até S, sendo D a pior, e S a melhor. As armaduras mais fracas não possuem escala. Por exemplo, caso a armadura tenha escala S em força, e você tenha 10 de força, você conseguirá o benefício concedido no nível 1, 3, 5, 7, e 10 da escala em questão. Os benefícios de escala terão efeito apenas enquanto a armadura estiver sendo usada. Caso uma armadura escale com múltiplos atributos, você terá os bônus de ambos os atributos. Múltiplos atributos podem ter escalas diferentes. Por exemplo, uma armadura pode escalar B em força e D em destreza. Neste caso, você ganhará os benefícios da escala B em força, e D em destreza.
+Além disso, as armaduras escalam com atributos, tornando-as melhores quanto melhor você for em utilizá-las. As escalas variam de D até S, sendo D a pior, e S a melhor. As armaduras mais fracas não possuem escala. Por exemplo, caso a armadura tenha escala S em força, e você tenha 10 de força, você conseguirá o benefício concedido no nível 1, 3, 5, 7, e 10 da escala em questão. Os benefícios de escala terão efeito apenas enquanto a armadura estiver sendo usada. Caso uma armadura escale com múltiplos atributos, você terá os bônus de ambos os atributos. Múltiplos atributos podem ter escalas diferentes. Por exemplo, uma armadura pode escalar B em força e D em destreza. Neste caso, você ganhará os benefícios da escala B em força, e D em destreza. Os bônus de nível de atributo da escala são cumulativos. Ou seja, se você tiver nível 10 no atributo em questão, terá todos os bônus anteriores também.
 
 São consideradas armaduras pesadas todas aquelas que tem alguma penalidade de deslocamento. Armaduras leves são aquelas que concede pontos adicionais na CA, mas não tem penalidades. As demais são consideradas roupas. Caso uma armadura seja uma exceção a essa regra, como uma armadura pesada mágica que não tem nenhuma penalidade, será especificado no item.
 
@@ -13,8 +13,8 @@ Aqui estão os benefícios que cada escala proporciona ao atingir um determinado
 | S      | +10 pontos de vida máximos | +3 de resistência a dano físico e elemental | +10 pontos de vida máximos | +3 de iniciativa    | +3 de CA                |
 | A      | +3 pontos de vida máximos  | +2 de resistência a dano físico             | +3 pontos de vida máximos  | +2 de iniciativa    | +3 de CA                |
 | B      | +4 pontos de vida máximos  | +1 de resistência a dano físico             | +2 pontos de vida máximos  | +2 de iniciativa    | +2 de CA                |
-| C      | +2 pontos de vida máximos  | +1 de iniciativa                            | +2 pontos de vida máximos  | +1 de iniciativa    | +1 de CA                |
-| D      | +1 ponto de vida máximo    | +1 de iniciativa                            | +1 ponto de vida máximo    | +1 de inciativa     | +1 ponto de vida máximo |
+| C      | +2 pontos de vida máximos  | +1 de resistência a dano físico             | +2 pontos de vida máximos  | +1 de iniciativa    | +1 de CA                |
+| D      | +1 ponto de vida máximo    | +1 de resistência a dano físico             | +1 ponto de vida máximo    | +1 de inciativa     | +1 ponto de vida máximo |
 
 ### Armas
 
@@ -72,5 +72,6 @@ As moedas ditam a economia do jogo, e também servem como tesouro mais básico. 
 [[Instrumentos Musicais]]
 [[Grimórios]]
 [[Poções e Venenos]]
-[[Outros Itens]]
 [[Arremessáveis]]
+[[Infusões]]
+[[Outros Itens]]

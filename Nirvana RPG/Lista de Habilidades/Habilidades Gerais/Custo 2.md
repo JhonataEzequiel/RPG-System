@@ -242,3 +242,9 @@ As suas armas de fogo e bestas agora podem ser modificadas para possuírem escal
 Toda vez que você causar um efeito negativo ao qual o alvo precise passar por um teste de resistência, você aplica uma punição maior para as falhas do seu oponente. A margem de ameaça reversa aumenta em 1 o número necessário para obter uma falha crítica. Por exemplo, se você tiver +1 na margem de ameaça reversa, e o alvo tirar 1 ou 2 como resultado do teste, ele terá uma falha crítica.
 
 Você tem +1 na margem de ameaça reversa. Essa habilidade pode ser pega múltiplas vezes, até um total de 3. Cada vez que você escolher essa habilidade o número da margem de ameaça aumenta em +1. Na terceira vez que escolher esta habilidade ela custará 3 pontos de habilidade para ser pega.
+
+## Ferraria Intermediária
+
+**Requisitos**: Habilidade "Ferraria" de custo 1. 4 de sabedoria, 1 de inteligência.
+
+Você agora pode realizar infusões em itens não-mágicos. Você precisa ter a pedra de infusão para fazê-lo, mas não terá nenhum outro custo adicional. O tempo para realizar a infusão é o mesmo descrito nas regras de infusão.

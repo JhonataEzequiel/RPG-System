@@ -40,9 +40,10 @@ A tabela abaixo contém itens básicos úteis para aventureiros em suas jornadas
 | Binóculo Simples          | Versão mais básica da luneta. Aumenta alcance de visão em 2 vezes. Sem bônus mecânico.                                                                                                 | 8pp   | 0.3 kg                       |
 | Saco de Areia (5kg)       | Útil para criar barreiras, apagar fogo, ou como peso. Sem utilidade mecânica direta.                                                                                                   | 1pc   | 5 kg                         |
 | Roupa de Disfarce         | Conjunto de roupas neutras e adaptáveis. Concede vantagem em testes de atuação ao se passar por alguém de outra classe social ou profissão.                                            | 8pp   | 1 kg                         |
-| Ferramentas de Ladrão     | Gazuas, grampos, e ferramentas finas para arrombar fechaduras e desarmar armadilhas. Concede +7 em testes de desarmar armadilhas.                                                      | 1po   | 0.5 kg                       |
-| Item                      | Funcionalidade                                                                                                                                                                         | Custo | Peso                         |
+| Ferramentas de Ladrão     | Gazuas, grampos, e ferramentas finas para arrombar fechaduras e desarmar armadilhas. Concede +7 em testes de ladroagem para desarmar armadilhas ou abrir fechaduras. Uso ilimitado.    | 1po   | 0.5 kg                       |
 | Símbolo Sagrado           | Representação física de uma divindade ou crença. Pode ser usado como catalisador de magias sagradas no lugar de outros itens. Concede +1 em testes de fé.                              | 3po   | 0.2 kg                       |
+| Bigorna                   | Ferramenta necessária para forja de itens de metal. É como uma mesa de forja capaz de ser carregada por um meio de transporte, ou nas costas de pessoas particularmente capazes.       | 45po  | 45 kg                        |
+| Martelo de Forja          | Ferramenta necessária para forja de diversos itens.                                                                                                                                    | 1po   | 1.5 kg                       |
 
 
 
