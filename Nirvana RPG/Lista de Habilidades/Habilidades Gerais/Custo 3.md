@@ -214,7 +214,7 @@ Você agora pode realizar múltiplas infusões de itens mágicos, assim como con
 
 **Requisitos**: Habilidade "Ferraria Avançada" de custo 3. 8 de sabedoria, 3 de inteligência.
 
-Você pode criar itens mágicos, caso tenha os materiais necessários. Neste caso, o que for necessário para criar um item mágico fica a critério do mestre, caso o próprio item não especifique isso. Para criar um item mágico de grau 1 você gasta 3 dias. De grau 2, uma semana. De grau 3, um mês.
+Você pode criar itens mágicos e únicos, caso tenha os materiais necessários. Neste caso, o que for necessário para criar um item mágico fica a critério do mestre, caso o próprio item não especifique isso. Para criar um item mágico de grau 1 você gasta 3 dias. De grau 2, uma semana. De grau 3, um mês. Você não pode criar poções, venenos, bombas, ou coisas similares. Num geral, tudo que for de metal ou joias é permitido criar. Demais itens precisarão da aprovação do seu mestre para serem forjados.
 
 ## Ferraria Inigualável
 
