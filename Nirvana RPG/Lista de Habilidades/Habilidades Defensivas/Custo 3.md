@@ -81,4 +81,4 @@ Você tem uma reação adicional em todas as rodadas, mas ela só pode ser usada
 
 **Requisitos**: 10 em constituição, 10 em qualquer outro atributo.
 
-Quando você estiver sob o efeito de uma condição negativa, você não sofrerá mais desvantagens em nada, nem mesmo se essas desvantagens forem advindas de outras fontes que não são a condição em si.
+Quando você estiver sob o efeito de uma condição negativa, você não sofrerá mais desvantagens em nada, nem mesmo se essas desvantagens forem advindas de outras fontes que não são a condição em si. Todas as vezes que você iria receber uma desvantagem, agora você terá vantagem no lugar. Isso incluí desvantagens impostas pela condição negativa que te afligir.

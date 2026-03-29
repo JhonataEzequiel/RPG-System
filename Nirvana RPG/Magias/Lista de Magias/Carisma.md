@@ -40,6 +40,8 @@ Conjurar Animal: 1 de carisma. Sagrada.
 
 Golpe Certo: 1 de inteligência ou carisma. Imaculada.
 
+Domo Protetor: 1 de carisma ou de fé. Sagrada.
+
 ### Custo 2:
 
 Alterar Forma (incompleta): 2 de carisma. Imaculada.

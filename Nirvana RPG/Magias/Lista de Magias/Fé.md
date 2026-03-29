@@ -38,6 +38,8 @@ Tormenta Carmesim: 1 de inteligência, 1 de fé. Sangue.
 
 Garras de Sangue: 1 de inteligência, 1 de fé. Sangue.
 
+Domo Protetor: 1 de carisma ou de fé. Sagrada.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
