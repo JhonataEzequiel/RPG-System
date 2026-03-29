@@ -67,7 +67,7 @@ Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 
 
 **Requisitos**: Habilidade "Aura Aprimorada" de custo 2. 10 de constituição.
 
-Você agora pode transformar seus pontos de aura em pontos de vida temporários com uma ação bônus. Cada ponto de aura equivale a 10 pontos de vida temporários. Você escolhe quantos pontos de aura irá gastar. Se, por qualquer razão, você consiga pelo menos 50 pontos de vida temporários no total, ao somar quaisquer bônus que o conceda pontos de vida temporários, você pode escolher gastar todos os seus pontos de vida temporários para conceder +50 de dano verdadeiro no seu próximo ataque.
+Você agora pode transformar seus pontos de aura em pontos de vida temporários com uma ação bônus. Cada ponto de aura equivale a 10 pontos de vida temporários que duram até o fim do encontro. Você escolhe quantos pontos de aura irá gastar. Se, por qualquer razão, você consiga pelo menos 50 pontos de vida temporários no total, ao somar quaisquer bônus que o conceda pontos de vida temporários, você pode escolher gastar todos os seus pontos de vida temporários para conceder +50 de dano verdadeiro no seu próximo ataque.
 
 ## Supremo Protetor
 

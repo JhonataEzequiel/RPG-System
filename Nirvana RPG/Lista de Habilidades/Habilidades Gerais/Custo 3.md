@@ -222,6 +222,16 @@ Você pode criar itens mágicos e únicos, caso tenha os materiais necessários.
 
 Você diminui o tempo para forjar ou infundir qualquer item não-mágico pela metade. Além disso, você gasta metade do valor em materiais para criar itens não-mágicos. Sua capacidade de carga agora não é aumentada em duas vezes o seu nível de proficiência, como dizia na habilidade Ferraria, mas em quatro vezes.
 
+## Trocar de Lado
+
+**Requisitos**: Habilidade "Força Natural" de custo 1. 10 de inteligência.
+**Custo**: ação bônus.
+**Duração**: 1 encontro.
+
+Você pode trocar seu atributo de inteligência temporariamente com qualquer outro atributo que quiser, desde você não esteja equipado com nada em suas mãos, com exceção de armas de punho. Você também ganha 30 pontos de vida temporários que se encerram ao fim do combate. Você pode reverter essa habilidade com uma ação bônus, mas seus pontos de vida temporários também serão perdidos.
+
+A troca em si não vai impactar aspectos narrativos do seu personagem, como torná-lo menos capaz de exercer atividades básicas relacionadas a inteligência. Por exemplo, um personagem com inteligência especialmente baixa, como -4, teria problemas até para formar frases coerentes. Neste caso, você não passará por esse tipo de problema. É como se, temporariamente, você se focasse em apenas ser um combatente corpo a corpo, e esquecesse suas outras características.
+
 ## Nirvana
 
 **Requisitos**: Nenhum atributo pode ter um valor abaixo de 7.
