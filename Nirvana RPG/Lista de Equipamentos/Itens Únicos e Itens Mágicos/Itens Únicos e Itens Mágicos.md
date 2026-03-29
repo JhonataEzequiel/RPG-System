@@ -1,1 +1,0 @@
-Alguns itens são particularmente únicos e raros, ou possuem propriedades mágicas intrínsecas. Neste caso, cada um deles terá uma descrição mais detalhada que irá além de sua tabela básica de atributos. Este espaço é reservado para detalhar tais itens
