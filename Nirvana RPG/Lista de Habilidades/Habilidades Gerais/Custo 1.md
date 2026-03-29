@@ -54,7 +54,7 @@ Por exemplo, se você tiver 6 níveis em destreza e 2 níveis em carisma, e dese
 
 **Requisitos**: Essa habilidade só pode ser escolhida no Nível 1.
 
-Você ganha 1 ponto de atributo adicional nos níveis 5, e 10. No entanto, você só poderá investir esse ponto adicional no seu atributo de menor valor. Você pode adicionar o valor do seu menor atributo ao seu bônus de proficiência, se assim desejar.
+Você ganha 1 ponto de atributo adicional nos níveis 5, e 10. No entanto, você só poderá investir esses pontos adicionais no seu atributo de menor valor. Você pode adicionar o valor do seu menor atributo ao seu bônus de proficiência, se assim desejar.
 
 Você ganha 1d4 de pontos de mana e vida permanentemente ao adquirir essa habilidade.
 
@@ -184,11 +184,11 @@ Você pode conjurar magias até custo 6 sem gastar mana. Para isso você terá q
 
 Você pode forjar qualquer arma ou armadura não-mágica da lista de itens, desde que tenha o dinheiro necessário para tal. O custo para forjar um item é igual ao preço sugerido na tabela de itens, refletindo o custo dos materiais necessários. O tempo para forjar um item aumenta conforme o peso dele:
 
-|Peso do Item|Tempo de Forja|
-|---|---|
-|Menos de 1 kg|8 horas|
-|1 kg a 10 kg|24 horas|
-|10 kg a 30 kg|3 dias|
-|Mais de 30 kg|1 semana|
+| Peso do Item  | Tempo de Forja |
+| ------------- | -------------- |
+| Menos de 1 kg | 8 horas        |
+| 1 kg a 10 kg  | 24 horas       |
+| 10 kg a 30 kg | 3 dias         |
+| Mais de 30 kg | 1 semana       |
 
 Sua capacidade de carga agora é aumentada em duas vezes o seu nível de proficiência.

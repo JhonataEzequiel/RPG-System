@@ -25,7 +25,7 @@ Você tem os dois efeitos que originalmente você precisava escolher da Visão d
 
 **Requisitos**: Você é um Elfo Negro de Nível 10 ou superior.
 
-Seu limite antigo de se teletransportar duas vezes ao dia no nível 14 agora é removido, e você pode fazer isso 4 vezes por descanso curto.
+Seu limite antigo de se teletransportar duas vezes ao dia no nível 14 agora é removido, e você pode fazer isso 4 vezes por descanso curto. Você também pode se teletransportar essas 4 vezes já no Nível 10.
 
 ## Fantasma Possuidor
 
@@ -37,7 +37,7 @@ Quando você possuir um objeto que naturalmente não pode se mover, você agora 
 
 **Requisitos**: Você é um Gnomo Feérico de Nível 10 ou superior.
 
-Ao receber dano e ter sua Proteção das Fadas desfeita, você reflete metade desse dano. O dano refletido não pode ultrapassar seu Nível. Além disso, sua quantidade de pontos de vida temporários para receber o dano de magias aumenta em 10.
+Ao receber dano e ter sua Proteção das Fadas desfeita, você reflete metade desse dano. O dano refletido não pode ultrapassar seu Nível. Além disso, sua quantidade de pontos de vida temporários para receber o dano de outras fontes que não sejam ataques aumenta em 10.
 
 ## Floresta Interior
 

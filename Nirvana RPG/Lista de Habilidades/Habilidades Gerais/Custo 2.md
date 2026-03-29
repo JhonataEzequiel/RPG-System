@@ -213,7 +213,7 @@ Você tem +4 em testes de conversação que visam enganar alguém, desde que sua
 
 **Requisitos**: 3 de inteligência.
 
-Você agora consegue criar pequenas capsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho grande dentro delas. As gaiolas encolhem o item, que fica dentro delas como se estivesse em miniatura. Com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do seu alcance. Para liberar um item você gasta uma ação bônus. Um autômato demora 1 hora para recarregar na luz do sol.
+Você agora consegue criar pequenas capsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho grande dentro delas. As gaiolas encolhem o item, que fica dentro delas como se estivesse em miniatura. Com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do seu alcance. Para liberar um item você gasta uma ação bônus.
 
 As gaiolas precisam de energia para funcionar, e se alimentam da luz do sol para isso. Caso elas passem 24 horas sem contato com a luz do sol, elas param de funcionar, e o item dentro delas fica preso. Ao receber energia novamente sua função é recobrada. Alternativamente, você também pode energizá-las com mana. Você gasta 1d6 pontos de mana para energizar uma gaiola por 24 horas.
 

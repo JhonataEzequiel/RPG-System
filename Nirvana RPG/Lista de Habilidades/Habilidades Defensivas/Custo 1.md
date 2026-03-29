@@ -22,7 +22,7 @@ Provoca um inimigo ao alcance de seu deslocamento. O inimigo deverá passar por 
 
 ## Pele Dura
 
-A pele do usuário torna-se mais resistente a medida que ele recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que o usuário for nocauteado, ganha um bônus de 2 de resistência contra qualquer dano. O bônus é cumulativo, e é perpétuo.
+A sua pele torna-se mais resistente a medida que recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que você for nocauteado, ganhará um bônus de 5 de resistência contra qualquer dano que você quiser. O bônus é cumulativo, e é perpétuo.
 
 Alternativamente você pode optar por ganhar 5 de resistência ao dano que o nocauteou. O bônus também é cumulativo e perpétuo.
 

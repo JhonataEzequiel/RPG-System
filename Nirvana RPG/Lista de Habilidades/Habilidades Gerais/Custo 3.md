@@ -166,7 +166,7 @@ Você agora consegue criar autômatos medianos pela metade do tempo normal, e ta
 
 Você pode ter até 4 autômatos ativos ao mesmo tempo. Assim como os autômatos menores e medianos, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um autômato maior são todos iguais a 3, e eles tem duas ações e uma ação bônus no turno deles. A CA deles é 13 + qualquer bônus concedido por armaduras, e tem 5d8 de pontos de vida. O deslocamento deles é de 9m.
 
-Você gasta o equivalente a 35po em materiais para criar um autômato mediano, e precisa de 8 horas para criar um deles.
+Você gasta o equivalente a 35po em materiais para criar um autômato maior, e precisa de 8 horas para criar um deles.
 
 ## Atirador Profissional
 
@@ -208,7 +208,7 @@ Você agora pode conjurar magias como ritual independentemente do custo, mas ela
 
 **Requisitos**: Habilidade "Ferraria Intermediária" de custo 2. 5 de sabedoria, 2 de inteligência.
 
-Você agora pode realizar múltiplas infusões de itens mágicos, assim como consta as regras de infusão. Você não terá custo adicional pelas pedras mágicas, ou seja, elas custarão o valor que consta na tabela. Ainda que ferreiros normalmente cobrem o dobro do preço para infundir uma pedra mágica em um item já infundido, isto não refletirá no preço das pedras em si. Você ainda pode cobrar o valor que quiser pelos seus serviços, claro.
+Você agora pode realizar múltiplas infusões de itens mágicos, assim como consta as regras de infusão. Você não terá custo adicional pelas pedras mágicas, ou seja, elas custarão o valor que consta na tabela. Ainda que ferreiros normalmente cobrem o dobro do preço para infundir uma pedra mágica em um item já infundido, isto não refletirá no preço das pedras em si. Você ainda pode cobrar o valor que quiser pelos seus serviços.
 
 ## Ferraria Mágica
 
