@@ -1,18 +1,14 @@
-### Atordoado
+### Agarrado
 
-É incapaz de agir até que se liberte do atordoamento. Normalmente só pode realizar testes para sair do atordoamento que são detalhados pelo que o fez ficar atordoado (como uma magia que diz qual a salvaguarda necessária para sair do atordoamento), mas podem existir habilidades e magias que ignoram essa condição e que poderão ser usadas normalmente. Quem está atordoado falha automaticamente em salvaguardas de força e destreza.
+O deslocamento da criatura agarrada é reduzido a zero, e a criatura perde uma de suas ações enquanto estiver agarrado, tendo só 2 ações por turno.
 
 ### Amedrontado
 
 Sofre desvantagem em ataques, e seu deslocamento é cortado pela metade.
 
-### Encantado
+### Atordoado
 
-Um alvo encantado não pode agir contra aquele que o encantou ou seus aliados. Quem encantou o alvo tem vantagem para atacá-lo.
-
-### Agarrado
-
-O deslocamento da criatura agarrada é reduzido a zero, e a criatura perde uma de suas ações enquanto estiver agarrado, tendo só 2 ações por turno.
+É incapaz de agir até que se liberte do atordoamento. Normalmente só pode realizar testes para sair do atordoamento que são detalhados pelo que o fez ficar atordoado (como uma magia que diz qual a salvaguarda necessária para sair do atordoamento), mas podem existir habilidades e magias que ignoram essa condição e que poderão ser usadas normalmente. Quem está atordoado falha automaticamente em salvaguardas de força e destreza.
 
 ### Caído (ou derrubado)
 
@@ -24,23 +20,26 @@ Uma criatura cega não consegue enxergar e falha automaticamente em qualquer tes
 
 Jogadas de ataque contra uma criatura cega têm vantagem e jogadas de ataque da criatura cega têm desvantagem.
 
+### Encantado
+
+Um alvo encantado não pode agir contra aquele que o encantou ou seus aliados. Quem encantou o alvo tem vantagem para atacá-lo.
+
 ### Exaustão
 
 A exaustão pode variar em alguns níveis, cada um aplicando uma penalidade diferente. Normalmente se está exausto após passar longos períodos sem um descanso longo, mas alguns monstros ou magias podem infligir essa condição de outras formas. A cada dia sem um descanso longo o nível de exaustão aumenta.
 
-| Nível de Exaustão | Efeito                                       |
-| ----------------- | -------------------------------------------- |
-| 1                 | Desvantagem em quaisquer testes de atributo  |
-| 2                 | Deslocamento reduzido pela metade            |
-| 3                 | -10 em jogadas de ataque                     |
-| 4                 | Pontos de vida máximos reduzidos pela metade |
-| 5                 | Deslocamento reduzido para 0                 |
-| 6                 | Morte                                        |
-
+|Nível de Exaustão|Efeito|
+|---|---|
+|1|Desvantagem em quaisquer testes de atributo|
+|2|Deslocamento reduzido pela metade|
+|3|-10 em jogadas de ataque|
+|4|Pontos de vida máximos reduzidos pela metade|
+|5|Deslocamento reduzido para 0|
+|6|Morte|
 
 ### Incapacitado
 
-Uma criatura incapacitada não pode realizar nenhum tipo de ação ou reação. 
+Uma criatura incapacitada não pode realizar nenhum tipo de ação ou reação.
 
 ### Inconsciente
 
@@ -55,6 +54,12 @@ Jogadas de ataque contra a criatura têm vantagem. Qualquer ataque que acerte a 
 ### Invisível
 
 Uma criatura invisível tem vantagem em testes de furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer ataque contra alguém invisível tem desvantagem.
+
+### Nocauteado
+
+Você é incapacitado, e só pode sair desta condição caso seja estabilizado de alguma forma. A única forma de ser nocauteado é caso seus pontos de vida cheguem a zero.
+
+Para se libertar desta condição você precisará passar por algumas salvaguardas de constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um sucesso. Caso contrário, obtém um fracasso. Você passará por uma salvaguarda no início de cada um de seus turnos, até que um resultado final seja obtido.
 
 ### Paralisado
 
@@ -80,27 +85,21 @@ A criatura tem 20 pontos de resistência contra todos os tipos de dano, exceto d
 
 A criatura é imune a veneno e doenças, porém, venenos e doenças que já estão em seu corpo são apenas suspensas, não neutralizadas.
 
-### Surdo
-
-Uma criatura surda não pode ouvir e falha automaticamente em qualquer teste de atributo que dependa da audição.
-
-### Sangrando 
+### Sangrando
 
 A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado. Cada rodada simboliza um nível de sangramento, indo de sangramento 1 (1d6) até sangramento 6 (6d6).
 
-Caso deseje estancar o sangramento, é necessário performar um teste de medicina cuja CD aumenta a cada nível de sangramento. 
+Caso deseje estancar o sangramento, é necessário performar um teste de medicina cuja CD aumenta a cada nível de sangramento.
 
-| Nível de Sangramento | Dificuldade do Teste |
-| -------------------- | -------------------- |
-| 1                    | 11                   |
-| 2                    | 13                   |
-| 3                    | 15                   |
-| 4                    | 16                   |
-| 5                    | 18                   |
-| 6                    | 20                   |
+|Nível de Sangramento|Dificuldade do Teste|
+|---|---|
+|1|11|
+|2|13|
+|3|15|
+|4|16|
+|5|18|
+|6|20|
 
-## Nocauteado
+### Surdo
 
-Você é incapacitado, e só pode sair desta condição caso seja estabilizado de alguma forma. A única forma de ser nocauteado é caso seus pontos de vida cheguem a zero. 
-
-Para se libertar desta condição você precisará passar por algumas salvaguardas de constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um sucesso. Caso contrário, obtém um fracasso. Você passará por uma salvaguarda no início de cada um de seus turnos, até que um resultado final seja obtido.
+Uma criatura surda não pode ouvir e falha automaticamente em qualquer teste de atributo que dependa da audição.
