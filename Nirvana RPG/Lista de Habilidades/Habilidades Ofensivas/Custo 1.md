@@ -159,11 +159,7 @@ Quando você agarrar um oponente, você pode levá-lo ao chão. Ele terá a cond
 
 ## Maestria em Armas Comuns
 
-Ao invés de utilizar um bônus de atributo para acertar ataques com armas comums, você agora utilizará o maior entre o bônus de atributo e o de proficiência. Caso a arma se beneficie de múltiplos atributos para acertar o ataque, você escolhe qual deles substituirá. 
-
-O dano de suas armas comuns ignora 1 ponto de resistência do alvo, caso ele tenha resistência. O número ignorado aumenta para 3 pontos no Nível 10, e 7 pontos no Nível 15.
-
-Essa habilidade não tem efeito em armas à distância.
+Você diminui em 1 ponto quaisquer penalidades que você tenha para acertar ataques com armas comuns. Isso inclui penalidades de ataque, bônus negativo num geral, e quaisquer outras possíveis.
 
 ## Maestria em Armas Leves
 

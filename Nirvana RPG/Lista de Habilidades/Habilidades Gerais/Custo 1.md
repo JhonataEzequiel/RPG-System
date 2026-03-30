@@ -191,4 +191,4 @@ Você pode forjar qualquer arma ou armadura não-mágica da lista de itens, desd
 | 10 kg a 30 kg | 3 dias         |
 | Mais de 30 kg | 1 semana       |
 
-Sua capacidade de carga agora é aumentada em duas vezes o seu nível de proficiência.
+Sua capacidade de carga agora é aumentada em três vezes o seu nível de proficiência em quilos.

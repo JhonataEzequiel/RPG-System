@@ -1,15 +1,11 @@
-As Perícias são basicamente habilidades individuais que os personagens possuem, e são utilizadas em ações diversas, cada uma com seu intuito. Existem algumas Perícias para cada atributo, menos Constituição, que não possui nenhuma. Caso você não possua uma Perícia em questão, mas o mestre pedir um Teste dessa Perícia, você rolará um Teste relacionado ao atributo da Perícia. Por exemplo, se for um Teste de Atletismo, mas você não for perito em Atletismo, você realizará um Teste apenas com o bônus do Modificador de Força. Caso você possua uma Perícia, deve aplicar apenas o Bônus de Proficiência à jogada que necessite dessa perícia, o qual aumenta conforme o Nível, substituindo o Bônus de Modificador. Veja a tabela a seguir para mais detalhes:
+As Perícias são basicamente habilidades individuais que os personagens possuem, e são utilizadas em ações diversas, cada uma com seu intuito. Existem algumas Perícias para cada atributo, menos Constituição, que não possui nenhuma. Caso você não possua uma Perícia em questão, mas o mestre pedir um Teste dessa Perícia, você rolará um Teste relacionado ao atributo da Perícia. Por exemplo, se for um Teste de Atletismo, mas você não for perito em Atletismo, você realizará um Teste apenas com o bônus do Modificador de Força. Caso você possua uma Perícia, você adiciona o Bônus de Proficiência à jogada que necessite dessa perícia, além do modificador específico dela. Veja a tabela a seguir para mais detalhes:
 
 | Nível | Bônus de Proficiência |
 | ----- | --------------------- |
-| 1-2   | +2                    |
-| 3-4   | +3                    |
-| 5-7   | +4                    |
-| 8-10  | +5                    |
-| 11-13 | +6                    |
-| 14-17 | +8                    |
-| 18-19 | +9                    |
-| 20    | +12                   |
+| 1-4   | +2                    |
+| 5-10  | +4                    |
+| 11-17 | +5                    |
+| 18-20 | +6                    |
 
 Você poderá escolher qualquer uma das Perícias a seguir, seguindo as regras detalhadas na criação de personagens:
 

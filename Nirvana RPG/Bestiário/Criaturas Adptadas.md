@@ -1,7 +1,8 @@
 ### Esqueleto
 
-- Nível 1
+- Nível 1/4
 - 13 Pontos de vida
+- 2 de Mana
 - 14 CA
 - 9m de Deslocamento
 
@@ -15,8 +16,8 @@
 | Fé           | -5    | -3          |
 | Carisma      | -5    | -3          |
 
-- Vulnerabilidades: Dano Contundente
-- Equipamento: Espada Curta, Arco Curto, 20 Flechas
+- Vulnerabilidades: 5 Dano de Impacto, 5 Dano Radiante
+- Equipamento: Espada Curta, Arco Curto
 - Sentidos: Visão Noturna 18m
 - Perícias: Percepção Passiva 9
 - Idiomas: Entende Comum.
@@ -27,7 +28,8 @@
 ### Bulette
 
 - Nível 5
-- 94 Pontos de vida 
+- 94 Pontos de vida
+- 10 de Mana
 - 17 CA
 - 10.5m de Deslocamento, 10.5m de Deslocamento embaixo da terra
 
@@ -46,11 +48,10 @@
 - Idiomas: Nenhum
 
 #### Passivas:
-- **Passiva 1**:
+- **Multi-Ataque**: O Bulette anula a primeira penalidade de ataque, e a segunda é apenas de -5.
 #### Ações:
-- **Multi-Ataque**: O Bulette faz dois ataques de mordida.
 - **Mordida**: +7 para acertar, 1.5m de alcance, dano 2d12+4 perfurante
-- **Pulo Mortal**: O bulette gasta 1.5m de movimento para saltar para um espaço dentro de 4.5m que contenha uma ou mais criaturas Enormes ou menores. Teste de Resistência de Destreza: CD 15, para cada criatura no espaço de destino da bulette. Falha: 3d12 de dano de impacto, e o alvo fica com a condição Caído. Sucesso: Metade do dano, e o alvo é empurrado 1.5m diretamente para longe da bulette.
+- **Pulo Mortal** (duas ações): O bulette gasta 1.5m de movimento para saltar para um espaço dentro de 4.5m que contenha uma ou mais criaturas Enormes ou menores. Teste de Resistência de Destreza: CD 15, para cada criatura no espaço de destino da bulette. Falha: 3d12 de dano de impacto, e o alvo fica com a condição Caído. Sucesso: Metade do dano, e o alvo é empurrado 1.5m diretamente para longe da bulette.
 
 #### Ações Bônus:
 - **Pulo**: O bulette gasta 3m de movimento para dar um pulo de até 9m de distância.

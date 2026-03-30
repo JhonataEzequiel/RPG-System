@@ -41,7 +41,7 @@ Ao melhorar seu atributo de sabedoria, você poderá escolher novas magias da li
 
 O número de Magias Preparadas nunca poderá ser maior que o de Magias Conhecidas, caso o número de Magias Preparadas venha a ser maior do que o de Magias Conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer caso alguma Habilidade deixe você preparar mais magias, e isto acabe por ultrapassar o número de Magias Conhecidas.
 
-No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Vida mais o seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
+No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Mana mais o seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
 
 | Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
@@ -65,6 +65,10 @@ Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser 
 ## Escolha de perícias
 
 Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. Ou seja, se o jogador tiver 2 de Inteligência, ele poderá escolher 3 Perícias. Com 4 de Inteligência, poderá escolher 4. Com 10 de Inteligência, poderá escolher apenas 5. As Perícias em si estão detalhadas no capítulo de [[Perícias]].
+
+Você também é proficiente em um tipo de arma à sua escolha. Você pode adquirir uma proficiência em outros tipos de arma se desejar, ao troco de 1 ponto de habilidade por tipo.
+
+Você também é proficiente em salvaguardas de dois atributos diferentes, à sua escolha. Você pode gastar 2 pontos de habilidade para conseguir ser perito em salvaguardas de outro atributo, e pode fazer isso quantas vezes quiser. Sendo proficiente em uma salvaguarda de um determinado atributo, você adicionará o seu bônus de proficiência toda vez que precisar passar por uma.
 
 ## História de Origem
 

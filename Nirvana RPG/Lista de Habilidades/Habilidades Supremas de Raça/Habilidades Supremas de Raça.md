@@ -49,7 +49,7 @@ A vulnerabilidade a dano de fogo na primeira forma é perdida, mas você não ga
 
 **Requisitos**: Você é um Halfling de Nível 10 ou superior.
 
-Você agora pode adicionar metade do seu bônus de proficiência à perícias que você não é perito. Nas demais, você não mais substitui os bônus de atributo pelo bônus de proficiência, mas os soma para o resultado final.
+Você agora pode adicionar metade do seu bônus de proficiência à perícias que você não é perito. Uma vez ao dia você dobra todos os bônus de um teste de perícia. Você deve optar por fazer isso antes de rolar o teste.
 
 ## Potencial Infinito
 
