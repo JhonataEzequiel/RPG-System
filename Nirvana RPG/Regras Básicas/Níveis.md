@@ -63,6 +63,12 @@ Você receberá Pontos de Atributo e Pontos de Habilidade para utilizarem da man
 | 5, 10, 15, ou 20      | +2            |
 | Outros                | +1            |
 
+## Compromisso Adiantado
+
+Você não pode alocar pontos além do nível máximo de um atributo. No entanto, você pode deixá-los pré-alocados em um atributo específico. Uma vez feita essa escolha, esses pontos ficam permanentemente destinados àquele atributo e não podem ser realocados para outro.
+
+Os pontos pré-alocados não cumprem pré-requisitos de habilidades, magias, ou quaisquer outras mecânicas do jogo. No entanto, eles somam ao valor atual do atributo para fins de modificador e bônus de dano — ou seja, o modificador do atributo é calculado considerando os pontos pré-alocados somados aos já alocados.
+
 ## Ganho de Perícias Adicionais
 
 Você pode optar por não gastar seus Pontos de Habilidade e escolher novas Perícias no lugar. A quantidade de Perícias que você pode adquirir em um único Nível são **duas**. No total, você só pode adquirir uma quantidade de Perícias menor do que cinco. O custo de cada Perícia é um Ponto de Habilidade.
