@@ -70,6 +70,8 @@ Neutralizar Magia: 3 de fé ou carisma. Sagrada.
 
 Esfera de Invisibilidade: 3 de inteligência ou carisma. Ilusão.
 
+Barulho de Inseto: 3 de carisma. Sagrada.
+
 ### Custo 4:
 
 Pulo Suave: 4 de inteligência ou carisma. Imaculada.

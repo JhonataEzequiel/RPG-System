@@ -87,3 +87,13 @@ Adicione +1 pontos de vida por Nível permanentemente, tanto para níveis anteri
 **Requisitos**: 4 de constituição.
 
 Sempre que você optar por rolar o dado para adquirir pontos de vida ao subir de nível, adicione metade do seu bônus de proficiência. Nos níveis 5, 10, 15, e 20, adicione o bônus inteiro ao resultado ao invés da metade.
+
+## Colosso
+
+**Requisitos**: 5 de constituição, 3 de força ou destreza.
+
+Se você não utilizar um escudo, seus pontos de vida aumentam permanentemente em 2d4. Além disso, você recebe +1.5m de deslocamento. Você não sofre mais penalidade de deslocamento por armaduras pesadas. Alternativamente, você pode manter a penalidade de deslocamento e ganhar +1 de CA enquanto estiver usando uma armadura pesada.
+
+## Tamanho não é Documento
+
+Sempre que você estiver enfrentando ao menos um oponente de tamanho grande ou superior, adicione +1 de CA pelo resto do encontro. Caso você enfrente ao menos três oponentes de tamanho grande ou superior, adicione +3 de CA ao invés de +1.

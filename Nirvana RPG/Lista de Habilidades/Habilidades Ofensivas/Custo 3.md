@@ -202,3 +202,17 @@ Apesar de compreender a mudança constante da vida, você procura por outro cami
 Durante esta rodada você se torna imune a dano radiante. Além disso, caso acerte um ataque ainda neste turno, você se cura de quaisquer condições negativas que estiver sobre você, incluindo nocauteado. Esta habilidade pode ser usada quando você estiver nocauteado, e neste caso não custará ação. Você só pode se estabilizar uma vez por descanso longo com esta habilidade. Você também adiciona 1d6 de dano de sortilégio ao ataque efetuado.
 
 Caso utilize em conjunto com a habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer teste, com exceção dos testes para se estabilizar. Quando juntas, ambas as habilidades se complementam.
+
+## Aumento de Velocidade
+
+**Requisitos**: 9 de destreza.
+
+A partir do início do seu segundo turno em um encontro, adicione +3m de deslocamento por toda vez que iniciar um turno. Dura até o fim do encontro.
+
+## Poder Absurdo
+
+**Requisitos**: 10 de força.
+**Custo**: 3 ações.
+**Alcance**: 18m.
+
+Você coleta toda a sua energia vital em um único golpe, acertando o chão, criando uma cratera. Todas as criaturas em uma área circular de raio igual ao alcance desta habilidade precisarão realizar uma salvaguarda de destreza CD 9 + força. Em caso de falha, recebem o dano de 10 ataques desarmados seus de uma vez como dano de impacto. Em caso de sucesso, recebem metade do dano total. Uma vez utilizada essa habilidade, você terá a condição de exaustão 4, mas curará um nível de exaustão no início de cada um de seus turnos, até estar completamente curado. Você recura quaisquer pontos de vida perdidos pela condição de exaustão 4 quando você diminuir 1 nível da condição.

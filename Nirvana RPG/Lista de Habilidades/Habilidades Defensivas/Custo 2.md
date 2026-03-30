@@ -77,3 +77,21 @@ Após usar essa habilidade três vezes na mesma criatura, você pode usar seu mo
 **Requisitos**: 3 de constituição.
 
 Uma vez por descanso longo, você nega metade do dano de um ataque que o deixaria nocauteado. No nível 10 de constituição, você nega completamente o dano.
+
+## Corpo Elemental
+
+**Requisitos**: 4 de constituição, 2 de inteligência, 1 de sabedoria.
+
+Seu corpo é particularmente ligado as propriedades de sua mana que dizem respeito aos diferentes elementos. Você emana uma aura pequenina em volta do seu corpo, quase como uma camada protetora. Ela surge naturalmente, e é parte de quem você é. 
+
+Ao ser atingido por um ataque desarmado, ou um ataque de criatura que entra em contato direto com você, ou seja, o tocando (armas não serão afetadas), você causa 1d6 de dano de raio, fogo, ou gelo, à sua escolha, ao alvo que te acertou. Você escolherá o tipo de dano ao ter um descanso curto ou longo, e poderá trocá-lo da mesma maneira. Você também pode desativar essa habilidade com uma ação livre, e reativá-la com outra.
+
+Ao ser atingido, você também ganha 1d6 de resistência ao tipo de dano que te atingiu até o fim do encontro. Esse número aumenta para 2d4 quando você tiver 10 de constituição, ou inteligência, ou sabedoria.
+
+## Defesa de Ferro
+
+**Requisitos**: Você deve estar com um escudo equipado.
+**Custo**: 1 ação.
+**Duração**: até o início do seu próximo turno.
+
+Você encerra seu turno, levantando seu escudo à sua frente, entrando em uma posição defensiva. Você não poderá mais se mover até o início do seu próximo turno. Você tem desvantagem em salvaguardas de destreza, mas tem vantagem nas de força e constituição. Adicione +3 de CA enquanto esta habilidade estiver ativa.
