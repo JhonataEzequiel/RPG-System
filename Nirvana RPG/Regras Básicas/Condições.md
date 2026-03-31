@@ -24,6 +24,10 @@ Jogadas de ataque contra uma criatura cega têm vantagem e jogadas de ataque da 
 
 Um alvo encantado não pode agir contra aquele que o encantou ou seus aliados. Quem encantou o alvo tem vantagem para atacá-lo.
 
+### Envenenado
+
+Uma criatura Envenenada está atualmente sofrendo de Dano Contínuo Venenoso.
+
 ### Exaustão
 
 A Exaustão pode variar em alguns níveis, cada um aplicando uma penalidade diferente. Normalmente se está exausto após passar longos períodos sem um Descanso Longo, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada dia sem um Descanso Longo o Nível de Exaustão aumenta. E a cada Descanso Longo tido, o Nível de Exaustão diminui em dois.

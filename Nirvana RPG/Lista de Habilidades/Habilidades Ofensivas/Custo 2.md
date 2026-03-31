@@ -178,3 +178,10 @@ Você pode optar por escolher um dos seguintes benefícios:
 Você agora tem opção de causar dano sombrio ou radiante com seus ataques desarmados. Caso você não esteja usando uma arma de punhos, seu dano de ataques desarmados recebe um aumento de 1d12 + int ou fth de dano radiante ou sombrio, à sua escolha. Caso seus modificadores de inteligência ou fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
 
 Caso esteja com uma arma de punho que já cause algum desses tipos de dano, adicione metade do seu nível ao dano causado por ela. O tipo de dano adicional será de acordo com o tipo de dano causado pela arma.
+
+## Peçonha Instantânea
+
+**Requisitos** O alvo do Ataque precisa estar Envenenado.
+**Custo**: 3 Ações, 5 de mana.
+
+Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso.
