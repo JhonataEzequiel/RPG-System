@@ -1,19 +1,12 @@
-Os Fjer são uma raça de pássaros humanoides que possuem a habilidade de se apossar de um corpo por tempo indeterminado. Também possuem a capacidade de voar. A aparência deles varia de acordo com a sua origem, mas normalmente herdam características de pássaros diferentes. Seus membros superiores, que deveriam ser apenas as suas asas, têm na verdade um formato parecido com braços normais, porém cobertos por penas e bem maiores, dando a impressão de terem asas. Eles são extremamente habilidosos no ar, sendo capazes de atacar e voar ao mesmo tempo, inclusive usar armas de longo alcance com suas pernas enquanto voam.
+Os Fjer são uma Raça de pássaros humanoides que possuem a habilidade de se apossar de um corpo por tempo indeterminado. Também possuem a capacidade de voar. A aparência deles varia de acordo com a sua origem, mas normalmente herdam características de pássaros diferentes. Seus membros superiores, que deveriam ser apenas as suas asas, têm na verdade um formato parecido com braços normais, porém cobertos por penas e bem maiores, dando a impressão de terem asas. Eles são extremamente habilidosos no ar, sendo capazes de atacar e voar ao mesmo tempo, inclusive usar armas de longo alcance com suas pernas enquanto voam.
 
-## Troca de Corpo
-
-O Fjer é capaz de possuir objetos por tempo indefinido, mas seu corpo original fica vulnerável durante esse período. Algumas regras se aplicam:
+**Troca de Corpo** (Ação Bônus): O Fjer é capaz de possuir objetos por tempo indefinido, mas seu corpo original fica vulnerável durante esse período. Algumas regras se aplicam:
 
 - **Morte do Corpo Original:** Caso o corpo original receba um golpe fatal, o Fjer morrerá sem ao menos ser Nocauteado. O Fjer não sente se o seu corpo estiver sendo atacado.
 - **Requisitos Para Possuir:** O Fjer só pode possuir um objeto caso esteja ao alcance de seu deslocamento e consiga vê-lo. Não pode se apossar de Objetos Com Acionamento Automático, nem de objetos que estejam sendo utilizados por outra criatura.
 - **O Que Pode Ser Possuído:** O Fjer só pode possuir objetos, o que inclui cadáveres. Confira as regras de objetos no capítulo [[Elementos do Cenário]] para mais informações.
 - **Habilidades do Corpo Possuído:** O Fjer pode usar qualquer habilidade inata ao corpo possuído, como conjurar magias de um mago morto.
 - **Sentidos:** Caso o objeto não possua sentidos físicos, o Fjer pode escutar, ver, ou sentir qualquer coisa que tocar. Ele também pode trocar de objeto enquanto já está possuindo um. No entanto, não pode falar.
+- **Cadáveres Possuídos e Pontos de Vida:** O objeto possuído terá os Pontos de Vida iguais ao máximo que tinha antes de morrer, caso se trate de um cadáver. Em casos em que não se tem definido os Pontos de Vida de um objeto genérico, considere-os como sendo 10 Pontos de Vida Máximos, no entanto eles podem variar, caso o objeto em si seja particularmente resistente. Em caso de dúvidas, pergunte ao seu mestre qual seria os Pontos de Vida de um determinado objeto particularmente resistente. Caso um cadáver seja morto novamente após ser possuído, você voltará ao seu corpo original com seus Pontos de Vida intactos, e você não poderá mais possuí-lo nunca mais. O cadáver não apodrece enquanto você o estiver possuindo. Os Atributos de Inteligência, Sabedoria, Fé, e Carisma do corpo possuído serão sempre os maiores entre os do cadáver e os seus.
 
-**Cadáveres Possuídos:** O objeto possuído terá os pontos de vida iguais aos pontos de vida máximos que tinha antes de morrer, caso se trate de um cadáver. Caso o cadáver seja morto novamente, o Fjer voltará ao seu corpo original com seus pontos de vida intactos. O cadáver não apodrece enquanto o Fjer o estiver possuindo. Os atributos de inteligência, sabedoria, fé, e carisma do corpo possuído serão sempre os maiores entre os do cadáver e os do Fjer.
-
-## Voar
-
-**Custo:** Ação Bônus.
-
-Os Fjer são naturalmente capazes de voar, podendo atacar e realizar qualquer ação que não exija estar no chão enquanto em voo. Seu Deslocamento é dobrado quando voam.
+**Voar** (Ação Bônus): Os Fjer são naturalmente capazes de voar, podendo atacar e realizar qualquer ação que não exija estar no chão enquanto em voo. Seu Deslocamento é de 12m enquanto voa.

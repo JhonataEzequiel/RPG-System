@@ -67,6 +67,7 @@ Você dedica 8 horas em algum momento da sua aventura para aprender com outras r
 - Você agora recupera o dobro de vida em descansos curtos;
 - Você pode escolher um atributo para ter vantagem em testes dele uma vez por dia durante uma rodada. Durante a rodada em que usar essa característica, os demais testes terão -4 para serem bem sucedidos;
 - No nível 20 você pode escolher uma habilidade adicional de custo 1 ou 2.
+- O dano base de seus Ataques Desarmados aumenta de 1d4 para 1d6.
 
 ## Aurora
 
@@ -85,3 +86,9 @@ Você pode utilizar sua Luna duas vezes ao dia agora. Sempre que usar sua Luna v
 **Requisitos**: Você é um Tártaro de Nível 10 ou superior.
 
 Seu deslocamento com ou sem o casco aumenta em 1.5m. Você agora tem +5 em testes de atletismo.
+
+## Transmutar Essência
+
+**Requisitos**: Você é um Cait-Sith de Nível 10 ou superior.
+
+O número máximo de Pontos de Essência aumenta para 20. Além disso, você agora pode escolher gastar 10 desses pontos para ter Vantagem em qualquer Teste que realizar. Você pode escolher ter a vantagem depois de já ter rolado o Teste.

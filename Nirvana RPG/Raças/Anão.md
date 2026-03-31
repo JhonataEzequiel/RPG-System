@@ -1,39 +1,8 @@
-Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que drenam o poder de certos minerais. No total, os anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e não podem repetir as runas. O custo para aplicar uma runa em algum equipamento é de apenas uma Ação. Eles não precisam estar utilizando o equipamento, e podem entregá-lo a um aliado, por exemplo. Eles podem retirar uma runa de um equipamento e colocar em outro também. O custo para retirar uma runa é de apenas uma Ação, e eles podem fazer isso à distância, bastando apenas se concentrar. Como Anão, você falará o idioma Anão.
+Anões são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tesouros, ferraria, bijuterias, artesanato, e também itens mágicos. Conhecidos por sua ferocidade em combate e sua força de vontade, os Anões se dão bem com a maioria dos povos do mundo. Como Anão, você falará o idioma Anão.
 
-## Runa de diamante
+**Runas Mágicas**: Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, os Anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e só podem usar uma runa de cada tipo. 
 
-A Runa de Diamante concede à alguma Armadura Resistência a Dano Físico que aumenta com o nível. A redução é aplicada diretamente ao dano recebido.
-
-| Nível do Anão | Redução de Dano |
-| ------------- | --------------- |
-| 1             | 2               |
-| 5             | 4               |
-| 10            | 8               |
-| 15            | 13              |
-| 20            | 15              |
-
-## Runa de ouro
-
-A Runa de Ouro imbui uma Arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três elementos (raio, fogo, e gelo, respectivamente) no inimigo. O dano aumenta conforme o nível. Sempre que tiver um descanso longo você pode escolher o tipo do dano extra.
-
-| Nível do Anão | Dano da Runa de Ouro |
-| ------------- | -------------------- |
-| 1             | 2                    |
-| 5             | 5                    |
-| 10            | 8                    |
-| 15            | 12                   |
-| 20            | 16                   |
-
-## Runa de Safira
-
-Uma vez por Descanso Longo, tem o poder de curar o Anão ou um aliado que tocar o objeto imbuído com a runa, e diga uma palavra chave escolhida pelo Anão.
-
- A cura se dá pela tabela, e aumenta conforme o nível do Anão:
- 
-| Nível do Anão | Cura da Runa de Safira |
-| ------------- | ---------------------- |
-| 1             | 5                      |
-| 5             | 10                     |
-| 10            | 20                     |
-| 15            | 30                     |
-| 20            | 50                     |
+- **Aplicar Runa** (Uma Ação): Para colocar uma Runa em um equipamento é necessário que esteja ao alcance do seu toque. No entanto, você pode retirar uma Runa de um equipamento que você colocou à distância, não tendo limite de espaço. A Runa é removida, e o poder é retomado para si. Para remover uma Runa também é necessário uma Ação.
+- **Runa de Diamante** (Aplicável em Armaduras): Concede Resistência a Dano Físico ao usuário da armadura com a Runa. A Resistência é metade do seu Nível + 4.
+- **Runa de Ouro** (Aplicável em Armas): A Runa de Ouro imbui uma Arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três elementos (Raio, Fogo, e Gelo, respectivamente) no inimigo. O dano adicional será metade do seu Nível +3. Sempre que tiver um descanso longo você pode escolher o tipo do dano extra.
+- **Runa de Safira** (Aplicável em Qualquer Item, Uma Ação): Quem tocar no item em que a Runa de Safira está equipada será curado em seu Nível + 25, uma vez por Descanso Longo. É necessário que quem vá se curar se concentre um pouco no item, o que é refletido no custo de Uma Ação. A criatura que será curada necessita de sua permissão para receber a cura, que é concedida mentalmente por você.

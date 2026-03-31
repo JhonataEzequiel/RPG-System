@@ -90,3 +90,35 @@
 
 #### Ações Bônus:
 - **Lentidão**: O Golem pode utilizar a magia "Troca" Imaculada de custo 5 como uma ação bônus.
+
+### Vorme índigo
+
+- Nível 15
+- 320 Pontos de vida
+- 65 Pontos de Mana
+- 20 CA
+- 12m Deslocamento, 12m Deslocamento Aquático
+- -1 Iniciativa
+
+| Atributo     | Valor | Modificador | Salvaguardas |
+| ------------ | ----- | ----------- | ------------ |
+| Constituição | 16    | +8          | +12          |
+| Força        | 20    | +10         | +15          |
+| Destreza     | -1    | -1          | -1           |
+| Sabedoria    | -1    | -1          | -1           |
+| Inteligência | -10   | -5          | -5           |
+| Fé           | -10   | -5          | -5           |
+| Carisma      | -1    | -1          | -1           |
+
+- Perícias: Atletismo +15, Furtividade +4 (+6 na água)
+- Sentidos: Percepção Passiva +4, Sentido Sísmico 30m, Visão no Escuro 30m
+- Idiomas: Nenhum
+
+#### Passivas:
+- **Veneno de Vorme Índigo**: Salvaguarda CD 18 de constituição, dano contínuo por 6 rodadas que começa em 3d6 de dano venenoso e aumenta em 1d6 por rodada, até 6d6. O alvo também tem a condição Exaustão 1.
+#### Ações:
+- **Mordida**: +15 para acertar, 4.5m de alcance, 3d12+10 de dano perfurante, engole se acertar
+- **Ferrão**: +15 para acertar, 4.5m de alcance, 4d6+10 de dano perfurante (alvo é afetado por veneno de vorme índigo)
+- **Esmagar**: +15 para acertar, 4.5m de alcance, 2d8+10 de dano de impacto
+- **Brecha** (duas ações): O vorme índigo Nada até o dobro da Velocidade de natação dele e então Salta verticalmente para fora da água até 9 metros de altura, realizando um Golpe contra uma criatura no ápice do salto (isto o permite atacar uma criatura a até 13,5 metros da superfície da água). Após o Golpe, o vorme volta à água.
+- **Engolir**: 3d8+10 de dano de impacto, quem for engolido precisa passar por um teste de resistência de força CD 17 para escapar.

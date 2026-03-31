@@ -1,1 +1,1 @@
-Os pontos de vida determinarão a condição física de alguém. Quanto mais próximos de 0, mais debilitado se está. Caso você perca pontos de vida até ficar com 0 pontos de vida, você terá a condição Nocauteado. 
+Os Pontos de Vida determinarão a condição física de alguém. Quanto mais próximos de 0, mais debilitado se está. Caso você perca Pontos de Vida até ficar com 0 Pontos de Vida, você terá a condição Nocauteado. 

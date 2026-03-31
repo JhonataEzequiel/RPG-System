@@ -117,8 +117,6 @@ Você sente e aprende a ter um controle básico sobre a energia vital do seu cor
 
 ## Corte Ilusório
 
-**Requisitos**: Habilidade "Força Natural" de custo 1.
-
 Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
 
 Você agora pode escolher se seus ataques desarmados causarão dano cortante ou de impacto. Caso você esteja utilizando uma arma de punho que já é capaz de causar dano cortante, o dano cortante dela aumenta em 1d6.

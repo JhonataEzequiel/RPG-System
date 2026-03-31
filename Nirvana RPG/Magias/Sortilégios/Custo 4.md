@@ -11,11 +11,11 @@
 
 - Requisito em Inteligência: 4
 - Requisito em Fé: 4
-- Duração: 3 minutos
+- Duração: 3 rodadas
 - Alcance: 9m
 - Tempo de Conjuração: 2 ações
 
-**Descrição:** Você revive um cadáver dentro do alcance da magia. Esse zumbi agora consegue responder quaisquer 3 perguntas que você faça, de maneira clara. Caso ele esteja incapaz de falar por ter perdido essa capacidade, você ainda ouve os sons que ele faz. Ele precisa ter pelo menos metade do corpo ainda presente na hora que você conjurar essa magia.
+**Descrição:** Você revive um cadáver dentro do alcance da magia. Esse zumbi agora consegue responder quaisquer 3 perguntas que você faça, de maneira clara. Caso ele esteja incapaz de falar por ter perdido essa capacidade, você ainda ouve os sons que ele faz. Ele precisa ter pelo menos metade do corpo ainda presente na hora que você conjurar essa magia. O cadáver volta a estar morto uma vez que as três perguntas sejam feitas, ou a duração da magia acabar.
 
 ### Névoa Negra
 

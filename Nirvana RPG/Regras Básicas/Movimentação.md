@@ -20,7 +20,7 @@ Ao escalar verticalmente uma superfície, o seu Deslocamento Terrestre é cortad
 
 ## Andar, Correr e Desengajar
 
-Andar é considerada uma Ação Livre. Ao Correr, você gasta Uma Ação e seu Deslocamento é dobrado. Desengajar impede Ataques de Oportunidade, e custa Três Ações. Seu Deslocamento também é dobrado ao Desengajar.
+Andar é considerada uma Ação Livre. Ao Correr, você gasta Duas Ações e seu Deslocamento é dobrado. Desengajar impede Ataques de Oportunidade, e custa Três Ações. Seu Deslocamento também é dobrado ao Desengajar.
 
 ## Rastejar
 

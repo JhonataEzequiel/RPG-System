@@ -4,6 +4,20 @@ Os Halflings são conhecidos pela hospitalidade, lábia, e capacidade de se move
 
 Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Este aspecto afeta como você interage com o ambiente ao seu redor.
 
-- **Pés Sorrateiros** (reação): De maneira passiva, você pode escalar utilizando seu Deslocamento total ao invés de metade dele. Fora isso, você também pode utilizar uma Reação para desviar de um Ataque direcionado a você. O atacante sofrerá Desvantagem. Você pode usar essa Reação quantas vezes quiser, desde que tenha uma Reação disponível na Rodada.
-- **Caseiro** (passiva): Caso você dedique 2 horas do dia para preparar um local para descansar antes de fazê-lo de fato, você diminuirá o tempo de Descanso Longo de todos os aliados que descansarem com você em duas horas. O local preparado pode ser utilizado de maneira ilimitada. Você também adiciona metade do seu Bônus de Proficiência a Testes de Sabedoria, uma vez por Descanso Longo. No Nível 8, pode fazer isso duas vezes. No Nível 15, além de poder adicionar metade do bônus duas vezes para os Testes de Sabedoria, agora você pode adicionar ele inteiro em dois Testes de Perícias que você não seja perito.
-- **Mercador** (passiva): Você adquire a Perícia de Conversação. A cada 5 itens comprados ou vendidos com o valor sendo de 1 peça de ouro ou maior, que não façam parte do seu equipamento inicial, você recebe +1 no seu Bônus de Proficiência até um máximo de 5 pontos. Este aumento é permanente. Os itens não podem ser os mesmos, ou seja, você não pode comprar e vender o mesmo item para que essa habilidade tenha efeito.
+### Pés Sorrateiros
+
+**Agilidade nos Pés** (Passiva): Você pode escalar utilizando seu Deslocamento total ao invés de metade dele. 
+
+**Desvio Rápido** (Uma Ação): Essa Habilidade substitui a ação de Desviar. Com ela, ataques direcionados a você enquanto desvia tem -10 para acertar ao invés de -3. Você ainda encerra seu Turno quando Desviar, e a duração continua igual. Uma vez ao dia, você também pode impôr Desvantagem à um Ataque enquanto estiver desviando dele. A Desvantagem e a penalidade de -10 são cumulativas.
+
+### Pés Aconchegantes
+
+**Caseiro** (Passiva): Toda vez que tiver um Descanso Curto ou Longo, adicione o dobro de seu Bônus de Proficiência como Pontos de Vida Temporários.
+
+**Preparação** (Passiva): Sempre que fizer um Descanso Longo você pode estendê-lo por mais duas horas. Caso faça isso, seu Bônus de Proficiência dobrará até o início do seu próximo Encontro. Essa Habilidade pode ser usada em conjunto com a Habilidade "Caseiro".
+
+### Pés Andarilhos
+
+**Vagante** (Passiva): Você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma condição negativa.
+
+**Mercador** (passiva): A cada 5 itens comprados ou vendidos que valham mais do que 15po você aumenta permanentemente o seu Bônus de Proficiência em 1 ponto. Você pode fazer isso no máximo 5 vezes.

@@ -48,6 +48,10 @@ Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de **Impacto
 
 Existem vários tipos de magias de ataque, e a maioria não requer um Teste para acertar o adversário. Quando for necessário estará escrito na descrição da magia. Normalmente é o alvo que tem que realizar uma Salvaguarda para desviar (a CD é especificada pela magia), ou evitar algum efeito negativo da magia. Se você precisar realizar um Teste de Ataque com a magia, ela estará sujeita as Penalidades de Ações.
 
+## Desviar
+
+Você pode tentar desviar de um ataque. Desviar requer que você encerre seu turno, e tenha pelo custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -3 para acertar até o início do seu próximo Turno.
+
 ## Arremessar
 
 Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um Ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro Ataque, e não utilizará nenhum atributo como bônus a priori, podendo conseguir isto através de habilidades. Arremessar não se beneficia de habilidades que melhoram ataques num geral, nem conta para a Penalidade de Ações. As habilidades que influenciam sua capacidade de Arremessar itens deixarão isso explicito na descrição delas.

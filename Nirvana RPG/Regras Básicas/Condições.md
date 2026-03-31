@@ -26,7 +26,7 @@ Um alvo encantado não pode agir contra aquele que o encantou ou seus aliados. Q
 
 ### Exaustão
 
-A exaustão pode variar em alguns níveis, cada um aplicando uma penalidade diferente. Normalmente se está exausto após passar longos períodos sem um descanso longo, mas alguns monstros ou magias podem infligir essa condição de outras formas. A cada dia sem um descanso longo o nível de exaustão aumenta.
+A Exaustão pode variar em alguns níveis, cada um aplicando uma penalidade diferente. Normalmente se está exausto após passar longos períodos sem um Descanso Longo, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada dia sem um Descanso Longo o Nível de Exaustão aumenta. E a cada Descanso Longo tido, o Nível de Exaustão diminui em dois.
 
 |Nível de Exaustão|Efeito|
 |---|---|
