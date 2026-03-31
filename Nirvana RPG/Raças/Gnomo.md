@@ -15,7 +15,7 @@ O Gnomo da Natureza pode se comunicar com os espíritos ao seu redor, sendo capa
 
 **Espíritos da Floresta** (Ação Bônus): O Gnomo pode alternar entre as 2 formas com uma Ação Bônus no final de seu Turno. Os Gnomos da Natureza podem desativar ambas as formas com uma ação livre, voltando a um estado neutro aonde nenhuma das duas está ativada.
 
-- **Primeira Forma**: Cascas de árvore crescem em seus antebraços, formando uma espécie de escudo. Concede Resistência a todos os tipos de dano igual a duas vezes o seu Nível, mas tem 5 de Vulnerabilidade a Dano de Fogo. Você pode se utilizar de habilidades que precisam de um escudo se estiver na Primeira Forma, mas se você estiver com um escudo equipado, esse escudo será inutilizado.
+- **Primeira Forma**: Cascas de árvore crescem em seus antebraços, formando um escudo. Enquanto na primeira forma, você possui o equivalente a um Escudo com escala S em um atributo à sua escolha. Uma vez feita essa escolha, você pode refazê-la no Nível 10, se assim desejar, mas não pode mais voltar atrás após isso. No Nível 12, o Escudo ganha uma escala B em outro atributo, à sua escolha.
 
 **Segunda Forma**: Seu corpo absorve energia do sol te energiza, concedendo a você um aumento no Deslocamento de 3m. Ganha bônus em Testes de Ataque, tanto para acertar, quanto para dar dano. Caso você utilize uma Magia de Dano nessa forma, o dano da Magia também aumentará. O bônus para acertar um ataque será seu Nível dividido por 4, com um mínimo de 1. O bônus de dano será metade do seu Nível + 2.
 
