@@ -4,18 +4,20 @@
 
 - Nível
 - Pontos de vida
+- Pontos de Mana
 - CA
 - Deslocamento, Deslocamento de Voo
+- Iniciativa
 
-| Atributo     | Valor | Modificador |
-| ------------ | ----- | ----------- |
-| Constituição |       |             |
-| Força        |       |             |
-| Destreza     |       |             |
-| Sabedoria    |       |             |
-| Inteligência |       |             |
-| Fé           |       |             |
-| Carisma      |       |             |
+| Atributo     | Valor | Modificador | Salvaguardas |
+| ------------ | ----- | ----------- | ------------ |
+| Constituição |       |             |              |
+| Força        |       |             |              |
+| Destreza     |       |             |              |
+| Sabedoria    |       |             |              |
+| Inteligência |       |             |              |
+| Fé           |       |             |              |
+| Carisma      |       |             |              |
 
 - Vulnerabilidades:
 - Resistências:
