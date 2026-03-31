@@ -16,8 +16,8 @@ Alguns objetos possuem Acionamento Automático, e não são considerados objetos
 
 ### Escuridão
 
-O cenário em si pode impactar no quanto você consegue enxergar em um determinado local. Uma cripta escura, por exemplo, debilitará a sua visão, sendo considerada um local **Escuro**. Quando se está em um local Escuro, cada criatura incapaz de enxergar falhará automaticamente em Testes relacionados a visão, e também terá Desvantagem para acertar Ataques.
+O cenário em si pode impactar no quanto você consegue enxergar em um determinado local. Uma cripta escura, por exemplo, debilitará a sua visão, sendo considerada um local Escuro. Quando se está em um local Escuro, cada criatura incapaz de enxergar falhará automaticamente em Testes relacionados a visão, e também terá Desvantagem para acertar Ataques.
 
 ### Penumbra
 
-Similar a escuridão, a **Penumbra** acontece quando há pouca iluminação. Criaturas em Penumbra tem -3 para acertar Ataques, e -5 em Testes de Percepção relacionados a visão.
+Similar a escuridão, a Penumbra acontece quando há pouca iluminação. Criaturas em Penumbra tem -3 para acertar Ataques, e -5 em Testes de Percepção relacionados a visão.

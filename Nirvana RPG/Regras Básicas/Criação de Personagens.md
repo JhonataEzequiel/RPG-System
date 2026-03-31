@@ -1,12 +1,12 @@
-É importante que, para criar um personagem novo, você tenha em mente algum arquétipo para se basear, seja ele um guerreiro, ladino, mago, clérigo, ou qualquer híbrido entre esses. Além disso, você também terá que escolher uma raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada raça tem habilidades únicas e que podem ser usadas dentro e fora de situações de combate. 
+É importante que, para criar um personagem novo, você tenha em mente algum arquétipo para se basear, seja ele um guerreiro, ladino, mago, clérigo, ou qualquer híbrido entre esses. Além disso, você também terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas dentro e fora de situações de combate. 
 
 ## Escolha de atributos
 
-Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, você terá 7 Pontos de Atributo disponíveis para distribuir entre os 7 atributos diferentes, que começarão em 0.
+Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, você terá 7 Pontos de Atributo disponíveis para distribuir entre os 7 Atributos diferentes, que começarão em 0.
 
 ## Limitação Inicial
 
-Você pode optar por tirar Pontos de atributo de um atributo para deixá-lo abaixo do nível 0. Fazendo isso, pode alocar estes Pontos de atributo em outro atributo, ignorando o limite de Nível Máximo de Um Atributo. Um atributo com valor **negativo** tem seu modificador **negativo** também, então você irá subtrair ao invés de somar quando uma ação pedir que use o atributo. O valor mínimo de um atributo é -10. Você pode tirar quantos pontos quiser de quantos atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações.
+Você pode optar por tirar Pontos de atributo de um Atributo para deixá-lo abaixo do Nível 0. Fazendo isso, pode alocar estes Pontos de Atributo em outro Atributo, ignorando o Limite de Nível Máximo de Atributos. Um Atributo com valor negativo tem seu Modificador negativo também, então você irá subtrair ao invés de somar quando algo pedir que use o Atributo. O valor mínimo de um Atributo é -10. Você pode tirar quantos Pontos quiser de quantos Atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações.
 
 Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de Nível Máximo de Atributo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma Limitação Inicial.
 
@@ -16,7 +16,7 @@ No Nível 1, você possui dois Pontos de Habilidade para gastar como quiser. Voc
 
 ## Pontos de Vida
 
-Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição. Esse Dado de Vida determinará os Pontos de Vida Iniciais, os subsequentes, e a cura garantida após um Descanso Curto. Você não gasta os Dados de Vida ao ter um descanso curto. Eles servem apenas para dizer quanto você vai curar. No Nível 1, seus Pontos de Vida serão o número **máximo** do seu Dado de Vida mais seu Modificador de Constituição.
+Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição. Esse Dado de Vida determinará os Pontos de Vida Iniciais, os subsequentes, e a cura garantida após um Descanso Curto. Você não gasta os Dados de Vida ao ter um Descanso Curto. Eles servem apenas para dizer quanto você vai curar. No Nível 1, seus Pontos de Vida serão o número máximo do seu Dado de Vida mais seu Modificador de Constituição.
 
 | Nível de Constituição | Dado de Vida |
 | --------------------- | ------------ |
@@ -35,13 +35,11 @@ Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição.
 
 ## Pontos de Mana
 
-Todos podem utilizar mana de alguma maneira, além de conjurar magias e arcanos menores. Para tal, você receberá um Dado de Mana. O Dado de Mana funciona similarmente ao Dado de Vida, concedendo Mana adicional a cada Nível de Sabedoria. A quantidade de magias e arcanos menores que poderão ser equipados ao mesmo tempo aumenta conforme a quantidade de Sabedoria, assim como a quantidade de magias que podem ser aprendidas. 
+Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos Menores. Para tal, você receberá um Dado de Mana. O Dado de Mana funciona similarmente ao Dado de Vida, concedendo Mana adicional a cada Nível de Sabedoria. A quantidade de Magias e Arcanos Menores que poderão ser preparados ao mesmo tempo aumenta conforme a quantidade de Sabedoria, assim como a quantidade de Magias e Arcanos Menores conhecidos. 
 
-Ao melhorar seu atributo de sabedoria, você poderá escolher novas magias da lista de magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma magia se não atender primeiro aos requisitos dela.
+Ao melhorar seu Atributo de Sabedoria, você poderá escolher novas Magias da Lista de Magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até Magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma Magia se não atender primeiro aos requisitos dela.
 
-O número de Magias Preparadas nunca poderá ser maior que o de Magias Conhecidas, caso o número de Magias Preparadas venha a ser maior do que o de Magias Conhecidas, eles se igualarão, de acordo com o menor número. Isso pode acontecer caso alguma Habilidade deixe você preparar mais magias, e isto acabe por ultrapassar o número de Magias Conhecidas.
-
-No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Mana mais o seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
+No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Mana, acrescido do seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
 
 | Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
 | ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
@@ -57,18 +55,18 @@ No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de
 | 9                  | 25                | 15                 | 10                         | 5                           | 1d8          |
 | 10                 | 28                | 18                 | 10                         | 5                           | 2d4          |
 
-Alternativamente, ao invés de ganhar magias e arcanos menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente.
-## Equipamento inicial
+Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente.
+## Equipamento Inicial
 
 Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item do capítulo de [[Equipamentos]]. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.
 
-## Escolha de perícias
+## Escolha de Perícias e Proficiências
 
-Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. Ou seja, se o jogador tiver 2 de Inteligência, ele poderá escolher 3 Perícias. Com 4 de Inteligência, poderá escolher 4. Com 10 de Inteligência, poderá escolher apenas 5. As Perícias em si estão detalhadas no capítulo de [[Perícias]].
+Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. Ou seja, se o jogador tiver 2 de Inteligência, ele poderá escolher 3 Perícias. Com 4 de Inteligência, poderá escolher 4. Com 10 de Inteligência, poderá escolher apenas 5, ainda que seu Modificador de Inteligência seja 5. As Perícias em si estão detalhadas no capítulo de [[Perícias]].
 
-Você também é proficiente em um tipo de arma à sua escolha. Você pode adquirir uma proficiência em outros tipos de arma se desejar, ao troco de 1 ponto de habilidade por tipo.
+Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo.
 
-Você também é proficiente em salvaguardas de dois atributos diferentes, à sua escolha. Você pode gastar 2 pontos de habilidade para conseguir ser perito em salvaguardas de outro atributo, e pode fazer isso quantas vezes quiser. Sendo proficiente em uma salvaguarda de um determinado atributo, você adicionará o seu bônus de proficiência toda vez que precisar passar por uma.
+Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Perito em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
 
 ## História de Origem
 

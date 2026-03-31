@@ -46,13 +46,15 @@ Uma vez adquirido XP para subir de Nível será necessário ter um Descanso Long
 
 ## Pontos de Vida e Mana Adicionais
 
-Ao evoluir de Nível você ganhará mais Pontos de Vida e Pontos de Mana. Você pode optar por adicionar novos Pontos de duas maneiras: **rolando** os dados, ou pegando o **valor médio** deles. 
+Ao evoluir de Nível você ganhará mais Pontos de Vida e Pontos de Mana. Você pode optar por adicionar novos Pontos de duas maneiras: rolando os dados, ou pegando o valor médio deles. 
 
 Se optar por rolar os dados, você rolará seu Dado de Vida e adicionará o resultado ao seu Modificador de Constituição. Após isso, juntará os dois nos seus Pontos de Vida Máximos. Analogamente, fará o mesmo com a Mana, mas utilizando seu Dado de Mana e seu Modificador de Sabedoria.
 
-Se optar pelo valor médio, você dividirá o número máximo possível com seu Dado de Vida ou Dado de Mana, e somará ao modificador correspondente, adicionando os resultados ao seu total máximo de cada um.
+Se optar pelo valor médio, você dividirá o número máximo possível do seu Dado de Vida ou Dado de Mana, e somará ao Modificador correspondente, adicionando os resultados ao seu total máximo de cada um.
 
-Caso sua constituição tenha valor **negativo**, você não somará o modificador. Caso sua sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana por Nível.
+Caso sua Constituição tenha valor negativo, você não somará o Modificador. Caso sua Sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana por Nível.
+
+Caso seu Modificador de Constituição ou Sabedoria aumente em Níveis futuros, você pode adicionar Pontos de Vida e Mana retroativamente de acordo com o aumento. Supondo, por exemplo, que seu Nível antigo de Constituição era 8, e você está Nível 19, mas ao evoluir para o Nível 20 você coloque mais dois Pontos de Atributo em Constituição, seu Modificador aumentará em 1 ponto, e você ganhará 1 Ponto de Vida adicional para cada Nível além do 20. Neste caso, 19 Pontos de Vida adicionais.
 
 ## Pontos de Atributo e Habilidade
 
@@ -65,11 +67,11 @@ Você receberá Pontos de Atributo e Pontos de Habilidade para utilizarem da man
 
 ## Compromisso Adiantado
 
-Você não pode alocar pontos além do nível máximo de um atributo. No entanto, você pode deixá-los pré-alocados em um atributo específico. Uma vez feita essa escolha, esses pontos ficam permanentemente destinados àquele atributo e não podem ser realocados para outro.
+Você não pode alocar pontos além do Nível Máximo de um Atributo. No entanto, você pode deixá-los pré-alocados em um Atributo específico. Uma vez feita essa escolha, esses Pontos ficam permanentemente destinados àquele Atributo e não podem ser realocados para outro.
 
-Os pontos pré-alocados não cumprem pré-requisitos de habilidades, magias, ou quaisquer outras mecânicas do jogo. No entanto, eles somam ao valor atual do atributo para fins de modificador e bônus de dano — ou seja, o modificador do atributo é calculado considerando os pontos pré-alocados somados aos já alocados.
+Os Pontos pré-alocados não cumprem pré-requisitos de Habilidades, Magias, ou quaisquer outras mecânicas do jogo. No entanto, eles somam ao valor atual do Atributo para fins de Modificador e Bônus de Dano — ou seja, o Modificador do Atributo é calculado considerando os Pontos pré-alocados somados aos já alocados.
 
-Para pontos de vida e mana, você pode considerar como já tendo o dado de mana e vida dos pontos futuros, caso coloque previamente pontos em constituição e mana. No entanto, você utilizará seus valores atuais para calcular o ganho dos mesmos até que de fato os tenha quando o limite de nível máximo de atributo for aumentado.
+Para Pontos de Vida e Mana, ainda que você tenha pré-alocado Pontos de Atributo em Constituição e Sabedoria, você utilizará o seu Dado de Vida e Mana atuais, mas o Modificador será atualizado, portanto você poderá adicionar ao cálculo de seus Pontos de Vida e Mana novos, ou os que forem restaurados em um Descanso Curto.
 
 ## Ganho de Perícias Adicionais
 
@@ -79,9 +81,7 @@ A exceção a essa regra é o Nível 20, aonde você poderá tanto adquirir Per�
 
 ### Habilidades de Raça, Habilidades de Atributos, ou Magias
 
-Sua raça pode ou não conceder habilidades que aumentam conforme o Nível. 
-
-Algumas habilidades de atributos tem suas características aumentadas quando se sobe de Nível, concedendo mais poder de ataque, duração, dentre outras coisas.
+Sua Raça pode ou não conceder Habilidades que recebem uma melhoria conforme o Nível. Algumas Habilidades normais também podem melhorar com o tempo. Esteja atento a esses detalhes.
 
 ### Indo Além do Nível 20
 

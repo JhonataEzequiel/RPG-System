@@ -1,4 +1,4 @@
-Cada raça consegue carregar uma quantidade de peso em quilos diferente. No entanto, todas elas podem aumentar essa capacidade de carga caso invistam no Atributo de Força, e ao subir de Nível. O aumento de carga além do básico de cada raça é o seu Nível vezes o Atributo de Força.
+Cada raça consegue carregar uma quantidade de peso em quilos diferente. No entanto, todas elas podem aumentar essa capacidade de carga caso invistam no Atributo de Força, e ao subir de Nível. O aumento de carga além do básico de cada raça é o seu Nível vezes o Nível do Atributo de Força.
 
 | Raça             | Carga Base (Em Quilos) |
 | ---------------- | ---------------------- |

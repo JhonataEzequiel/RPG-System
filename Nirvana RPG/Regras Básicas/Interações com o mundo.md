@@ -2,7 +2,7 @@ Durante a campanha criada pelo mestre os jogadores poderão interagir de diversa
 
 ## Ações Padrão (ou Simplesmente "Ações")
 
-As ações padrão serão utilizadas para determinar quanto esforço é necessário para realizar uma atividade dentro de um Encontro, ou fora de um. Servirão mais como um contador. A exemplo, uma determinada magia exige duas Ações para ser utilizada, então duas das Ações disponíveis no Turno serão gastas, e caso você não possua duas disponíveis, não poderá conjurar a magia. As Ações só são contabilizadas em um Encontro, e você terá três em seu Turno.
+As Ações Padrão serão utilizadas para determinar quanto esforço é necessário para realizar uma atividade dentro de um Encontro, ou fora de um. Servirão mais como um contador. A exemplo, uma determinada Magia exige duas Ações para ser utilizada, então duas das Ações disponíveis no Turno serão gastas, e caso você não possua duas disponíveis, não poderá conjurar a Magia. As Ações só são contabilizadas em um Encontro, e você terá três em seu Turno.
 
 ## Ações Livres
 
@@ -10,17 +10,17 @@ Existem certas atividades que não gastam Ação alguma durante o Turno para ser
 
 ## Ações Bônus
 
-Ações Bônus são aquelas que podem ser utilizadas no mesmo Turno sem consumir uma Ação Padrão. Normalmente são dadas com magias e habilidades específicas. O mestre também pode decidir dar uma Ação Bônus para um jogador dependendo da situação, como quando um jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. **Todos podem usar apenas uma Ação Bônus por Turno.** Caso deseje usar uma segunda Ação Bônus no mesmo Turno, ela será tratada como uma Ação Padrão, consumindo uma das três Ações disponíveis.
+Ações Bônus são aquelas que podem ser utilizadas no mesmo Turno sem consumir uma Ação Padrão. Normalmente são dadas com Magias e Habilidades específicas. O mestre também pode decidir dar uma Ação Bônus para um jogador dependendo da situação, como quando um jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. **Todos podem usar apenas uma Ação Bônus por Turno.** Caso deseje usar uma segunda Ação Bônus no mesmo Turno, ela será tratada como uma Ação Padrão, consumindo uma das três Ações disponíveis.
 
 ## Reações
 
-Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma magia que possa ser evitada por uma habilidade que concede uma Reação ao jogador, ele poderá escolher utilizar essa Reação para tentar evitá-la. Há um limite de uma Reação por Rodada por personagem. A Reação se recupera ao final de cada Rodada. Uma vez usada durante uma Rodada, o personagem não poderá reagir novamente até que a Rodada atual termine.
+Reações são ações que precisam de um acionamento para ativar. Por exemplo, caso um inimigo utilize uma Magia que possa ser evitada por uma Habilidade que concede uma Reação ao jogador, ele poderá escolher utilizar essa Reação para tentar evitá-la. Há um limite de uma Reação por Rodada por personagem. A Reação se recupera ao final de cada Rodada. Uma vez usada durante uma Rodada, o personagem não poderá reagir novamente até que a Rodada atual termine.
 
 ## Funcionamento dos Dados
 
-Na maioria das ações realizadas pelos jogadores eles precisarão rolar dados, seja para realizar um Ataque, ou para investigar uma área. Normalmente o dado mais utilizado para realizar ações é o dado de 20 faces, e o resultado determinará o **sucesso** ou **fracasso** de uma certa ação. A dificuldade de realizar uma ação será definida pelo mestre. Exemplo: caso o mestre defina que para levantar uma pedra pesada o jogador precise de um resultado de 15 de Atletismo, o jogador precisará rolar um dado de 20 faces e caso o resultado seja maior ou igual a 15 depois de calcular o valor que o dado caiu e os bônus, ele consegue levantar a rocha.
+Na maioria das ações realizadas pelos jogadores eles precisarão rolar dados, seja para realizar um Ataque, ou para investigar uma área. Normalmente o dado mais utilizado para realizar ações é o dado de 20 faces, e o resultado determinará o sucesso ou fracasso de uma certa ação. A dificuldade de realizar uma ação será definida pelo mestre. Exemplo: caso o mestre defina que para levantar uma pedra pesada o jogador precise de um resultado de 15 de Atletismo, o jogador precisará rolar um dado de 20 faces e caso o resultado seja maior ou igual a 15 depois de calcular o valor que o dado caiu e os bônus, ele consegue levantar a rocha.
 
-Os bônus em si podem variar dependendo do Teste, mas geralmente são os modificadores dos atributos. Um teste de Força normalmente não usa o atributo em si, mas o modificador, por exemplo. Além disso, existem alguns bônus situacionais, como quando uma magia ou habilidade concede-os para um determinado teste.
+Os bônus em si podem variar dependendo do Teste, mas geralmente são os Modificadores dos Atributos. Um teste de Força normalmente não usa o Atributo em si, mas o Modificador, por exemplo. Além disso, existem alguns bônus situacionais, como quando uma Magia ou Habilidade concede-os para um determinado teste.
 
 ## Testes
 
@@ -30,13 +30,13 @@ Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rola
 
 ## Salvaguardas (ou Testes de Resistência)
 
-Salvaguardas são testes feitos com o intuito de resistir a alguma coisa. Por exemplo, uma magia que causa uma explosão pode requerer que os alvos realizem uma Salvaguarda de Destreza para desviar do raio de impacto.
+Salvaguardas são testes feitos com o intuito de resistir a alguma coisa. Por exemplo, uma Magia que causa uma explosão pode requerer que os alvos realizem uma Salvaguarda de Destreza para desviar do raio de impacto.
 
 ### Críticos e Margem de Ameaça
 
 Caso alguém tire 20 em um dado, será um **Sucesso Crítico** (ou Acerto Crítico), o que fará com que as consequências daquela ação sejam bem melhores para ele. De modo análogo, se tirar 1, será um **Erro Crítico**, e as consequências serão devastadoras.
 
-A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um acerto crítico. Na maioria dos casos, será apenas o número 20, porém é possível que habilidades e magias aumentem esse intervalo. Por exemplo, se um jogador pudesse ter um Acerto Crítico tirando 19 ou 20, então sua margem de ameaça seria +1.
+A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um acerto crítico. Na maioria dos casos, será apenas o número 20, porém é possível que Habilidades e Magias aumentem esse intervalo. Por exemplo, se um jogador pudesse ter um Acerto Crítico tirando 19 ou 20, então sua margem de ameaça seria +1.
 
 ### Vantagens e Desvantagens
 
