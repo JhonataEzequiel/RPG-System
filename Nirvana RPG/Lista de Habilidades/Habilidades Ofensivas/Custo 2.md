@@ -184,4 +184,10 @@ Caso esteja com uma arma de punho que já cause algum desses tipos de dano, adic
 **Requisitos** O alvo do Ataque precisa estar Envenenado.
 **Custo**: 3 Ações, 5 de mana.
 
-Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso.
+Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a Condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso. Para esta Habilidade ter efeito, a Duração do veneno terá que ser de, pelo menos, 3 Rodadas. O alvo se torna imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por essa Habilidade.
+
+## Inércia
+
+**Requisitos**: 5 em força, destreza, ou constituição.
+
+Você agora não pode realizar mais do que um Ataque por Turno. Além disso, você não poderá usar Habilidades de Ataque que tenham como Custo 2 ou 3 Ações. Em troca, seus Ataques agora causam o dano de dois Ataques.

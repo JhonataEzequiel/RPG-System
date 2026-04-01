@@ -2,8 +2,6 @@ Comumente chamados de "Homens-Gato", os Cait-Sith são uma raça de felinos huma
 
 **Queda de Gato** (Passiva): Você recebe metade do dano ocasionado por Queda Livre.
 
-**Sugador de Essências** (Ação Bônus): Você absorve uma quantidade de Pontos de Vida de todas as criaturas numa área circular de raio 48m. A quantidade absorvida é de 3 Pontos de Vida para cada criatura na área. Você pode escolher quais criaturas serão alvos desta Habilidade. Criaturas com Imunidade a Dano Sombrio não são afetadas, mas aquelas que são Resistentes serão. Você pode escolher se irá se curar, ou ganhar Pontos de Vida Temporários com essa Habilidade.
-
-Alternativamente, você pode gastar Mana para aumentar a quantidade absorvida. Para cada Ponto de Mana gasto, você adiciona +3 Pontos de Vida absorvidos por criatura.
+**Sugador de Essências** (Uma Ação): Você realiza um Ataque a Distância contra uma criatura alvo que você possa ver num raio de 48m. Você suga a energia vital da criatura, que vem até você e é absorvida. Você utiliza o Modificador de um Atributo à sua escolha como bônus, além de seu Bônus de Proficiência para acertar. Você causa Dano Sombrio igual a 2d6 + o Modificador do Atributo escolhido, e se cura em metade desse dano causado. No Nível 5, esse dado de dano aumenta para 3d8. No Nível 10, 4d8. No Nível 15, 5d10. No Nível 18, 7d10. Você pode usar esta Habilidade uma vez por Turno.
 
 **Garras Felinas** (Passiva): Seus Ataques Desarmados sem Armas de Punho equipadas agora aumentam o dano base de 1d4 para 2d4.

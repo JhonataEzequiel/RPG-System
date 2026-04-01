@@ -216,3 +216,11 @@ A partir do início do seu segundo turno em um encontro, adicione +3m de desloca
 **Alcance**: 18m.
 
 Você coleta toda a sua energia vital em um único golpe, acertando o chão, criando uma cratera. Todas as criaturas em uma área circular de raio igual ao alcance desta habilidade precisarão realizar uma salvaguarda de destreza CD 9 + força. Em caso de falha, recebem o dano de 10 ataques desarmados seus de uma vez como dano de impacto. Em caso de sucesso, recebem metade do dano total. Uma vez utilizada essa habilidade, você terá a condição de exaustão 4, mas curará um nível de exaustão no início de cada um de seus turnos, até estar completamente curado. Você recura quaisquer pontos de vida perdidos pela condição de exaustão 4 quando você diminuir 1 nível da condição.
+
+## Dor Permanente
+
+**Requisitos**: 10 de inteligência.
+**Custo**: Ação Bônus, 3 de mana.
+**Alcance**: Toque.
+
+Você faz a mana circular no seu corpo de uma maneira desconhecida, fazendo com que todo Dano Contínuo causado por você aumente. Adicione seu Modificador de Inteligência a todo Dano Contínuo que causar no Turno em que usar essa Habilidade.
