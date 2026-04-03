@@ -10,7 +10,7 @@ Sofre desvantagem em ataques, e seu deslocamento é cortado pela metade.
 
 É incapaz de agir até que se liberte do atordoamento. Normalmente só pode realizar testes para sair do atordoamento que são detalhados pelo que o fez ficar atordoado (como uma magia que diz qual a salvaguarda necessária para sair do atordoamento), mas podem existir habilidades e magias que ignoram essa condição e que poderão ser usadas normalmente. Quem está atordoado falha automaticamente em salvaguardas de força e destreza.
 
-### Caído (ou derrubado)
+### Caído (ou Derrubado)
 
 Uma criatura caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem desvantagem em jogadas de ataque. Quaisquer ataques direcionados a criatura tem vantagem para acertar caso o atacante esteja em até 1.5m de distância da criatura. Ela pode se levantar com uma ação.
 

@@ -12,9 +12,9 @@ A Iniciativa determinará quem irá agir primeiro quando um combate for iniciado
 
 ## Turnos e rodadas
 
-Cada jogador terá um Turno aonde poderá decidir o que vai fazer durante um combate. Um Turno dura em média 10 segundos no mundo dos personagens, mas o jogador poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três Ações diferentes em seu turno, com exceção, é claro, das Ações Bônus, que podem ser usadas independentemente desse limite, e de Ações Livres. O custo em Ações estará detalhado em cada habilidade. Uma Rodada é a junção dos Turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu Turno, a Rodada acaba e outra começa.
+Cada jogador terá um Turno aonde poderá decidir o que vai fazer durante um combate. Um Turno dura em média 10 segundos no mundo dos personagens, mas o jogador poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três Ações diferentes em seu turno, com exceção, é claro, das Ações Bônus, que podem ser usadas independentemente desse limite, e de Ações Livres. O custo em Ações estará detalhado em cada habilidade. Uma Rodada é a junção dos Turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu Turno, a Rodada acaba e outra começa. Dentro da mística do jogo, todos os Turnos acontecem ao mesmo tempo. Isso significa que a rodada também tem duração média de 10 segundos.
 
-Algumas vezes a duração de certas habilidades e magias será de uma Rodada. Quando fora de combate, considere essa duração como sendo de 1 minuto.
+Algumas vezes a duração de certas Habilidades e Magias será de uma Rodada. Quando fora de combate, considere essa duração como sendo de 1 minuto. Para cada Rodada adicional na duração, ela aumenta em 1 minuto fora de combate.
 
 ## Magias
 
