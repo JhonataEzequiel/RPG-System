@@ -2,7 +2,7 @@
 
 - Requisito em Inteligência: 1
 - Requisito em Carisma: 1
-- Duração: Uma Rodada
+- Duração: 1 Minuto
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
@@ -15,7 +15,7 @@ Alternativamente, você pode tornar um alvo indiferente às criaturas que você 
 ### Anular Cheiro
 
 - Requisito em Inteligência ou Carisma: 1
-- Duração: Três Rodadas
+- Duração: 1 Minuto
 - Alcance: 9m + Deslocamento
 - Tempo de Conjuração: Duas Ações
 
@@ -51,3 +51,5 @@ Você pode aumentar a duração da Magia para 24 horas por 3 Pontos de Mana adic
 - Tempo de Conjuração: Uma Ação
 
 **Descrição:** Uma criatura alvo no alcance da Magia vê apenas um caleidoscópio quando olha para qualquer lugar. Caso ela falhe numa Salvaguarda de Sabedoria CD 11 + Int + Car, ela é Atordoada até o fim da duração da Magia.
+
+Você pode estender a duração da Magia em uma Rodada por Ponto de Mana adicional gasto, até um máximo de três Rodadas adicionais.

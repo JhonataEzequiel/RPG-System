@@ -20,4 +20,4 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 **Vagante** (Passiva): Você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma condição negativa.
 
-**Mercador** (passiva): A cada 5 itens comprados ou vendidos que valham mais do que 15po você aumenta permanentemente o seu Bônus de Proficiência em 1 ponto. Você pode fazer isso no máximo 5 vezes.
+**Mercador** (passiva): A cada 5 itens comprados ou vendidos que valham mais do que 15po você aumenta permanentemente o seu Bônus de Proficiência em 1 ponto. Você pode fazer isso no máximo 3 vezes. Uma vez atingido o número máximo, você tem +1 em Testes de Conversação visando realizar uma barganha.
