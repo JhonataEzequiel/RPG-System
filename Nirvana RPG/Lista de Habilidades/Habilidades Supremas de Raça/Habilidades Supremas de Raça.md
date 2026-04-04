@@ -5,9 +5,9 @@ Todas as Habilidades Supremas de Raça custam 3 pontos de Habilidade para serem 
 
 **Requisitos**: Você é um Anão de Nível 10 ou superior. 
 
-Você agora tem acesso a uma quarta runa, que pode ser aplicada em qualquer objeto que possa ser equipado. As regras anteriores de não poder ter mais de uma runa em um objeto ainda são válidas. A runa de Jade concede um Ponto de Atuação por dia para quem estiver com o objeto em que a runa está colocada equipado. Esse Ponto de Atuação some ao ter um Descanso Longo, e você recebe um novo ponto. Isso evita que os pontos se acumulem.
+Você agora tem acesso a uma quarta Runa, que pode ser aplicada em qualquer objeto que possa ser equipado. As regras anteriores de não poder ter mais de uma Runa em um objeto ainda são válidas. A Runa de Jade concede um Ponto de Atuação por dia para quem estiver com o objeto em que a Runa está colocada equipado. Esse Ponto de Atuação some ao ter um Descanso Longo, e você recebe um novo ponto.
 
-Essa runa só é ativa se todas as outras estiverem ativas. Ao desativar essa runa ou qualquer uma das outras, o Ponto de Atuação é perdido, e pode ser recuperado ao ativá-las novamente e ter um Descanso Longo.
+Essa Runa só é ativa se todas as outras estiverem ativas. Ao desativar essa Runa ou qualquer uma das outras, o Ponto de Atuação é perdido, e pode ser recuperado ao ativá-las novamente e ter um Descanso Longo.
 
 ## Adaptação Élfica Superior
 
@@ -19,7 +19,7 @@ O limite de uma vez ao dia para a Adaptação Élfica é aumentado para cinco ve
 
 **Requisitos**: Você é um Elfo da Floresta de Nível 10 ou superior.
 
-Você tem os dois efeitos que originalmente você precisava escolher da Visão de Caçador ao mesmo tempo, ou seja, será o primeiro na Iniciativa, e usará um atributo ao invés de bônus para Ataques à Distância.
+Você tem os dois efeitos que originalmente você precisava escolher da Visão de Caçador ao mesmo tempo, ou seja, será o primeiro na Iniciativa, e usará um atributo ao invés de bônus para Ataques a Distância.
 
 ## Teletransportador
 

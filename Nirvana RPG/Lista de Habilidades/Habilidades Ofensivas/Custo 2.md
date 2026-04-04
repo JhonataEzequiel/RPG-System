@@ -102,9 +102,9 @@ Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse
 
 ## Bombardeio Aéreo
 
-**Requisitos**: Ser capaz de voar, ter uma Arma à Distância em mãos, e ser proficiente com ela.
+**Requisitos**: Ser capaz de voar, ter uma Arma a Distância em mãos, e ser proficiente com ela.
 
-Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua margem de ameaça em 2 pontos caso você Ataque à Distância enquanto voa. Você não é mais capaz de ter um Acerto Crítico em um Ataque se não estiver voando.
+Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua Margem de Ameaça em 2 pontos caso você Ataque a Distância enquanto voa. Você não é mais capaz de ter um Acerto Crítico em um Ataque se não estiver voando.
 
 ## Dissonância
 
@@ -130,7 +130,7 @@ Todos os seus Ataques são considerados críticos. Ataques Críticos efetuados c
 **Alcance**: 18m.
 **Custo**: Uma Ação.
 
-Você concentra parte de sua energia vital e a dispara em um Ataque à Distância. O dano é igual ao do seu Ataque Desarmado, mas você utilizará apenas o seu Modificador de Sabedoria como bônus de dano.
+Você concentra parte de sua energia vital e a dispara em um Ataque a Distância. O dano é igual ao do seu Ataque Desarmado, mas você utilizará apenas o seu Modificador de Sabedoria como bônus de dano.
 
 ## Sem Controle
 

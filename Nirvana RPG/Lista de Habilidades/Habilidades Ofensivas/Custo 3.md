@@ -24,7 +24,7 @@ Você se move tão rápido, e com tanta ferocidade, que recebe os seguintes bôn
 
 **Requisitos:** Habilidade "Ataque Extra" de custo 1. 4 de Força e 1 de Destreza.
 
-O jogador não sofre mais penalidades de Ataques, e sua margem de ameaça é aumentada em 1 ponto. Além disso, uma vez por Descanso Longo o jogador pode escolher acertar um Ataque, caso erre a rolagem.
+O jogador não sofre mais penalidades de Ataques, e sua Margem de Ameaça é aumentada em 1 ponto. Além disso, uma vez por Descanso Longo o jogador pode escolher acertar um Ataque, caso erre a rolagem.
 
 ## Fúria Aprimorada
 
@@ -82,14 +82,14 @@ Caso você falhe em identificar o ponto Cego do alvo, você perde seu Turno e a 
 
 ## Presa Ato IV
 
-**Requisitos**: Habilidade "Presa Ato III" de custo 2. 6 de Destreza, 4 de Inteligência. Ser capaz de realizar um Ataque à Distância.
+**Requisitos**: Habilidade "Presa Ato III" de custo 2. 6 de Destreza, 4 de Inteligência. Ser capaz de realizar um Ataque a Distância.
 **Custo**: Três Ações.
-**Alcance**: O alcance normal de seu Ataque à Distância + 48m.
+**Alcance**: O alcance normal de seu Ataque a Distância + 48m.
 **Duração**: 1 Encontro.
 
-Você realiza um Ataque à Distância que sempre acerta o seu alvo. O alvo pode realizar um Teste de Resistência de Constituição CD 12 + Dex para diminuir o dano recebido pelo Ataque em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do Ataque, seu Ataque sempre irá acertar. Você também consegue acertar um Ataque à Distância ainda que o alvo fuja para outro plano de existência. A partir do próximo Turno do alvo ele recebe 1d4 de Dano Contínuo, que aumenta em 1d4 por Rodada.
+Você realiza um Ataque a Distância que sempre acerta o seu alvo. O alvo pode realizar um Teste de Resistência de Constituição CD 12 + Dex para diminuir o dano recebido pelo Ataque em 1d8. Ainda que o alvo seja Invulnerável, ou de alguma maneira consiga escapar do Ataque, seu Ataque sempre irá acertar. Você também consegue acertar um Ataque a Distância ainda que o alvo fuja para outro plano de existência. A partir do próximo Turno do alvo ele recebe 1d4 de Dano Contínuo, que aumenta em 1d4 por Rodada.
 
-**Maior Resultado** (passiva): Você sempre pode rolar novamente o dano de Ataques à Distância, escolhendo o maior valor entre eles. Isto não se aplica ao Dano Contínuo do uso principal da Presa Ato IV.
+**Maior Resultado** (passiva): Você sempre pode rolar novamente o dano de Ataques a Distância, escolhendo o maior valor entre eles. Isto não se aplica ao Dano Contínuo do uso principal da Presa Ato IV.
 
 ## Golpe Cromático
 
