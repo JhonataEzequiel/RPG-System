@@ -1,30 +1,30 @@
 ## Golpe Triplo
 
 **Requisitos:** Habilidade "Golpe Duplo" de custo 2.
-**Custo**: Duas Ações e 1 de mana.
+**Custo**: Duas Ações e 1 de Mana.
 
-Caso esteja usando Armas leves, você poderá realizar três ataques ao mesmo tempo, com apenas uma rolagem de ataque. Você também utiliza seu Bônus de Proficiência na jogada ao invés de seu modificador de Destreza ou Força para acertar o ataque. 
+Caso esteja usando Armas Leves, você poderá realizar três Ataques ao mesmo tempo, com apenas uma rolagem de Ataque. Você também utiliza seu Bônus de Proficiência na jogada ao invés de seu Modificador de Destreza ou Força para acertar o Ataque. 
 
-Caso não esteja usando Armas leves, ataca três vezes sem penalidades, mas não pode mais atacar com a Ação restante.
+Caso não esteja usando Armas Leves, ataca três vezes sem penalidades, mas não pode mais atacar com a Ação restante.
 
 ## Intocável
 
 **Requisitos**: 10 de Destreza.
 **Duração:** um Encontro.
-**Custo:** Duas Ações e 5 de mana.
+**Custo:** Duas Ações e 5 de Mana.
 
 Você se move tão rápido, e com tanta ferocidade, que recebe os seguintes bônus:
 * Seu Deslocamento aumenta em 6m.
-* Todos os ataques contra você tem Desvantagem para acertar.
-* Você tem Vantagem para desviar de Magias de ataque que pedem uma Salvaguarda de Destreza.
-* Caso tenha um acerto crítico numa rolagem de ataque, adicione seu Bônus de Proficiência ao dano. Esse bônus não é dobrado.
-- Você se torna imune a qualquer ataque de oportunidade.
+* Todos os Ataques contra você tem Desvantagem para acertar.
+* Você tem Vantagem para desviar de Magias de Ataque que pedem uma Salvaguarda de Destreza.
+* Caso tenha um Acerto Crítico numa rolagem de Ataque, adicione seu Bônus de Proficiência ao dano. Esse bônus não é dobrado.
+- Você se torna imune a qualquer Ataque de oportunidade.
 
 ## Ataque Extra Aprimorado
 
 **Requisitos:** Habilidade "Ataque Extra" de custo 1. 4 de Força e 1 de Destreza.
 
-O jogador não sofre mais penalidades de ataques, e sua margem de ameaça é aumentada em 1 ponto. Além disso, uma vez por descanso longo o jogador pode escolher acertar um ataque, caso erre a rolagem.
+O jogador não sofre mais penalidades de Ataques, e sua margem de ameaça é aumentada em 1 ponto. Além disso, uma vez por Descanso Longo o jogador pode escolher acertar um Ataque, caso erre a rolagem.
 
 ## Fúria Aprimorada
 
@@ -33,71 +33,71 @@ O jogador não sofre mais penalidades de ataques, e sua margem de ameaça é aum
 Os seguintes bônus são adicionados toda vez que o jogador entra em fúria:
 
 * Vantagem em Testes de Constituição;
-* Imunidade a condição Encantado;
+* Imunidade a Condição Encantado;
 * Imunidade a Veneno;
-* Seus ataques agora usam o atributo ao invés do modificador para calcular o dano.
+* Seus Ataques agora usam o atributo ao invés do Modificador para calcular o dano.
 
-**Erguer-se novamente:** Caso o jogador For Nocauteado, ele poderá escolher voltar a vida com 1 ponto de vida sem precisar passar por salva guarda. Só pode usar uma vez por descanso longo.
+**Erguer-se novamente:** Caso o jogador For Nocauteado, ele poderá escolher voltar a Vida com 1 ponto de Vida sem precisar passar por salva guarda. Só pode usar uma vez por Descanso Longo.
 
 ## Crítico Garantido
 
 **Requisitos**: 10 de Força ou 10 de Destreza.
-**Custo:** Uma Ação e 1 de mana.
+**Custo:** Uma Ação e 1 de Mana.
 
-Durante um Encontro, todos os ataques que utilizem Força ou Destreza serão considerados ataques críticos, isso significa que o jogador não precisará passar por Testes de rolagens de ataque para acertar o inimigo. O jogador desmaia depois do Encontro por 24 horas. Só pode ser usado uma vez por descanso longo.
+Durante um Encontro, todos os Ataques que utilizem Força ou Destreza serão considerados Ataques Críticos, isso significa que o jogador não precisará passar por Testes de rolagens de Ataque para acertar o inimigo. O jogador desmaia depois do Encontro por 24 horas. Só pode ser usado uma vez por Descanso Longo.
 
-Ao ativar essa habilidade, o usuário entra em hiper foco, e é impossibilitado de usar Magias de qualquer tipo. Também ignora terreno difícil e condições que o incapacitariam, como habilidades que possam derrubá-lo ou o deixar Atordoado.
+Ao ativar essa Habilidade, o usuário entra em hiper foco, e é impossibilitado de usar Magias de qualquer tipo. Também ignora terreno difícil e condições que o incapacitariam, como Habilidades que possam derrubá-lo ou o deixar Atordoado.
 
 ## Um com a terra
 
 **Requisitos**: Habilidade “Um com os céus” de custo 2. 10 de Destreza e 10 de Fé.
 
-Você agora se conecta com a Natureza. Percebe o ciclo interminável de vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre.
+Você agora se conecta com a Natureza. Percebe o ciclo interminável de Vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre.
 
-Qualquer dano que você cause agora recebe um adicional de 3d8 + Fth de Dano Sagrado. Além disso, qualquer cura que você receber agora cura o dobro, seja de vida ou mana. 
+Qualquer dano que você cause agora recebe um adicional de 3d8 + Fth de Dano Sagrado. Além disso, qualquer cura que você receber agora cura o dobro, seja de Vida ou Mana. 
 
-**Rejuvenescer** (Duas Ações): pode utilizar seu dado de vida para se curar a qualquer momento. Uma vez por descanso longo. A cura também é dobrada, mas só se estiver fora de combate.
+**Rejuvenescer** (Duas Ações): pode utilizar seu dado de Vida para se curar a qualquer momento. Uma vez por Descanso Longo. A cura também é dobrada, mas só se estiver fora de combate.
 
 ## Violência
 
 **Requisitos**: 10 de Força.
 **Custo**: Três Ações.
 
-Golpeia um inimigo com toda a sua Força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d12 + Força de Dano Verdadeiro. O inimigo tem Desvantagem no próximo ataque dele.
+Golpeia um inimigo com toda a sua Força, afetando o psicológico e a alma do inimigo além de seu corpo físico, causando 12d12 + Força de Dano Verdadeiro. O inimigo tem Desvantagem no próximo Ataque dele.
 
 ## Potência Pura
 
 **Requisitos**: 8 de Força.
 
-Se qualquer ataque ou habilidade de ataque (habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 25% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 63. Essa habilidade é ativa o tempo todo, e só funciona com ataques físicos.
+Se qualquer Ataque ou Habilidade de Ataque (Habilidades que causem dano) seus tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar 25% mais dano, arredondado para cima. Ou seja, se você fosse causar 50 de dano, agora causa 63. Essa Habilidade é ativa o tempo todo, e só funciona com Ataques físicos.
 
 ## Blitzkrieg
 
 **Requisitos**: 10 de Destreza. 
-**Custo**: Três Ações, 1 de mana.
+**Custo**: Três Ações, 1 de Mana.
 
-Você escolhe um alvo dentro de até o triplo do seu Deslocamento. Caso você esteja furtivo, ou com pelo menos 2 aliados no alcance do seu Deslocamento, role um Teste de Inteligência ou Sabedoria para identificar algum ponto Cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse ataque será considerado crítico. O alvo fica Atordoado caso falhe numa Salvaguarda de Constituição CD 13 + Dex. Ele pode realizar o Teste novamente no início do Turno dele. Esta habilidade não provoca ataques de oportunidade. Ignora terreno difícil.
+Você escolhe um alvo dentro de até o triplo do seu Deslocamento. Caso você esteja furtivo, ou com pelo menos 2 aliados no alcance do seu Deslocamento, role um Teste de Inteligência ou Sabedoria para identificar algum ponto Cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse Ataque será considerado crítico. O alvo fica Atordoado caso falhe numa Salvaguarda de Constituição CD 13 + Dex. Ele pode realizar o Teste novamente no início do Turno dele. Esta Habilidade não provoca Ataques de oportunidade. Ignora terreno difícil.
 
-Caso você falhe em identificar o ponto Cego do alvo, você perde seu Turno e a mana gasta, mas você tem uma reação a mais nessa Rodada.
+Caso você falhe em identificar o ponto Cego do alvo, você perde seu Turno e a Mana gasta, mas você tem uma reação a mais nessa Rodada.
 
 ## Presa Ato IV
 
-**Requisitos**: Habilidade "Presa Ato III" de custo 2. 6 de Destreza, 4 de Inteligência. Ser capaz de realizar um ataque a distância.
+**Requisitos**: Habilidade "Presa Ato III" de custo 2. 6 de Destreza, 4 de Inteligência. Ser capaz de realizar um Ataque à Distância.
 **Custo**: Três Ações.
-**Alcance**: O alcance normal de seu ataque a distância + 48m.
+**Alcance**: O alcance normal de seu Ataque à Distância + 48m.
 **Duração**: 1 Encontro.
 
-Você realiza um ataque a distância que sempre acerta o seu alvo. O alvo pode realizar um Teste de Resistência de Constituição CD 12 + Dex para diminuir o dano recebido pelo ataque em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do ataque, seu ataque sempre irá acertar. Você também consegue acertar um ataque a distância ainda que o alvo fuja para outro plano de existência. A partir do próximo Turno do alvo ele recebe 1d4 de Dano Contínuo, que aumenta em 1d4 por Rodada.
+Você realiza um Ataque à Distância que sempre acerta o seu alvo. O alvo pode realizar um Teste de Resistência de Constituição CD 12 + Dex para diminuir o dano recebido pelo Ataque em 1d8. Ainda que o alvo seja invulnerável, ou de alguma maneira consiga escapar do Ataque, seu Ataque sempre irá acertar. Você também consegue acertar um Ataque à Distância ainda que o alvo fuja para outro plano de existência. A partir do próximo Turno do alvo ele recebe 1d4 de Dano Contínuo, que aumenta em 1d4 por Rodada.
 
-**Maior Resultado** (passiva): Você sempre pode rolar novamente o dano de ataques a distância, escolhendo o maior valor entre eles. Isto não se aplica ao Dano Contínuo do uso principal da Presa Ato IV.
+**Maior Resultado** (passiva): Você sempre pode rolar novamente o dano de Ataques à Distância, escolhendo o maior valor entre eles. Isto não se aplica ao Dano Contínuo do uso principal da Presa Ato IV.
 
 ## Golpe Cromático
 
 **Requisitos**: Habilidade "Força Natural" de custo 1. 6 de Força ou Destreza, 1 de Sabedoria. 
 
-**Sinergia Corpo e Mente** (passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu modificador de Inteligência aos ataques desarmados, caso seja positivo. Essa parte da habilidade é passiva, e está sempre ativa.
+**Sinergia Corpo e Mente** (passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu Modificador de Inteligência aos Ataques Desarmados, caso seja positivo. Essa parte da Habilidade é passiva, e está sempre ativa.
 
-**Elementar** (Ação Bônus): Você pode trocar o tipo de dano do seu ataque desarmado para qualquer um dos tipos elementais. O tipo de dano só será trocado quando você utilizar essa habilidade novamente. Você também pode escolher causar dano em área com seus ataques. Neste caso, você escolherá um elemento e causará o dano de um ataque desarmado em todos que estiverem na área de impacto, que será uma área circular de raio 3m no alcance do seu Deslocamento. Você não precisará rolar para acertar este ataque, mas os inimigos na área de impacto terão que realizar uma Salvaguarda de Destreza CD 14 + (For ou Dex) para desviar, recebendo metade do dano.
+**Elementar** (Ação Bônus): Você pode trocar o tipo de dano do seu Ataque Desarmado para qualquer um dos tipos elementais. O tipo de dano só será trocado quando você utilizar essa Habilidade novamente. Você também pode escolher causar dano em área com seus Ataques. Neste caso, você escolherá um elemento e causará o dano de um Ataque Desarmado em todos que estiverem na área de impacto, que será uma área circular de Raio 3m no alcance do seu Deslocamento. Você não precisará rolar para acertar este Ataque, mas os inimigos na área de impacto terão que realizar uma Salvaguarda de Destreza CD 14 + (For ou Dex) para desviar, recebendo metade do dano.
 
 ## Cérebro do Demônio
 
@@ -113,36 +113,36 @@ Seu cérebro funciona mais rapidamente que o das outras pessoas, e você process
 **Custo**: Duas Ações.
 **Duração**: 1 Encontro.
 
-Uma vez por descanso longo, você flexiona suas costas, que ficam tão definidas que é possível enxergar uma figura demoníaca em seus músculos. Aumenta seu Deslocamento em 3m, sua CA em 1 ponto, seu Dano Físico causado por ataques em 2d8, e você ganha 15 Pontos de Vida Temporários.
+Uma vez por Descanso Longo, você flexiona suas costas, que ficam tão definidas que é possível enxergar uma figura demoníaca em seus músculos. Aumenta seu Deslocamento em 3m, sua CA em 1 ponto, seu Dano Físico causado por Ataques em 2d8, e você ganha 15 Pontos de Vida Temporários.
 
 ## Mandíbula do Demônio
 
 **Requisitos**: 10 de Força.
 **Custo**: Três Ações.
 
-Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham como a luz refletindo em um metal. Para acertar este ataque você utilizará o atributo de Força ao invés do modificador, caso tenha escolhido o modificador de Força para ser seu bônus de ataques desarmados. O dano continuará sendo calculado da mesma maneira de um ataque desarmado, mas o alvo ficará Atordoado até o início do próximo Turno dele. Você ganha +5 para acertar ataques contra o alvo em questão.
+Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham como a luz refletindo em um metal. Para acertar este Ataque você utilizará o atributo de Força ao invés do Modificador, caso tenha escolhido o Modificador de Força para ser seu bônus de Ataques Desarmados. O dano continuará sendo calculado da mesma maneira de um Ataque Desarmado, mas o alvo ficará Atordoado até o início do próximo Turno dele. Você ganha +5 para acertar Ataques contra o alvo em questão.
 
 ## Assassino Instantâneo do Inferno
 
 **Requisitos**: Habilidades "Cérebro do Demônio", "Costas do Demônio", e "Mandíbula do Demônio" de custo 3.
-**Custo**: Três Ações, 4 de mana.
+**Custo**: Três Ações, 4 de Mana.
 **Duração**: 2 Rodadas.
 
-Você avança para cima do alvo, golpeando-o com extrema velocidade e Força. O alvo fica Incapacitado pela duração caso falhe num Teste de Resistência de Constituição CD 5 + Con + For + Sab. Sendo bem sucedido ou não, recebe o dano de três ataques desarmados ao mesmo tempo. Essa habilidade sempre acerta.
+Você avança para cima do alvo, golpeando-o com extrema velocidade e Força. O alvo fica Incapacitado pela duração caso falhe num Teste de Resistência de Constituição CD 5 + Con + For + Sab. Sendo bem sucedido ou não, recebe o dano de três Ataques Desarmados ao mesmo tempo. Essa Habilidade sempre acerta.
 
 ## Relâmpago de Plasma
 
-**Requisitos**: No momento de ativação dessa habilidade seu Deslocamento deve ser de, pelo menos, 48m.
-**Custo**: Três Ações, toda a sua mana com um mínimo de 20 pontos.
+**Requisitos**: No momento de ativação dessa Habilidade seu Deslocamento deve ser de, pelo menos, 48m.
+**Custo**: Três Ações, toda a sua Mana com um mínimo de 20 pontos.
 
-Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus golpes parecem feixes de luz. Você ataca todos os inimigos no alcance do seu Deslocamento ao mesmo tempo, causando o dano de três ataques em cada um deles. Você retorna para a sua posição inicial ao fim do seu Turno, e não ativa ataques de oportunidade. Essa habilidade sempre acerta.
+Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus golpes parecem feixes de luz. Você ataca todos os inimigos no alcance do seu Deslocamento ao mesmo tempo, causando o dano de três Ataques em cada um deles. Você retorna para a sua posição inicial ao fim do seu Turno, e não ativa Ataques de oportunidade. Essa Habilidade sempre acerta.
 
 ## Devorador de Almas
 
 **Requisitos**: 3 de Inteligência, 6 de Fé.
-**Custo**: Uma Ação, 5 de mana.
+**Custo**: Uma Ação, 5 de Mana.
 
-Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus sortilégios que causem Dano Sombrio. Esse aumento só é aplicado caso a Magia cause Dano Sombrio, e quaisquer outros tipos de dano são ignorados, inclusive se você modificar a Magia com o uso da habilidade "Fogo Fátuo". A ativação dessa habilidade custa mana e Ações apenas para colher as almas, não para usar o dano extra.
+Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus sortilégios que causem Dano Sombrio. Esse aumento só é aplicado caso a Magia cause Dano Sombrio, e quaisquer outros tipos de dano são ignorados, inclusive se você modificar a Magia com o uso da Habilidade "Fogo Fátuo". A ativação dessa Habilidade custa Mana e Ações apenas para colher as almas, não para usar o dano extra.
 
 O que você colhe não é a alma de fato da criatura, pois isso a impediria de seguir o ciclo natural, mas sim parte da essência vital dela, como uma fonte de energia que a estava mantendo viva, e se separou do corpo. Você pode pensar nisso como sendo apenas parte da alma, não ela por completo. Para critérios de simplificação, serão chamadas apenas de "almas".
 
@@ -155,21 +155,21 @@ O que você colhe não é a alma de fato da criatura, pois isso a impediria de s
 | 76-99                         | 8d6             |
 | 100                           | 10d6            |
 
-Você pode escolher uma conjuração de sortilégio para ter o aumento de dano a cada descanso longo ou curto.
+Você pode escolher uma conjuração de sortilégio para ter o aumento de dano a cada Descanso Longo ou curto.
 
 ## Deus da Morte
 
 **Requisitos**: Habilidade "Devorador de Almas" de custo 3. 6 de Inteligência, 10 de Fé.
 
-Essa habilidade terá efeito apenas quando 100 essências vitais sejam colhidas pela habilidade "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por descanso longo ou curto. 
+Essa Habilidade terá efeito apenas quando 100 essências vitais sejam colhidas pela Habilidade "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por Descanso Longo ou curto. 
 
-Você também pode optar por ter esse bônus de dano em um sortilégio de dano por Rodada. Neste caso, você utilizará de sua própria essência vital para canalizar o dano. Sua vida máxima será o menor valor entre a vida máxima atual e 30 Pontos de Vida. Você não recuperará vida em descansos curtos. Essa escolha é irreversível.
+Você também pode optar por ter esse bônus de dano em um sortilégio de dano por Rodada. Neste caso, você utilizará de sua própria essência vital para canalizar o dano. Sua Vida Máxima será o menor valor entre a Vida Máxima atual e 30 Pontos de Vida. Você não recuperará Vida em Descansos Curtos. Essa escolha é irreversível.
 
 ## Respiração
 
 **Requisitos**: 10 de Destreza, 1 de Inteligência.
 
-Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus ataques causarão dano mágico adicional, composto por 1d10 de Dano Radiante e 1d10 de outro tipo à sua escolha entre raio, fogo, gelo, e sortilégio.
+Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus Ataques causarão dano mágico adicional, composto por 1d10 de Dano Radiante e 1d10 de outro tipo à sua escolha entre Raio, Fogo, Gelo, e sortilégio.
 
 O multiplicador deste bônus aumenta conforme a quantidade de oponentes no Encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante, até o máximo de 5 inimigos.
 
@@ -177,31 +177,31 @@ No entanto, o multiplicador só se aplica caso você esteja lutando completament
 
 - Nenhum aliado pode estar presente no campo de visão dos combatentes;
 - Nenhum aliado pode interferir no Encontro de qualquer forma;
-- Você não pode estar sob efeito de nenhuma habilidade, Magia, ou bônus concedido por um aliado, mesmo que aplicado antes do Encontro.
+- Você não pode estar sob efeito de nenhuma Habilidade, Magia, ou bônus concedido por um aliado, mesmo que aplicado antes do Encontro.
 
-Quando for realizar um descanso longo, diminua o tempo necessário em 2 horas. Essa habilidade não funciona caso você não consiga respirar.
+Quando for realizar um Descanso Longo, diminua o tempo necessário em 2 horas. Essa Habilidade não funciona caso você não consiga respirar.
 
 ## Sol
 
-**Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Lua" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
-**Custo**: Uma Ação, 10 de mana.
+**Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a Habilidade "Lua" de custo 3, esta Habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Custo**: Uma Ação, 10 de Mana.
 
 A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
 
-Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui ataques, Testes de atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se estabilizar. Aliados no raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o ataque, você também causará 1d6 de Dano Radiante adicional.
+Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se estabilizar. Aliados no Raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
 
-Caso utilize em conjunto com a habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as habilidades se complementam.
+Caso utilize em conjunto com a Habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
 
 ## Lua
 
-**Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a habilidade "Sol" de custo 3, esta habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
-**Custo**: Uma Ação, 10 de mana.
+**Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a Habilidade "Sol" de custo 3, esta Habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Custo**: Uma Ação, 10 de Mana.
 
-Apesar de compreender a mudança constante da vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
+Apesar de compreender a mudança constante da Vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
 
-Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um ataque ainda neste Turno, você se cura de quaisquer condições negativas que estiver sobre você, incluindo Nocauteado. Esta habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por descanso longo com esta habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao ataque efetuado.
+Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se cura de quaisquer condições negativas que estiver sobre você, incluindo Nocauteado. Esta Habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por Descanso Longo com esta Habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
 
-Caso utilize em conjunto com a habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as habilidades se complementam.
+Caso utilize em conjunto com a Habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
 
 ## Aumento de Velocidade
 
@@ -215,12 +215,12 @@ A partir do início do seu segundo Turno em um Encontro, adicione +3m de Desloca
 **Custo**: Três Ações.
 **Alcance**: 18m.
 
-Você coleta toda a sua energia vital em um único golpe, acertando o chão, criando uma cratera. Todas as criaturas em uma área circular de raio igual ao alcance desta habilidade precisarão realizar uma Salvaguarda de Destreza CD 9 + Força. Em caso de falha, recebem o dano de 10 ataques desarmados seus de uma vez como Dano de Impacto. Em caso de sucesso, recebem metade do dano total. Uma vez utilizada essa habilidade, você terá a condição de Exaustão 4, mas curará um Nível de Exaustão no início de cada um de seus Turnos, até estar completamente curado. Você recura quaisquer Pontos de Vida perdidos pela condição de Exaustão 4 quando você diminuir 1 Nível da condição.
+Você coleta toda a sua energia vital em um único golpe, acertando o chão, criando uma cratera. Todas as criaturas em uma área circular de Raio igual ao alcance desta Habilidade precisarão realizar uma Salvaguarda de Destreza CD 9 + Força. Em caso de falha, recebem o dano de 10 Ataques Desarmados seus de uma vez como Dano de Impacto. Em caso de sucesso, recebem metade do dano total. Uma vez utilizada essa Habilidade, você terá a Condição de Exaustão 4, mas curará um Nível de Exaustão no início de cada um de seus Turnos, até estar completamente curado. Você recura quaisquer Pontos de Vida perdidos pela Condição de Exaustão 4 quando você diminuir 1 Nível da Condição.
 
 ## Dor Permanente
 
 **Requisitos**: 10 de Inteligência.
-**Custo**: Ação Bônus, 3 de mana.
+**Custo**: Ação Bônus, 3 de Mana.
 **Alcance**: Toque.
 
-Você faz a mana circular no seu corpo de uma maneira desconhecida, fazendo com que todo Dano Contínuo causado por você aumente. Adicione seu Modificador de Inteligência a todo Dano Contínuo que causar no Turno em que usar essa Habilidade.
+Você faz a Mana circular no seu corpo de uma maneira desconhecida, fazendo com que todo Dano Contínuo causado por você aumente. Adicione seu Modificador de Inteligência a todo Dano Contínuo que causar no Turno em que usar essa Habilidade.

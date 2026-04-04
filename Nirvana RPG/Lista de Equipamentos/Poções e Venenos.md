@@ -1,6 +1,6 @@
 ## Poções
 
-Poções são itens portáteis que garantem um efeito quando são consumidas. Elas podem ser de restauração, as quais recuperam parte da vida ou mana de quem as consome, ou de outros tipos variados. Todas as Poções pesam 0.3 kg.
+Poções são itens portáteis que garantem um efeito quando são consumidas. Elas podem ser de restauração, as quais recuperam parte da Vida ou Mana de quem as consome, ou de outros tipos variados. Todas as Poções pesam 0.3 kg.
 
 Ao usar Uma Ação Bônus, o jogador bebe a Poção e rola os dados de cura normalmente, conforme descrito na Poção. No entanto, se o jogador optar por beber a Poção utilizando Três Ações, a cura será maximizada, considerando o valor máximo de todos os dados. A tabela a seguir detalha as Poções de Restauração:
 
@@ -21,7 +21,7 @@ As outras Poções tem efeitos diversos. Poções que não são de restauração
 | Poção de Encolhimento                      | Seu tamanho é diminuído a um tamanho inferior por 10 minutos. Se você for grande, por exemplo, se tornará uma criatura de tamanho médio, e assim por diante. O limite é minúsculo.                                                                                                                              | 8po   |
 | Poção de Crescimento                       | Seu tamanho é aumentado a um tamanho superior por 10 minutos. Se você for grande, por exemplo, se tornará uma criatura de tamanho enorme, e assim por diante. O limite é colossal.                                                                                                                              | 10po  |
 | Poção de Velocidade                        | Você pode escolher se ganha Uma Ação extra no Turno, ou aumenta seu Deslocamento em 9m por 3 Rodadas.                                                                                                                                                                                                           | 16po  |
-| Poção de Resistência (fogo, gelo, ou raio) | Aumenta sua resistência em 10 a um elemento específico, a depender to tipo da Poção.                                                                                                                                                                                                                            | 10po  |
+| Poção de Resistência (Fogo, Gelo, ou Raio) | Aumenta sua Resistência em 10 a um elemento específico, a depender to tipo da Poção.                                                                                                                                                                                                                            | 10po  |
 | Poção de Respiração                        | Você pode respirar embaixo d'água por 1 hora.                                                                                                                                                                                                                                                                   | 10po  |
 | Poção de Escalada                          | Torna-se capaz de escalar superfícies verticais planas sem precisar de Testes para tal. Suas mãos grudam nas paredes, assim como seus pés.                                                                                                                                                                      | 11po  |
 | Poção de Visão no Escuro                   | Seus olhos se adaptam a ambientes com pouca ou nenhuma iluminação, sendo capaz de enxergar completamente nesses locais.                                                                                                                                                                                         | 15po  |
@@ -31,7 +31,7 @@ As outras Poções tem efeitos diversos. Poções que não são de restauração
 
 ## Venenos
 
-Os Venenos são aplicados em Armas brancas, flechas, e virotes. Para aplicar um Veneno é necessário Uma Ação, e eles tem efeito apenas no próximo ataque realizado por um objeto Envenenado. Caso esteja furtivo, o custo é Uma Ação Bônus. Venenos também podem ter efeitos narrativos diversos, como envenenar a bebida de um nobre. Os Venenos pesam, assim como as Poções, 0.3 kg. Venenos também podem ser arremessados num inimigo, mas tem efeito em apenas um único alvo. Os Venenos básicos estão detalhados a seguir.
+Os Venenos são aplicados em Armas brancas, flechas, e virotes. Para aplicar um Veneno é necessário Uma Ação, e eles tem efeito apenas no próximo Ataque realizado por um objeto Envenenado. Caso esteja furtivo, o custo é Uma Ação Bônus. Venenos também podem ter efeitos narrativos diversos, como envenenar a bebida de um nobre. Os Venenos pesam, assim como as Poções, 0.3 kg. Venenos também podem ser arremessados num inimigo, mas tem efeito em apenas um único alvo. Os Venenos básicos estão detalhados a seguir.
 
 | Item               | Funcionalidade                                                                                                                                                                                 | Custo |
 | ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
@@ -39,5 +39,5 @@ Os Venenos são aplicados em Armas brancas, flechas, e virotes. Para aplicar um 
 | Veneno Paralisador | O alvo atingido é Paralisado por 6 Rodadas caso falhe num Teste de Resistência de Constituição CD 15.                                                                                          | 17po  |
 | Veneno Sonífero    | O alvo atingido fica Inconsciente por 5 Rodadas caso falhe num Teste de Resistência de Sabedoria CD 15.                                                                                        | 15po  |
 | Presa de Vespa     | O alvo atingido perde 2 pontos em Destreza, Força, e Constituição por 2 Rodadas caso falhe em um Teste de Constituição CD 14. Em caso de sucesso, o efeito dura apenas uma Rodada.             | 5po   |
-| Amatoxina          | De imediato o alvo não sofre nenhum efeito. Após 24 horas ele começa a sentir náuseas, e tem a condição Exaustão 3. A condição aumenta a cada 6 horas, até Exaustão 6, levando o alvo à morte. | 25po  |
+| Amatoxina          | De imediato o alvo não sofre nenhum efeito. Após 24 horas ele começa a sentir náuseas, e tem a Condição Exaustão 3. A Condição aumenta a cada 6 horas, até Exaustão 6, levando o alvo à morte. | 25po  |
 
