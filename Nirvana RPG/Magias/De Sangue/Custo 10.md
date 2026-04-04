@@ -29,4 +29,14 @@ Todos no alcance da Magia perderão o controle de si próprios caso falhem num T
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você entra em sintonia com seu sangue e toda a mana do seu corpo. Você consegue utilizar a sua mana ao invés de Pontos de Vida sempre que uma Magia de sangue pedir por Pontos de Vida para ser usada. A quantidade de mana gasta é metade da de Pontos de Vida, ou seja, você primeiro verifica quantos Pontos de Vida iria gastar, e gasta metade desse valor em mana. Sua mana também aumenta em 30 pontos pela duração dessa Magia, e pode usar essa mana como bem desejar para conjurar Magias de sangue com ela, mas você não pode conjurar Magias de custo 9 ou 10. Somente o conjurador pode ser alvo dessa Magia. 
+**Descrição:** Você entra em sintonia com seu sangue e toda a mana do seu corpo. Você consegue utilizar a sua mana ao invés de Pontos de Vida sempre que uma Magia de sangue pedir por Pontos de Vida para ser usada. A quantidade de Mana gasta é metade da de Pontos de Vida, ou seja, você primeiro verifica quantos Pontos de Vida iria gastar, e gasta metade desse valor em mana. Sua mana também aumenta em 30 pontos pela duração dessa Magia, e pode usar essa mana como bem desejar para conjurar Magias de Sangue com ela, mas você não pode conjurar Magias de custo 9 ou 10. Somente o conjurador pode ser alvo dessa Magia. 
+
+### Realidade Sangrenta
+
+- Requisito em Inteligência: 10
+- Requisito em Fé: 10
+- Duração: 1 Encontro
+- Alcance: 36m de raio centrado em você
+- Tempo de Conjuração: Três Ações
+
+**Descrição:** A própria matéria que compõe a realidade cria vinda e sangra. O cenário ao redor muda completamente. É possível enxergar olhos no chão, os quais choram lágrimas de sangue; ou pele cortada no ar, como se fossem pedaços de carne. Todas as criaturas vivas no alcance sofrerão 1d8 de Dano Verdadeiro Contínuo, que aumenta em 1d8 no início de cada um de seus Turnos, até um máximo de 6d8. Você pode escolher encerrar essa Magia quando quiser com uma Ação Livre. Você sacrifica 1d8 Pontos de Vida no início de cada um de seus Turnos, com exceção do Turno inicial em que essa Magia for conjurada. Essa Magia não diferencia aliados de inimigos. Você não pode se curar enquanto esta Magia estiver ativa.

@@ -27,13 +27,13 @@ A criatura tocada se torna imune a conjurações adicionais desta Magia durante 
 - Requisito em Inteligência ou Carisma: 10
 - Duração: Instantânea
 - Alcance: 9m
-- Tempo de Conjuração: reação
+- Tempo de Conjuração: Reação
 
 **Descrição:** Você cria uma duplicata de você e de quaisquer alvos que desejar (com limite de 2), desde que não sejam hostis a você. Essa Magia só pode ser usada ao final da Rodada, quanto todos os Turnos já tiverem sido finalizados.
 
 As duplicatas refazem os passos dos alvos, replicando o dano causado naquela Rodada — só que pela metade e como Dano Psíquico.
 
-Caso o dano replicado tenha como alvo uma criatura que já morreu, ele é anulado. Cada criatura que recebeu dano durante o Turno receberá a quantia adequada a ela; ou seja, se dois inimigos estiverem em campo, mas apenas um sofreu dano, ele será o único que sofrerá mais dano.
+Caso o dano replicado tenha como alvo uma criatura que já morreu, ele é anulado. Cada criatura que recebeu dano durante o Turno receberá a quantia adequada a ela; ou seja, se dois inimigos estiverem em campo, mas apenas um sofreu dano, ele será o único que sofrerá dano.
 
 Independentemente de quantas criaturas forem afetadas por essa Magia, elas precisarão passar por uma Salvaguarda de Sabedoria CD 13 + Int. Caso sejam bem sucedidas, vão tomar metade do dano refletido.
 
@@ -41,7 +41,7 @@ Independentemente de quantas criaturas forem afetadas por essa Magia, elas preci
 
 - Requisito em Inteligência: 10
 - Requisito em Carisma: 10
-- Duração: 1 encontro
+- Duração: 1 Encontro
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 

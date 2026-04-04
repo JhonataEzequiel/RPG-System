@@ -41,4 +41,4 @@ Causa 20d6 + Int + Fth de Dano de Sortilégio em cada alvo escolhido por Rodada.
 - Alcance: 36m
 - Tempo de Conjuração: Reação
 
-**Descrição:** Você anula os efeitos de uma Magia completamente desde que o conjurador esteja no alcance da Magia. Um buraco negro intangível surge e devora a mana gasta pelo conjurador para conjurar a Magia em si, anulando completamente o efeito dela.
+**Descrição:** Você anula os efeitos de uma Magia completamente desde que o conjurador esteja no alcance da Magia. Um buraco negro intangível surge e devora a Mana gasta pelo conjurador para conjurar a Magia em si, anulando completamente o efeito dela.

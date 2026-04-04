@@ -5,13 +5,13 @@
 - Alcance: 36m + Deslocamento
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você escolhe um alvo dentro do alcance da Magia. Ele é envolto de uma esfera aparentemente inofensiva cuja composição é desconhecida, mas tem um aspecto translúcido, e uma coloração azulada. Após um segundo, a esfera explode de dentro para fora em uma combinação de todos os tipos de dano elemental. O alvo deverá realizar um Teste de Resistência de Constituição CD 16 + Int. Independente de ser bem sucedido ou não, ele recebe 8d10 + Int de cada um dos tipos de dano elemental (fogo, gelo, e raio). 
+**Descrição:** Você escolhe um alvo dentro do alcance da Magia. Ele é envolto de uma esfera aparentemente inofensiva cuja composição é desconhecida, mas tem um aspecto translúcido, e uma coloração azulada. Após um segundo, a esfera explode de dentro para fora em uma combinação de todos os tipos de Dano Elemental. O alvo deverá realizar um Teste de Resistência de Constituição CD 14 + Int. Independente de ser bem sucedido ou não, ele recebe 8d10 + Int de cada um dos tipos de dano elemental (fogo, gelo, e raio). 
 
-Você deverá rolar o dano separadamente para cada elemento, aplicando o modificador de Inteligência em cada uma das vezes (total 24d10 + 3 vezes Int), e resistências e invulnerabilidades individuais ainda poderão reduzir o dano em partes. Por exemplo, caso o alvo seja resistente a fogo ele tomará menos Dano de Fogo em relação aos outros dois tipos. 
+Você deverá rolar o dano separadamente para cada elemento, aplicando o modificador de Inteligência em cada uma das vezes (total 24d10 + 3 vezes Int), e Resistências e Invulnerabilidades individuais ainda poderão reduzir o dano em partes. Por exemplo, caso o alvo seja Resistente a Fogo ele tomará menos Dano de Fogo em relação aos outros dois tipos. 
 
-Em caso de falha no Teste, o alvo também fica Incapacitado até o início do próximo Turno dele. Além disso, ao final de cada um dos Turnos do alvo enquanto a Magia durar, ele é afetado por danos residuais do ataque, como queimaduras, congelamentos parciais, tomando 3d6 de dano (1d6 de cada tipo). Em caso de sucesso, ele não fica Incapacitado, nem recebe dano residual.
+Em caso de falha no Teste, o alvo também fica Incapacitado até o início do próximo Turno dele. Além disso, ao final de cada um dos Turnos do alvo enquanto a Magia durar, ele é afetado por danos residuais do ataque (Dano Contínuo), como queimaduras, congelamentos parciais, tomando 3d6 de dano (1d6 de cada tipo). Em caso de sucesso, ele não fica Incapacitado, nem recebe dano residual.
 
-O dano residual acumula caso a Magia seja conjurada mais de uma vez no mesmo alvo no mesmo Encontro. Ou seja, o dano residual é somado a cada conjuração da Magia.
+O dano residual acumula caso a Magia seja conjurada mais de uma vez no mesmo alvo no mesmo Encontro. Ou seja, o dano residual é somado a cada conjuração da Magia, mesmo se o alvo for bem sucedido em um dos Testes.
 
 ### Tsunami
 
@@ -49,4 +49,4 @@ Após o fim da duração, as chamas do rastro e do local da explosão se dissipa
 - Alcance: 48m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você conjura um raio que viaja em direção a um alvo, assumindo a forma de um dragão voador por um breve período de tempo. O dragão se desfaz no impacto, gerando uma corrente elétrica e explodindo em chamas ao mesmo tempo. As chamas ficam concentradas em um único ponto, como um turbilhão, portanto não afetam múltiplos alvos. É impossível desviar desta Magia, mas é possível evitar o Dano de Fogo se o alvo for particularmente resiliente. Caso o alvo falhe em um Teste de Resistência de Constituição CD 15 + Int, ele recebe 12d8 + Int de Dano de Raio e 8d12 + Int de Dano de Fogo. Em caso de sucesso, recebe apenas o Dano de Raio.
+**Descrição:** Você conjura um raio que viaja em direção a um alvo, assumindo a forma de um dragão voador por um breve período de tempo. O dragão se desfaz no impacto, gerando uma corrente elétrica e explodindo em chamas. As chamas ficam concentradas em um único ponto, como um turbilhão, portanto não afetam múltiplos alvos. É impossível desviar desta Magia, mas é possível evitar o Dano de Fogo se o alvo for particularmente resiliente. Caso o alvo falhe em um Teste de Resistência de Constituição CD 15 + Int, ele recebe 12d8 + Int de Dano de Raio e 8d12 + Int de Dano de Fogo. Em caso de sucesso, recebe apenas o Dano de Raio.

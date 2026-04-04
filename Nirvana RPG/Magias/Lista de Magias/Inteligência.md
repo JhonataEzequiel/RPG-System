@@ -345,3 +345,5 @@ Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
 Trovão Flamejante: 10 de inteligência. Elemental.
 
 Livro do Fim: 10 de inteligência, 10 de carisma. Ilusão.
+
+Realidade Sangrenta: 10 de Inteligência, 10 de Fé. Sangue.

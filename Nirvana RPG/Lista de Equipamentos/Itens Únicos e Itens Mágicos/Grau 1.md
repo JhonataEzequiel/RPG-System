@@ -11,7 +11,7 @@ Bijuteria qualquer, como um anel ou colar, que possuí em sua confecção ou ado
 | Topázio Branco | 10 de Resistência a Dano Radiante |
 ## Poção de Restauração Completa
 
-Restaura completamente os Pontos de Vida ou Mana (dependendo do tipo) quando consumida. Um exemplar custa certa de 1000po. Tem o mesmo peso de uma Poção normal.
+Restaura completamente os Pontos de Vida ou Mana (dependendo do tipo) quando consumida. Um exemplar custa cerca de 1000po. Tem o mesmo peso de uma Poção normal.
 
 ## Semente Milagreira
 

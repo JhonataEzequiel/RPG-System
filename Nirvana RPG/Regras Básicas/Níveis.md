@@ -26,7 +26,7 @@ De maneira análoga, utilizando o nível médio do grupo, calculado da seguinte 
 
 $NívelMédio=SomaDosNíveisIndividuaisDosPersonagens/4$
 
-E o nível do encontro, calculado usando:
+E o nível do Encontro, calculado usando:
 
 $NívelEncontro=SomaDosNíveisDosMonstros$
 

@@ -217,3 +217,5 @@ Sono de Séculos: 10 de inteligência, 10 de fé. Sortilégio.
 Magia Carmesim: 10 de inteligência, 10 de fé. Sangue.
 
 Buraco Negro: 10 de inteligência, 10 de fé. Sortilégio.
+
+Realidade Sangrenta: 10 de Inteligência, 10 de Fé. Sangue.
