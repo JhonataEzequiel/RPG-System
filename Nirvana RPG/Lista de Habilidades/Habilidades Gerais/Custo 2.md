@@ -247,3 +247,7 @@ Você tem +1 na Margem de Ameaça Reversa. Essa Habilidade pode ser pega múltip
 **Requisitos**: Habilidade "Ferraria" de Custo 1. 4 de Sabedoria, 1 de Inteligência.
 
 Você agora pode realizar infusões em itens não-mágicos. Você precisa ter a Pedra de Infusão para fazê-lo, mas não terá nenhum outro custo adicional. O tempo para realizar a infusão é o mesmo descrito nas regras de infusão.
+
+## Saída de Emergência
+
+Você agora pode utilizar Habilidades que funcionam apenas fora de combate quando estiver em combate. O contrário também é válido.
