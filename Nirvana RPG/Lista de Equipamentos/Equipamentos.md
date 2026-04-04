@@ -1,36 +1,36 @@
 ### Armaduras
 
-As armaduras possuem pré-requisitos para serem utilizadas, além de possuírem escalas com alguns atributos. Os pré-requisitos podem ir de 0 até 10, e para ganhar os benefícios da armadura você precisará atendê-los. Caso contrário, ela apenas contará como peso extra, não aumentando a sua CA ou proporcionando efeitos positivos. Efeitos negativos ainda terão efeitos, caso a armadura em questão possua algum.
+As Armaduras possuem pré-requisitos para serem utilizadas, além de possuírem escalas com alguns atributos. Os pré-requisitos podem ir de 0 até 10, e para ganhar os benefícios da Armadura você precisará atendê-los. Caso contrário, ela apenas contará como peso extra, não aumentando a sua CA ou proporcionando efeitos positivos. Efeitos negativos ainda terão efeitos, caso a Armadura em questão possua algum.
 
-Além disso, as armaduras escalam com atributos, tornando-as melhores quanto melhor você for em utilizá-las. As escalas variam de D até S, sendo D a pior, e S a melhor. As armaduras mais fracas não possuem escala. Por exemplo, caso a armadura tenha escala S em força, e você tenha 10 de força, você conseguirá o benefício concedido no nível 1, 3, 5, 7, e 10 da escala em questão. Os benefícios de escala terão efeito apenas enquanto a armadura estiver sendo usada. Caso uma armadura escale com múltiplos atributos, você terá os bônus de ambos os atributos. Múltiplos atributos podem ter escalas diferentes. Por exemplo, uma armadura pode escalar B em força e D em destreza. Neste caso, você ganhará os benefícios da escala B em força, e D em destreza. Os bônus de nível de atributo da escala são cumulativos. Ou seja, se você tiver nível 10 no atributo em questão, terá todos os bônus anteriores também.
+Além disso, as Armaduras escalam com atributos, tornando-as melhores quanto melhor você for em utilizá-las. As escalas variam de D até S, sendo D a pior, e S a melhor. As Armaduras mais fracas não possuem escala. Por exemplo, caso a Armadura tenha escala S em Força, e você tenha 10 de Força, você conseguirá o benefício concedido no Nível 1, 3, 5, 7, e 10 da escala em questão. Os benefícios de escala terão efeito apenas enquanto a Armadura estiver sendo usada. Caso uma Armadura escale com múltiplos atributos, você terá os bônus de ambos os atributos. Múltiplos atributos podem ter escalas diferentes. Por exemplo, uma Armadura pode escalar B em Força e D em Destreza. Neste caso, você ganhará os benefícios da escala B em Força, e D em Destreza. Os bônus de Nível de atributo da escala são cumulativos. Ou seja, se você tiver Nível 10 no atributo em questão, terá todos os bônus anteriores também.
 
-São consideradas armaduras pesadas todas aquelas que tem alguma penalidade de deslocamento. Armaduras leves são aquelas que concede pontos adicionais na CA, mas não tem penalidades. As demais são consideradas roupas. Caso uma armadura seja uma exceção a essa regra, como uma armadura pesada mágica que não tem nenhuma penalidade, será especificado no item.
+São consideradas Armaduras pesadas todas aquelas que tem alguma penalidade de Deslocamento. Armaduras leves são aquelas que concede pontos adicionais na CA, mas não tem penalidades. As demais são consideradas roupas. Caso uma Armadura seja uma exceção a essa regra, como uma Armadura pesada mágica que não tem nenhuma penalidade, será especificado no item.
 
-Aqui estão os benefícios que cada escala proporciona ao atingir um determinado nível de atributo:
+Aqui estão os benefícios que cada escala proporciona ao atingir um determinado Nível de atributo:
 
 | Escala | Nível 1 de atributo        | Nível 3 de atributo                         | Nível 5 de atributo        | Nível 7 de atributo | Nível 10 de atributo    |
 | ------ | -------------------------- | ------------------------------------------- | -------------------------- | ------------------- | ----------------------- |
-| S      | +10 pontos de vida máximos | +3 de resistência a dano físico e elemental | +10 pontos de vida máximos | +3 de iniciativa    | +3 de CA                |
-| A      | +3 pontos de vida máximos  | +2 de resistência a dano físico             | +3 pontos de vida máximos  | +2 de iniciativa    | +3 de CA                |
-| B      | +4 pontos de vida máximos  | +1 de resistência a dano físico             | +2 pontos de vida máximos  | +2 de iniciativa    | +2 de CA                |
-| C      | +2 pontos de vida máximos  | +1 de resistência a dano físico             | +2 pontos de vida máximos  | +1 de iniciativa    | +1 de CA                |
-| D      | +1 ponto de vida máximo    | +1 de resistência a dano físico             | +1 ponto de vida máximo    | +1 de inciativa     | +1 ponto de vida máximo |
+| S      | +10 Pontos de Vida Máximos | +3 de resistência a Dano Físico e elemental | +10 Pontos de Vida Máximos | +3 de iniciativa    | +3 de CA                |
+| A      | +3 Pontos de Vida Máximos  | +2 de resistência a Dano Físico             | +3 Pontos de Vida Máximos  | +2 de iniciativa    | +3 de CA                |
+| B      | +4 Pontos de Vida Máximos  | +1 de resistência a Dano Físico             | +2 Pontos de Vida Máximos  | +2 de iniciativa    | +2 de CA                |
+| C      | +2 Pontos de Vida Máximos  | +1 de resistência a Dano Físico             | +2 Pontos de Vida Máximos  | +1 de iniciativa    | +1 de CA                |
+| D      | +1 ponto de vida máximo    | +1 de resistência a Dano Físico             | +1 ponto de vida máximo    | +1 de inciativa     | +1 ponto de vida máximo |
 
 ### Armas
 
-Assim como as armaduras, as armas terão pré-requisitos e escala. Os pré-requisitos das armas determinarão se você é capaz de utilizá-las em combate. Caso você não atenda aos requisitos, você ainda poderá utilizar a arma, mas o dano dela será sempre 1, e cada ataque custará 3 ações para ser realizado. Você também não poderá utilizar ataques de oportunidade. Quando uma arma receber bônus de dano da escala, esse bônus é do mesmo tipo de dano da arma. Caso a arma seja capaz de causar múltiplos tipos de dano, você escolherá qual deles será o tipo do bônus. O bônus para acertar um ataque referente ao atributo será igual ao bônus de dano referente ao atributo de uma arma. Por exemplo, a adaga causa 1d4 + dex de dano perfurante, então para acertar o ataque você usará + dex também. Caso for proficiente no tipo de arma, adicione seu bônus de proficiência para acertar o ataque.
+Assim como as Armaduras, as Armas terão pré-requisitos e escala. Os pré-requisitos das Armas determinarão se você é capaz de utilizá-las em combate. Caso você não atenda aos requisitos, você ainda poderá utilizar a Arma, mas o dano dela será sempre 1, e cada ataque custará Três Ações para ser realizado. Você também não poderá utilizar ataques de oportunidade. Quando uma Arma receber bônus de dano da escala, esse bônus é do mesmo tipo de dano da Arma. Caso a Arma seja capaz de causar múltiplos tipos de dano, você escolherá qual deles será o tipo do bônus. O bônus para acertar um ataque referente ao atributo será igual ao bônus de dano referente ao atributo de uma Arma. Por exemplo, a adaga causa 1d4 + Dex de Dano Perfurante, então para acertar o ataque você usará + Dex também. Caso for proficiente no tipo de Arma, adicione seu Bônus de Proficiência para acertar o ataque.
 
-Armas vem em 4 tipos diferentes: leves, comuns, de empunhadura dupla, e de punhos. Elas também podem variar no alcance, caso sejam longas, aumentando a distância possível para um ataque corpo-a-corpo. Armas longas aumentam o alcance de seus ataques em um valor específico que depende de cada arma.
+Armas vem em 4 tipos diferentes: leves, comuns, de empunhadura dupla, e de punhos. Elas também podem variar no alcance, caso sejam longas, aumentando a distância possível para um ataque corpo-a-corpo. Armas longas aumentam o alcance de seus ataques em um valor específico que depende de cada Arma.
 
-Leves: Você pode ter uma arma leve em cada mão, equipando-as ao mesmo tempo, causando o dano de cada uma em um ataque só, ao custo de duas ações. Você ainda pode atacar com apenas uma, e isto custará apenas uma ação.
+Leves: Você pode ter uma Arma leve em cada mão, equipando-as ao mesmo tempo, causando o dano de cada uma em um ataque só, ao custo de Duas Ações. Você ainda pode atacar com apenas uma, e isto custará apenas Uma Ação.
 
-Comuns: Você pode equipar uma arma comum em cada mão naturalmente. Assim como as armas leves, você pode atacar com as duas ao mesmo tempo ao custo de duas ações, mas terá -2 para acertar o ataque. Fora isso, armas comuns são todas aquelas que não tem uma característica que os diferencia das demais.
+Comuns: Você pode equipar uma Arma comum em cada mão naturalmente. Assim como as Armas leves, você pode atacar com as duas ao mesmo tempo ao custo de Duas Ações, mas terá -2 para acertar o ataque. Fora isso, Armas comuns são todas aquelas que não tem uma característica que os diferencia das demais.
 
-Empunhadura Dupla: Tratam-se de armas mais pesadas ou longas, sendo necessário empunhá-las com duas mãos. Por padrão, é impossível empunhar duas dessas ao mesmo tempo, ou utilizá-las em uma mão só.
+Empunhadura Dupla: Tratam-se de Armas mais pesadas ou longas, sendo necessário empunhá-las com duas mãos. Por padrão, é impossível empunhar duas dessas ao mesmo tempo, ou utilizá-las em uma mão só.
 
-Punho: Armas de punhos se beneficiam de quaisquer habilidades de ataques desarmados. Quando utilizar uma arma de punho, ambas as mãos precisarão estar desocupadas para que se beneficiem de habilidades de ataques desarmados. Estas armas não se beneficiam de habilidades que especificamente afetam armas num geral, sendo atreladas apenas a ataques desarmados. No entanto, se beneficiam normalmente de habilidades que modificam ataques num geral.
+Punho: Armas de punhos se beneficiam de quaisquer habilidades de ataques desarmados. Quando utilizar uma Arma de punho, ambas as mãos precisarão estar desocupadas para que se beneficiem de habilidades de ataques desarmados. Estas Armas não se beneficiam de habilidades que especificamente afetam Armas num geral, sendo atreladas apenas a ataques desarmados. No entanto, se beneficiam normalmente de habilidades que modificam ataques num geral.
 
-Armas à Distância: No campo de "aumento de alcance" dessas armas está descrito a distância máxima do ataque à distância. Caso alguém realize um ataque em que o alvo se encontra mais distante do que o aceito, o ataque terá desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de 1 ação para recarregar antes de realizar um ataque à distância, já os arcos funcionam normalmente. Armas de fogo funcionam de maneira similar as bestas, precisando recarregar após uma quantidade específica de tiros. Caso uma arma à distância especifique, será possível usar duas ao mesmo tempo. Neste caso, seguirão as regras das armas comuns.
+Armas à Distância: No campo de "aumento de alcance" dessas Armas está descrito a distância máxima do ataque à distância. Caso alguém realize um ataque em que o alvo se encontra mais distante do que o aceito, o ataque terá Desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de Uma Ação para recarregar antes de realizar um ataque à distância, já os arcos funcionam normalmente. Armas de fogo funcionam de maneira similar as bestas, precisando recarregar após uma quantidade específica de tiros. Caso uma Arma à distância especifique, será possível usar duas ao mesmo tempo. Neste caso, seguirão as regras das Armas comuns.
 
 Os bônus das escalas estão listados abaixo:
 
@@ -44,7 +44,7 @@ Os bônus das escalas estão listados abaixo:
 
 ### Escudos
 
-Escudos funcionam de maneira similar as armaduras, no entanto não adicionam CA. Num geral, muitas habilidades podem utilizar-se de escudos, mas por padrão eles apenas concedem os bônus das suas escalas, que são as mesmas das armaduras. Caso uma escala em específico da armadura conceda CA, o escudo concederá duas vezes a quantidade de CA como pontos de vida máximos. Assim como as armas e armaduras, os benefícios das escalas só estarão ativos quando o objeto estiver equipado. Ao contrário das armaduras, escudos não oferecem nenhuma penalidade.
+Escudos funcionam de maneira similar as Armaduras, no entanto não adicionam CA. Num geral, muitas habilidades podem utilizar-se de escudos, mas por padrão eles apenas concedem os bônus das suas escalas, que são as mesmas das Armaduras. Caso uma escala em específico da Armadura conceda CA, o escudo concederá duas vezes a quantidade de CA como Pontos de Vida Máximos. Assim como as Armas e Armaduras, os benefícios das escalas só estarão ativos quando o objeto estiver equipado. Ao contrário das Armaduras, escudos não oferecem nenhuma penalidade.
 
 ### Peso dos Equipamentos
 
@@ -56,9 +56,9 @@ Os itens mágicos irão variar de grau 1 ao grau 3. Um item de grau 3 não é ne
 
 ### Munições
 
-Armas à distância que disparam projéteis, como arcos e bestas, requerem munições para funcionar. Cada ataque consome uma unidade de munição. Caso o jogador fique sem munições, não poderá realizar ataques com a arma até adquirir mais.
+Armas à distância que disparam projéteis, como arcos e bestas, requerem munições para funcionar. Cada ataque consome uma unidade de munição. Caso o jogador fique sem munições, não poderá realizar ataques com a Arma até adquirir mais.
 
-Após um encontro, é possível recuperar metade das munições gastas, arredondado para baixo, desde que o campo de batalha esteja acessível. A exceção a esta regra são as armas de fogo, as quais as munições não poderão ser recuperadas.
+Após um Encontro, é possível recuperar metade das munições gastas, arredondado para baixo, desde que o campo de batalha esteja acessível. A exceção a esta regra são as Armas de fogo, as quais as munições não poderão ser recuperadas.
 
 ### Moedas
 
