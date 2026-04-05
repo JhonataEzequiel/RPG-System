@@ -91,7 +91,7 @@ A criatura é imune a veneno e doenças, porém, venenos e doenças que já est�
 
 ### Sangrando
 
-A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado. Cada rodada simboliza um nível de sangramento, indo de sangramento 1 (1d6) até sangramento 6 (6d6).
+A intensidade de um sangramento pode variar, dependendo do ferimento. Como regra geral, o dano de sangramento é contínuo e aumenta a cada rodada. Inicialmente é de 1d6, mas a cada rodada deve-se somar 1d6 a mais ao dano. O tipo de dano é Verdadeiro. O teto de dano é 6d6 de dano contínuo, ou seja, depois de 5 rodadas além da primeira o dano máximo é alcançado. Cada rodada simboliza um nível de sangramento, indo de sangramento 1 (1d6) até sangramento 6 (6d6).
 
 Caso deseje estancar o sangramento, é necessário performar um teste de medicina cuja CD aumenta a cada nível de sangramento.
 

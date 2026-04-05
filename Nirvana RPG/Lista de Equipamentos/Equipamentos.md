@@ -32,6 +32,8 @@ Punho: Armas de Punhos se beneficiam de quaisquer Habilidades de Ataques Desarma
 
 Armas à Distância: No campo de "aumento de alcance" dessas Armas está descrito a distância máxima do Ataque à Distância. Caso alguém realize um Ataque em que o alvo se encontra mais distante do que o aceito, o Ataque terá Desvantagem para acertar. Arcos e bestas se diferenciam bastante, apesar de serem similares. A besta possuí um dano bruto bem maior, mas não possuí escalas ou bônus de atributo, e precisa de Uma Ação para recarregar antes de realizar um Ataque à Distância, já os arcos funcionam normalmente. Armas de Fogo funcionam de maneira similar as bestas, precisando recarregar após uma quantidade específica de tiros. Caso uma Arma à Distância especifique, será possível usar duas ao mesmo tempo. Neste caso, seguirão as regras das Armas Comuns.
 
+Você também pode equipar Armas Comuns e Armas Leves utilizando duas mãos. Neste caso, o dano aumenta em 1d4, e será de um dos tipos que a Arma é capaz de causar.
+
 Os bônus das escalas estão listados abaixo:
 
 | Escala | Nível 1 de atributo | Nível 3 de atributo | Nível 5 de atributo | Nível 7 de atributo | Nível 10 de atributo     |

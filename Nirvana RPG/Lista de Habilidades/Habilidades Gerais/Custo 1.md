@@ -192,3 +192,9 @@ Você pode forjar qualquer Arma ou Armadura não-mágica ou única da lista de i
 | Mais de 30 kg | 1 semana       |
 
 Sua Capacidade de Carga agora é aumentada em três vezes o seu Nível de Proficiência em quilos.
+
+## Força Intimidadora
+
+**Requisitos**: 3 de Força.
+
+Você pode realizar Testes de Conversação utilizando Força ao invés de Carisma.

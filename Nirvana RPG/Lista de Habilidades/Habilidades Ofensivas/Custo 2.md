@@ -1,13 +1,15 @@
 ## Golpe Duplo
 
 **Requisitos**: 2 de Destreza ou 2 de Força.
-**Custo:** Uma Ação e 1 de Mana.
+**Custo**: Ação Livre, 1 de Mana.
 
-Só pode ser usada uma vez por Turno. Ao invés de gastar Duas Ações de Ataque para atacar com duas Armas Leves ao mesmo tempo, você gastará apenas Uma Ação, e rolará apenas uma rolagem de Ataque para acertar. 
+Você ataca novamente imediatamente após realizar um Ataque, causando metade do dano, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque apenas causa mais dano, não contando como um Ataque normal.
 
-Caso esteja empunhando uma Arma Comum apenas, o seu segundo Ataque neste Turno não sofrerá Penalidades de Ataque, mas o terceiro ainda terá penalidade de -10. 
+## Risco e Recompensa
 
-**Risco e Recompensa** (Ação Bônus): Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar. O tipo de dano é igual ao da Arma que você utilizar.
+**Custo**: Ação Bônus.
+
+Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 15 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual ao da Arma que você utilizar.
 
 ## Investida
 
@@ -16,93 +18,84 @@ Caso esteja empunhando uma Arma Comum apenas, o seu segundo Ataque neste Turno n
 
 Você avança contra um inimigo que possa ver, dobrando seu Deslocamento para isso. Seu próximo Ataque terá Vantagem para acertar, e você desvia de flechas e dardos até o início do seu próximo Turno. 
 
-Caso esteja em Furtividade, terá +5 de para acertar o Ataque, e +5 de dano caso acerte. Seu Deslocamento também dobra, e você continua sem ser percebido.
+Naturalmente, se você estiver em Furtividade você já tem Vantagem para acertar Ataques. Neste caso, ao invés de receber Vantagem por meio desta Habilidade, você terá +5 de para acertar o Ataque, e +5 de dano caso acerte.
 
 ## Rajada de Estocadas
 
-**Requisitos:** Você empunha uma Arma capaz de causar Dano Perfurante.
+**Requisitos:** Você é capaz de causar Dano Perfurante.
 **Custo:** Duas Ações.
 
-Esta Ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu Bônus de Proficiência ao dano. O alvo ficará Caído. Você não pode atacar mais até o início do próximo Turno, o que inclui Ataques de oportunidade.
+Esta Ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu Bônus de Proficiência ao dano. O alvo ficará Caído caso falhe num Teste de Resistência de Constituição CD 15 + um Modificador à sua Escolha entre Força e Destreza.
 
 ## Ataque Descontrolado
 
 **Custo:** Três Ações
-**Requisito:** estar empunhando uma Arma de duas mãos. 6 de Força.
+**Requisito:** 6 de Força.
 
-O jogador ataca todos os inimigos em um círculo centrado nele de Raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência Destreza CD 12 + For para desviar do Ataque. O dano do Ataque é o dano de um Ataque normal, acrescentado de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado.
-
-## Derrubar
-
-**Requisitos:** Criatura alvo deverá ser pequena ou média, não podendo ter imunidade a Dano Físico, e deverá estar ao alcance do jogador. 4 de Força.
-**Custo:** Duas Ações.
-
-O jogador agarra um inimigo e o derruba no chão, que tem a Condição Caído. Para impedir isso de acontecer, o adversário terá que passar num Teste de Resistência contra a tentativa do jogador, CD 11 + Força, e o atributo do Teste é Destreza. Uma vez levantado, a criatura não poderá realizar Uma Ação até seu próximo Turno.
+O jogador ataca todos os inimigos em um círculo centrado nele de Raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano do Ataque é o dano de um Ataque normal, acrescentado de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado.
 
 ## Estremecer
 
 **Custo:** Duas Ações.
-**Requisito:** usar Armadura pesada, Habilidade "Derrubar" de custo 2. 6 de Força.
+**Requisito:** 6 de Força.
 
-O jogador pisa no chão e o faz estremecer, derrubando todos os inimigos a frente dele num cone de tamanho igual a metade do Deslocamento do jogador. Os inimigos terão os mesmos efeitos negativos da Habilidade "Derrubar", inclusive os Testes requeridos para resistir a essa Habilidade serão os mesmos. Caso sejam bem sucedidos no Teste receberão 2d4 de Dano de Impacto.
+Você pisa no chão e o faz estremecer, derrubando todos as criaturas vivas na sua frente num cone de tamanho igual a metade do seu Deslocamento. Todas as criaturas que estiverem dentro do alcance precisarão passar por um Teste de Resistência de Destreza CD 11 + Força. Caso falhem, terão a Condição Caído, e sofrerão o dano de um Ataque Desarmado. Caso tenham sucesso, receberão apenas o dano do Ataque Desarmado.
 
 ## Marcas de Guerra Melhorada
 
-**Requisitos**: Habilidade "Marcas de Guerra" de custo 1.
+**Requisitos**: Habilidade Ofensiva "Marcas de Guerra" de custo 1.
 
-Esta Habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 25. O jogador também poderá escolher se o bônus de dano concedido por esta Habilidade será do mesmo tipo da Arma, de Fogo, ou de Gelo.
+Esta Habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 25.
 
 ## Mãos Espectrais
 
-**Requisitos**: 3 de Força e 3 de Inteligência. Precisa estar desarmado.
+**Requisitos**: 3 de Força ou Destreza, 3 de Inteligência. Só pode ser usada caso ambas as mãos não estejam com nada equipado.
 
-Você é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as mãos dele fizerem. Elas são maiores do que os braços normais, e podem ser ativadas com Uma Ação Bônus no começo do Turno do seu Turno. Elas garantem um alcance maior aos Ataques físicos, além de causarem mais dano que Ataques Desarmados normalmente causariam. Podem também ser usadas para carregar itens a mais, aumentando a capacidade de carga pelo dobro da sua Força.
+**Ativar e Desativar Mãos** (Ação Bônus): Você é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as suas mãos fizerem. Elas são maiores do que os braços normais, aumentando o alcance de seus Ataques Desarmados em 3m.
 
-- **Alcance das Mãos:** 9m + Deslocamento do Usuário
+**Poder Aumentado** (Passiva): Você adiciona seu Modificador de Inteligência aos seus Ataques Desarmados, tanto para acertar, quanto para causar dano.
 
-**Golpear (Uma Ação):** Ataca um inimigo com a distância adicional, causando 2d8 + For de Dano de Impacto.
+**Golpes Múltiplos** (Três Ações, 3 de Mana): Ataca uma vez pela esquerda e uma pela direita do alvo, e finaliza com um golpe conjunto das duas mãos na vertical. Causa o dano de três Ataques Desarmados.
 
-**Golpes Múltiplos (Três Ações):** Ataca uma vez pela esquerda e uma pela direita do inimigo, e finaliza com um golpe conjunto das duas mãos na vertical. Os primeiros 2 golpes causam 1d8 cada, e o final causa 3d8, totalizando 5d8. Além disso, deve-se somar o Modificador de Força, causando 5d8 + For no total como Dano de Impacto.
-
-**Cor:** a cor delas é definida por você sempre que as conjurar, podendo ser vermelha ou azul. Cada cor terá Ataques únicos delas, servindo como uma forma de expressar o estilo de luta do seu personagem. A escolha será feita uma vez quando a Habilidade for adquirida, e não pode ser desfeita.
+**Cor** (Ação Livre): a cor delas é definida por você sempre que as conjurar, podendo ser Vermelhas ou Azuis. Cada cor terá ataques únicos delas, servindo como uma forma de expressar o estilo de luta do seu personagem. A escolha será feita toda vez que ativar as Mãos Espectrais.
 
 - **Neutras**: A cor neutra é a cor padrão das mãos, sendo um branco um pouco acinzentado. Você tem +30kg de capacidade de carga. Se as mãos espectrais estiverem carregando algo, você não poderá golpear com elas.
-- **Vermelhas:** Possuem garras grandes, capazes de desferir Ataques cortantes. O usuário poderá escolher se “Golpear” será cortante ou de impacto. Caso seja cortante, ele será feito com as garras. Além disso, a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 1d8 + Int de Dano de Fogo. Caso o acerto for crítico, o dano tem efeito em uma área de 4.5m de Raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
-- **Azuis:** São capazes de conjurar uma bola de energia (Duas Ações), com alcance igual a distância de Ataque das mãos, que causa 3d8 + Int de Dano de Raio, além de causar Dano Contínuo até o fim do Encontro caso o inimigo falhe em um Teste de Destreza CD 10 + Inteligência, que será 1d8 de Raio.
+- **Vermelhas:** Possuem garras grandes, e a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 2d8 de Dano de Fogo. Caso o acerto for crítico, o dano tem efeito em uma área de 4.5m de raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
+- **Azuis**: São capazes de conjurar uma bola de energia com alcance igual a distância de Ataque das mãos ao custo de Duas Ações e 3 de Mana, que causa 3d8 + Int de Dano de Raio, além de causar Dano Contínuo até o fim do Encontro caso o inimigo falhe em um Teste de Destreza CD 10 + Inteligência, que será 1d4 de Raio. O Dano Contínuo não é cumulativo.
+
 ## Estilo de Luta
 
 **Requisitos**: 3 de Força e 3 de Destreza.
 
 Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com um Descanso Longo.
 
-**Duelista de Escudo:** Caso o jogador esteja com uma Arma de uma mão equipada, e um escudo na outra mão, os seguintes bônus lhe serão concedidos:
+**Duelista de Escudo:** Caso você esteja com uma Arma Comum ou Leve em uma mão, e um Escudo na outra mão, você agora poderá Aparar.
 
-* **Ajudar (reação):** Se um aliado estiver perto de você e ele for atacado fora do seu Turno, você pode efetuar uma manobra evasiva com seu escudo, e tomar o golpe no lugar dele, recebendo metade do dano. A distância máxima que um aliado pode estar de você é metade do seu Deslocamento. Você não poderá utilizar Uma Ação Bônus no seu próximo Turno. Você recebe de Pontos de Vida Temporários iguais a sua Força, que duram até o seu próximo Turno, ao realizar esta Ação. Esses Pontos de Vida não mitigam o dano do Ataque defendido com esta reação, e só tem efeito depois de utilizá-la.
-* **Aparar (reação):** Caso o inimigo tire exatamente o número da sua CA ou menor numa rolagem de Ataque, você poderá repelir o Ataque com o seu escudo e contra atacar em seguida. Este contra-Ataque terá uma penalidade de -5. Caso o inimigo tenha um Erro Crítico na rolagem, você não terá penalidade alguma. 
+* **Aparar** (Reação): Você levanta seu escudo na hora em que um Ataque iria te acertar, e impõe Desvantagem nele. Caso o Ataque erre, você pode realizar um Ataque. Se acertar, você causa 1d8 de dano extra de um dos tipos que seu Ataque seja capaz de causar. Se você tirar um Acerto Crítico no Ataque ou a criatura que te atacou inicialmente tirar um Erro Crítico, você não gasta sua Reação nesta Rodada.
 
-**Empunhadura Dupla:** Você se torna capaz de utilizar uma Arma Comum em cada mão sem sofrer as penalidades adicionais por isso. Além disso, recebe um bônus de 1d6 em suas rolagens de dano. O tipo de dano do bônus é igual ao da Arma.
+**Leveza**: Você pode utilizar Armas Comuns como se fossem Armas Leves.
 
-**Empunhadura Única:** Caso esteja utilizando apenas uma Arma de uma mão, e mais nada na outra mão, consegue utilizar esta Arma em duas mãos. Quando fizer isso, recebe um bônus em suas rolagens de Ataque e de dano igual a 2d6 + For. Torna-se capaz de bloquear com sua espada, o que lhe concede um bônus de +1 na CA.
+**Empunhadura Única**: O bônus de dano ao utilizar uma Arma Comum ou Leve em duas mãos aumenta de 1d4 para 2d4.
 
-**Posição de Poder:** Caso o jogador esteja utilizando uma Arma de duas mãos, ele poderá utilizar ela em apenas uma mão, só que terá -1 em suas rolagens de Ataque. Ao alcançar o Nível 5 em Força e Destreza, poderá utilizar uma Arma de duas mãos em cada mão, sem sofrer penalidades adicionais por isso.
+**Posição de Poder**: Armas de Empunhadura Dupla agora podem ser utilizadas como Armas Comuns.
 
-## Um com os céus
+## Um Com os Céus
 
 **Requisitos:** ser capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
 
-Seguindo um caminho de Fé, você compreende sobre aspectos metafísicos da Vida, e percebe que nas pequenas coisas há milagres.
+Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 
-Sua lâmina agora é energizada com Força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o atributo de Destreza na Iniciativa ao invés do Modificador. Além disso, tem Uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
+Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer Imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o Atributo de Destreza na Iniciativa ao invés do Modificador sempre que o utilizar para acertar Ataques ou causar dano. Além disso, tem uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
 
 ## Fogo Fátuo
 
 **Requisitos**: 3 de Inteligência. 3 de Fé.
 
-Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo. Além disso, aumente sua Mana em 1d6.
+Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo. Além disso, aumente sua Mana em 1d6 permanentemente.
 
-## Bombardeio Aéreo
+## Atirador Aéreo
 
-**Requisitos**: Ser capaz de voar, ter uma Arma a Distância em mãos, e ser proficiente com ela.
+**Requisitos**: Ser capaz de voar, ter uma Arma a Distância equipada.
 
 Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua Margem de Ameaça em 2 pontos caso você Ataque a Distância enquanto voa. Você não é mais capaz de ter um Acerto Crítico em um Ataque se não estiver voando.
 
@@ -112,12 +105,6 @@ Os céus são sua casa, e você se sente mais confortável lutando de cima. Aume
 
 Adicione seu Modificador de Carisma ao dano de qualquer Magia de dano que você conjurar. Você agora pode gastar o dobro do custo de Mana da Magia para causar o dobro de dano. Ou seja, se uma Magia custa 3 de Mana, e depois da rolagem de dados causou 12 de dano, agora custará 6 e causará 24. O dano dobrado será o final. Você só pode dobrar o custo e dano antes de conjurar a Magia e rolar os dados.
 
-## Assinatura de Mana
-
-**Requisitos**: 2 de Carisma, Inteligência, ou Fé.
-
-Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados imunes também.
-
 ## Mente Simples
 
 **Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
@@ -126,11 +113,11 @@ Todos os seus Ataques são considerados críticos. Ataques Críticos efetuados c
 
 ## Explosão de Ki
 
-**Requisitos**: Habilidade "Ki" de Nível 1. 2 de Sabedoria.
+**Requisitos**: Habilidade Ofensiva "Ki" de Nível 1. 2 de Sabedoria.
 **Alcance**: 18m.
 **Custo**: Uma Ação.
 
-Você concentra parte de sua energia vital e a dispara em um Ataque a Distância. O dano é igual ao do seu Ataque Desarmado, mas você utilizará apenas o seu Modificador de Sabedoria como bônus de dano.
+Você concentra parte de sua energia vital e a dispara em um Ataque a Distância. O dano é igual ao do seu Ataque Desarmado. O alcance é de 18m, mas você pode gastar Pontos de Mana para aumentar a distância. Cada ponto gasto equivale a 6m de alcance adicional.
 
 ## Sem Controle
 
@@ -138,7 +125,7 @@ Você concentra parte de sua energia vital e a dispara em um Ataque a Distância
 **Alcance**: 18m
 **Custo**: Ação Bônus, 2 de Mana.
 
-Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de Raio igual ao alcance dessa Habilidade, que falhem num Teste de Resistência de Sabedoria CD 12 + Con, só possam realizar Ataques ou andar durante a Rodada. Essa Habilidade deve ser usada ao início de uma Rodada, e ignora Iniciativa.
+Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de raio igual ao alcance dessa Habilidade, que falhem num Teste de Resistência de Sabedoria CD 12 + Con, só possam realizar Ataques ou ações de movimento durante a Rodada. Essa Habilidade deve ser usada ao início de uma Rodada, e ignora Iniciativa.
 
 ## Agarrar
 
@@ -147,33 +134,33 @@ Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa
 
 Você executa um golpe em uma criatura alvo afim de agarrá-la. Se a criatura falhar num Teste de Resistência de Força CD 13 + For, ela terá a Condição Agarrado até que você a solte, ou ela passe no Teste. Ela pode repetir o Teste no início de cada um dos Turnos dela ao custo de Uma Ação.
 
-Você pode agarrar criaturas do seu tamanho, menores, ou de um patamar de tamanho acima. Você não pode atacar ou utilizar Magias enquanto agarrar a criatura. No entanto, você pode se mover junto com ela, mas seu Deslocamento será cortado pela metade.
+Você pode agarrar criaturas do seu tamanho, menores, ou de um patamar de tamanho acima. Você não pode atacar ou utilizar Magias enquanto agarrar a criatura. No entanto, você pode se mover junto com ela, tendo seu Deslocamento cortado pela metade.
 
 ## Luta Agarrada
 
-**Requisitos**: Habilidade "Agarrar" de custo 2. 3 de Destreza.
+**Requisitos**: Habilidade Ofensiva "Agarrar" de custo 2. 3 de Destreza.
 
 Você agora é capaz de realizar Ataques Desarmados em um alvo da Habilidade agarrar que falhou no Teste e está, atualmente, sendo Agarrado por você. Habilidades de Ataques Desarmados também podem ser utilizadas.
 
 ## Mata-Leão
 
-**Requisitos**: Habilidade "Submissão" de custo 1. 5 de Força.
+**Requisitos**: Habilidade Ofensiva "Submissão" de custo 1. 5 de Força.
 **Custo**: Ação Bônus.
 
-Você pode realizar um Ataque Desarmado em um alvo afetado por submissão utilizando apenas Uma Ação Bônus. Você aperta o pescoço do seu oponente, causando o dano de um Ataque Desarmado. O alvo terá que passar por um Teste de Resistência CD 10 + For + Dex. Em caso de falha, ele terá a Condição Inconsciente também.
+Você realiza um Ataque Desarmado em um alvo afetado por submissão. Você aperta o pescoço do seu alvo. O alvo terá que passar por um Teste de Resistência de Constituição CD 10 + For + Dex. Em caso de falha, ele terá a Condição Inconsciente também.
 
 ## Evolução Pugilista
 
-**Requisitos**: Habilidade "Força Natural" de custo 1. Você deve estar pelo menos Nível 14.
+**Requisitos**: Habilidade Ofensiva "Força Natural" de Custo 1. Você deve estar pelo menos Nível 14.
 
-Você pode optar por escolher um dos seguintes benefícios:
+Você pode escolher um dos seguintes benefícios:
 - Suas escalas A em Força e em Destreza com os Punhos agora serão S;
 - Seus Punhos terão escala S em algum outro atributo de sua escolha, com exceção de Força e Destreza;
-- Você aumenta seu Deslocamento em 3m, ganha +3 em Iniciativa, e +1 de CA enquanto só estiver equipado com Armas de Punho;
+- Você aumenta seu Deslocamento em 3m, ganha +3 em Iniciativa, e +1 de CA enquanto só estiver equipado com Armas de Punho (Apenas seus Punhos também contam);
 
 ## Punho Divino e Blasfemo
 
-**Requisitos**: Habilidade "Evolução Pugilista" de custo 2.
+**Requisitos**: Habilidade Ofensiva "Evolução Pugilista" de custo 2.
 
 Você agora tem opção de causar Dano Sombrio ou radiante com seus Ataques Desarmados. Caso você não esteja usando uma Arma de Punhos, seu dano de Ataques Desarmados recebe um aumento de 1d12 + Int ou Fth de Dano Radiante ou sombrio, à sua escolha. Caso seus Modificadores de Inteligência ou Fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
 
@@ -184,7 +171,7 @@ Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adic
 **Requisitos** O alvo do Ataque precisa estar Envenenado.
 **Custo**: Três Ações, 5 de Mana.
 
-Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a Condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso. Para esta Habilidade ter efeito, a Duração do Veneno terá que ser de, pelo menos, 3 Rodadas. O alvo se torna imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por essa Habilidade.
+Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a Condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso. Para esta Habilidade ter efeito, a Duração restante do Veneno terá que ser de, pelo menos, 3 Rodadas. O alvo se torna imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por essa Habilidade.
 
 ## Inércia
 

@@ -27,7 +27,7 @@ Quanto mais criaturas forem derrotadas com Ataques físicos em Encontros, mais a
 
 Enquanto estiver em fúria, você receberá as seguintes características:
 
-* 5 de Resistência contra Dano Físico;
+* +5 de Resistência contra Dano Físico;
 * +5 em Testes de Resistência de Força e Destreza;
 * Não poderá conjurar Magias, nem manter Magias já conjuradas;
 * Aumento na Margem de Ameaça em 1 ponto.
@@ -50,15 +50,16 @@ Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas 
 ## Sacrifício
 
 **Requisitos**: 2 de Fé, 2 de Inteligência.
-**Custo**: Uma Ação.
+**Custo**: Uma Ação, 5 de Mana.
+**Duração**: 3 Rodadas.
 
-Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado Crítico. Com Três Ações, você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
+Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado Crítico. Com Três Ações (ou quando a duração acabar), você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
 
 ## Ataque Carregado
 
 **Custo**: Três Ações.
 
-Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar Ações Bônus ou Reações naquela Rodada. Além disso, não pode realizar esse Ataque caso esteja empunhando duas Armas ao mesmo tempo.
+Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar Ações Bônus ou Reações naquela Rodada.
 
 ## Disparo Poderoso
 
@@ -73,7 +74,7 @@ Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com p
 **Duração**: 1 Rodada.
 **Custo**: 1 de Mana.
 
-Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você abdica das três Ações de seu Turno para ser capaz de usar três Reações nessa Rodada. Os inimigos tem -5 para te acertar enquanto esta Habilidade estiver ativa. Caso errem, você pode realizar Uma Ação de Ataque com +2 de bônus. Você não sofre Penalidades de Ataque enquanto a Habilidade durar.
+Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você abdica das três Ações de seu Turno para ser capaz de usar três Reações nessa Rodada. Os inimigos tem -5 para te acertar enquanto esta Habilidade estiver ativa. Caso errem, você pode realizar uma Ação de Ataque com +2 de bônus. Você não sofre Penalidades de Ataque enquanto a Habilidade durar.
 
 ## Canhão de Vidro
 
@@ -99,13 +100,13 @@ Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distânci
 **Custo**: Ação Bônus.
 **Duração**: 1 Encontro.
 
-Você tem -1 em todos os Testes de Perícias que não sejam Atletismo. Em troca, você ganha +2 de Força. Você pode desativar essa Habilidade antes do fim da duração com Uma Ação Bônus.
+Você tem -1 em todos os Testes de Perícias que não sejam Atletismo. Em troca, você ganha +2 de Força. Você pode desativar essa Habilidade antes do fim da duração com uma Ação Bônus.
 
 ## Força Natural
 
 **Requisitos**: 2 de Força ou Destreza.
 
-Seus Punhos agora tem escala B tanto em Força, quanto em Destreza. Quando você chegar no Nível 10 de qualquer um desses atributos, você escolhe uma dessas duas escalas para aumentá-la para A. Ao chegar no Nível 14 de personagem, o outro atributo que não foi escolhido também terá escala A.
+Seus Punhos agora tem escala B tanto em Força, quanto em Destreza. Quando você chegar no Nível 10 de personagem, você escolhe uma dessas duas escalas para aumentá-la para A. Ao chegar no Nível 14 de personagem, o outro atributo que não foi escolhido também terá escala A.
 
 Caso você utilize uma Arma de Punho, ela causará 2d8 a mais de dano, mas suas escalas não serão modificadas.
 
@@ -113,61 +114,64 @@ Caso você utilize uma Arma de Punho, ela causará 2d8 a mais de dano, mas suas 
 
 **Requisitos**: 1 de Sabedoria.
 
-Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus Ataques Desarmados são fortalecidos. Adicione seu Modificador de Sabedoria aos seus golpes desarmados. Esse dano adicional causa Dano de Impacto. Você também pode escolher que seus Ataques Desarmados causem Dano Radiante com Uma Ação Livre.
+Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus Ataques Desarmados são fortalecidos. Adicione seu Modificador de Sabedoria aos seus Ataques Desarmados. Esse dano adicional é igual ao dano causado por seus ataques desarmados. Você também pode escolher que seus Ataques Desarmados causem Dano Radiante com uma Ação Livre.
 
 ## Corte Ilusório
 
 Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
 
-Você agora pode escolher se seus Ataques Desarmados causarão Dano Cortante ou de impacto. Caso você esteja utilizando uma Arma de Punho que já é capaz de causar Dano Cortante, o Dano Cortante dela aumenta em 1d6.
+Você agora pode escolher se seus Ataques Desarmados causarão Dano Cortante ou de Impacto. Caso você esteja utilizando uma Arma de Punho que já é capaz de causar Dano Cortante, o Dano Cortante dela aumenta em 1d6.
 
 ## Lança Granadas
 
 **Requisitos**: 3 de Destreza ou Força.
 
-Você agora escolhe se quer utilizar o Modificador de Força, o de Destreza, ou ambos para calcular a distância de arremesso. Além disso, você pode adicionar o Modificador de Força ou Destreza ao dano de itens arremessáveis, à sua escolha. O dano adicional é do mesmo tipo causado pelo item.
+Você agora escolhe se quer utilizar o Modificador de Força, o de Destreza, ou ambos para calcular a distância de arremesso. Além disso, você pode adicionar o Modificador de Força, de Destreza, ou ambos ao dano de itens arremessáveis. O dano adicional é do mesmo tipo causado pelo item.
 
-Ao atingir o Nível 8 em Força ou Destreza, o dano de itens arremessáveis aumenta em 1d8 do mesmo tipo causado pelo item. Este bônus se aplica ao atributo que você escolher para o dano.
+Ao atingir o Nível 8 em Força ou Destreza, o dano de itens arremessáveis aumenta em 1d8 do mesmo tipo causado pelo item. Este bônus se aplica ao atributo que você escolher para o dano. Caso escolha os dois, ambos devem estar no Nível 8 para que isso aconteça.
+
+A escolha dos atributos utilizados é feita ao adquirir essa habilidade, e não pode ser desfeita.
 
 ## Fluxo do Rio
 
 **Requisitos**: 5 de Destreza.
+**Custo**: Ação Bônus, 3 de Mana.
 
-Toda vez que você acertar um Ataque Desarmado em um inimigo ele estará como se estivesse molhado. É como se seus Ataques canalizassem a essência das águas contra seu oponente. Você escolhe quais Ataques terão este efeito.
+Seu próximo Ataque Desarmado em um alvo o fará estar sob os mesmos efeitos que estaria caso estivesse encharcado. É como se seus Ataques canalizassem a essência das águas contra seu oponente.
 
 ## Pontos de Pressão
 
 **Requisitos**: Habilidade "Força Natural" de custo 1. 3 de Força ou Destreza.
 **Custo**: Três Ações, 1 de Mana.
 
-Você consegue atacar um alvo em seus pontos de pressão, causando danos significativos. Você deverá passar por três Testes nos quais poderá utilizar tanto o Modificador de Força, quanto o de Destreza, à sua escolha. Somente Ataques Desarmados terão efeitos com esta Habilidade. O primeiro terá CD 10, o segundo CD 15, e o terceiro CD 17. Os efeitos em caso de sucesso são os seguintes:
+Você consegue atacar um alvo em seus pontos de pressão, causando danos significativos. Você deverá passar por três Testes nos quais poderá utilizar tanto o Modificador de Força, quanto o de Destreza, à sua escolha. Somente Ataques Desarmados terão efeitos com esta Habilidade. O primeiro terá CD 10, o segundo CD 15, e o terceiro CD 17. Se falhar em qualquer um dos três, seu Turno se encerra, juntamente com a ativação desta Habilidade. Os efeitos em caso de sucesso são os seguintes:
 
 | Teste    | Efeito                                                                                                                                                                                                              |
 | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Primeiro | Você causa o dano de um Ataque Desarmado, e o alvo tem -1 em Salvaguardas por 3 Rodadas.                                                                                                                            |
 | Segundo  | Você causa o dano de um Ataque Desarmado, e o alvo tem -3 em Salvaguardas pelo resto do Encontro. Este efeito substitui o efeito negativo em Salvaguardas do primeiro Teste.                                        |
-| Terceiro | Você causa o dano de um Ataque Desarmado, e o alvo fica Atordoado por 3 Rodadas, além de ter -3 em Salvaguardas pelo resto do Encontro. Este efeito substitui o efeito negativo em Salvaguardas de ambos os Testes. |
+| Terceiro | Você causa o dano de um Ataque Desarmado, e o alvo fica Atordoado por 3 Rodadas, além de ter -5 em Salvaguardas pelo resto do Encontro. Este efeito substitui o efeito negativo em Salvaguardas de ambos os Testes. |
 
 ## Submissão
 
-**Requisitos**: Habilidade "Agarrar" de custo 2.
+**Requisitos**: Habilidade Ofensiva "Agarrar" de custo 2.
 **Custo**: Duas Ações.
 
 Quando você agarrar um oponente, você pode levá-lo ao chão. Ele terá a Condição Caído juntamente da Condição Agarrado. Os efeitos são somados.
 
 ## Maestria em Armas Comuns
 
-Você diminui em 1 ponto quaisquer penalidades que você tenha para acertar Ataques com Armas Comuns. Isso inclui Penalidades de Ataque, bônus negativo num geral, e quaisquer outras possíveis.
+Você diminui em 1 ponto quaisquer penalidades que você tenha para acertar Ataques com Armas Comuns. Isso inclui Penalidades de Ataque, bônus negativo num geral, e quaisquer outras possíveis. No caso de Desvantagem para acertar os Ataques, ela será substituída por -4 para acertar.
 
 ## Maestria em Armas Leves
 
 Sempre que estiver com duas Armas Leves equipadas ao mesmo tempo, adicione metade do seu Bônus de Proficiência ao dano de Ataques que acertarem. O tipo do dano será um dos possíveis tipos causados por uma das Armas, à sua escolha.
 
-No Nível 15, você adiciona seu Bônus de Proficiência inteiro, ao invés da metade.
+No Nível 12, você adiciona seu Bônus de Proficiência inteiro, ao invés da metade.
 
 ## Maestria com Empunhadura Dupla
 
-As Armas de Empunhadura Dupla agora ganham um aumento de alcance de Ataque de 1.5m. Quando você atingir o Nível 10, você perde esse bônus, e adiciona o Modificador do atributo que você usa para acertar o Ataque da Arma em questão como aumento de alcance de Ataque. Cada ponto no Modificador adiciona 1.5m de alcance. O alcance máximo que você pode aumentar é de 4.5m, quando o seu Modificador For 3.
+Quando acertar três Ataques em um mesmo Encontro com Armas de Empunhadura Dupla você poderá adicionar seu Bônus de Proficiência ao dano do quarto Ataque. No Nível 12, você só precisará acertar dois Ataques, e o terceiro poderá receber o Bônus de Proficiência.
 
 ## Maestria com Punhos
 
@@ -177,4 +181,10 @@ Alternativamente, você tem +1 na Iniciativa, e +1 de CA se o seu Modificador de
 
 ## Maestria com Armas à Distância
 
-Se uma Arma à Distância sua precisar de recarga, você pode recarregá-la com Uma Ação Bônus. Caso não precise, adicione +5 para acertar o Ataque se o alvo estiver em até metade do alcance total da Arma.
+Se uma Arma à Distância sua precisar de recarga, você pode recarregá-la com uma Ação Bônus. Caso não precise, adicione +5 para acertar o Ataque se o alvo estiver em até metade do alcance total da Arma.
+
+## Assinatura de Mana
+
+**Requisitos**: 1 de Carisma, Inteligência, ou Fé.
+
+Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados imunes também.
