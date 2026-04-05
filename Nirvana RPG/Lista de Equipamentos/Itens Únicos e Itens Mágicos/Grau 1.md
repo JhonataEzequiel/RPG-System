@@ -18,3 +18,12 @@ Restaura completamente os Pontos de Vida ou Mana (dependendo do tipo) quando con
 Pequena semente que, quando ingerida, diminui o custo de Magias sagradas em 2 pontos. Essa diminuição de custo atua somente nas três próximas Magias conjuradas por aquele que a ingeriu.
 
 Dizem que a muito tempo atrás essas raras sementes brotaram de árvores agora extintas. Devido as mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 5000po. Pesa apenas 0.1 kg.
+
+## Manto Mágico
+
+Capa que se usa por cima da roupa para proteção. Ela não aumenta a CA, mas possui escala em Sabedoria.
+
+| Armadura              | Preço | CA  | Requisitos     | Escalas        | Penalidades | Peso |
+| --------------------- | ----- | --- | -------------- | -------------- | ----------- | ---- |
+| Manto Mágico          | 120po | +0  | 2 de Sabedoria | B em Sabedoria | 0           | 1 kg |
+| Manto Mágico Especial | 300po | +0  | 5 de Sabedoria | S em Sabedoria | 0           | 1 kg |

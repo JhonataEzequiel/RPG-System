@@ -12,7 +12,7 @@ Aqui estão os benefícios que cada escala proporciona ao atingir um determinado
 | ------ | -------------------------- | ------------------------------------------- | -------------------------- | ------------------- | ----------------------- |
 | S      | +10 Pontos de Vida Máximos | +3 de Resistência a Dano Físico e elemental | +10 Pontos de Vida Máximos | +3 de Iniciativa    | +3 de CA                |
 | A      | +3 Pontos de Vida Máximos  | +2 de Resistência a Dano Físico             | +3 Pontos de Vida Máximos  | +2 de Iniciativa    | +3 de CA                |
-| B      | +4 Pontos de Vida Máximos  | +1 de Resistência a Dano Físico             | +2 Pontos de Vida Máximos  | +2 de Iniciativa    | +2 de CA                |
+| B      | +3 Pontos de Vida Máximos  | +1 de Resistência a Dano Físico             | +3 Pontos de Vida Máximos  | +2 de Iniciativa    | +2 de CA                |
 | C      | +2 Pontos de Vida Máximos  | +1 de Resistência a Dano Físico             | +2 Pontos de Vida Máximos  | +1 de Iniciativa    | +1 de CA                |
 | D      | +1 ponto de Vida máximo    | +1 de Resistência a Dano Físico             | +1 ponto de Vida máximo    | +1 de inciativa     | +1 ponto de Vida máximo |
 
