@@ -8,8 +8,10 @@ Cada raça consegue carregar uma quantidade de peso em quilos diferente. No enta
 | Elfo da Floresta | 40                     |
 | Elfo Negro       | 40                     |
 | Fjer             | 35                     |
+| Gama             | 40                     |
 | Gnomo            | 35                     |
 | Halfling         | 35                     |
 | Humano           | 45                     |
 | Siderium         | 40                     |
 | Tártaro          | 50                     |
+

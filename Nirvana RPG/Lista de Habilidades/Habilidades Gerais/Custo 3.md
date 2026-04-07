@@ -60,12 +60,12 @@ Caso você e um outro aliado possuam essa Habilidade, os dois poderão unir seus
 
 **Gestos de Equilíbrio**: Escolham um gesto que você e seu aliado farão. Este gesto terá uma condição de falha, como caso um dos dois erre o ângulo, os movimentos, ou caso os dois fiquem dessincronizados em algum momento. Os dois terão que passar por um Teste de Resistência de Destreza CD 16 para se fundir. Caso falhem, a fusão ainda ocorrerá, mas será considerada um completo fracasso. Em caso de sucesso, os Atributos de ambos aumentarão, e também ganharão outros bônus.
 
-**Fundir** (Duas Ações): A duração da fusão será idêntica em caso de sucesso ou fracasso, sendo de 1 encontro. 
+**Fundir** (Duas Ações): A duração da fusão será idêntica em caso de sucesso ou fracasso, sendo de 1 Encontro. 
 
 Em caso de fracasso na fusão, as seguintes coisas acontecerão com o personagem resultante:
 * O Deslocamento será de 3m.
-* A CA será de 10.
-* Os Atributos resultantes serão os mais baixos de cada um, com -2 em cada. Ou seja, se alguém tiver 10 de Força e outro tiver 5, a Força será 3.
+* A CA será de 3.
+* Os Atributos resultantes serão os mais baixos de cada um, com -5 em cada. Ou seja, se alguém tiver 10 de Força e outro tiver 5, a Força será 3. O mínimo de Inteligência será -2.
 * A aparência resultante será uma fraca e patética, e fica a critério do mestre. Ela deve unir características de ambos os personagens originais.
 
 Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante:
@@ -111,7 +111,7 @@ Você entoa um cântico de louvor a uma entidade cósmica desconhecida. O Mestre
 **Requisitos**: Habilidade Geral "Jackpot" de Custo 2. 2 de Destreza.
 **Custo**: Uma Ação, 1 de Mana.
 
-Esta Habilidade substitui o Jackpot. Todas as regras do Jackpot continuam as mesmas, assim como os benefícios. Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um Descanso Longo anterior ao combate. Isso inclui poder usar novamente certas Habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua Mana, trocar as Magias preparadas, etc.
+Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um Descanso Longo anterior ao combate. Isso inclui poder usar novamente certas Habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua Mana, trocar as Magias preparadas, etc.
 
 ## Equilíbrio Supremo
 

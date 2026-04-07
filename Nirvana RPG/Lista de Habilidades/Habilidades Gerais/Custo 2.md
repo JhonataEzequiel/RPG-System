@@ -84,7 +84,7 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 
 Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha os seguintes benefícios:
 
-- Ao final de seu Turno cura-se por toda a sua Vida de uma vez, ignorando efeitos que possam te impedir de se curar. Também regenera partes do corpo perdidas, como um braço amputado.
+- Ao final de seu Turno, cura toda a sua Vida de uma vez, ignorando efeitos que possam te impedir de se curar. Também regenera partes do corpo perdidas, como um braço amputado.
 - Ao final de seu turno, recupera toda a Mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar Mana. 
 - Imunidade a encantamento.
 

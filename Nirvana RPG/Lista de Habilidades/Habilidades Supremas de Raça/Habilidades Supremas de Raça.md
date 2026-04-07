@@ -68,6 +68,7 @@ Você dedica 8 horas em algum momento da sua aventura para aprender com outras R
 - Você pode escolher um atributo para ter Vantagem em Testes dele uma vez por dia durante uma Rodada. Durante a Rodada em que usar essa característica, os demais Testes terão -4 para serem bem sucedidos;
 - No Nível 20 você pode escolher uma Habilidade adicional de custo 1 ou 2.
 - O dano base de seus Ataques Desarmados aumenta de 1d4 para 1d6.
+- Você agora consegue respirar embaixo d'água.
 
 ## Aurora
 
@@ -92,3 +93,12 @@ Seu Deslocamento com ou sem o casco aumenta em 1.5m. Você agora tem +5 em Teste
 **Requisitos**: Você é um Cait-Sith de Nível 10 ou superior.
 
 O número máximo de Pontos de Essência aumenta para 20. Além disso, você agora pode escolher gastar 10 desses pontos para ter Vantagem em qualquer Teste que realizar. Você pode escolher ter a Vantagem depois de já ter rolado o Teste.
+
+## Barriga de Sapo
+
+**Requisitos**: Você é um Gama de Nível 10 ou superior.
+**Custo**: Duas Ações.
+
+Ao agarrar uma criatura do seu tamanho ou menor, você pode tentar engoli-la. Ela precisará passar por um Teste de Resistência de Força CD 8 + Bônus de Proficiência + o Modificador de um Atributo à sua escolha. Em caso de sucesso, a criatura terá Vantagem para se soltar da sua língua. Em caso de falha, você engole a criatura. Uma criatura engolida está Incapacitada, e recebe 3d8 de Dano Ácido no início de cada um dos Turnos dela, a partir do próximo Turno dela. Você pode cuspir uma criatura engolida com uma Ação Bônus em um local adjacente a você. A criatura pode repetir o Teste no início de cada um dos Turnos dela para se soltar, forçando você a cuspi-la. Você só pode engolir uma criatura por vez. Caso a criatura engolida seja Imune a Dano Ácido, ela não ficará Incapacitada, e terá Vantagem para te atacar enquanto estiver engolida. 
+
+Se você engolir uma criatura do seu tamanho, sua barriga crescerá para acomodá-la. Você se torna uma criatura de um grau acima do seu tamanho atual.

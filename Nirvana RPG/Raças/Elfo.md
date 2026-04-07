@@ -1,4 +1,4 @@
-## Alto elfo
+## Alto Elfo
 
 Como Alto Elfo você terá facilidade em aprender sobre temas diversos. Você tem acesso a mais uma Perícia, e também fala Élfico. 
 
@@ -6,7 +6,7 @@ Como Alto Elfo você terá facilidade em aprender sobre temas diversos. Você te
 
 **Descanso Élfico** (Passiva): Os Alto Elfos podem trocar as Magias Conhecidas em um Descanso Curto, não só os Arcanos Menores. Caso não utilize magias, você recuperará 2d4 a mais de Pontos de Vida ao ter um Descanso Curto. No Nível 5, esse bônus aumenta para 3d4, e no Nível 10, 3d6.
 
-## Elfo da floresta
+## Elfo da Floresta
 
 Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, normalmente sendo vistos como cuidadores da mesma. Costumam morar em grandes selvas, pântanos, florestas tropicais, e qualquer recinto com uma conexão direta com o verde. Como Elfo da Floresta, você fala Élfico.
 
@@ -14,7 +14,7 @@ Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, n
 
 **Bem no Alvo** (Passiva): Uma vez por Descanso Longo também são capazes de escolher passar em um Teste de alguma Perícia que sejam peritos, se falharem.
 
-## Elfo negro
+## Elfo Negro
 
 Os Elfos Negros possuem tonalidades de pele mais acinzentadas ou levemente roxas, além de possuírem uma estatura um pouco superior aos Elfos da Floresta, mas inferior aos Alto Elfos, em média. Elfos Negros tem o movimento melhorado em relação às outras raças, possuindo um Deslocamento igual a 12m por padrão. Além disso, possuem Habilidades que vão desbloqueando conforme o Nível deles aumenta, todas elas relacionadas a movimento. Como Elfo Negro, você fala Élfico.
 

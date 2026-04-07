@@ -28,4 +28,4 @@ Se você estiver dentro da área afetada também não poderá conjurar Magias, m
 - Alcance: Toque
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você transforma algum item que você possua, e que esteja na tabela de itens, em energia pura. Após isso, você a devorará, restaurando vida de acordo com o item transmutado em energia. Caso seja um item comum, restaura 4d8 + Int de vida. Adicione 4d8 para cada grau, se for um item mágico.
+**Descrição:** Você transforma algum item que você possua, e que esteja na tabela de itens, em energia pura. Após isso, você a devorará, restaurando vida de acordo com o item transmutado em energia. Caso seja um item comum, restaura 4d8 + Int de vida. Adicione 10d8 para cada grau, se for um item mágico.

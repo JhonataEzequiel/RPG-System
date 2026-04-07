@@ -1,25 +1,15 @@
 ## Inspiração
 
 **Custo**: Uma Ação e 1 de Mana.
-**Duração**: 1 Minuto.
+**Duração**: 5 Rodadas.
 
-Você tem a capacidade de inspirar seus aliados até 6 metros de distância, podendo conceder diversos bônus à todos, que ficam melhores de acordo com seu Nível de Carisma.
-
-| Nível de Carisma | Pontos de Vida Temporários | Vantagem em Salvaguardas de Constituição |
-| ---------------- | -------------------------- | ---------------------------------------- |
-| 1 e 2            | +1                         | Não                                      |
-| 3 e 4            | +2                         | Não                                      |
-| 5 e 6            | +5                         | Não                                      |
-| 7 e 8            | +7                         | Não                                      |
-| 9 e 10           | +10                        | Sim                                      |
-
-Não pode recobrar a consciência de aliados Nocauteados com essa Habilidade, nem concedê-los mais Pontos de Vida enquanto estiverem Nocauteados.
+Você tem a capacidade de inspirar seus aliados até 6 metros de distância, concedendo seu Nível de Carisma como Pontos de Vida Temporários.
 
 ## Inspiração Melhorada
 
 **Requisitos**: Habilidade de Suporte "Inspiração" de Custo 1.
 
-Sendo do bem ou do mal, seu caráter inspira aqueles ao seu redor. Você pode utilizar a Inspiração como um Bônus de Dano ao invés de Vida para todos os seus aliados (aliados causarão mais Dano Físico igual a metade do Bônus de Pontos de Vida Temporários normalmente concedido pela Inspiração).
+Sendo do bem ou do mal, seu caráter inspira aqueles ao seu redor. Você pode utilizar a Inspiração como um Bônus de Dano ao invés de Pontos de Vida Temporários para todos os seus aliados. Aliados causarão mais Dano Físico igual a metade do Bônus de Pontos de Vida Temporários normalmente concedido pela Inspiração.
 
 No Nível 10 de Carisma, poderá utilizar Inspiração como uma Ação Bônus, ao invés de uma Ação.
 

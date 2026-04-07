@@ -1,40 +1,40 @@
 ## Regras
 
-Existem magias e arcanos menores. Arcanos menores não gastam mana, já magias, gastam. Cada magia tem requisitos especificados, podendo ser de inteligência, fé, ou carisma. A quantidade de mana gasta é igual a seu requisito, caso o requisito seja único. Se a magia pedir mais de um atributo para ser conjurada, o custo será a média dos requisitos arredondada para cima.
+Existem Magias e Arcanos Menores. Arcanos Menores não gastam Mana, já Magias, gastam. Cada Magia tem Requisitos especificados, podendo ser de Inteligência, Fé, ou Carisma. A quantidade de Mana gasta é igual a seu Requisito, caso o Requisito seja único. Se a Magia pedir mais de um Atributo para ser conjurada, o custo será a média dos Requisitos arredondada para cima.
 
-Uma magia pode mostrar vários requisitos, mas requerer apenas um. Neste caso, o conectivo "ou" será utilizado para denotar que apenas um dos requisitos será necessário. Exemplo: "5 de inteligência, fé, ou carisma".
+Uma Magia pode mostrar vários Requisitos, mas requerer apenas um. Neste caso, o conectivo "ou" será utilizado para denotar que apenas um dos Requisitos será necessário. Exemplo: "5 de Inteligência, fé, ou Carisma".
 
-Um personagem pode conhecer uma magia, equipá-la, ou não conhecê-la. Após um descanso longo, é possível trocar as magias equipadas. Isso também é válido para os arcanos menores. A quantidade de magias conhecidas e equipáveis, assim como os arcanos menores conhecidos e equipáveis, estará de acordo com a passiva inicial de sabedoria.
+Você pode conhecer uma Magia, equipá-la, ou não conhecê-la. Após um Descanso Longo, é possível trocar as Magias Preparadas. Isso também é válido para os Arcanos Menores. A quantidade de Magias Conhecidas e Preparadas, assim como os Arcanos Menores Conhecidos e Preparadas, estará de acordo com o seu Atributo de Sabedoria.
 
-Magias com alcance "toque" podem ser utilizadas no próprio conjurador. Basta que ele toque em si mesmo e conjure a magia. Algumas magias também terão um alcance igual ao deslocamento do conjurador. Neste caso, estará especificado no alcance apenas como "deslocamento" ou algo como "9m + deslocamento", caso o alcance for um pouco maior.
+Magias com alcance "Toque" podem ser utilizadas no próprio conjurador. Basta que ele toque em si mesmo e conjure a Magia. Algumas Magias também terão um alcance igual ao Deslocamento do conjurador. Neste caso, estará especificado no alcance apenas como "Deslocamento" ou algo como "9m + Deslocamento", caso o alcance for um pouco maior.
 
-As magias podem ter como tempo necessário para conjurar tanto uma quantidade de ações (mais comum), quanto uma unidade de tempo específica, sejam minutos, horas, ou algo similar. Elas também podem ser de concentração, o que significa que ficarão ativas enquanto você quiser mantê-las, ou até alguém quebrar a sua concentração. A quebra de concentração pode ocorrer caso você sofra dano, ou alguém te force a passar em uma salvaguarda qualquer e você falhe. Caso a magia precise de muito tempo para conjurar, ela também pode ser interrompida, mas ao contrário da concentração, você pode retomar o processo de conjuração de onde parou. Caso o tempo seja grande, e também exija concentração, uma vez interrompido o processo você precisará conjurar a magia do início. Se qualquer processo de conjuração for interrompido antes da hora, você gastará os pontos de mana normalmente.
+As Magias podem ter como tempo necessário para conjurar tanto uma quantidade de Ações (mais comum), quanto uma unidade de tempo específica, sejam minutos, horas, ou algo similar. Elas também podem ser de Concentração, o que significa que ficarão ativas enquanto você quiser mantê-las, ou até alguém quebrar a sua Concentração. A quebra de Concentração pode ocorrer caso você sofra uma quantidade de dano igual ou maior do que metade dos seus Pontos de Vida Atuais, ou alguém te force a passar em uma Salvaguarda qualquer e você falhe. Se qualquer processo de conjuração for interrompido antes da hora, você gastará os Pontos de Mana normalmente.
 
 ## Tipos de Magias
 
 ### Magias de Ilusão
 
-Magias de ilusão afetam a mente de um ou mais alvos. Os efeitos são diversos, desde fazer um alvo alucinar, até fazer com que múltiplos alvos vejam algo que não está de fato lá. Pode causar dano psíquico e debilitar inimigos de maneiras diversas. Os requisitos podem variar entre fé, inteligência, ou carisma, dependendo da magia.
+Magias de Ilusão afetam a mente de um ou mais alvos. Os efeitos são diversos, desde fazer um alvo alucinar, até fazer com que múltiplos alvos vejam algo que não está de fato lá. Pode causar dano psíquico e debilitar inimigos de maneiras diversas. Os Requisitos podem variar entre Inteligência, ou Carisma, dependendo da Magia.
 
 ### Magias de Sangue
 
-Magias de sangue utilizam ou do seu sangue, ou do sangue de algum alvo, ou das duas coisas para ter efeitos diversos, variando de magias de ataque, controle de grupo, ou de suporte. Tem como requisitos tanto fé quanto inteligência. Caso você tenha pontos de vida temporários eles não poderão ser usados para conjurar magias de sangue, apenas os seus pontos de vida normais. No entanto, você não perderá os pontos de vida temporários para outros fins, como receber dano.
+Magias de Sangue utilizam ou do seu sangue, ou do sangue de algum alvo, ou das duas coisas para ter efeitos diversos, variando de Magias de ataque, controle de grupo, ou de suporte. Tem como Requisitos tanto Fé quanto Inteligência. Caso você tenha Pontos de Vida Temporários eles não poderão ser usados para conjurar Magias de Sangue, apenas os seus Pontos de Vida normais. No entanto, você não perderá os Pontos de Vida Temporários quando conjurar uma Magia de Sangue.
 
 ### Magias Elementais
 
-Magias elementais controlam os mais diferentes elementos da natureza, e normalmente são magias de ataque. É possível também que existam algumas magias de suporte ou controle de grupo. Geralmente tem como requisito apenas inteligência, mas podem existir exceções.
+Magias Elementais controlam os mais diferentes elementos da natureza, e normalmente são Magias de ataque. É possível também que existam algumas Magias de suporte ou controle de grupo. Geralmente tem como Requisito apenas Inteligência, mas podem existir exceções.
 
 ### Magias Sagradas
 
-Magias sagradas são representações de partes superiores da realidade, normalmente derivando de poderes divinos ou da natureza. Variam entre magias de suporte, ataque, controle de grupo, e outros elementos diversos. Na grande maioria das vezes tem como requisito ou fé ou carisma.
+Magias Sagradas são representações de partes superiores da realidade, normalmente derivando de poderes divinos ou da natureza. Variam entre Magias de suporte, ataque, controle de grupo, e outros elementos diversos. Na grande maioria das vezes tem como requisito ou Fé ou Carisma.
 
 ### Magias Sombrias ou Sortilégios
 
-Magias sombrias representam a parte obscura da realidade, sendo caracterizadas principalmente pelo oculto. Magias de ataque causam dano de sortilégio (ou dano sombrio). As demais tem efeitos únicos, variando bastante. Tem como requisitos tanto inteligência quanto fé.
+Magias Sombrias representam a parte obscura da realidade, sendo caracterizadas principalmente pelo oculto. Magias de ataque causam Dano de Sortilégio, e as vezes outros tipos de dano, como Dano Ácido ou Venenoso. As demais tem efeitos únicos, variando bastante. Tem como Requisitos tanto Inteligência quanto Fé.
 
 ### Magias Imaculadas 
 
-Magias imaculadas são as com mais variações em seus efeitos. Num geral, não tem um tema em específico. Podem ter como requisitos qualquer um dos atributos entre inteligência, carisma, e fé, e qualquer combinação entre eles.
+Magias Imaculadas são as com mais variações em seus efeitos. Num geral, não tem um tema em específico. Podem ter como Requisitos qualquer um dos atributos entre Inteligência, Carisma, e Fé, e qualquer combinação entre eles.
 
 ## Layout Básico
 

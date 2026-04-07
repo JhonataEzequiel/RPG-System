@@ -6,7 +6,7 @@ Toda vez que você utilizar Inspiração, adicione os seguintes benefícios:
 
 * Você ignora Terreno Difícil, e seus aliados tem mais 1.5m de Deslocamento em Terreno Difícil.
 * Você adiciona o seu Modificador de Carisma à sua CA.
-* Escolha um aliado para receber três Ações adicionais. Ele só poderá Atacar, se locomover, ou usar Magias. Quaisquer Ações derivadas de Habilidades não poderão ser usadas, nem mesmo Habilidades de Ataque. Ele poderá usar essas três Ações logo após o seu Turno acabar. Só pode conceder essas Ações extras uma vez por Descanso, seja ele Curto ou Longo.
+* Escolha um aliado para receber uma Ação extra no próximo Turno dele. Você só pode utilizar essa característica uma vez por Encontro.
 
 ## Consonância
 

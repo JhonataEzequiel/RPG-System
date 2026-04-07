@@ -1,7 +1,7 @@
 ### Amizade
 
 - Requisito em Carisma ou Inteligência: 1
-- Requisitos Adicionais: A criatura não é hostil inicialmente
+- Requisitos Adicionais: A criatura alvo não é hostil inicialmente
 - Duração: 1 Minuto
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação

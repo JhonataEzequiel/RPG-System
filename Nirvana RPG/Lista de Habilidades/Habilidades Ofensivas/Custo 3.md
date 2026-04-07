@@ -40,7 +40,7 @@ Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 ## Crítico Garantido
 
 **Requisitos**: 10 de Força ou 10 de Destreza.
-**Custo:** Uma Ação e 6 de Mana.
+**Custo:** Uma Ação e 10 de Mana.
 **Duração**: 1 Encontro.
 
 Você entra em hiperfoco, não podendo mais conjurar Magias. Todos os seus Ataques agora são considerados Críticos.

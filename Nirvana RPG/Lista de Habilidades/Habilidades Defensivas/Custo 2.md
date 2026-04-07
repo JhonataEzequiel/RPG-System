@@ -47,7 +47,7 @@ Seu corpo se recupera dos efeitos negativos como se nunca estivessem lá, fazend
 
 **Requisitos**: Habilidade Defensiva "Aura" de Custo 1. 5 de Constituição.
 
-Você agora pode escolher passar em uma Salvaguarda que tenha falhado, uma vez por Descanso Longo. Você também adquire dois Pontos de Aura sempre que sobreviver depois de ser Nocauteado.
+Você agora tem Vantagem em uma Salvaguarda, à sua escolha, uma vez por Descanso Longo. Você também adquire dois Pontos de Aura sempre que sobreviver depois de ser Nocauteado.
 
 Você pode gastar 3 Pontos de Aura para utilizar essa Habilidade novamente sem precisar descansar.
 

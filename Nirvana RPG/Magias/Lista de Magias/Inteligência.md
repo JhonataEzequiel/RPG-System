@@ -280,6 +280,8 @@ Meteorito: 8 de inteligência. Imaculada.
 
 Devorar Matéria: 8 de inteligência. Imaculada.
 
+Geoforça: 8 de Inteligência. Elemental.
+
 ### Custo 9:
 
 Nihil: 8 de inteligência, 9 de fé. Sangue.

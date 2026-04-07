@@ -32,3 +32,12 @@ Estruturas tomam 12d8 de Dano de Impacto.
 **Descrição:** Um domo de gelo é erguido ao seu redor, cobrindo uma área esférica com raio de 12m. Você pode desfazer o domo quando quiser com Uma Ação Livre. Enquanto dentro do domo não é possível sair. Você seleciona até 3 criaturas alvo para conceder a elas mais Uma Ação Bônus durante a duração do domo, e até 2 criaturas alvo para diminuir o Deslocamento delas em 3m pela duração. Inimigos com vulnerabilidade a Dano de Gelo recebem 4d8 + Int de Dano de Gelo contínuo até o final da duração do domo. Criaturas maiores do que o domo ignoram ele, não podendo ser afetadas por quaisquer efeitos desta Magia.
 
 Você pode estender a duração do domo em 1 Rodada por 2 Pontos de Mana adicionais, e pode fazer isso quantas vezes quiser.
+
+### Geoforça
+
+- Requisito em Inteligência: 8
+- Duração: 1 Encontro
+- Alcance: Toque
+- Tempo de Conjuração: Duas Ações
+
+**Descrição:** Pequenas pedras surgem ao redor da criatura alvo e se juntam nos membros dela, fazendo com que os ataques desarmados causem 4d4 a mais de Dano de Impacto.
