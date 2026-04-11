@@ -5,7 +5,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você cura uma condição de qualquer criatura alvo que tocar. Você pode gastar Três Ações para curar todas as condições negativas, no lugar de apenas uma. Caso gaste Três Ações, você concede ao alvo 
+**Descrição:** Você cura uma condição de qualquer criatura alvo que tocar. Você pode gastar Três Ações para curar todas as condições negativas, no lugar de apenas uma.
 
 Você pode gastar 2 pontos adicionais de mana para selecionar mais um alvo. O alvo adicional terá apenas uma condição curada.
 

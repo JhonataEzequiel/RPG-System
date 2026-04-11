@@ -190,6 +190,8 @@ Ordem e Caos: 5 de inteligência, 5 de fé. Sortilégio.
 
 Esticar: 5 de inteligência ou carisma. Imaculada.
 
+Corpo Elemental: 5 de Inteligência. Elemental.
+
 ### Custo 6:
 
 Chuva de Magma: 6 de inteligência. Elemental.
