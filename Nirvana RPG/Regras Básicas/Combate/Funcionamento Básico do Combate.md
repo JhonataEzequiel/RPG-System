@@ -58,11 +58,7 @@ Ademais, o alcance de seus arremessos é igual ao seu Modificador de Força em m
 
 ## Coeficiente de Armadura (CA)
 
-Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. A CA é calculada da seguinte maneira:
-
-$$
-CA = 10 + For + Dex + ArmaduraEquipada
-$$
+Servirá como uma métrica para determinar se um ataque atingirá um oponente ou não. A CA é calculada como 10 + Modificador de Força + Modificador de Destreza + bônus concedido pela Armadura equipada. No entanto, você pode escolher utilizar seu Valor de Atributo de Força inteiro ao invés do Modificador, caso seu Modificador de Destreza seja 0 ou menor. Caso o Modificador de Destreza seja menor que 0, você ainda precisará contabilizá-lo na CA.
 ## Dano de armas, magias, e ataques dos monstros
 
 O dano é representado pela quantidade de dados que deverá ser rolada para chegar ao resultado e o atributo ao qual o modificador será usado (algumas vezes o modificador pode não ser usado). 

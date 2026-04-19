@@ -59,7 +59,7 @@ Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo complet
 
 **Custo**: Três Ações.
 
-Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar Ações Bônus ou Reações naquela Rodada.
+Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar Ações Bônus ou Reações na Rodada em que usar essa Habilidade.
 
 ## Disparo Poderoso
 

@@ -251,3 +251,15 @@ Você agora pode realizar infusões em itens não-mágicos. Você precisa ter a 
 ## Saída de Emergência
 
 Você agora pode utilizar Habilidades que funcionam apenas fora de combate quando estiver em combate. O contrário também é válido.
+
+## Preparação Arcana
+
+**Requisitos**: 5 de Sabedoria.
+
+Ao entrar em combate você pode utilizar qualquer Arcano Menor que quiser, ignorando a ordem de Iniciativa. Você deve fazer isso antes de qualquer integrante do combate iniciar seu Turno.
+
+## Desfoque
+
+**Requisitos**: 6 de Destreza.
+
+Seu Deslocamento aumenta pela metade enquanto estiver Invisível.

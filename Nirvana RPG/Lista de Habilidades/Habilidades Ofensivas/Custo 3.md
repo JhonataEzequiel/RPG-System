@@ -22,9 +22,9 @@ Você se move tão rápido, e com tanta ferocidade, que recebe os seguintes bôn
 
 ## Ataque Extra Aprimorado
 
-**Requisitos:** Habilidade Ofensiva "Ataque Extra" de Custo 1. 4 de Força e 1 de Destreza.
+**Requisitos:** Habilidade Ofensiva "Ataque Extra" de Custo 1. 8 de Força ou 8 de Destreza.
 
-Você não sofre mais penalidades de Ataques, e sua Margem de Ameaça é aumentada em 1 ponto. Além disso, uma vez por Descanso Longo você pode escolher acertar um Ataque, caso erre a rolagem.
+Você não sofre mais penalidades de Ataques, e sua Margem de Ameaça é aumentada em 1 ponto.
 
 ## Fúria Aprimorada
 

@@ -198,3 +198,9 @@ Sua Capacidade de Carga agora é aumentada em três vezes o seu Nível de Profic
 **Requisitos**: 3 de Força.
 
 Você pode realizar Testes de Conversação utilizando Força ao invés de Carisma.
+
+## Adrenalina
+
+**Duração**: 3 Rodadas.
+
+Sempre que tomar uma Poção ou receber seus efeitos de alguma forma aumente seu Deslocamento em 3m. Este efeito é cumulativo.

@@ -75,4 +75,11 @@ Uma vez ao dia você pode analisar a situação atual de um encontro. Rode 1d100
 
 **Requisitos**: 3 de Fé ou Carisma.
 
-Sempre que você conjurar uma Magia Sagrada, você cura o alvo da Magia em um adicional igual a seu Bônus de Proficiência, caso seja uma Magia com efeito benéfico, e adiciona metade do seu Bônus de Proficiência ao dano, caso seja uma Magia de Dano.
+Sempre que você conjurar uma Magia Sagrada, você cura o alvo da Magia em um adicional igual a seu Bônus de Proficiência, caso seja uma Magia com efeito benéfico, e adiciona seu Bônus de Proficiência ao dano, caso seja uma Magia de Dano.
+
+## Engodo da Ira
+
+**Requisitos**: Habilidade Ofensiva "Fúria" de Custo 1.
+**Custo**: Reação.
+
+Você concede a um aliado dentro do alcance do seu Deslocamento os efeitos de Fúria. Só pode ser usada uma vez por Rodada. Você gasta uma Carga de Fúria para isso.

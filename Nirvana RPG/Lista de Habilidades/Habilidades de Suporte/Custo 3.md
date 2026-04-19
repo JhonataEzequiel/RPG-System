@@ -61,16 +61,18 @@ Você consegue ter um Descanso Curto em 30 minutos ao invés de 1 hora, e um Des
 
 **Requisitos**: 8 de Carisma ou Fé.
 
-Existe uma tristeza alcançável na alma de cada um. Diferentes culturas dão diferentes nomes a esse estado mental: sombra, morte espiritual, inferno mental, e vazio. Mas o que muitos não entendem é que o vazio na verdade é uma espada de dois gumes. Ele não é nem bom, nem ruim, e acessá-lo tem seu preço e suas recompensas.
+Você entra em um estado de vazio mental, ficando Incapacitado. No início de cada um de seus Turnos, realize um Teste de Resistência de Sabedoria (CD 12, 16, e 20, nessa ordem). Ao passar nos três, você sai do vazio e triplica os efeitos positivos de suas Magias em outros alvos pelo resto do Encontro.
 
-Você agora pode acessar o vazio, um estado mental aonde sua mente não pensa em mais nada. Você apenas existe no mundo naquele momento, incapaz de interagir com o mesmo. Você fica Incapacitado até passar por três Testes de Resistência de Sabedoria cuja CD vai aumentando com o tempo. Você realiza um desses Testes no início de cada um de seus Turnos. A CD inicial é 12, e aumenta em 4 pontos por Teste, totalizando 20 no último. Somente quando for bem sucedido em todos os Testes você sairá do vazio.
-
-Quando sair, sua mente estará mais clara do que nunca. Você será capaz de pensar mais livremente, e agir de maneira mais compassiva. Quaisquer Magias que causem um efeito positivo em um alvo que não seja você tem seus efeitos triplicados pelo resto do Encontro. Por exemplo, se uma Magia curar alguém, ela curará o triplo agora.
-
-Você só pode iniciar essa Habilidade caso você não tenha feito nada ainda durante o Turno que decidir usá-la. Você pode gastar 8 Pontos de Mana ao utilizar essa Habilidade para estender este efeito para Habilidades também, além das Magias.
+Só pode ser iniciado se você ainda não agiu no Turno. Você pode gastar 8 de Mana para estender o triplo de efeito às Habilidades também.
 
 ## Numerólogo
 
 **Requisitos**: Habilidade de Suporte "Matemático" de Custo 2. 10 de Inteligência.
 
 Você ganha efeitos adicionais ao conseguir um número primo através da Habilidade Matemático. Você agora sabe os Pontos de Vida Máximos, Atuais, e Temporários dos alvos. Além disso, você tem acesso aos Atributos das criaturas alvo, sabendo seus valores.
+
+## Vigor Mágico
+
+**Requisitos**: 10 de Fé ou Carisma.
+
+Sempre que usar uma Magia de Cura em um aliado, e essa magia custar menos que três Ações, você pode escolher conjurá-la com uma Ação a mais e conceder uma Ação adicional ao aliado. Ele age imediatamente após você, ou pode acumular essa Ação para o próximo Turno dele. Uma mesma criatura não pode estar sob efeito desta Habilidade duas vezes ao mesmo tempo.

@@ -90,3 +90,9 @@ Alternativamente, você pode manter a Penalidade de Deslocamento e ganhar +1 de 
 ## Tamanho não é Documento
 
 Sempre que você estiver enfrentando ao menos um oponente de tamanho Grande ou superior, adicione +1 de CA pelo resto do Encontro. Caso você enfrente ao menos quatro oponentes de tamanho grande ou superior, adicione +3 de CA ao invés de +1.
+
+## Fortitude Corporal
+
+**Requisitos**: 1 de Constituição, 1 de Força.
+
+Você pode adicionar seu Modificador de Força como bônus aos seus Pontos de Vida Máximos toda vez que subir de Nível. Essa Habilidade não se aplica retroativamente, ou seja, ela só terá efeito em Níveis subsequentes a sua aquisição.

@@ -22,7 +22,7 @@ Jogadas de ataque contra uma criatura cega têm vantagem e jogadas de ataque da 
 
 ### Encantado
 
-Um alvo encantado não pode agir contra aquele que o encantou ou seus aliados. Quem encantou o alvo tem vantagem para atacá-lo.
+Um alvo Encantado não pode agir contra aquele que o encantou ou seus aliados. Quem encantou o alvo tem vantagem para atacá-lo.
 
 ### Envenenado
 
@@ -32,14 +32,14 @@ Uma criatura Envenenada está atualmente sofrendo de Dano Contínuo Venenoso.
 
 A Exaustão pode variar em alguns níveis, cada um aplicando uma penalidade diferente. Normalmente se está exausto após passar longos períodos sem um Descanso Longo, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada dia sem um Descanso Longo o Nível de Exaustão aumenta. E a cada Descanso Longo tido, o Nível de Exaustão diminui em dois.
 
-|Nível de Exaustão|Efeito|
-|---|---|
-|1|Desvantagem em quaisquer testes de atributo|
-|2|Deslocamento reduzido pela metade|
-|3|-10 em jogadas de ataque|
-|4|Pontos de vida máximos reduzidos pela metade|
-|5|Deslocamento reduzido para 0|
-|6|Morte|
+| Nível de Exaustão | Efeito                                       |
+| ----------------- | -------------------------------------------- |
+| 1                 | Desvantagem em quaisquer Testes de Atributo  |
+| 2                 | Deslocamento reduzido pela metade            |
+| 3                 | -10 em jogadas de Ataque                     |
+| 4                 | Pontos de Vida Máximos reduzidos pela metade |
+| 5                 | Deslocamento reduzido para 0                 |
+| 6                 | Morte                                        |
 
 ### Incapacitado
 
@@ -47,17 +47,17 @@ Uma criatura incapacitada não pode realizar nenhum tipo de ação ou reação.
 
 ### Inconsciente
 
-Uma criatura inconsciente está incapacitada (veja a condição), não pode se mover ou falar, e não está ciente de seus arredores.
+Uma criatura Inconsciente está Incapacitada (veja a condição), não pode se mover ou falar, e não está ciente de seus arredores.
 
 A criatura larga o que estiver segurando e cai no chão.
 
-A criatura falha automaticamente em salvaguardas de Força e Destreza.
+A criatura falha automaticamente em Salvaguardas de Força e Destreza.
 
-Jogadas de ataque contra a criatura têm vantagem. Qualquer ataque que acerte a criatura é um acerto crítico se o atacante estiver a até 1.5m da criatura.
+Jogadas de Ataque contra a criatura têm Vantagem. Qualquer Ataque que acerte a criatura é um Acerto Crítico se o atacante estiver a até 1.5m da criatura.
 
 ### Invisível
 
-Uma criatura invisível tem vantagem em testes de furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer ataque contra alguém invisível tem desvantagem.
+Uma criatura invisível tem vantagem em Testes de Furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer Ataque contra alguém Invisível tem Desvantagem.
 
 ### Nocauteado
 

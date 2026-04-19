@@ -82,3 +82,9 @@ Você tem uma Reação adicional em todas as Rodadas, mas ela só pode ser usada
 **Requisitos**: 10 em Constituição, 10 em qualquer outro Atributo.
 
 Quando você estiver sob o efeito de uma Condição negativa, você não sofrerá mais Desvantagens em nada, nem mesmo se essas Desvantagens forem advindas de outras fontes que não são a Condição em si. Todas as vezes que você iria receber uma Desvantagem, agora você terá Vantagem no lugar. Isso incluí Desvantagens impostas pela Condição negativa que te afligir.
+
+## Parrudo
+
+**Requisitos**: 8 em Força, 8 em Destreza.
+
+Você agora pode adicionar seu Modificador de Destreza na sua CA, e ainda adicionar o valor total de Força, ignorando a regra de que para fazer isso seria necessário ter um Modificador de Destreza menor ou igual a 0.

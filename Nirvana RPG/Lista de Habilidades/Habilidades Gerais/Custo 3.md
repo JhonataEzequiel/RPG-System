@@ -241,6 +241,14 @@ Você pode trocar seu Atributo de Inteligência temporariamente com qualquer out
 
 A troca em si não vai impactar aspectos narrativos do seu personagem, como torná-lo menos capaz de exercer atividades básicas relacionadas a Inteligência. Por exemplo, um personagem com Inteligência especialmente baixa, como -4, teria problemas até para formar frases coerentes. Neste caso, você não passará por esse tipo de problema. É como se, temporariamente, você se focasse em apenas ser um combatente corpo a corpo, e esquecesse suas outras características.
 
+## Mestre das Magias
+
+**Requisitos**: 7 de Sabedoria. 7 de Inteligência, Fé, ou Carisma.
+
+Ao conjurar 10 Magias de uma mesma categoria sem alternar, ou seja, sem utilizar outra categoria, você diminui permanentemente o custo de Mana das magias daquela categoria em 1 ponto. Comece a contar a partir do momento que você adquirir essa Habilidade. 
+
+Essa Habilidade pode ser pega múltiplas vezes, e seus efeitos são cumulativos. 
+
 ## Nirvana
 
 **Requisitos**: Nenhum Atributo pode ter um valor abaixo de 7.
