@@ -5,4 +5,4 @@ Lista contendo todas as habilidades:
 Regras sobre magias:
 [[Magias]]
 Regras sobre equipamentos:
-[[Equipamentos]]
+[[Regras Básicas de Equipamentos]]

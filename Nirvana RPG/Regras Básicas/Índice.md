@@ -16,4 +16,4 @@
 [[Elementos do Cenário]]
 Combate: [[Regras Básicas/Combate/Índice]]
 [[Condições]]
-[[Equipamentos]]
+[[Regras Básicas de Equipamentos]]

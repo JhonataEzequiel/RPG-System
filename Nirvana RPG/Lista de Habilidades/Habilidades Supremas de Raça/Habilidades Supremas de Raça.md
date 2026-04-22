@@ -80,7 +80,7 @@ Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se ener
 
 **Requisitos**: Você é um Siderium Nocturnus de Nível 10 ou superior.
 
-Você pode utilizar sua Luna duas vezes ao dia agora. Sempre que usar sua Luna você ganha +6m de Deslocamento até ela acabar.
+O custo de Mana da Luna diminui em 3 pontos. Sempre que usar sua Luna você ganha +6m de Deslocamento até ela acabar.
 
 ## Resiliência de Tartaruga
 
@@ -92,7 +92,7 @@ Seu Deslocamento com ou sem o casco aumenta em 1.5m. Você agora tem +5 em Teste
 
 **Requisitos**: Você é um Cait-Sith de Nível 10 ou superior.
 
-O número máximo de Pontos de Essência aumenta para 20. Além disso, você agora pode escolher gastar 10 desses pontos para ter Vantagem em qualquer Teste que realizar. Você pode escolher ter a Vantagem depois de já ter rolado o Teste.
+Ao invés de recuperar Pontos de Vida quando você utilizar o Sugador de Essências, você pode causar a quantidade que você iria curar como Dano Verdadeiro adicional. Você pode fazer isso três vezes por Descanso Curto, e também pode escolher utilizar essa Habilidade somente quando já souber o resultado do ataque.
 
 ## Barriga de Sapo
 

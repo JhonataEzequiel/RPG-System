@@ -58,7 +58,7 @@ No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de
 Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente.
 ## Equipamento Inicial
 
-Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item do capítulo de [[Equipamentos]]. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.
+Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item do capítulo de [[Regras Básicas de Equipamentos]]. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.
 
 ## Escolha de Perícias e Proficiências
 

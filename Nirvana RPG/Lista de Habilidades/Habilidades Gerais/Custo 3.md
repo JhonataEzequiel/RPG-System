@@ -195,7 +195,7 @@ Para recriar uma invenção você precisará de materiais e tempo decididos pelo
 
 **Requisitos**: 10 de Inteligência.
 
-Você agora pode criar baterias que se recarregam ao serem expostas a luz do sol ou a qualquer outra fonte de energia elétrica, caso você tenha capacidade de recarregá-las com ela. Uma bateria demora 8 horas para se recarregar, e tem duração de 1 semana. Você pode colocar uma bateria em qualquer invenção que precise de energia com o custo de 3 ações, assim como trocá-la. Você também pode recarregar uma bateria instantaneamente utilizando Mana, gastando 7d4 Pontos de Mana no processo.
+Você agora pode criar baterias que se recarregam ao serem expostas a luz do sol ou a qualquer outra fonte de energia elétrica, caso você tenha capacidade de recarregá-las com ela. Uma bateria demora 8 horas para se recarregar, e tem duração de 1 semana. Você pode colocar uma bateria em qualquer invenção que precise de energia com o custo de 3 Ações, assim como trocá-la. Você também pode recarregar uma bateria instantaneamente utilizando Mana, gastando 7d4 Pontos de Mana no processo.
 
 Para construir uma bateria é necessário gastar 30po em materiais, e 4 horas.
 

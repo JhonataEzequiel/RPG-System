@@ -161,7 +161,7 @@ Essa Habilidade terá efeito apenas quando 100 almas sejam colhidas pela Habilid
 
 **Requisitos**: 10 de Destreza, 1 de Inteligência.
 
-Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus Ataques causarão dano mágico adicional, composto por 1d6 de Dano Radiante e 1d6 de outro tipo à sua escolha entre Raio, Fogo, Gelo, e sortilégio.
+Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus Ataques causarão dano mágico adicional, composto por 1d6 de Dano Radiante e 1d6 de outro tipo à sua escolha entre Raio, Fogo, Gelo, e Sortilégio.
 
 O multiplicador deste bônus aumenta conforme a quantidade de oponentes no Encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante, até o máximo de 5 inimigos.
 
@@ -182,7 +182,7 @@ A essência do mundo é a mudança. Você entende que iluminar este caminho para
 
 Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se estabilizar. Aliados no Raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
 
-Caso utilize em conjunto com a Habilidade "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
+Caso utilize em conjunto com a Habilidade Ofensiva "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
 
 ## Lua
 
@@ -193,7 +193,7 @@ Apesar de compreender a mudança constante da Vida, você procura por outro cami
 
 Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se cura de quaisquer condições negativas que estiver sobre você, incluindo Nocauteado. Esta Habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por Descanso Longo com esta Habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
 
-Caso utilize em conjunto com a Habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
+Caso utilize em conjunto com a Habilidade Ofensiva "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
 
 ## Aumento de Velocidade
 

@@ -6,7 +6,7 @@
 - Alcance: 108 metros
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você altera o local ao seu redor, fazendo com que o terreno assuma uma aparência ao seu comando. A ilusão afeta todos no alcance da Magia, que precisarão passar por um Teste de Resistência de Sabedoria CD 12 + Int + Car. Em caso de falha, as criaturas são atordoadas, e recebem uma penalidade de -2 em ataques até o fim da duração. Em caso de sucesso, eles são capazes de ver através da ilusão, mas ainda se sentem um pouco desnorteados, recebendo uma penalidade de -1 em rolagens de ataque. Criaturas com menos de 1 de Inteligência falham no Teste instantaneamente. 
+**Descrição:** Você altera o local ao seu redor, fazendo com que o terreno assuma uma aparência ao seu comando. A ilusão afeta todos no alcance da Magia, que precisarão passar por um Teste de Resistência de Sabedoria CD 12 + Int + Car. Em caso de falha, as criaturas são atordoadas, e recebem uma penalidade de -2 em ataques até o fim da duração. Em caso de sucesso, eles são capazes de ver através da ilusão, mas ainda se sentem um pouco desnorteados, recebendo uma penalidade de -1 em rolagens de Ataque. Criaturas com menos de 1 de Inteligência falham no Teste instantaneamente. 
 
 Você pode gastar um Ponto de Mana a mais para estender a duração da Magia para 1 hora. Você também pode gastar um Ponto de Mana para cada aliado que você quiser tornar imune aos efeitos da Magia.
 
