@@ -19,7 +19,6 @@
 | Maça Leve    | 4pp   | 1d4 + For de Impacto     | 1 de Força                | D em Força                | -                                                                  | 0                  | 1 kg   |
 | Espada Curta | 9pp   | 1d6 + Dex Perfurante     | 3 de Destreza             | C em Destreza             | -                                                                  | 0                  | 1 kg   |
 | Martelo Leve | 3pp   | 1d6 + For de Impacto     | 1 de Força                | D em Força                | -                                                                  | 0                  | 1.5 kg |
-| Rapieira     | 2po   | 1d10 + Dex Perfurante    | 4 de Destreza             | A em Destreza             | -                                                                  | 0                  | 1 kg   |
 | Wakizashi    | 6po   | 1d8 + Dex + For Cortante | 1 de Força, 4 de Destreza | D em Força, A em Destreza | Pode ser usada junto a Katana como se a Katana fosse uma Arma Leve | 0                  | 0.5 kg |
 | Shotel       | 5po   | 1d4 + Dex Cortante       | 2 de Destreza             | B em Destreza             | +3 para acertar o Ataque contra alvos usuários de escudo           | 0                  | 1 kg   |
 | Ngulu        | 4po   | 1d4 + For Cortante       | 2 de Força                | C em Força                | Causa o dobro de dano contra inimigos com a Condição Sangrando     | 0                  | 1 kg   |

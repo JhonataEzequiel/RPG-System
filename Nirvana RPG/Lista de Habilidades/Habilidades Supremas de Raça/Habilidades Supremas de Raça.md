@@ -37,7 +37,7 @@ Quando você possuir um objeto que naturalmente não pode se mover, você agora 
 
 **Requisitos**: Você é um Gnomo Feérico de Nível 10 ou superior.
 
-Ao receber dano e ter sua Proteção das Fadas desfeita, você reflete metade desse dano. O dano refletido não pode ultrapassar seu Nível. Além disso, sua quantidade de Pontos de Vida Temporários para receber o dano de outras fontes que não sejam Ataques aumenta em 10.
+Ao receber dano e ter sua Proteção das Fadas desfeita, você o reflete. O dano refletido não pode ultrapassar o triplo do seu Nível. Além disso, sua quantidade de Pontos de Vida Temporários para receber o dano de outras fontes que não sejam Ataques aumenta em 10.
 
 ## Floresta Interior
 
@@ -49,26 +49,13 @@ A vulnerabilidade a Dano de Fogo na primeira forma é perdida, mas você não ga
 
 **Requisitos**: Você é um Halfling de Nível 10 ou superior.
 
-Você agora pode adicionar metade do seu Bônus de Proficiência à Perícias que você não é perito. Uma vez ao dia você dobra todos os bônus de um Teste de Perícia. Você deve optar por fazer isso antes de rolar o Teste.
+Você agora pode adicionar metade do seu Bônus de Proficiência à Perícias que você não é perito. Uma vez ao dia você dobra todos os bônus de um Teste de Perícia. Você pode optar por fazer isso depois de rolar o Teste.
 
 ## Potencial Infinito
 
 **Requisitos**: Você é um Humano de Nível 10 ou superior.
 
-Você dedica 8 horas em algum momento da sua aventura para aprender com outras Raças, entendendo seus trejeitos, cultura, e modos de pensar. Você escolhe um dos seguintes bônus, e pode trocar de bônus escolhido sempre que se dedicar mais 8 horas:
-- Você consegue aplicar uma das runas básicas de Anão, obedecendo às regras das runas;
-- Você possui 1 uso da adaptação Élfica por dia;
-- Você possui a Habilidade passiva dos Elfos da Floresta "Bem no Alvo";
-- Seu Deslocamento aumenta em 6m com Uma Ação Bônus por uma Rodada, mimetizando a velocidade dos Elfos Negros;
-- Você agora pode meditar em seus sonhos enquanto estiver tendo um Descanso Longo, e se imaginar vivendo como uma criatura à sua escolha. Após isso, você terá +1 em todos os Testes contra aquela criatura. Você pode trocar a criatura quando tiver outro Descanso Longo;
-- O primeiro dano que você receber em um combate é diminuído em metade do seu Nível;
-- Você agora pode dedicar 1 hora do seu dia para meditar em silêncio, recebendo +1 em Testes de Ataque até ter um Descanso Longo;
-- Você aumenta seu Bônus de Proficiência em 3 pontos;
-- Você agora recupera o dobro de Vida em Descansos Curtos;
-- Você pode escolher um atributo para ter Vantagem em Testes dele uma vez por dia durante uma Rodada. Durante a Rodada em que usar essa característica, os demais Testes terão -4 para serem bem sucedidos;
-- No Nível 20 você pode escolher uma Habilidade adicional de custo 1 ou 2.
-- O dano base de seus Ataques Desarmados aumenta de 1d4 para 1d6.
-- Você agora consegue respirar embaixo d'água.
+O primeiro Atributo a atingir o Nível 10 recebe mais dois Pontos de Atributo, superando o limite padrão, e estabelecendo-se em no Nível 12. Alternativamente, você ganha 3 Pontos de Atributo, mas só pode alocar cada um deles nos Atributos de menor valor. Caso você aplique um Ponto de Atributo, e o Atributo escolhido não mais seja o de menor valor, deverá aplicar no Atributo que tem o menor valor atual.
 
 ## Aurora
 
@@ -86,7 +73,7 @@ O custo de Mana da Luna diminui em 3 pontos. Sempre que usar sua Luna você ganh
 
 **Requisitos**: Você é um Tártaro de Nível 10 ou superior.
 
-Seu Deslocamento com ou sem o casco aumenta em 1.5m. Você agora tem +5 em Testes de Atletismo.
+Seu Deslocamento com ou sem o casco aumenta em 3m. Você agora tem +5 em Testes de Atletismo, e se torna ignora os efeitos de Terreno Difícil ocasionados por água ou lama.
 
 ## Transmutar Essência
 
