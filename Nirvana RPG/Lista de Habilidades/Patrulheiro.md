@@ -1,15 +1,16 @@
 
-O Arquétipo do Patrulheiro é o caçador das florestas. Ele é especialista em observar seus arredores. Normalmente utiliza-se de Ataques a Distância para abater seus alvos, portanto Habilidades que beneficiem exclusivamente esse tipo de ofensiva estarão aqui.
+O Arquétipo do Patrulheiro é o caçador das florestas. Ele é especialista em observar seus arredores. Normalmente, utiliza-se de Ataques a Distância para abater seus alvos, portanto Habilidades que beneficiem exclusivamente esse tipo de ofensiva estarão aqui.
 
 ## Presa Ato I (Custo 1)
 
-**Requisitos**: 2 de Destreza.
+**Requisitos**: 2 de Destreza. Ser capaz de realizar um Ataque a Distância.
+**Custo**: Ação Bônus.
 
 Você tem +2 de Destreza até o início do seu próximo Turno após realizar um Ataque a Distância. No entanto, você tem -2 em Destreza até o início do seu próximo Turno se realizar um Ataque corpo a corpo.
 
 ## Presa Ato II (Custo 1)
 
-**Requisitos**: Habilidade "Presa Ato I" de custo 1. 3 de Destreza.
+**Requisitos**: Habilidade "Presa Ato I" de custo 1. 3 de Destreza. Ser capaz de realizar um Ataque a Distância.
 
 Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distância você agora acerta, mas causa apenas 1 de dano do tipo do Ataque.
 
@@ -46,7 +47,7 @@ Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá 
 
 ## Presa Ato III (Custo 2)
 
-**Requisitos**: Habilidade "Presa Ato II" de Custo 1. 3 de Inteligência.
+**Requisitos**: Habilidade "Presa Ato II" de Custo 1. 3 de Inteligência. Ser capaz de realizar um Ataque a Distância.
 **Custo**: Duas Ações.
 **Duração**: 3 Rodadas.
 

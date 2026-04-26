@@ -21,6 +21,12 @@ Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais 
 
 Você pode realizar dois Ataques seguidos sem se preocupar com a primeira penalidade. Ou seja, o segundo Ataque não receberá a penalidade de -5 para atacar. Por conseguinte, o terceiro Ataque terá uma penalidade de -5, e não de -10.
 
+## Inércia (Custo 1)
+
+**Requisitos**: 5 em Força, Destreza, ou Constituição.
+
+Você agora não pode realizar mais do que um Ataque por Turno. Além disso, você não poderá usar Habilidades de Ataque que tenham como Custo duas ou três Ações. Em troca, seus Ataques agora causam o dano de dois Ataques.
+
 ## Golpe Duplo (Custo 2)
 
 **Requisitos**: 2 de Destreza ou 2 de Força.
@@ -73,12 +79,6 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 
 Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer Imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o Atributo de Destreza na Iniciativa ao invés do Modificador sempre que o utilizar para acertar Ataques ou causar dano. Além disso, tem uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
-
-## Inércia (Custo 2)
-
-**Requisitos**: 5 em Força, Destreza, ou Constituição.
-
-Você agora não pode realizar mais do que um Ataque por Turno. Além disso, você não poderá usar Habilidades de Ataque que tenham como Custo 2 ou Três Ações. Em troca, seus Ataques agora causam o dano de dois Ataques.
 
 ## Golpe Triplo (Custo 3)
 

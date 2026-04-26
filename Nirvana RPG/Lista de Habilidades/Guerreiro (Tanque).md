@@ -4,9 +4,17 @@ O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas a proteção f
 ## Provocar (Custo 1)
 
 **Custo**: Ação Bônus.
-**Duração**: 2 Rodadas.
+**Duração**: Duas Rodadas.
 
 Provoca uma criatura ao alcance de seu Deslocamento. O alvo deverá passar por um Teste de Resistência de Sabedoria CD 10 + Car para evitar de ser provocado. Caso falhe, todos os Ataques dele serão focados em você.
+
+## Motor em Chamas (Custo 1)
+
+**Requisitos**: 3 de Constituição.
+**Custo**: Reação.
+**Duração**: Três Rodadas.
+
+Sempre que for afetado por Dano de Fogo você ignora quaisquer efeitos que diminuam seu Deslocamento, com exceção de Terreno Difícil.
 
 ## Pele Dura (Custo 1)
 
@@ -16,7 +24,9 @@ A sua pele torna-se mais resistente a medida que recebe danos e se cura, tornand
 
 **Custo**: Reação
 
-Você só pode usar essa Habilidade uma vez por Encontro, e não pode mais Atacar na Rodada que usar. Se o alvo estiver armado e te Atacar durante a duração, você pode realizar um Teste de Destreza utilizando o atributo como bônus (1d20 + Destreza), com a CD igual a CA do inimigo, para desarmá-lo. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra, e pode cancelar o Ataque, mas perderá a Ação de qualquer forma, estando sujeito as Penalidades de Ataques. Ou seja, caso ele cancele seu Ataque e queira Atacar novamente, o próximo teria -5 para acertar, e o terceiro teria -10. Caso você não consiga o desarmar, o dano recebido é reduzido conforme o seu Modificador de Destreza. Em caso de sucesso, a Arma utilizada por ele será arremessada uma distância igual ao seu Deslocamento. O alvo precisará andar até a Arma e apanhá-la, caso deseje a utilizar novamente.
+Você só pode usar essa Habilidade uma vez por Encontro, e não pode mais Atacar na Rodada que usar. 
+
+Se o alvo estiver armado e te Atacar durante a duração, você pode realizar um Teste de Destreza utilizando o atributo como bônus (1d20 + Destreza), com a CD igual a CA do inimigo, para desarmá-lo. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra, e pode cancelar o Ataque, mas perderá a Ação de qualquer forma, estando sujeito as Penalidades de Ataques. Ou seja, caso ele cancele seu Ataque e queira Atacar novamente, o próximo teria -5 para acertar, e o terceiro teria -10. Caso você não consiga o desarmar, o dano recebido é reduzido conforme o seu Modificador de Destreza. Em caso de sucesso, a Arma utilizada por ele será arremessada uma distância igual ao seu Deslocamento. O alvo precisará andar até a Arma e apanhá-la, caso deseje a utilizar novamente.
 
 ## Linha de Frente (Custo 1)
 

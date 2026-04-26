@@ -1,3 +1,6 @@
+
+O Arquétipo do Ferreiro governa todas as Habilidades relacionadas a confecção de Armas, Armaduras, e itens de metal não-mecânicos.
+
 ## Ferraria (Custo 1)
 
 **Requisitos**: 2 de Sabedoria. Você precisa ter uma Bigorna e um Martelo de Forja.

@@ -1,5 +1,5 @@
 
-Habilidades gerais de suporte que não necessariamente se encaixam em outra categoria.
+O Arquétipo do Suporte dedica-se apenas a auxiliar seus companheiros. Aqui se encontram as Habilidades de suporte que não se encaixam em outros arquétipos.
 
 ## União (Custo 2)
 

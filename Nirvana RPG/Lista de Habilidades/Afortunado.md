@@ -1,5 +1,5 @@
 
-O Arquétipo do Sortudo contém Habilidades relacionadas a manipulação de probabilidades.
+O Arquétipo do Afortunado contém Habilidades relacionadas a manipulação de probabilidades, ou a apostas.
 
 ## Sorte (Custo 1)
 

@@ -1,11 +1,5 @@
 
-Esse Arquétipo herda o nome da Pedra de Infusão Mundana, descrita nas regras de Infusão, no capítulo de Equipamentos. Diz respeito a personagens generalistas.
-
-## Bom Início (Custo 1)
-
-**Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
-
-Ganhe mais 1 Ponto de Atributo para alocar como quiser. Este ponto ignora o Limite Máximo para o Nível de um Atributo. Além disso, adicione 1d4 aos seus Pontos de Vida e Mana.
+Esse Arquétipo herda o nome da Pedra de Infusão Mundana, descrita nas regras de Infusão, no capítulo de Equipamentos. Diz respeito a personagens generalistas. Para Habilidades que utilizem seu Atributo de menor Nível, caso haja um empate entre eles, você pode escolher qual dos dois gostaria de utilizar.
 
 ## Equilíbrio (Custo 1)
 

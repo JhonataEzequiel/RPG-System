@@ -1,5 +1,5 @@
 
-O Arquétipo do Bardo engloba Habilidades relacionadas a música e controle de grupo (quando relacionado ao Atributo de Carisma).
+O Arquétipo do Bardo engloba Habilidades relacionadas a música e charme.
 
 ## Especialização Carismática (Custo 1)
 
@@ -7,50 +7,53 @@ O Arquétipo do Bardo engloba Habilidades relacionadas a música e controle de g
 
 Você poderá optar por uma das especializações disponíveis. Cada uma concederá características diferentes ao seu personagem.
 
-**Músico:** Sempre que tocar um instrumento suas magias de cura curarão 1d4 a mais do que o normal. No Nível 7 de Carisma esse dado aumenta para 1d8.
+**Músico:** Sempre que tocar um instrumento suas Magias de Cura curarão 1d4 a mais do que o normal. No Nível 7 de Carisma esse dado aumenta para 1d8.
 
 **Diplomata:** Sua capacidade de resolver disputas no diálogo e em negociações é maior do que a da maioria das pessoas. 
 	**Dado de diplomacia:** Você ganha um dado de diplomacia que poderá ser usado uma vez por Descanso Longo. O dado será 1d4 + Car. Quando usado, adicione o resultado num Teste de Conversação qualquer que você for fazer. O dado deverá ser utilizado antes de rolar o Teste. No Nível 7 de Carisma, o dado passa a ser 1d6 + Car.
 
-**Comerciante:** Tem Vantagem em Testes de Conversação para barganhar com alguém. Seu instinto de negócios é capaz de entender itens raros com mais facilidade. Adicione seu Modificador de Carisma a testes de arcanismo.
+**Comerciante:** Tem Vantagem em Testes de Conversação para barganhar com alguém. Seu instinto de negócios é capaz de entender itens raros com mais facilidade. Adicione seu Modificador de Carisma a Testes de Arcanismo.
 
 ## Hino da Coragem (Custo 1)
 
 **Requisitos**: Ser perito em Música.
 **Custo**: Uma Ação e 1 de Mana.
 **Alcance**: Deslocamento.
-**Duração**: 1 Encontro.
+**Duração**: Um Encontro.
 
-Você seleciona até 2 alvos no alcance desta Habilidade. Após isso, você toca uma música que os enche de força de vontade, fazendo-os ter +2 no próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantém os bônus até acertar.
+Você seleciona até 2 alvos no alcance desta Habilidade. Após isso, você toca uma música que os enche de força de vontade, fazendo-os ter +2 para acertar o próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantém os bônus até acertar.
 
 ## Canção Heroica (Custo 1)
 
 **Requisitos**: Ser perito em Música.
 **Custo**: Três Ações.
-**Duração**: 1 Rodada.
+**Duração**: Uma Rodada.
 
-Você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as Penalidades de Ataques de até 3 alvos à sua escolha durante a Rodada que a música iniciar. Para cada alvo escolhido você terá que gastar 2 de Mana. Para continuar com esta canção nos próximos turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de Rodadas igual ao número escolhido. Caso o resultado for menor, a canção parará, e caso for maior, ela continuará por uma rodada. Por exemplo, se você escolher 2 e o resultado for 3, a canção continuará por mais uma Rodada. Caso escolha 4 e o resultado seja 3, ela irá parar. Caso escolha 4 e o resultado seja 4, ela continuará por mais quatro Rodadas. Esta Habilidade consome Ações e Mana apenas na primeira vez que você executá-la, o que torna você livre em Rodadas posteriores.
+Você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as Penalidades de Ataques de até 3 alvos à sua escolha durante a Rodada que a música iniciar. Para cada alvo escolhido você terá que gastar 2 de Mana. Caso um alvo já não tenha Penalidades de Ataque por ter alguma Habilidade que as retire, ou efeito similar, você concede +10 para ele acertar o Ataque.
+
+Para continuar com esta canção nos próximos Turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. 
+- **Resultado Igual**: Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de Rodadas igual ao número escolhido. 
+- **Resultado Menor**: Caso o resultado for menor, a canção parará.
+- **Resultado Maior**: caso for maior, ela continuará por mias uma Rodada. 
+
+Esta Habilidade consome Ações e Mana apenas na primeira vez que você executá-la, o que torna você livre em Rodadas posteriores.
 
 ## Canção do Perecimento (Custo 1)
 
-**Requisitos**: 2 de Fé, 2 de Inteligência.
+**Requisitos**: 2 de Fé, 2 de Inteligência. Ser perito em Música.
 **Custo**: Uma Ação, 5 de Mana.
 
-Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento morrerão, incluindo você. Você pode escolher perder toda sua Mana permanentemente, assim como sua capacidade de conjurar qualquer Magia, não importando como a conseguiu, em troca de ser apenas Nocauteado. Criaturas com Resistência ou Imunidade a Dano Sombrio, assim como aquelas com a Condição Surdo são Imunes a essa Habilidade. Caso obtenham a Condição Surdo após ouvir a canção não serão mais afetadas.
+Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento que ouvirem a música morrerão, incluindo você. 
 
-## Cópia Amistosa (Custo 1)
+Você pode escolher perder toda sua Mana permanentemente, assim como sua capacidade de conjurar qualquer Magia, não importando como a conseguiu, em troca de ser apenas Nocauteado. Criaturas com Resistência ou Imunidade a Dano Sombrio, assim como aquelas com a Condição Surdo são Imunes a essa Habilidade. Caso obtenham a Condição Surdo após ouvir a canção não serão mais afetadas.
 
-**Requisitos**: 2 de Carisma. Um aliado com o qual você tenha compartilhado ao menos três Descansos Longos.
-
-Você aprendeu uma maneira de transferir conhecimento apenas por ter uma aliança com alguém, criando um laço de amizade e aprendendo como aquela pessoa pensa.
-
-Você pode copiar uma habilidade de um aliado seu. Ao ter um Descanso Longo, ele voluntariamente entrega essa Habilidade para você. Você ignora os Requisitos de Atributo dela, mas ainda terá que cumprir quaisquer outros. A Habilidade poderá ser usada até o fim do próximo Encontro que você tiver.
+Caso você seja Incapacitado ou morto antes da melodia finalizar, ela perderá o efeito.
 
 ## Consonância (Custo 2)
 
 **Requisitos**: 3 de Carisma. Ser perito em Música.
 
-Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de Atributo, Pontos de Vida Temporários, ou adicionar pontos para ajudar alguém a realizar uma Ação, você se utiliza da música para aumentar a quantidade de bônus concedido. A quantidade aumentada é igual ao seu Modificador de Carisma.
+Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de Atributo, Pontos de Vida Temporários, etc., você se utiliza da música para aumentar a quantidade de bônus concedido. A quantidade aumentada é igual ao seu Modificador de Carisma.
 
 ## Dissonância (Custo 2)
 
@@ -68,7 +71,7 @@ Você tem +4 em Testes de Conversação que visam enganar alguém, desde que sua
 
 **Requisitos**: 5 de Carisma.
 
-Uma vez por Descanso Longo, você pode adicionar seu Nível de Carisma a qualquer Teste que for realizar. Você deverá fazer isso antes de rolar o Teste. Caso obtenha sucesso no Teste, você pode continuar usando este bônus nos próximos Testes até falhar.
+Uma vez por Descanso Curto, você pode adicionar seu Nível de Carisma a qualquer Teste que for realizar. Você deverá fazer isso antes de rolar o Teste. Caso obtenha sucesso no Teste, você pode continuar usando este bônus nos próximos Testes até falhar.
 
 ## Indolente (Custo 3)
 

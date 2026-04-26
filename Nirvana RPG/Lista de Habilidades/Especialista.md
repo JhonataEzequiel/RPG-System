@@ -1,19 +1,19 @@
 
-O Especialista é aquele que decide se dedicar a poucos Atributos de uma vez.
+O Arquétipo do Especialista contém Habilidades características daqueles que decidem melhorar uma quantidade limitada de Atributos.
 
 ## Divergente (Custo 1)
 
-**Custo**: Uma Ação.
+**Custo**: Uma Ação, 2 de Mana.
 **Duração:** 1 Minuto.
 **Requisitos**: 5 de Sabedoria.
 
-Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu Nível de Sabedoria te proporciona a opção de trocar o Nível de um Atributo por outro. Você obtém +4 em Testes relacionados ao Atributo que originalmente tinha o menor valor. Você não pode trocar Atributos de mesmo valor. Só pode usar uma vez por Descanso Longo.
+Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu Nível de Sabedoria te proporciona a opção de trocar o Nível de um Atributo por outro. Você obtém +2 em Testes relacionados ao Atributo que originalmente tinha o menor valor. Você não pode trocar Atributos de mesmo valor. Só pode usar uma vez por Descanso Longo.
 
 Por exemplo, se você tiver 6 Níveis em Destreza e 2 Níveis em Carisma, e desejar trocá-los para tentar intimidar um oponente, você terá +4 no Teste de Conversação para o intimidar, além de aplicar o novo Modificador.
 
 ## Minhas Regras (Custo 2)
 
-Você ignora o Limite Máximo de nível de Atributo por level. Você pode escolher um atributo e evoluir apenas ele além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
+Você ignora o Limite Máximo de nível de Atributo por level. Você pode escolher um atributo e evoluir ele além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
 
 ## Polivalente (Custo 3)
 
