@@ -123,9 +123,9 @@ Por último, na primeira vez que utilizar uma Habilidade que tenha custo de Aç�
 
 ## Alquimista Supremo
 
-**Requisitos**: 3 de Inteligência ou Sabedoria.
+**Requisitos**: Habilidade Geral "Alquimista Iniciante" de Custo 2. 3 de Inteligência ou Sabedoria.
 
-Você agora pode tomar qualquer Poção como uma Ação Bônus, e aplicar qualquer Veneno como uma Ação Bônus. Poções de Restauração curam o máximo possível sempre que consumidas.
+Você agora pode tomar qualquer Poção como uma Ação Bônus, e aplicar qualquer Veneno como uma Ação Bônus. Poções de Restauração curam o máximo possível sempre que consumidas. O tempo para criar uma poção agora é de apenas uma Rodada.
 
 ## Guepardo
 
@@ -248,6 +248,14 @@ A troca em si não vai impactar aspectos narrativos do seu personagem, como torn
 Ao conjurar 10 Magias de uma mesma categoria sem alternar, ou seja, sem utilizar outra categoria, você diminui permanentemente o custo de Mana das magias daquela categoria em 1 ponto. Comece a contar a partir do momento que você adquirir essa Habilidade. 
 
 Essa Habilidade pode ser pega múltiplas vezes, e seus efeitos são cumulativos. 
+
+## Mestre Botânico
+
+**Requisitos**: Habilidade Geral "Alquimista Supremo" de Custo 3.
+
+Você agora pode juntar os efeitos de múltiplas poções em uma só. Para cada efeito que você quiser, terá que somar os custos (lembrando que você gasta apenas metade dos custos em materiais, então somará as metades de cada poção). A poção resultante concederá todos os bônus individuais ao ser consumida.
+
+De maneira análoga, você pode juntar os efeitos de múltiplos venenos ao mesmo tempo, mas não poderá somar o dano deles. O dano que prevalecerá será o do maior. No entanto, todos os venenos que você criar a partir de agora causarão 2d8 a mais de Dano Venenoso Contínuo, caso eles já causassem esse tipo de dano antes.
 
 ## Nirvana
 

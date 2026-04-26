@@ -19,7 +19,7 @@ Todos no alcance da Magia perderão o controle de si próprios caso falhem num T
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca uma criatura viva. Ela terá que passar por uma Salvaguarda de Constituição CD 11 + Int + Fth. Caso seja bem sucedida, o sangue da criatura começa a coagular lentamente, o que a faz tomar 20d6 de Dano Verdadeiro de Sangue, e ficará Incapacitada pelo resto do Encontro. Caso falhe, o coração da criatura é explodido, o que a mata instantaneamente.
+**Descrição:** Você toca uma criatura viva. Ela terá que passar por uma Salvaguarda de Constituição CD 9 + Int + Fth. Caso seja bem sucedida, o sangue da criatura começa a coagular lentamente, o que a faz tomar 20d6 de Dano Verdadeiro de Sangue, e ficará Incapacitada pelo resto do Encontro. Caso falhe, o coração da criatura é explodido, o que a mata instantaneamente.
 
 ### Magia Carmesim
 

@@ -263,3 +263,7 @@ Ao entrar em combate você pode utilizar qualquer Arcano Menor que quiser, ignor
 **Requisitos**: 6 de Destreza.
 
 Seu Deslocamento aumenta pela metade enquanto estiver Invisível.
+
+## Alquimista Iniciante
+
+Você consegue agora criar poções e venenos caso tenha um Almofariz. O custo para criar as poções é metade do custo padrão delas. O tempo para criar uma poção é de 30 minutos.

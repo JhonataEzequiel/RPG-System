@@ -132,6 +132,14 @@ Ao atingir o Nível 8 em Força ou Destreza, o dano de itens arremessáveis aume
 
 A escolha dos atributos utilizados é feita ao adquirir essa habilidade, e não pode ser desfeita.
 
+## Mestre em Explosões
+
+**Requisitos**: Habilidade Ofensiva "Lança Granadas" de Custo 1.
+
+Seus itens arremessáveis que causam dano agora possuem Escalas similar as Armas, recebendo os mesmos benefícios que elas. No entanto, os benefícios do Nível 10 de um Atributo nas Escalas é substituído por dano adicional igual ao valor para acertar os Ataques descrito na tabela de Escalas.
+
+Você escolhe se as Escalas serão em Força, Destreza, ou em ambos os Atributos. Inicialmente, as Escalas serão D em ambos. Ao atingir o Nível 3 de personagem, elas sobem para C. No Nível 6, B. No Nível 12, A. E no Nível 17, S.
+
 ## Fluxo do Rio
 
 **Requisitos**: 5 de Destreza.

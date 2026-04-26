@@ -224,6 +224,8 @@ Azul: 6 de inteligência. Imaculada.
 
 Sol e a Lua: 6 de inteligência. Elemental.
 
+Estalo: 6 de Inteligência. Imaculada.
+
 ### Custo 7:
 
 Convocar Ajuda: 7 de inteligência, carisma, ou fé. Imaculada.

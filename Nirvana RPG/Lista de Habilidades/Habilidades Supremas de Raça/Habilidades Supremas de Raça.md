@@ -13,7 +13,7 @@ Essa Runa só é ativa se todas as outras estiverem ativas. Ao desativar essa Ru
 
 **Requisitos**: Você é um Alto Elfo de Nível 10 ou superior.
 
-O limite de uma vez ao dia para a Adaptação Élfica é aumentado para cinco vezes ao dia.
+O limite de uma vez ao dia para a Adaptação Élfica é removido. Você agora pode usar quantas vezes quiser.
 
 ## Visão Melhorada
 
@@ -61,7 +61,7 @@ O primeiro Atributo a atingir o Nível 10 recebe mais dois Pontos de Atributo, s
 
 **Requisitos**: Você é um Siderium Diurnus de Nível 10 ou superior.
 
-Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se energizar novamente. No entanto, caso você utilize ela uma segunda vez você terá Desvantagem em Ataques, Testes de Perícias, e Salvaguardas, além de não poder mais conjurar Magias até se energizar novamente.
+Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se energizar novamente. No entanto, caso você utilize ela uma segunda vez você terá a Condição Exaustão 3.
 
 ## Crepúsculo
 

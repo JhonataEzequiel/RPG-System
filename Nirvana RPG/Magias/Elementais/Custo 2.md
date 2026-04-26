@@ -7,7 +7,7 @@
 
 **Descrição:** Faz surgir uma espada longa feita de água em constante movimento, sendo tão rápida que é capaz de cortar. Causa 2d8 + Dex de Dano Cortante por ataque. Tem escala D em Força e C em Inteligência.
 
-Caso haja uma fonte de água próxima com, no mínimo, 10 litros de água, você pode utilizar essa água como matéria prima da espada, reduzindo o custo da Magia em 1 ponto.
+Caso haja uma fonte de água próxima com, no mínimo, 10 litros de água, você pode utilizar essa água como matéria prima da espada, reduzindo o custo da Magia em 1 ponto. A água gasta volta ao seu estado normal após o fim da magia, e você pode utilizá-la novamente, caso a mantenha em um recipiente adequado.
 
 Você também pode aumentar o dano da espada em 1d8 gastando por Ponto de Mana adicional gasto.
 

@@ -20,7 +20,7 @@ Após a duração, tanto a armadura quanto a arma, ainda que o alvo deseje conti
 - Alcance: 9m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Escolha uma criatura alvo no alcance da Magia. Uma bolha de ar cerca a cabeça da criatura, a permitindo respirar. O ar se renova de tempos em tempos, impedindo que a mesma sufoque até o fim da Magia.
+**Descrição:** Escolha uma criatura alvo no alcance da Magia. Uma bolha de ar cerca a cabeça da criatura, a permitindo respirar mesmo em locais sem ar. O ar se renova de tempos em tempos, impedindo que a mesma sufoque até o fim da Magia.
 
 ### Conjurar Golem Menor
 
@@ -35,7 +35,7 @@ Após a duração, tanto a armadura quanto a arma, ainda que o alvo deseje conti
 - **CA:** 12
 - **Dano:** 1d6 + 2 de Dano de Impacto por ataque corpo a corpo.
 
-O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas vivas, como Magias de sangue e a maioria das curas sagradas. Caso o golem seja destruído antes do fim do Encontro, a Magia se encerra.
+O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas vivas, como Magias de sangue. Caso o golem seja destruído antes do fim do Encontro, a Magia se encerra. O golem possui uma Ação e uma Ação Bônus, e o Turno dele é logo após o seu.
 
 ### Criar Água
 
@@ -44,7 +44,7 @@ O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas
 - Alcance: 3m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você faz com que saia água de suas mãos, até um total de 8 litros.
+**Descrição:** Você faz com que saia água de suas mãos, até um total de 8 litros. Para cada Ponto de Mana adicional gasto, você cria outros 6 litros de água.
 
 ### Jato D'água
 

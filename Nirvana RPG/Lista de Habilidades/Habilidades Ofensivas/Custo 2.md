@@ -9,7 +9,7 @@ Você ataca novamente imediatamente após realizar um Ataque, causando metade do
 
 **Custo**: Ação Bônus.
 
-Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 15 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual ao da Arma que você utilizar.
+Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 4d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual ao da Arma que você utilizar.
 
 ## Investida
 
@@ -91,7 +91,7 @@ Sua lâmina agora é energizada com força divina que vem de dentro de você, n�
 
 **Requisitos**: 3 de Inteligência. 3 de Fé.
 
-Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo. Além disso, aumente sua Mana em 1d6 permanentemente.
+Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo. Além disso, aumente sua Mana em 1d4 permanentemente.
 
 ## Atirador Aéreo
 

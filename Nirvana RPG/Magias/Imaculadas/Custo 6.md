@@ -29,3 +29,12 @@ Caso o alvo não queira ser afetado, ele realiza uma Salvaguarda de Carisma ou I
 - Tempo de Conjuração: Três Ações
 
 **Descrição:** Você escolhe uma Magia escrita em seu grimório e a pinta de azul com uma tinta mágica. Até que a tinta seque, o que ocorre no próximo descanso longo, todas as Magias contidas naquele grimório ficam inacessíveis, independente de como ele esteja sendo carregado. O grimório deverá permanecer aberto durante esse período. Uma vez seca, a tinta se funde com a Magia e as letras escritas lá ficam na cor azul. A Magia escolhida não mais contará para o número máximo de Magias que você pode ter naquele grimório. Você pode utilizar essa Magia um total de cinco vezes por grimório.
+
+### Estalo
+
+- Requisito em Inteligência: 6
+- Duração: Três Rodadas
+- Alcance: 18m
+- Tempo de Conjuração: Uma Ação
+
+**Descrição:** Você escolhe uma criatura alvo no alcance da Magia. O Deslocamento da criatura aumenta em 18m. Você pode escolher gastar Pontos de Mana adicionais para aumentar mais ainda o Deslocamento. Você aumenta o Deslocamento da criatura em 4.5m por Ponto de Mana adicional gasto.
