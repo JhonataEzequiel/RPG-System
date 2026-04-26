@@ -1,5 +1,5 @@
 
-Todas as Habilidades Supremas de Raça custam 3 pontos de Habilidade para serem adquiridas, e representam seres que se alinham com suas características raciais mais do que outros.
+Todas as Habilidades Raciais custam 3 pontos de Habilidade para serem adquiridas, e representam seres que se alinham com suas características raciais mais do que outros.
 
 ## Runa de Jade
 
