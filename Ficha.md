@@ -8,7 +8,6 @@
 | ----------- | ----- |
 | **Nome**    |       |
 | **Raça**    |       |
-| **Classe**  |       |
 | **Nível**   |       |
 | **Jogador** |       |
 
@@ -58,11 +57,10 @@
 
 ## 🛡️ Combate
 
-| Campo              | Valor |
-|--------------------|-------|
-| Classe de Armadura |       |
-| Iniciativa         |       |
-| Capacidade de Carga|       |
+| Campo               | Valor |
+| ------------------- | ----- |
+| Classe de Armadura  |       |
+| Iniciativa          |       |
 
 ---
 
@@ -146,6 +144,12 @@
 
 ## 🎒 Equipamentos
 
+
+| Capacidade de Carga Atual | Capacidade de Carga Total |
+| ------------------------- | ------------------------- |
+|                           |                           |
+
+
 ### Armas
 
 
@@ -168,8 +172,3 @@
 | PL   |            |
 
 ---
-
-## 📝 Anotações
-
-> _Espaço livre para notas, histórico, objetivos ou qualquer informação adicional sobre o personagem._
-

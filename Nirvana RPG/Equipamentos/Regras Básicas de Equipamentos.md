@@ -58,4 +58,4 @@ Armas que disparam projéteis consomem uma unidade de munição por Ataque. Apó
 
 Moedas ditam a economia do jogo e servem como tesouro básico. Preços variam por local e raridade do item.
 
-[[Armaduras]] [[Armas]] [[Escudos]] [[Moedas]] [[Itens Únicos e Mágicos]] [[Instrumentos Musicais]] [[Grimórios]] [[Poções e Venenos]] [[Arremessáveis]] [[Infusões]] [[Outros Itens]]
+[[Armaduras]] [[Armas]] [[Escudos]] [[Moedas]] [[Nirvana RPG/Equipamentos/Itens Únicos e Itens Mágicos/Itens Únicos e Mágicos]] [[Instrumentos Musicais]] [[Grimórios]] [[Poções e Venenos]] [[Arremessáveis]] [[Infusões]] [[Outros Itens]]
