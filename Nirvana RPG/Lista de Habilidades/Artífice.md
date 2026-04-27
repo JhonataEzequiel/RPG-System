@@ -41,9 +41,9 @@ Você gasta o equivalente a 15po em materiais para criar um Autômato Mediano, e
 
 Você agora pode criar engenhocas que guardam efeitos mágicos de Magias. Você define o formato e aparência do objeto, desde que seja de tamanho minúsculo ou pequeno, e que ele contenha algum tipo de "gatilho" para acionar a Magia, como um botão. Aquele que utilizar a engenhoca é considerado como o conjurador para os cálculos necessários, como dano ou Salvaguardas.
 
-Para que uma Magia seja guardada dentro da invenção, é necessário que você ou um aliado conjure a Magia, e queria que ela seja guardada. A máquina então precisará estar energizada, seja pela luz do sol, seguindo as regras dos autômatos, ou por mana, gastando 2 Pontos de Mana por Nível da Magia. A invenção não descarrega com o tempo, apenas ao ser utilizada, necessitando novamente de energia. A Magia contida na engenhoca não desaparece, e pode ser usada repetidas vezes, caso ela seja recarregada.
+Para que uma Magia seja guardada dentro da invenção, é necessário que você ou um aliado conjure a Magia, e queira que ela seja guardada. A máquina então precisará estar energizada, seja pela luz do sol, depois de passar 2 horas sob ela, ou por mana, gastando 2 Pontos de Mana por Nível da Magia. A invenção não descarrega com o tempo, apenas ao ser utilizada, necessitando novamente de energia. A Magia contida na engenhoca não desaparece, e pode ser usada repetidas vezes, caso ela seja recarregada.
 
-Ao utilizar uma Bateria criada pela Habilidade "Baterias" de Custo 3, você pode utilizar uma mesma engenhoca dessas três vezes antes de precisar recarregar.
+Ao utilizar uma Bateria criada pela Habilidade "Baterias" de Custo 3, você pode utilizar uma mesma engenhoca dessas três vezes antes de precisar recarregar. A invenção pesa 2 kg, e custa 15po para ser feita.
 
 ## Bucaneiro (Custo 3)
 
