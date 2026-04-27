@@ -1,6 +1,12 @@
 
 O Arquétipo do Suporte dedica-se apenas a auxiliar seus companheiros. Aqui se encontram as Habilidades de suporte que não se encaixam em outros arquétipos.
 
+## Curandeiro (Custo 1)
+
+**Requisitos**: 3 de Fé ou Carisma.
+
+Sempre que realizar uma cura a um único alvo, você pode selecionar outro alvo para curá-lo em 1d4 + Fth ou Car gratuitamente. Ao atingir o Nível 10, esse valor aumenta para 1d6 + Fth ou Car. No nível 16, aumenta para 1d8 + Fth ou Car.
+
 ## União (Custo 2)
 
 **Requisitos**: 3 de Carisma, 2 de Fé.

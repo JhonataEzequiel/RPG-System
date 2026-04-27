@@ -1,11 +1,5 @@
 
-O Arquétipo do Fiel contém Habilidades relacionadas a poderes e deveres sacerdotais, além de guerreiros de fé.
-
-## Curandeiro (Custo 1)
-
-**Requisitos**: 3 de Fé ou Carisma.
-
-Sempre que realizar uma cura a um único alvo, você pode selecionar outro alvo para curá-lo em 1d4 + Fth gratuitamente. Ao atingir o Nível 10, esse valor aumenta para 1d6 + Fth. No nível 16, aumenta para 1d8 + Fth.
+O Arquétipo do Fiel contém Habilidades relacionadas a poderes e deveres sacerdotais, e a paladinos.
 
 ## Agente Divino (Custo 1)
 

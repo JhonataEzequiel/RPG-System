@@ -37,9 +37,9 @@ Você gasta o equivalente a 15po em materiais para criar um Autômato Mediano, e
 
 ## Gatilhos Mágicos (Custo 2)
 
-**Requisitos**: Habilidade "Autômatos Menores" de Custo 1. 4 de Inteligência.
+**Requisitos**: 4 de Inteligência.
 
-Você agora pode criar engenhocas que guardam efeitos mágicos de Magias. Você define o formato e aparência do objeto, desde que seja de tamanho minúsculo ou pequeno, e que ele contenha algum tipo de "gatilho" para acionar a Magia, como um botão. Aquele que utilizar a engenhoca é considerado como o conjurador para os cálculos necessários, como dano ou Salvaguardas.
+Você agora pode criar engenhocas que guardam efeitos mágicos de Magias. Você define o formato e aparência do objeto, desde que seja de tamanho minúsculo ou pequeno, e que ele contenha algum tipo de "gatilho" para acionar a Magia, como um botão. Aquele que utilizar a engenhoca é considerado como o conjurador para os cálculos necessários, como dano ou Salvaguardas. Você também pode utilizar esses objetos como objetos de acionamento automático, criando armadilhas com eles, desde que o gatilho de acionamento seja bem definido.
 
 Para que uma Magia seja guardada dentro da invenção, é necessário que você ou um aliado conjure a Magia, e queira que ela seja guardada. A máquina então precisará estar energizada, seja pela luz do sol, depois de passar 2 horas sob ela, ou por mana, gastando 2 Pontos de Mana por Nível da Magia. A invenção não descarrega com o tempo, apenas ao ser utilizada, necessitando novamente de energia. A Magia contida na engenhoca não desaparece, e pode ser usada repetidas vezes, caso ela seja recarregada.
 
