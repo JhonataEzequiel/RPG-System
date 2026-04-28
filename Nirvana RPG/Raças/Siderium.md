@@ -4,9 +4,9 @@ Os Siderium são parentes distantes dos Elfos, que compartilham de uma origem em
 
 Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu noturno, como se fosse possível ver o espaço sideral através deles. Eles recebem e convertem a energia das luzes, e a utilizam para ficar mais fortes.
 
-**Helius** (Ação Bônus): Caso fique 8 horas em contato direto com uma luz em um momento anterior ao uso desta Habilidade, você receberá os benefícios de um Descanso Longo sem precisar descansar. Só pode usar essa habilidade uma vez até se energizar de novo. 
+**Helius** (Ação Bônus): Caso fique 8 horas em contato direto com luz solar, ou uma fonte de luz potente (pelo menos uma fogueira) em um momento anterior ao uso desta Habilidade, você receberá os benefícios de um Descanso Longo sem precisar descansar. Só pode usar essa habilidade uma vez até se energizar de novo. 
 
-**Requerimento Luminoso** (Passiva): Você só pode se curar por meio de Descansos ou Magias de Cura, e não pode descansar em locais completamente escuros, devendo haver ao menos uma fonte de luz mínima que te energize, como uma tocha. As Magias de Cura, no entanto, curarão apenas metade do total, arredondado para cima.
+**Requerimento Luminoso** (Passiva): Ao usar a Habilidade "Helius" em um Encontro, você receberá 1d6 de Dano Verdadeiro Contínuo até o Encontro acabar. Caso utilize fora de combate, você terá Exaustão 1. Caso utilize o Helius em batalha, e a batalha acabe com você ainda vivo, você também terá o efeito de Exaustão.
 
 **Minnerva** (Passiva) : Os Siderium Diurnus tem um bônus de +2 em Testes de Sabedoria.
 
@@ -14,5 +14,4 @@ Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu notur
 
 Os Nocturnus refletem o céu noturno através de sua pele, possuindo olhos azuis ou dourados sem pupila. Seus cabelos são totalmente brancos ou amarelos.
 
-**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles, que os permite direcionar o foco de suas mentes quando necessário. Você se torna proficiente em todas as Salvaguardas por 1 Encontro. Só pode ser usada uma vez por Encontro.
-
+**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles, que os permite direcionar o foco de suas mentes quando necessário. Você se torna proficiente em todas as Salvaguardas por um Encontro. Nas Salvaguardas que você já for proficiente, você dobrará o Bônus de Proficiência. Só pode ser usada uma vez por Encontro.

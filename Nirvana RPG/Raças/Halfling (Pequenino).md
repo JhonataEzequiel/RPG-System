@@ -12,7 +12,7 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 ### Pés Aconchegantes
 
-**Caseiro** (Passiva): Toda vez que tiver um Descanso Curto ou Longo, adicione o dobro de seu Bônus de Proficiência como Pontos de Vida Temporários. Eles só acabam quando você tiver um Descanso Curto, ou perdê-los ao sofrer danos.
+**Caseiro** (Passiva): Toda vez que tiver um Descanso Curto ou Longo, adicione o dobro de seu Bônus de Proficiência como Pontos de Vida Temporários. Eles só acabam quando você tiver um Descanso, ou perdê-los ao sofrer danos.
 
 **Preparação** (Passiva): Sempre que fizer um Descanso Longo você pode estendê-lo por mais duas horas. Caso faça isso, seu Bônus de Proficiência dobrará até o início do seu próximo Encontro. Essa Habilidade pode ser usada em conjunto com a Habilidade "Caseiro".
 
@@ -20,4 +20,4 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 **Vagante** (Passiva): Você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma condição negativa.
 
-**Mercador** (passiva): A cada 5 itens comprados ou vendidos que valham mais do que 15po você aumenta permanentemente o seu Bônus de Proficiência em 1 ponto. Você pode fazer isso no máximo 3 vezes. Uma vez atingido o número máximo, você tem +1 em Testes de Conversação visando realizar uma barganha.
+**Mercador** (passiva): Ao vender ou comprar 5 itens, você ganha 1 Ponto de Habilidade. Você pode fazer isso até 3 vezes. O valor mínimo do primeiro item deve ser de 50po, e aumenta em 50po a cada item. Caso você venda um item e o compre novamente, ou vice e versa, este item contará apenas uma vez.

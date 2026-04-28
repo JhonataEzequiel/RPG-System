@@ -6,7 +6,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Brande o próprio sangue para conjurar uma espada feita de sangue coagulado. Ela é tão afiada quanto qualquer outra espada, e consegue afetar seres intangíveis (invulneráveis a dano físico). Você perde 2d4 de vida para conjurar a lâmina, que causa 4d4 + for de Dano Cortante. Ela tem escala B com Fé e D com Inteligência.
+**Descrição:** Brande o próprio sangue para conjurar uma espada feita de sangue coagulado. Ela é tão afiada quanto qualquer outra espada, e consegue afetar seres intangíveis (invulneráveis a dano físico). Você perde 2d4 de vida para conjurar a lâmina, que causa 4d4 + For de Dano Cortante. Ela tem escala B com Fé e D com Inteligência.
 
 Você também pode gastar 2 Pontos de Mana e 1d6 de vida para fazer o sangue ferver, causando 2d4 + Int de Dano de Fogo adicional. Alternativamente, você pode gastar 2 Pontos de Mana e 1d6 de vida para que cada ataque seu faça o sangue do oponente borbulhar transformar todo o dano em Dano Verdadeiro, causando 4d4 + for de Dano Verdadeiro.
 

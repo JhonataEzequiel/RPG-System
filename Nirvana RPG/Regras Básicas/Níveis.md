@@ -60,10 +60,10 @@ Caso seu Modificador de Constituição ou Sabedoria aumente em Níveis futuros, 
 
 Você receberá Pontos de Atributo e Pontos de Habilidade para utilizarem da maneira que quiser, seguindo a tabela a seguir:
 
-| Nível Novo do Jogador | Pontos Ganhos |
-| --------------------- | ------------- |
-| 5, 10, 15, ou 20      | +2            |
-| Outros                | +1            |
+| Nível Novo Alcançado | Pontos Ganhos |
+| -------------------- | ------------- |
+| 5, 10, 15, ou 20     | +2            |
+| Outros               | +1            |
 
 ## Compromisso Adiantado
 

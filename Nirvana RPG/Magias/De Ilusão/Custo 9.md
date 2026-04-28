@@ -22,7 +22,7 @@ Caso a criatura obtenha sucesso no Teste, recebe apenas 4d6 + Car de Dano Psíqu
 
 **Descrição:** Você toca uma criatura alvo, que terá que passar por uma Salvaguarda de Sabedoria CD 12 + Int + Car. 
 
-Em caso de falha, o alvo entra em um estado de choque imediato, se desconectando da realidade. O alvo confundirá amigos com inimigos, ouvirá vozes estranhas, sentirá toques e cheiros que não existem, acreditará que está sendo perseguido por alguém, etc. O alvo fica Incapacitado pela duração, e não pode se libertar por conta própria, sendo necessário ajuda externa de alguma forma, como uma Magia capaz de curar condições. Ele recebe Dano Psíquico contínuo enquanto a condição durar de 4d8 + Int + Car. Em caso de sucesso, o dano cai pela metade e o alvo não fica Incapacitado, mas terá -3 em ataques pelo resto do encontro.
+Em caso de falha, o alvo entra em um estado de choque imediato, se desconectando da realidade. O alvo confundirá amigos com inimigos, ouvirá vozes estranhas, sentirá toques e cheiros que não existem, acreditará que está sendo perseguido por alguém, etc. O alvo fica Incapacitado pela duração, e não pode se libertar por conta própria, sendo necessário ajuda externa de alguma forma, como uma Magia capaz de curar condições. Ele recebe Dano Psíquico contínuo enquanto a condição durar de 4d8 + Int + Car. Em caso de sucesso, o dano cai pela metade e o alvo não fica Incapacitado, mas terá -3 em Ataques pelo resto do Encontro.
 
 ### Horror de Argila
 

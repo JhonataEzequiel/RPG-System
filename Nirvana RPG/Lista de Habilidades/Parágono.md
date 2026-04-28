@@ -61,7 +61,7 @@ O primeiro Atributo a atingir o Nível 10 recebe mais dois Pontos de Atributo, s
 
 **Requisitos**: Você é um Siderium Diurnus de Nível 10 ou superior.
 
-Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se energizar novamente. No entanto, caso você utilize ela uma segunda vez você terá a Condição Exaustão 3.
+Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se energizar novamente. No entanto, os efeitos do Requerimento Luminoso são aumentados. Você receberá 1d10 de Dano Verdadeiro acrescidos ao 1d6 padrão, e Exaustão 3 ao invés de Exaustão 1.
 
 ## Crepúsculo (Custo 3)
 
@@ -73,7 +73,7 @@ O custo de Mana da Luna diminui em 3 pontos. Sempre que usar sua Luna você ganh
 
 **Requisitos**: Você é um Tártaro de Nível 10 ou superior.
 
-Seu Deslocamento com ou sem o casco aumenta em 3m. Você agora tem +5 em Testes de Atletismo, e se torna ignora os efeitos de Terreno Difícil ocasionados por água ou lama.
+Seu Deslocamento com ou sem o casco aumenta em 3m. Você agora tem +5 em Testes de Atletismo, e ignora os efeitos de Terreno Difícil ocasionados por água ou lama.
 
 ## Transmutar Essência (Custo 3)
 

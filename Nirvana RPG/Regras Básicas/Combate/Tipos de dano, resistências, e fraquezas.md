@@ -2,11 +2,11 @@ Dependendo do Ataque realizado, o dano pode vir de fontes diferentes, sendo elas
 
 ## Dano Contínuo
 
-Pode haver casos em que um dano persistirá por um tempo especificado. Tais casos serão chamados de “Dano Contínuo”, e continuarão até o efeito acabar. No início de cada turno de quem sofreu o Dano Continuo, ele receberá a quantidade de dano especificada na descrição do Ataque/Magia. Além disso, ao ser afetado por Dano Contínuo o alvo recebe imediatamente uma instância do dano.
+Pode haver casos em que um dano persistirá por um tempo especificado. Tais casos serão chamados de “Dano Contínuo”, e continuarão até o efeito acabar. No início de cada turno de quem sofreu o Dano Continuo, ele receberá a quantidade de dano especificada na descrição do Ataque ou Magia. Além disso, ao ser afetado por Dano Contínuo o alvo recebe imediatamente uma instância do dano.
 
 ## Dano Físico
 
-Dano Físico vem de qualquer tipo de ataque que não contenha Magias, ou seja, qualquer ataque realizado apenas com a força física (ou destreza) de alguém. Existem três tipos de Dano Físico, o Dano Cortante, o Perfurante, e o de Impacto (ou Contundente). Cada arma ou personagem que cause Dano Físico terá em sua descrição quais tipos de Dano Físico especificamente ele consegue causar. O Dano Cortante é normalmente causado por muitos tipos de armas, e basicamente trata-se de cortes que podem ser realizados em diferentes direções. O Dano Perfurante é quando se atinge o oponente com algum tipo de objeto ou Habilidade capaz de perfurar, como um golpe de lança. O Dano de Impacto é normalmente causado por maças, Ataques Desarmados, e Ataques baseados em Força.
+Dano Físico vem de qualquer tipo de ataque que não contenha Magias, ou seja, qualquer Ataque realizado apenas com a Força (ou Destreza) de alguém. Existem três tipos de Dano Físico, o Dano Cortante, o Perfurante, e o de Impacto (ou Contundente). Cada arma ou personagem que cause Dano Físico terá em sua descrição quais tipos de Dano Físico especificamente ele consegue causar. O Dano Cortante é normalmente causado por muitos tipos de armas, e basicamente trata-se de cortes que podem ser realizados em diferentes direções. O Dano Perfurante é quando se atinge o oponente com algum tipo de objeto ou Habilidade capaz de perfurar, como um golpe de lança. O Dano de Impacto é normalmente causado por maças, Ataques Desarmados, e Ataques baseados em Força.
 
 ## Dano Ácido e Dano Venenoso
 

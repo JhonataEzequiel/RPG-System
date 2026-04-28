@@ -10,7 +10,7 @@ Existem certas atividades que não gastam Ação alguma durante o Turno para ser
 
 ## Ações Bônus
 
-Ações Bônus são aquelas que podem ser utilizadas no mesmo Turno sem consumir uma Ação Padrão. Normalmente são dadas com Magias e Habilidades específicas. O mestre também pode decidir dar uma Ação Bônus para um jogador dependendo da situação, como quando um jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. **Todos podem usar apenas uma Ação Bônus por Turno.** Caso deseje usar uma segunda Ação Bônus no mesmo Turno, ela será tratada como uma Ação Padrão, consumindo uma das três Ações disponíveis.
+Ações Bônus são aquelas que podem ser utilizadas no mesmo Turno sem consumir uma Ação Padrão. Normalmente são dadas com Magias e Habilidades específicas. O mestre também pode decidir dar uma Ação Bônus para um jogador dependendo da situação, como quando um jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. Todos podem usar apenas uma Ação Bônus por Turno. Caso deseje usar uma segunda Ação Bônus no mesmo Turno, ela será tratada como uma Ação Padrão, consumindo uma das três Ações disponíveis.
 
 ## Reações
 
@@ -18,9 +18,9 @@ Reações são ações que precisam de um acionamento para ativar. Por exemplo, 
 
 ## Funcionamento dos Dados
 
-Na maioria das ações realizadas pelos jogadores eles precisarão rolar dados, seja para realizar um Ataque, ou para investigar uma área. Normalmente o dado mais utilizado para realizar ações é o dado de 20 faces, e o resultado determinará o sucesso ou fracasso de uma certa ação. A dificuldade de realizar uma ação será definida pelo mestre. Exemplo: caso o mestre defina que para levantar uma pedra pesada o jogador precise de um resultado de 15 de Atletismo, o jogador precisará rolar um dado de 20 faces e caso o resultado seja maior ou igual a 15 depois de calcular o valor que o dado caiu e os bônus, ele consegue levantar a rocha.
+Na maioria das ações realizadas por você será necessário rolar dados, seja para realizar um Ataque, ou para investigar uma área. Normalmente, o dado mais utilizado para realizar ações é o dado de 20 faces, e o resultado determinará o sucesso ou fracasso de uma certa ação. A dificuldade de realizar uma ação será definida pelo mestre. Exemplo: caso o mestre defina que para levantar uma pedra pesada você precise de um resultado de 15 de Atletismo, você precisará rolar um dado de 20 faces e caso o resultado seja maior ou igual a 15 depois de calcular o valor que o dado caiu e os bônus, conseguirá levantar a rocha.
 
-Os bônus em si podem variar dependendo do Teste, mas geralmente são os Modificadores dos Atributos. Um teste de Força normalmente não usa o Atributo em si, mas o Modificador, por exemplo. Além disso, existem alguns bônus situacionais, como quando uma Magia ou Habilidade concede-os para um determinado teste.
+Os bônus em si podem variar dependendo do Teste, mas geralmente são os Modificadores dos Atributos. Um Teste de Força normalmente não usa o Atributo em si, mas o Modificador, por exemplo. Além disso, existem alguns bônus situacionais, como quando uma Magia ou Habilidade concede-os para um determinado teste.
 
 ## Testes
 
@@ -34,7 +34,7 @@ Salvaguardas são testes feitos com o intuito de resistir a alguma coisa. Por ex
 
 ### Críticos e Margem de Ameaça
 
-Caso alguém tire 20 em um dado, será um **Sucesso Crítico** (ou Acerto Crítico), o que fará com que as consequências daquela ação sejam bem melhores para ele. De modo análogo, se tirar 1, será um **Erro Crítico**, e as consequências serão devastadoras.
+Caso alguém tire 20 em um dado, será um Sucesso Crítico (ou Acerto Crítico), o que fará com que as consequências daquela ação sejam bem melhores para ele. De modo análogo, se tirar 1, será um Erro Crítico, e as consequências serão devastadoras.
 
 A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um acerto crítico. Na maioria dos casos, será apenas o número 20, porém é possível que Habilidades e Magias aumentem esse intervalo. Por exemplo, se um jogador pudesse ter um Acerto Crítico tirando 19 ou 20, então sua margem de ameaça seria +1.
 
@@ -48,4 +48,4 @@ A Desvantagem funciona de forma similar, no entanto se escolherá o pior resulta
 
 ## Arredondamentos
 
-Caso você precise arredondar um número, por exemplo, se precisar cortá-lo pela metade, **sempre** arredonde para baixo, a não ser que na descrição do que causar esse arredondamento esteja especificando para arredondar para cima.
+Caso você precise arredondar um número, por exemplo, se precisar cortá-lo pela metade, sempre arredonde para baixo, a não ser que na descrição do que causar esse arredondamento esteja especificando para arredondar para cima.

@@ -30,13 +30,13 @@ O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. 
 
 **Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos, aumentando o dano em 1d4 de um dos tipos possíveis da Arma.
 
-|Escala|Nível 1|Nível 3|Nível 5|Nível 7|Nível 10|
-|---|---|---|---|---|---|
-|S|+2 de dano|+3 de dano|+5 de dano|+10 de dano|+4 para acertar o Ataque|
-|A|+1 de dano|+2 de dano|+3 de dano|+4 de dano|+3 para acertar o Ataque|
-|B|+1 de dano|+2 de dano|+2 de dano|+3 de dano|+2 para acertar o Ataque|
-|C|+1 de dano|+1 de dano|+2 de dano|+2 de dano|+2 para acertar o Ataque|
-|D|+1 de dano|+1 de dano|+1 de dano|+1 de dano|+1 para acertar o Ataque|
+| Escala | Nível 1    | Nível 3    | Nível 5    | Nível 7     | Nível 10                 |
+| ------ | ---------- | ---------- | ---------- | ----------- | ------------------------ |
+| S      | +2 de dano | +3 de dano | +5 de dano | +10 de dano | +4 para acertar o Ataque |
+| A      | +1 de dano | +2 de dano | +3 de dano | +4 de dano  | +3 para acertar o Ataque |
+| B      | +1 de dano | +2 de dano | +2 de dano | +3 de dano  | +2 para acertar o Ataque |
+| C      | +1 de dano | +1 de dano | +2 de dano | +2 de dano  | +2 para acertar o Ataque |
+| D      | +1 de dano | +1 de dano | +1 de dano | +1 de dano  | +1 para acertar o Ataque |
 
 ### Escudos
 

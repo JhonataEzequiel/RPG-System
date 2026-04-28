@@ -10,7 +10,7 @@ Você pode optar por tirar Pontos de atributo de um Atributo para deixá-lo abai
 
 Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de Nível Máximo de Atributo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma Limitação Inicial.
 
-## Escolha de habilidades
+## Escolha de Habilidades
 
 No Nível 1, você possui dois Pontos de Habilidade para gastar como quiser. Você pode guardar esses pontos e utilizá-los em outro momento.
 
@@ -62,11 +62,11 @@ Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser 
 
 ## Escolha de Perícias e Proficiências
 
-Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. Ou seja, se o jogador tiver 2 de Inteligência, ele poderá escolher 3 Perícias. Com 4 de Inteligência, poderá escolher 4. Com 10 de Inteligência, poderá escolher apenas 5, ainda que seu Modificador de Inteligência seja 5. As Perícias em si estão detalhadas no capítulo de [[Perícias]].
+Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. As Perícias em si estão detalhadas no capítulo de [[Perícias]].
 
 Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo.
 
-Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Perito em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
+Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Proficiente em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
 
 ## História de Origem
 

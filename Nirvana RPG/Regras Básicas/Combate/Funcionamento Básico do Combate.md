@@ -40,7 +40,7 @@ Ataques de Oportunidade também impedem quaisquer outras Ações de movimento.
 
 ## Ataques Desarmados
 
-Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de **Impacto**, à sua escolha. Você pode escolher se um Ataque Desarmado será não-letal.
+Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de Impacto, à sua escolha. Você pode escolher se um Ataque Desarmado será não-letal.
 
 ## Ataques de Magia
 
