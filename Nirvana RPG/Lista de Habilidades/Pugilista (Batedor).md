@@ -35,13 +35,13 @@ Você agora pode escolher se seus Ataques Desarmados causarão Dano Cortante ou 
 Você pode escolher um dos seguintes benefícios:
 - Suas escalas A em Força e em Destreza com os Punhos agora serão S;
 - Seus Punhos terão escala S em algum outro atributo de sua escolha, com exceção de Força e Destreza;
-- Você aumenta seu Deslocamento em 3m, ganha +3 em Iniciativa, e +1 de CA enquanto só estiver equipado com Armas de Punho (Apenas seus Punhos também contam);
+- Você aumenta seu Deslocamento em 3m, ganha +3 em Iniciativa, e +1 de CA enquanto só estiver equipado com Armas de Punho;
 
 ## Punho Divino e Blasfemo (Custo 2)
 
 **Requisitos**: Habilidade "Evolução Pugilista" de custo 2.
 
-Você agora tem opção de causar Dano Sombrio ou radiante com seus Ataques Desarmados. Caso você não esteja usando uma Arma de Punhos, seu dano de Ataques Desarmados recebe um aumento de 1d12 + Int ou Fth de Dano Radiante ou sombrio, à sua escolha. Caso seus Modificadores de Inteligência ou Fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
+Você agora tem opção de causar Dano Sombrio ou radiante com seus Ataques Desarmados. Caso você não esteja usando uma Arma de Punhos, seu dano de Ataques Desarmados recebe um aumento de 1d8 + Int ou Fth de Dano Radiante ou sombrio, à sua escolha. Caso seus Modificadores de Inteligência ou Fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
 
 Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adicione metade do seu Nível ao dano causado por ela. O tipo de dano adicional será de acordo com o tipo de dano causado pela Arma.
 
@@ -100,4 +100,4 @@ Você coleta toda a sua energia vital em um único golpe, acertando o chão, cri
 
 Você pode trocar seu Atributo de Inteligência temporariamente com qualquer outro Atributo que quiser, desde você não esteja equipado com nada em suas mãos, com exceção de Armas de punho. Você também ganha 30 Pontos de Vida temporários que se encerram ao fim do combate. Você pode reverter essa Habilidade com uma Ação Bônus, mas seus Pontos de Vida Temporários também serão perdidos. Uma vez revertida, você não ganhará mais Pontos de Vida Temporários por essa Habilidade até o Encontro finalizar.
 
-A troca em si não vai impactar aspectos narrativos do seu personagem, como torná-lo menos capaz de exercer atividades básicas relacionadas a Inteligência. Por exemplo, um personagem com Inteligência especialmente baixa, como -4, teria problemas até para formar frases coerentes. Neste caso, você não passará por esse tipo de problema. É como se, temporariamente, você se focasse em apenas ser um combatente corpo a corpo, e esquecesse suas outras características.
+A troca em si não vai impactar aspectos narrativos do seu personagem, como torná-lo menos capaz de exercer atividades básicas relacionadas a Inteligência. Por exemplo, um personagem com Inteligência especialmente baixa, como -7, teria problemas até para formar frases coerentes. Neste caso, você não passará por esse tipo de problema. É como se, temporariamente, você se focasse em apenas ser um combatente corpo a corpo, e esquecesse suas outras características.

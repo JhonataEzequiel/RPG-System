@@ -7,7 +7,7 @@ Você agora possui um oitavo Atributo chamado Sorte. Sorte é um Atributo especi
 
 Além disso, você pode rolar novamente qualquer rolagem uma quantidade de vezes igual ao seu Modificador de Sorte, cuja sigla será "Sor". Uma rolagem que envolva múltiplos dados simultaneamente — como 20d6 de dano de uma Magia — conta como um único uso, independente da quantidade de dados envolvidos. Após rolar novamente, você escolhe qual dos resultados utilizar. Você reinicia a contagem de rolagens ao ter um Descanso Longo.
 
-O valor inicial de Sorte é 1, o mínimo é -10, e o máximo é 10.
+O valor inicial de Sorte é 0, o mínimo é -10, e o máximo é 10.
 
 ## Cartas do Destino (Custo 2)
 
@@ -32,13 +32,13 @@ Para puxar uma carta você deverá rolar 1d4, e o número correspondente será o
 
 **Custo**: Uma Ação, 1 de Mana.
 **Requisitos**: 1 de Destreza.
-**Duração**: 3 Rodadas.
+**Duração**: 5 Rodadas.
 
 Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha os seguintes benefícios:
 
 - Ao final de seu Turno, cura toda a sua Vida de uma vez, ignorando efeitos que possam te impedir de se curar. Também regenera partes do corpo perdidas, como um braço amputado.
 - Ao final de seu turno, recupera toda a Mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar Mana. 
-- Imunidade a encantamento.
+- Imunidade a Condição Encantado.
 
 Se caso após 7 tentativas não conseguir um Jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um Jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um Jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um Jackpot voltam a ser os iniciais.
 
@@ -69,7 +69,6 @@ Os bônus em Testes serão metade do usual. Ou seja, você irá dividir por dois
 ## Jackpot Melhorado (Custo 3)
 
 **Requisitos**: Habilidade "Jackpot" de Custo 2. 2 de Destreza.
-**Custo**: Uma Ação, 1 de Mana.
 
 Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um Descanso Longo anterior ao combate. Isso inclui poder usar novamente certas Habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua Mana, trocar as Magias preparadas, etc.
 
@@ -77,4 +76,4 @@ Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso,
 
 **Requisitos**: Habilidade "Alterar Chances" de Custo 2.
 
-Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. A cada dois pontos adicionais a sua Margem de Ameaça, você obterá um ponto na Margem de Ameaça para os 2d6.
+Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. A cada dois pontos adicionais na sua Margem de Ameaça, você obterá um ponto na Margem de Ameaça para os 2d6.

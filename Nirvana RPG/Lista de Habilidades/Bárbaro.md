@@ -25,25 +25,25 @@ Quanto mais criaturas forem derrotadas com Ataques físicos em Encontros, mais a
 
 **Requisitos:** Não pode usar Armadura. 2 de Força, Constituição, ou Destreza.
 
-**Cargas de Fúria** (Passiva): Fúria é uma Habilidade que pode ser usada por um número de vezes limitado, mas a quantidade de vezes que se pode usá-la aumenta conforme o seu Nível de Força.
+**Cargas de Fúria** (Passiva): Fúria é uma Habilidade que pode ser usada por um número de vezes limitado, mas a quantidade de vezes que se pode usá-la aumenta conforme o seu Nível de Força, Constituição, ou Destreza.
 
-| Nível de Força | Cargas de Fùria |
-| -------------- | --------------- |
-| 2-4            | 2               |
-| 5-7            | 4               |
-| 8-10           | 6               |
+| Nível de Um dos Atributos Mencionados | Cargas de Fùria |
+| ------------------------------------- | --------------- |
+| 2-4                                   | 2               |
+| 5-7                                   | 4               |
+| 8-10                                  | 6               |
 
 **Entrar em Fúria** (Ação Bônus): Você entra em um estado de raiva que o faz ignorar certos contratempos, te deixando mais forte e resistente até o fim do seu próximo Turno. É possível estender a duração da Fúria caso você performe uma das seguintes ações contra um adversário:
 
 * Atacar;
 * Forçar uma criatura alvo a realizar um Teste de Resistência a algo;
 * Usar uma Carga de Fúria em uma outra Ação Bônus;
-* Ou ao receber um Ataque que cause ao menos 50% da Vida Máxima do jogador.
+* Ou ao receber um Ataque que cause ao menos metade da sua Vida Máxima.
 
 Enquanto estiver em fúria, você receberá as seguintes características:
 
 * +5 de Resistência contra Dano Físico;
-* +5 em Testes de Resistência de Força e Destreza;
+* +5 em Testes de Resistência de Força, Destreza e Constituição;
 * Não poderá conjurar Magias, nem manter Magias já conjuradas;
 * Aumento na Margem de Ameaça em 1 ponto.
 
@@ -123,13 +123,13 @@ Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa
 
 ## Fúria Aprimorada (Custo 3)
 
-**Requisitos:** Habilidade Ofensiva "Fúria" de Custo 1. 9 de Força.
+**Requisitos:** Habilidade "Fúria" de Custo 1. 9 de Força.
 
 Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 
 * Vantagem em Testes de Constituição;
 * Imunidade a Condição Encantado;
-* Seus Ataques agora usam o atributo ao invés do Modificador para calcular o dano;
+* Seus Ataques agora usam o Atributo ao invés do Modificador para calcular o dano;
 * Seu Nível como Pontos de Vida Temporários que duram por 3 Rodadas ou até a Fúria acabar.
 
 ## Crítico Garantido (Custo 3)

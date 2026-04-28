@@ -45,9 +45,9 @@ Para que uma Magia seja guardada dentro da invenção, é necessário que você 
 
 Ao utilizar uma Bateria criada pela Habilidade "Baterias" de Custo 3, você pode utilizar uma mesma engenhoca dessas três vezes antes de precisar recarregar. A invenção pesa 2 kg, e custa 15po para ser feita.
 
-## Bucaneiro (Custo 3)
+## Bucaneiro (Custo 2)
 
-**Requisitos**: 3 de Força ou Destreza.
+**Requisitos**: 2 de Força ou Destreza, 1 de Inteligência.
 
 As suas Armas de Fogo e Bestas agora podem ser modificadas para possuírem Escalas. Você gasta 10po em materiais para adicionar uma Escala D em Força ou Destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.
 

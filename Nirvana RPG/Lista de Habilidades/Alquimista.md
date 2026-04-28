@@ -9,7 +9,7 @@ Você agora escolhe se quer utilizar o Modificador de Força, o de Destreza, ou 
 
 Ao atingir o Nível 8 em Força ou Destreza, o dano de itens arremessáveis aumenta em 1d8 do mesmo tipo causado pelo item. Este bônus se aplica ao atributo que você escolher para o dano. Caso escolha os dois, ambos devem estar no Nível 8 para que isso aconteça.
 
-A escolha dos atributos utilizados é feita ao adquirir essa habilidade, e não pode ser desfeita.
+A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não pode ser desfeita.
 
 ## Bomba Benéfica (Custo 1)
 
@@ -21,7 +21,7 @@ Você agora pode arremessar poções, que caem em um local, afetando uma área c
 
 **Requisitos**: 2 de Inteligência.
 
-Você agora consegue fabricar um item arremessável qualquer que não seja considerado um Item Mágico ou Único. Para cada item criado você dedica 1 minuto fora de combate, ou Três Ações em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
+Você agora consegue fabricar um item arremessável qualquer que não seja considerado um Item Mágico ou Único. Para cada item criado você dedica 1 minuto fora de combate, ou três Rodadas em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
 
 ## Alquimista Iniciante (Custo 1)
 
@@ -46,7 +46,7 @@ Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma
 
 **Requisitos**: Habilidade "Alquimista Iniciante" de Custo 2. 3 de Inteligência ou Sabedoria.
 
-Você agora pode tomar qualquer Poção como uma Ação Bônus, e aplicar qualquer Veneno como uma Ação Bônus. Poções de Restauração curam o máximo possível sempre que consumidas. O tempo para criar uma poção agora é de apenas uma Rodada.
+Você agora pode tomar qualquer poção como uma Ação Bônus, e aplicar qualquer Veneno como uma Ação Bônus. Poções de Restauração curam o máximo possível sempre que consumidas. O tempo para criar uma poção agora é de apenas uma Rodada.
 
 ## Mestre Botânico (Custo 3)
 
