@@ -93,13 +93,13 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 | 11-15               | Constituição+3 |
 | 16-20               | Constituição+5 |
 
-
 ## Ataque Descontrolado (Custo 2)
 
 **Custo:** Três Ações
 **Requisito:** 6 de Força.
 
  Você ataca todos os inimigos em um círculo centrado nele de Raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano do Ataque é o dano de um Ataque normal, acrescentado de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado.
+ 
 ## Engodo da Ira (Custo 2)
 
 **Requisitos**: Habilidade Ofensiva "Fúria" de Custo 1.

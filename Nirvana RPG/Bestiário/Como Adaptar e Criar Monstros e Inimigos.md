@@ -37,3 +37,6 @@
 
 #### Ações Bônus:
 - **Ação Bônus 1**:
+
+#### Ações Lendárias:
+- **Ação Lendária 1**:

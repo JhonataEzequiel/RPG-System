@@ -19,7 +19,7 @@ Caso o usuário deseje, pode aumentar o custo em 1 Ponto de Mana por ponto de F�
 - Alcance: Toque
 - Tempo de Conjuração: Ação Bônus
 
-**Descrição:** Seu próximo ataque causa Dano Radiante extra que aumenta conforme seu Nível de Fé. Inicialmente você causa 6d6 + Fé de Dano Radiante extra. Com 8 de Fé, esse dano aumenta para 6d8 + Fé. Com 10 de Fé, o dano aumenta para 6d10 + Fé.
+**Descrição:** Seu próximo Ataque causa Dano Radiante extra que aumenta conforme seu Nível de Fé. Inicialmente você causa 6d6 + Fé de Dano Radiante extra. Com 8 de Fé, esse dano aumenta para 6d8 + Fé. Com 10 de Fé, o dano aumenta para 6d10 + Fé.
 
 Você pode gastar Pontos de Mana adicionais para aumentar o dano em 2d4 por Ponto de Mana gasto.
 

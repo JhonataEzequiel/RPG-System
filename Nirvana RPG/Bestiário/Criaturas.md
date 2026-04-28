@@ -122,3 +122,44 @@
 - **Esmagar**: +15 para acertar, 4.5m de alcance, 2d8+10 de dano de impacto
 - **Brecha** (duas ações): O vorme índigo Nada até o dobro da Velocidade de natação dele e então Salta verticalmente para fora da água até 9 metros de altura, realizando um Golpe contra uma criatura no ápice do salto (isto o permite atacar uma criatura a até 13,5 metros da superfície da água). Após o Golpe, o vorme volta à água.
 - **Engolir**: 3d8+10 de dano de impacto, quem for engolido precisa passar por um teste de resistência de força CD 17 para escapar.
+
+### Dragão Solar Ancião
+
+- Nível 25
+- Pontos de Vida 550 (30d20 + 234)
+- Pontos de Mana 235 (20d10 + 125)
+- CA 26
+- 12m Deslocamento, 24m Deslocamento de Voo, 12 Deslocamento de Escalada
+- +15 Iniciativa
+
+| Atributo     | Valor | Modificador | Salvaguardas |
+| ------------ | ----- | ----------- | ------------ |
+| Constituição | 15    | +7          | +7           |
+| Força        | 12    | +6          | +6           |
+| Destreza     | 10    | +5          | +5           |
+| Sabedoria    | 20    | +10         | +16          |
+| Inteligência | 11    | +5          | +5           |
+| Fé           | 18    | +9          | +15          |
+| Carisma      | 18    | +9          | +9           |
+
+- Invulnerabilidades: Dano Radiante
+- Perícias: Percepção +16, Furtividade + 11
+- Sentidos: Percepção Passiva 26, Visão no Escuro 36m
+- Idiomas: Comum, Dracônico
+
+#### Passivas:
+- **Resistência Lendária** (4x ao dia): Se o dragão falhar em uma Salvaguarda, ele pode escolher ter sucesso no lugar.
+- **Multi-ataque**: O dragão não sofre Penalidades de Ataque.
+#### Ações:
+- **Ataque com Cauda** (Uma Ação): +12 para acertar, 6m de alcance adicional. O dragão ataca um alvo com sua cauda, causando 7d6 + 6 de Dano de Impacto.
+- **Raio Brilhante** (Duas Ações, 25 de Mana): Salvaguarda de Destreza CD 25, cada criatura numa linha reta de 48m de distância. Falha: 26d8 de Dano Radiante, e o alvo fica Cego por 2 Rodadas. Sucesso: metade do dano, e ainda fica Cego por 2 Rodadas. Sucesso Crítico: não toma dano, nem fica Cego.
+- **Mordida** (Uma Ação): +12 para acertar. Salvaguarda de Força CD 22. Falha: o dragão ataca um alvo com sua mordida, causando 4d8 + 6 de Dano de Impacto e 4d4 de Dano Radiante, e tem a Condição Agarrado (pode repetir o Teste no início de cada um de seus Turnos ao troco de uma Ação). Sucesso: metade do dano.
+- **Ataque com Garras** (Uma Ação): +12 para acertar. O dragão ataca um alvo, causando 5d6 + 5 de Dano Cortante.
+
+#### Ações Bônus:
+- **Benção Menor** (10 de Mana): O dragão se torna proficiente em todas as Salvaguardas (+6 em todas, menos Sabedoria e Fé, que já era proficiente) até o inicio de seu próximo Turno.
+
+#### Ações Lendárias:
+- **Investida**: O dragão se move até metade de seu Deslocamento e realiza um Ataque.
+- **Golpe Divino** (5 de Mana): O dragão realiza um Ataque acrescido de 5d4 + Fth de Dano Radiante.
+- **Reza** (3x ao dia, 10 de Mana, Reação): O dragão se cura de quaisquer Condições ao ser infligido por uma Condição.
