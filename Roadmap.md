@@ -1,1 +1,0 @@
-Bestiário e Lore
