@@ -44,7 +44,7 @@ Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma
 
 ## Alquimista Supremo (Custo 3)
 
-**Requisitos**: Habilidade "Alquimista Iniciante" de Custo 2. 3 de Inteligência ou Sabedoria.
+**Requisitos**: Habilidade "Alquimista Iniciante" de Custo 1. 3 de Inteligência ou Sabedoria.
 
 Você agora pode tomar qualquer poção como uma Ação Bônus, e aplicar qualquer Veneno como uma Ação Bônus. Poções de Restauração curam o máximo possível sempre que consumidas. O tempo para criar uma poção agora é de apenas uma Rodada.
 

@@ -7,6 +7,12 @@ O Arquétipo do Bruxo governa o oculto e seus poderes perigosos e desconhecidos.
 
 Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo. Além disso, aumente sua Mana em 1d4 permanentemente.
 
+## Domínio (Custo 1)
+
+**Requisitos**: 1 de Inteligência, 1 de Fé.
+
+Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que incluí Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo.
+
 ## Impulso Sinistro (Custo 2)
 
 **Requisitos**: 3 de Fé, 3 de Inteligência.
@@ -22,9 +28,9 @@ Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo u
 
 Você entoa um cântico de louvor a uma entidade cósmica desconhecida. O Mestre rola 1d4 em segredo para determinar o efeito:
 
-**1.** A entidade responde na noite do mesmo dia através de um sonho. Faça um Teste de Sabedoria CD 15.
+**1.** A entidade responde na noite do mesmo dia através de um sonho. Faça um Teste de Resistência de Sabedoria CD 15.
 
-- **Sucesso:** Você ganha conhecimento detalhado sobre um assunto à sua escolha. Não pode fazer Descanso Curto por 1 semana.
+- **Sucesso:** Você ganha conhecimento detalhado sobre um assunto à sua escolha.
 - **Falha:** Sofre 3d6 de Dano Psíquico (só curável em Descanso Longo).
 
 **2.** A entidade faz morada em sua mente, utilizando sua força mental para conceder-lhe mais chances de vitória. Até ter um Descanso Longo, você ganha +2d8 em todas as rolagens que fizer, e ignora Falhas Críticas, tornando-se falhas normais. Toda vez que fizer um Teste, sofre 2d8 de Dano Psíquico. O efeito termina após um Descanso Longo. O Dano Psíquico recebido é curado totalmente com um Descanso Curto.
@@ -55,6 +61,15 @@ O que você colhe não é a alma de fato da criatura, pois isso a impediria de s
 
 ## Deus da Morte (Custo 3)
 
-**Requisitos**: Habilidade Ofensiva "Devorador de Almas" de custo 3. 6 de Inteligência, 10 de Fé.
+**Requisitos**: Habilidade "Devorador de Almas" de custo 3. 6 de Inteligência, 10 de Fé.
 
-Essa Habilidade terá efeito apenas quando 100 almas sejam colhidas pela Habilidade Ofensiva "Devorador de Almas". O limite anterior é removido de apenas um sortilégio e é expandido para três por Descanso Longo ou curto. 
+Essa Habilidade terá efeito apenas quando 100 almas sejam colhidas pela Habilidade "Devorador de Almas". O limite anterior é removido de apenas um Sortilégio e é expandido para três por Descanso Longo ou Curto. 
+
+## Caos (Custo 3)
+
+**Requisitos**: 10 de Inteligência, 10 de Fé.
+**Custo**: Reação, 5 de Mana.
+
+Ao conjurar qualquer Magia de Custo 10 que cause dano, você pode optar por triplicar a área de efeito (caso seja uma Magia em área), ou escolher dois alvos adicionais, se for de alvo único. No entanto, o dano causado por aqueles dentro da área adicional, ou pelos alvos adicionais sempre será de Dano de Fogo. As chamas criadas terão uma cor mais amarelada que o padrão.
+
+Você pode usar essa Habilidade três vezes por Descanso Curto ou Longo.

@@ -152,3 +152,11 @@ Golpeia um alvo com toda a sua Força, afetando o psicológico e a alma dele al�
 **Requisitos**: 8 de Força.
 
 Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar mais dano. O dano adicional será seu Nível de Força vezes o Custo da Habilidade, mais seu Bônus de Proficiência.
+
+## Diamante (Custo 3)
+
+**Requisitos**: 10 de Força. Ser perito em Atletismo.
+
+Sua força de preensão aumenta a níveis extremos. Você tem Vantagem dupla em Testes de Atletismo. Você rolará 3 Testes, e ficará com o maior resultado. Além disso, você se torna imune a quaisquer tentativas de desarme.
+
+Lendas são contadas de indivíduos que chegaram neste nível de força, e a principal delas era a capacidade de transformar carvão em diamante apenas apertando-o em suas mãos.  Você pode gastar 3 de Mana para fazer isso, ao troco de ter um Nível de Exaustão. Se fizer novamente, o Nível aumenta.
