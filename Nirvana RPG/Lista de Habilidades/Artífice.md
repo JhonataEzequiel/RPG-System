@@ -11,6 +11,14 @@ Eles podem andar, sendo seu Deslocamento de 12m. Além disso, podem realizar qua
 
 Você pode ter até 2 autômatos ativos no total ao mesmo tempo. Você gasta 5po para confeccionar um autômato, e demora 1 hora para fazer cada um deles. A CA deles é 10, e possuem 10 Pontos de Vida. Todos os Atributos deles são -1.
 
+## Bucaneiro (Custo 1)
+
+**Requisitos**: 2 de Força ou Destreza, 1 de Inteligência.
+
+As suas Armas de Fogo e Bestas agora podem ser modificadas para possuírem Escalas. Você gasta 10po em materiais para adicionar uma Escala D em Força ou Destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.
+
+Além de fazer melhorias nas armas, você agora pode utilizar seu Modificador de Força ou Destreza para acertar os Ataques com Bestas ou Armas de Fogo, acrescidos de seu Bônus de Proficiência, caso você seja proficiente em Armas à Distância.
+
 ## Gaiolas Encolhedoras (Custo 2)
 
 **Requisitos**: 3 de Inteligência.
@@ -45,12 +53,6 @@ Para que uma Magia seja guardada dentro da invenção, é necessário que você 
 
 Ao utilizar uma Bateria criada pela Habilidade "Baterias" de Custo 3, você pode utilizar uma mesma engenhoca dessas três vezes antes de precisar recarregar. A invenção pesa 2 kg, e custa 15po para ser feita.
 
-## Bucaneiro (Custo 2)
-
-**Requisitos**: 2 de Força ou Destreza, 1 de Inteligência.
-
-As suas Armas de Fogo e Bestas agora podem ser modificadas para possuírem Escalas. Você gasta 10po em materiais para adicionar uma Escala D em Força ou Destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.
-
 ## Mestre das Gaiolas (Custo 3)
 
 **Requisitos**: Habilidade "Gaiolas Encolhedoras" de Custo 2. 6 de Inteligência.
@@ -69,9 +71,9 @@ Você gasta o equivalente a 35po em materiais para criar um Autômato Maior, e p
 
 ## Atirador Profissional (Custo 3)
 
-**Requisitos**: Habilidade "Bucaneiro" de Custo 2. 5 de Inteligência, 3 de Força ou Destreza.
+**Requisitos**: Habilidade "Bucaneiro" de Custo 1. 5 de Inteligência, 3 de Força ou Destreza.
 
-Você pode modificar suas Armas de Fogo e Bestas ainda mais, fazendo com que as escalas delas aumentem. Visualmente falando, você escolhe como suas Armas se parecerão agora. Para cada vez que modificar uma Arma já modificada pela Habilidade Bucaneiro, ou por outra pessoa que tenha essa Habilidade ou algo similar, aumente uma das Escalas dela em um grau. Você gasta 10po em materiais para aumentar a Escala para C, 25po para B, 50po para A, e 250po para S. O tempo para aumentar uma Escala é de 8 horas.
+Você pode modificar suas Armas de Fogo e Bestas ainda mais, fazendo com que as escalas delas aumentem. Visualmente falando, você escolhe como suas Armas se parecerão agora. Para cada vez que modificar uma Arma já modificada pela Habilidade Bucaneiro, ou por outra pessoa que tenha essa Habilidade ou algo similar, aumente uma das Escalas dela em um grau. Você gasta 10po em materiais para aumentar a Escala para C, 25po para B, 50po para A, e 250po para S. O tempo para aumentar uma Escala é de 8 horas. É necessário passar pela Escala anterior para poder aprimorar para a seguinte.
 
 ## Engenharia Reversa (Custo 3)
 

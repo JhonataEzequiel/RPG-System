@@ -9,10 +9,10 @@ Você pode forjar qualquer Arma ou Armadura não-mágica ou única da lista de i
 
 | Peso do Item  | Tempo de Forja |
 | ------------- | -------------- |
-| Menos de 1 kg | 8 horas        |
-| 1 kg a 10 kg  | 24 horas       |
-| 10 kg a 30 kg | 3 dias         |
-| Mais de 30 kg | 1 semana       |
+| Menos de 1 kg | 4 horas        |
+| 1 kg a 10 kg  | 8 horas        |
+| 10 kg a 30 kg | 24 horas       |
+| Mais de 30 kg | 3 dias         |
 
 Sua Capacidade de Carga agora é aumentada em três vezes o seu Nível de Proficiência em quilos.
 

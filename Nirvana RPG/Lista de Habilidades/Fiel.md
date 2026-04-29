@@ -51,7 +51,7 @@ Sempre que você conjurar uma Magia Sagrada, você cura o alvo da Magia em um ad
 
 Você pode conjurar Magias de Cura em si mesmo quando estiver fora de combate e com Pontos de Vida cheios. Ao fazer isso você mantém essa cura em estoque, e pode utilizá-la para curar um alvo por metade do total de cura como uma Ação Livre. A cura em si é calculada como sendo o resultado depois de conjurar a Magia, rolar os dados, e somar os bônus cabíveis. A outra metade é perdida. 
 
-Por 3 Pontos de Mana, você poderá utilizar a outra metade da cura guardada em um alvo diferente, ao custo de uma Ação. O estoque desaparece após ter um Descanso, Longo ou Curto. Você só pode guardar a cura de uma única Magia ou Habilidade.
+Por 3 Pontos de Mana, você poderá utilizar a outra metade da cura guardada em um alvo diferente, ao custo de uma Ação. O estoque desaparece após ter um Descanso, Longo ou Curto. Você só pode guardar a cura de uma única Magia, Habilidade, Poção de Restauração, ou qualquer outra fonte.
 
 ## Pacto Derradeiro (Custo 3)
 

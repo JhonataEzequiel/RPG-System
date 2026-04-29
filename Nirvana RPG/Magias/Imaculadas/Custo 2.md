@@ -36,3 +36,12 @@
 **Descrição:** Você seleciona um objeto alvo e o toca. O objeto em questão pausa seu processo de deterioração pela duração da Magia. Por exemplo, se tocar em uma armadura, ela não enferrujará mais do que já está pela duração, após isso o processo de ferrugem continuará normalmente. Caso a Magia for utilizada em cadáveres você impede a decomposição dele temporariamente.
 
 Cada Ponto de Mana adicional dobra a duração da Magia.
+
+### Línguas
+
+- Requisito em Inteligência ou Carisma: 2
+- Duração: 24 Horas
+- Alcance: Toque
+- Tempo de Conjuração: Três Ações
+
+**Descrição:** Você toca uma criatura alvo com Inteligência superior a -1. Ela se torna capaz de falar e ler qualquer idioma básico (aqueles listados no capítulo de Idiomas) por toda a duração. Uma vez que a Magia acabe, a criatura não mais conseguirá se comunicar ou entender outras línguas.

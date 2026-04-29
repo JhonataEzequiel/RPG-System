@@ -32,7 +32,7 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 1. 2d8 a mais para o Dado de Vida.
 2. 2d4 a mais para o Dado de Mana.
 3. Você tem +1 em todos os Testes de Resistência.
-4. Você causa +1 de dano sempre que causar dano, o dano adicional é igual ao do ataque.
+4. Você causa +1 de dano sempre que causar dano, o dano adicional é igual a um dos causados pelo Ataque.
 5. Você ganha +1 Ponto de Atributo.
 
 ## Equilíbrio Aprimorado (Custo 2)
