@@ -4,12 +4,13 @@ O Arquétipo do Fiel contém Habilidades relacionadas a poderes e deveres sacerd
 ## Agente Divino (Custo 1)
 
 **Requisitos**: Ter um Símbolo Sagrado. 2 de Fé.
+**Alcance**: Deslocamento.
 
 Você pode adicionar o seu Modificador de Fé como bônus na Iniciativa de um alvo antes de rolar Iniciativa. Você também pode trocar sua Iniciativa com a de um aliado antes do combate se iniciar.
 
 ## Devoção (Custo 1)
 
-**Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal.
+**Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal. Ter um Símbolo Sagrado.
 
 Todas as vezes que você tiver um Descanso Longo você pode fazer uma oração. Você rola 1d8. Se cair 6 ou inferior, você ganha +3 de mana temporários até ter um Descanso Curto ou Longo. Se cair 7 você adiciona seu Modificador de Fé ao próximo Teste de Perícia que você não seja perito, e esse bônus é perdido se você não usar ele até ter um Descanso Longo. Por último, se tirar 8, você ganha 8 Pontos de Vida Temporários além dos bônus anteriores, até ter um Descanso Longo.
 
@@ -63,7 +64,7 @@ A única forma de curar Dano Negativo é por Descansos Longos. Isso é represent
 
 ## Querido Deus (Custo 3)
 
-**Requisitos**: 10 de Constituição, 8 de Fé.
+**Requisitos**: 10 de Constituição, 8 de Fé. Ter um Símbolo Sagrado.
 **Custo**: Uma Ação.
 **Duração**: 3 Rodadas.
 

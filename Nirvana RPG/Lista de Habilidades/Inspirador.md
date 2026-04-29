@@ -3,7 +3,7 @@ O Arquétipo do Inspirador diz respeito a um personagem capaz de inspirar as pes
 
 ## Inspiração (Custo 1)
 
-**Custo**: Uma Ação e 1 de Mana.
+**Custo**: Uma Ação, 1 de Mana.
 **Duração**: 5 Rodadas.
 
 Você tem a capacidade de inspirar seus aliados até 6 metros de distância, concedendo seu Nível de Carisma como Pontos de Vida Temporários.

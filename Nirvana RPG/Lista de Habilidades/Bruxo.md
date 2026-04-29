@@ -11,7 +11,7 @@ Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse
 
 **Requisitos**: 1 de Inteligência, 1 de Fé.
 
-Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que incluí Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo.
+Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que não incluí Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo. O limite é de 6d4 adicionais.
 
 ## Impulso Sinistro (Custo 2)
 

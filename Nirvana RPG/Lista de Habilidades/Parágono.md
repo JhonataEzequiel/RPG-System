@@ -55,7 +55,7 @@ Você agora pode adicionar metade do seu Bônus de Proficiência à Perícias qu
 
 **Requisitos**: Você é um Humano de Nível 10 ou superior.
 
-O primeiro Atributo a atingir o Nível 10 recebe mais dois Pontos de Atributo, superando o limite padrão, e estabelecendo-se em no Nível 12. Alternativamente, você ganha 3 Pontos de Atributo, mas só pode alocar cada um deles nos Atributos de menor valor. Caso você aplique um Ponto de Atributo, e o Atributo escolhido não mais seja o de menor valor, deverá aplicar no Atributo que tem o menor valor atual.
+Caso você não seja proficiente em todas as Salvaguardas, você pode escolher mais uma para ser proficiente. Além disso, você ganha proficiência em um tipo de Arma adicional, e ignora penalidades de Deslocamento das Armaduras Pesadas. Você também se torna perito em uma Perícia adicional, à sua escolha.
 
 ## Aurora (Custo 3)
 
@@ -67,7 +67,7 @@ Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se ener
 
 **Requisitos**: Você é um Siderium Nocturnus de Nível 10 ou superior.
 
-O custo de Mana da Luna diminui em 3 pontos. Sempre que usar sua Luna você ganha +6m de Deslocamento até ela acabar.
+O custo de Mana da Luna diminui em 2 pontos. Sempre que usar sua Luna você ganha +6m de Deslocamento até o efeito escolhido da Luna cessar.
 
 ## Resiliência de Tartaruga (Custo 3)
 

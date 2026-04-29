@@ -29,4 +29,4 @@ Você ignora o Limite Máximo de nível de Atributo por level. Você pode escolh
 
 Para essa Habilidade ter efeito, você precisa estar em um Encontro com pelo menos 3 inimigos.
 
-Você começa o Encontro com uma Ação adicional nas primeiras três Rodadas. Após isso, um inimigo à escolha do mestre ganhará uma Ação adicional em algum momento do Encontro, durante o Turno da criatura escolhida. A sua Ação adicional não poderá ser usada para Atacar, mas a concedida ao seu oponente, sim.
+Você começa o Encontro com uma Ação adicional nas primeiras três Rodadas. Após isso, um inimigo à escolha do mestre ganhará uma Ação adicional em algum momento do Encontro, durante o Turno da criatura escolhida. A sua Ação adicional não poderá ser usada para Atacar, conjurar Magias, ou suar outras Habilidades de Ataque, mas a concedida ao seu oponente, sim.

@@ -9,7 +9,7 @@ Você diminui em 1 ponto quaisquer penalidades que você tenha para acertar Ataq
 
 Sempre que estiver com duas Armas Leves equipadas ao mesmo tempo, adicione metade do seu Bônus de Proficiência ao dano de Ataques que acertarem. O tipo do dano será um dos possíveis tipos causados por uma das Armas, à sua escolha.
 
-No Nível 12, você adiciona seu Bônus de Proficiência inteiro, ao invés da metade.
+Ao atingir o Nível 8, você adiciona seu Bônus de Proficiência inteiro, ao invés da metade.
 
 ## Maestria com Empunhadura Dupla (Custo 1)
 

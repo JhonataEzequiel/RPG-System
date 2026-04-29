@@ -14,4 +14,6 @@ Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu notur
 
 Os Nocturnus refletem o céu noturno através de sua pele, possuindo olhos azuis ou dourados sem pupila. Seus cabelos são totalmente brancos ou amarelos.
 
-**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles, que os permite direcionar o foco de suas mentes quando necessário. Você se torna proficiente em todas as Salvaguardas por um Encontro. Nas Salvaguardas que você já for proficiente, você dobrará o Bônus de Proficiência. Só pode ser usada uma vez por Encontro.
+**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles. É possível se concentrar e acessar essa parte da alma, assim entendendo a si mesmos de maneira mais profunda, e tomando decisões mais acertadas. Você escolhe um dos efeitos abaixo para sua Luna. Você terá que utilizar sua Luna novamente caso queira o outro efeito.
+- **Foco Aprimorado**: Você se torna proficiente em todas as Salvaguardas por três Rodadas. Nas Salvaguardas que você já for proficiente, você dobrará o Bônus de Proficiência.
+- **Ofensiva Direcionada**: Sempre que você fizer um alvo passar por um Teste de Resistência, adicione seu bônus de proficiência a CD do Teste. Dura três Rodadas. 

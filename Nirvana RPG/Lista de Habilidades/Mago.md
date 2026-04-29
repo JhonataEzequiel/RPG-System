@@ -11,7 +11,7 @@ Você tem facilidade em entender culturas diferentes da sua. Sempre que você se
 
 **Requisitos**: 1 de Carisma, Inteligência, ou Fé.
 
-Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados imunes também.
+Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 Ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados imunes também. Caso uma Magia especificamente mencione que seus aliados também serão afetados, ou que você também será, o efeito desta Habilidade é anulado.
 
 ## Fluir da Mana (Custo 1)
 
@@ -35,15 +35,15 @@ Você consegue extrair uma pequena esfera de Mana do seu corpo, composta por met
 
 **Requisitos**: 2 de Sabedoria.
 
-Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá que fazer um ritual sem ser interrompido por 10 minutos. A magia em si não pode ter como tempo de conjuração um tempo maior que três Ações.
+Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá que fazer um ritual sem ser interrompido por 10 minutos antes de conjurar a Magia. A Magia em si não pode ter como tempo de conjuração um tempo maior que três Ações.
 
 ## Arcano Aprimorado (Custo 2)
 
 **Requisitos**: 6 de Sabedoria.
 
-Escolha uma Magia da sua lista de Magias Conhecidas. Esta magia estará sempre preparada, e não contará para o número máximo de Magias Preparadas. Além disso, ela custará 1 Ponto de Mana a menos para ser utilizada.
+Escolha uma Magia da sua lista de Magias Conhecidas. Esta Magia estará sempre preparada, e não contará para o número máximo de Magias Preparadas. Além disso, ela custará 1 Ponto de Mana a menos para ser utilizada. A Magia escolhida não pode ser de custo 7 ou superior.
 
-Ao chegar no Nível 10 de Sabedoria, poderá escolher outra Magia além da escolhida anteriormente. Esta nova Magia terá os mesmos bônus descritos acima.
+No Nível 10 de Sabedoria, você poderá escolher outra Magia para receber os mesmos efeitos desta Habilidade.
 
 ## Troca Equivalente (Custo 2)
 
@@ -53,34 +53,21 @@ Você pode, de maneira permanente, trocar Pontos de Mana por Magias Conhecidas a
 
 | Pontos de Mana Necessários | Nível da Magia |
 | -------------------------- | -------------- |
-| 1                          | 1              |
-| 2                          | 2-3            |
-| 4                          | 4-5            |
-| 6                          | 6-7            |
-| 10                         | 8-9            |
-| 12                         | 10             |
-Alternativamente você pode reduzir os Requisitos de uma Magia, dependendo da quantidade de Mana gasta. 
+| 2                          | 1              |
+| 4                          | 2-3            |
+| 6                          | 4-5            |
+| 8                          | 6-7            |
+| 12                         | 8-9            |
+| 14                         | 10             |
+Alternativamente você pode reduzir os Requisitos de uma Magia. Para cada Ponto de Mana gasto, você reduz o Requisito em 1 ponto de algum Atributo.
 
-| Pontos de Mana Necessários | Diminuição no Requisito |
-| -------------------------- | ----------------------- |
-| 2                          | 1                       |
-| 3                          | 2                       |
-| 4                          | 3                       |
-| 5                          | 4                       |
-| 6                          | 5                       |
-| 7                          | 6                       |
-| 8                          | 7                       |
-| 9                          | 8                       |
-| 10                         | 9                       |
-| 12                         | 10                      |
+Você dever efetuar suas escolhas no momento em que adquirir esta Habilidade, e elas são irreversíveis. Essa Habilidade pode ser pega múltiplas vezes.
 
 ## Visão Além do Alcance (Custo 2)
 
 **Requisitos**: 6 de Sabedoria.
 
-Você foi capaz de treinar seus olhos para enxergar muito além do comum. Você tem Vantagem em Testes de Percepção que envolvam a visão. Além disso, sua mente é capaz de compreender os mistérios do arcano de maneira mais profunda.
-
-Pode reduzir o custo de uma Magia em 1 ponto, e reduzir um de seus Requisitos em 2. Esta mudança é permanente.
+Você foi capaz de treinar seus olhos para enxergar muito além do comum. Magias de custo 1 não tem mais pré-requisitos de Atributos.
 
 ## Mente Focada (Custo 2)
 
