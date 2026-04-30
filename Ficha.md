@@ -64,6 +64,14 @@
 
 ---
 
+## 🌀Magias
+
+| Magias Conhecidas | Magias Preparadas | Arcanos Menores Conhecidos | Arcanos Menores Preparados |
+| ----------------- | ----------------- | -------------------------- | -------------------------- |
+|                   |                   |                            |                            |
+
+
+---
 ## 🌀 Resistências, Fraquezas e Invulnerabilidades
 
 ### Resistências
@@ -133,6 +141,19 @@
 | Música       |       |              |
 
 ---
+## 🎯 Salvaguardas
+
+| Atributo     | Bônus | Proficiente? |
+| ------------ | ----- | ------------ |
+| Constituição |       |              |
+| Força        |       |              |
+| Destreza     |       |              |
+| Sabedoria    |       |              |
+| Inteligência |       |              |
+| Fé           |       |              |
+| Carisma      |       |              |
+
+---
 
 ## 🧬 Habilidades da Raça
 
@@ -145,9 +166,9 @@
 ## 🎒 Equipamentos
 
 
-| Capacidade de Carga Atual | Capacidade de Carga Total |
-| ------------------------- | ------------------------- |
-|                           |                           |
+| Capacidade de Carga Atual (Em Quilos) | Capacidade de Carga Total (Em Quilos) |
+| ------------------------------------- | ------------------------------------- |
+|                                       |                                       |
 
 
 ### Armas
@@ -172,3 +193,6 @@
 | PL   |            |
 
 ---
+
+## Idiomas
+

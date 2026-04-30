@@ -2,9 +2,9 @@ Grimórios são livros mágicos que ampliam a capacidade de um conjurador de arm
 
 | Item              | Funcionalidade                                                                | Custo | Peso   |
 | ----------------- | ----------------------------------------------------------------------------- | ----- | ------ |
-| Grimório Simples  | Aumenta em 5 a quantidade de Magias conhecidas, e em 1 a de arcanos menores.  | 5po   | 1 kg   |
-| Grimório Avançado | Aumenta em 10 a quantidade de Magias conhecidas, e em 3 a de arcanos menores. | 15po  | 1.5 kg |
-| Grimório Arcano   | Aumenta em 15 a quantidade de Magias conhecidas, e em 5 a de arcanos menores. | 40po  | 2 kg   |
+| Grimório Simples  | Aumenta em 5 a quantidade de Magias Conhecidas, e em 1 a de Arcanos Menores.  | 5po   | 1 kg   |
+| Grimório Avançado | Aumenta em 7 a quantidade de Magias Conhecidas, e em 2 a de Arcanos Menores.  | 15po  | 1.5 kg |
+| Grimório Arcano   | Aumenta em 10 a quantidade de Magias Conhecidas, e em 5 a de Arcanos Menores. | 40po  | 2 kg   |
 
 É necessário que você passe um tempo anotando uma Magia no grimório para poder utilizá-la. Para isso você precisa de algo capaz de escrever nele, como uma pena e tinta. O tempo varia de acordo com o custo da Magia.
 

@@ -38,4 +38,4 @@ Você pode criar itens mágicos e únicos, caso tenha os materiais necessários.
 
 **Requisitos**: Habilidade "Ferraria Mágica" de Custo 3. 10 de Sabedoria, 4 de Inteligência.
 
-Você diminui o tempo para forjar ou infundir qualquer item não-mágico pela metade. Além disso, você gasta metade do valor em materiais para criar itens não-mágicos. Sua Capacidade de Carga agora não é aumentada em duas vezes o seu Bônus de Proficiência, como dizia na Habilidade Ferraria, mas em quatro vezes.
+Você diminui o tempo para forjar ou infundir qualquer item não-mágico pela metade. Além disso, você gasta metade do valor em materiais para criar itens não-mágicos. Sua Capacidade de Carga agora não é aumentada em três vezes o seu Bônus de Proficiência, como dizia na Habilidade Ferraria, mas em quatro vezes.

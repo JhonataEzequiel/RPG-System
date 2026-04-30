@@ -23,4 +23,4 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você cria uma esfera mágica translúcida envolta de você com raio de 6m, que se move junto ao conjurador. Todas as criaturas dentro da esferas estarão invisíveis para o exterior, concedendo Vantagem em Testes de Furtividade. A esfera permanece ativa enquanto você se mantiver concentrado.
+**Descrição:** Você cria uma esfera mágica translúcida envolta de você com raio de 6m, que se move junto ao conjurador. Todas as criaturas dentro da esfera estarão invisíveis para o exterior, concedendo Vantagem em Testes de Furtividade. A esfera permanece ativa enquanto você se mantiver concentrado.

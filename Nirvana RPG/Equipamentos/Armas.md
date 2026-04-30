@@ -28,8 +28,8 @@
 
 | Arma               | Preço | Dano                      | Requisitos                | Escalas                   | Característica Única | Aumento de Alcance | Peso   |
 | ------------------ | ----- | ------------------------- | ------------------------- | ------------------------- | -------------------- | ------------------ | ------ |
-| Cajado             | 0     | 1d4 + Força de Impacto    | 0                         | 0                         | -                    | 1.5m               | 1 kg   |
-| Clava              | 0     | 1d6 + For de Impacto      | 1 de Força                | D em Força                | -                    | 0                  | 1.5 kg |
+| Cajado             | 1pp   | 1d4 + Força de Impacto    | 0                         | 0                         | -                    | 1.5m               | 1 kg   |
+| Clava              | 1pp   | 1d6 + For de Impacto      | 1 de Força                | D em Força                | -                    | 0                  | 1.5 kg |
 | Foice Pequena      | 2pp   | 1d4 Cortante              | 2 de Destreza             | B em Destreza             | -                    | 0                  | 1 kg   |
 | Maça               | 1po   | 1d6 + For de Impacto      | 2 de Força                | C em Força                | -                    | 0                  | 2.5 kg |
 | Maça-Estrela       | 1po   | 1d6 + Força de Impacto    | 3 de Força                | C em Força                | -                    | 0                  | 3 kg   |

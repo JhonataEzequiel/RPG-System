@@ -2,8 +2,8 @@
 
 | Armadura            | Preço | CA  | Requisitos | Escalas       | Penalidades | Peso |
 | ------------------- | ----- | --- | ---------- | ------------- | ----------- | ---- |
-| Nenhuma Armadura    | 0     | +0  | 0          | 0             | 0           | 0 kg |
-| Roupa de Explorador | 1pp   | +0  | 0          | D em Destreza | 0           | 2 kg |
+| Nenhuma Armadura    | 0     | +0  | -          | 0             | 0           | 0 kg |
+| Roupa de Explorador | 1pp   | +0  | -          | D em Destreza | 0           | 2 kg |
 ### Armaduras Leves
 
 | Armadura            | Preço | CA  | Requisitos    | Escalas       | Penalidades | Peso |

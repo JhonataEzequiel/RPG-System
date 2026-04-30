@@ -10,7 +10,7 @@ Você pode adicionar o seu Modificador de Fé como bônus na Iniciativa de um al
 
 ## Devoção (Custo 1)
 
-**Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal. Ter um Símbolo Sagrado.
+**Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal.
 
 Todas as vezes que você tiver um Descanso Longo você pode fazer uma oração. Você rola 1d8. Se cair 6 ou inferior, você ganha +3 de mana temporários até ter um Descanso Curto ou Longo. Se cair 7 você adiciona seu Modificador de Fé ao próximo Teste de Perícia que você não seja perito, e esse bônus é perdido se você não usar ele até ter um Descanso Longo. Por último, se tirar 8, você ganha 8 Pontos de Vida Temporários além dos bônus anteriores, até ter um Descanso Longo.
 
@@ -34,7 +34,7 @@ Você ergue uma de suas mãos que não esteja ocupada com um item (com exceção
 
 ## Transpôr Energia (Custo 2)
 
-**Requisitos**: 5 de Destreza, efeito adicional desbloqueado com 5 de Carisma.
+**Requisitos**: 5 de Carisma ou Fé.
 
 Você agora pode se mover duas vezes durante uma Rodada. Uma no seu Turno, como sempre, e outra em qualquer outro momento da Rodada. Quando não se mover no seu turno, você poderá Andar ou Correr, mas não poderá utilizar Desengajar ou qualquer outra ação de movimentos. É impossível evitar Ataques de Oportunidades se alguém te acertar quando se mover fora do seu Turno, ainda que tenha alguma Habilidade ou efeito que te torne imune a estes ataques normalmente. 
 

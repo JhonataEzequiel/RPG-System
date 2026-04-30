@@ -4,8 +4,8 @@ Poções são itens portáteis que garantem um efeito quando são consumidas. El
 
 Ao usar Uma Ação Bônus, o jogador bebe a Poção e rola os dados de cura normalmente, conforme descrito na Poção. No entanto, se o jogador optar por beber a Poção utilizando Três Ações, a cura será maximizada, considerando o valor máximo de todos os dados. A tabela a seguir detalha as Poções de Restauração:
 
-| Item                | Funcionalidade                                                            | Custo |
-| ------------------- | ------------------------------------------------------------------------- | ----- |
+| Item                | Funcionalidade                                                              | Custo |
+| ------------------- | --------------------------------------------------------------------------- | ----- |
 | Poção de Cura Menor | Restaura 1d8 + Con Pontos de Vida ao ser consumida como Uma Ação.           | 3po   |
 | Poção de Cura Média | Restaura 2d10 + Con Pontos de Vida ao ser consumida como Uma Ação.          | 7po   |
 | Poção de Cura Maior | Restaura 5d12 + Constituição Pontos de Vida ao ser consumida como Uma Ação. | 25po  |

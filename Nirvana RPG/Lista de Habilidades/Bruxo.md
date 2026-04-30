@@ -61,13 +61,13 @@ O que você colhe não é a alma de fato da criatura, pois isso a impediria de s
 
 ## Deus da Morte (Custo 3)
 
-**Requisitos**: Habilidade "Devorador de Almas" de custo 3. 6 de Inteligência, 10 de Fé.
+**Requisitos**: Habilidade "Devorador de Almas" de Custo 3. 6 de Inteligência, 10 de Fé.
 
 Essa Habilidade terá efeito apenas quando 100 almas sejam colhidas pela Habilidade "Devorador de Almas". O limite anterior é removido de apenas um Sortilégio e é expandido para três por Descanso Longo ou Curto. 
 
 ## Caos (Custo 3)
 
-**Requisitos**: 10 de Inteligência, 10 de Fé.
+**Requisitos**: Habilidade "Fogo Fátuo" de Custo 1. 10 de Inteligência, 10 de Fé.
 **Custo**: Reação, 5 de Mana.
 
 Ao conjurar qualquer Magia de Custo 10 que cause dano, você pode optar por triplicar a área de efeito (caso seja uma Magia em área), ou escolher dois alvos adicionais, se for de alvo único. No entanto, o dano causado por aqueles dentro da área adicional, ou pelos alvos adicionais sempre será de Dano de Fogo. As chamas criadas terão uma cor mais amarelada que o padrão.

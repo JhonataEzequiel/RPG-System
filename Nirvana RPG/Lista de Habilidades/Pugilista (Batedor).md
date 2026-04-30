@@ -57,9 +57,11 @@ Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adic
 
 **Requisitos**: 10 de Sabedoria.
 
-Seu cérebro funciona mais rapidamente que o das outras pessoas, e você processa informações de combate mais rápido que todas elas, se adaptando para a próxima vez que for lutar. Toda vez que você passar por um Encontro em que sofrer Dano Físico e sobreviver com menos da metade de seus Pontos de Vida, aumente-os permanentemente em 5 pontos. Caso o oponente não esteja utilizando Armas, com exceção de Armas naturais (como garras e dentes), você adiciona +10 Pontos de Vida permanentemente ao invés de 5. O máximo de Pontos de Vida adquiridos por essa Habilidade é de 50.
+Seu cérebro funciona mais rapidamente que o das outras pessoas, e você processa informações de combate mais rápido que todas elas. Além disso, você é capaz de trazer à tona elementos de sua mente, como uma luta imaginária que de fato tem efeito no mundo real.
 
-**Revelar** (Três Ações): Quaisquer ilusões que você criar que não visem fazer mal a uma criatura, seja com danos psíquicos ou causando um efeito negativo nela, podem ser manifestadas na realidade por 1 hora. Você pode interagir com elas como se existissem, e elas tem efeito no plano material.
+**Endorfina** (Passiva): O tempo que leva para um sinal enviado pelo seu cérebro ter efeito no seu corpo é cortado completamente. Sua CA aumenta em 1, e você tem +1 para acertar Ataques.
+
+**Revelar** (Três Ações, 3 de Mana): Quaisquer ilusões que você criar que não visem fazer mal a uma criatura, seja com danos psíquicos ou causando um efeito negativo nela, podem ser manifestadas na realidade por 1 hora. Você pode interagir com elas como se existissem, e elas tem efeito no plano material. Só pode ser usada uma vez por Descanso Longo.
 
 ## Costas do Demônio (Custo 3)
 
@@ -74,7 +76,7 @@ Uma vez por Descanso Longo, você contrai suas costas, que ficam tão definidas 
 **Requisitos**: 10 de Força.
 **Custo**: Duas Ações.
 
-Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham como a luz refletindo em um metal. Para acertar este Ataque você utilizará Atributos ao invés de Modificadores. O dano continuará sendo calculado da mesma maneira de um Ataque Desarmado, mas o alvo ficará Atordoado até o início do próximo Turno dele.
+Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham como a luz refletindo em um metal. Para acertar este Ataque você utilizará Atributos ao invés de Modificadores. O dano continuará sendo calculado da mesma maneira de um Ataque Desarmado, mas o alvo ficará Atordoado até o início do próximo Turno dele caso o Ataque acerte.
 
 ## Assassino Instantâneo do Inferno (Custo 3)
 
