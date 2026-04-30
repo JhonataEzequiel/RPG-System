@@ -13,6 +13,12 @@ Explorar o mundo com pouca bagagem é algo que você preza. Você recupera 1d4 a
 
 Você tem +10 em qualquer Teste para escalar algo fora de combate, e +5 em combate. Você pode pular mesmo em Terreno Difícil, mas o seu Deslocamento de pulo é apenas metade do normal.
 
+## Pulo Duplo (Custo 1)
+
+**Requisitos**: 2 de Destreza, 1 de Inteligência.
+
+Você pode executar um segundo pulo enquanto estiver no ar. Uma pequena quantidade de magia se concentra na ponta dos seus pés, o impulsionando para cima. O segundo pulo não conta para o seu deslocamento.
+
 ## Adrenalina (Custo 1)
 
 **Duração**: 3 Rodadas.

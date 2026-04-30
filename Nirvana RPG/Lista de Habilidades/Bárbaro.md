@@ -52,17 +52,9 @@ A Fúria acabará automaticamente ao finalizar um Encontro.
 ## Descuidado (Custo 1)
 
 **Custo**: Ação Bônus
-**Duração**: 1 Encontro.
+**Duração**: Um Encontro.
 
 Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. Pode utilizar essa Habilidade uma vez por Descanso Longo.
-
-## Sacrifício (Custo 1)
-
-**Requisitos**: 2 de Fé, 2 de Inteligência.
-**Custo**: Uma Ação, 5 de Mana.
-**Duração**: 3 Rodadas.
-
-Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado Crítico. Com Três Ações (ou quando a duração acabar), você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
 
 ## Canhão de Vidro (Custo 1)
 
@@ -102,7 +94,7 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
  
 ## Engodo da Ira (Custo 2)
 
-**Requisitos**: Habilidade Ofensiva "Fúria" de Custo 1.
+**Requisitos**: Habilidade "Fúria" de Custo 1.
 **Custo**: Reação.
 
 Você concede a um aliado dentro do alcance do seu Deslocamento os efeitos de Fúria. Só pode ser usada uma vez por Rodada. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também receberá os efeitos dela.

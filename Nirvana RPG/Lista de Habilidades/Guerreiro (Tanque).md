@@ -6,7 +6,7 @@ O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas a proteção f
 **Custo**: Ação Bônus.
 **Duração**: Duas Rodadas.
 
-Provoca uma criatura ao alcance de seu Deslocamento. O alvo deverá passar por um Teste de Resistência de Sabedoria CD 10 + Car para evitar de ser provocado. Caso falhe, todos os Ataques dele serão focados em você.
+Provoca uma criatura ao alcance de seu Deslocamento. O alvo deverá passar por um Teste de Resistência de Sabedoria CD 10 + Carisma para evitar de ser provocado. Caso falhe, todos os Ataques dele serão focados em você.
 
 ## Motor em Chamas (Custo 1)
 
@@ -59,7 +59,7 @@ Você agora adiciona o Modificador de Constituição como bônus à uma Salvagua
 
 **Requisitos**: 4 de Constituição.
 
-Adicione +1 Pontos de Vida por Nível permanentemente, tanto para Níveis anteriores ao momento em que você adquirir essa Habilidade, quanto futuros.
+Adicione +1 Ponto de Vida por Nível permanentemente, tanto para Níveis anteriores ao momento em que você adquirir essa Habilidade, quanto futuros.
 
 Alternativamente, adicione +1 a sua CA.
 

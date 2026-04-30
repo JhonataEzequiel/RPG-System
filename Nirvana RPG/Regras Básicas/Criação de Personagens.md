@@ -24,12 +24,12 @@ Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição.
 | 0                     | 1d6          |
 | 1                     | 1d8          |
 | 2                     | 1d10         |
-| 3                     | 2d4          |
+| 3                     | 1d12         |
 | 4                     | 2d6          |
 | 5                     | 2d8          |
-| 6                     | 3d4          |
-| 7                     | 4d4          |
-| 8                     | 4d6          |
+| 6                     | 2d10         |
+| 7                     | 4d6          |
+| 8                     | 4d8          |
 | 9                     | 3d10         |
 | 10                    | 3d12         |
 

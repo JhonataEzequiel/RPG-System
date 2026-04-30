@@ -59,7 +59,7 @@
 | Kusarigama         | 10po  | 1d8 + Dex Perfurante ou de Impacto | 2 de Destreza             | A em Destreza             | -                                                         | 4.5m               | 1.5 kg |
 | Glaive             | 6po   | 1d12 + For + Dex Cortante          | 3 de Força, 3 de Destreza | B em Força, D em Destreza | -                                                         | 3m                 | 3 kg   |
 | Guandao            | 6po   | 1d12 + Destreza Cortante           | 3 de Destreza             | A em Destreza             | -                                                         | 3m                 | 2.5 kg |
-| Lâmina Gêmea       | 14po  | 1d6 + For + Dex Cortante           | 1 de Força, 3 de Destreza | D em Força, B em Destreza | Causa o dano de dois Ataques sempre que acertar um Ataque | 1.5m               | 5 kg   |
+| Lâmina Gêmea       | 14po  | 1d4 + For + Dex Cortante           | 1 de Força, 3 de Destreza | D em Força, B em Destreza | Causa o dano de dois Ataques sempre que acertar um Ataque | 1.5m               | 5 kg   |
 
 ### Armas a Distância
 

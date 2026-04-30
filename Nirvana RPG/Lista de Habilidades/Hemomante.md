@@ -7,6 +7,14 @@ O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias de Sang
 
 Sempre que precisar rolar um dado para decidir quantos Pontos de Vida serão sacrificados ao conjurar uma Magia de Sangue você diminui o resultado em 1d4 (mínimo de 1 ponto sacrificado).
 
+## Sacrifício (Custo 1)
+
+**Requisitos**: 2 de Fé, 2 de Inteligência.
+**Custo**: Uma Ação, 5 de Mana.
+**Duração**: Três Rodadas.
+
+Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado Crítico. Com Três Ações (ou quando a duração acabar), você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
+
 ## Hemomancia Venenosa (Custo 1)
 
 **Requisitos**: 2 de Inteligência, 2 de Fé.
@@ -26,7 +34,7 @@ Quando estiver fora de combate você pode sacrificar 2d4 Pontos de Vida durante 
 
 **Requisitos**: 4 de Inteligência, 4 de Fé.
 
-Você agora pode sacrificar 40 Pontos de Vida e 8 horas para criar uma Pedra de Infusão qualquer através de seu sangue. O sangue se transmuta e se materializa com novas propriedades mágicas, mas retém uma coloração avermelhada. Os Pontos de Vida sacrificados só poderão ser recuperados com um Descanso Longo.
+Você agora pode sacrificar 40 Pontos de Vida e 8 horas para criar uma Pedra de Infusão qualquer através de seu sangue. O sangue se transmuta e se materializa com novas propriedades mágicas, mas retém uma coloração avermelhada.
 
 ## Veneno Potente Carmesim (Custo 3)
 

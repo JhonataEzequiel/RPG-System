@@ -13,7 +13,7 @@ Ao atingir o Nível 8, você adiciona seu Bônus de Proficiência inteiro, ao in
 
 ## Maestria com Empunhadura Dupla (Custo 1)
 
-Quando acertar três Ataques em um mesmo Encontro com Armas de Empunhadura Dupla você poderá adicionar seu Bônus de Proficiência ao dano do quarto Ataque. No Nível 12, você só precisará acertar dois Ataques, e o terceiro poderá receber o Bônus de Proficiência.
+Você adiciona metade do seu Bônus de Proficiência ao dano causado por Armas de Empunhadura Dupla. No Nível 5 em diante, você adiciona o bônus inteiro.
 
 ## Maestria com Punhos (Custo 1)
 

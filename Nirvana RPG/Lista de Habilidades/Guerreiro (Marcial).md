@@ -11,9 +11,9 @@ Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz
 
 ## Ataque Carregado (Custo 1)
 
-**Custo**: Três Ações.
+**Custo**: Três Ações, 1 de Mana.
 
-Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado. Você não pode utilizar Ações Bônus ou Reações na Rodada em que usar essa Habilidade.
+Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado.
 
 ## Ataque Extra (Custo 1)
 
@@ -47,7 +47,7 @@ Você pode, alternativamente, só se curar ao invés de utilizar essa habilidade
 
 **Custo**: Ação Bônus.
 
-Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 4d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual ao da Arma que você utilizar.
+Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 3d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual ao da Arma que você utilizar.
 
 ## Rajada de Estocadas (Custo 2)
 
@@ -85,7 +85,7 @@ Sua lâmina agora é energizada com força divina que vem de dentro de você, n�
 **Requisitos:** Habilidade "Golpe Duplo" de Custo 2.
 **Custo**: Ação Livre, 2 de Mana.
 
-Esta Habilidade só pode ser usada após utilizar a Habilidade Ofensiva "Golpe Duplo".
+Esta Habilidade só pode ser usada após utilizar a Habilidade "Golpe Duplo".
 
 Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo. Esse terceiro Ataque apenas causa mais dano, não contando como um Ataque normal.
 

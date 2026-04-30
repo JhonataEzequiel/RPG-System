@@ -15,35 +15,35 @@
 
 ## 💠 Atributos
 
-| Atributo         | Valor | Modificador |
-|------------------|-------|-------------|
-| Constituição      |       |             |
-| Força             |       |             |
-| Destreza          |       |             |
-| Sabedoria         |       |             |
-| Inteligência      |       |             |
-| Fé                |       |             |
-| Carisma           |       |             |
+| Atributo     | Valor | Modificador |
+| ------------ | ----- | ----------- |
+| Constituição |       |             |
+| Força        |       |             |
+| Destreza     |       |             |
+| Sabedoria    |       |             |
+| Inteligência |       |             |
+| Fé           |       |             |
+| Carisma      |       |             |
 
 ---
 
 ## ❤️ Pontos de Vida
 
-| Campo                        | Valor |
-|------------------------------|-------|
-| Pontos de Vida Máximos       |       |
-| Pontos de Vida Atuais        |       |
-| Pontos de Vida Temporários   |       |
+| Campo                      | Valor |
+| -------------------------- | ----- |
+| Pontos de Vida Máximos     |       |
+| Pontos de Vida Atuais      |       |
+| Pontos de Vida Temporários |       |
 
 ---
 
 ## 🔵 Pontos de Mana
 
-| Campo                       | Valor |
-|-----------------------------|-------|
-| Pontos de Mana Máximos      |       |
-| Pontos de Mana Atuais       |       |
-| Pontos de Mana Temporários  |       |
+| Campo                      | Valor |
+| -------------------------- | ----- |
+| Pontos de Mana Máximos     |       |
+| Pontos de Mana Atuais      |       |
+| Pontos de Mana Temporários |       |
 
 ---
 
@@ -57,10 +57,10 @@
 
 ## 🛡️ Combate
 
-| Campo               | Valor |
-| ------------------- | ----- |
-| Classe de Armadura  |       |
-| Iniciativa          |       |
+| Campo              | Valor |
+| ------------------ | ----- |
+| Classe de Armadura |       |
+| Iniciativa         |       |
 
 ---
 
@@ -166,9 +166,9 @@
 ## 🎒 Equipamentos
 
 
-| Capacidade de Carga Atual (Em Quilos) | Capacidade de Carga Total (Em Quilos) |
-| ------------------------------------- | ------------------------------------- |
-|                                       |                                       |
+| Carga Atual (Em Quilos) | Capacidade de Carga Total (Em Quilos) |
+| ----------------------- | ------------------------------------- |
+|                         |                                       |
 
 
 ### Armas

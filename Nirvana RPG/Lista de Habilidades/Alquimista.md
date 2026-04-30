@@ -1,6 +1,12 @@
 
 O Arquétipo do Alquimista engloba o domínio sobre a criação de itens consumíveis e arremessáveis.
 
+## Artesão de Bombas (Custo 1)
+
+**Requisitos**: 2 de Inteligência.
+
+Você agora consegue fabricar um item arremessável qualquer que não seja considerado um Item Mágico ou Único. Para cada item criado você dedica 1 minuto fora de combate, ou três Rodadas em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
+
 ## Lança Granadas (Custo 1)
 
 **Requisitos**: 3 de Destreza ou Força.
@@ -16,12 +22,6 @@ A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não 
 **Requisitos**: 1 de Destreza ou Força.
 
 Você agora pode arremessar poções, que caem em um local, afetando uma área circular de 3m de raio. Poções de Restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 Pontos de Vida. Outras poções são de alvo único, e a duração delas é de uma Rodada, mesmo que na descrição o item diga que é maior.
-
-## Artesão de Bombas (Custo 1)
-
-**Requisitos**: 2 de Inteligência.
-
-Você agora consegue fabricar um item arremessável qualquer que não seja considerado um Item Mágico ou Único. Para cada item criado você dedica 1 minuto fora de combate, ou três Rodadas em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
 
 ## Alquimista Iniciante (Custo 1)
 
