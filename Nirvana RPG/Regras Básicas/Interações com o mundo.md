@@ -1,3 +1,4 @@
+
 Durante a campanha criada pelo mestre os jogadores poderão interagir de diversas maneiras com o mundo, desde diálogos até lutas grandiosas, alterando até mesmo os planos iniciais que o mestre tinha para uma sessão ou até mesmo para a campanha inteira.
 
 ## Ações Padrão (ou Simplesmente "Ações")

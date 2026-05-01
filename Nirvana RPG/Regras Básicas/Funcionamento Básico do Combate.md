@@ -1,3 +1,4 @@
+
 Batalhas acontecerão o tempo todo, e podem se desenrolar de várias maneiras diferentes. Quando se está em um confronto, o foco é encerrar o conflito antes de fazer outras coisas. Existem muitos jeitos de se encerrar um conflito, seja com lábia, fugindo, ou derrotando os inimigos. Durante uma batalha existem algumas regras a se seguir, sendo listadas abaixo.
 
 ## Encontros

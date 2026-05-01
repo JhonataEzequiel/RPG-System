@@ -1,3 +1,4 @@
+
 Seu personagem, por padrão, fala "Comum", o idioma central mais falado por todas as Raças. Existem outros Idiomas que irão depender do cenário da Campanha, e de quem o fala. Alguns exemplos são:
 
 Feérico: falado por Fadas e seres mágicos.

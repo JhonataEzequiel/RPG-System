@@ -1,4 +1,4 @@
-### Armaduras
+## Armaduras
 
 Armaduras possuem pré-requisitos de atributo (de 0 a 10). Sem atendê-los, a Armadura conta apenas como peso extra — efeitos negativos ainda se aplicam, mas a CA e quaisquer efeitos positivos não.
 
@@ -14,7 +14,7 @@ Armaduras também escalam com atributos (D a S), concedendo bônus crescentes co
 | C      | +2 Pontos de Vida Máximos  | +1 de Resistência a Dano Físico             | +2 Pontos de Vida Máximos  | +1 de Iniciativa | +1 de CA                |
 | D      | +1 Ponto de Vida Máximo    | +1 de Resistência a Dano Físico             | +1 Ponto de Vida Máximo    | +1 de Iniciativa | +1 Ponto de Vida Máximo |
 
-### Armas
+## Armas
 
 Armas possuem pré-requisitos e escalas de atributo. Sem atender aos requisitos, o dano é sempre 1 do tipo de dano da arma e cada Ataque custa Três Ações — Ataques de Oportunidade também ficam indisponíveis.
 
@@ -38,24 +38,26 @@ O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. 
 | C      | +1 de dano | +1 de dano | +2 de dano | +2 de dano  | +2 para acertar o Ataque |
 | D      | +1 de dano | +1 de dano | +1 de dano | +1 de dano  | +1 para acertar o Ataque |
 
-### Escudos
+## Escudos
 
 Escudos seguem as mesmas regras de escala das Armaduras, mas não adicionam CA diretamente. Quando uma escala concederia CA, o escudo concede o dobro desse valor como Pontos de Vida Máximos. Bônus de escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum bônus de escalas, nem poderá utilizar Habilidades que interajam com seu Escudo. O Escudo deverá ocupar uma das mãos.
 
-### Peso dos Equipamentos
+## Peso dos Equipamentos
 
 O peso total carregado é a soma de todos os itens equipados e transportados. Se você ultrapassar a Capacidade de Carga, você terá a Condição Exaustão 2. Ao se livrar da carga extra, a Condição é retirada imediatamente.
 
-### Itens Mágicos
+## Itens Mágicos
 
 Itens mágicos variam do Grau 1 ao 3. Grau superior não significa necessariamente mais poderoso, mas com certeza serão mais raros.
 
-### Munições
+## Munições
 
 Armas que disparam projéteis consomem uma unidade de munição por Ataque. Após um Encontro, é possível recuperar metade das munições gastas (arredondado para baixo), desde que o campo de batalha esteja acessível. Munições de Armas de Fogo não podem ser recuperadas.
 
-### Moedas
+## Moedas
 
 Moedas ditam a economia do jogo e servem como tesouro básico. Preços variam por local e raridade do item.
 
-[[Armaduras]] [[Armas]] [[Escudos]] [[Moedas]] [[Nirvana RPG/Equipamentos/Itens Únicos e Itens Mágicos/Itens Únicos e Mágicos]] [[Instrumentos Musicais]] [[Grimórios]] [[Poções e Venenos]] [[Arremessáveis]] [[Infusões]] [[Outros Itens]]
+## Itens Aplicáveis
+
+Existem alguns itens que podem ser aplicados a outros, e são consumidos no processo. Os efeitos são diversos, assim como peso, preço, e outras características.

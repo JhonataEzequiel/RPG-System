@@ -1,3 +1,4 @@
+
 A tabela abaixo contém itens básicos úteis para aventureiros em suas jornadas. Estes itens não possuem efeitos mecânicos complexos, mas são essenciais para sobrevivência, exploração, e utilidades diversas. O mestre pode determinar consequências narrativas para a falta de itens essenciais, como penalidades em Testes de sobrevivência ou descanso sem equipamento adequado.
 
 | Item                      | Funcionalidade                                                                                                                                                                                | Custo | Peso                         |

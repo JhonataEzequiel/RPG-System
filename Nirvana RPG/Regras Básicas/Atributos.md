@@ -1,3 +1,4 @@
+
 Os Atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses Atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso você opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de Atributos totais são 7, sendo eles: Constituição, Força, Destreza, Sabedoria, Inteligência, Fé, e Carisma. Você receberá Pontos de Atributo para investir como quiser, tanto no Nível 1, quanto nos Níveis subsequentes.
 
 Os Atributos terão um Limite de Nível Máximo que aumentará conforme seu Nível, seguindo a tabela a seguir:
@@ -45,7 +46,7 @@ Normalmente é utilizado fora de combate, mas também pode ser usado para desblo
 
 ## Modificadores
 
-Os Modificadores serão valores derivados dos Atributos, correspondendo a metade do valor total, arredondado para baixo. Servirão em Testes, cuja as regras estão detalhadas no capítulo de [[Interações com o mundo]]. O Modificador é representado pela sigla de seu Atributo, sendo elas:
+Os Modificadores serão valores derivados dos Atributos, correspondendo a metade do valor total, arredondado para baixo. Servirão em Testes, detalhados mais a frente. O Modificador é representado pela sigla de seu Atributo, sendo elas:
 
 - Constituição: “Con”
 - Força: “For”

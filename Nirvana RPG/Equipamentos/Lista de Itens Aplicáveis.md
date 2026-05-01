@@ -1,3 +1,4 @@
+
 Alguns itens consumíveis podem ser aplicáveis em outros itens. Fazendo isso, é possível ter efeitos diversos. Para aplicar um item em outro é necessário uma Ação.
 
 ### Resinas

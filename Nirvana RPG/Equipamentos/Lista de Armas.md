@@ -1,3 +1,4 @@
+
 ### Armas de Punho
 
 | Arma               | Preço | Dano                        | Requisitos                | Escalas                   | Característica Única | Aumento de Alcance | Peso   |

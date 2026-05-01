@@ -3,7 +3,7 @@ No capítulo inicial desse livro serão explicados conceitos básicos para jogad
 
 ### O Que É Um RPG?
 
-RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de papéis". Trata-se de um jogo de mesa onde os jogadores se reúnem para se imaginar e agir como se estivessem em outros mundos ou cenários, variando desde cenários fantásticos; de ficção científica; históricos; etc., existindo nestes mundos, e experienciando a vivência de um personagem naquele contexto. Normalmente, uma história contínua em um mundo de RPG é chamada de Campanha. Outrossim, o nome comumente utilizado para se referir a um coletivo de jogadores atualmente jogando RPG é Mesa de RPG.
+RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de papéis". Trata-se de um jogo de mesa onde os jogadores se reúnem para se imaginar e agir como se estivessem em outros mundos ou cenários, como em fantasias medievais, mundos de ficção científica, dentre outros. Eles passam a existir nestes mundos, e experienciam a vivência de um personagem naquele contexto. Normalmente, uma história contínua em um mundo de RPG é chamada de Campanha. Outrossim, o nome comumente utilizado para se referir a um coletivo de jogadores atualmente jogando RPG é Mesa de RPG.
 
 ### O Que É Necessário Para Jogar Este Jogo?
 

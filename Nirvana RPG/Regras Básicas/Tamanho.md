@@ -1,3 +1,4 @@
+
 Criaturas, objetos, e objetos de cenário variam em tamanho. As dimensões aproximadas são tanto de altura quanto de largura, mas é possível que variem entre si, como uma parede que é maior verticalmente do que horizontalmente. Neste caso, o maior valor entre largura e altura é considerado para sua classificação. 
 
 O peso pode variar bastante, não dependendo necessariamente da altura. No entanto, o peso deve permanecer dentro da faixa do tamanho, salvo exceções explicitamente descritas.

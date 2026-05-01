@@ -1,3 +1,4 @@
+
 O Nível de um personagem determinará o quão apto para encarar certos desafios ele está. O Nível Médio do grupo é calculado dividindo a soma dos Níveis por 4. Esse Nível Médio será o critério utilizado pelo mestre para determinar os desafios que o grupo enfrentará, como monstros, Testes, dentre outras coisas. Um jogador pode aumentar seu Nível adquirindo Pontos de Experiência.
 
 # Evoluindo Além do Nível 1

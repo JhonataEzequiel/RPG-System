@@ -1,3 +1,4 @@
+
 ## Deslocamento
 
 O Deslocamento é a medida, em metros, de quanto você consegue andar em um determinado Turno. Também é o alcance de ações físicas no Turno. Há cinco tipos de Deslocamento: Terrestre, Aéreo, Aquático, Escalada, e Cavando.

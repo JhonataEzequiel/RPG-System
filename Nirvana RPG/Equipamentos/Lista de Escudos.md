@@ -1,3 +1,4 @@
+
 Segue uma tabela contendo os escudos básicos, assim como seus preços sugeridos, requisitos, escalas, e peso.
 
 | Escudo                | Preço | Requisitos                | Escalas                   | Peso  |

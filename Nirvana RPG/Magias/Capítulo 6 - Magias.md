@@ -1,4 +1,3 @@
-## Regras
 
 Existem Magias e Arcanos Menores. Arcanos Menores não gastam Mana, já Magias, gastam. Cada Magia tem Requisitos especificados, podendo ser de Inteligência, Fé, ou Carisma. A quantidade de Mana gasta é igual a seu Requisito, caso o Requisito seja único. Se a Magia pedir mais de um Atributo para ser conjurada, o custo será a média dos Requisitos arredondada para cima.
 
@@ -35,40 +34,3 @@ Magias Sombrias representam a parte obscura da realidade, sendo caracterizadas p
 ### Magias Imaculadas 
 
 Magias Imaculadas são as com mais variações em seus efeitos. Num geral, não tem um tema em específico. Podem ter como Requisitos qualquer um dos atributos entre Inteligência, Carisma, e Fé, e qualquer combinação entre eles.
-
-## Layout Básico
-
-### Nome da Magia
-
-- Requisito em Inteligência: 00
-- Requisito em Fé: 00
-- Requisito em Carisma: 00
-- Requisitos Adicionais (se houver, como possuir um item): \#Requisitos#
-- Duração: 00
-- Alcance: 00
-- Tempo de Conjuração: (quantidade de ações)
-
-**Descrição:** \#Descrição#
-
-  
-
-Lista de Magias de Inteligência:
-[[Inteligência]]
-
-Lista de Magias de Fé:
-[[Fé]]
-
-Lista de Magias de Carisma:
-[[Carisma]]
-
-[[Nirvana RPG/Magias/Elementais/Elementais]]
-
-[[Sagradas]]
-
-[[Nirvana RPG/Magias/Sortilégios/Sortilégios]]
-
-[[De Sangue]]
-
-[[De Ilusão]]
-
-[[Imaculadas]]
