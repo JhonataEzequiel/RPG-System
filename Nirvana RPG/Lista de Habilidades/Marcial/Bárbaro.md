@@ -51,7 +51,7 @@ A Fúria acabará automaticamente ao finalizar um Encontro.
 
 ## Descuidado (Custo 1)
 
-**Custo**: Ação Bônus, 5 de Mana.
+**Custo**: Ação Bônus, 1 de Mana.
 **Duração**: Um Encontro.
 
 Todas as vezes que você causar dano a alguém, causará 1d6 a mais de Dano Verdadeiro. Todas as vezes que você receber dano, receberá 1d6 a mais de Dano Verdadeiro. Pode utilizar essa Habilidade uma vez por Descanso Longo.
@@ -92,13 +92,6 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 
  Você ataca todos os inimigos em um círculo centrado nele de Raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano do Ataque é o dano de um Ataque normal, acrescentado de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado.
  
-## Engodo da Ira (Custo 2)
-
-**Requisitos**: Habilidade "Fúria" de Custo 1.
-**Custo**: Reação.
-
-Você concede a um aliado dentro do alcance do seu Deslocamento os efeitos de Fúria. Só pode ser usada uma vez por Rodada. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também receberá os efeitos dela.
- 
 ## Marcas de Guerra Melhorada (Custo 2)
 
 **Requisitos**: Habilidade "Marcas de Guerra" de custo 1.
@@ -124,6 +117,13 @@ Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 * Seus Ataques agora usam o Atributo ao invés do Modificador para calcular o dano;
 * Seu Nível como Pontos de Vida Temporários que duram por 3 Rodadas ou até a Fúria acabar.
 
+## Engodo da Ira (Custo 3)
+
+**Requisitos**: Habilidade "Fúria" de Custo 1.
+**Custo**: Reação.
+
+Você concede a um aliado dentro do alcance do seu Deslocamento os efeitos de Fúria. Só pode ser usada uma vez por Rodada. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também receberá os efeitos dela.
+
 ## Crítico Garantido (Custo 3)
 
 **Requisitos**: 10 de Força ou 10 de Destreza.
@@ -143,7 +143,7 @@ Golpeia um alvo com toda a sua Força, afetando o psicológico e a alma dele al�
 
 **Requisitos**: 8 de Força.
 
-Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar mais dano. O dano adicional será seu Nível de Força vezes o Custo da Habilidade, mais seu Bônus de Proficiência.
+Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar mais dano. O dano adicional será seu Nível de Força vezes o seu Bônus de Proficiência.
 
 ## Diamante (Custo 3)
 

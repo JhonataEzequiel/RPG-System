@@ -15,6 +15,12 @@ Você liga sua mente a de um alvo caso ele falhe num Teste de Resistência de Sa
 
 Ao invés de utilizar um Ataque a mais sem sofrer penalidades, você pode optar por conjurar um Arcano Menor com uma Ação Livre. Fazendo isso, seu próximo Ataque ainda terá Penalidades. Caso você tenha a Habilidade de Guerreiro (Marcial) "Ataque Extra Aprimorado" de Custo 3, você anulará as Penalidades de apenas um Ataque, não de dois, se optar por conjurar o Arcano Menor.
 
+## Iniciado em Arcanos Menores (Custo 1)
+
+**Requisitos**: 2 de Destreza ou Força.
+
+Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece ou que pode preparar é diminuída em 5, cada. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada.
+
 ## Corpo Elemental (Custo 2)
 
 **Requisitos**: 4 de Constituição, 2 de Inteligência, 1 de Sabedoria.

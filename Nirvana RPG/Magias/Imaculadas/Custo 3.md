@@ -28,4 +28,4 @@ Caso escolha utilizar 8 horas para conjurar a Magia, as plantas num raio de 30 m
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você toca uma Arma e a imbui de Magia. Você ignora Invulnerabilidades a Dano Físico com aquela Arma, podendo causar dano a seres espectrais e similares.
+**Descrição:** Você toca uma Arma e a imbui de Magia. Você ignora Invulnerabilidades com aquela Arma.

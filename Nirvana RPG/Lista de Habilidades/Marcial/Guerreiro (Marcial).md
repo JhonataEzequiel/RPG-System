@@ -27,6 +27,12 @@ Você pode realizar dois Ataques seguidos sem se preocupar com a primeira penali
 
 Você agora não pode realizar mais do que um Ataque por Turno. Além disso, você não poderá usar Habilidades de Ataque que tenham como Custo duas ou três Ações. Em troca, seus Ataques agora causam o dano de dois Ataques.
 
+## Foco de Ataque (Custo 1)
+
+**Requisitos**: 2 de Força ou 2 de Destreza.
+
+Você pode sacrificar uma de suas Ações neste Turno para ganhar +2 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 1d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque.
+
 ## Golpe Duplo (Custo 2)
 
 **Requisitos**: 2 de Destreza ou 2 de Força.
@@ -72,6 +78,15 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 
 **Posição de Poder**: Armas de Empunhadura Dupla agora podem ser utilizadas como Armas Comuns.
 
+## Golpe Triplo (Custo 2)
+
+**Requisitos:** Habilidade "Golpe Duplo" de Custo 2.
+**Custo**: Ação Livre.
+
+Esta Habilidade só pode ser usada após utilizar a Habilidade "Golpe Duplo".
+
+Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo.
+
 ## Um Com os Céus (Custo 2)
 
 **Requisitos:** ser capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
@@ -79,15 +94,6 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 
 Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer Imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o Atributo de Destreza na Iniciativa ao invés do Modificador sempre que o utilizar para acertar Ataques ou causar dano. Além disso, tem uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
-
-## Golpe Triplo (Custo 3)
-
-**Requisitos:** Habilidade "Golpe Duplo" de Custo 2.
-**Custo**: Ação Livre, 2 de Mana.
-
-Esta Habilidade só pode ser usada após utilizar a Habilidade "Golpe Duplo".
-
-Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo.
 
 ## Ataque Extra Aprimorado (Custo 3)
 
