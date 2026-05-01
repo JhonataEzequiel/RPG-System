@@ -9,7 +9,7 @@ Você consegue criar pequenos autômatos a partir de materiais encontrados pelo 
 
 Eles podem andar, sendo seu Deslocamento de 12m. Além disso, podem realizar qualquer Ação Livre possível. Eles tem o tamanho Pequeno. Por fim, podem realizar tarefas básicas, como pegar um item, levar um item até um local, puxar uma alavanca, limpar um local, cozinhar receitas simples, etc.
 
-Você pode ter até 2 autômatos ativos no total ao mesmo tempo. Você gasta 5po para confeccionar um autômato, e demora 1 hora para fazer cada um deles. A CA deles é 10, e possuem 10 Pontos de Vida. Todos os Atributos deles são -1.
+Você pode ter até 1 autômato ativo no total ao mesmo tempo. Você gasta 5po para confeccionar um autômato, e demora 1 hora para fazer cada um deles. A CA deles é 10, e possuem 10 Pontos de Vida. Todos os Atributos deles são -1.
 
 ## Bucaneiro (Custo 1)
 
@@ -39,7 +39,7 @@ Qualquer coisa que seja considerada um objeto pode ser guardado na gaiola. O tem
 
 Você agora consegue criar Autômatos Menores pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses Autômatos Medianos possuem capacidade de lutar ou agir por conta própria em um Encontro. Eles podem Atacar, se esconder, arremessar objetos, utilizar-se de Armas e Armaduras que você concede a eles, realizar Ataques a Distância com Armas a distância, administrar Poções e Venenos, e realizar qualquer ação de movimento. Eles são de tamanho Pequeno, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
 
-Você pode ter até 3 autômatos no total ativos ao mesmo tempo. Assim como os Autômatos Menores, precisam de luz do sol ou Mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um Autômato Mediano são todos iguais a 1, e eles tem uma Ação e uma Ação Bônus no Turno deles. A CA deles é 11 + qualquer bônus concedido por Armaduras, e tem 5d4 de Pontos de Vida. O Deslocamento deles é de 9m.
+Você pode ter até 2 autômatos no total ativos ao mesmo tempo. Assim como os Autômatos Menores, precisam de luz do sol ou Mana para funcionarem, seguindo as mesmas regras deles. Os atributos de um Autômato Mediano são todos iguais a 1, e eles tem uma Ação e uma Ação Bônus no Turno deles. A CA deles é 11 + qualquer bônus concedido por Armaduras, e tem 5d4 de Pontos de Vida. O Deslocamento deles é de 9m.
 
 Você gasta o equivalente a 15po em materiais para criar um Autômato Mediano, e precisa de 2 horas para criar um deles.
 
@@ -65,7 +65,7 @@ Você se torna mais hábil na criação das gaiolas, fazendo com que desperdice 
 
 Você agora consegue criar Autômatos Medianos pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses Autômatos Maiores possuem quaisquer capacidades que os demais, mais fracos, possuíam. Eles são de tamanho Grande, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
 
-Você pode ter até 4 autômatos ativos ao mesmo tempo. Assim como os Autômatos Menores e Medianos, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os Atributos de um Autômato Maior são todos iguais a 3, e eles tem duas Ações e uma Ação Bônus no Turno deles. A CA deles é 13 + qualquer bônus concedido por Armaduras, e tem 5d8 de Pontos de Vida. O Deslocamento deles é de 9m.
+Você pode ter até 3 autômatos ativos ao mesmo tempo. Assim como os Autômatos Menores e Medianos, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os Atributos de um Autômato Maior são todos iguais a 3, e eles tem uma Ação e uma Ação Bônus no Turno deles. A CA deles é 13 + qualquer bônus concedido por Armaduras, e tem 5d8 de Pontos de Vida. O Deslocamento deles é de 9m.
 
 Você gasta o equivalente a 35po em materiais para criar um Autômato Maior, e precisa de 8 horas para criar um deles.
 

@@ -13,7 +13,7 @@ Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz
 
 **Custo**: Três Ações, 1 de Mana.
 
-Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 10 + For. Você rola um Ataque, e se acertar, role o dano normal e depois triplique o resultado.
+Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 12 + For. Você rola um Ataque, e se acertar, role o dano normal e adicione 2d4 + seu Nível a mais ao dano. O tipo de dano desse adicional será igual a um dos tipos de dano que você causa com seus Ataques, à sua escolha.
 
 ## Ataque Extra (Custo 1)
 
@@ -30,9 +30,9 @@ Você agora não pode realizar mais do que um Ataque por Turno. Além disso, voc
 ## Golpe Duplo (Custo 2)
 
 **Requisitos**: 2 de Destreza ou 2 de Força.
-**Custo**: Ação Livre, 1 de Mana.
+**Custo**: Ação Livre.
 
-Você ataca novamente imediatamente após realizar um Ataque, causando metade do dano, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque apenas causa mais dano, não contando como um Ataque normal.
+Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 + For ou Dex de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque apenas causa mais dano, não contando como um Ataque normal.
 
 ## Nove Vidas (Custo 2)
 
@@ -87,7 +87,7 @@ Sua lâmina agora é energizada com força divina que vem de dentro de você, n�
 
 Esta Habilidade só pode ser usada após utilizar a Habilidade "Golpe Duplo".
 
-Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo. Esse terceiro Ataque apenas causa mais dano, não contando como um Ataque normal.
+Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo.
 
 ## Ataque Extra Aprimorado (Custo 3)
 

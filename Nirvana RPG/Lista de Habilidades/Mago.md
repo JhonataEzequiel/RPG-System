@@ -5,7 +5,9 @@ O Arquétipo do Mago conterá Habilidades que beneficiarão usuários de Magias 
 
 **Requisitos**: Ser Perito em História.
 
-Você tem facilidade em entender culturas diferentes da sua. Sempre que você se deparar com uma cultura diferente da sua, como quando viajar para uma nova cidade, ou estiver conversando com monstros que vivam em sociedade, você terá +4 em Testes de História para descobrir mais sobre aquele povo. Coisas como a religião do povo, seus costumes, e organização social serão de mais fácil entendimento. 
+Você tem facilidade em entender culturas diferentes da sua. Você pode dedicar 3 dias em um novo local aonde você chegue que tenha pessoas morando, como uma vila ou cidade. Você passa esse tempo estudando o local e se aperfeiçoando. Após isso, enquanto estiver dentro da cidade, seu Bônus de Proficiência é acrescido de 3, mas apenas para Testes de Sabedoria, Inteligência, Fé, ou Carisma. Isto incluí Perícias, Salvaguardas, e outros Testes genéricos.
+
+Você pode interagir com outros personagens, fazer compras, visitar locais, mas não poderá entrar em combate neste meio tempo.
 
 ## Assinatura de Mana (Custo 1)
 

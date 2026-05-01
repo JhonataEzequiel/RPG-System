@@ -9,6 +9,12 @@ O Arquétipo do Guerreiro Arcano contém Habilidades que focam em misturar estra
 
 Você liga sua mente a de um alvo caso ele falhe num Teste de Resistência de Sabedoria CD 10 + Sab. Você anula a capacidade dele de usar Mana, mas você também não poderá usar Mana. Todo dano causado no alvo será refletido em você, fazendo com que você tome metade dele como Dano Verdadeiro. O alvo ainda recebe o dano completo, você apenas é ferido também. O dano que você receberá será metade do dano que o alvo recebeu após ter calculado o valor sobre quaisquer Resistências que ele possua.
 
+## Ataque Extra Mágico (Custo 1)
+
+**Requisitos**: Habilidade de Guerreiro (Marcial) "Ataque Extra" de Custo 1.
+
+Ao invés de utilizar um Ataque a mais sem sofrer penalidades, você pode optar por conjurar um Arcano Menor com uma Ação Livre. Fazendo isso, seu próximo Ataque ainda terá Penalidades. Caso você tenha a Habilidade de Guerreiro (Marcial) "Ataque Extra Aprimorado" de Custo 3, você anulará as Penalidades de apenas um Ataque, não de dois, se optar por conjurar o Arcano Menor.
+
 ## Corpo Elemental (Custo 2)
 
 **Requisitos**: 4 de Constituição, 2 de Inteligência, 1 de Sabedoria.

@@ -20,7 +20,7 @@ Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo complet
 **Requisitos**: 2 de Inteligência, 2 de Fé.
 **Custo**: Reação, 1 de Mana.
 
-Ao causar Dano Cortante ou Perfurante com seus Ataques corpo a corpo você pode escorrer parte do seu sangue para dentro do alvo, causando Dano Venenoso igual a duas vezes os Pontos de Vida que desejar gastar. Os Pontos de Vida sacrificados não podem ser recuperados enquanto o Encontro não acabar.
+Ao causar Dano Cortante ou Perfurante com seus Ataques corpo a corpo você pode escorrer parte do seu sangue para dentro do alvo, causando Dano Venenoso igual a duas vezes os Pontos de Vida que desejar gastar. Os Pontos de Vida sacrificados não podem ser recuperados enquanto o Encontro não acabar. O máximo de Pontos de Vida gastos por instância dessa Habilidade é de 10 + Fth + Int.
 
 ## Oferenda (Custo 2)
 

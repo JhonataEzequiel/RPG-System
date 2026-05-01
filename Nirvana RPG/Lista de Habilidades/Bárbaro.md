@@ -51,14 +51,14 @@ A Fúria acabará automaticamente ao finalizar um Encontro.
 
 ## Descuidado (Custo 1)
 
-**Custo**: Ação Bônus
+**Custo**: Ação Bônus, 5 de Mana.
 **Duração**: Um Encontro.
 
-Todas as vezes que você causar dano a alguém, causará o dobro de dano. Todas as vezes que você receber dano, receberá o dobro de dano. Pode utilizar essa Habilidade uma vez por Descanso Longo.
+Todas as vezes que você causar dano a alguém, causará 1d6 a mais de Dano Verdadeiro. Todas as vezes que você receber dano, receberá 1d6 a mais de Dano Verdadeiro. Pode utilizar essa Habilidade uma vez por Descanso Longo.
 
 ## Canhão de Vidro (Custo 1)
 
-**Requisitos**: Máximo de 7 de Constituição.
+**Requisitos**: Máximo de 5 de Constituição.
 
 Você não pode mais usar qualquer Armadura, nem mesmo Armadura mágica. Sua CA não poderá ultrapassar 16 independente do que aconteça. Você recebe +1 ponto na Margem de Ameaça, e toda vez que tiver um Acerto Crítico adicione 2d4 ao dano. Esse dano adicional não passará por nenhum multiplicador.
 

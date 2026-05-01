@@ -23,6 +23,19 @@ Você poderá optar por uma das especializações disponíveis. Cada uma concede
 
 Você seleciona até 2 alvos no alcance desta Habilidade. Após isso, você toca uma música que os enche de força de vontade, fazendo-os ter +2 para acertar o próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantém os bônus até acertar.
 
+## Versatilidade Musical (Custo 1)
+
+**Requisitos**: Ser perito em Música.
+**Duração**: Até o fim do próximo Encontro.
+**Custo**: Ação Livre, 2 de Mana.
+
+Todas as vezes que você tocar uma música fora de combate enquanto tiver um Descanso Longo, pode refletir na letra dela, e extrair um ensinamento adicional. Você escolhe um dos seguintes bônus:
+- Você adiciona metade do seu Bônus de Proficiência para acertar Ataques de um tipo de Arma que não é proficiente, à sua escolha.
+- Você se torna perito em uma Perícia que não é perito, à sua escolha.
+- Você se torna proficiente em uma Salvaguarda que não é proficiente, à sua escolha.
+
+A Mana gasta por essa Habilidade não é recuperada com o Descanso. Você pode escolher usar essa Habilidade ou não.
+
 ## Canção Heroica (Custo 1)
 
 **Requisitos**: Ser perito em Música.

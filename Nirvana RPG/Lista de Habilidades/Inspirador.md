@@ -4,7 +4,7 @@ O Arquétipo do Inspirador diz respeito a um personagem capaz de inspirar as pes
 ## Inspiração (Custo 1)
 
 **Custo**: Uma Ação, 1 de Mana.
-**Duração**: 5 Rodadas.
+**Duração**: 4 Rodadas.
 
 Você tem a capacidade de inspirar seus aliados até 6 metros de distância, concedendo seu Nível de Carisma como Pontos de Vida Temporários.
 
@@ -34,7 +34,7 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 
 **Monarca** (Passiva): Ao entrar em combate você automaticamente ativa sua Inspiração com uma Ação Livre. Para ativá-la novamente quando a duração acabar é necessário gastar a Ação Bônus como dito na "Movimento Inspirador".
 
-**Pontífice** (Três Ações, 2 de Mana): Põe uma aura curativa ao seu redor. Essa aura recupera 3d6 + Fth de Vida de todos os aliados no alcance de seu Deslocamento ao final do seu Turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + Fth de Dano Radiante. Aliados Nocauteados já começam com um acerto nas Salvaguardas para se estabilizarem, desde que estejam no alcance. Dura um Encontro.
+**Pontífice** (Três Ações, 7 de Mana): Põe uma aura curativa ao seu redor. Essa aura recupera 3d6 + Fth de Vida de todos os aliados no alcance de seu Deslocamento ao final do seu Turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + Fth de Dano Radiante. Aliados Nocauteados já começam com um acerto nas Salvaguardas para se estabilizarem, desde que estejam no alcance. Dura um Encontro.
 
 ## Rei Oculto (Custo 3)
 
@@ -50,8 +50,8 @@ Uma vez ao dia, você pode escolher um aliado no alcance para conceder-lhe seu b
 **Requisitos**: Habilidade "Saúdem o Rei" de Custo 3. 10 de Inteligência.
 **Custo**: Três Ações, 4 de Mana.
 **Alcance**: Deslocamento.
-**Duração**: Concentração, até 5 Rodadas.
+**Duração**: 5 Rodadas.
 
-Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da habilidade utilizarão o Atributo ao invés do Modificador em qualquer Teste que fizerem na duração desta Habilidade. Além disso, concede uma quantidade igual aos seus Pontos de Vida Atuais como Pontos de vida Temporários a todos os seus aliados, menos a você mesmo. Os inimigos sabem que você utilizou essa Habilidade, e num geral tendem a te Atacar antes dos seus aliados, mas podem optar por não atacar você. 
+Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da habilidade utilizarão o Atributo ao invés do Modificador em qualquer Teste que fizerem na duração desta Habilidade. Além disso, concede uma quantidade igual aos seus Pontos de Vida Atuais como Pontos de Vida Temporários a todos os seus aliados, menos a você mesmo, que se encerram no início do seu próximo Turno.
 
-Essa Habilidade ignora a ordem de Iniciativa, se você optar por utilizá-la no início da Rodada. A cada Rodada você gasta 4 Pontos de Mana enquanto se manter concentrado.
+Essa Habilidade ignora a ordem de Iniciativa, se você optar por utilizá-la no início da Rodada.

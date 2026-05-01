@@ -12,7 +12,7 @@ Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de N�
 
 ## Escolha de Habilidades
 
-No Nível 1, você possui dois Pontos de Habilidade para gastar como quiser. Você pode guardar esses pontos e utilizá-los em outro momento.
+No Nível 1, você pode escolher 7 Habilidades de custo 1.
 
 ## Pontos de Vida
 

@@ -5,6 +5,13 @@ O Arquétipo de Ladino diz respeito ao especialista em Furtividade e Ladroagem.
 
 Desde que você esteja usando uma Armadura Leve ou nenhuma Armadura, ganha +2 em Testes de Acrobacia. Também pode usar Desengajar como uma Ação Bônus uma vez por Descanso Longo.
 
+## Ataque Furtivo (Custo 1)
+
+**Requisitos**: Você está Furtivo.
+**Custo**: Ação Bônus.
+
+Você adiciona 3d6 como dano no seu próximo Ataque. O tipo de dano é um dos tipos que você consegue causar com sua Arma, à sua escolha.
+
 ## Sombra (Custo 1)
 
 **Requisitos**: Ser Perito em Furtividade.
@@ -53,3 +60,9 @@ Você tem Vantagem em Testes de Conversação contra autoridades da lei ao tenta
 A sua especialidade é encaixar-se em diferentes contextos e se disfarçar entre outras pessoas. Seus inimigos terão dificuldades em distingui-lo entre os demais alvos que eles tenham. Você pode adicionar seu Modificador de Carisma aos Testes de Furtividade.
 
 Além disso, com o custo de três Ações, você pode se disfarçar como um de seus inimigos no meio de uma batalha. Você copia trejeitos, comportamentos, e também o idioma. Você não aprende o idioma, mas consegue copiá-lo durante a duração desta Habilidade. Os inimigos só te atacarão se você os atacá-los, mas eles pensarão que você é um deles. Para que notem seu disfarce, terão que passar num Teste CD 18 + Car de Sabedoria. Caso um dos inimigos note seu disfarce, você será descoberto por todos.
+
+## Ataque Furtivo Aprimorado (Custo 3)
+
+**Requisitos**: Habilidade "Ataque Furtivo" de Custo 1.
+
+Você agora causa 6d6 de dano adicional com o Ataque Furtivo ao invés de 3d6.

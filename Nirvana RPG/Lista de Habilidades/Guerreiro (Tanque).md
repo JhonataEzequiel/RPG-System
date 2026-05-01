@@ -8,6 +8,13 @@ O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas a proteção f
 
 Provoca uma criatura ao alcance de seu Deslocamento. O alvo deverá passar por um Teste de Resistência de Sabedoria CD 10 + Carisma para evitar de ser provocado. Caso falhe, todos os Ataques dele serão focados em você.
 
+## Respirar Fundo (Custo 1)
+
+**Requisitos**: 1 de Constituição.
+**Custo**: Ação Bônus.
+
+Você se concentra para recuperar um pouco do seu vigor físico. Você se cura em 1d10 + Con + Proficiência, e pode usar essa Habilidade uma quantidade de vezes igual ao seu Modificador de Constituição até ter um Descanso Longo.
+
 ## Motor em Chamas (Custo 1)
 
 **Requisitos**: 3 de Constituição.
