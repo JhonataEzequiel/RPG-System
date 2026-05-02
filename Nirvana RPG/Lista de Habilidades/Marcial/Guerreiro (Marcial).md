@@ -40,6 +40,13 @@ Você pode sacrificar uma de suas Ações neste Turno para ganhar +2 para acerta
 
 Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 + For ou Dex de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque apenas causa mais dano, não contando como um Ataque normal.
 
+## Dilacerar (Custo 2)
+
+**Requisitos**: 4 de Força.
+**Custo**: Reação, 2 de Mana.
+
+Ao acertar três Ataques em um único alvo em um só Turno, você pode forçar o alvo a passar por um Teste de Resistência de Constituição CD 12 + For. O dano residual dos ataques se acumulam, e o alvo tem a Condição Sangrando 1. Ao utilizar essa Habilidade novamente num mesmo alvo, o nível do sangramento aumenta em 1.
+
 ## Nove Vidas (Custo 2)
 
 **Requisitos**: 5 de Destreza.

@@ -4,7 +4,7 @@
 - Requisito em Inteligência: 1
 - Requisito em Fé: 1
 - Duração: 1 Rodada
-- Alcance: Deslocamento do usuário + 5m
+- Alcance: Deslocamento do usuário + 4.5m
 - Tempo de Conjuração: Uma Ação
 
 **Descrição:** Você espalha sangue de seu próprio corpo num semicírculo a sua frente de 6 metros de comprimento, no alcance dessa Magia. 

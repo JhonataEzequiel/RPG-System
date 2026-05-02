@@ -1,0 +1,1 @@
+O Arquétipo do Criomante contém Habilidades relacionadas ao controle do gelo, e de magias que causem Dano de Gelo.

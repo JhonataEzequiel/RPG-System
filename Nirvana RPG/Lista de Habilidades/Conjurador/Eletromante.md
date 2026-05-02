@@ -1,0 +1,1 @@
+O Arquétipo do Eletromante contém Habilidades relacionadas ao controle da eletricidade, e de magias que causem Dano de Raio.

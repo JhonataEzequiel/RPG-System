@@ -9,6 +9,26 @@ Você tem facilidade em entender culturas diferentes da sua. Você pode dedicar 
 
 Você pode interagir com outros personagens, fazer compras, visitar locais, mas não poderá entrar em combate neste meio tempo.
 
+## Recuperação Arcana (Custo 1)
+
+**Requisitos**: 3 de Inteligência, 2 de Sabedoria.
+
+Ao encerrar um combate, você recupera 1d4 da Mana gasta automaticamente.
+
+## Especialista em Arcanos Menores (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+
+Sempre que você puder conjurar um Arcano Menor com 1 Ponto de Mana adicional para obter um efeito extra, você automaticamente o faz. Você não gasta 1 Ponto de Mana adicional para isso. Se o Arcano Menor em específico puder ser fortalecido ainda mais com mais Pontos de Mana, você gastará Pontos de Mana normalmente para isso. Você também conhece um Arcano Menor adicional.
+
+Ao chegar ao Nível 10 de Inteligência, você evolui os Arcanos Menores em mais 1 Ponto de Mana, caso isso seja possível para o Arcano Menor em si.
+
+## Companheiro Grimório (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+
+Você agora pode anotar uma de suas Magias Conhecidas no seu grimório. Fazendo isso, você desocupa um espaço nas Magias Conhecidas, abrindo brecha para adicionar uma nova. Você pode adicionar uma nova Magia Conhecida quando completar um Descanso Longo. Você pode utilizar essa característica três vezes por grimório. O tempo para anotar a Magia no grimório é o mesmo das regras de Grimório.
+
 ## Assinatura de Mana (Custo 1)
 
 **Requisitos**: 1 de Carisma, Inteligência, ou Fé.
@@ -38,6 +58,12 @@ Você consegue extrair uma pequena esfera de Mana do seu corpo, composta por met
 **Requisitos**: 2 de Sabedoria.
 
 Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá que fazer um ritual sem ser interrompido por 10 minutos antes de conjurar a Magia. A Magia em si não pode ter como tempo de conjuração um tempo maior que três Ações.
+
+## Truque de Mágica (Custo 1)
+
+**Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 5 de Inteligência.
+
+Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora custam apenas uma Ação Bônus.
 
 ## Arcano Aprimorado (Custo 2)
 

@@ -53,7 +53,7 @@ Esta Habilidade consome Ações e Mana apenas na primeira vez que você executá
 
 ## Canção do Perecimento (Custo 1)
 
-**Requisitos**: 2 de Fé, 2 de Inteligência. Ser perito em Música.
+**Requisitos**: 2 de Fé, 1 de Inteligência. Ser perito em Música.
 **Custo**: Uma Ação, 5 de Mana.
 
 Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento que ouvirem a música morrerão, incluindo você. 
@@ -62,17 +62,17 @@ Você pode escolher perder toda sua Mana permanentemente, assim como sua capacid
 
 Caso você seja Incapacitado ou morto antes da melodia finalizar, ela perderá o efeito.
 
-## Consonância (Custo 2)
+## Consonância (Custo 1)
 
 **Requisitos**: 3 de Carisma. Ser perito em Música.
 
-Toda vez que for conceder um bônus de alguma coisa, podendo ser bônus de Atributo, Pontos de Vida Temporários, etc., você se utiliza da música para aumentar a quantidade de bônus concedido. A quantidade aumentada é igual ao seu Modificador de Carisma.
+Sempre que conjurar uma Magia de cura enquanto toca uma música, você adiciona seu Bônus de Proficiência à cura.
 
-## Dissonância (Custo 2)
+## Dissonância (Custo 1)
 
 **Requisitos**: 3 de Carisma. Ser perito em Música.
 
-Adicione seu Modificador de Carisma ao dano de qualquer Magia de dano que você conjurar. Você agora pode gastar o dobro do custo de Mana da Magia para causar o dobro de dano. Ou seja, se uma Magia custa 3 de Mana, e depois da rolagem de dados causou 12 de dano, agora custará 6 e causará 24. O dano dobrado será o final. Você só pode dobrar o custo e dano antes de conjurar a Magia e rolar os dados.
+Sempre que conjurar uma Magia que cause dano enquanto toca uma música, você adiciona seu Bônus de Proficiência ao dano.
 
 ## Amado Coiote (Custo 2)
 
