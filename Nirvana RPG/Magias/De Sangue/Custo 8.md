@@ -1,3 +1,4 @@
+
 ### Sangue Pútrido
 
 - Requisito em Inteligência: 8

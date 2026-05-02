@@ -1,3 +1,4 @@
+
 ### Reanimação Parcial
 
 - Requisito em Inteligência: 5

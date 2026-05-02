@@ -1,3 +1,4 @@
+
 ### Equilíbrio
 
 - Requisito em Inteligência: 2

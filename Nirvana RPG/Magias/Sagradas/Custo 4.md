@@ -1,3 +1,4 @@
+
 ### Bola de Fogo Sagrada
 
 - Requisito em Fé: 4

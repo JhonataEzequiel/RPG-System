@@ -1,3 +1,4 @@
+
 ### Cicatrizar
 
 - Requisito em Inteligência: 5

@@ -1,3 +1,4 @@
+
 ### Lança de Raio
 
 - Requisito em Inteligência: 8

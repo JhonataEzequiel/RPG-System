@@ -1,3 +1,4 @@
+
 ### Ajuda
 
 - Requisito em Fé: 1

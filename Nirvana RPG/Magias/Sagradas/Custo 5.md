@@ -1,3 +1,4 @@
+
 ### Curar Condições
 
 - Requisito em Fé ou Carisma: 5

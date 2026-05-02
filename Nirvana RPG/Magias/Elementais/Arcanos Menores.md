@@ -1,3 +1,4 @@
+
 ### Raio de Fogo
 
 - Requisito em Inteligência: 1

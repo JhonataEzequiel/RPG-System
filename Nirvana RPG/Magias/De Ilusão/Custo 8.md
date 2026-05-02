@@ -1,3 +1,4 @@
+
 ### Aura Carismática
 
 - Requisito em Carisma ou Inteligência: 8

@@ -1,3 +1,4 @@
+
 ### Congelamento
 
 - Requisito em Inteligência: 4

@@ -1,3 +1,4 @@
+
 ### Arco Cromático
 
 - Requisito em Inteligência: 7

@@ -1,3 +1,4 @@
+
 ### Orbe Negro
 
 - Requisito em Inteligência: 1

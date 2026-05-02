@@ -1,3 +1,4 @@
+
 ### Nuvem Voadora
 
 - Requisito em Inteligência ou Carisma: 6

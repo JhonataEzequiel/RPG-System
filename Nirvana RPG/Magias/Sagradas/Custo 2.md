@@ -1,3 +1,4 @@
+
 ### Curar Ferimentos Maiores
 
 - Requisito em Fé ou Carisma: 2

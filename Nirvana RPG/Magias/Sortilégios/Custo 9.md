@@ -1,3 +1,4 @@
+
 ### Contaminação
 
 - Requisito em Inteligência: 9

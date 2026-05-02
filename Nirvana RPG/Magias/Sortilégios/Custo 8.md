@@ -1,3 +1,4 @@
+
 ### Perseguidores
 
 - Requisito em Inteligência: 8

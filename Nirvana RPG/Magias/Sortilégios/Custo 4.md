@@ -1,3 +1,4 @@
+
 ### Bola de Fogo Negra
 
 - Requisito em Inteligência: 4

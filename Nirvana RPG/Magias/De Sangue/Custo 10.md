@@ -1,3 +1,4 @@
+
 ### Lua de Sangue
 
 - Requisito em Inteligência: 10

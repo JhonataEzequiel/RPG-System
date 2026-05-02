@@ -1,3 +1,4 @@
+
 ### Despistar
 
 - Requisito em Inteligência ou Carisma: 6

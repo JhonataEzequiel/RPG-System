@@ -1,3 +1,4 @@
+
 ### Escuridão
 
 - Requisito em Inteligência: 3

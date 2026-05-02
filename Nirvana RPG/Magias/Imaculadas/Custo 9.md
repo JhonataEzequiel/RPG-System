@@ -1,3 +1,4 @@
+
 ### Presciência
 
 - Requisito em Inteligência: 9

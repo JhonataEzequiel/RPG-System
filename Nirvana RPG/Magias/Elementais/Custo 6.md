@@ -1,3 +1,4 @@
+
 ### Chuva de Magma
 
 - Requisito em Inteligência: 6

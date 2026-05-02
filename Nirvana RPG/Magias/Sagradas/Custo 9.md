@@ -1,3 +1,4 @@
+
 ### Revelação
 
 - Requisito em Fé: 9

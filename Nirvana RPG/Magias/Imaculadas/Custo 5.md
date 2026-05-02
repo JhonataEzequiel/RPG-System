@@ -1,3 +1,4 @@
+
 ### Troca
 
 - Requisito em Inteligência: 5

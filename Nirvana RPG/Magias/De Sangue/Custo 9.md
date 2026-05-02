@@ -1,3 +1,4 @@
+
 ### Nihil
 
 - Requisito em Inteligência: 8

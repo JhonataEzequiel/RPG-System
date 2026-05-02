@@ -1,3 +1,4 @@
+
 ### Tumba Aberta
 
 - Requisito em Inteligência: 5

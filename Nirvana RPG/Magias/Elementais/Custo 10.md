@@ -1,3 +1,4 @@
+
 ### Caos Cromático
 
 - Requisito em Inteligência: 10

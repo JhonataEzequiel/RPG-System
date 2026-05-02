@@ -1,4 +1,3 @@
-## Carisma
 
 ### Arcanos Menores:
 

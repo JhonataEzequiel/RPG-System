@@ -1,3 +1,4 @@
+
 ### Esquentar Metal
 
 - Requisito em Inteligência: 1

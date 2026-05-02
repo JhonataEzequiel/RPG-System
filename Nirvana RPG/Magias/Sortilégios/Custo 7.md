@@ -1,3 +1,4 @@
+
 ### Tempestade Negra
 
 - Requisito em Inteligência: 7

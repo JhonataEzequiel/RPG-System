@@ -1,3 +1,4 @@
+
 ### Banir
 
 - Requisito em Fé: 8

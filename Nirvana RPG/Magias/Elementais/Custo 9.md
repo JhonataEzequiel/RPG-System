@@ -1,3 +1,4 @@
+
 ### Serpente de Fogo
 
 - Requisito em Inteligência: 9

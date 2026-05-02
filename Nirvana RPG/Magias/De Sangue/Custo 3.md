@@ -1,3 +1,4 @@
+
 ### Barreira de Sangue Cortante
 
 - Requisito em Inteligência: 3

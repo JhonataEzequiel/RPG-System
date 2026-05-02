@@ -1,3 +1,4 @@
+
 ### Bola de Fogo
 
 - Requisito em Inteligência: 3

@@ -1,3 +1,4 @@
+
 ### Espalhar Sangue Fervente
 
 - Requisito em Inteligência: 1

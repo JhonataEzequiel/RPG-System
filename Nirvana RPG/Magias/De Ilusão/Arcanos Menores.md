@@ -1,3 +1,4 @@
+
 ### Amizade
 
 - Requisito em Carisma ou Inteligência: 1

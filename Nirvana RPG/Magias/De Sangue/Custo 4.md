@@ -1,3 +1,4 @@
+
 ### Lâmina de Sangue
 
 - Requisito em Inteligência: 4

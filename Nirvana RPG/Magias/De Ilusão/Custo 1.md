@@ -1,3 +1,4 @@
+
 ### Acalmar
 
 - Requisito em Inteligência: 1

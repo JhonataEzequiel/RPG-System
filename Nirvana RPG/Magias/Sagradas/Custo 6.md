@@ -1,3 +1,4 @@
+
 ### Submissão Cósmica
 
 - Requisito em Fé ou Carisma: 6

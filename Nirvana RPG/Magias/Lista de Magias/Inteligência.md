@@ -1,4 +1,5 @@
-### Arcanos Menores:
+
+## Arcanos Menores:
 
 Conjurar Luz: 1 de inteligência. Imaculada.
 

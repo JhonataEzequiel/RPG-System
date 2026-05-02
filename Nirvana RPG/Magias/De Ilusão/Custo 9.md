@@ -1,3 +1,4 @@
+
 ### Mansão Mental
 
 - Requisito em Inteligência: 9

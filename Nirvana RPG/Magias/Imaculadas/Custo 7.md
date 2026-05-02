@@ -1,3 +1,4 @@
+
 ### Convocar Ajuda
 
 - Requisito em Inteligência, Carisma, ou Fé: 7 

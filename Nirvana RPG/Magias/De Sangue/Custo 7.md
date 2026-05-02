@@ -1,3 +1,4 @@
+
 ### Devorar Cérebro
 
 - Requisito em Inteligência: 7

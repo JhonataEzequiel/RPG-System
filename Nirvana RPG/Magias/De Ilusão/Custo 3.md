@@ -1,3 +1,4 @@
+
 ### Raio de Frenesi
 
 - Requisito em Inteligência ou Carisma: 3

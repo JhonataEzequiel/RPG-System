@@ -1,4 +1,3 @@
-## Fé
 
 ### Arcanos Menores:
 

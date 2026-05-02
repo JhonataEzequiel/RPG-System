@@ -1,3 +1,4 @@
+
 ### Canalizar Energia
 
 - Requisito em Fé ou Carisma: 3

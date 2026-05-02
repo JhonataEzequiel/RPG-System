@@ -1,3 +1,4 @@
+
 ### Controle Mental Completo
 
 - Requisito em Carisma ou Inteligência: 10

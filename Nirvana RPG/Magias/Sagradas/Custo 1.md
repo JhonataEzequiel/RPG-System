@@ -1,3 +1,4 @@
+
 ### Cura Menor
 
 - Requisito em Fé ou Carisma: 1

@@ -1,3 +1,4 @@
+
 ### Corrupção do Sangue
 
 - Requisito em Inteligência: 5

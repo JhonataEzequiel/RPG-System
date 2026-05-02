@@ -1,3 +1,4 @@
+
 ### Alucinação
 
 - Requisito em Inteligência: 5
