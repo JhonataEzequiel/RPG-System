@@ -7,6 +7,12 @@ O Arquétipo do Alquimista engloba o domínio sobre a criação de itens consum�
 
 Você agora consegue fabricar um item arremessável qualquer que não seja considerado um Item Mágico ou Único. Para cada item criado você dedica 1 minuto fora de combate, ou três Rodadas em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
 
+## Artesão de Itens Aplicáveis (Custo 1)
+
+**Requisitos**: 2 de Inteligência.
+
+Você agora consegue criar qualquer item mencionado na tabela de Itens Aplicáveis, no Capítulo 4 - Equipamentos. Você gasta 10 minutos para criar o item, e uma quantidade de moedas igual a metade do custo do item.
+
 ## Lança Granadas (Custo 1)
 
 **Requisitos**: 3 de Destreza ou Força.

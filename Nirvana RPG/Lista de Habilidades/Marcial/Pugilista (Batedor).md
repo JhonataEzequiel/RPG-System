@@ -22,11 +22,9 @@ Você consegue atacar um alvo em seus pontos de pressão, causando danos signifi
 | Segundo  | Você causa o dano de um Ataque Desarmado, e o alvo tem -3 em Salvaguardas pelo resto do Encontro. Este efeito substitui o efeito negativo em Salvaguardas do primeiro Teste.                                        |
 | Terceiro | Você causa o dano de um Ataque Desarmado, e o alvo fica Atordoado por 3 Rodadas, além de ter -5 em Salvaguardas pelo resto do Encontro. Este efeito substitui o efeito negativo em Salvaguardas de ambos os Testes. |
 
-## Corte Ilusório (Custo 1)
+## Mãos Cortantes (Custo 1)
 
-Você domina uma técnica de golpe tão veloz e precisa que a mão desarmada adquire a capacidade de cortar como uma lâmina. O movimento é quase imperceptível para quem observa, como se a ferida simplesmente aparecesse do nada. 
-
-Você agora pode escolher se seus Ataques Desarmados causarão Dano Cortante ou de Impacto. Caso você esteja utilizando uma Arma de Punho que já é capaz de causar Dano Cortante, o Dano Cortante dela aumenta em 1d6.
+Você domina um técnica que te torna capaz de desferir golpes velozes, cortando seu oponente. Seus Ataques Desarmados poderão causar Dano Cortante, caso você deseje.
 
 ## Evolução Pugilista (Custo 2)
 
@@ -52,6 +50,14 @@ Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adic
 **Sinergia Corpo e Mente** (passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu Modificador de Sabedoria ou Inteligência os Ataques Desarmados, caso sejam positivos.
 
 **Elementar** (Ação Bônus, 1 de Mana): Você pode trocar o tipo de dano do seu Ataque Desarmado para qualquer um dos tipos elementais. O tipo de dano só será trocado quando você utilizar essa Habilidade novamente. Você também pode escolher causar dano em área com seus Ataques Desarmados. Neste caso, você escolherá um elemento e causará o dano de um Ataque Desarmado em todos que estiverem na área de impacto, que será uma área circular de raio 3m no alcance do seu Deslocamento. Você não precisará rolar para acertar este Ataque, mas os inimigos na área de impacto terão que realizar uma Salvaguarda de Destreza CD 14 + (For ou Dex) para desviar, recebendo metade do dano.
+
+## Corte Ilusório (Custo 3)
+
+**Requisitos**: Habilidade "Mãos Cortantes" de Custo 1. 3 de Sabedoria.
+
+Você agora consegue cortar o seu inimigo com artes marciais mesmo não fazendo contato fisicamente com ele. O inimigo sente como se fosse cortado, ainda que não tenha sido. Todas as vezes que errar um Ataque Desarmado você causará 1d4 + Sab de Dano Psíquico. Com erros críticos esta Habilidade não terá efeito.
+
+Você pode gastar 3 Pontos de Mana por Encontro como uma Ação Livre para aumentar o dano desta Habilidade para 2d4 + Sab durante todo o Encontro.
 
 ## Cérebro do Demônio (Custo 3)
 
