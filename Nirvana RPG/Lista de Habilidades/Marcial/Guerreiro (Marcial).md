@@ -32,8 +32,9 @@ Caso você acumule +7 de bônus em um único Encontro, em três Encontros difere
 ## Ataque Afortunado (Custo 1)
 
 **Requisitos**: 3 de Força, 3 de Destreza.
+**Custo**: Reação.
 
-Você agora possuirá Vantagem em um Ataque que desejar. Alternativamente, você pode adicionar metade do seu Nível em um Ataque como Dano Físico, se sua Arma causar Dano Físico, e o tipo de Dano Físico será de um dos tipos possíveis da Arma. Você pode usar essa Habilidade uma vez por Encontro. 
+Você agora possuirá Vantagem em um Ataque que desejar. Alternativamente, você pode adicionar metade do seu Nível em um Ataque como Dano Físico, com mínimo de 1 de dano adicional, se sua Arma causar Dano Físico, e o tipo de Dano Físico adicional será de um dos tipos possíveis da Arma. Você pode usar essa Habilidade uma vez por Encontro. 
 
 ## Afiação (Custo 1)
 
