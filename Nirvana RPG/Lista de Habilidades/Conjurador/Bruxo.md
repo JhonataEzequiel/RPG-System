@@ -11,7 +11,16 @@ Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse
 
 **Requisitos**: 1 de Inteligência, 1 de Fé.
 
-Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que não incluí Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo. O limite é de 6d4 adicionais.
+Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que não incluí Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo. O limite é de 3d4 adicionais.
+
+## Tristeza Profunda (Custo 1)
+
+**Requisitos**: 1 de Inteligência, 1 de Fé.
+**Alcance**: Deslocamento.
+**Custo**: Reação.
+**Duração**: Duas Rodadas.
+
+Ao receber Dano Sombrio, causado por outra fonte ou por você mesmo, você acumula Pontos de Dor. Quando tiver 3 Pontos de Dor, você poderá gastá-los para liberar toda a energia sombria que se acumulou no seu interior com a sua Reação, e forçar todas as criaturas no alcance a passar por um Teste de Resistência de Sabedoria CD 8 + Int + Fth. Em caso de falha, as criaturas tem a Condição Amedrontado até o final da duração. Em caso de sucesso, o Deslocamento delas é diminuído em 1.5m até o final da duração. Essa Habilidade não diferencia aliados de inimigos.
 
 ## Impulso Sinistro (Custo 2)
 

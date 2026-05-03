@@ -26,7 +26,9 @@ Ao conjurar um Arcano Menor que cause Dano de Fogo em um alvo único, você pode
 
 ## Chama Frenética (Custo 2)
 
-**Requisitos**: 5 de Inteligência, 3 de Sabedoria.
+**Requisitos**: Habilidade "Conflagração", de Custo 1. Habilidade "Absorver Chamas" de Custo 1. 5 de Inteligência, 3 de Sabedoria.
+
+Toda sua Habilidade com piromancia o fez gostar cada vez mais das chamas. No entanto, essa obsessão pede um preço, te enlouquecendo lentamente quanto mais próximo delas você está. O fogo em si se torna uma fonte de loucura.
 
 **Pontos de Frenesi** (Passiva): Você possui uma reserva de Pontos de Frenesi iguais ao dobro do seu Modificador de Sabedoria. Ao gastar metade dos seus Pontos de Frenesi, você tem a Condição Amedrontado até o início do seu próximo Turno, e após isso, entrará em Frenesi. O estado de Frenesi dura até o final do Encontro. Repõe com um Descanso Longo.
 

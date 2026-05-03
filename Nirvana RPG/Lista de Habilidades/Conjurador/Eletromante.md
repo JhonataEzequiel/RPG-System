@@ -14,6 +14,22 @@ Logo após causar Dano de Raio em uma criatura alvo no alcance do seu Deslocamen
 
 Você absorve eletricidade de alguma fonte, como uma Magia conjurada por você ou outra pessoa, ou de geradores naturais, se você conseguir algum. Fazendo isso, seu corpo começa a produzir uma tensão altíssima com a corrente absorvida. Você pode descarregar essa corrente no início do seu Próximo Turno como uma Ação Bônus, causando o seu Bônus de Proficiência + Int + Sab como Dano de Raio a uma criatura no alcance do seu Deslocamento. Alternativamente, você pode manter essa corrente dentro de você, concedendo 10 Pontos de Resistência a Dano de Raio.
 
+## Campo Elétrico (Custo 1)
+
+**Requisitos**: 4 de Inteligência.
+**Custo**: Uma Ação, 2 de Mana.
+**Duração**: Duas Rodadas.
+
+Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
+
+## Apressado (Custo 1)
+
+**Requisitos**: 2 de Inteligência.
+**Custo**: Uma Ação, 1 de Mana.
+**Duração**: Um Encontro.
+
+Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5m para cada ponto no seu Bônus de Proficiência. Ao final do Encontro, caso você não tenha sido Nocauteado, a eletricidade é reabsorvida por você, e você recupera 1 Ponto de Mana. Só pode usar uma vez por Descanso Curto ou Longo.
+
 ## Corrente Alternada e Contínua (Custo 2)
 
 **Requisitos**: 5 de Inteligência.
@@ -22,7 +38,7 @@ Você absorve eletricidade de alguma fonte, como uma Magia conjurada por você o
 - **Corrente Alternada**: O Alcance aumenta em uma quantidade de metros iguais ao seu Deslocamento + Int (cada ponto no Modificador de Inteligência aumenta em 1.5m de distância).
 - **Corrente Contínua**: Parte da eletricidade flui para fora, como excesso. Você pode escolher um alvo adicional para suas Magias de alvo único, causando 1d4 + Int como Dano de Raio.
 
-## Trovão Divino (Custo 3)
+## Conversão Elétrica (Custo 3)
 
 **Requisitos**: 10 de Inteligência.
 **Custo**: Duas Ações, 6 de Mana.

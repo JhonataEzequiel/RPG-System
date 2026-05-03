@@ -21,6 +21,28 @@ Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais 
 
 Você pode realizar dois Ataques seguidos sem se preocupar com a primeira penalidade. Ou seja, o segundo Ataque não receberá a penalidade de -5 para atacar. Por conseguinte, o terceiro Ataque terá uma penalidade de -5, e não de -10.
 
+## Pressa de Batalha (Custo 1)
+
+**Requisitos**: 2 de Força ou 2 de Destreza.
+
+Você se enfurece um pouquinho cada vez que erra, mas aprende lentamente com seus erros. Sempre que errar um Ataque adicione +1 a todo Dano Físico que causar. Esse bônus é perdido ao receber uma instância de cura qualquer. O limite de bônus acumulado é de +10. O bônus não acumula quando fora de combate. 
+
+Caso você acumule +7 de bônus em um único Encontro, em três Encontros diferentes, você ganhará um novo efeito ao ter um Descanso Curto ou Longo. Você agora terá +3 de Dano Físico adicional em seus Ataques permanentemente, mas você perde o efeito anterior de acumular Dano Físico com erros.
+
+## Ataque Afortunado (Custo 1)
+
+**Requisitos**: 3 de Força, 3 de Destreza.
+
+Você agora possuirá Vantagem em um Ataque que desejar. Alternativamente, você pode adicionar metade do seu Nível em um Ataque como Dano Físico, se sua Arma causar Dano Físico, e o tipo de Dano Físico será de um dos tipos possíveis da Arma. Você pode usar essa Habilidade uma vez por Encontro. 
+
+## Afiação (Custo 1)
+
+**Requisitos**: Você empunha uma Arma Comum, Leve, ou de Empunhadura Dupla capaz de causar Dano Físico.
+**Custo**: Três Ações.
+**Duração**: Um Encontro.
+
+Você afia sua lâmina, a deixando mais letal. Essa Habilidade deve ser usada em seu primeiro Turno em um Encontro. Adicione um Modificador à sua escolha a todo dano causado pela sua Arma, desde que esse Modificador já não seja utilizado pela Arma em questão. Sua Margem de Ameaça também aumenta em 1 ponto.
+
 ## Inércia (Custo 1)
 
 **Requisitos**: 5 em Força, Destreza, ou Constituição.
@@ -31,7 +53,7 @@ Você agora não pode realizar mais do que um Ataque por Turno. Além disso, voc
 
 **Requisitos**: 2 de Força ou 2 de Destreza.
 
-Você pode sacrificar uma de suas Ações neste Turno para ganhar +2 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 1d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque.
+Você pode sacrificar uma de suas Ações neste Turno para ganhar +2 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 1d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque. Você também pode sacrificar duas Ações para obter ambos os bônus.
 
 ## Golpe Duplo (Custo 2)
 
