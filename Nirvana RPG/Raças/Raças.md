@@ -2,16 +2,16 @@ Cada Raça possui Habilidades únicas, além de um deslocamento e tamanho caract
 
 | Raça              | Deslocamento em metros            | Tamanho | Idiomas Adicionais |
 | ----------------- | --------------------------------- | ------- | ------------------ |
-| Anão              | 7.5                               | Pequeno | Anão               |
+| Anão              | 9                                 | Pequeno | Anão               |
 | Cait-Sith         | 9                                 | Médio   | -                  |
 | Alto Elfo         | 9                                 | Médio   | Élfico             |
 | Elfo da Floresta  | 9                                 | Médio   | Élfico             |
 | Elfo Negro        | 12                                | Médio   | Élfico             |
 | Fjer              | 9, 12 Voando                      | Médio   | -                  |
 | Gama              | 9                                 | Médio   | -                  |
-| Gnomo Feérico     | 7.5                               | Pequeno | -                  |
-| Gnomo da Natureza | 7.5                               | Pequeno | -                  |
-| Halfling          | 7.5                               | Pequeno | -                  |
+| Gnomo Feérico     | 9                                 | Pequeno | -                  |
+| Gnomo da Natureza | 9                                 | Pequeno | -                  |
+| Halfling          | 9                                 | Pequeno | -                  |
 | Humano            | 9                                 | Médio   | -                  |
 | Siderium          | 9                                 | Médio   | Élfico             |
 | Tártaro           | 15, Penalidade de -10.5 Com Casco | Médio   | -                  |
