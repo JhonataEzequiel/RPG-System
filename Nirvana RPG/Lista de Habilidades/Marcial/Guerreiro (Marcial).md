@@ -25,7 +25,7 @@ Você pode realizar dois Ataques seguidos sem se preocupar com a primeira penali
 
 **Requisitos**: 2 de Força ou 2 de Destreza.
 
-Você se enfurece um pouquinho cada vez que erra, mas aprende lentamente com seus erros. Sempre que errar um Ataque adicione +1 a todo Dano Físico que causar. Esse bônus é perdido ao receber uma instância de cura qualquer. O limite de bônus acumulado é de +10. O bônus não acumula quando fora de combate. 
+Você se enfurece um pouquinho cada vez que erra, o que o faz causar mais dano nos próximos ataques. Sempre que errar um Ataque adicione +1 a todo Dano Físico que causar. Esse bônus é perdido ao receber uma instância de cura qualquer. O limite de bônus acumulado é de +10. O bônus não acumula quando fora de combate, mas também não é perdido. O bônus só é perdido quando você se curar, o que inclui Descansos. 
 
 Caso você acumule +7 de bônus em um único Encontro, em três Encontros diferentes, você ganhará um novo efeito ao ter um Descanso Curto ou Longo. Você agora terá +3 de Dano Físico adicional em seus Ataques permanentemente, mas você perde o efeito anterior de acumular Dano Físico com erros.
 
@@ -34,7 +34,7 @@ Caso você acumule +7 de bônus em um único Encontro, em três Encontros difere
 **Requisitos**: 3 de Força, 3 de Destreza.
 **Custo**: Reação.
 
-Você agora possuirá Vantagem em um Ataque que desejar. Alternativamente, você pode adicionar metade do seu Nível em um Ataque como Dano Físico, com mínimo de 1 de dano adicional, se sua Arma causar Dano Físico, e o tipo de Dano Físico adicional será de um dos tipos possíveis da Arma. Você pode usar essa Habilidade uma vez por Encontro. 
+Você agora possuirá Vantagem em um Ataque que desejar. Alternativamente, você pode adicionar metade do seu Nível em um Ataque como Dano Físico, com mínimo de 1 de dano adicional, se sua Arma causar Dano Físico. O tipo de Dano Físico adicional será de um dos tipos possíveis da Arma. Você pode usar essa Habilidade uma vez por Encontro. 
 
 ## Afiação (Custo 1)
 

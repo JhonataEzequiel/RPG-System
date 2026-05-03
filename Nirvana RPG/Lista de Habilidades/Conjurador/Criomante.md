@@ -1,5 +1,38 @@
 O Arquétipo do Criomante contém Habilidades relacionadas ao controle do gelo, e de Magias que causem Dano de Gelo.
 
+## Nevoeiro Congelante (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+**Custo**: Reação, 1 de Mana.
+
+Toda vez que conjurar uma Magia de área que cause Dano de Gelo, você aumenta o tamanho da área em 3m, de acordo com o tipo de área. Um nevoeiro surge ao fim da conjuração ao seu redor. Trata-se de uma névoa fina, mas muito fria. O próximo Ataque corpo a corpo efetuado contra você tem Desvantagem para acertar.
+
+## Habitante de Terras Congeladas (Custo 1)
+
+**Requisitos**: 2 de Inteligência, 1 de Constituição.
+
+Seu corpo se adapta o suficiente para sobreviver um pouco melhor que a maioria em locais frios e inóspitos devido a baixas temperaturas. Você tem Vantagem em Testes de Natureza nesses locais. Além disso, você recebe +2 de Resistência contra Dano de Gelo permanentemente nos Níveis 5, 10, 15, e 20. Você também pode congelar objetos menores, como pedaços de carne, mantendo-os preservados com uma Ação Bônus.
+
+## Sopro de Gelo (Custo 1)
+
+**Requisitos**: 5 de Inteligência.
+**Custo**: 3 Ações, 1 de Mana.
+
+Você consegue soprar um vento congelante em uma área de cone de 4.5m de tamanho. Criaturas dentro dessa área devem passar por uma Salvaguarda de Destreza CD 10 + Int. Em caso de falha, recebem 3d4 + Int de Dano de Gelo. Em caso de sucesso, recebem metade do dano.
+
+## Prisão Gélida (Custo 1)
+
+**Requisitos**: 1 de Inteligência.
+**Custo**: Reação.
+
+Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto ou Longo.
+
+## Era do Gelo (Custo 2)
+
+**Requisitos**: 7 de Inteligência.
+
+Ao alvejar uma criatura com duas Magias de custo 4 ou superior que causem Dano de Gelo, ela terá que passar por um Teste de Resistência de Constituição CD 10 + Int. Em caso de falha, perde reduz o Deslocamento da criatura a 0 até o final do próximo Turno dela. Em caso de sucesso, reduz pela metade.
+
 ## Friagem (Custo 3)
 
 **Requisitos**: 10 de Inteligência.

@@ -23,6 +23,12 @@ Você se concentra para recuperar um pouco do seu vigor físico. Você se cura e
 
 Sempre que for afetado por Dano de Fogo você ignora quaisquer efeitos que diminuam seu Deslocamento, com exceção de Terreno Difícil.
 
+## Motor Aprimorado (Custo 1)
+
+**Requisitos**: Habilidade "Motor em Chamas" de Custo 1. 5 de Força ou 5 de Destreza, 4 de Constituição.
+
+Uma vez por Descanso Longo você pode recuperar duas de suas Ações ao final do seu turno com uma Ação Livre. Você também recebe 1d4 a mais de Pontos de Vida Máximos permanentemente.
+
 ## Pele Dura (Custo 1)
 
 A sua pele torna-se mais resistente a medida que recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que você for nocauteado, ganhará um bônus de 5 de Resistência contra qualquer dano que você quiser. O bônus é cumulativo, e é perpétuo. Você pode adquirir até 25 de Resistência no total com esta Habilidade, somando todas as Resistências adquiridas por meio dela.

@@ -65,4 +65,4 @@ O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas
 
 **Descrição:** Chamas saem de suas mãos, causando 2d8 + Int de Dano de Fogo a qualquer criatura numa área em cone no alcance da Magia.
 
-Você pode aumentar o dano em 1d8 por Ponto de Mana adicional até um máximo de 5 pontos investidos. Ao investir 5 pontos adicionais de uma vez nesta Magia, seu dano é aumentado em 1d4 permanentemente.
+Você pode aumentar o dano em 1d8 por Ponto de Mana adicional até um máximo de 5 pontos investidos. Ao investir 5 pontos adicionais de uma vez nesta Magia, seu dano é aumentado em 1d4 permanentemente, até um máximo de 4d4 adicionais.

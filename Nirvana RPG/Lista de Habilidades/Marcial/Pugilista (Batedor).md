@@ -73,7 +73,7 @@ Seu cérebro funciona mais rapidamente que o das outras pessoas, e você process
 
 **Requisitos**: 10 de Constituição.
 **Custo**: Duas Ações.
-**Duração**: 1 Encontro.
+**Duração**: Um Encontro.
 
 Uma vez por Descanso Longo, você contrai suas costas, que ficam tão definidas que é possível enxergar uma figura demoníaca em seus músculos. Aumenta seu Deslocamento em 3m, sua CA em 1 ponto, seu Dano Físico causado por Ataques em 2d8, e você ganha 15 Pontos de Vida Temporários.
 
@@ -87,10 +87,10 @@ Você ataca seu oponente com sua mandíbula, o mordendo. Seus dentes brilham com
 ## Assassino Instantâneo do Inferno (Custo 3)
 
 **Requisitos**: Habilidades "Cérebro do Demônio", "Costas do Demônio", e "Mandíbula do Demônio" de custo 3.
-**Custo**: Três Ações, 4 de Mana.
-**Duração**: 2 Rodadas.
+**Custo**: Três Ações, 7 de Mana.
+**Duração**: Duas Rodadas.
 
-Você avança para cima do alvo, golpeando-o com extrema velocidade e Força. O alvo fica Incapacitado pela duração caso falhe num Teste de Resistência de Constituição CD 5 + Con + For + Sab. Sendo bem sucedido ou não, recebe o dano de três Ataques Desarmados ao mesmo tempo. Essa Habilidade sempre acerta.
+Você avança para cima do alvo, golpeando-o com extrema velocidade e Força. O alvo fica Incapacitado pela duração caso falhe num Teste de Resistência de Constituição CD 5 + Con + For + Sab + Proficiência. Sendo bem sucedido ou não, recebe o dano de três Ataques Desarmados ao mesmo tempo. Essa Habilidade sempre acerta.
 
 ## Poder Absurdo (Custo 3)
 

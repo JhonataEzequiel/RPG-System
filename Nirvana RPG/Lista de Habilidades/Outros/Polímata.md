@@ -13,6 +13,10 @@ Você tem +50po disponíveis para adquirir seu Equipamento Inicial.
 
 Ganhe mais 1 Ponto de Atributo para alocar como quiser. Este ponto ignora o Limite Máximo para o Nível de um Atributo. Além disso, adicione 1d4 aos seus Pontos de Vida e Mana.
 
+## Habitante das Cavernas (Custo 1)
+
+Você consegue se guiar bem em locais escuros e cavernosos. Adquire Visão na Penumbra no alcance do seu Deslocamento. Você pode escolher essa Habilidade duas vezes para adquirir Visão no Escuro no lugar.
+
 ## Cópia Amistosa (Custo 1)
 
 **Requisitos**: 2 de Carisma. Um aliado com o qual você tenha compartilhado ao menos três Descansos Longos.

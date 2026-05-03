@@ -39,3 +39,10 @@ Toda sua Habilidade com piromancia o fez gostar cada vez mais das chamas. No ent
 **Requisitos**: 8 de Inteligência.
 
 Ao receber um dano que te deixaria Nocauteado, você aguenta um pouco de tempo mais antes de cair. Você pode conjurar uma Magia de custo 1 ou inferior que cause Dano de Fogo neste tempo, caso você tenha Pontos de Mana suficientes para tal. Logo após isso, você é Nocauteado normalmente. Caso opte por não utilizar a Magia, você também será Nocauteado normalmente. Essa Habilidade tem efeito duas vezes por Descanso Longo.
+
+## Fênix (Custo 3)
+
+**Requisitos**: Habilidade "Determinação de Fogo" de Custo 3. 10 de Inteligência.
+**Custo**: Ação Livre, toda a sua Mana, com um mínimo de 10 Pontos de Mana.
+
+Ao ser Nocauteado, você pode escolher voltar a vida instantaneamente, recuperando todos os seus Pontos de Vida Máximos. Essa Habilidade não tem limite de usos, mas você deve optar entre os efeitos dela e o da Habilidade "Determinação de Fogo" de Custo 3.
