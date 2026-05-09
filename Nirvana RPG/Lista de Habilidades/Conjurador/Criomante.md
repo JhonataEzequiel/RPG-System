@@ -44,3 +44,9 @@ Ao conjurar uma Magia que cause Dano de Gelo de custo 6 ou superior, você adici
 3. No Nível 3 de Friagem, o alvo tem -3 para acertar Ataques.
 4. No Nível 4 de Friagem, o alvo é congelado completamente, e tem a Condição Incapacitado até o final do próximo Turno dele. 
 Ao atingir o Nível máximo de Friagem, o alvo perde um Nível de Friagem ao final de cada um de seus Turnos. Você pode aplicar Friagem apenas uma vez por Descanso Longo.
+
+## Sono Criogênico (Custo 3)
+
+**Requisitos**: 10 de Inteligência.
+
+Ao ter um Descanso Curto ou Longo, pode escolher dormir por um período em um sono criogênico auto induzido. Você se congela em uma posição, diminuindo sua temperatura drasticamente. Magicamente, suas funções fisiológicas não são afetadas. A recuperação também ocorre normalmente. Você irá se manter congelado até o fim do próximo Encontro que tiver pós descanso. Seu Deslocamento será diminuído pela metade, você terá Desvantagem para acertar Ataques, e terá -3 em Salvaguardas de Destreza. Em troca, você adiciona seu Modificador de Sabedoria e Inteligência a sua CA, e também fica imune a Condição de Sangramento ou Envenenado. Você também tem 10 pontos de Vulnerabilidade contra Dano de Fogo enquanto a Habilidade durar, além de 10 pontos de Resistência a Dano de Gelo.

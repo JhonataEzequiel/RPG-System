@@ -36,27 +36,27 @@ Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição.
 
 ## Pontos de Mana
 
-Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos Menores. Para tal, você receberá um Dado de Mana. O Dado de Mana funciona similarmente ao Dado de Vida, concedendo Mana adicional a cada Nível de Sabedoria. A quantidade de Magias e Arcanos Menores que poderão ser preparados ao mesmo tempo aumenta conforme a quantidade de Sabedoria, assim como a quantidade de Magias e Arcanos Menores conhecidos. 
+Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos Menores. Para tal, você receberá um Dado de Mana. O Dado de Mana funciona similarmente ao Dado de Vida, concedendo Mana adicional a cada Nível de Sabedoria. A quantidade de Magias e Arcanos Menores que você conhece também é ditada pelo seu Nível de Sabedoria.
 
 Ao melhorar seu Atributo de Sabedoria, você poderá escolher novas Magias da Lista de Magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até Magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma Magia se não atender primeiro aos requisitos dela.
 
 No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Mana, acrescido do seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
 
-| Nível de Sabedoria | Magias Conhecidas | Magias Preparáveis | Arcanos Menores Conhecidos | Arcanos Menores Preparáveis | Dado de Mana |
-| ------------------ | ----------------- | ------------------ | -------------------------- | --------------------------- | ------------ |
-| 0                  | 0                 | 0                  | 0                          | 0                           | 0            |
-| 1                  | 3                 | 2                  | 2                          | 2                           | 1d4          |
-| 2                  | 4                 | 3                  | 4                          | 3                           | 1d4          |
-| 3                  | 6                 | 4                  | 5                          | 4                           | 1d4          |
-| 4                  | 9                 | 7                  | 6                          | 5                           | 1d6          |
-| 5                  | 13                | 8                  | 7                          | 5                           | 1d6          |
-| 6                  | 16                | 10                 | 8                          | 5                           | 1d6          |
-| 7                  | 20                | 12                 | 9                          | 5                           | 1d8          |
-| 8                  | 23                | 14                 | 10                         | 5                           | 1d8          |
-| 9                  | 25                | 15                 | 10                         | 5                           | 1d8          |
-| 10                 | 28                | 18                 | 10                         | 5                           | 2d4          |
+| Nível de Sabedoria | Magias Conhecidas | Arcanos Menores Conhecidos | Dado de Mana |
+| ------------------ | ----------------- | -------------------------- | ------------ |
+| 0                  | 0                 | 0                          | 0            |
+| 1                  | 3                 | 2                          | 1d4          |
+| 2                  | 5                 | 3                          | 1d4          |
+| 3                  | 6                 | 4                          | 1d4          |
+| 4                  | 8                 | 5                          | 1d6          |
+| 5                  | 10                | 6                          | 1d6          |
+| 6                  | 12                | 7                          | 1d6          |
+| 7                  | 13                | 8                          | 1d8          |
+| 8                  | 15                | 8                          | 1d8          |
+| 9                  | 17                | 8                          | 1d8          |
+| 10                 | 20                | 10                         | 2d4          |
 
-Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, sejam conhecidos ou preparados, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente.
+Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente. Ao fazer esta escolha, ela não poderá ser desfeita. Você deve realizar essa escolha antes de criar seu personagem.
 ## Equipamento Inicial
 
 Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.

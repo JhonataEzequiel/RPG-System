@@ -19,7 +19,7 @@ Ao encerrar um combate, você recupera 1d4 da Mana gasta automaticamente.
 
 **Requisitos**: 3 de Inteligência.
 
-Sempre que você puder conjurar um Arcano Menor com 1 Ponto de Mana adicional para obter um efeito extra, você automaticamente o faz. Você não gasta 1 Ponto de Mana adicional para isso. Se o Arcano Menor em específico puder ser fortalecido ainda mais com mais Pontos de Mana, você gastará Pontos de Mana normalmente para isso. Você também conhece um Arcano Menor adicional.
+Sempre que você puder conjurar um Arcano Menor com 1 Ponto de Mana adicional para obter um efeito extra, você automaticamente o faz. Você não gasta 1 Ponto de Mana adicional para isso. Se o Arcano Menor em específico puder ser fortalecido ainda mais com mais Pontos de Mana, você gastará Pontos de Mana normalmente para isso, caso deseje fazê-lo. Você também conhece um Arcano Menor adicional.
 
 Ao chegar ao Nível 10 de Inteligência, você evolui os Arcanos Menores em mais 1 Ponto de Mana, caso isso seja possível para o Arcano Menor em si.
 
@@ -39,9 +39,13 @@ Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir
 
 **Requisitos**: 1 de Sabedoria.
 
-Quando tiver um Descanso Curto e for recuperar Mana utilizando seu Dado de Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem.
+Quando tiver um Descanso Curto e for recuperar Mana utilizando seu Dado de Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem. Você agora conhece duas Magias adicionais.
 
-Você também pode preparar uma Magia a mais da sua lista de Magias Conhecidas.
+## Conhecedor Arcano (Custo 1)
+
+**Requisitos**: Você deve possuir um Grimório. 4 de Inteligência.
+
+Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprimorada. Você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas farão parte das suas Magias Conhecidas, acrescentando o número de Magias Conhecidas em 2. As Magias escolhidas são apagadas do Grimório, abrindo margem para novas. Caso você não tenha nenhuma Magia no seu Grimório no momento em que adquirir essa Habilidade, você pode retirar as Magias do Grimório ao ter um Descanso Longo. Você pode pegar essa Habilidade mais de uma vez.
 
 ## Refazer (Custo 1)
 
@@ -61,7 +65,7 @@ Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá q
 
 ## Truque de Mágica (Custo 1)
 
-**Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 5 de Inteligência.
+**Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 10 de Inteligência.
 
 Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora custam apenas uma Ação Bônus.
 
@@ -69,9 +73,7 @@ Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora cus
 
 **Requisitos**: 6 de Sabedoria.
 
-Escolha uma Magia da sua lista de Magias Conhecidas. Esta Magia estará sempre preparada, e não contará para o número máximo de Magias Preparadas. Além disso, ela custará 1 Ponto de Mana a menos para ser utilizada. A Magia escolhida não pode ser de custo 7 ou superior.
-
-No Nível 10 de Sabedoria, você poderá escolher outra Magia para receber os mesmos efeitos desta Habilidade.
+Escolha uma Magia da sua lista de Magias Conhecidas. Esta Magia custará 1 Ponto de Mana a menos para ser utilizada. A Magia escolhida não pode ser de custo 7 ou superior. Você adiciona +1 na CD para evitar efeitos negativos da Magia escolhida, caso ela possua algum Teste do tipo.
 
 ## Troca Equivalente (Custo 2)
 
@@ -101,7 +103,7 @@ Você foi capaz de treinar seus olhos para enxergar muito além do comum. Magias
 
 **Requisitos**: 1 de Sabedoria. 4 de Inteligência.
 
-Você só pode recuperar Mana com Descansos Longos, mas sua Mana Máxima é dobrada. Qualquer Mana adquirida após adquirir essa Habilidade não será dobrada.
+Você só pode recuperar Mana com Descansos Longos, abdicando de quaisquer outros meios, incluindo poções ou outras Habilidades. Em troca, Magias de custo 1 e 2 são consideradas Arcanos Menores, e não custam mais Mana.
 
 ## Preparação Arcana (Custo 2)
 
@@ -109,17 +111,17 @@ Você só pode recuperar Mana com Descansos Longos, mas sua Mana Máxima é dobr
 
 Ao entrar em combate você pode utilizar qualquer Arcano Menor que quiser, ignorando a ordem de Iniciativa. Você deve fazer isso antes de qualquer integrante do combate iniciar seu Turno.
 
-## Canção da Mana (Custo 3)
+## Canção da Mana (Custo 2)
 
 **Requisitos:** Habilidade "Fluir da Mana" de Custo 1. 9 de Sabedoria.
 
-Descansos Curtos agora recuperam toda a sua Mana, e você pode preparar Magias adicionais. O número de Magias adicionais será igual ao seu Modificador de Sabedoria. Você também conhecerá mais Magias. O número de Magias Conhecidas adicionais será igual a 1d4 + Sab.
+Descansos Curtos agora recuperam toda a sua Mana. Além disso, você conhece uma quantidade de Magias adicionais igual ao seu Modificador de Sabedoria.
 
 ## Supressão Mental (Custo 3)
 
 **Requisitos**: 3 de Sabedoria, 5 de Inteligência.
 
-A quantidade de Mana que você tem atualmente é dobrada, e todas as vezes que você aumentar sua quantidade de Mana, o valor aumentado será o dobro. No entanto, Magias de Custo 7 ou maior custam o triplo. Se você tiver diminuído o Custo de uma Magia que originalmente custava 7 ou mais, essa diminuição é ignorada, e a magia volta ao seu custo inicial antes de ter o custo triplicado.
+Você tem 4d8 a mais de Mana permanentemente. No entanto, Magias da Lista de Magias que custem 7 ou mais custam o dobro. Ainda que você tenha diminuído o custo delas anteriormente, elas custarão o dobro do novo custo. Por exemplo, se uma Magia originalmente custava 8, você diminuiu o custo dela para 6, agora ela custará 12.
 
 ## Bibliotecário (Custo 3)
 
