@@ -53,6 +53,8 @@ Você sacrifica um Item Mágico ou Único de grau 1 ou maior, o transformando em
 
 ## Hertz (Custo 3)
 
-**Requisitos**: 10 de Inteligência.
+**Requisitos**: Habilidade "Conduzir" de Custo 1. Habilidade "Apressado" de Custo 1. 10 de Inteligência.
 
-Você agora pode escolher conceder frações de seu Deslocamento a um aliado no início de cada um de seus Turnos como uma Ação Livre. Você concede 1.5m de Deslocamento por fração, até um máximo de frações iguais a quantidade de Deslocamento que você tenha. Se você tiver pelo menos uma fração sobrando do seu Deslocamento, seus movimentos começam a parecer travados. É como se em uma instância de tempo você estivesse em um lugar, e no próximo já estivesse em uma posição diferente, sem os estágios intermediários de seu movimento. Você acaba por confundir um pouco os inimigos que tentam te acertar. Você tem +1 de CA e +1 em Salvaguardas de Destreza até o início do seu próximo Turno.
+Você agora pode conceder frações do seu Deslocamento a um aliado no início de cada um de seus Turnos como uma Ação Livre. Cada fração equivale a 1.5m de Deslocamento. Você pode conceder quantas frações quiser, até um máximo igual ao seu Deslocamento total dividido por 1.5m. Por exemplo, se você tiver 9m de Deslocamento, pode conceder até 6 frações, totalizando até 9m ao aliado.
+
+Caso você retenha pelo menos uma fração do seu Deslocamento, seus movimentos começam a parecer travados — como se em uma instância de tempo você estivesse em um lugar, e no próximo já estivesse em uma posição diferente, sem os estágios intermediários. Isso confunde os inimigos que tentam te acertar, concedendo +1 de CA e +1 em Salvaguardas de Destreza até o início do seu próximo Turno. Caso você ceda todas as frações do seu Deslocamento, esse bônus não se aplica.
