@@ -43,3 +43,13 @@ Causa 20d6 + Int + Fth de Dano de Sortilégio em cada alvo escolhido por Rodada.
 - Tempo de Conjuração: Reação
 
 **Descrição:** Você anula os efeitos de uma Magia completamente desde que o conjurador esteja no alcance da Magia. Um buraco negro intangível surge e devora a Mana gasta pelo conjurador para conjurar a Magia em si, anulando completamente o efeito dela.
+
+### Mestre dos Cadáveres
+
+- Requisito em Inteligência: 10
+- Requisito em Fé: 10
+- Duração: Um Encontro
+- Alcance: 18m
+- Tempo de Conjuração: Três Ações
+
+**Descrição:** Você dobra os Pontos de Vida e dano causado por Ataques de criaturas controladas por você dentro do alcance da Magia, desde que elas sejam fruto de uma Magia de Sortilégio.

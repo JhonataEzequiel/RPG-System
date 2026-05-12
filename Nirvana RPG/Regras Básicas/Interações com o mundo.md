@@ -53,4 +53,11 @@ Caso você precise arredondar um número, por exemplo, se precisar cortá-lo pel
 
 ## Sinergia
 
-Caso você utilize de suas três Ações do Turno para fazer coisas diferentes, como conjurar uma Magia em uma, Atacar em outra, e usar uma Habilidade na última, você ganha um Dado de Sinergia. Habilidades de Ataque são consideradas algo diferente de um Ataque padrão para esta regra. Você pode utilizar esse Dado de Sinergia em qualquer rolagem. O dado é 1d4, e você pode ter apenas 1 dado por vez. O dado se encerra quando o Encontro acabar.
+Caso você utilize de suas três Ações do Turno para fazer coisas diferentes, você ganhará um Dado de Sinergia. Você pode utilizar esse Dado de Sinergia em qualquer rolagem. O dado é 1d4, e você deve gastar esse dado para poder obter outro. Não há limites de Dados de Sinergia obtidos por Encontro. No entanto, para obter um novo dado, as Ações novas terão que ser diferentes de quaisquer outras já utilizadas no Encontro. Contam para o Dado de Sinergia as seguintes Ações:
+- Atacar;
+- Habilidade de Ataque;
+- Outras Habilidades;
+- Conjurar Magia;
+- Usar um Item;
+- Usar uma Arte de Batalha;
+- Interagir com o Cenário.

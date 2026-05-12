@@ -133,6 +133,8 @@ Esfera de Espinhos: 3 de inteligência, 3 de fé. Sangue.
 
 Bombear: 3 de inteligência, 3 de fé. Sangue.
 
+Golem Zumbi: 3 de Inteligência, 3 de Fé. Sortilégio.
+
 ### Custo 4:
 
 Bola de Fogo Negra: 4 de inteligência, 4 de fé. Sortilégio.
@@ -261,6 +263,8 @@ Singularidade Perfeita: 7 de fé, 7 de inteligência. Sortilégio.
 
 Retornar ao Zero: 7 de fé, 7 de inteligência, 7 de carisma. Imaculada.
 
+Zumbi Conjurador: 7 de Fé, 7 de Inteligência. Sortilégio.
+
 ### Custo 8:
 
 Perseguidores: 8 de inteligência, 8 de fé. Sortilégio.
@@ -356,3 +360,5 @@ Livro do Fim: 10 de inteligência, 10 de carisma. Ilusão.
 Realidade Sangrenta: 10 de Inteligência, 10 de Fé. Sangue.
 
 Apaziguar: 10 de Inteligência, 10 de Carisma. Imaculada.
+
+Mestre dos Cadáveres: 10 de Inteligência, 10 de Fé. Sortilégio.

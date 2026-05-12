@@ -31,4 +31,14 @@ Você pode escolher alvos adicionais ao conjurar essa Magia. Para isso serão ne
 
 **Descrição:** Você faz todos os cadáveres no alcance da Magia explodirem, causando 6d6 + Int + Fth de Dano de Fogo em qualquer criatura num raio de 3m. Uma criatura pode ser alvo de múltiplas explosões. Um cadáver que tiver algum membro do corpo faltando causará apenas 3d6 + Int + Fth de dano. Caso uma criatura esteja para ser atingida pela explosão ela pode realizar uma Salvaguarda de Constituição CD 11 + Int + Fth para receber apenas metade do dano total.
 
-O máximo de cadáveres explodidos ao mesmo tempo é de 10.
+O máximo de cadáveres explodidos ao mesmo tempo é de 10. Mortos-vivos que estejam ativos não são considerados cadáveres.
+
+### Golem Zumbi
+
+- Requisito em Inteligência: 3
+- Requisito em Fé: 3
+- Duração: Um Encontro
+- Alcance: 18m
+- Tempo de Conjuração: Duas Ações
+
+**Descrição:** Você conjura um Golem apodrecido em um local vazio no alcance da Magia. O Golem possui 15 de CA, uma Ação, e age imediatamente após o seu Turno. O Deslocamento dele é 12m, é de tamanho Grande, e tem todos os Atributos iguais a 2. Causa 2d4 + For de Dano Sombrio por Ataque, e possui 30 Pontos de Vida.

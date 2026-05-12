@@ -30,3 +30,13 @@ Você pode estender a duração dessa Magia por mais uma Rodada ao custo de Uma 
 - Tempo de Conjuração: Reação
 
 **Descrição:** Você cria um pequeno buraco negro em mãos, capaz de absorver o impacto de qualquer ataque. Você bloqueia completamente o dano de um ataque ou instância de dano físico.
+
+### Zumbi Conjurador
+
+- Requisito em Inteligência: 7
+- Requisito em Fé: 7
+- Duração: Um Encontro
+- Alcance: 18m
+- Tempo de Conjuração: Três Ações
+
+**Descrição:** Você conjura um Golem Zumbi capaz de conjurar Magias. Ele tem as mesmas estatísticas do Golem Zumbi, Magia de Custo 3, com exceção de seus Pontos de Vida, que são de 120. Ele tem duas Ações, e age imediatamente após o seu Turno. Escolha 4 Magias da lista de Sortilégios que seja de custo 2 ou inferior para que seu Zumbi Conjurador possa utilizar. Ele ainda pode Atacar normalmente.

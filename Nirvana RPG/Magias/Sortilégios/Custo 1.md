@@ -32,3 +32,13 @@ Você pode aumentar o dano em 1d8 por Ponto de Mana adicional gasto. O dano aume
 **Descrição:** Você junta energia sombria no seu interior, fazendo com que uma aura sombria surja ao seu redor. Toda vez que você envenenar um inimigo de qualquer maneira, você causa 1d6 + Int + Fth como Dano Sombrio adicional.
 
 Por 2 Pontos de Mana adicionais, você pode causar 1d6 + Inteligência + Fé como dano adicional ao invés de 1d6 + Int + Fth.
+
+### Cria das Trevas
+
+- Requisito em Inteligência: 1
+- Requisito em Fé: 1
+- Duração: Um Encontro
+- Alcance: 18m
+- Tempo de Conjuração: Uma Ação
+
+**Descrição:** Você conjura uma criatura que é considerada um morto-vivo. Ele possui uma Ação, e age imediatamente após o seu Turno. Você escolhe a aparência do servo, desde que seja humanoide de tamanho médio. Ele tem todos os Atributos em 0, com exceção de Inteligência, que é -4. Causa 1d6 de Dano Sombrio por Ataque, e tem 9m de Deslocamento. A criatura possui 12 Pontos de Vida.

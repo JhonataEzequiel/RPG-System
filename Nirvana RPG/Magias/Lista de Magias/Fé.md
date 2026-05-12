@@ -39,6 +39,8 @@ Garras de Sangue: 1 de inteligência, 1 de fé. Sangue.
 
 Domo Protetor: 1 de carisma ou de fé. Sagrada.
 
+Cria das Trevas: 1 de Fé, 1 de Inteligência. Sortilégio.
+
 ### Custo 2:
 
 Animar os Mortos: 1 de inteligência, 2 de fé. Sortilégio.
@@ -80,6 +82,8 @@ Morto Novamente: 3 de inteligência, 3 de fé. Sortilégio.
 Esfera de Espinhos: 3 de inteligência, 3 de fé. Sangue.
 
 Bombear: 3 de inteligência, 3 de fé. Sangue.
+
+Golem Zumbi: 3 de Inteligência, 3 de Fé. Sortilégio.
 
 ### Custo 4:
 
@@ -159,6 +163,8 @@ Singularidade Perfeita: 7 de fé, 7 de inteligência. Sortilégio.
 
 Retornar ao Zero: 7 de fé, 7 de inteligência, 7 de carisma. Imaculada.
 
+Zumbi Conjurador: 7 de Fé, 7 de Inteligência. Sortilégio.
+
 ### Custo 8:
 
 Sangue Pútrido: 8 de inteligência, 7 de fé. Sangue.
@@ -218,3 +224,5 @@ Magia Carmesim: 10 de inteligência, 10 de fé. Sangue.
 Buraco Negro: 10 de inteligência, 10 de fé. Sortilégio.
 
 Realidade Sangrenta: 10 de Inteligência, 10 de Fé. Sangue.
+
+Mestre dos Cadáveres: 10 de Inteligência, 10 de Fé. Sortilégio.

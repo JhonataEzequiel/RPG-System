@@ -35,7 +35,7 @@ Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas Aç�
 - Requisito em Fé: 7
 - Requisito em Carisma: 7
 - Duração: Instantânea
-- Alcance: Ilimitado
-- Tempo de Conjuração: Três Ações
+- Alcance: 48m
+- Tempo de Conjuração: Reação
 
-**Descrição:** Você consegue, por um momento, acessar o poder que controla o tempo. Você desfaz a último Turno de uma criatura alvo que esteja em combate com você. Ela volta ao estado que estava antes de realizar o Turno anterior, mas o perde. A Magia falha caso você esteja com menos da metade da mana total.
+**Descrição:** Você consegue, por um momento, acessar o poder que controla o tempo. Você desfaz a último Turno de uma criatura alvo que esteja em combate com você. Ela volta ao estado que estava antes de realizar o Turno anterior, mas o perde. A Magia falha caso você já tenha conjurado uma Magia neste Encontro. Essa Magia deve ser conjurada imediatamente após o Turno da criatura alvo para ter efeito.

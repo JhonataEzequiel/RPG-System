@@ -19,7 +19,7 @@ Existem alguns tipos de Dano Mágico, os quais são causados pelo uso de Magias,
 
 **Elementais**: Dano de Fogo, Elétrico (ou Raio), e Gelo. Os outros elementos de Magias Elementais causam basicamente algum tipo de Dano Físico, como Dano Contundente arremessando uma rocha gigante no inimigo, ou Dano Cortante, fazendo uma lâmina de ar.
 
-**Sagrado** (também chamado de Radiante ou Luminoso): tipo de Dano Mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e Magias Sagradas.
+**Sagrado** (também chamado de Radiante ou Luminoso): tipo de Dano Mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e Magias Sagradas. Mortos-vivos tem, por padrão, 10 Pontos de Vulnerabilidade a este tipo de dano, a não ser que seja especificado o contrário.
 
 **Sortilégio** (ou Sombrio): tipo de Dano Mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de dano, o que o torna versátil.
 
