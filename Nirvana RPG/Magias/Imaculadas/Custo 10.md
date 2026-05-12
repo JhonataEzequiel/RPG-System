@@ -34,3 +34,13 @@ O local é um círculo em branco com paredes invisíveis ao redor dele. Do lado 
 **Descrição:** Você altera o código fonte da realidade. Você pode apagar uma regra existente do jogo, modificá-la, ou adicionar uma nova. Você pode modificar qualquer aspecto do jogo. O mestre tem poder de veto, e você pode tentar barganhar com ele. Ele pode impor uma condição ao que você deseja realizar, e vocês podem chegar num acordo.
 
 Você só pode conjurar essa Magia uma vez. Essa Magia também não pode ser transformada ou encontrada em forma de pergaminho. Essas são as únicas regras que não podem ser alteradas.
+
+### Apaziguar
+
+- Requisito em Inteligência: 10
+- Requisito em Carisma: 10
+- Duração: Até o fim do próximo Turno do alvo
+- Alcance: Deslocamento
+- Tempo de Conjuração: Três Ações
+
+**Descrição:** Você alveja um alvo com um pequeno projétil mágico conjurado em suas mãos. O projétil é uma esfera pequena, de cor branca. Você realiza um Ataque a Distância com esse projétil, utilizando Inteligência como Modificador para acertar, assim como seu Bônus de Proficiência. Ao acertar, tanto você quanto o alvo não poderão fazer absolutamente nada até o fim da duração. Outrossim, também estarão invulneráveis a quaisquer instâncias de dano, incluindo dano verdadeiro, e também quaisquer outros efeitos, sejam maléficos ou benéficos. Se errar, recupera 5 Pontos de Mana, gastando apenas 5.

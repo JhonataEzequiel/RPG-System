@@ -16,7 +16,7 @@ Seu próximo Ataque Desarmado em um alvo o fará estar sob os mesmos efeitos que
 
 ## Explosão de Ki (Custo 2)
 
-**Requisitos**: Habilidade "Ki" de Nível 1. 2 de Sabedoria.
+**Requisitos**: Habilidade "Ki" de Custo 1. 2 de Sabedoria.
 **Alcance**: 18m.
 **Custo**: Uma Ação.
 

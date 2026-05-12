@@ -174,3 +174,5 @@ Espaço Branco: 10 de inteligência, 10 de carisma. Ilusão.
 Espaço Negro: 10 de inteligência, 10 de carisma. Ilusão.
 
 Livro do Fim: 10 de inteligência, 10 de carisma. Ilusão.
+
+Apaziguar: 10 de Inteligência, 10 de Carisma. Imaculada.

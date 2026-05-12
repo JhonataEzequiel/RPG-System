@@ -24,3 +24,7 @@ Alternativamente, você tem +1 na Iniciativa, e +1 de CA se o seu Modificador de
 ## Maestria com Armas à Distância (Custo 1)
 
 Se uma Arma à Distância sua precisar de recarga, você pode recarregá-la com uma Ação Bônus. Caso não precise, adicione +5 para acertar o Ataque se o alvo estiver em até metade do alcance total da Arma.
+
+## Maestria com Artes de Batalha (Custo 1)
+
+Você não precisa ser mais proficiente em um tipo de Arma para poder utilizar suas Artes de Batalha. A primeira Arte de Batalha que você efetuar após um Descanso custa 1 Ponto de Mana a menos.
