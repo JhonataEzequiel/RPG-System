@@ -39,11 +39,13 @@ Sempre que você tiver que multiplicar o dano, seja por uma Habilidade, Acerto C
 
 ## Interação Entre Tipos de Dano Mágico
 
-Existem algumas interações possíveis entre os tipos de Dano Mágicos. Muitas vezes dependerá da situação atual do alvo. Para que um alvo esteja em chamas é necessário que ele tenha recebido uma mágica de Dano de Fogo de custo 3 ou maior na última rodada, ou que algo tenha acontecido para ele estar envolto em chamas, como ser vítima de uma explosão no cenário.
+Existem algumas interações possíveis entre os tipos de Dano Mágicos. Muitas vezes dependerá da situação atual do alvo. Por exemplo, para que um alvo esteja em chamas é necessário que ele tenha recebido uma Magia que cause de Dano de Fogo, ou que algo tenha acontecido para ele estar envolto em chamas, como ser vítima de uma explosão no cenário. A duração desses efeitos é até o fim do próximo Turno do inimigo, a não ser que seja dito o contrário, ou que o Mestre decida que o efeito durará mais tempo.
 
-| Situação                                               | Efeito                                                                                            |
-| ------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| Alvo Molhado                                           | Todo Dano de Raio contra o alvo recebe um aumento de 1d6, enquanto o Dano de Fogo diminui em 1d6. |
-| Alvo em Chamas                                         | Todo Dano de Fogo contra o alvo recebe um aumento de 1d6                                          |
-| Alvo recebeu Dano Psíquico nesta ou na Rodada anterior | A CD para resistir a Magias de Ilusão ou identificar seus efeitos é aumentada em 1 ponto          |
+| Situação                                  | Efeito                                                                                                                                                                         |
+| ----------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| Alvo Molhado                              | O alvo tem 10 Pontos de Vulnerabilidade contra Dano de Raio, e 10 Pontos de Resistência contra Dano de Fogo.                                                                   |
+| Alvo em Chamas                            | O alvo terá Desvantagem em Testes de Resistência de Magias que causem Dano de Fogo.                                                                                            |
+| Alvo recebeu Dano Psíquico neste Encontro | A CD para resistir a Magias de Ilusão ou identificar seus efeitos é aumentada em 1 ponto. Esse efeito é cumulativo até um máximo de 3 pontos, e se encerra ao fim do Encontro. |
+| Alvo Eletrocutado                         | Ao ser atingido por Dano de Raio, o alvo fica sobrecarregado. Novas Magias que causem Dano de Raio nele agora diminuirão o Deslocamento dele em 4.5m.                          |
+| Alvo Resfriado                            | Ao ser atingido por Dano de Gelo, o alvo ganha 5 Pontos de Vulnerabilidade a Dano Físico.                                                                                      |
 
