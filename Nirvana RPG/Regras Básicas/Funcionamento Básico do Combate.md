@@ -49,7 +49,7 @@ Existem vários tipos de magias de ataque, e a maioria não requer um Teste para
 
 ## Desviar
 
-Você pode tentar desviar de um ataque. Desviar requer que você encerre seu turno, e tenha pelo custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -3 para acertar até o início do seu próximo Turno.
+Você pode tentar desviar de um ataque. Desviar requer que você encerre seu Turno, e tenha custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -3 para acertar até o início do seu próximo Turno.
 
 ## Arremessar
 

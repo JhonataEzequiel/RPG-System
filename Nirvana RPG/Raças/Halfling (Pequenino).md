@@ -8,7 +8,7 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 **Agilidade nos Pés** (Passiva): Você pode escalar utilizando seu Deslocamento total ao invés de metade dele. 
 
-**Desvio Rápido** (Uma Ação, 1 de Mana): Essa Habilidade substitui a ação de Desviar. Com ela, ataques direcionados a você enquanto desvia tem -10 para acertar ao invés de -3. Você ainda encerra seu Turno quando Desviar, e a duração continua igual. Uma vez ao dia, você também pode impôr Desvantagem à um Ataque enquanto estiver desviando dele. A Desvantagem e a penalidade de -10 são cumulativas. Caso sua Mana acabe, pode usar Desviar normalmente.
+**Desvio Rápido** (Uma Ação, 1 de Mana): Essa Habilidade substitui a ação de Desviar. Com ela, ataques direcionados a você enquanto desvia tem -10 para acertar ao invés de -3. Você ainda encerra seu Turno quando Desviar, e a duração continua igual. Uma vez por Descanso Longo, você também pode impôr Desvantagem à um Ataque enquanto estiver desviando dele. A Desvantagem e a penalidade de -10 são cumulativas. Caso sua Mana acabe, pode usar Desviar normalmente.
 
 ### Pés Aconchegantes
 

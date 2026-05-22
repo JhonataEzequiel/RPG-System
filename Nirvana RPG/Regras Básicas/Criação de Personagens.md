@@ -63,7 +63,7 @@ Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser 
 
 ## Escolha de Perícias e Proficiências
 
-Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, até um limite de 5 Perícias. As Perícias em si estão detalhadas no Capítulo 1 - Fundamentos.
+Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int. As Perícias em si estão detalhadas no Capítulo 1 - Fundamentos.
 
 Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo.
 

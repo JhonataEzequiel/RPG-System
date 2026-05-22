@@ -9,4 +9,4 @@ O Descanso Curto também permite trocar os Arcanos Menores preparados, mas não 
 
 ## Descanso Longo
 
-O Descanso Longo dura cerca de 8 horas e recupera todos os Pontos de Vida e Mana, além de qualquer Habilidade que precise de um Descanso Longo para recuperar. Usuários de Magias também podem trocar qualquer Magia preparada. Basicamente, você estará em seu estado pleno, com todos as estatísticas recuperadas.
+O Descanso Longo dura cerca de 8 horas e recupera todos os Pontos de Vida e Mana, além de qualquer Habilidade que precise de um Descanso Longo para recuperar. Usuários de Magias também podem trocar qualquer Magia preparada. Você também se curará de Condições. Basicamente, você estará em seu estado pleno, com todos as estatísticas recuperadas. 

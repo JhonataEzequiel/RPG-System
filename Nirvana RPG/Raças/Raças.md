@@ -15,13 +15,3 @@ Cada Raça possui Habilidades únicas, além de um deslocamento e tamanho caract
 | Humano            | 9                                 | Médio   | -                  |
 | Siderium          | 9                                 | Médio   | Élfico             |
 | Tártaro           | 15, Penalidade de -10.5 Com Casco | Médio   | -                  |
-
-[[Humano]]
-[[Elfo]]
-[[Gnomo]]
-[[Anão]]
-[[Fjer]]
-[[Siderium]]
-[[Tártaro]]
-[[Halfling (Pequenino)]]
-[[Cait-Sith]]

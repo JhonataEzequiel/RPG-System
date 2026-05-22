@@ -44,4 +44,4 @@ Você poderá escolher qualquer uma das Perícias a seguir, seguindo as regras d
 
 1. Conversação: determina a capacidade de intimidar, persuadir, ou barganhar com outros personagens. Podendo encerrar batalhas, ou iniciar outras, dependendo das circunstâncias.
 2. Atuação: determina a capacidade de se passar por outros personagens, ou enganar alguém.
-3. Música: Capacidade de cantar ou tocar um Instrumento Musical. Caso seja Proficiente em música, você deve escolher uma quantidade de Instrumentos igual ao seu Modificador de Carisma. A voz conta como um Instrumento, ou seja, saber cantar necessitará que você escolha a voz como uma de suas opções musicais. Você saberá tocar os Instrumentos escolhidos.
+3. Música: Capacidade de cantar ou tocar um Instrumento Musical. Caso seja Proficiente em música, você deve escolher uma quantidade de Instrumentos igual ao seu Modificador de Carisma, com um mínimo de um instrumento. A voz conta como um Instrumento, ou seja, saber cantar necessitará que você escolha a voz como uma de suas opções musicais. Você saberá tocar os Instrumentos escolhidos.
