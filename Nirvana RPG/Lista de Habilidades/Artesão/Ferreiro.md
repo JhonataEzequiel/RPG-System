@@ -26,7 +26,7 @@ Você agora pode realizar infusões em itens não-mágicos. Você precisa ter a 
 
 **Requisitos**: Habilidade "Ferraria Intermediária" de Custo 2. 5 de Sabedoria, 2 de Inteligência.
 
-Você agora pode realizar múltiplas infusões de itens, assim como consta as regras de [[Infusões]]. Você não terá custo adicional pelas pedras mágicas, ou seja, elas custarão o valor que consta na tabela. Ainda que ferreiros normalmente cobrem o dobro do preço para infundir uma pedra mágica em um item já infundido, isto não refletirá no preço das pedras em si. Você ainda pode cobrar o valor que quiser pelos seus serviços.
+Você agora pode realizar múltiplas infusões de itens, assim como consta as regras de Infusões. Você não terá custo adicional pelas pedras mágicas, ou seja, elas custarão o valor que consta na tabela. Ainda que ferreiros normalmente cobrem o dobro do preço para infundir uma pedra mágica em um item já infundido, isto não refletirá no preço das pedras em si. Você ainda pode cobrar o valor que quiser pelos seus serviços.
 
 ## Ferraria Mágica (Custo 3)
 

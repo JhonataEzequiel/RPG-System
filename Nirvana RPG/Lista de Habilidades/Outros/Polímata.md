@@ -29,6 +29,12 @@ Você aprendeu uma maneira de transferir conhecimento apenas por ter uma alianç
 
 Você pode copiar uma Habilidade de um aliado seu. Ao ter um Descanso Longo, você terá uma cópia dessa Habilidade até o fim do próximo Encontro. Você ignora os Requisitos de Atributo dela, mas ainda terá que cumprir quaisquer outros.
 
+## Esquecimento (Custo 1)
+
+**Requisitos**: 4 de Sabedoria.
+
+Quando estiver fora de combate, escolha uma Habilidade ou Magia que não seja passiva, e que custe uma Ação Bônus ou Ação, e esqueça-a temporariamente. Ao fazer isso, você poderá utilizá-la como uma reação ao final de qualquer um dos Turnos de um dos participantes de um Encontro, com exceção do seu Turno. Você poderá fazer isso uma vez por Descanso Longo, e não poderá utilizar a Habilidade ou Magia escolhida até que faça uso de sua Reação.
+
 ## Pacifista (Custo 1)
 
 Você é fisicamente incapaz de causar danos a outras criaturas, diretamente ou indiretamente, seja por um voto pessoal, ou por alguma característica específica. Isso significa que se de alguma forma você causar danos a uma criatura, seja por um Ataque, Magia, e meios diretos similares, ou por meio indiretos, como controlando autômatos, esse dano será completamente anulado. Você hesitará no último segundo, incapaz de ferir qualquer ser que seja.

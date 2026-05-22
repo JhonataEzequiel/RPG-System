@@ -80,6 +80,15 @@ Sempre que conjurar uma Magia que cause dano enquanto toca uma música, você ad
 
 Você tem +4 em Testes de Conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma Condição negativa você ganha Vantagem além do bônus padrão de +4.
 
+## Dinâmica Musical (Custo 2)
+
+**Requisitos**: 4 de Carisma. Ser perito em Música.
+**Custo**: Ação Bônus, 1 de Mana.
+
+Esta Habilidade deve ser usada no início do seu Turno para ter efeito. Você começa seu Turno ditando o ritmo do restante da Rodada ao tocar ou cantarolar uma melodia em uma determinada intensidade. Você escolhe entre Piano e Forte.
+- **Piano**: Sua melodia tem um volume baixo, e é pouco perceptível. No entanto, uma criatura alvo à sua escolha consegue ouvi-la perfeitamente. Adicione +2 a qualquer Teste que ela for fazer até o fim da Rodada se ela não estiver furtiva, ou +6 caso esteja.
+- **Forte**: Sua melodia tem um volume alto, e serve para desestabilizar seus oponentes. Você causa 1d4 de Dano Psíquico em todas as criaturas numa área circular de raio igual ao seu Deslocamento. Elas também terão -2 em todos os Testes até o fim da rodada. Você pode escolher até três criaturas para serem imunes a esse efeito.
+
 ## Diligente (Custo 3)
 
 **Requisitos**: 5 de Carisma.
