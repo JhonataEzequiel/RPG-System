@@ -1,0 +1,3 @@
+1. Remover Descanso Longo e Curto em troca de um sistema em que, dependendo do tempo que você descansar, recupera X mana e vida.
+2. Aumentar a curva de dano. De início, o dano é baixo e semelhante a D&D. No end game, o dano será altíssimo, assim como a taxa de acerto.
+3. Fazer com que as habilidades e coisas do gênero precisem apenas de mana para serem usadas, ao invés de ser uma vez por descanso, seja curto ou longo.
