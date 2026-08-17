@@ -60,7 +60,9 @@ Todas as vezes que você causar dano a alguém, causará 1d6 a mais de Dano Verd
 
 **Requisitos**: Máximo de 5 de Constituição.
 
-Você não pode mais usar qualquer Armadura, nem mesmo Armadura mágica. Sua CA não poderá ultrapassar 16 independente do que aconteça. Você recebe +1 ponto na Margem de Ameaça, e toda vez que tiver um Acerto Crítico adicione 2d4 ao dano. Esse dano adicional não passará por nenhum multiplicador.
+Você não pode mais usar qualquer Armadura, nem mesmo Armadura mágica. Sua CA não poderá ultrapassar 16 independente do que aconteça. Você recebe +3 pontos na Margem de Ameaça, e toda vez que tiver um Acerto Crítico adicione 2d8 ao dano. Esse dano adicional não passará por nenhum multiplicador, e será de um dos tipos que sua Arma é capaz de causar.
+
+Essa Habilidade perde o efeito ao ultrapassar 5 de Constituição, ou utilizar uma Armadura.
 
 ## À Moda Antiga (Custo 1)
 

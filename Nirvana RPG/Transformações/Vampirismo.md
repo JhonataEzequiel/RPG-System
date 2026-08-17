@@ -46,6 +46,4 @@ Ao receber os 5 Pontos de Atributos extras da Habilidade "Nobreza", e se aliment
 
 **Danação Vampírica** (Passiva): Você pode controlar quaisquer Vampiros que estejam em um Estágio inferior ao seu. Caso eles falhem num Teste de Resistência de Fé CD 20, eles obedecerão uma ordem sua. Você pode dar uma ordem para cada Vampiro por Rodada. Eles podem escolher te obedecer sem ter que passar no Teste, caso lhe sejam leais.
 
-**Forma Demoníaca** (Três Ações): Dura um Encontro. Você se transforma em um morcego gigante com mãos e pernas. Você adquire Deslocamento de Voo igual ao seu Deslocamento. Seus Pontos de Vida Máximos são aumentados em 6d6, e você se torna Imune a Exaustão (que não seja ocasionada por fome de sangue). Você se cura em 2d8 ao final de cada um de seus Turnos. No entanto, você morrerá caso encerre um de seus Turnos em contato com luz solar.
-
-Ao final do Encontro você sairá da Forma Demoníaca, e receberá dois Níveis de Exaustão.
+**Forma Demoníaca** (Três Ações): Dura um Encontro. Você se transforma em um morcego gigante com mãos e pernas. Você adquire Deslocamento de Voo igual ao seu Deslocamento. Seus Pontos de Vida Máximos são aumentados em 6d6, e você se torna Imune a Exaustão (que não seja ocasionada por fome de sangue). Você se cura em 6d6 ao final de cada um de seus Turnos. No entanto, você morrerá caso encerre um de seus Turnos em contato com luz solar. Ao final do Encontro você sairá da Forma Demoníaca, e receberá dois Níveis de Exaustão.
