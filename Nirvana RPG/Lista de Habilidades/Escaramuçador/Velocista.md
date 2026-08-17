@@ -64,7 +64,7 @@ Seu Deslocamento aumenta pela metade enquanto estiver Invisível.
 
 ## Guepardo (Custo 3)
 
-**Requisitos**: Habilidade "Leve Como uma Pena" de custo 1, e Habilidade "Velocidade de Gato" de custo 2. Você não pode estar usando nenhuma Armadura, ou Escudo. 4 de Destreza.
+**Requisitos**: Habilidade "Leve Como uma Pena" de custo 1, e Habilidade "Velocidade de Gato" de custo 2. Você não pode estar usando nenhuma Armadura, ou Escudo.
 
 O seu Deslocamento é dobrado caso a Habilidade "Leve Como uma Pena" esteja ativa. Você dobra depois de já ter calculado quaisquer outros bônus para o Deslocamento.
 

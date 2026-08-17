@@ -11,7 +11,9 @@ Você tem +50po disponíveis para adquirir seu Equipamento Inicial.
 
 **Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
 
-Ganhe mais 1 Ponto de Atributo para alocar como quiser. Este ponto ignora o Limite Máximo para o Nível de um Atributo. Além disso, adicione 1d4 aos seus Pontos de Vida e Mana.
+Ganhe mais 1 Ponto de Atributo para alocar como quiser. Além disso, adicione 1d8 + Con aos seus Pontos de Vida e Mana.
+
+Alternativamente, seu Limite Máximo para o Nível de um Atributo aumenta em dois pontos.
 
 ## Contrário (Custo 1)
 

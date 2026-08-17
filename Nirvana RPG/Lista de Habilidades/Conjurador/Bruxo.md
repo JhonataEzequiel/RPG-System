@@ -13,6 +13,13 @@ Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse
 
 Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que não incluí Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo. O limite é de 3d4 adicionais.
 
+## Cemitério (Custo 1)
+
+**Requisitos**: 1 de Inteligência, 1 de Fé.
+**Alcance**: 36m.
+
+Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio.
+
 ## Tristeza Profunda (Custo 1)
 
 **Requisitos**: 1 de Inteligência, 1 de Fé.
@@ -82,3 +89,13 @@ Essa Habilidade terá efeito apenas quando 100 almas sejam colhidas pela Habilid
 Ao conjurar qualquer Magia de Custo 10 que cause dano, você pode optar por triplicar a área de efeito (caso seja uma Magia em área), ou escolher dois alvos adicionais, se for de alvo único. No entanto, o dano causado por aqueles dentro da área adicional, ou pelos alvos adicionais sempre será de Dano de Fogo. As chamas criadas terão uma cor mais amarelada que o padrão.
 
 Você pode usar essa Habilidade três vezes por Descanso Curto ou Longo.
+
+## Dia das Bruxas (Custo 3)
+
+**Requisitos**: 10 de Inteligência, 10 de Fé.
+**Custo**: 10 de Mana. Três Ações.
+**Duração**: Um Encontro.
+
+O céu toma uma coloração escura como em tempos de tempestade. Todos num raio de 100m conseguem ver isso. Seus próximos 3 Sortilégios conjurados dentro da duração desta Habilidade não custam Mana para serem conjurados. Alternativamente, dobre todas as estatísticas de um lacaio conjurado ou reanimado. Isso inclui Pontos de Vida e Mana, Atributos, Salvaguardas, e CA. Caso algum Atributo seja negativo, o valor dele é invertido. Por exemplo, de -4 passaria a ser 4.
+
+Após a duração, você terá a Condição Exaustão 4. Cada vez que Conjurar um Sortilégio com essa Habilidade você recebe 7 Pontos de Vulnerabilidade a Dano Físico.
