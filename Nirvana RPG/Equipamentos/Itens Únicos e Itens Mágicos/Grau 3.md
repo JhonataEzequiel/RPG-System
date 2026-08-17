@@ -15,3 +15,11 @@ Reza a lenda que quem possui essa espada lendária adquire o direito de se torna
 | Arma    | Preço      | Dano                                    | Requisitos                   | Escalas                   | Tipo  | Aumento de Alcance | Peso |
 | ------- | ---------- | --------------------------------------- | ---------------------------- | ------------------------- | ----- | ------------------ | ---- |
 | Fissura | Indefinido | 4d4 + Força + Destreza de Dano Cortante | 10 de Força e 10 de Destreza | S em Força, S em Destreza | Comum | 0                  | 2 kg |
+
+## Armadura de Tetranita
+
+Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetranita é um mineral que contém as propriedades dos quatro elementos, das quatro estações, e dos quatro pontos cardiais. O material se pode se moldar conforme a necessidade do usuário, e somente os melhores ferreiros conseguem manuseá-lo para tal.
+
+| Armadura              | Preço      | CA  | Requisitos | Escalas                 | Penalidades | Efeitos Adicionais | Peso  |
+| --------------------- | ---------- | --- | ---------- | ----------------------- | ----------- | ------------------ | ----- |
+| Armadura de Tetranita | Indefinido | +8  | -          | S em todos os Atributos | -           | -                  | 20 kg |
