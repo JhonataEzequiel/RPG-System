@@ -5,7 +5,7 @@ O deslocamento da criatura agarrada é reduzido a zero, e a criatura perde uma d
 
 ### Amedrontado
 
-Sofre desvantagem em ataques, e seu deslocamento é cortado pela metade.
+Sofre desvantagem em Ataques, e seu Deslocamento é cortado pela metade.
 
 ### Atordoado
 
