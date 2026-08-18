@@ -56,6 +56,12 @@ Você agora não pode realizar mais do que um Ataque por Turno. Além disso, voc
 
 Você pode sacrificar uma de suas Ações neste Turno para ganhar +2 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 1d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque. Você também pode sacrificar duas Ações para obter ambos os bônus.
 
+## Infiltrador (Custo 1)
+
+**Requisitos**: 3 de Destreza.
+
+Seus Ataques ignoram Resistências a Dano Físico no primeiro de seus Turnos em um Encontro.
+
 ## Golpe Duplo (Custo 2)
 
 **Requisitos**: 2 de Destreza ou 2 de Força.

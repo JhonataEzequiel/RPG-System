@@ -27,7 +27,7 @@ Ao chegar ao Nível 10 de Inteligência, você evolui os Arcanos Menores em mais
 
 **Requisitos**: 3 de Inteligência.
 
-Você agora pode anotar uma de suas Magias Conhecidas no seu grimório. Fazendo isso, você desocupa um espaço nas Magias Conhecidas, abrindo brecha para adicionar uma nova. Você pode adicionar uma nova Magia Conhecida quando completar um Descanso Longo. Você pode utilizar essa característica três vezes por grimório. O tempo para anotar a Magia no grimório é o mesmo das regras de Grimório.
+A cada três Magias que você anotar no seu Grimório, adicione 1d4 Pontos de Mana enquanto estiver com o Grimório equipado.
 
 ## Assinatura de Mana (Custo 1)
 
@@ -39,7 +39,7 @@ Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir
 
 **Requisitos**: 1 de Sabedoria.
 
-Quando tiver um Descanso Curto e for recuperar Mana utilizando seu Dado de Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem. Você agora conhece duas Magias adicionais.
+Quando tiver um Descanso Curto e for recuperar Mana utilizando seu Dado de Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem. Você agora conhece uma Magia adicional.
 
 ## Conhecedor Arcano (Custo 1)
 
@@ -51,11 +51,14 @@ Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprim
 
 Você pode trocar as Magias e Arcanos Menores que você conhece. Essa Habilidade pode ser pega mais de uma vez.
 
+Caso você tenha 10 de Inteligência e 10 de Sabedoria, você terá o efeito desta Habilidade toda vez que tiver um Descanso Longo, não precisando pegá-la novamente para trocar suas Magias.
+
 ## Transferência Arcana (Custo 1)
 
 **Requisitos**: 2 de Sabedoria.
+**Custo**: Metade da sua Mana atual. Uma Ação.
 
-Você consegue extrair uma pequena esfera de Mana do seu corpo, composta por metade da sua Mana atual. Ela é azulada, e não é tangível, mas segue o movimento de suas mãos. Ao encostar essa esfera em uma criatura alvo, ela a absorve, recebendo a Mana extraída. Você só pode usar essa Habilidade uma vez por Descanso Longo ou Curto, e somente fora de combate.
+Você consegue extrair uma pequena esfera de Mana do seu corpo, composta por metade da sua Mana atual. Ela é azulada, e não é tangível, mas segue o movimento de suas mãos. Ao encostar essa esfera em uma criatura alvo no alcance do seu Deslocamento ela a absorve, recebendo a Mana extraída.
 
 ## Conjuração Ritual (Custo 1)
 
