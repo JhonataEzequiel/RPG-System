@@ -11,3 +11,6 @@
 - Tempo de Conjuração: (quantidade de ações)
 
 **Descrição:** \#Descrição#
+
+
+Terminar de revisar magias. Atualmente: custo 7 das elementais

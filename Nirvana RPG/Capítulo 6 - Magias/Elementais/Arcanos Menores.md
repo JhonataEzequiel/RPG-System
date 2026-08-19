@@ -14,10 +14,12 @@ Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d8 por
 
 - Requisito em Inteligência: 1
 - Duração: Instantânea
-- Alcance: 24m
+- Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você conjura dois relâmpagos que acertam um único alvo, causando 1d6 + Int de dano cada. Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d6 por ponto gasto.
+**Descrição:** Você conjura dois relâmpagos que acertam um único alvo, causando 1d6 + Int de Dano de Raio cada. 
+
+Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d6 por ponto gasto para cada um dos relâmpagos.
 
 ### Bolha Ácida
 
@@ -26,7 +28,7 @@ Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d8 por
 - Alcance: 9m + Deslocamento
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você conjura uma bolha de ácido de meio metro de raio. A bolha é lançada em um inimigo no alcance da Magia. Caso ele esteja usando uma armadura não mágica, a CA dele é diminuída em 1 ponto. Além disso, o alvo toma 1d4 de Dano de Ácido Contínuo até o fim da Magia.
+**Descrição:** Você conjura uma bolha de ácido de meio metro de raio. A bolha é lançada em um inimigo no alcance da Magia. Caso ele esteja usando uma Armadura não-mágica, a CA dele é diminuída em 1 ponto. Além disso, o alvo toma 1d4 de Dano de Ácido Contínuo até o fim da Magia.
 
 ### Toque Gélido
 
@@ -35,4 +37,4 @@ Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d8 por
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** A palma da sua mão se torna congelante, afetando qualquer uma que você tocar. O alvo toma 2d4 + Int de Dano de Gelo, e tem -3m de Deslocamento. Caso um alvo tenha alguma Resistência a Gelo, ele não sofre a penalidade de Deslocamento.
+**Descrição:** A palma da sua mão se torna congelante, afetando qualquer um que você tocar. O alvo toma 2d4 + Int de Dano de Gelo, e tem -3m de Deslocamento. Caso um alvo tenha alguma Resistência a Gelo, ele não sofre a penalidade de Deslocamento.

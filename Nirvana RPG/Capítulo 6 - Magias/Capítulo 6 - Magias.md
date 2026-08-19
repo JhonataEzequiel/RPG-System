@@ -1,7 +1,7 @@
 
 Existem Magias e Arcanos Menores. Arcanos Menores não gastam Mana, já Magias, gastam. Cada Magia tem Requisitos especificados, podendo ser de Inteligência, Fé, ou Carisma. A quantidade de Mana gasta é igual a seu Requisito, caso o Requisito seja único. Se a Magia pedir mais de um Atributo para ser conjurada, o custo será a média dos Requisitos arredondada para cima.
 
-Uma Magia pode mostrar vários Requisitos, mas requerer apenas um. Neste caso, o conectivo "ou" será utilizado para denotar que apenas um dos Requisitos será necessário. Exemplo: "5 de Inteligência, fé, ou Carisma".
+Uma Magia pode mostrar vários Requisitos, mas requerer apenas um. Neste caso, o conectivo "ou" será utilizado para denotar que apenas um dos Requisitos será necessário. Exemplo: "5 de Inteligência, Fé, ou Carisma".
 
 Magias com alcance "Toque" podem ser utilizadas no próprio conjurador. Basta que ele toque em si mesmo e conjure a Magia. Algumas Magias também terão um alcance igual ao Deslocamento do conjurador. Neste caso, estará especificado no alcance apenas como "Deslocamento" ou algo como "9m + Deslocamento", caso o alcance for um pouco maior.
 
