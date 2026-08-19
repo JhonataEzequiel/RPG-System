@@ -41,4 +41,3 @@ Os Venenos são aplicados em Armas brancas, flechas, e virotes. Para aplicar um 
 | Veneno Sonífero    | O alvo atingido fica Inconsciente por 5 Rodadas caso falhe num Teste de Resistência de Constituição CD 15.                                                                                     | 15po  |
 | Presa de Vespa     | O alvo atingido perde 2 pontos em Destreza, Força, e Constituição por 2 Rodadas caso falhe em um Teste de Constituição CD 14. Em caso de sucesso, o efeito dura apenas uma Rodada.             | 5po   |
 | Amatoxina          | De imediato o alvo não sofre nenhum efeito. Após 24 horas ele começa a sentir náuseas, e tem a Condição Exaustão 3. A Condição aumenta a cada 6 horas, até Exaustão 6, levando o alvo à morte. | 25po  |
-

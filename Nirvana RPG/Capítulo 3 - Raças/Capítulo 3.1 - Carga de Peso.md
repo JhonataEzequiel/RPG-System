@@ -15,4 +15,3 @@ Cada raça consegue carregar uma quantidade de peso em quilos diferente. No enta
 | Humano           | 45                     |
 | Siderium         | 40                     |
 | Tártaro          | 50                     |
-

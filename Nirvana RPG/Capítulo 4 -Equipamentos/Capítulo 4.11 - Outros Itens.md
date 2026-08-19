@@ -46,7 +46,3 @@ A tabela abaixo contém itens básicos úteis para aventureiros em suas jornadas
 | Bigorna                   | Ferramenta necessária para forja de itens de metal. É como uma mesa de forja capaz de ser carregada por um meio de transporte, ou nas costas de pessoas particularmente capazes.              | 45po  | 45 kg                        |
 | Martelo de Forja          | Ferramenta necessária para forja de diversos itens.                                                                                                                                           | 1po   | 1.5 kg                       |
 | Almofariz                 | Ferramenta necessária para confecção de poções                                                                                                                                                | 1po   | 1.5 kg                       |
-
-
-
-

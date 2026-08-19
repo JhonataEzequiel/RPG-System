@@ -48,4 +48,3 @@ Existem algumas interações possíveis entre os tipos de Dano Mágicos. Muitas 
 | Alvo recebeu Dano Psíquico neste Encontro | A CD para resistir a Magias de Ilusão ou identificar seus efeitos é aumentada em 1 ponto. Esse efeito é cumulativo até um máximo de 3 pontos, e se encerra ao fim do Encontro. |
 | Alvo Eletrocutado                         | Ao ser atingido por Dano de Raio, o alvo fica sobrecarregado. Novas Magias que causem Dano de Raio nele agora diminuirão o Deslocamento dele em 4.5m.                          |
 | Alvo Resfriado                            | Ao ser atingido por Dano de Gelo, o alvo ganha 5 Pontos de Vulnerabilidade a Dano Físico.                                                                                      |
-
