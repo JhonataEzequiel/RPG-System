@@ -36,3 +36,4 @@ O livro será subdividido em capítulos. Cada capítulo tratará de algum aspect
 - **Capítulo 4 - Equipamentos**: Aqui estarão listadas as regras de Equipamentos, assim como uma lista básica contendo diversas opções de itens.
 - **Capítulo 5 - Habilidades**: O coração do sistema. Você encontrará a principal parte da construção do seu personagem aqui. As Habilidades serão escolhidas por você, podendo mesclar qualquer Habilidade com outras, montando um personagem único.
 - **Capítulo 6 - Magias**: Aqui você encontrará as regras para conjuração de Magias, e também uma lista contendo todas elas separadas por seus custos de Mana, e também por Atributo necessário para conjurá-las, além de suas descrições e requisitos.
+- **Capítulo 7 - Transformações**: Algumas mecânicas opcionais caso queira jogar como um Vampiro ou Licantropo.
