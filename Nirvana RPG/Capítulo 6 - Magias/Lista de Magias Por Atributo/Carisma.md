@@ -21,8 +21,6 @@ Acalmar: 1 de inteligência, 1 de carisma. Ilusão.
 
 Ajuda: 1 de fé, 1 de carisma. Imaculada.
 
-Falar com Animais: 1 de carisma. Imaculada.
-
 Cura Menor: 1 de fé ou carisma. Sagrada.
 
 Aura Mágica: 1 de inteligência ou carisma. Ilusão.

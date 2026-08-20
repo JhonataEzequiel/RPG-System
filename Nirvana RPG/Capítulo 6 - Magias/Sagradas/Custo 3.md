@@ -6,7 +6,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você toca uma criatura concedendo a ela um bônus de +2 em algum atributo. Você pode gastar 1 Ponto de Mana a mais para escolher mais de uma criatura, e também gastar 1 ponto a mais para adicionar +1 de bônus no atributo escolhido. Você pode fazer isso com quantas criaturas quiser, e aumentar os atributos escolhidos o quanto quiser dessas criaturas.
+**Descrição:** Você toca uma criatura concedendo a ela um bônus de +2 em algum Atributo. Você pode gastar 1 Ponto de Mana a mais para escolher mais de uma criatura, e também gastar 1 ponto a mais para adicionar +1 de bônus no Atributo escolhido. Você pode fazer isso com quantas criaturas quiser, e aumentar os Atributos escolhidos o quanto quiser dessas criaturas.
 
 ### Neutralizar Veneno
 
@@ -15,18 +15,18 @@
 - Alcance: Toque
 - Tempo de Conjuração: Ação Bônus
 
-**Descrição:** A criatura tocada por você tem qualquer dano contínuo de veneno anulado instantaneamente.
+**Descrição:** A criatura tocada por você tem qualquer Dano Contínuo de Veneno anulado instantaneamente.
 
-Por 1 Ponto de Mana adicional você pode curar qualquer outro efeito advindo de um veneno.
+Por 1 Ponto de Mana adicional você pode curar qualquer outro efeito advindo de um Veneno.
 
 ### Zona da Verdade
 
 - Requisito em Fé: 3
-- Duração: 10 minutos
+- Duração: 1 Encontro
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Uma área circular centrada em você de raio 4.5m começa a emanar um brilho dourado. Todas as criaturas nesta área serão obrigadas a dizer a verdade para qualquer pergunta feita a elas, caso falhem num Teste de Sabedoria CD 16 + Fth. Em caso de sucesso, uma criatura só poderá sair daquela área caso diga alguma curiosidade sobre qualquer coisa que tenha conhecimento.
+**Descrição:** Uma área circular centrada em você de raio 4.5m começa a emanar um brilho dourado. Todas as criaturas nesta área serão obrigadas a dizer a verdade para qualquer pergunta feita a elas, caso falhem num Teste de Resistência de Fé CD 16 + Fth. Em caso de sucesso, uma criatura só poderá sair daquela área caso diga alguma curiosidade sobre qualquer coisa que tenha conhecimento.
 
 ### Barulho de Inseto
 

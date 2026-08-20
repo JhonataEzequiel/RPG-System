@@ -30,15 +30,6 @@ Você pode aumentar em 5 os Pontos de Vida Temporários para cada Ponto de Mana 
 
 **Descrição:** Conjura uma proteção mágica em volta do alvo, substituindo a CA dele para 9 + Inteligência. A armadura tem escala B em Inteligência. Você pode gastar 5 Pontos de Mana adicionais para aumentar a escala para S.
 
-### Falar com Animais
-
-- Requisito em Carisma: 1
-- Duração: 1 hora
-- Alcance: 48 metros
-- Tempo de Conjuração: Duas Ações
-
-**Descrição:** Você é capaz de se comunicar com animais. Você entende a língua deles, seja ela qual for, e também é entendido por eles. Para outros indivíduos fora da conversa, você imitará quaisquer barulhos que aquele animal normalmente faria. Por exemplo, alguém poderia te ver falando com um cachorro, e você estaria latindo para o cachorro.
-
 ### Leitura Dinâmica
 
 - Requisito em Inteligência: 1
