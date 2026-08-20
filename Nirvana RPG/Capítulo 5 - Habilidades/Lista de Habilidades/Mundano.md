@@ -9,7 +9,7 @@ Você ganha 1d4 de Pontos de Mana e Vida permanentemente ao adquirir essa Habili
 
 ## Sem Especialidade (Custo 1)
 
-Você evolui de Nível mais rápido que os outros, recebendo o dobro de Experiência por qualquer ação feita. No entanto, você só poderá incrementar seus Atributos ao subir de Nível quando for capaz de alocar 7 Pontos de Atributo de uma vez, e você não pode mais pré-alocar seus Pontos de Atributo. Pontos de Atributos pré-alocados serão cancelados, e você os recebe para alocar novamente quando puder. O ganho de Pontos de Atributo e Habilidades continuará o mesmo.
+Sempre que você receber um Ponto de Atributo ele irá automaticamente para o Atributo de menor Nível. Você agora pode utilizar ambas as características do Atributo de Sabedoria relacionadas a Mana, sendo elas a de conjurar Magias, e a de adicionar Mana a Testes.
 
 ## Do nada à nata (Custo 1)
 
@@ -18,17 +18,14 @@ Você evolui de Nível mais rápido que os outros, recebendo o dobro de Experiê
 Você não ganha nada ao adquirir esta Habilidade, mas quando atingir níveis superiores, você ganhará os seguintes benefícios:
 - Nível 5: +1 em todas as Salvaguardas.
 - Nível 10: +3 em Iniciativa.
-- Nível 15: +1 ponto de Atributo.
-- Nível 20: +1 ponto de Habilidade.
-
-Você não pode escolher outras Habilidades além desta no nível 1.
+- Nível 15: +1 Ponto de Atributo.
+- Nível 20: +1 Ponto de Habilidade.
 
 ## Pau Para Toda Obra (Custo 2)
 
 **Requisitos**: 3 em cada Atributo. Não pode haver uma diferença maior que 1 Nível entre os Atributos.
 
 Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente ser o melhor em algo. Se algum de seus Atributos tiver uma diferença de Nível maior que um ponto, você perderá essa Habilidade para sempre, assim como os Pontos de Habilidade gastos para adquiri-la. Isso se aplica apenas aos pontos que você alocar, e bônus temporários não contam. Em troca, você recebe os seguintes bônus:
-
 1. 2d8 a mais para o Dado de Vida.
 2. 2d4 a mais para o Dado de Mana.
 3. Você tem +1 em todos os Testes de Resistência.
@@ -62,7 +59,6 @@ Por último, na primeira vez que utilizar uma Habilidade que tenha custo de Aç�
 **Requisitos**: Nenhum Atributo pode ter um valor abaixo de 7.
 
 Você ultrapassa o ciclo de morte e vida do universo, o observando como uma entidade superior, capaz de ver a efemeridade do momento. Você se torna um ser de natureza maior, atuando na realidade de maneira mais significativa. Você agora tem 3 Ações Lendárias, podendo usá-las quando quiser, independente da ordem de Iniciativa ou se está no seu Turno. Toda Rodada você recarrega as suas Ações Lendárias. Você pode:
-
 - Passar em um Teste no qual tenha falhado;
 - Curar completamente qualquer Condição negativa;
 - Atacar;

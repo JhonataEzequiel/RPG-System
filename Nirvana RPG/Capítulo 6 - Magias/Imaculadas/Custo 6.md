@@ -2,13 +2,15 @@
 ### Nuvem Voadora
 
 - Requisito em Inteligência ou Carisma: 6
-- Duração: 10 minutos
+- Duração: 1 Encontro
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Uma nuvem aparece abaixo do alvo, e se adapta ao tamanho dele, concedendo 15m de Deslocamento de voo. Caso o alvo seja bondoso ou neutro, a cor da nuvem será dourada. Caso o alvo seja maligno, a cor da nuvem será negra. A nuvem tem vontade própria, mas segue ordens de quem estiver em cima dela, ou de quem a conjurou, dano prioridade as ordens do conjurador. Ela também consegue apanhar alguém que tenha Caído da nuvem, o impedindo de sofrer dano de queda. Caso o alvo seja de tamanho médio, outra criatura de tamanho médio poderá subir na nuvem ao mesmo tempo caso tenha a mesma tendência do alvo inicial.
+**Descrição:** Uma nuvem aparece abaixo do alvo, e se adapta ao tamanho dele, concedendo 15m de Deslocamento de Voo. A cor da nuvem será dourada, e se o alvo souber algum Sortilégio, a nuvem será intangível para ele, não o deixando subir nela. 
 
-A duração pode ser estendida para 1 hora por 1 ponto a mais de mana.
+A nuvem tem vontade própria, mas segue ordens de quem estiver em cima dela, ou de quem a conjurou, dano prioridade as ordens do conjurador. Ela também consegue apanhar alguém que tenha caído da nuvem, o impedindo de sofrer dano de queda. Caso o alvo seja de tamanho médio, outra criatura de tamanho médio poderá subir na nuvem ao mesmo tempo.
+
+A duração pode ser estendida em uma 1 hora por cada Ponto de Mana adicional gasto.
 
 ### Batida Pesada
 
@@ -24,12 +26,16 @@ Caso o alvo não queira ser afetado, ele realiza uma Salvaguarda de Carisma ou I
 ### Azul
 
 - Requisito em Inteligência: 6
-- Requisitos Adicionais: Você precisa ter um grimório
+- Requisitos Adicionais: Você precisa ter um Grimório
 - Duração: Instantânea
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você escolhe uma Magia escrita em seu grimório e a pinta de azul com uma tinta mágica. Até que a tinta seque, o que ocorre no próximo descanso longo, todas as Magias contidas naquele grimório ficam inacessíveis, independente de como ele esteja sendo carregado. O grimório deverá permanecer aberto durante esse período. Uma vez seca, a tinta se funde com a Magia e as letras escritas lá ficam na cor azul. A Magia escolhida não mais contará para o número máximo de Magias que você pode ter naquele grimório. Você pode utilizar essa Magia um total de cinco vezes por grimório.
+**Descrição:** Você escolhe uma Magia escrita em seu Grimório e a pinta de azul com uma tinta mágica. Até que a tinta seque, o que ocorre no próximo Descanso Longo, todas as Magias contidas naquele Grimório ficam inacessíveis, independente de como ele esteja sendo carregado.
+
+O Grimório deverá permanecer aberto durante esse período. Uma vez seca, a tinta se funde com a Magia e as letras escritas lá ficam na cor azul. A Magia escolhida não mais contará para o número máximo de Magias que você pode ter naquele grimório, fazendo com que novas páginas surjam magicamente para que se possa anotar uma nova Magia.
+
+Você pode utilizar essa Magia um total de cinco vezes por Grimório.
 
 ### Estalo
 

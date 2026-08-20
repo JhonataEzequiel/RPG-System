@@ -17,7 +17,7 @@ Você pode gastar um Ponto de Mana adicional para adicionar um alvo a mais na ho
 - Alcance: 24m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você seleciona uma criatura alvo no alcance da Magia. Quaisquer penalidades a movimentação do alvo, com exceção daquelas ocasionadas por condições, serão anuladas.
+**Descrição:** Você seleciona uma criatura alvo no alcance da Magia. Quaisquer penalidades a movimentação do alvo, com exceção daquelas ocasionadas por Condições, serão anuladas.
 
 Fora de combate você pode selecionar até 4 alvos ao mesmo tempo.
 
@@ -28,6 +28,6 @@ Fora de combate você pode selecionar até 4 alvos ao mesmo tempo.
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você toca uma criatura alvo, a concedendo Deslocamento de voo igual ao Deslocamento padrão dela acrescidos de 3m. Caso o alvo já seja capaz de voar, adicione +6m de Deslocamento de voo no lugar de 3m.
+**Descrição:** Você toca uma criatura alvo, a concedendo Deslocamento de Voo igual ao Deslocamento padrão dela acrescidos de 3m. Caso o alvo já seja capaz de Voar, adicione +6m de Deslocamento de Voo no lugar de 3m.
 
-Você pode aumentar o Deslocamento de voo do alvo em 3m para cada Ponto de Mana adicional que deseje gastar, com um máximo de 3 pontos.
+Você pode aumentar o Deslocamento de Voo do alvo em 3m para cada Ponto de Mana adicional que deseje gastar, com um máximo de 3 pontos.

@@ -1,5 +1,5 @@
 
-O Arquétipo do Ferreiro governa todas as Habilidades relacionadas a confecção de Armas, Armaduras, e itens de metal não-mecânicos.
+O Arquétipo do Ferreiro governa todas as Habilidades relacionadas a confecção de Armas, Armaduras, e itens de metal não mecânicos.
 
 ## Ferraria (Custo 1)
 

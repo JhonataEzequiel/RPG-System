@@ -42,7 +42,7 @@ Você pode aumentar em 5 os Pontos de Vida Temporários para cada Ponto de Mana 
 ### Leitura Dinâmica
 
 - Requisito em Inteligência: 1
-- Duração: concentração
+- Duração: Concentração
 - Alcance: 9m
 - Tempo de Conjuração: 1 hora
 
@@ -64,7 +64,7 @@ Você pode aumentar em 5 os Pontos de Vida Temporários para cada Ponto de Mana 
 - Alcance: 18m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Escolha um alvo no alcance da Magia. O próximo ataque efetuado pelo alvo terá +4 para acertar. Você pode escolher alvos adicionais ao custo de Uma Ação adicional por cada.
+**Descrição:** Escolha um alvo no alcance da Magia. O próximo Ataque efetuado pelo alvo terá +4 para acertar. Você pode escolher alvos adicionais ao custo de Uma Ação adicional por cada.
 
 ### Mísseis Mágicos
 
@@ -73,4 +73,6 @@ Você pode aumentar em 5 os Pontos de Vida Temporários para cada Ponto de Mana 
 - Alcance: 24m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você dispara um pequeno foguete mágico em um alvo no alcance da Magia, causando 1d8 + Int de Dano de Fogo ou de impacto, à sua escolha. Você pode gastar Ações adicionais para aumentar a quantidade de misseis disparados. A quantidade de misseis aumenta em 1 para cada Ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de Uma Ação Bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa Magia na próxima Rodada. Os mísseis sempre acertam, significando que não é possível desviar deles com um Teste de Resistência.
+**Descrição:** Você dispara um pequeno foguete mágico em um alvo no alcance da Magia, causando 1d8 + Int de Dano de Fogo ou de Impacto, à sua escolha. 
+
+Você pode gastar Ações adicionais para aumentar a quantidade de misseis disparados. A quantidade de misseis aumenta em 1 para cada Ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de Uma Ação Bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa Magia na próxima Rodada. Os mísseis sempre acertam.

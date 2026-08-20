@@ -19,7 +19,7 @@ Ao invés de utilizar um Ataque a mais sem sofrer penalidades, você pode optar 
 
 **Requisitos**: 2 de Destreza ou Força.
 
-Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece ou que pode preparar é diminuída em 5, cada. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada.
+Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece é diminuída em 5. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada.
 
 ## Corpo Elemental (Custo 2)
 
@@ -70,9 +70,9 @@ Essa Habilidade não funciona caso você não consiga respirar.
 
 A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
 
-Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se estabilizar. Aliados no Raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
+Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de Atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se estabilizar. Aliados no Raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
 
-Caso utilize em conjunto com a Habilidade Ofensiva "Lua" de custo 3, você agora curará condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
+Caso utilize em conjunto com a Habilidade Ofensiva "Lua" de custo 3, você agora curará Condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
 
 ## Lua (Custo 3)
 
@@ -81,7 +81,7 @@ Caso utilize em conjunto com a Habilidade Ofensiva "Lua" de custo 3, você agora
 
 Apesar de compreender a mudança constante da Vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
 
-Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se cura de quaisquer condições negativas que estiver sobre você, incluindo Nocauteado. Esta Habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por Descanso Longo com esta Habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
+Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se cura de quaisquer Condições negativas que estiver sobre você, incluindo Nocauteado. Esta Habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por Descanso Longo com esta Habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
 
 Caso utilize em conjunto com a Habilidade Ofensiva "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
 

@@ -3,10 +3,10 @@
 
 - Requisito em Inteligência: 1
 - Duração: até ser desfeita ou 24 horas
-- Alcance: toque
+- Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Cria uma esfera de luz que fica sobre a cabeça do usuário iluminando um raio de 12m ao seu redor.
+**Descrição:** Cria uma esfera de luz que fica sobre o alvo, iluminando um raio de 12m ao seu redor.
 
 ### Detectar Magia
 
@@ -15,7 +15,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca um objeto de tamanho grande ou menor. Caso o objeto seja um item mágico você saberá disso, e se for de grau 1, saberá seu efeito. Para itens mágicos de grau 2 e 3, você precisará gastar 3 Pontos de Mana para cada grau caso deseje descobrir seu efeito, mas você ainda saberá que se trata de um item mágico ainda que não gaste nenhum Ponto de Mana.
+**Descrição:** Você toca um objeto de tamanho grande ou menor. Caso o objeto seja um Item Mágico você saberá disso, e se for de Grau 1, saberá seu efeito. Para Itens Mágicos de Grau 2 e 3, você precisará gastar 3 Pontos de Mana para cada Grau caso deseje descobrir seu efeito, mas você ainda saberá que se trata de um Item Mágico ainda que não gaste nenhum Ponto de Mana.
 
 Caso seja parte do cenário e esteja sob efeito de alguma Magia em área, como uma floresta enfeitiçada por uma Magia, você saberá disso. Por 2 Pontos de Mana adicionais saberá qual o efeito colocado naquele local.
 
@@ -30,11 +30,11 @@ Caso seja parte do cenário e esteja sob efeito de alguma Magia em área, como u
 
 **Manipular (Ação Livre):** A mão pode agarrar, soltar, ou transportar objetos de até 5kg para qualquer local dentro do alcance. Pode também realizar tarefas simples como abrir portas destrancadas, acionar alavancas, entregar itens a aliados, ou segurar tochas.
 
-**Atacar (Uma Ação):** A mão ataca um alvo dentro do alcance, causando 1d4 de Dano de Impacto.
+**Atacar** (Uma Ação): A mão ataca um alvo dentro do alcance, causando 1d4 de Dano de Impacto.
 
-**Lançar (Uma Ação):** A mão pega um objeto que esteja carregando e o arremessa em um alvo, causando Dano de Impacto igual ao peso em kg do objeto, arredondado para baixo.
+**Lançar** (Uma Ação): A mão pega um objeto que esteja carregando e o arremessa em um alvo, causando Dano de Impacto igual ao peso em kg do objeto, arredondado para cima.
 
-**Distrair (Uma Ação):** A mão realiza um gesto ou toque perturbador em um inimigo, concedendo Desvantagem no próximo ataque dele até o início do seu próximo Turno.
+**Distrair** (Uma Ação): A mão realiza um gesto ou toque perturbador em um inimigo, concedendo Desvantagem no próximo Ataque dele até o início do seu próximo Turno.
 
 A mão tem Deslocamento igual ao alcance, 1 Ponto de Vida, e 10 de CA. Ela não pode carregar o conjurador ou criaturas. Apenas uma Mão Espectral pode estar ativa por vez.
 
@@ -45,11 +45,11 @@ A mão tem Deslocamento igual ao alcance, 1 Ponto de Vida, e 10 de CA. Ela não 
 - Alcance: Toque
 - Tempo de Conjuração: Ação Livre
 
-**Descrição:** Ao adquirir essa Magia, escolha 6 arcanos menores de qualquer escola de Magia, ainda que você não atenda aos requisitos, e atribua a eles números de 1 a 6 sem repetir. Essa lista é permanente e não pode ser alterada após a aquisição.
+**Descrição:** Ao adquirir essa Magia, escolha 6 Arcanos Menores de qualquer categoria de Magia, ainda que você não atenda aos requisitos, e atribua a eles números de 1 a 6 sem repetir. Essa lista é permanente e não pode ser alterada após a aquisição.
 
-Ao conjurar este arcano menor, role 1d6. O arcano menor correspondente ao número sorteado será conjurado, utilizando seu tempo de conjuração, duração, alcance e efeito normais. A Ação Livre é gasta apenas para realizar o sorteio — o tempo de conjuração do arcano sorteado ainda deverá ser gasto normalmente.
+Ao conjurar este Arcano Menor, role 1d6. O Arcano Menor correspondente ao número sorteado será conjurado, utilizando seu tempo de conjuração, duração, alcance e efeito normais. A Ação Livre é gasta apenas para realizar o sorteio — o tempo de conjuração do Arcano sorteado ainda deverá ser gasto normalmente.
 
-Caso o arcano sorteado não tenha um alvo válido disponível no momento da conjuração, o uso é perdido. Neste caso, o tempo de conjuração do arcano sorteado ainda é gasto normalmente.
+Caso o Arcano sorteado não tenha um alvo válido disponível no momento da conjuração, o uso é perdido. Neste caso, o tempo de conjuração do Arcano sorteado ainda é gasto normalmente.
 
 ### Marcação
 

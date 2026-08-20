@@ -6,9 +6,11 @@
 - Alcance: 18 metros
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você clama por ajuda de um ser de outro plano, que envia um de seus lacaios para seu auxílio. Este lacaio aparece em um local desocupado dentro do alcance da Magia. Dependendo da Natureza do lacaio, ele pode ou não ser convencido a lhe ajudar a realizar uma tarefa. Um ser ínfero, por exemplo, pode requerer um sacrifício macabro, ou uma relíquia, além do padrão, que é uma quantidade de tesouros básicos. Um ser celestial pode requerer uma doação para realizar a tarefa. Caso o lacaio deseje algo em troca de seus serviços, o mestre decidirá o que é.
+**Descrição:** Você clama por ajuda de um ser de outro plano, que envia um de seus lacaios para seu auxílio. Este lacaio aparece em um local desocupado dentro do alcance da Magia. 
 
-Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas Ações.
+Dependendo da Natureza do lacaio, ele pode ou não ser convencido a lhe ajudar a realizar uma tarefa. Um ser ínfero, por exemplo, pode requerer um sacrifício macabro, ou uma relíquia, além do padrão, que é uma quantidade de tesouros básicos igual ao Nível da criatura dobrado em Peças de Ouro. Um ser celestial pode requerer uma doação para realizar a tarefa, cujo o preço seria igual ao do exemplo do ínfero. Caso o lacaio deseje algo em troca de seus serviços, o mestre decidirá o que é.
+
+Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas ações.
 
 ### Sonho de Fogo
 
@@ -27,7 +29,7 @@ Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas Aç�
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você consegue transmutar qualquer objeto de, no mínimo, 1 quilo em um item do capítulo de equipamentos. A exceção são os grimórios, itens mágicos, moedas, ou joias. O item escolhido para ser o resultante não tem limitação de peso, e se for mais pesado que 1 quilo, o custo de mana dessa Magia já cobre o aumento do peso. Cada vez que você usa essa Magia ela fica 1 Ponto de Mana mais cara, até que você tenha um descanso longo, fazendo o custo retomar ao normal.
+**Descrição:** Você consegue transmutar qualquer objeto de, no mínimo, 1 quilo em um item do Capítulo 4.1 - Lista de Armaduras, até o Capítulo 4.8 - Lista de Poções. O item escolhido para ser o resultante não tem limitação de peso. Cada vez que você usa essa Magia ela fica 1 Ponto de Mana mais cara, até que você tenha um Descanso Longo, fazendo o custo retomar ao normal.
 
 ### Retornar ao Zero
 

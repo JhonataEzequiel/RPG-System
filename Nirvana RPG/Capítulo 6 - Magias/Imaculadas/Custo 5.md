@@ -6,9 +6,9 @@
 - Alcance: 18 metros
 - Tempo de Conjuração: Duas Ações.
 
-**Descrição:** Troca de lugar com uma criatura no alcance da Magia. A criatura pode escolher passar num Teste de CD 13 + Int para desviar da Magia, se não quiser ser afetada por ela.
+**Descrição:** Troca de lugar com uma criatura no alcance da Magia. A criatura pode escolher passar num Teste de Resistência de Inteligência CD 13 + Int para desviar da Magia, se não quiser ser afetada por ela.
 
-Você pode escolher gastar 3 Pontos de Mana a mais para utilizar essa Magia como Reação quando seria atingido por algum ataque ou Magia de dano.
+Você pode escolher gastar 3 Pontos de Mana a mais para utilizar essa Magia como Reação quando seria atingido por algum Ataque ou Magia de dano.
 
 ### Sala de Cirurgia
 
