@@ -7,11 +7,9 @@
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você tenta suprimir emoções fortes em um grupo de pessoas. Cada humanoide em uma esfera de 6 metros de raio, centrada em um ponto que você escolher dentro do alcance, deve realizar uma Salvaguarda de Carisma CD 10 + Car; uma criatura pode escolher falhar nesse Teste, se desejar. Se uma criatura falhar na resistência, escolha um dentre os dois efeitos a seguir:
-
-Você pode suprimir qualquer efeito que esteja deixando a criatura Enfeitiçada ou Amedrontada. Quando essa Magia terminar, qualquer efeito suprimido volta a funcionar, considerando que sua duração não tenha acabado nesse meio tempo.
-
-Alternativamente, você pode tornar um alvo indiferente às criaturas que você escolher que forem hostis a ele. Essa indiferença acaba se o alvo for atacado ou ferido por uma Magia ou se ele testemunhar qualquer dos seus amigos sendo ferido. Quando a Magia terminar, a criatura se tornará hostil novamente.
+**Descrição:** Você tenta suprimir emoções fortes em um grupo de pessoas. Cada criatura com pelo menos -1 de Inteligência em uma esfera de 6 metros de raio, centrada em um ponto que você escolher dentro do alcance, deve realizar uma Salvaguarda de Carisma CD 10 + Car; uma criatura pode escolher falhar nesse Teste, se desejar. Se uma criatura falhar no Teste, escolha um dentre os dois efeitos a seguir:
+1. Você pode suprimir qualquer efeito que esteja deixando a criatura Enfeitiçada ou Amedrontada. Quando essa Magia terminar, qualquer efeito suprimido volta a funcionar, considerando que sua duração não tenha acabado nesse meio tempo.
+2. Você pode tornar um alvo indiferente às criaturas que você escolher que forem hostis a ele. Essa indiferença acaba se o alvo for Atacado, ferido por uma Magia, ou se ele testemunhar qualquer dos seus amigos sendo ferido. Quando a Magia terminar, a criatura se tornará hostil novamente.
 
 ### Anular Cheiro
 
@@ -51,6 +49,6 @@ Você pode aumentar a duração da Magia para 24 horas por 3 Pontos de Mana adic
 - Alcance: 18m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Uma criatura alvo no alcance da Magia vê apenas um caleidoscópio quando olha para qualquer lugar. Caso ela falhe numa Salvaguarda de Sabedoria CD 11 + Int + Car, ela é Atordoada até o fim da duração da Magia.
+**Descrição:** Uma criatura alvo no alcance da Magia vê como no interior de um caleidoscópio quando olha para qualquer lugar. Caso ela falhe numa Salvaguarda de Sabedoria CD 11 + Int + Car, ela é Atordoada até o fim da duração da Magia.
 
 Você pode estender a duração da Magia em uma Rodada por Ponto de Mana adicional gasto, até um máximo de três Rodadas adicionais.

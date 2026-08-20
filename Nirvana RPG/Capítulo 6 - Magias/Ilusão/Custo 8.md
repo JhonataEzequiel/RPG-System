@@ -2,23 +2,20 @@
 ### Aura Carismática
 
 - Requisito em Carisma ou Inteligência: 8
-- Duração: 1 encontro
-- Alcance: Deslocamento + 24 metros
+- Duração: 1 Encontro
+- Alcance: 24m + Deslocamento
 - Tempo de Conjuração: Duas Ações
 
 **Descrição:** Uma aura Invisível surge ao teu redor. Você escolhe um efeito para sua aura, seja positivo ou negativo. Se a criatura terminar o Turno dela dentro da aura, o efeito escolhido se aplicará. Você escolhe quais criaturas serão afetadas ou ficarão imunes.
-
-Se você escolher um efeito negativo, as criaturas ao redor terão a condição Amedrontado caso falhem num Teste de Resistência de Sabedoria CD 14 + Car. Além disso, sofrem 4d8 de Dano Psíquico no final do Turno delas, caso ainda estejam no alcance da Magia. Caso obtenham sucesso, ainda sofrem o dano, mas não são Amedrontadas.
-
-Se você escolher um efeito positivo, as criaturas ao redor terão +5 em qualquer Teste que forem realizar, e +5 de resistência a qualquer dano. O Deslocamento delas também aumenta em 3m.
-
+- Se você escolher um efeito negativo, as criaturas ao redor terão a condição Amedrontado caso falhem num Teste de Resistência de Sabedoria CD 14 + Car ou Int. Além disso, sofrem 4d8 de Dano Psíquico no final do Turno delas, caso ainda estejam no alcance da Magia. Caso obtenham sucesso, ainda sofrem o dano, mas não são Amedrontadas.
+- Se você escolher um efeito positivo, as criaturas ao redor terão +5 em qualquer Teste que forem realizar, e +5 de resistência a Dano Psíquico. O Deslocamento delas também aumenta em 3m.
 Você pode gastar Pontos de Mana adicionais para estender o alcance da Magia em 9m por Ponto de Mana gasto.
 
 ### Arrancar Psiquê
 
 - Requisito em Inteligência: 8
 - Requisito em Carisma: 8
-- Duração: concentração, até 1 encontro
+- Duração: Concentração, até 1 Encontro
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
@@ -29,8 +26,8 @@ Todo dano efetuado contra essa parte da psiquê será refletido no corpo origina
 ### Repouso Gentil
 
 - Requisito em Inteligência ou Carisma: 8
-- Duração: 1 encontro
-- Alcance: Deslocamento + 18m
+- Duração: 1 Encontro
+- Alcance: 18m + Deslocamento
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você seleciona uma criatura alvo no alcance da Magia, e faz com que ela tenha visões de coisas do agrado dela, podendo ser boas ou ruins, a depender da criatura. Ela precisará passar por um Teste de Resistência de Sabedoria CD 12 + Int ou Car. Caso falhe, ela terá a condição Exaustão 1, que progredirá no início de cada Turno dela. Ela pode se livrar dessa condição caso ceda ao sono, e escolha ter a condição Inconsciente no lugar. Em caso de acerto, ela sofre apenas 5d8 + Int ou Car de Dano Psíquico.
+**Descrição:** Você seleciona uma criatura alvo no alcance da Magia, e faz com que ela tenha visões de coisas do agrado dela, podendo ser boas ou ruins, a depender da criatura. Ela precisará passar por um Teste de Resistência de Sabedoria CD 12 + Int ou Car. Caso falhe, ela terá a condição Exaustão 1, que progredirá no início de cada Turno dela. Ela pode se livrar dessa Condição caso ceda ao sono, e escolha ter a Condição Inconsciente no lugar. Em caso de acerto, ela sofre apenas 5d8 + Int ou Car de Dano Psíquico.

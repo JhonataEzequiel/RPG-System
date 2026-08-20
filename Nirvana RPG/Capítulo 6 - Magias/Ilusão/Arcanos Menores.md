@@ -7,7 +7,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você recebe Vantagem em Testes de Carisma contra uma criatura que você possa tocar. Uma vez que a duração da Magia acabar, a criatura perceberá que você utilizou a Magia nela, e ficará hostil.
+**Descrição:** Você recebe Vantagem em Testes de Carisma contra uma criatura que você possa tocar. Uma vez que a duração da Magia acabar, a criatura perceberá que você utilizou a Magia nela, e poderá escolher se ficará hostil.
 
 ### Mensagem
 
@@ -36,4 +36,4 @@ Você pode conjurar essa Magia para falar com qualquer alvo marcado por ela ante
 - Alcance: Toque
 - Tempo de Conjuração: Ação Livre
 
-**Descrição:** Você cria um cenário de batalha na sua mente e na da criatura alvo. O cenário deve ser neutro, não favorecendo você ou seu adversário. Seu adversário deve concordar em participar dessa luta, e ele deve ser inicialmente hostil a você. Uma vez aceito o duelo, nenhum dos dois pode abandoná-lo voluntariamente. A mente de vocês dois é transportada para essa dimensão ilusória, e os corpos ficam incapacitados. Vocês lutam até que um de vocês caia a 0 Pontos de Vida. Após a batalha acabar, o perdedor receberá seus Pontos de Vida Atuais como Dano Verdadeiro, sendo Nocauteado. Essa Magia não tem efeito em criaturas com Inteligência inferior a -2.
+**Descrição:** Você cria um cenário de batalha na sua mente e na da criatura alvo. O cenário deve ser neutro, não favorecendo você ou seu adversário. Seu adversário deve concordar em participar dessa luta. Uma vez aceito o duelo, nenhum dos dois pode abandoná-lo voluntariamente. A mente de vocês dois é transportada para essa dimensão ilusória, e os corpos ficam Incapacitados. Vocês lutam até que um de vocês caia a 0 Pontos de Vida. Após a batalha acabar, o perdedor receberá seus Pontos de Vida Atuais como Dano Verdadeiro, sendo Nocauteado. Essa Magia não tem efeito em criaturas com Inteligência inferior a -2.

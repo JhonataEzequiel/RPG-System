@@ -2,11 +2,11 @@
 ### Doppelganger
 
 - Requisito em Inteligência ou Carisma: 7
-- Duração: 1 encontro
+- Duração: 1 Encontro
 - Alcance: 9 metros
 - Tempo de Conjuração: Duas Ações.
 
-**Descrição:** Você escolhe um local desocupado no alcance da Magia. Uma criatura idêntica a você surge no local. Essa criatura não pode interagir fisicamente com o mundo, mas é capaz de conjurar qualquer Magia que você tenha. Magias de Toque funcionam normalmente. Ela possui uma capacidade de mana máxima igual a sua, mas possuí apenas 1 Ponto de Vida. Ela tem Três Ações e um Turno só para ela que acontece imediatamente após o seu Turno, no entanto ela não tem reações ou ações bônus.
+**Descrição:** Você escolhe um local desocupado no alcance da Magia. Uma criatura idêntica a você surge no local. Essa criatura não pode interagir fisicamente com o mundo, mas é capaz de conjurar qualquer Magia que você tenha. Magias de Toque funcionam normalmente. Ela possui uma capacidade de Mana Máxima igual a sua, mas possuí apenas 1 Ponto de Vida. Ela tem Três Ações e um Turno só para ela que acontece imediatamente após o seu Turno, no entanto ela não tem Reações ou Ações Bônus.
 
 ### Horrípilo
 
@@ -26,4 +26,4 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Ao tocar em uma criatura alvo, ela poderá se comunicar com você enquanto a Magia durar. Além disso, todas as vezes que vocês se ajudarem em Testes de Perícia vocês sempre serão bem sucedidos, ao invés de apenas conceder Vantagem no Teste. Vocês devem estar próximos para poder receber o sucesso pelo Teste, num limite de 36m, mas podem se comunicar independente de onde estejam.
+**Descrição:** Ao tocar em uma criatura alvo, ela poderá se comunicar com você telepaticamente enquanto a Magia durar. Além disso, todas as vezes que vocês se ajudarem em Testes de Perícia vocês sempre serão bem sucedidos, ao invés de apenas conceder Vantagem no Teste. Vocês devem estar próximos para poder receber o sucesso pelo Teste, num limite de 36m, mas podem se comunicar independente de onde estejam, desde que estejam no mesmo plano.

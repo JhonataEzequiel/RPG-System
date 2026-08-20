@@ -21,7 +21,7 @@
 
 Você cria uma pequena ilusão nas suas mãos, podendo representar qualquer coisa ou criatura que você já tenha visto pelo menos uma vez. A ilusão pode emitir sons. Todos no alcance da Magia são afetados pelos efeitos que ela pode causar em um combate. A CD para evitar algum efeito negativo é 9 + Int + Car, e o Atributo do Teste de Resistência será de Sabedoria todas as vezes. Todos que falharem neste Teste de Resistência serão afetados, aliados ou não. Criaturas alvo que você escolha tem Vantagem no Teste. Alguns efeitos práticos de combate são:
 
-- Você cria um brilho intenso, cegando criaturas no alcance da visão que falharem na Salvaguarda;
+- Você cria um brilho intenso, Cegando criaturas no alcance da visão que falharem na Salvaguarda;
 - Você faz aparecer uma criatura poderosa que faz um som alto, chamando atenção de criaturas no alcance;
 - Você mostra uma bela paisagem, podendo acalmar uma criatura Amedrontada.
 
