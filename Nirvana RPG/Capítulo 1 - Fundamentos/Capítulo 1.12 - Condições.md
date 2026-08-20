@@ -1,19 +1,19 @@
 
 ### Agarrado
 
-O deslocamento da criatura agarrada é reduzido a zero, e a criatura perde uma de suas ações enquanto estiver agarrado, tendo só 2 ações por turno.
+O Deslocamento da criatura agarrada é reduzido a zero, e a criatura perde uma de suas Ações enquanto estiver agarrado, tendo só 2 Ações por turno.
 
 ### Amedrontado
 
-Sofre desvantagem em Ataques, e seu Deslocamento é cortado pela metade.
+Sofre Desvantagem em Ataques, e seu Deslocamento é cortado pela metade.
 
 ### Atordoado
 
-É incapaz de agir até que se liberte do atordoamento. Normalmente só pode realizar testes para sair do atordoamento que são detalhados pelo que o fez ficar atordoado (como uma magia que diz qual a salvaguarda necessária para sair do atordoamento), mas podem existir habilidades e magias que ignoram essa condição e que poderão ser usadas normalmente. Quem está atordoado falha automaticamente em salvaguardas de força e destreza.
+É incapaz de agir até que se liberte do atordoamento. Normalmente só pode realizar Testes para sair do Atordoamento que são detalhados pelo que o fez ficar Atordoado (como uma Magia que diz qual a Salvaguarda necessária para sair do Atordoamento), mas podem existir Habilidades e Magias que ignoram essa Condição e que poderão ser usadas normalmente. Quem está Atordoado falha automaticamente em Salvaguardas de Força e Destreza.
 
 ### Caído (ou Derrubado)
 
-Uma criatura caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem desvantagem em jogadas de ataque. Quaisquer ataques direcionados a criatura tem vantagem para acertar caso o atacante esteja em até 1.5m de distância da criatura. Ela pode se levantar com uma ação.
+Uma criatura Caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem Desvantagem em jogadas de Ataque. Quaisquer Ataques direcionados a criatura Caída tem Vantagem para acertar caso o atacante esteja em até 1.5m de distância dela. Ela pode se levantar com uma Ação.
 
 ### Cego
 

@@ -17,21 +17,21 @@ Cada jogador terá um Turno aonde poderá decidir o que vai fazer durante um com
 
 ## Magias
 
-Magias tem suas próprias regras detalhadas em um capítulo só para elas. No entanto, para critérios de simplificação de combate, quando uma habilidade ou regra se referir a "magias", também estarão inclusos os arcanos menores, a não ser que seja especificado o contrário. É possível também que afetem apenas os arcanos menores e, neste caso, essa informação será clara na descrição da regra ou habilidade.
+Magias tem suas próprias regras detalhadas em um capítulo só para elas. No entanto, para critérios de simplificação de combate, quando uma Habilidade ou regra se referir a "Magias", também estarão inclusos os arcanos menores, a não ser que seja especificado o contrário. É possível também que afetem apenas os arcanos menores e, neste caso, essa informação será clara na descrição da regra ou habilidade.
 
-Por exemplo, caso uma habilidade amplifique o dano de magias de fogo, estarão inclusos os arcanos menores de fogo, mas se a habilidade especificar que apenas o dano dos arcanos menores de fogo aumentará, então as magias em si não serão afetadas.
+Por exemplo, caso uma Habilidade amplifique o dano de Magias de fogo, estarão inclusos os Arcanos Menores de fogo, mas se a Habilidade especificar que apenas o dano dos Arcanos Menores de fogo aumentará, então as Magias em si não serão afetadas.
 
-Magias sempre acertam o alvo, a menos que a descrição da magia especifique o contrário. Algumas magias permitem que o alvo realize uma Salvaguarda para evitar ou reduzir o efeito total.
-
-## Penalidade de Ações
-
-É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, Atacar múltiplas vezes no seu turno, ele sofrerá penalidades. Por exemplo: se ele Atacar na primeira Ação, e queira Atacar de novo ele terá -5 na segunda rolagem. Caso use a mesma Ação descrita três vezes seguida, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidade de Ações" ou "Penalidade de Ataque".
+Magias sempre acertam o alvo, a menos que a descrição da Magia especifique o contrário. Algumas Magias permitem que o alvo realize uma Salvaguarda para evitar ou reduzir o efeito total.
 
 ## Ataques
 
 Ataques são definidos por tentativas do jogador de causar dano a um inimigo sem ser por meio direto de uma magia, ou por inimigos causando dano a algum personagem do jogador através de ataques físicos.
 
-Para um Ataque obter sucesso ele precisará penetrar a armadura do oponente (CA). O jogador usará o modificador especificado em seu Ataque para realizar esse Teste. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
+Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o modificador especificado em seu Ataque para realizar esse Teste. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
+
+## Penalidade de Ações
+
+É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, Atacar múltiplas vezes no seu turno, ele sofrerá penalidades. Por exemplo: se ele Atacar na primeira Ação, e queira Atacar de novo ele terá -5 na segunda rolagem. Caso Ataque três vezes seguidas, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidade de Ataque".
 
 ## Ataques de Oportunidade
 
@@ -41,7 +41,7 @@ Ataques de Oportunidade também impedem quaisquer outras Ações de movimento.
 
 ## Ataques Desarmados
 
-Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de Impacto, à sua escolha. Você pode escolher se um Ataque Desarmado será não-letal.
+Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de Impacto, à sua escolha. Você pode escolher se um Ataque Desarmado será não letal.
 
 ## Ataques de Magia
 

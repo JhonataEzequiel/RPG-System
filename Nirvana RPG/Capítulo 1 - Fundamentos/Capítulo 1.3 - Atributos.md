@@ -1,5 +1,5 @@
 
-Os Atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses Atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia e ser capaz de convencer os outros a não lutarem apenas com o diálogo é atrelada ao atributo de carisma, ou seja, caso você opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de Atributos totais são 7, sendo eles: Constituição, Força, Destreza, Sabedoria, Inteligência, Fé, e Carisma. Você receberá Pontos de Atributo para investir como quiser, tanto no Nível 1, quanto nos Níveis subsequentes.
+Os Atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses Atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia ao ponto de ser capaz de convencer os outros a não lutarem apenas com o diálogo é uma característica atrelada ao Atributo de Carisma, ou seja, caso você opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de Atributos no total é 7, sendo eles: Constituição, Força, Destreza, Sabedoria, Inteligência, Fé, e Carisma. Você receberá Pontos de Atributo para investir como quiser, tanto no Nível 1, quanto nos Níveis subsequentes.
 
 Os Atributos terão um Limite de Nível Máximo que aumentará conforme seu Nível, seguindo a tabela a seguir:
 
@@ -22,15 +22,15 @@ O quanto um personagem consegue se manter de pé, resistir a danos físicos, ven
 
 ## Força
 
-Dita o quão apto fisicamente um personagem é para conseguir realizar tarefas que exijam uma quantidade alta de força física. Ataques fortes, levantar uma rocha grande, segurar uma porta contra uma horda de inimigos, tudo isso são exemplos de usos para o Atributo de Força. É um dos Atributos principais de ataque, indicado para personagens que gostam de estar na linha de frente.
+Dita o quão apto fisicamente um personagem é para conseguir realizar tarefas que exijam uma quantidade alta de força física. Ataques com certas Armas, levantar uma rocha grande, segurar uma porta contra uma horda de inimigos, tudo isso são exemplos de usos para o Atributo de Força. É um dos Atributos principais de ataque, indicado para personagens que gostam de estar na linha de frente.
 
 ## Destreza
 
-A Destreza de um personagem é o Atributo chave para realizar atividades que necessitem de agilidade, empunhar e manusear armas rápidas, dentre outras coisas. Também é um dos principais Atributos de ataque, utilizado em armas rápidas, como adagas, arcos, espadas curtas, espadas perfurantes, algumas lanças, dentre outras. Ideal para personagens que procuram ser mais rápidos em combate.
+A Destreza de um personagem é o Atributo chave para realizar atividades que necessitem de agilidade, empunhar e manusear armas rápidas, dentre outras coisas. Também é um dos principais Atributos de ataque, utilizado em tipos de Armas focados em velocidade, como adagas, arcos, espadas curtas, espadas perfurantes, algumas lanças, dentre outras. Ideal para personagens que procuram ser mais ágeis em combate.
 
 ## Sabedoria
 
-Ideal para personagens mágicos, esse Atributo ditará a quantidade de Magias que se pode aprender e preparar ao mesmo tempo, e a quantidade de Mana disponível. Representa a experiência prática, a percepção do mundo, e conhecimento adquirido pela vivência e, portanto, pode também ser o foco de personagens que não usam magias caso queiram se aproveitar de outras características deste Atributo.
+Altamente necessário para usuários de Magias, esse Atributo ditará a quantidade de Magias que se pode aprender e a quantidade de Mana disponível. Representa a experiência prática, a percepção do mundo, e conhecimento adquirido pela vivência e, portanto, pode também ser o foco de personagens que não usam Magias caso queiram se aproveitar de outras características deste Atributo.
 
 ## Inteligência
 
@@ -38,7 +38,7 @@ Boa parte das Magias precisam deste Atributo para serem usadas. Quais destas Mag
 
 ## Fé
 
-Várias Magias se beneficiam deste Atributo. O dano causado e a cura concedida através de certas Magias também está atrelado a esse atributo. Testes que envolvam o divino, como resistir a uma maldição; ou testes que envolvam medicina, como não ser afetado por uma doença, são feitos com este Atributo.
+Várias Magias se beneficiam deste Atributo. O dano causado e a cura concedida através de certas Magias também estão atrelados a esse Atributo. Testes que envolvam o divino, como resistir a uma maldição; ou testes que envolvam medicina, como não ser afetado por uma doença, são feitos com este Atributo.
 
 ## Carisma
 
