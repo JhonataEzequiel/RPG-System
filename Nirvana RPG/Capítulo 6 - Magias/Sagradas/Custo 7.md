@@ -19,7 +19,7 @@ Pequenas marcações circulares, que parecerem círculos mágicos, surgem no seu
 - Alcance: 36m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você recita um sutra contra uma criatura alvo a sua escolha. Ela recebe 9d8 + Fth de Dano Radiante. Mortos-vivos acertados por essa Magia tem -1 na CA.
+**Descrição:** Você recita um sutra contra uma criatura alvo a sua escolha. Ela recebe 9d8 + Fth de Dano Radiante. Mortos-vivos acertados por essa Magia tem -1 na CA pelo resto do Encontro.
 
 ### Bestas Selvagens
 

@@ -143,7 +143,7 @@ Curar Maldições: 8 de carisma, 8 de fé. Sagrada.
 
 ### Custo 9:
 
-Gaia: 9 de carisma. Sagrada.
+Discernimento: 9 de carisma. Sagrada.
 
 Presciência: 9 de inteligência, 9 de carisma. Imaculada.
 

@@ -14,7 +14,7 @@ Em resumo, você jogará com a ficha da criatura escolhida até a Magia se desfa
 ### Dimensão de Bolso
 
 - Requisito em Inteligência: 10
-- Duração: 1 minuto
+- Duração: 1 Encontro
 - Alcance: 6 metros
 - Tempo de Conjuração: Uma Ação
 
@@ -26,7 +26,7 @@ O local é um círculo em branco com paredes invisíveis ao redor dele. Do lado 
 
 - Requisito em Inteligência: 10
 - Requisito em Fé: 10
-- Requisitos Adicionais: Um coração de um dragão ancião e 15000 peças de ouro.
+- Requisitos Adicionais: Um coração de um Dragão Ancião e 15000 Peças de Ouro.
 - Duração: Instantânea
 - Alcance: Ilimitado
 - Tempo de Conjuração: Três Ações
@@ -43,4 +43,4 @@ Você só pode conjurar essa Magia uma vez. Essa Magia também não pode ser tra
 - Alcance: Deslocamento
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você alveja um alvo com um pequeno projétil mágico conjurado em suas mãos. O projétil é uma esfera pequena, de cor branca. Você realiza um Ataque a Distância com esse projétil, utilizando Inteligência como Modificador para acertar, assim como seu Bônus de Proficiência. Ao acertar, tanto você quanto o alvo não poderão fazer absolutamente nada até o fim da duração. Outrossim, também estarão invulneráveis a quaisquer instâncias de dano, incluindo dano verdadeiro, e também quaisquer outros efeitos, sejam maléficos ou benéficos. Se errar, recupera 5 Pontos de Mana, gastando apenas 5.
+**Descrição:** Você alveja um alvo com um pequeno projétil mágico conjurado em suas mãos. O projétil é uma esfera pequena, de cor branca. Você realiza um Ataque a Distância com esse projétil, utilizando Inteligência como Modificador para acertar, assim como seu Bônus de Proficiência. Ao acertar, tanto você quanto o alvo não poderão fazer absolutamente nada até o fim da duração. Outrossim, também estarão invulneráveis a quaisquer instâncias de dano, incluindo Dano Verdadeiro, e também quaisquer outros efeitos, sejam maléficos ou benéficos. Se errar, recupera 5 Pontos de Mana, gastando apenas 5.

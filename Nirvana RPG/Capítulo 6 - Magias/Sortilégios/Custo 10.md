@@ -22,7 +22,7 @@ Causa 20d6 + Int + Fth de Dano de Sortilégio em cada alvo escolhido por Rodada.
 - Alcance: 36m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você conjura um orbe negro amplificado com Força máxima. É impossível desviar dessa Magia, ou mitigar o dano de alguma forma que não seja por resistência a Dano de Sortilégio. O orbe negro exibe uma face de angústia independente da direção que se olhe para ele. É possível que o que antes era apenas um resquicío de poder mágico agora criou vida. Causa 15d10 + Int + Fth de Dano de Sortilégio.
+**Descrição:** Você conjura um orbe negro amplificado com Força máxima. É impossível desviar dessa Magia, ou mitigar o dano de alguma forma que não seja por Resistência a Dano de Sortilégio. O orbe negro exibe uma face de angústia independente da direção que se olhe para ele. É possível que o que antes era apenas um resquício de poder mágico agora criou vida. Causa 15d10 + Int + Fth de Dano de Sortilégio.
 
 ### Sono de Séculos
 
@@ -32,9 +32,9 @@ Causa 20d6 + Int + Fth de Dano de Sortilégio em cada alvo escolhido por Rodada.
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca uma criatura que voluntariamente se deixa ser afetada pela Magia. Ela terá a condição Inconsciente. Enquanto a Magia durar, ela se torna imune a qualquer dano que não seja Dano Verdadeiro, e não pode ser despertada. Uma vez que a Magia acabar, o corpo dela acorda sem nenhum tipo de resquício da passagem do tempo. Caso o alvo seja você mesmo, você terá 10 minutos para se preparar antes da Magia ter feito uma vez conjurada.
+**Descrição:** Você toca uma criatura que voluntariamente se deixa ser afetada pela Magia. Ela terá a condição Inconsciente. Enquanto a Magia durar, ela se torna imune a qualquer dano que não seja Dano Verdadeiro, e não pode ser despertada. Uma vez que a Magia acabar, o corpo dela acorda sem nenhum tipo de resquício da passagem do tempo. Caso o alvo seja você mesmo, você terá 10 minutos para se preparar antes da Magia ter efeito uma vez conjurada.
 
-### Buraco Negro
+### Escuridão Eterna
 
 - Requisito em Inteligência: 10
 - Requisito em Fé: 10
