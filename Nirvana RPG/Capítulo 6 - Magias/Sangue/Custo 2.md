@@ -7,7 +7,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você pode escolher gastar Pontos de Mana em troca de Pontos de Vida, ou Pontos de Vida em troca de Pontos de Mana. A conversão é feita em escala 1:1, ou seja, um Ponto de Mana equivale a um Ponto de Vida. Cada Ponto de Vida convertido em mana não pode ser curado por poções de cura, mas pode ser curado com Magias e descansos, além de outras fontes. É possível morrer utilizando essa Magia. Caso você chegue a zero Pontos de Vida, você morre sem ser Nocauteado.
+**Descrição:** Você pode escolher gastar Pontos de Mana em troca de Pontos de Vida, ou Pontos de Vida em troca de Pontos de Mana. A conversão é feita em escala 1:1, ou seja, um Ponto de Mana equivale a um Ponto de Vida. Cada Ponto de Vida convertido em mana não pode ser curado por Poções de Cura, mas pode ser curado com Magias e Descansos, além de outras fontes. É possível morrer utilizando essa Magia. Caso você chegue a zero Pontos de Vida, você morre sem ser Nocauteado.
 
 ### Tornado das Pestes
 
@@ -17,7 +17,9 @@
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você aponta para um local desocupado no alcance da Magia. Parte da sua Força vital é sugada para criar um tornado no local desejado, fazendo com que você ganhe a condição de exausto 1. O tornado é apenas uma ventania simples, mas pequenas criaturas são formadas dentro dele, lembrando a aparência de moscas, só que vermelhas. A área que o tornado afeta é uma área cilíndrica de 7.5m de raio e 15m de altura. Todas as criaturas que terminarem o Turno delas dentro da área precisarão realizar um Teste de Resistência de Constituição CD 14 + Int + Fth, e caso falhem terão a condição Sangrando, além de receberem 1d6 de Dano Cortante contínuo pela duração da Magia ocasionado pelos insetos. Caso obtenham sucesso, só recebem o dano contínuo. A área do tornado, ainda que os alvos obtenham sucesso, é considerada terreno difícil.
+**Descrição:** Você aponta para um local desocupado no alcance da Magia. Parte da sua Força vital é sugada para criar um tornado no local desejado, fazendo com que você ganhe a condição de Exaustão 1. O tornado é apenas uma ventania simples, mas pequenas criaturas são formadas dentro dele, lembrando a aparência de moscas, só que vermelhas. A área que o tornado afeta é uma área cilíndrica de 7.5m de raio e 15m de altura. Todas as criaturas que terminarem o Turno delas dentro da área precisarão realizar um Teste de Resistência de Constituição CD 14 + Int + Fth, e caso falhem terão a condição Sangrando, além de receberem 1d6 de Dano Cortante Contínuo pela duração da Magia ocasionado pelos insetos. Caso obtenham sucesso, só recebem o Dano Contínuo. A área do tornado, ainda que os alvos obtenham sucesso, é considerada Terreno Difícil.
+
+Para se livrar do Dano Contínuo os alvos precisarão estar fora da área de efeito por duas Rodadas.
 
 ### Quebra Crânios
 

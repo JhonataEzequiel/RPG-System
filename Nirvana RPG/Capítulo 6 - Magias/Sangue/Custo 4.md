@@ -7,9 +7,9 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Brande o próprio sangue para conjurar uma espada feita de sangue coagulado. Ela é tão afiada quanto qualquer outra espada, e consegue afetar seres intangíveis (invulneráveis a dano físico). Você perde 2d4 de vida para conjurar a lâmina, que causa 4d4 + For de Dano Cortante. Ela tem escala B com Fé e D com Inteligência.
+**Descrição:** Brande o próprio sangue para conjurar uma espada feita de sangue coagulado. Ela é tão afiada quanto qualquer outra espada, e consegue afetar seres intangíveis (Invulneráveis a Dano Físico). Você perde 2d4 de vida para conjurar a lâmina, que causa 4d4 + For de Dano Cortante. Ela tem escala B com Fé e D com Inteligência.
 
-Você também pode gastar 2 Pontos de Mana e 1d6 de vida para fazer o sangue ferver, causando 2d4 + Int de Dano de Fogo adicional. Alternativamente, você pode gastar 2 Pontos de Mana e 1d6 de vida para que cada ataque seu faça o sangue do oponente borbulhar transformar todo o dano em Dano Verdadeiro, causando 4d4 + for de Dano Verdadeiro.
+Você também pode gastar 2 Pontos de Mana e 1d6 de vida para fazer o sangue ferver, causando 2d4 + Int de Dano de Fogo adicional. Alternativamente, você pode gastar 2 Pontos de Mana e 1d6 de vida para que cada Ataque seu faça o sangue do oponente borbulhar transformar todo o dano em Dano Verdadeiro, causando 4d4 + for de Dano Verdadeiro.
 
 ### Golem de Sangue
 
@@ -26,11 +26,11 @@ Você também pode gastar 2 Pontos de Mana e 1d6 de vida para fazer o sangue fer
 | 0.5 litros           | 3d4 de Pontos de Vida perdidos                                | 40 Pontos de Vida  | 13          | 7.5m         |
 | 1 litro              | 6d4 de Pontos de Vida perdidos, você também sofre Exaustão 1  | 80 Pontos de Vida  | 15          | 9m           |
 | 2 litros             | 12d4 de Pontos de Vida perdidos, você também sofre Exaustão 3 | 160 Pontos de Vida | 18          | 12m          |
-O Turno do golem é imediatamente após o seu, podendo utilizá-lo como qualquer outra criatura. Os bônus de atributo do golem serão os mesmos que os seus quando for necessário utilizá-los. Algumas das Ações possíveis de se fazer com o golem são as seguintes:
+O Turno do golem é imediatamente após o seu, podendo utilizá-lo como qualquer outra criatura. Os Bônus de Atributo do golem serão os mesmos que os seus quando for necessário utilizá-los. Algumas das Ações possíveis de se fazer com o golem são as seguintes:
 
-**Atacar** (Uma Ação): O golem pode moldar o seu corpo na hora do ataque, fazendo com que suas mãos tenham a aparência e funcionalidade de uma espada, uma maça, ou uma maça-estrela. Você pode escolher se o ataque causará Dano Cortante, de impacto, ou perfurante. O dano será 4d6 + Int +Fth.
+**Atacar** (Uma Ação): O golem pode moldar o seu corpo na hora do ataque, fazendo com que suas mãos tenham a aparência e funcionalidade de uma Espada Longa, uma Maça, ou uma Maça-Estrela (confira o Capítulo 4.2 - Lista de Armas para mais detalhes). O dano será 4d6 + Int +Fth, e não terá Escalas. O tipo do dano será igual ao da Arma escolhida.
 
-**Defender** (Reação): O golem pula para frente de uma criatura no alcance do Deslocamento, concedendo a ela +2 de CA. O golem só pode fazer isso quando a criatura estiver a ponto de ser atacada. Caso o ataque acerte mesmo com o bônus na CA, o ataque será direcionado ao golem.
+**Defender** (Reação): O golem pula para frente de uma criatura no alcance do Deslocamento, concedendo a ela +2 de CA. O golem só pode fazer isso quando a criatura estiver a ponto de ser atacada. Caso o Ataque acerte mesmo com o bônus na CA, o ataque será direcionado ao golem.
 
 **Agarrar** (Três Ações): O golem planta seus pés em um local, e parte do sangue em sua composição se infiltra no solo. Após um tempo ele surge abaixo dos pés dos inimigos. Qualquer um que falhar num Teste de Resistência de Força CD 12 + Int + Fth terá a condição Agarrado. As criaturas alvo podem realizar o Teste novamente no início do Turno delas ao custo de Uma Ação. O alcance é o Deslocamento do golem, e ele pode selecionar até 3 criaturas.
 
@@ -42,4 +42,4 @@ O Turno do golem é imediatamente após o seu, podendo utilizá-lo como qualquer
 - Alcance: Toque
 - Tempo de Conjuração: Ação Bônus
 
-**Descrição:** Você toca uma criatura que voluntariamente se deixa ser afetada por essa Magia. Uma parte do sangue dela é retirado de seu corpo, causando 2d8 de Dano Verdadeiro de Sangue. Uma armadura exterior de sangue endurecido se forma ao redor dela, englobando todo o corpo como uma camada fina, mas poderosa. O dano de ataques desarmados do alvo é aumentado em 3d8, a CA é aumentada em 2 pontos, e ataques com armas em 2d8.
+**Descrição:** Você toca uma criatura que voluntariamente se deixa ser afetada por essa Magia. Uma parte do sangue dela é retirado de seu corpo, causando 2d8 de Dano Verdadeiro de Sangue. Uma armadura exterior de sangue endurecido se forma ao redor dela, englobando todo o corpo como uma camada fina, mas poderosa. O dano de Ataques Desarmados do alvo é aumentado em 3d8, a CA é aumentada em 2 pontos, e Ataques com Armas em 2d8.

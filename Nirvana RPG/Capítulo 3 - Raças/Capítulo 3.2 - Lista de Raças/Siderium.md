@@ -1,5 +1,5 @@
 
-Os Siderium são parentes distantes dos Elfos, que compartilham de uma origem em comum, vindos das estrelas. Medem entre 1.5m e 1.6m de altura. Existem 2 tipos de Siderium, os Nocturnus e os Diurnus. Como Siderium, você falará Élfico.
+Os Siderium são parentes distantes dos Elfos, que compartilham de uma origem em comum, vindos das estrelas. Medem entre 1.5m e 1.6m de altura. Existem 2 tipos de Siderium, os Nocturnus e os Diurnus.
 
 ## Diurnus
 
@@ -15,6 +15,6 @@ Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu notur
 
 Os Nocturnus refletem o céu noturno através de sua pele, possuindo olhos azuis ou dourados sem pupila. Seus cabelos são totalmente brancos ou amarelos.
 
-**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles. É possível se concentrar e acessar essa parte da alma, assim entendendo a si mesmos de maneira mais profunda, e tomando decisões mais acertadas. Você escolhe um dos efeitos abaixo para sua Luna. Você terá que utilizar sua Luna novamente caso queira o outro efeito.
-- **Foco Aprimorado**: Você se torna proficiente em todas as Salvaguardas por três Rodadas. Nas Salvaguardas que você já for proficiente, você dobrará o Bônus de Proficiência.
-- **Ofensiva Direcionada**: Sempre que você fizer um alvo passar por um Teste de Resistência, adicione seu bônus de proficiência a CD do Teste. Dura três Rodadas. 
+**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles. É possível se concentrar e acessar essa parte da alma, assim entendendo a si mesmos de maneira mais profunda, e tomando decisões mais acertadas. Você escolhe um dos efeitos abaixo para sua Luna. Você terá que utilizar sua Luna novamente caso queira o outro efeito. Os efeitos da Luna duram 1 Encontro.
+- **Foco Aprimorado**: Você se torna proficiente em todas as Salvaguardas. Nas Salvaguardas que você já for proficiente, você dobrará o Bônus de Proficiência.
+- **Ofensiva Direcionada**: Sempre que você fizer um alvo passar por um Teste de Resistência, adicione seu Bônus de Proficiência a CD do Teste.

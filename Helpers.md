@@ -13,4 +13,6 @@
 **Descrição:** \#Descrição#
 
 
-Terminar de revisar magias. Atualmente: custo 7 das elementais
+Terminar de revisar magias. Atualmente: terminei o custo 4 das de sangue
+
+Karma
