@@ -5,12 +5,12 @@
 - Requisito em Fé: 10
 - Requisitos Adicionais: Você é capaz de enxergar uma lua no local aonde você está
 - Duração: 1 hora
-- Alcance: 270 metros de raio centrado em você
+- Alcance: 270m de raio centrado em você
 - Tempo de Conjuração: Três Ações
 
 **Descrição:** A lua assume uma coloração vermelho carmesim, tornando toda a matiz de cor do ambiente avermelhada. Todos no planeta em que a lua orbitar poderão ver esse fenômeno.
 
-Todos no alcance da Magia perderão o controle de si próprios caso falhem num Teste de Resistência de Constituição CD 12 + Int + Fth. Aqueles afetados começarão a atacar o alvo mais próximo no seu alcance. Além disso, receberão um +10 de Força e Destreza. Você pode destacar até 6 alvos para não serem afetados pelo frenesi da Magia, recebendo apenas os bônus nos atributos físicos. Você recebe esses bônus também, sem entrar em frenesi.
+Todos no alcance da Magia perderão o controle de si próprios caso falhem num Teste de Resistência de Fé CD 12 + Int + Fth. Aqueles afetados começarão a atacar o alvo mais próximo no seu alcance. Além disso, receberão um +10 de Força e Destreza. Você pode destacar até 6 alvos para não serem afetados pelo frenesi da Magia, nem serem considerados possíveis alvos por aqueles afetados, recebendo apenas os bônus nos Atributos físicos. Você recebe esses bônus também, sem entrar em frenesi.
 
 ### Explodir Coração
 
@@ -30,7 +30,7 @@ Todos no alcance da Magia perderão o controle de si próprios caso falhem num T
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você entra em sintonia com seu sangue e toda a mana do seu corpo. Você consegue utilizar a sua mana ao invés de Pontos de Vida sempre que uma Magia de sangue pedir por Pontos de Vida para ser usada. A quantidade de Mana gasta é metade da de Pontos de Vida, ou seja, você primeiro verifica quantos Pontos de Vida iria gastar, e gasta metade desse valor em mana. Sua mana também aumenta em 30 pontos pela duração dessa Magia, e pode usar essa mana como bem desejar para conjurar Magias de Sangue com ela, mas você não pode conjurar Magias de custo 9 ou 10. Somente o conjurador pode ser alvo dessa Magia. 
+**Descrição:** Você entra em sintonia com seu sangue e toda a Mana do seu corpo. Você consegue utilizar a sua Mana ao invés de Pontos de Vida sempre que uma Magia de Sangue pedir por Pontos de Vida para ser usada. A quantidade de Mana gasta é metade da de Pontos de Vida, ou seja, você primeiro verifica quantos Pontos de Vida iria gastar, e gasta metade desse valor em Mana. Sua Mana também aumenta em 30 pontos pela duração dessa Magia, e pode usar essa Mana como bem desejar para conjurar Magias de Sangue com ela, mas você não pode conjurar Magias de custo 9 ou 10. Somente você pode ser alvo dessa Magia. 
 
 ### Realidade Sangrenta
 

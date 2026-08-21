@@ -7,7 +7,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você comanda as células cicatrizantes do sangue do alvo a cicatrizar todo e qualquer ferimento que ele tenha, curando completamente a condição "Sangrando", e restaurando 4d4 Pontos de Vida. A criatura fica imune a sangramento até o fim da Magia. Além disso, ignora qualquer dano recebido menor ou igual a 6, até mesmo Dano Verdadeiro. Se a fonte de dano é múltipla, por exemplo, uma Magia que causa múltiplos tipos de dano separadamente ao mesmo tempo, o alvo ignorará apenas os que forem menores ou iguais a 6.
+**Descrição:** Você comanda as células cicatrizantes do sangue do alvo a cicatrizar todo e qualquer ferimento que ele tenha, curando completamente a Condição "Sangrando", e restaurando 4d4 Pontos de Vida. A criatura fica Imune a Sangramento até o fim da Magia. Além disso, ignora qualquer dano recebido menor ou igual a 6, até mesmo Dano Verdadeiro. Se a fonte de dano é múltipla, por exemplo, uma Magia que causa múltiplos tipos de dano separadamente ao mesmo tempo, o alvo ignorará apenas os que forem menores ou iguais a 6.
 
 ### Esfera Vampírica
 
@@ -29,4 +29,4 @@
 
 **Descrição:** Você toca uma criatura alvo. Você redireciona o sangue dele para os olhos, aumentando a concentração do alvo. A esclera dele fica completamente vermelha, e a pupila assume uma cor levemente mais avermelhada do que a cor natural.
 
-Enquanto a Magia durar o alvo terá +6 para resistir a efeitos negativos de Magias, e não errará o primeiro ataque que fizer em cada Turno. Ao final da duração, o alvo terá -2 de Constituição até ter um descanso curto ou longo.
+Enquanto a Magia durar o alvo terá +6 para resistir a efeitos negativos de Magias, e não errará o primeiro Ataque que fizer em cada Turno. Ao final da duração, o alvo terá -2 de Constituição até ter um Descanso Curto ou Longo.
