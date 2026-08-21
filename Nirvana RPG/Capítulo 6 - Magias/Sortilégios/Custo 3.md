@@ -3,11 +3,11 @@
 
 - Requisito em Inteligência: 3
 - Requisito em Fé: 3
-- Duração: 1 minuto
+- Duração: 6 Rodadas
 - Alcance: 36m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você escolhe uma criatura alvo no alcance da Magia. Uma nuvem pequenina cobre a retina do alvo, fazendo com que ele fique Cego caso falhe num Teste de Resistência de Sabedoria CD 12 + Fth. Em caso de sucesso, ele se sente um pouco desnorteado, tendo -5 para acertar ataques até o fim da duração da Magia.
+**Descrição:** Você escolhe uma criatura alvo no alcance da Magia. Uma nuvem pequenina cobre a retina do alvo, fazendo com que ele fique Cego caso falhe num Teste de Resistência de Sabedoria CD 12 + Fth. Em caso de sucesso, ele se sente um pouco desnorteado, tendo -5 para acertar Ataques até o fim da duração da Magia.
 
 Você pode escolher alvos adicionais ao conjurar essa Magia. Para isso serão necessários 2 Pontos de Mana adicionais por alvo.
 
@@ -19,7 +19,7 @@ Você pode escolher alvos adicionais ao conjurar essa Magia. Para isso serão ne
 - Alcance: 36m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você conjura uma frente fria com aspecto sombrio próximo de uma criatura alvo, que rapidamente engloba-o. Caso a criatura falhe num Teste de Resistência de Constituição CD 12 + Int + Fth ele toma 10d6 + Int + Fth de Dano de Gelo. Em caso de sucesso, toma metade do dano.
+**Descrição:** Você conjura uma frente fria com aspecto sombrio próximo de uma criatura alvo, que rapidamente o engloba. Caso a criatura falhe num Teste de Resistência de Constituição CD 12 + Int + Fth ele toma 5d6 + Int + Fth de Dano de Gelo e 6d6 de Dano Sombrio. Em caso de sucesso, toma metade do dano.
 
 ### Morto Novamente
 
@@ -37,8 +37,8 @@ O máximo de cadáveres explodidos ao mesmo tempo é de 10. Mortos-vivos que est
 
 - Requisito em Inteligência: 3
 - Requisito em Fé: 3
-- Duração: Um Encontro
+- Duração: 1 Encontro
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você conjura um Golem apodrecido em um local vazio no alcance da Magia. O Golem possui 15 de CA, uma Ação, e age imediatamente após o seu Turno. O Deslocamento dele é 12m, é de tamanho Grande, e tem todos os Atributos iguais a 2. Causa 2d4 + For de Dano Sombrio por Ataque, e possui 30 Pontos de Vida.
+**Descrição:** Você conjura um Golem apodrecido em um local vazio no alcance da Magia. O Golem possui 15 de CA, uma Ação, e age imediatamente após o seu Turno. O Deslocamento dele é 15m, é de tamanho Grande, e tem todos os Atributos iguais a 2. Causa 2d4 + For de Dano Sombrio por Ataque, e possui 30 Pontos de Vida.
