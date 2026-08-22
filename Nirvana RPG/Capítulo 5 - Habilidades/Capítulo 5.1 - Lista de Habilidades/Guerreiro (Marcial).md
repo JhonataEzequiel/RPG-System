@@ -75,7 +75,7 @@ Seus Ataques ignoram Resistências a Dano Físico no primeiro de seus Turnos em 
 **Requisitos**: 2 de Destreza ou 2 de Força.
 **Custo**: Ação Livre.
 
-Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 + For ou Dex de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque apenas causa mais dano, não contando como um Ataque normal.
+Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque conta como um Ataque normal, sendo afetado por efeitos que afetem os Ataques.
 
 ## Dilacerar (Custo 2)
 
