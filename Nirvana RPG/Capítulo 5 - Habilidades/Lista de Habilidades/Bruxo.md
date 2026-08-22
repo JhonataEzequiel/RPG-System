@@ -26,6 +26,14 @@ Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dan
 
 Sempre que conjurar qualquer Magia de dano que não seja um Sortilégio, cause um adicional de 1d6 de Dano Sombrio.
 
+## Contrato Fechado (Custo 1)
+
+**Requisitos**: Habilidade "Mente Vazia" de Custo 1.
+
+Ao aumentar sua Mana Máxima quando subir de Nível, você pode escolher adicionar seu Modificador de Fé e Inteligência, além de sempre escolher o valor máximo do seu Dado de Mana. Em troca, não recuperará mais Mana com Descansos. O contrato não tem efeito em Níveis anteriores. Ou seja, somente a partir do momento que você aceitar é que ele entrará em vigor. A proposta sempre é feita novamente quando você sobe de Nível. 
+
+Quem ou o quê é responsável por falar com você e oferecer esse contrato é um mistério. O mestre pode usar esse personagem para oferecer outros contratos diferentes, ou ter relevância na campanha, se assim desejar.
+
 ## Tristeza Profunda (Custo 1)
 
 **Requisitos**: 1 de Inteligência, 1 de Fé.
@@ -41,7 +49,7 @@ Ao receber Dano Sombrio, causado por outra fonte ou por você mesmo, você acumu
 **Custo**: Uma Ação, 2 de Mana.
 **Duração**: 2 Rodadas.
 
-Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo um poder necrótico fluir entre ambos. No final do seu turno as condições negativas de ambas as criaturas são curadas e elas terão +3 para acertar o próximo Ataque. No entanto, ambas terão 7 Pontos de Vulnerabilidade a qualquer Dano Mágico, ainda que sejam inicialmente imunes.
+Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo um poder necrótico fluir entre ambos. No final do seu Turno as Condições negativas de ambas as criaturas são curadas e elas terão +3 para acertar o próximo Ataque. No entanto, ambas terão 7 Pontos de Vulnerabilidade a qualquer Dano Mágico, ainda que sejam inicialmente Imunes.
 
 ## Culto ao Desconhecido (Custo 3)
 
