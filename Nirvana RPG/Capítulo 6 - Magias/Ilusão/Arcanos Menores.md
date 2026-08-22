@@ -3,7 +3,7 @@
 
 - Requisito em Carisma ou Inteligência: 1
 - Requisitos Adicionais: A criatura alvo não é hostil inicialmente
-- Duração: 1 Minuto
+- Duração: 4 Rodadas
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
@@ -12,7 +12,7 @@
 ### Mensagem
 
 - Requisito em Inteligência ou Carisma: 1
-- Duração: 1 Minuto
+- Duração: 4 Rodadas
 - Alcance: 48m
 - Tempo de Conjuração: Ação Bônus
 
@@ -23,7 +23,7 @@ Você pode conjurar essa Magia para falar com qualquer alvo marcado por ela ante
 ### Sons Fantasmas
 
 - Requisito em Inteligência ou Carisma: 1
-- Duração: 1 Minuto
+- Duração: 4 Rodadas
 - Alcance: 18m
 - Tempo de Conjuração: Uma Ação
 

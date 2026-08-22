@@ -1,4 +1,6 @@
 
+## Bem-Vindos ao Nirvana RPG!
+
 No capítulo inicial desse livro serão explicados conceitos básicos para jogadores iniciantes em jogos de interpretação de papéis (RPG). Assim como explicar toda a motivação por trás da criação deste sistema em específico.
 
 ### O Que É Um RPG?
