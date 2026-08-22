@@ -13,13 +13,13 @@ Sempre que você receber um Ponto de Atributo ele irá automaticamente para o At
 
 ## Do nada à nata (Custo 1)
 
-**Requisitos**: Esta Habilidade só pode ser escolhida nível 1.
+**Requisitos**: Esta Habilidade só pode ser escolhida Nível 1. Você não poderá escolher outras Habilidades além desta no Nível 1.
 
-Você não ganha nada ao adquirir esta Habilidade, mas quando atingir níveis superiores, você ganhará os seguintes benefícios:
-- Nível 5: +1 em todas as Salvaguardas.
-- Nível 10: +3 em Iniciativa.
-- Nível 15: +1 Ponto de Atributo.
-- Nível 20: +1 Ponto de Habilidade.
+Você não ganha nada ao adquirir esta Habilidade, mas quando atingir Níveis superiores, você ganhará os seguintes benefícios:
+- Nível 5: +1 em todas as Salvaguardas, +1 Ponto de Habilidade.
+- Nível 10: +3 em Iniciativa, +2 Pontos de Habilidade.
+- Nível 15: +1 Ponto de Atributo, +3 Pontos de Habilidade.
+- Nível 20: +1 Pontos de Habilidade.
 
 ## Pau Para Toda Obra (Custo 2)
 

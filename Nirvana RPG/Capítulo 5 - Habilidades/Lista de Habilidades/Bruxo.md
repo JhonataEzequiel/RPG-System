@@ -20,6 +20,12 @@ Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, 
 
 Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio.
 
+## Mente Vazia (Custo 1)
+
+**Requisitos**: No momento em que adquirir essa Habilidade sua Sabedoria não pode ser maior que 0. Você pode aumentar sua Sabedoria a partir do próximo Nível. Sua Inteligência e Fé deverão ter o mesmo valor.
+
+Sempre que conjurar qualquer Magia de dano que não seja um Sortilégio, cause um adicional de 1d6 de Dano Sombrio.
+
 ## Tristeza Profunda (Custo 1)
 
 **Requisitos**: 1 de Inteligência, 1 de Fé.

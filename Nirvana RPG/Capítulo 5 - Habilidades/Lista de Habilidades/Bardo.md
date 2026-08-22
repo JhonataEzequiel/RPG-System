@@ -1,5 +1,5 @@
 
-O Arquétipo do Bardo engloba Habilidades relacionadas a música e charme.
+O Arquétipo do Bardo engloba Habilidades relacionadas à música e charme.
 
 ## Especialização Carismática (Custo 1)
 
