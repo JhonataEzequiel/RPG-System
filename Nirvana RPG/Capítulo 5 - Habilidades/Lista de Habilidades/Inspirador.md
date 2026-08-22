@@ -12,9 +12,9 @@ Você tem a capacidade de inspirar seus aliados até 6 metros de distância, con
 
 **Requisitos**: Habilidade "Inspiração" de Custo 1.
 
-Sendo do bem ou do mal, seu caráter inspira aqueles ao seu redor. Você pode utilizar a Inspiração como um Bônus de Dano ao invés de Pontos de Vida Temporários para todos os seus aliados. Aliados causarão mais Dano Físico igual a metade do Bônus de Pontos de Vida Temporários normalmente concedido pela Inspiração.
+Você pode utilizar a Inspiração como um Bônus de Dano ao invés de Pontos de Vida Temporários para todos os seus aliados. Aliados causarão mais dano igual a metade do Bônus de Pontos de Vida Temporários normalmente concedido pela Inspiração. O tipo de dano será de acordo com a Arma de cada um. Se a Arma causar múltiplos tipos, seus aliados escolherão qual aumentará.
 
-No Nível 10 de Carisma, poderá utilizar Inspiração como uma Ação Bônus, ao invés de uma Ação.
+No Nível 8 de Carisma, poderá utilizar Inspiração como uma Ação Bônus, ao invés de uma Ação.
 
 ## Movimento Inspirador (Custo 2)
 
@@ -23,14 +23,14 @@ No Nível 10 de Carisma, poderá utilizar Inspiração como uma Ação Bônus, a
 Toda vez que você utilizar Inspiração, adicione os seguintes benefícios:
 
 * Você ignora Terreno Difícil, e seus aliados tem mais 1.5m de Deslocamento em Terreno Difícil.
-* Você adiciona o seu Modificador de Carisma à sua CA.
+* Você adiciona o seu Modificador de Carisma à sua CA até o início do seu próximo Turno.
 * Escolha um aliado para receber uma Ação extra no próximo Turno dele. Você só pode utilizar essa característica uma vez por Encontro.
 
 ## Saúdem o Rei (Custo 3)
 
 **Requisitos:** Habilidade "Movimento Inspirador" de Custo 2. 10 de Carisma e 10 de Fé.
 
-Você será visto como líder por aqueles ao seu redor. Cativar os corações dos seus aliados e de seu povo será uma tarefa inata para você. Multidões te seguirão e obedecerão suas ordens, e crerão que você foi enviado por uma divindade para liderá-los, ou por uma força maior do que eles mesmos. Uma vez por Descanso Longo, pode escolher ser bem sucedido num Teste de Carisma, se falhar em um.
+Você será visto como líder por aqueles ao seu redor. Cativar os corações dos seus aliados e de seu povo será uma tarefa inata para você. Multidões te seguirão e obedecerão suas ordens, e crerão que você foi enviado por uma divindade para liderá-los, ou por uma força maior do que eles mesmos. Uma vez por Descanso Longo, pode escolher ser bem sucedido num Teste que utilize seu Atributo de Carisma, se falhar em um.
 
 **Monarca** (Passiva): Ao entrar em combate você automaticamente ativa sua Inspiração com uma Ação Livre. Para ativá-la novamente quando a duração acabar é necessário gastar a Ação Bônus como dito na "Movimento Inspirador".
 
@@ -52,6 +52,6 @@ Uma vez ao dia, você pode escolher um aliado no alcance para conceder-lhe seu b
 **Alcance**: Deslocamento.
 **Duração**: 5 Rodadas.
 
-Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da habilidade utilizarão o Atributo ao invés do Modificador em qualquer Teste que fizerem na duração desta Habilidade. Além disso, concede uma quantidade igual aos seus Pontos de Vida Atuais como Pontos de Vida Temporários a todos os seus aliados, menos a você mesmo, que se encerram no início do seu próximo Turno.
+Você emana uma aura abençoada ao seu redor. Todos os seus aliados no alcance da Habilidade utilizarão o Atributo ao invés do Modificador em qualquer Teste que fizerem na duração desta Habilidade. Além disso, concede uma quantidade igual aos seus Pontos de Vida Atuais como Pontos de Vida Temporários a todos os seus aliados, menos a você mesmo.
 
 Essa Habilidade ignora a ordem de Iniciativa, se você optar por utilizá-la no início da Rodada.

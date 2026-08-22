@@ -7,7 +7,7 @@ O Arquétipo do Bardo engloba Habilidades relacionadas a música e charme.
 
 Você poderá optar por uma das especializações disponíveis. Cada uma concederá características diferentes ao seu personagem.
 
-**Músico:** Sempre que tocar um instrumento suas Magias de Cura curarão 1d4 a mais do que o normal. No Nível 7 de Carisma esse dado aumenta para 1d8.
+**Músico:** Sempre que tocar um Instrumento suas Magias de Cura curarão 1d4 a mais do que o normal. No Nível 7 de Carisma esse dado aumenta para 1d8.
 
 **Diplomata:** Sua capacidade de resolver disputas no diálogo e em negociações é maior do que a da maioria das pessoas. 
 	**Dado de diplomacia:** Você ganha um dado de diplomacia que poderá ser usado uma vez por Descanso Longo. O dado será 1d4 + Car. Quando usado, adicione o resultado num Teste de Conversação qualquer que você for fazer. O dado deverá ser utilizado antes de rolar o Teste. No Nível 7 de Carisma, o dado passa a ser 1d6 + Car.

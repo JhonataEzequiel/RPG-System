@@ -9,6 +9,14 @@ Além disso, você pode rolar novamente qualquer rolagem uma quantidade de vezes
 
 O valor inicial de Sorte é 0, o mínimo é -10, e o máximo é 10.
 
+## Vida de Gato (Custo 1)
+
+**Requisitos**: Essa Habilidade só pode ser escolhida no Nível 1.
+
+Você não mais é Nocauteado, se tornando Imune à Condição. Sempre que for Nocauteado, você ficará com 1 Ponto de Vida e terá a Condição Caído. Essa Habilidade tem efeito 8 vezes.
+
+Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa" de Custo 3, os usos desta Habilidade são restaurados.
+
 ## Cartas do Destino (Custo 2)
 
 **Requisitos**: 3 de Carisma, Fé, ou Inteligência.

@@ -11,9 +11,15 @@ Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu Nível de Sab
 
 Por exemplo, se você tiver 6 Níveis em Destreza e 2 Níveis em Carisma, e desejar trocá-los para tentar intimidar um oponente, você terá +4 no Teste de Conversação para o intimidar, além de aplicar o novo Modificador.
 
+## Arte Nobre (Custo 1)
+
+**Requisitos**: 10 em qualquer Atributo. Essa Habilidade só pode ser pega no Nível 1.
+
+Seu Bônus de Proficiência é dobrado sempre que utilizá-lo de alguma forma. Caso você tenha uma limitação de -3 ou maior em um único Atributo, o Bônus de Proficiência será triplicado ao invés de dobrado.
+
 ## Minhas Regras (Custo 2)
 
-Você ignora o Limite Máximo de nível de Atributo por level. Você pode escolher um atributo e evoluir ele além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
+Você ignora o Limite Máximo de Nível de Atributo. Você também escolhe um Atributo para destravar sua evolução para além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
 
 ## Polivalente (Custo 3)
 

@@ -7,10 +7,10 @@ Desde que você esteja usando uma Armadura Leve ou nenhuma Armadura, ganha +2 em
 
 ## Ataque Furtivo (Custo 1)
 
-**Requisitos**: Você está Furtivo.
+**Requisitos**: Ser Perito em Furtividade.
 **Custo**: Ação Bônus.
 
-Você adiciona 3d6 como dano no seu próximo Ataque. O tipo de dano é um dos tipos que você consegue causar com sua Arma, à sua escolha.
+Você adiciona 3d6 como dano no seu próximo Ataque enquanto estiver Furtivo. O tipo de dano é um dos tipos que você consegue causar com sua Arma, à sua escolha.
 
 ## Sombra (Custo 1)
 
@@ -42,7 +42,7 @@ Alternativamente, você pode adicionar +1 em todos os Testes de Furtividade. No 
 
 ## Destrancar Rapidamente (Custo 2)
 
-Você tem Vantagem para desarmar armadilhas.
+Você tem Vantagem para Desarmar Armadilhas.
 
 Você também pode tentar desativar um autômato caso seja capaz de identificar o mecanismo que o mantém ativo. Você deverá rolar um teste de Desarmar Armadilhas, e a CD será a CA do inimigo + Sab dele. Você é imediatamente percebido pela criatura caso falhe, e não poderá se mover mais durante aquele turno. Caso tenha uma falha crítica, você tomará um ataque de oportunidade da criatura. Caso seja bem sucedido, o autômato parará de funcionar até que seja ativo novamente.
 

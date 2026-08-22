@@ -14,7 +14,7 @@ Você pode forjar qualquer Arma ou Armadura não-mágica ou única da lista de i
 | 10 kg a 30 kg | 24 horas       |
 | Mais de 30 kg | 3 dias         |
 
-Sua Capacidade de Carga agora é aumentada em três vezes o seu Nível de Proficiência em quilos.
+Sua Capacidade de Carga agora é aumentada em três vezes o seu Bônus de Proficiência em quilos.
 
 ## Ferraria Intermediária (Custo 2)
 

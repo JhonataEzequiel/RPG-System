@@ -21,7 +21,7 @@ O limite de uma vez ao dia para a Adaptação Élfica é removido. Você agora p
 
 Você tem os dois efeitos que originalmente você precisava escolher da Visão de Caçador ao mesmo tempo, ou seja, será o primeiro na Iniciativa, e usará um atributo ao invés de bônus para Ataques a Distância.
 
-## Teletransportador (Custo 3)
+## Onipresença (Custo 3)
 
 **Requisitos**: Você é um Elfo Negro de Nível 10 ou superior.
 

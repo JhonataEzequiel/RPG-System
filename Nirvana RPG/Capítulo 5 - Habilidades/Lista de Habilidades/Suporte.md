@@ -39,7 +39,7 @@ Sempre que você conceder bônus na CA temporariamente a um aliado, ou Pontos de
 **Requisitos**: 6 de Inteligência.
 **Custo**: Uma Ação.
 
-Uma vez ao dia você pode analisar a situação atual de um encontro. Rode 1d100. Caso você tire um número primo, você descobrirá as Resistências, Vulnerabilidades, Invulnerabilidades, e a CA de até 4 alvos à sua escolha. Você não gasta essa Habilidade se você não tirar um número primo no d100.
+Uma vez ao dia você pode analisar a situação atual de um Encontro. Rode 1d100. Caso você tire um número primo, você descobrirá as Resistências, Vulnerabilidades, Invulnerabilidades, e a CA de até 4 alvos à sua escolha. Você não gasta essa Habilidade se você não tirar um número primo no d100.
 
 ## Tripulante (Custo 3)
 

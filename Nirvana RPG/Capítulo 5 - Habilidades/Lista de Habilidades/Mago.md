@@ -49,9 +49,7 @@ Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprim
 
 ## Refazer (Custo 1)
 
-Você pode trocar as Magias e Arcanos Menores que você conhece. Essa Habilidade pode ser pega mais de uma vez.
-
-Caso você tenha 10 de Inteligência e 10 de Sabedoria, você terá o efeito desta Habilidade toda vez que tiver um Descanso Longo, não precisando pegá-la novamente para trocar suas Magias.
+Você pode trocar uma Magia das suas Magias Conhecidas. Essa Habilidade pode ser pega mais de uma vez. Cada vez que pegar essa Habilidade a quantidade de Magias que você poderá trocar aumentará em 1.
 
 ## Transferência Arcana (Custo 1)
 

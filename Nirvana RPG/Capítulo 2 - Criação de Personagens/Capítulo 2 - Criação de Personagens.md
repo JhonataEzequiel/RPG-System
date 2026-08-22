@@ -1,5 +1,9 @@
 
-É importante que, para criar um personagem novo, você tenha em mente algum arquétipo para se basear, seja ele um guerreiro, ladino, mago, clérigo, ou qualquer híbrido entre esses. Além disso, você também terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas dentro e fora de situações de combate. 
+É importante que, para criar um personagem novo, você tenha em mente algum arquétipo para se basear, seja ele um guerreiro, ladino, mago, clérigo, ou qualquer híbrido entre esses.
+
+## Escolha de Raça
+
+Você terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas dentro e fora de situações de combate. 
 
 ## Escolha de Atributos
 
@@ -63,7 +67,7 @@ Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser 
 
 ## Escolha de Perícias e Proficiências
 
-Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int. As Perícias em si estão detalhadas no Capítulo 2.1 - Perícias.
+Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, com um mínimo de duas. As Perícias em si estão detalhadas no Capítulo 2.1 - Perícias.
 
 Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo.
 
