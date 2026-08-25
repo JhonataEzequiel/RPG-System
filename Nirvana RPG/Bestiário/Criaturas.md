@@ -31,7 +31,7 @@
 - 94 Pontos de vida
 - 10 de Mana
 - 17 CA
-- 10.5m de Deslocamento, 10.5m de Deslocamento embaixo da terra
+- 10.5m de Deslocamento, 10.5m de Deslocamento Cavando
 - +2 Iniciativa
 
 | Atributo     | Valor | Modificador | Salvaguardas |
@@ -49,7 +49,7 @@
 - Idiomas: Nenhum
 
 #### Passivas:
-- **Multi-Ataque**: O Bulette anula a primeira penalidade de ataque, e a segunda é apenas de -5.
+- **Multi-Ataque**: O Bulette anula a primeira Penalidade de Ataque, e a segunda é apenas de -5.
 #### Ações:
 - **Mordida**: +7 para acertar, 1.5m de alcance, dano 2d12+4 perfurante
 - **Pulo Mortal** (duas ações): O bulette gasta 1.5m de movimento para saltar para um espaço dentro de 4.5m que contenha uma ou mais criaturas Enormes ou menores. Teste de Resistência de Destreza: CD 15, para cada criatura no espaço de destino da bulette. Falha: 3d12 de dano de impacto, e o alvo fica com a condição Caído. Sucesso: Metade do dano, e o alvo é empurrado 1.5m diretamente para longe da bulette.

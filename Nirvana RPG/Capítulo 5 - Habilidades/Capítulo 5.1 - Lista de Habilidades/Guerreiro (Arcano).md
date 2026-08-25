@@ -55,7 +55,7 @@ Você canaliza a energia interna do seu corpo quando respira fundo, a transmutan
 
 O multiplicador deste bônus aumenta conforme a quantidade de oponentes no Encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante, até o máximo de 5 inimigos.
 
-No entanto, o multiplicador só se aplica caso você esteja lutando completamente sozinho. As seguintes condições devem ser atendidas simultaneamente:
+No entanto, o multiplicador só se aplica caso você esteja lutando completamente sozinho, ou que seus aliados estejam Nocauteados. As seguintes condições devem ser atendidas simultaneamente caso seus aliados não estejam Nocauteados:
 
 - Nenhum aliado pode estar presente no campo de visão dos combatentes;
 - Nenhum aliado pode interferir no Encontro de qualquer forma;
@@ -70,9 +70,9 @@ Essa Habilidade não funciona caso você não consiga respirar.
 
 A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
 
-Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de Atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se estabilizar. Aliados no Raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
+Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de Atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se Estabilizar. Aliados no raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
 
-Caso utilize em conjunto com a Habilidade Ofensiva "Lua" de custo 3, você agora curará Condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
+Caso utilize em conjunto com a Habilidade "Lua" de custo 3, você agora curará Condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
 
 ## Lua (Custo 3)
 
@@ -83,7 +83,7 @@ Apesar de compreender a mudança constante da Vida, você procura por outro cami
 
 Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se cura de quaisquer Condições negativas que estiver sobre você, incluindo Nocauteado. Esta Habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por Descanso Longo com esta Habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
 
-Caso utilize em conjunto com a Habilidade Ofensiva "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
+Caso utilize em conjunto com a Habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
 
 ## Dor Permanente (Custo 3)
 

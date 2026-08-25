@@ -108,6 +108,6 @@ Caso o alvo fosse passar num Teste qualquer, você pode, uma vez por Descanso Lo
 De maneira passiva, você possui Vantagem em todos os Testes de Conversação e Atuação. Não pode sofrer Desvantagens nesses testes, ou ter qualquer bônus negativo aplicado a eles.
 
 **Rendição** (Ação Bônus, 5 de Mana): Caso duas das seguintes condições forem cumpridas dentro de uma hora, você pode forçar um alvo à sua escolha a se render. O alvo fica Encantado, e seguirá suas ordens por uma hora. Alvos com Imunidade a Encantamento são Imunes a essa Habilidade.
-- **Atuar** (Duas Ações): Você pode realizar uma performance utilizando sua Perícia de Atuação para tentar convencer o alvo de alguma coisa. O alvo precisará ser capaz de lhe ouvir, ver, ou se comunicar com você de alguma forma. Você deve rolar um Teste de Atuação de CD igual à 12 + Sab do alvo.
+- **Atuar** (Duas Ações): Você pode realizar uma performance utilizando sua Perícia de Atuação para tentar convencer o alvo de alguma coisa. O alvo precisará ser capaz de lhe ouvir, ver, ou se comunicar com você de alguma forma. Você deve passar por um Teste de Atuação de CD igual à 12 + Sab do alvo.
 - **Ilusionista** (Passiva): Caso você faça o alvo passar por uma Magia de Ilusão que inclua uma Salvaguarda, e ele falhar, isto contará como um condição cumprida.
 - **Cura Agnóstica** (Passiva): Ao curar o alvo de uma Condição negativa ou restaurar pelo menos metade de seus Pontos de Vida Máximos ao longo do Encontro você cumprirá uma das condições.

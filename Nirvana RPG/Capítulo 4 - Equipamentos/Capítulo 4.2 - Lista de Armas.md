@@ -51,7 +51,7 @@
 | Lança Longa        | 5pp   | 1d8 + Dex Perfurante               | 1 de Força, 2 de Destreza | D em Força, D em Destreza | -                                                         | 3m                 | 3 kg   |
 | Alabarda           | 2po   | 1d10 + For Cortante                | 4 de Força                | B em Força                | -                                                         | 3m                 | 4 kg   |
 | Ji                 | 3po   | 1d8 + For + Dex Cortante           | 2 de Força, 2 de Destreza | C em Força, C em Destreza | -                                                         | 3m                 | 4 kg   |
-| Clava Pesada       | 1po   | 1d10 + Força de Impacto            | 5 de Força                | A em Força                | -                                                         | 0                  | 5 kg   |
+| Clava Pesada       | 1po   | 1d10 + Força de Impacto            | 5 de Força                | A em Força                | -                                                         | 0                  | 50 kg  |
 | Espada Bastarda    | 4po   | 1d8 + For Cortante                 | 4 de Força                | B em Força                | -                                                         | 0                  | 3.5 kg |
 | Claymore           | 12po  | 2d8 + For + Dex Cortante           | 3 de Força, 3 de Destreza | A em Força, A em Destreza | -                                                         | 0                  | 6 kg   |
 | Lança de Cavalaria | 1po   | 1d8 + Força Perfurante             | 5 de Força                | B em Força                | -                                                         | 3m                 | 4 kg   |

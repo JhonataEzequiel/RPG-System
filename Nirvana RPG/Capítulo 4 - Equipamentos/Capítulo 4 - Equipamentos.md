@@ -1,9 +1,9 @@
 
 ## Armaduras
 
-Armaduras possuem pré-requisitos de atributo (de 0 a 10). Sem atendê-los, a Armadura conta apenas como peso extra — efeitos negativos ainda se aplicam, mas a CA e quaisquer efeitos positivos não.
+Armaduras possuem pré-requisitos de Atributo (de 0 a 10). Sem atendê-los, a Armadura conta apenas como peso extra — efeitos negativos ainda se aplicam, mas a CA e quaisquer efeitos positivos não.
 
-Armaduras também escalam com atributos (D a S), concedendo bônus crescentes conforme o nível do atributo. Os bônus são cumulativos — ter nível 10 num atributo concede todos os bônus anteriores. Bônus de escala só estão ativos com a Armadura equipada. Armaduras que escalam com múltiplos atributos concedem os bônus de cada um separadamente.
+Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes conforme o Nível do Atributo. Os bônus são cumulativos — ter nível 10 num Atributo concede todos os bônus anteriores. Bônus de Escala só estão ativos com a Armadura equipada. Armaduras que escalam com múltiplos Atributos concedem os bônus de cada um separadamente.
 
 **Classificação:** Armaduras com penalidade de Deslocamento são pesadas. As que concedem CA sem penalidade são leves. As demais são roupas. Exceções serão descritas no item.
 
@@ -17,17 +17,17 @@ Armaduras também escalam com atributos (D a S), concedendo bônus crescentes co
 
 ## Armas
 
-Armas possuem pré-requisitos e escalas de atributo. Sem atender aos requisitos, o dano é sempre 1 do tipo de dano da arma e cada Ataque custa Três Ações — Ataques de Oportunidade também ficam indisponíveis.
+Armas possuem pré-requisitos e Escalas de Atributo. Sem atender aos requisitos, o dano é sempre 1 de um dos tipos de dano da Arma e cada Ataque custa três Ações — Ataques de Oportunidade também ficam indisponíveis. Armas com múltiplos tipos de dano permitem escolher qual tipo receberá os bônus de escala.
 
-O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. Sendo proficiente no tipo de Arma, adicione também o Bônus de Proficiência para acertar. Armas com múltiplos tipos de dano permitem escolher qual tipo receberá os bônus de escala.
+O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. Sendo proficiente no tipo de Arma, adicione também o Bônus de Proficiência para acertar. O bônus de dano da Arma servirá como bônus para acertar apenas se estiver descrito na Arma. Ou seja, caso você consiga outros bônus de dano em outros locais, como através de Habilidades ou Magias, estes não entrarão no cálculo para acertar o Ataque. Exemplo: caso uma Arma cause 1d6 + For de dano, você rolará um Teste (1d20) como Ataque, adicionará For como bônus a este Teste e, caso seja Proficiente naquele tipo de Arma, adicionará também o seu Bônus de Proficiência.
 
 **Tipos de Arma:**
 
-- **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa Duas Ações e causa o dano de ambas. Atacar com apenas uma custa Uma Ação.
-- **Comuns:** Pode-se usar uma em cada mão. Atacar com as duas custa Duas Ações, com -3 para acertar. Atacar com apenas uma custa Uma Ação.
+- **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações e causa o dano de ambas. Atacar com apenas uma custa uma Ação.
+- **Comuns:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações, com -3 para acertar. Atacar com apenas uma custa uma Ação.
 - **Empunhadura Dupla:** Exigem duas mãos. Não podem ser usadas em uma mão só, nem duas ao mesmo tempo.
-- **Punho:** Beneficiam-se de Habilidades de Ataques Desarmados, mas ambas as mãos devem estar ocupadas apenas com a Arma de Punho em questão para isso. Não se beneficiam de Habilidades específicas de Armas, mas sim de Habilidades que modificam Ataques em geral.
-- **Armas à Distância:** O alcance máximo está na tabela de cada Arma. Atacar além dele impõe Desvantagem. Arcos funcionam normalmente. Bestas e Armas de Fogo precisam recarregar (Uma Ação) entre disparos, têm dano bruto maior, mas não possuem escalas ou bônus de atributo. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, seguindo as regras de Armas Comuns.
+- **Punho:** Beneficiam-se de Habilidades de Ataques Desarmados, mas ambas as mãos devem estar ocupadas apenas com Armas de Punho para isso. Não se beneficiam de Habilidades específicas de Armas, mas sim de Habilidades que modificam Ataques em geral.
+- **Armas à Distância:** O alcance máximo está na tabela de cada Arma. Atacar além dele impõe Desvantagem. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior, mas não possuem Escalas ou bônus de Atributo. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, seguindo as regras de Armas Comuns.
 
 **Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos, aumentando o dano em 1d4 de um dos tipos possíveis da Arma.
 
@@ -41,7 +41,7 @@ O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. 
 
 ## Escudos
 
-Escudos seguem as mesmas regras de escala das Armaduras, mas não adicionam CA diretamente. Quando uma escala concederia CA, o escudo concede o dobro desse valor como Pontos de Vida Máximos. Bônus de escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum bônus de escalas, nem poderá utilizar Habilidades que interajam com seu Escudo. O Escudo deverá ocupar uma das mãos.
+Escudos seguem as mesmas regras de Escala das Armaduras, mas não adicionam CA diretamente. Quando uma Escala concederia CA, o escudo concede o dobro desse valor como Pontos de Vida Máximos. Bônus de Escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum bônus de Escalas, nem poderá utilizar Habilidades que interajam com seu Escudo, servindo apenas como peso extra. O Escudo deverá ocupar uma das mãos.
 
 ## Peso dos Equipamentos
 
@@ -53,7 +53,7 @@ Itens mágicos variam do Grau 1 ao 3. Grau superior não significa necessariamen
 
 ## Munições
 
-Armas que disparam projéteis consomem uma unidade de munição por Ataque. Após um Encontro, é possível recuperar metade das munições gastas (arredondado para baixo), desde que o campo de batalha esteja acessível. Munições de Armas de Fogo não podem ser recuperadas.
+Armas que disparam projéteis consomem uma unidade de munição por Ataque. Após um Encontro, é possível recuperar metade das munições gastas (arredondado para baixo), desde que o campo de batalha esteja acessível. O Mestre pode optar por deixar você recuperar um número específico de munições. Munições de Armas de Fogo não podem ser recuperadas.
 
 ## Moedas
 

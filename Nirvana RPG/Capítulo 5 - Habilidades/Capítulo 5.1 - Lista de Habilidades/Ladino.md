@@ -42,9 +42,9 @@ Alternativamente, você pode adicionar +1 em todos os Testes de Furtividade. No 
 
 ## Destrancar Rapidamente (Custo 2)
 
-Você tem Vantagem para Desarmar Armadilhas.
+Você tem Vantagem em Testes de Ladroagem para desarmar Armadilhas.
 
-Você também pode tentar desativar um autômato caso seja capaz de identificar o mecanismo que o mantém ativo. Você deverá rolar um teste de Desarmar Armadilhas, e a CD será a CA do inimigo + Sab dele. Você é imediatamente percebido pela criatura caso falhe, e não poderá se mover mais durante aquele turno. Caso tenha uma falha crítica, você tomará um ataque de oportunidade da criatura. Caso seja bem sucedido, o autômato parará de funcionar até que seja ativo novamente.
+Você também pode tentar desativar um autômato caso seja capaz de identificar o mecanismo que o mantém ativo. Você deverá rolar um teste de Ladroagem, e a CD será a CA do inimigo + Sab dele. Você é imediatamente percebido pela criatura caso falhe, e não poderá se mover mais durante aquele turno. Caso tenha uma falha crítica, você tomará um Ataque de Oportunidade da criatura. Caso seja bem sucedido, o autômato parará de funcionar até que seja ativo novamente.
 
 ## Justiça Cega (Custo 2)
 
@@ -55,11 +55,11 @@ Você tem Vantagem em Testes de Conversação contra autoridades da lei ao tenta
 ## Impostor (Custo 3)
 
 **Requisitos**: 7 de Carisma, 4 de Destreza.
-**Duração:** 30 Minutos.
+**Duração:** 1 Hora.
 
 A sua especialidade é encaixar-se em diferentes contextos e se disfarçar entre outras pessoas. Seus inimigos terão dificuldades em distingui-lo entre os demais alvos que eles tenham. Você pode adicionar seu Modificador de Carisma aos Testes de Furtividade.
 
-Além disso, com o custo de três Ações, você pode se disfarçar como um de seus inimigos no meio de uma batalha. Você copia trejeitos, comportamentos, e também o idioma. Você não aprende o idioma, mas consegue copiá-lo durante a duração desta Habilidade. Os inimigos só te atacarão se você os atacá-los, mas eles pensarão que você é um deles. Para que notem seu disfarce, terão que passar num Teste CD 18 + Car de Sabedoria. Caso um dos inimigos note seu disfarce, você será descoberto por todos.
+Quando fora de combate, você pode realizar um Teste de Furtividade para copiar os trejeitos, características, e até o idioma falado por um alvo. Você temporariamente ganha acesso aquele idioma, e consegue entender e falá-lo, mas não escrever. Você também tem Vantagem em Testes de Conversação para se disfarçar do alvo e passar despercebido como ele. Você poderá utilizar também seu Modificador de Destreza nos Testes de Conversação que tenham esse intuito.
 
 ## Ataque Furtivo Aprimorado (Custo 3)
 

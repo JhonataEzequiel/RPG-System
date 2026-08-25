@@ -3,4 +3,4 @@ Os Humanos são mais versáteis que qualquer outra Raça. No entanto, não tem u
 
 ### Versatilidade Inata
 
-Você pode escolher uma Habilidade qualquer da Lista de Habilidades, não importando o custo, desde que atenda aos requisitos dela.
+Você pode escolher uma Habilidade qualquer do Capítulo 5.1 - Lista de Habilidades, não importando o custo, desde que atenda aos requisitos dela.

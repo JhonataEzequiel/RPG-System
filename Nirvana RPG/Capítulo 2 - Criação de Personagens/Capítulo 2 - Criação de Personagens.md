@@ -1,9 +1,25 @@
 
-É importante que, para criar um personagem novo, você tenha em mente algum arquétipo para se basear, seja ele um guerreiro, ladino, mago, clérigo, ou qualquer híbrido entre esses.
+Uma dica para criar um personagem novo é idealizar como você quer que ele seja na sua mente antes de montá-lo de fato. Isso faz com que o personagem tenha uma ideia principal que, aos poucos, vai se adequando às mecânicas do sistema, e ficando o mais próximo possível do ideal que você pensou. Claro, você pode dar uma olhada em outras partes do sistema e focar em um determinado campo que te agradou. Por exemplo, você pode pensar em fazer um guerreiro comum logo de cara, sem se preocupar tanto com o resto. Ou você pode dar uma olhada nas Habilidades, ver um conceito que te agrada, e construir seu personagem a partir dele. Escolha qualquer abordagem que seja mais conveniente e divertida para você.
+
+## História de Origem
+
+Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maior idade em busca de aventuras, até um ladino com uma história trágica de fundo. Você pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPGs, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que você tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem. Você pode ou não ser detalhista.
+
+## Traços de personalidade
+
+Cada personagem terá uma personalidade diferente, que pode ou não vir da história de origem do mesmo. É recomendável que você tente transmitir esses traços em sua interpretação. Um exemplo seria um personagem que não consegue se conter quando vê uma injustiça, e age por impulso. Seguir traços dos seus personagens traz ao mundo um quê de realismo, fazendo com que os jogadores possam tentar coisas novas a cada momento.
+
+### Qualidades
+
+Além dos traços de personalidade, você também deverá apontar uma qualidade de seu personagem, seja ele alguém justo, ou alguém bem humorado e sociável. Ter alguma qualidade destacada não necessariamente significa ter apenas uma qualidade, mas sim que aquela é a mais notória e essencial para o personagem.
+
+### Defeitos
+
+Ninguém é perfeito. É necessário destacar, além das qualidades, alguns defeitos do seu personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
 
 ## Escolha de Raça
 
-Você terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas dentro e fora de situações de combate. 
+Você terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas nas mais diversas situações.
 
 ## Escolha de Atributos
 
@@ -11,7 +27,9 @@ Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, vo
 
 ## Limitação Inicial
 
-Você pode optar por tirar Pontos de atributo de um Atributo para deixá-lo abaixo do Nível 0. Fazendo isso, pode alocar estes Pontos de Atributo em outro Atributo, ignorando o Limite de Nível Máximo de Atributos. Um Atributo com valor negativo tem seu Modificador negativo também, então você irá subtrair ao invés de somar quando algo pedir que use o Atributo. O valor mínimo de um Atributo é -10. Você pode tirar quantos Pontos quiser de quantos Atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações.
+Você pode optar por tirar Pontos de atributo de um Atributo para deixá-lo abaixo do Nível 0. Fazendo isso, pode alocar estes Pontos de Atributo em outro Atributo, ignorando o Limite de Nível Máximo de Atributos. Um Atributo com valor negativo tem seu Modificador negativo também, então você irá subtrair ao invés de somar quando algo pedir que use o Atributo. 
+
+O valor mínimo que um Atributo pode assumir é -10. Você pode tirar quantos Pontos quiser de quantos Atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações. Você pode ter -10 em apenas um Atributo, se assim desejar.
 
 Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de Nível Máximo de Atributo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma Limitação Inicial.
 
@@ -61,9 +79,6 @@ No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de
 | 10                 | 20                | 10                         | 2d4          |
 
 Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente. Ao fazer esta escolha, ela não poderá ser desfeita. Você deve realizar essa escolha antes de criar seu personagem.
-## Equipamento Inicial
-
-Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos. É recomendável que você escolha seu equipamento após estar um pouco mais familiarizado com as regras gerais do sistema.
 
 ## Escolha de Perícias e Proficiências
 
@@ -73,18 +88,6 @@ Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Emp
 
 Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Proficiente em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
 
-## História de Origem
+## Equipamento Inicial
 
-Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maior idade em busca de aventuras, até um ladino com uma história trágica de fundo. Você pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPGs, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que você tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem. Você pode ou não ser detalhista.
-
-## Traços de personalidade
-
-Cada personagem terá uma personalidade diferente, que pode ou não vir da história de origem do mesmo. É recomendável que você tente transmitir esses traços em sua interpretação. Um exemplo seria um personagem que não consegue se conter quando vê uma injustiça, e age por impulso. Seguir traços dos seus personagens traz ao mundo um quê de realismo, fazendo com que os jogadores possam tentar coisas novas a cada momento.
-
-### Qualidades
-
-Além dos traços de personalidade, você também deverá apontar uma qualidade de seu personagem, seja ele alguém justo, ou alguém bem humorado e sociável. Ter alguma qualidade destacada não necessariamente significa ter apenas uma qualidade, mas sim que aquela é a mais notória e essencial para o personagem.
-
-### Defeitos
-
-Ninguém é perfeito. É necessário destacar, além das qualidades, alguns defeitos do seu personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
+Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos.

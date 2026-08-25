@@ -13,7 +13,7 @@ Provoca uma criatura ao alcance de seu Deslocamento. O alvo deverá passar por u
 **Requisitos**: 1 de Constituição.
 **Custo**: Ação Bônus.
 
-Você se concentra para recuperar um pouco do seu vigor físico. Você se cura em 1d10 + Con + Proficiência, e pode usar essa Habilidade uma quantidade de vezes igual ao seu Modificador de Constituição até ter um Descanso Longo.
+Você se concentra para recuperar um pouco do seu vigor físico. Você se cura em 1d10 + Constituição, e pode usar essa Habilidade uma quantidade de vezes igual ao seu Modificador de Constituição até ter um Descanso Longo.
 
 ## Motor em Chamas (Custo 1)
 
@@ -84,7 +84,7 @@ Sempre que você optar por rolar o dado para adquirir Pontos de Vida ao subir de
 
 ## Tamanho não é Documento (Custo 1)
 
-Sempre que você estiver enfrentando ao menos um oponente de tamanho Grande ou superior, adicione +1 de CA pelo resto do Encontro. Caso você enfrente ao menos quatro oponentes de tamanho grande ou superior, adicione +3 de CA ao invés de +1.
+Sempre que você estiver enfrentando ao menos um oponente de tamanho Grande ou superior, adicione +1 de CA pelo resto do Encontro. Caso você enfrente ao menos quatro oponentes de tamanho Grande ou superior, adicione +3 de CA ao invés de +1.
 
 ## Fortitude Corporal (Custo 1)
 
@@ -222,3 +222,16 @@ Quando você estiver sob o efeito de uma Condição negativa, você não sofrer�
 **Requisitos**: 8 em Força, 8 em Destreza.
 
 Você agora pode adicionar seu Modificador de Destreza na sua CA, e ainda adicionar o valor total de Força, ignorando a regra de que para fazer isso seria necessário ter um Modificador de Destreza menor ou igual a 0.
+
+## Último Suspiro (Custo 3)
+
+**Requisitos**: 6 de Constituição.
+**Duração**: 1 Encontro.
+
+Caso todos os seus aliados forem Nocauteados ou mortos e você estiver lutando sozinho, sua CA aumentará em 3 pontos, e você terá 25 Pontos de Vida Temporários. Por último, na primeira vez que for Nocauteado nestas circunstâncias, você já começará as Salvaguardas para se Estabilizar com duas vitórias.
+
+## Honra e Glória (Custo 3)
+
+**Requisitos**: Habilidade "Último Suspiro" de Custo 3. 1 de Carisma.
+
+Caso a Habilidade "Último Suspiro" esteja ativa, você pode escolher se sacrificar pelos seus aliados. Você tem direito a fazer uma última coisa antes disso. Qualquer Habilidade, Magia, Ataque, ou outra coisa que custe mais do que uma Ação Livre agora se torna uma Ação Livre. Seus aliados se estabilizam com 1 Ponto de Vida, e você morre.

@@ -32,6 +32,14 @@ Você adiciona seu Modificador de Fé na Iniciativa. Você também pode realizar
 
 Você ergue uma de suas mãos que não esteja ocupada com um item (com exceção de um símbolo sagrado) para cima quando uma criatura estiver para Atacar outra. Uma luz emana de você, fazendo com que ela tenha Desvantagem nesse Ataque. Você recebe Pontos de Vida Temporários igual ao seu Modificador de Fé ou Carisma, à sua escolha, pelo resto do Encontro, que podem se acumular se você usar essa Habilidade novamente no mesmo Encontro.
 
+## Ciclo Cármico (Custo 2)
+
+**Requisitos**: 3 de Fé.
+
+Escolha um dos sete Atributos disponíveis. O Nível deste Atributo é aumentado permanentemente em 5. Todas as vezes que você causar dano a uma criatura, o dano é refletido em você como Dano Verdadeiro.
+
+Alternativamente, você pode adicionar seu Bônus de Proficiência em qualquer instância de dano que causar. Em troca, você também terá que gastar um Ponto de Atributo ao adquirir essa Habilidade.
+
 ## Transpor Energia (Custo 2)
 
 **Requisitos**: 5 de Carisma ou Fé.

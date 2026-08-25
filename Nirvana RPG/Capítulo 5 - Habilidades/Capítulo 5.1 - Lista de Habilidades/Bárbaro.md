@@ -15,11 +15,13 @@ Você pode realizar Testes de Conversação utilizando Força ao invés de Caris
 
 ## Marcas de Guerra (Custo 1)
 
-**Requisitos**: Sabedoria não pode ser negativa.
+**Requisitos**: 0 de Sabedoria.
 
-Você faz um corte pequeno em uma de suas mãos de alguma forma. Após uma meditação de, pelo menos, 10 minutos, uma tatuagem tribal surgirá na mão cortada, podendo ser a esquerda ou direita. 
+Você faz um corte pequeno em uma de suas mãos de alguma forma. Após ter um Descanso Longo, uma tatuagem tribal surgirá na mão cortada, podendo ser a esquerda ou direita. 
 
-Quanto mais criaturas forem derrotadas com Ataques físicos em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque físico em um inimigo, e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai garantir um bônus de dano aos Ataques físicos que aumentará conforme ela se expande. O bônus de dano é +5 por cada 10 inimigos derrotados, com um limite de +10, aonde a tatuagem se expande totalmente e toma conta do seu braço inteiro.
+Quanto mais criaturas forem derrotadas com Ataques físicos em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque Físico em um inimigo, e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai garantir um bônus de dano aos Ataques Físicos que aumentará conforme ela se expande. O bônus de dano é +5 por cada 10 inimigos derrotados, com um limite de +10, aonde a tatuagem se expande totalmente e toma conta do seu braço inteiro.
+
+O tipo de dano do bônus é igual a um dos tipos capazes de ser causados pela sua Arma.
 
 ## Fúria (Custo 1)
 
@@ -153,4 +155,4 @@ Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar 
 
 Sua força de preensão aumenta a níveis extremos. Você tem Vantagem dupla em Testes de Atletismo. Você rolará 3 Testes, e ficará com o maior resultado. Além disso, você se torna imune a quaisquer tentativas de desarme.
 
-Lendas são contadas de indivíduos que chegaram neste nível de força, e a principal delas era a capacidade de transformar carvão em diamante apenas apertando-o em suas mãos.  Você pode gastar 3 de Mana para fazer isso, ao troco de ter um Nível de Exaustão. Se fizer novamente, o Nível aumenta.
+Lendas são contadas de indivíduos que chegaram neste nível de força, e a principal delas era a capacidade de transformar carvão em diamante apenas apertando ele em suas mãos.  Você pode gastar 10 de Mana para fazer isso, ao troco de ter um Nível de Exaustão. Se fizer novamente, o Nível aumenta.
