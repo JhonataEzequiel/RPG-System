@@ -47,16 +47,16 @@ Você toca uma música capaz de conceder coragem aos seus companheiros. Você el
 Para continuar com esta canção nos próximos Turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. 
 - **Resultado Igual**: Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de Rodadas igual ao número escolhido. 
 - **Resultado Menor**: Caso o resultado for menor, a canção parará.
-- **Resultado Maior**: caso for maior, ela continuará por mias uma Rodada. 
+- **Resultado Maior**: caso for maior, ela continuará por mais uma Rodada. 
 
-Esta Habilidade consome Ações e Mana apenas na primeira vez que você executá-la, o que torna você livre em Rodadas posteriores.
+Esta Habilidade consome Ações e Mana apenas na primeira vez que você executá-la, o que torna você livre em Rodadas posteriores. Você poderá executar outras Ações mesmo com a música tocando, caso ela se mantenha além da primeira Rodada.
 
 ## Canção do Perecimento (Custo 1)
 
 **Requisitos**: 2 de Fé, 1 de Inteligência. Ser perito em Música.
 **Custo**: Uma Ação, 5 de Mana.
 
-Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento que ouvirem a música morrerão, incluindo você. 
+Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento que ouvirem a música morrerão, incluindo você.
 
 Você pode escolher perder toda sua Mana permanentemente, assim como sua capacidade de conjurar qualquer Magia, não importando como a conseguiu, em troca de ser apenas Nocauteado. Criaturas com Resistência ou Imunidade a Dano Sombrio, assim como aquelas com a Condição Surdo são Imunes a essa Habilidade. Caso obtenham a Condição Surdo após ouvir a canção não serão mais afetadas.
 
@@ -78,16 +78,17 @@ Sempre que conjurar uma Magia que cause dano enquanto toca uma música, você ad
 
 **Requisitos**: 5 de Carisma.
 
-Você tem +4 em Testes de Conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma Condição negativa você ganha Vantagem além do bônus padrão de +4.
+Você tem +5 em Testes de Conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma Condição negativa você ganha Vantagem além do bônus padrão de +4.
 
 ## Dinâmica Musical (Custo 2)
 
 **Requisitos**: 4 de Carisma. Ser perito em Música.
 **Custo**: Ação Bônus, 1 de Mana.
+**Duração**: Até o início do seu próximo Turno.
 
 Esta Habilidade deve ser usada no início do seu Turno para ter efeito. Você começa seu Turno ditando o ritmo do restante da Rodada ao tocar ou cantarolar uma melodia em uma determinada intensidade. Você escolhe entre Piano e Forte.
-- **Piano**: Sua melodia tem um volume baixo, e é pouco perceptível. No entanto, uma criatura alvo à sua escolha consegue ouvi-la perfeitamente. Adicione +2 a qualquer Teste que ela for fazer até o fim da Rodada se ela não estiver furtiva, ou +6 caso esteja.
-- **Forte**: Sua melodia tem um volume alto, e serve para desestabilizar seus oponentes. Você causa 1d4 de Dano Psíquico em todas as criaturas numa área circular de raio igual ao seu Deslocamento. Elas também terão -2 em todos os Testes até o fim da rodada. Você pode escolher até três criaturas para serem imunes a esse efeito.
+- **Piano**: Sua melodia tem um volume baixo, e é pouco perceptível. No entanto, uma criatura alvo à sua escolha consegue ouvi-la perfeitamente. Adicione +2 a qualquer Teste que ela for fazer até o fim da duração se ela não estiver furtiva, ou +6 caso esteja.
+- **Forte**: Sua melodia tem um volume alto, e serve para desestabilizar seus oponentes. Você causa 1d4 de Dano Psíquico em todas as criaturas numa área circular de raio igual ao seu Deslocamento. Elas também terão -2 em todos os Testes até o fim da duração. Você pode escolher até três criaturas para serem imunes a esse efeito.
 
 ## Diligente (Custo 3)
 
@@ -100,6 +101,12 @@ Uma vez por Descanso Curto, você pode adicionar seu Nível de Carisma a qualque
 **Requisitos**: 5 de Carisma.
 
 Caso o alvo fosse passar num Teste qualquer, você pode, uma vez por Descanso Longo, diminuir o resultado do dado dele igual ao seu Nível de Carisma. Por exemplo, se a CD fosse 17 e ele tirou 18, você pode diminuir esse resultado para 8 se seu Carisma for 10. Caso o alvo falhe no Teste, você poderá usar essa Habilidade mais uma vez, mas só usará seu Modificador ao invés do Nível.
+
+## Charme Salvador (Custo 3)
+
+**Requisitos**: Habilidade "Diligente" de Custo 3.
+
+Você pode utilizar seu Modificador de Carisma em qualquer Salvaguarda que quiser, substituindo o Modificador original.
 
 ## Mil Anos de Compaixão (Custo 3)
 

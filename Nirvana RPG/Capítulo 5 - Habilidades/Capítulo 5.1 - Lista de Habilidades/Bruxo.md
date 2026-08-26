@@ -18,11 +18,11 @@ Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, 
 **Requisitos**: 1 de Inteligência, 1 de Fé.
 **Alcance**: 36m.
 
-Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio.
+Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio. O limite do aumento é 8d4, e o tipo de dano será um dos tipos capazes de serem causados pela Arma do seu aliado.
 
 ## Mente Vazia (Custo 1)
 
-**Requisitos**: No momento em que adquirir essa Habilidade sua Sabedoria não pode ser maior que 0. Você pode aumentar sua Sabedoria a partir do próximo Nível. Sua Inteligência e Fé deverão ter o mesmo valor.
+**Requisitos**: No momento em que adquirir essa Habilidade sua Sabedoria não pode ser maior que 0. Você pode aumentar sua Sabedoria a partir do próximo Nível após pegar essa Habilidade.
 
 Sempre que conjurar qualquer Magia de dano que não seja um Sortilégio, cause um adicional de 1d6 de Dano Sombrio.
 
@@ -30,7 +30,7 @@ Sempre que conjurar qualquer Magia de dano que não seja um Sortilégio, cause u
 
 **Requisitos**: Habilidade "Mente Vazia" de Custo 1.
 
-Ao aumentar sua Mana Máxima quando subir de Nível, você pode escolher adicionar seu Modificador de Fé e Inteligência, além de sempre escolher o valor máximo do seu Dado de Mana. Em troca, não recuperará mais Mana com Descansos. O contrato não tem efeito em Níveis anteriores. Ou seja, somente a partir do momento que você aceitar é que ele entrará em vigor. A proposta sempre é feita novamente quando você sobe de Nível. 
+Ao aumentar sua Mana Máxima quando subir de Nível, você pode escolher adicionar seu Modificador de Fé e Inteligência, além de sempre escolher o valor máximo do seu Dado de Mana. Em troca, não recuperará mais Mana com Descansos. O contrato não tem efeito em Níveis anteriores. Ou seja, somente a partir do momento que você aceitar é que ele entrará em vigor.
 
 Quem ou o quê é responsável por falar com você e oferecer esse contrato é um mistério. O mestre pode usar esse personagem para oferecer outros contratos diferentes, ou ter relevância na campanha, se assim desejar.
 
@@ -39,9 +39,9 @@ Quem ou o quê é responsável por falar com você e oferecer esse contrato é u
 **Requisitos**: 1 de Inteligência, 1 de Fé.
 **Alcance**: Deslocamento.
 **Custo**: Reação.
-**Duração**: Duas Rodadas.
+**Duração**: 2 Rodadas.
 
-Ao receber Dano Sombrio, causado por outra fonte ou por você mesmo, você acumula Pontos de Dor. Quando tiver 3 Pontos de Dor, você poderá gastá-los para liberar toda a energia sombria que se acumulou no seu interior com a sua Reação, e forçar todas as criaturas no alcance a passar por um Teste de Resistência de Sabedoria CD 8 + Int + Fth. Em caso de falha, as criaturas tem a Condição Amedrontado até o final da duração. Em caso de sucesso, o Deslocamento delas é diminuído em 1.5m até o final da duração. Essa Habilidade não diferencia aliados de inimigos.
+Ao receber Dano Sombrio, causado por outra fonte ou por você mesmo, você acumula Pontos de Dor. Quando tiver 3 Pontos de Dor, você poderá gastá-los para liberar toda a energia sombria que se acumulou no seu interior com a sua Reação, e forçar todas as criaturas no alcance a passar por um Teste de Resistência de Carisma CD 8 + Int + Fth. Em caso de falha, as criaturas tem a Condição Amedrontado até o final da duração. Em caso de sucesso, o Deslocamento delas é diminuído em 1.5m até o final da duração. Essa Habilidade não diferencia aliados de inimigos.
 
 ## Impulso Sinistro (Custo 2)
 
@@ -54,23 +54,22 @@ Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo u
 ## Culto ao Desconhecido (Custo 3)
 
 **Requisitos**: 6 de Fé, 7 de Inteligência.
-**Custo**: Três Ações.
 
-Você entoa um cântico de louvor a uma entidade cósmica desconhecida. O Mestre rola 1d4 em segredo para determinar o efeito:
+Você entoa um cântico de louvor a uma entidade cósmica desconhecida. Esta Habilidade só pode ser usada fora de combate. O Mestre rola 1d4 em segredo para determinar o efeito:
 
 **1.** A entidade responde na noite do mesmo dia através de um sonho. Faça um Teste de Resistência de Sabedoria CD 15.
 
 - **Sucesso:** Você ganha conhecimento detalhado sobre um assunto à sua escolha.
-- **Falha:** Sofre 3d6 de Dano Psíquico (só curável em Descanso Longo).
+- **Falha:** Sofre 3d6 de Dano Psíquico.
 
 **2.** A entidade faz morada em sua mente, utilizando sua força mental para conceder-lhe mais chances de vitória. Até ter um Descanso Longo, você ganha +2d8 em todas as rolagens que fizer, e ignora Falhas Críticas, tornando-se falhas normais. Toda vez que fizer um Teste, sofre 2d8 de Dano Psíquico. O efeito termina após um Descanso Longo. O Dano Psíquico recebido é curado totalmente com um Descanso Curto.
 
 **3.** A entidade se manifesta em você. Criaturas que fizerem contato visual devem passar em um Teste de Resistência de Sabedoria CD 16 ou sofrer 3d6 de Dano Psíquico no final de cada Turno delas até o fim do Encontro. Sempre que um inimigo sofrer esse dano, você se cura pela metade do valor.
 
-**4.** Você é levado ao plano da entidade e recebe um influxo de conhecimento. Faça um Teste de Resistência de Sabedoria CD 20:
+**4.** Você é levado ao plano da entidade e recebe um influxo de conhecimento. Faça um Teste de Resistência de Sabedoria CD 22:
 
-- **Sucesso:** Escolha uma Magia para aprender. Ela conta como preparada, não custa nada neste Encontro, ignora Requisitos e pode ser usada como Ação Bônus. Você tem Vantagem em Testes de Sabedoria e Inteligência até o fim do Encontro.
-- **Falha:** Sofre 4d8 de Dano Psíquico e fica Amedrontado até o fim do Encontro.
+- **Sucesso:** Escolha uma Magia para aprender. Ela não custará nada até o fim do próximo Encontro, ignorará Requisitos, e pode ser usada como Ação Bônus. Você tem Vantagem em Testes de Sabedoria e Inteligência até o fim do Encontro.
+- **Falha:** Sofre 4d8 de Dano Psíquico e fica Amedrontado até o fim do próximo Encontro.
 
 ## Devorador de Almas (Custo 3)
 
@@ -107,9 +106,9 @@ Você pode usar essa Habilidade três vezes por Descanso Curto ou Longo.
 ## Dia das Bruxas (Custo 3)
 
 **Requisitos**: 10 de Inteligência, 10 de Fé.
-**Custo**: 10 de Mana. Três Ações.
-**Duração**: Um Encontro.
+**Custo**: Três Ações. 10 de Mana.
+**Duração**: 1 Encontro.
 
-O céu toma uma coloração escura como em tempos de tempestade. Todos num raio de 100m conseguem ver isso. Seus próximos 3 Sortilégios conjurados dentro da duração desta Habilidade não custam Mana para serem conjurados. Alternativamente, dobre todas as estatísticas de um lacaio conjurado ou reanimado. Isso inclui Pontos de Vida e Mana, Atributos, Salvaguardas, e CA. Caso algum Atributo seja negativo, o valor dele é invertido. Por exemplo, de -4 passaria a ser 4.
+O céu toma uma coloração escura como em tempos de tempestade. Todos num raio de 120m conseguem ver isso. Seus próximos 3 Sortilégios conjurados dentro da duração desta Habilidade não custam Mana para serem conjurados. Alternativamente, dobre todas as estatísticas de um lacaio conjurado ou reanimado. Isso inclui Pontos de Vida e Mana, Atributos, Salvaguardas, e CA. Caso algum Atributo seja negativo, o valor dele é invertido. Por exemplo, de -4 passaria a ser 4.
 
-Após a duração, você terá a Condição Exaustão 4. Cada vez que Conjurar um Sortilégio com essa Habilidade você recebe 7 Pontos de Vulnerabilidade a Dano Físico.
+Após a duração, você avançará 2 Níveis de Exaustão. Cada vez que Conjurar um Sortilégio com essa Habilidade você recebe 7 Pontos de Vulnerabilidade a Dano Físico.

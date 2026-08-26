@@ -1,5 +1,5 @@
 
-Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo elas Dano Físico ou Mágico.
+Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo elas Dano Físico, Mágico, ou de Sangue. Dano de Sangue é considerado um Dano Mágico por vir, normalmente, de Magias. No entanto, suas características são bem diferentes, o que será detalhado mais para frente neste capítulo.
 
 Inimigos e Armaduras normalmente tem Resistências diferentes aos tipos de dano. Um monstro que vive num local gelado, como o pico de uma montanha, pode ter alguma Resistência a Dano de Gelo, por exemplo. As Resistências reduzem o dano em uma quantia especificada. Já as Fraquezas são o contrário das Resistências, fazendo com que o inimigo sofra mais dano de acordo com a Fraqueza especificada. Se algum personagem consegue causar mais de um tipo de dano ao mesmo tempo, as Resistências e Vulnerabilidades deverão ser aplicadas apenas ao tipo de dano específico delas. Por exemplo, se o Ataque causar 1d8 de Dano de Impacto e 1d8 de Dano de Fogo, e quem for atingido tiver Resistência a Dano de Fogo, a Resistência vai se aplicar apenas ao Dano de Fogo, portanto o inimigo sofrerá menos Dano de Fogo e sofrerá o Dano de Impacto totalmente.
 

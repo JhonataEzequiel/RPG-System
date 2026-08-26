@@ -5,7 +5,7 @@ O Arquétipo do Eletromante contém Habilidades relacionadas ao controle da elet
 
 **Requisitos**: 1 de Inteligência.
 **Custo**: Reação, 1 de Mana.
-**Duração**: Uma Rodada.
+**Duração**: 1 Rodada.
 
 Logo após causar Dano de Raio em uma criatura alvo no alcance do seu Deslocamento você conduz parte da eletricidade para si mesmo, te energizando e aumentando seu Deslocamento em 3m, até um limite de 9m adicionais.
 
@@ -19,7 +19,7 @@ Você absorve eletricidade de alguma fonte, como uma Magia conjurada por você o
 
 **Requisitos**: 4 de Inteligência.
 **Custo**: Uma Ação, 2 de Mana.
-**Duração**: Duas Rodadas.
+**Duração**: 2 Rodadas.
 
 Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
 
@@ -27,7 +27,7 @@ Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de meta
 
 **Requisitos**: 2 de Inteligência.
 **Custo**: Uma Ação, 1 de Mana.
-**Duração**: Um Encontro.
+**Duração**: 1 Encontro.
 
 Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5m para cada ponto no seu Bônus de Proficiência. Ao final do Encontro, caso você não tenha sido Nocauteado, a eletricidade é reabsorvida por você, e você recupera 1 Ponto de Mana. Só pode usar uma vez por Descanso Curto ou Longo.
 
@@ -43,7 +43,7 @@ Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5
 
 **Requisitos**: 10 de Inteligência.
 **Custo**: Duas Ações, 6 de Mana.
-**Duração**: Um Encontro.
+**Duração**: 1 Encontro.
 
 Você sacrifica um Item Mágico ou Único de grau 1 ou maior, o transformando em eletricidade, que é absorvida pelo seu corpo. Você recebe os seguintes benefícios:
 - Seu Deslocamento aumenta em 10.5m;

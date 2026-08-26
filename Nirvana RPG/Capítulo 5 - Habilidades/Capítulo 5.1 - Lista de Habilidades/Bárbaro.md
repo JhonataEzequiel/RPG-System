@@ -95,12 +95,6 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 **Custo:** Três Ações
 
  Você ataca todos os inimigos em um círculo centrado nele de raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano será seu dano de um Ataque acrescido de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado até o início do próximo Turno deles.
-
-## Força Salvadora (Custo 2)
-
-**Requisitos**: Habilidade "Força Intimidadora" de Custo 1. 6 de Força.
-
-Você pode optar por usar seu Modificador de Força em qualquer Salvaguarda. Ao fazer isso, o Modificador daquela Salvaguarda em questão será substituído pelo de Força.
  
 ## Marcas de Guerra Melhorada (Custo 2)
 
@@ -115,6 +109,12 @@ Esta Habilidade substituirá a Marcas de Guerra original. A tatuagem agora apare
 **Custo**: Ação Bônus, 2 de Mana.
 
 Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de raio igual ao alcance dessa Habilidade, que falhem num Teste de Resistência de Sabedoria CD 12 + Con, só possam realizar Ataques ou ações de movimento durante a Rodada. Você não precisa realizar o Teste. Essa Habilidade deve ser usada ao início de uma Rodada, e ignora Iniciativa.
+
+## Força Salvadora (Custo 3)
+
+**Requisitos**: Habilidade "Força Intimidadora" de Custo 1. 10 de Força.
+
+Você pode optar por usar seu Modificador de Força em qualquer Salvaguarda. Ao fazer isso, o Modificador daquela Salvaguarda em questão será substituído pelo de Força.
 
 ## Fúria Aprimorada (Custo 3)
 
