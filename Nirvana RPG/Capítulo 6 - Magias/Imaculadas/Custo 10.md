@@ -46,3 +46,14 @@ Você só pode conjurar essa Magia uma vez. Essa Magia também não pode ser tra
 - Tempo de Conjuração: Três Ações
 
 **Descrição:** Você alveja um alvo com um pequeno projétil mágico conjurado em suas mãos. O projétil é uma esfera pequena, de cor branca. Você realiza um Ataque a Distância com esse projétil, utilizando Inteligência como Modificador para acertar, assim como seu Bônus de Proficiência. Ao acertar, tanto você quanto o alvo não poderão fazer absolutamente nada até o fim da duração. Outrossim, também estarão invulneráveis a quaisquer instâncias de dano, incluindo Dano Verdadeiro, e também quaisquer outros efeitos, sejam maléficos ou benéficos. Se errar, recupera 5 Pontos de Mana, gastando apenas 5.
+
+### Pura Sorte
+
+- Requisito em Carisma: 10
+- Duração: 3 Rodadas
+- Alcance: 36m
+- Tempo de Conjuração: Duas Ações
+
+**Descrição:** Você manipula as leis da causalidade em um nível intrínseco, as deixando completamente aleatórias.
+
+Todas as criaturas dentro de uma área circular com o raio igual ao alcance da magia, centrado em você, não terão mais nenhum bônus, seja ele positivo ou negativo, em qualquer Teste ou rolagem de dados. Isso também inclui Vantagem e Desvantagens, além de quaisquer outros efeitos similares. Você também é afetado por essa Magia. Todas as Salvaguardas agora tem CD 10.

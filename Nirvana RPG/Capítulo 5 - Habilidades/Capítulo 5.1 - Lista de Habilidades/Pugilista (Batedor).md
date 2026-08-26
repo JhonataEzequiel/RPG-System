@@ -28,18 +28,18 @@ Você domina um técnica que te torna capaz de desferir golpes velozes, cortando
 
 ## Evolução Pugilista (Custo 2)
 
-**Requisitos**: Habilidade "Força Natural" de Custo 1. Você deve estar pelo menos Nível 14.
+**Requisitos**: Habilidade "Força Natural" de Custo 1. Você deve estar pelo menos Nível 12.
 
 Você pode escolher um dos seguintes benefícios:
 - Suas escalas A em Força e em Destreza com os Punhos agora serão S;
 - Seus Punhos terão escala S em algum outro atributo de sua escolha, com exceção de Força e Destreza;
-- Você aumenta seu Deslocamento em 3m, ganha +3 em Iniciativa, e +1 de CA enquanto só estiver equipado com Armas de Punho;
+- Você aumenta seu Deslocamento em 6m, ganha +3 em Iniciativa, +1 de CA, e sua Margem de Ameaça aumenta em 1 ponto enquanto só estiver equipado com Armas de Punho;
 
 ## Punho Divino e Blasfemo (Custo 2)
 
 **Requisitos**: Habilidade "Evolução Pugilista" de custo 2.
 
-Você agora tem opção de causar Dano Sombrio ou radiante com seus Ataques Desarmados. Caso você não esteja usando uma Arma de Punhos, seu dano de Ataques Desarmados recebe um aumento de 1d8 + Int ou Fth de Dano Radiante ou sombrio, à sua escolha. Caso seus Modificadores de Inteligência ou Fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
+Você agora tem opção de causar Dano Sombrio ou Radiante com seus Ataques Desarmados. Caso você não esteja usando uma Arma de Punhos, seu dano de Ataques Desarmados recebe um aumento de 1d8 + Int ou Fth de Dano Radiante ou Sombrio, à sua escolha. Caso seus Modificadores de Inteligência ou Fé sejam negativos, você pode optar por não utilizá-los para o dano adicional.
 
 Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adicione metade do seu Nível ao dano causado por ela. O tipo de dano adicional será de acordo com o tipo de dano causado pela Arma.
 
@@ -47,7 +47,7 @@ Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adic
 
 **Requisitos**: Habilidade "Força Natural" de Custo 1. 6 de Força ou Destreza, 1 de Inteligência ou Sabedoria. 
 
-**Sinergia Corpo e Mente** (passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu Modificador de Sabedoria ou Inteligência os Ataques Desarmados, caso sejam positivos.
+**Sinergia Corpo e Mente** (Passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu Modificador de Sabedoria ou Inteligência os Ataques Desarmados, caso sejam positivos.
 
 **Elementar** (Ação Bônus, 1 de Mana): Você pode trocar o tipo de dano do seu Ataque Desarmado para qualquer um dos tipos elementais. O tipo de dano só será trocado quando você utilizar essa Habilidade novamente. Você também pode escolher causar dano em área com seus Ataques Desarmados. Neste caso, você escolherá um elemento e causará o dano de um Ataque Desarmado em todos que estiverem na área de impacto, que será uma área circular de raio 3m no alcance do seu Deslocamento. Você não precisará rolar para acertar este Ataque, mas os inimigos na área de impacto terão que realizar uma Salvaguarda de Destreza CD 14 + (For ou Dex) para desviar, recebendo metade do dano.
 

@@ -26,7 +26,7 @@ Você consegue soprar um vento congelante em uma área de cone de 4.5m de tamanh
 **Requisitos**: 1 de Inteligência.
 **Custo**: Reação.
 
-Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto ou Longo.
+Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto ou Longo. Em suma, ficará mais difícil para um inimigo resistir à sua Magia.
 
 ## Era do Gelo (Custo 2)
 

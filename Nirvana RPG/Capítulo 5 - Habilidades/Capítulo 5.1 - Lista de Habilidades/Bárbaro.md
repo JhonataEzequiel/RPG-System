@@ -5,7 +5,7 @@ O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalh
 
 **Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
 
-Todos os seus Ataques são considerados críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais também. Porém, você não pode mais escolher nenhuma outra Habilidade para sempre.
+Todos os seus Ataques são considerados críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais também. Você não tem mais erros críticos em nenhum Teste. Porém, você não pode mais escolher nenhuma outra Habilidade para sempre. Você recebe 6 Pontos de Habilidade extras, e poderá usá-los para adquirir novas Proficiências.
 
 ## Força Intimidadora (Custo 1)
 
@@ -17,9 +17,9 @@ Você pode realizar Testes de Conversação utilizando Força ao invés de Caris
 
 **Requisitos**: 0 de Sabedoria.
 
-Você faz um corte pequeno em uma de suas mãos de alguma forma. Após ter um Descanso Longo, uma tatuagem tribal surgirá na mão cortada, podendo ser a esquerda ou direita. 
+Você faz um corte pequeno em uma de suas mãos de alguma forma. Após ter um Descanso Longo, uma tatuagem tribal surgirá na mão cortada, podendo ser a esquerda ou direita. Você pode escolher outro local do corpo para que a tatuagem surja, mas por padrão, será uma de suas mãos.
 
-Quanto mais criaturas forem derrotadas com Ataques físicos em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque Físico em um inimigo, e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai garantir um bônus de dano aos Ataques Físicos que aumentará conforme ela se expande. O bônus de dano é +5 por cada 10 inimigos derrotados, com um limite de +10, aonde a tatuagem se expande totalmente e toma conta do seu braço inteiro.
+Quanto mais criaturas forem derrotadas com Ataques Físicos em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque Físico em um inimigo, e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai garantir um bônus de dano aos Ataques Físicos que aumentará conforme ela se expande. O bônus de dano é +5 por cada 10 inimigos derrotados, com um limite de +10, aonde a tatuagem se expande totalmente e toma conta do seu braço inteiro.
 
 O tipo de dano do bônus é igual a um dos tipos capazes de ser causados pela sua Arma.
 
@@ -54,7 +54,7 @@ A Fúria acabará automaticamente ao finalizar um Encontro.
 ## Descuidado (Custo 1)
 
 **Custo**: Ação Bônus, 1 de Mana.
-**Duração**: Um Encontro.
+**Duração**: 1 Encontro.
 
 Todas as vezes que você causar dano a alguém, causará 1d6 a mais de Dano Verdadeiro. Todas as vezes que você receber dano, receberá 1d6 a mais de Dano Verdadeiro. Pode utilizar essa Habilidade uma vez por Descanso Longo.
 
@@ -80,7 +80,7 @@ Você tem -1 em todos os Testes de Perícias que não sejam Atletismo. Em troca,
 **Duração**: 1 Rodada.
 **Custo**: Ação Bônus.
 
-Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, como um braço ou perna quebrados, e continuar lutando com força total. Todo o dano de Ataques corpo-a-corpo também aumentará conforme o seu Nível. Você estará em um estado de fúria que o fará atacar qualquer inimigo sem piedade, não podendo escolher poupar a criatura atacada. Ainda sim, é possível diferenciar inimigos de aliados. Pode ser usada uma vez por Encontro.
+Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, como um braço ou perna quebrados, e continuar lutando com força total. Todo o dano de Ataques também aumentará conforme o seu Nível. Você estará em um estado de fúria que o fará atacar qualquer inimigo sem piedade, não podendo escolher poupar a criatura atacada. Ainda sim, é possível diferenciar inimigos de aliados. Pode ser usada uma vez por Encontro.
 
 | Nível do Personagem | Dano Adicional |
 | ------------------- | -------------- |
@@ -91,24 +91,30 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 
 ## Ataque Descontrolado (Custo 2)
 
+**Requisitos**: 6 de Força.
 **Custo:** Três Ações
-**Requisito:** 6 de Força.
 
- Você ataca todos os inimigos em um círculo centrado nele de Raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano do Ataque é o dano de um Ataque normal, acrescentado de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado.
+ Você ataca todos os inimigos em um círculo centrado nele de raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano será seu dano de um Ataque acrescido de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado até o início do próximo Turno deles.
+
+## Força Salvadora (Custo 2)
+
+**Requisitos**: Habilidade "Força Intimidadora" de Custo 1. 6 de Força.
+
+Você pode optar por usar seu Modificador de Força em qualquer Salvaguarda. Ao fazer isso, o Modificador daquela Salvaguarda em questão será substituído pelo de Força.
  
 ## Marcas de Guerra Melhorada (Custo 2)
 
-**Requisitos**: Habilidade "Marcas de Guerra" de custo 1.
+**Requisitos**: Habilidade "Marcas de Guerra" de Custo 1.
 
-Esta Habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também, crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 25.
+Esta Habilidade substituirá a Marcas de Guerra original. A tatuagem agora aparecerá no outro braço também (ou em outra parte do corpo, à sua escolha), crescendo da mesma maneira que a anterior, só que do outro lado do corpo; e o bônus de dano agora será igual a quantidade de inimigos derrotados, com um limite de 25.
 
 ## Sem Controle (Custo 2)
 
-**Requisitos**: 6 de Constituição, 2 de Força ou 2 de Destreza.
+**Requisitos**: 6 de Constituição. 2 de Força ou 2 de Destreza.
 **Alcance**: 18m
 **Custo**: Ação Bônus, 2 de Mana.
 
-Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de raio igual ao alcance dessa Habilidade, que falhem num Teste de Resistência de Sabedoria CD 12 + Con, só possam realizar Ataques ou ações de movimento durante a Rodada. Essa Habilidade deve ser usada ao início de uma Rodada, e ignora Iniciativa.
+Você brada um grito de guerra, fazendo com que você e quaisquer criaturas numa área circular de raio igual ao alcance dessa Habilidade, que falhem num Teste de Resistência de Sabedoria CD 12 + Con, só possam realizar Ataques ou ações de movimento durante a Rodada. Você não precisa realizar o Teste. Essa Habilidade deve ser usada ao início de uma Rodada, e ignora Iniciativa.
 
 ## Fúria Aprimorada (Custo 3)
 
@@ -118,15 +124,15 @@ Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 
 * Vantagem em Testes de Constituição;
 * Imunidade a Condição Encantado;
-* Seus Ataques agora usam o Atributo ao invés do Modificador para calcular o dano;
-* Seu Nível como Pontos de Vida Temporários que duram por 3 Rodadas ou até a Fúria acabar.
+* Seus Margem de Ameaça aumenta em 1 ponto;
+* Recebe seu Nível como Pontos de Vida Temporários que duram por 3 Rodadas ou até a Fúria acabar, o que vier primeiro.
 
 ## Engodo da Ira (Custo 3)
 
 **Requisitos**: Habilidade "Fúria" de Custo 1.
 **Custo**: Reação.
 
-Você concede a um aliado dentro do alcance do seu Deslocamento os efeitos de Fúria. Só pode ser usada uma vez por Rodada. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também receberá os efeitos dela.
+Você concede a um alvo dentro do alcance do seu Deslocamento os efeitos de Fúria. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também receberá os efeitos dela. Você pode fazer isso apenas no início do Turno do alvo escolhido.
 
 ## Crítico Garantido (Custo 3)
 
@@ -134,7 +140,7 @@ Você concede a um aliado dentro do alcance do seu Deslocamento os efeitos de F�
 **Custo:** Uma Ação e 10 de Mana.
 **Duração**: 1 Encontro.
 
-Você entra em hiperfoco, não podendo mais conjurar Magias. Todos os seus Ataques agora são considerados Críticos.
+Sua concentração aumenta drasticamente, focando apenas nos seus Ataques, não podendo mais conjurar Magias enquanto esta Habilidade estiver ativa. Todos os seus Ataques agora são considerados Críticos.
 
 ## Violência (Custo 3)
 
@@ -147,12 +153,12 @@ Golpeia um alvo com toda a sua Força, afetando o psicológico e a alma dele al�
 
 **Requisitos**: 8 de Força.
 
-Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar mais dano. O dano adicional será seu Nível de Força vezes o seu Bônus de Proficiência.
+Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar mais dano. O dano adicional será Força + Bônus de Proficiência + 2d8. O dano adicional será de um dos tipos que sua Arma é capaz de causar, à sua escolha.
 
 ## Diamante (Custo 3)
 
-**Requisitos**: 10 de Força. Ser perito em Atletismo.
+**Requisitos**: 10 de Força. Ser Perito em Atletismo.
 
 Sua força de preensão aumenta a níveis extremos. Você tem Vantagem dupla em Testes de Atletismo. Você rolará 3 Testes, e ficará com o maior resultado. Além disso, você se torna imune a quaisquer tentativas de desarme.
 
-Lendas são contadas de indivíduos que chegaram neste nível de força, e a principal delas era a capacidade de transformar carvão em diamante apenas apertando ele em suas mãos.  Você pode gastar 10 de Mana para fazer isso, ao troco de ter um Nível de Exaustão. Se fizer novamente, o Nível aumenta.
+Lendas são contadas de indivíduos que chegaram neste nível de força, e a principal delas era a capacidade de transformar carvão em diamante apenas apertando ele em suas mãos.  Você pode gastar 10 de Mana para fazer isso, ao troco de ter um Nível de Exaustão.

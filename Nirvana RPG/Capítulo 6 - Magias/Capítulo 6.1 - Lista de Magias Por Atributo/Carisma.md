@@ -174,3 +174,5 @@ Espaço Negro: 10 de Inteligência, 10 de Carisma. Ilusão.
 Livro do Fim: 10 de Inteligência, 10 de Carisma. Ilusão.
 
 Apaziguar: 10 de Inteligência, 10 de Carisma. Imaculada.
+
+Pura Sorte: 10 de Carisma. Imaculada.

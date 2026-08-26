@@ -10,22 +10,22 @@ Você poderá optar por uma das especializações disponíveis. Cada uma concede
 **Músico:** Sempre que tocar um Instrumento suas Magias de Cura curarão 1d4 a mais do que o normal. No Nível 7 de Carisma esse dado aumenta para 1d8.
 
 **Diplomata:** Sua capacidade de resolver disputas no diálogo e em negociações é maior do que a da maioria das pessoas. 
-	**Dado de diplomacia:** Você ganha um dado de diplomacia que poderá ser usado uma vez por Descanso Longo. O dado será 1d4 + Car. Quando usado, adicione o resultado num Teste de Conversação qualquer que você for fazer. O dado deverá ser utilizado antes de rolar o Teste. No Nível 7 de Carisma, o dado passa a ser 1d6 + Car.
+	**Dado de Diplomacia:** Você ganha um Dado de Diplomacia que poderá ser usado uma vez por Descanso Longo. O dado será 1d4 + Car. Quando usado, adicione o resultado num Teste de Conversação qualquer que você for fazer. O dado deverá ser utilizado antes de rolar o Teste. No Nível 7 de Carisma, o dado passa a ser 1d6 + Car.
 
 **Comerciante:** Tem Vantagem em Testes de Conversação para barganhar com alguém. Seu instinto de negócios é capaz de entender itens raros com mais facilidade. Adicione seu Modificador de Carisma a Testes de Arcanismo.
 
 ## Hino da Coragem (Custo 1)
 
-**Requisitos**: Ser perito em Música.
+**Requisitos**: Ser Perito em Música.
 **Custo**: Uma Ação e 1 de Mana.
 **Alcance**: Deslocamento.
-**Duração**: Um Encontro.
+**Duração**: 1 Encontro.
 
 Você seleciona até 2 alvos no alcance desta Habilidade. Após isso, você toca uma música que os enche de força de vontade, fazendo-os ter +2 para acertar o próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantém os bônus até acertar.
 
 ## Versatilidade Musical (Custo 1)
 
-**Requisitos**: Ser perito em Música.
+**Requisitos**: Ser Perito em Música.
 **Duração**: Até o fim do próximo Encontro.
 **Custo**: Ação Livre, 2 de Mana.
 
@@ -38,9 +38,9 @@ A Mana gasta por essa Habilidade não é recuperada com o Descanso. Você pode e
 
 ## Canção Heroica (Custo 1)
 
-**Requisitos**: Ser perito em Música.
+**Requisitos**: Ser Perito em Música.
 **Custo**: Três Ações.
-**Duração**: Uma Rodada.
+**Duração**: 1 Rodada.
 
 Você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as Penalidades de Ataques de até 3 alvos à sua escolha durante a Rodada que a música iniciar. Para cada alvo escolhido você terá que gastar 2 de Mana. Caso um alvo já não tenha Penalidades de Ataque por ter alguma Habilidade que as retire, ou efeito similar, você concede +10 para ele acertar o Ataque.
 
@@ -111,3 +111,11 @@ De maneira passiva, você possui Vantagem em todos os Testes de Conversação e 
 - **Atuar** (Duas Ações): Você pode realizar uma performance utilizando sua Perícia de Atuação para tentar convencer o alvo de alguma coisa. O alvo precisará ser capaz de lhe ouvir, ver, ou se comunicar com você de alguma forma. Você deve passar por um Teste de Atuação de CD igual à 12 + Sab do alvo.
 - **Ilusionista** (Passiva): Caso você faça o alvo passar por uma Magia de Ilusão que inclua uma Salvaguarda, e ele falhar, isto contará como um condição cumprida.
 - **Cura Agnóstica** (Passiva): Ao curar o alvo de uma Condição negativa ou restaurar pelo menos metade de seus Pontos de Vida Máximos ao longo do Encontro você cumprirá uma das condições.
+
+## Espinho Raro (Custo 3)
+
+**Requisitos**: 8 de Carisma. Ser Perito em Música.
+**Custo**: Duas Ações.
+**Duração**: 3 Rodadas.
+
+Você toca uma música focada em um alvo no alcance do seu Deslocamento. A música toca o coração do alvo, o acalmando. A melodia é serena e única, sendo extremamente rara de se ouvir. O alvo é curado da Condição Amedrontado, mas baixa sua guarda, tendo -3 de CA e Desvantagem em todas as Salvaguardas.

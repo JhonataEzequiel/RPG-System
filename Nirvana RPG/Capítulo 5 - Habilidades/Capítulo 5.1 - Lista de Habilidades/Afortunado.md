@@ -13,7 +13,7 @@ O valor inicial de Sorte é 0, o mínimo é -10, e o máximo é 10.
 
 **Requisitos**: Essa Habilidade só pode ser escolhida no Nível 1.
 
-Você não mais é Nocauteado, se tornando Imune à Condição. Sempre que for Nocauteado, você ficará com 1 Ponto de Vida e terá a Condição Caído. Essa Habilidade tem efeito 8 vezes.
+Você não mais é Nocauteado, se tornando Imune à Condição. Sempre que for Nocauteado, você ficará com 1 Ponto de Vida e terá a Condição Caído. Essa Habilidade tem efeito 8 vezes. Você é miraculosamente salvo da morte nessas 8 vezes, escapando até dos piores desastres.
 
 Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa" de Custo 3, os usos desta Habilidade são restaurados.
 
@@ -21,16 +21,16 @@ Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreiç
 
 **Requisitos**: 3 de Carisma, Fé, ou Inteligência.
 
-Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A origem desse baralho é desconhecida, sendo entregue a você por algo fora do seu controle (o mestre pode criar uma justificativa dentro da campanha, se ele quiser). Você deve manter esse baralho oculto de seus olhos, podendo guardar ele em qualquer lugar.  Essa Habilidade só pode ser usada em combate.
+Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A origem desse baralho é desconhecida, sendo entregue a você por algo fora do seu controle (o Mestre pode criar uma justificativa dentro da Campanha, se ele quiser). Você deve manter esse baralho oculto de seus olhos, podendo guardar ele em qualquer lugar.  Essa Habilidade só pode ser usada em combate.
 
 **Puxar Carta** (Duas Ações, 2 de Mana): Você puxa uma carta desse baralho, podendo ser de um dos quatro naipes disponíveis: Copas, Ouros, Paus, e Espadas. Os efeitos concedidos por cada uma são:
 
 | Naipe       | Efeito                                                                                                                                                                                                                                                                                                                                                                                             |
 | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1- Copas    | Você se cura em um valor igual a 1d12 + Int ou Car ou Fth. Se você estiver com algum Nível de Exaustão, um Nível de Exaustão será diminuído.                                                                                                                                                                                                                                                       |
-| 2 - Ouros   | Você aplica uma Vulnerabilidade de 10 pontos a qualquer dano que você escolher a uma criatura alvo dentro do alcance do seu Deslocamento.                                                                                                                                                                                                                                                          |
-| 3 - Paus    | Você diminui o Deslocamento de uma criatura alvo dentro do alcance do seu Deslocamento pela metade, além disso, ela não pode executar nenhuma ação de movimento além de andar. Caso o alvo seja bem sucedido em um Teste de Resistência de Destreza CD 12 + Int ou Fth ou Car, o Deslocamento dele diminui em apenas 1.5m, e ele pode fazer outras ações de movimento normalmente. Dura 3 Rodadas. |
-| 4 - Espadas | Você adiciona o Nível de um Atributo entre Carisma, Fé, ou Inteligência ao dano do seu próximo Ataque que acertar ou Magia. Você não pode puxar outra carta até que tenha causado dano, ou que o encontro se encerre.                                                                                                                                                                              |
+| 2 - Ouros   | Você aplica uma Vulnerabilidade de 10 pontos a qualquer dano que você escolher a uma criatura alvo dentro do alcance do seu Deslocamento. Dura 5 Rodadas.                                                                                                                                                                                                                                          |
+| 3 - Paus    | Você diminui o Deslocamento de uma criatura alvo dentro do alcance do seu Deslocamento pela metade, além disso, ela não pode executar nenhuma Ação de Movimento além de Andar. Caso o alvo seja bem sucedido em um Teste de Resistência de Destreza CD 12 + Int ou Fth ou Car, o Deslocamento dele diminui em apenas 1.5m, e ele pode fazer outras Ações de Movimento normalmente. Dura 3 Rodadas. |
+| 4 - Espadas | Você adiciona o Nível de um Atributo entre Carisma, Fé, ou Inteligência ao dano do seu próximo Ataque que acertar ou Magia. Você não pode puxar outra carta até que tenha causado dano, ou que o Encontro se encerre.                                                                                                                                                                              |
 
 Para puxar uma carta você deverá rolar 1d4, e o número correspondente será o da carta. Após ter puxado uma carta, você não poderá puxá-la até que todas as outras tenham sido puxadas. Caso role 1d4 e o resultado seja o de uma carta que você já puxou, role novamente o dado. Ao puxar as quatro cartas, você pode puxar uma quinta carta, a carta coringa. Ela concede os bônus de todas as outras ao mesmo tempo. Você recebe os efeitos positivos, e escolhe um alvo para os efeitos negativos.
 
@@ -48,7 +48,7 @@ Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha o
 - Ao final de seu turno, recupera toda a Mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar Mana. 
 - Imunidade a Condição Encantado.
 
-Se caso após 7 tentativas não conseguir um Jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um Jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um Jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um Jackpot voltam a ser os iniciais.
+Se caso após 7 tentativas você não conseguir um Jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um Jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um Jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um Jackpot voltam a ser os iniciais.
 
 ## Dado de Sorte (Custo 2)
 
@@ -78,7 +78,7 @@ Os bônus em Testes serão metade do usual. Ou seja, você irá dividir por dois
 
 **Requisitos**: Habilidade "Jackpot" de Custo 2. 2 de Destreza.
 
-Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício de um Descanso Longo anterior ao combate. Isso inclui poder usar novamente certas Habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua Mana, trocar as Magias preparadas, etc.
+Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício do Descanso Longo mais recente que você teve anteriormente ao Encontro atual. Isso inclui poder usar novamente certas Habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua Mana, etc.
 
 ## Sortudo (Custo 3)
 
