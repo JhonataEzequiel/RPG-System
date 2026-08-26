@@ -19,6 +19,6 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 ### Pés Andarilhos
 
-**Vagante** (Passiva): Você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma condição negativa.
+**Vagante** (Passiva): Você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma Condição negativa.
 
 **Mercador** (passiva): Ao vender ou comprar 5 itens, você ganha 1 Ponto de Habilidade. Você pode fazer isso até 3 vezes. O valor mínimo do primeiro item deve ser de 50po, e aumenta em 50po a cada item. Caso você venda um item e o compre novamente, ou vice e versa, este item contará apenas uma vez.

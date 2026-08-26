@@ -1,5 +1,5 @@
 
-O povo Gama é uma raça de sapos humanoides. Em sua cultura, é dito que os mesmos nasceram de folhas de uma árvore ancestral a muito esquecida que, ao cair no chão, deu origem aos seus primeiros ancestrais. Estes ancestrais eram sapos pequenos, como normalmente são encontrados os sapos. Aos poucos, os espíritos da floresta ensinaram estes sapinhos como se comunicar e festejar. Eles foram sendo modificados pelo próprio lar aonde viviam, adquirindo inteligência e capacidades similares aos de outras raças. São um povo considerado feliz e festeiro, e adoram a companhia de outras raças também.
+O povo Gama é uma raça de sapos humanoides. Em sua cultura, é dito que os mesmos nasceram de folhas de uma árvore ancestral a muito esquecida que, ao cair no chão, deu origem aos seus primeiros ancestrais. Estes ancestrais eram sapos pequenos, como normalmente são encontrados os sapos. Aos poucos, os espíritos da floresta ensinaram estes sapinhos como se comunicar e festejar. Eles foram sendo modificados pelo próprio lar aonde viviam, adquirindo inteligência e capacidades similares aos de outras raças. São um povo considerado feliz e festeiro, e adoram a companhia de outras raças.
 
 **Anfíbio** (Passiva): Você pode respirar embaixo d'água, e seu Deslocamento Aquático é o dobro do seu Deslocamento. Você tem vantagem em Testes de Atletismo enquanto estiver embaixo d'água.
 

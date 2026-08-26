@@ -9,7 +9,7 @@ O Deslocamento Terrestre é o padrão, normalmente chamado apenas de Deslocament
 
 ### Deslocamento Aéreo
 
-Também é chamado de Deslocamento de Voo. O Deslocamento de Voo é concedido a qualquer criatura capaz de voar, seja por meios naturais ou mágicos. Uma criatura capaz de voar tem a CA  contra ataques corpo-a-corpo dela aumentada em 2 pontos quando estiver voando, desde que a criatura atacando não esteja voando também.
+Também é chamado de Deslocamento de Voo. O Deslocamento de Voo é concedido a qualquer criatura capaz de voar, seja por meios naturais ou mágicos. Uma criatura capaz de voar tem a CA  contra Ataques corpo-a-corpo dela aumentada em 2 pontos quando estiver voando, desde que a criatura atacando não esteja voando também.
 
 ### Deslocamento Aquático
 
@@ -25,7 +25,7 @@ Algumas criaturas são capazes de cavar no chão e abrir túneis, se locomovendo
 
 ## Andar, Correr e Desengajar
 
-Andar é considerada uma Ação Livre. Ao Correr, você gasta Duas Ações e seu Deslocamento é dobrado. Desengajar impede Ataques de Oportunidade, e custa Três Ações. Seu Deslocamento também é dobrado ao Desengajar.
+Andar é considerada uma Ação Livre. Ao Correr, você gasta duas Ações e seu Deslocamento é dobrado. Desengajar impede Ataques de Oportunidade, e custa três Ações. Seu Deslocamento também é dobrado ao Desengajar.
 
 ## Rastejar
 
@@ -33,13 +33,13 @@ Ao Rastejar, seu Deslocamento é diminuído pela metade. Normalmente é causado 
 
 ## Pular
 
-Você pode Pular uma distância igual a soma dos seus Modificadores de Força e Destreza, tanto verticalmente quanto horizontalmente. Cada ponto em um desses modificadores adicionará (ou removerá, se for negativo) 1.5m à distância de pulo. Essa distância conta para o seu Deslocamento, não podendo ultrapassá-lo. Terreno Difícil impede que você pule. A distância mínima de pulo é de 1.5m.
+Você pode Pular uma distância igual a soma dos seus Modificadores de Força e Destreza, tanto verticalmente quanto horizontalmente. Cada ponto em um desses Modificadores adicionará (ou removerá, se for negativo) 1.5m à distância de pulo. Essa distância conta para o seu Deslocamento, não podendo ultrapassá-lo. Terreno Difícil impede que você pule. A distância mínima de pulo é de 1.5m, a não ser que seu Deslocamento seja 0.
 
 Pular sobre certos locais, como chegar do outro lado de um precipício, pode requerer um Teste de Acrobacia. Se isso irá acontecer, e qual será a dificuldade, fica a critério do mestre.
 
 ## Queda e Queda Livre
 
-Pequenas alturas não apresentam perigo. Quedas de até 5m, ou 10m enquanto furtivo não causam dano algum. Caso ultrapassem esse limiar, você toma 1d4 de dano de impacto por 3m de queda ao atingir o chão.
+Pequenas alturas não apresentam perigo. Quedas de até 5m, ou 10m enquanto Furtivo não causam dano algum. Caso ultrapassem esse limiar, você toma 1d4 de dano de impacto por 3m de queda ao atingir o chão.
 
 A velocidade em Queda Livre é dada pela quantidade de Turnos em Queda Livre multiplicada por 10. Ou seja, quanto mais turnos passarem, maior a distância percorrida em queda livre. A fórmula é a seguinte:
 

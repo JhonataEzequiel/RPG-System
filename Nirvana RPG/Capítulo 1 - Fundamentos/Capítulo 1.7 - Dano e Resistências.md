@@ -1,5 +1,5 @@
 
-Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo elas Dano Físico, Mágico, ou de Sangue.
+Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo elas Dano Físico ou Mágico.
 
 Inimigos e Armaduras normalmente tem Resistências diferentes aos tipos de dano. Um monstro que vive num local gelado, como o pico de uma montanha, pode ter alguma Resistência a Dano de Gelo, por exemplo. As Resistências reduzem o dano em uma quantia especificada. Já as Fraquezas são o contrário das Resistências, fazendo com que o inimigo sofra mais dano de acordo com a Fraqueza especificada. Se algum personagem consegue causar mais de um tipo de dano ao mesmo tempo, as Resistências e Vulnerabilidades deverão ser aplicadas apenas ao tipo de dano específico delas. Por exemplo, se o Ataque causar 1d8 de Dano de Impacto e 1d8 de Dano de Fogo, e quem for atingido tiver Resistência a Dano de Fogo, a Resistência vai se aplicar apenas ao Dano de Fogo, portanto o inimigo sofrerá menos Dano de Fogo e sofrerá o Dano de Impacto totalmente.
 
@@ -46,6 +46,8 @@ Sempre que você tiver que multiplicar o dano, seja por uma Habilidade, Acerto C
 Existem algumas interações possíveis entre os tipos de Dano Elementais. Muitas vezes dependerá da situação atual do alvo. 
 
 Por exemplo, ao falhar criticamente em uma Salvaguarda para resistir a uma Magia que cause Dano de Fogo, o mestre decide que a criatura alvo foi colocada em chamas. A duração desses efeitos é até o fim do próximo Turno do inimigo, a não ser que seja dito o contrário, ou que o Mestre decida que o efeito durará mais tempo.
+
+Estes efeitos ocorrem uma única vez por instância, não podendo ser cumulativos em si mesmos. No entanto, um efeito diferente de outro podem se acumular.
 
 | Situação          | Efeito                                                                                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |

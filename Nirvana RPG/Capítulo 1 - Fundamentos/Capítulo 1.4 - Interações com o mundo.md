@@ -37,7 +37,7 @@ Salvaguardas são Testes feitos com o intuito de resistir a alguma coisa. Por ex
 
 Caso você tire 20 em um dado em um Teste, será um Sucesso Crítico (ou Acerto Crítico), o que fará com que as consequências daquela ação sejam bem melhores. De modo análogo, se tirar 1, será um Erro Crítico, e as consequências serão devastadoras.
 
-A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um Acerto Crítico. Na maioria dos casos, será apenas o número 20, porém é possível que Habilidades e Magias aumentem esse intervalo. Por exemplo, se você pudesse ter um Acerto Crítico tirando 19 ou 20, então sua margem de ameaça seria +1.
+A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um Acerto Crítico. Na maioria dos casos, será apenas o número 20, porém é possível que Habilidades e Magias aumentem esse intervalo. Por exemplo, se você pudesse ter um Acerto Crítico tirando 19 ou 20, então sua Margem de Ameaça seria +1.
 
 ### Vantagens e Desvantagens
 

@@ -15,11 +15,11 @@ Além dos traços de personalidade, você também deverá apontar uma qualidade 
 
 ### Defeitos
 
-Ninguém é perfeito. É necessário destacar, além das qualidades, alguns defeitos do seu personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
+Seu personagem, provavelmente, estará longe da perfeição. Sendo assim, além das qualidades, procure destacar alguns defeitos do seu personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
 
 ## Escolha de Raça
 
-Você terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas nas mais diversas situações.
+Você terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas nas mais diversas situações. Elas estão listadas no Capítulo 3.2 - Lista de Raças.
 
 ## Escolha de Atributos
 
@@ -35,7 +35,7 @@ Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de N�
 
 ## Escolha de Habilidades
 
-No Nível 1, você pode escolher 7 Habilidades de Custo 1.
+No Nível 1, você pode escolher 7 Habilidades de Custo 1. Ou seja, não se tratam de 7 Pontos de Habilidades. Você ganha essas 7 Habilidades de Custo 1 sem gastar Pontos. Você pode optar por não começar com nenhuma Habilidade, se assim desejar, mas não ganhará nada com isso.
 
 ## Pontos de Vida
 
@@ -84,7 +84,7 @@ Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode
 
 Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, com um mínimo de duas. As Perícias em si estão detalhadas no Capítulo 2.1 - Perícias.
 
-Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo.
+Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo. Alternativamente, caso esteja criando seu personagem, pode escolher um novo tipo de arma para ser Proficiente ao invés de uma das 7 Habilidades de Custo 1 que você pode escolher (pode ter quantas Proficiências quiser ao troco de mais Habilidades).
 
 Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Proficiente em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
 

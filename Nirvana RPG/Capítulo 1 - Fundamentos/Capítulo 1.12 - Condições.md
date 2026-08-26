@@ -1,7 +1,7 @@
 
 ### Agarrado
 
-O Deslocamento da criatura Agarrada é reduzido a zero, e a criatura perde uma de suas Ações enquanto estiver agarrado, tendo só 2 Ações por turno.
+O Deslocamento da criatura Agarrada é reduzido a zero, e a criatura perde uma de suas Ações enquanto estiver agarrado, tendo só 2 Ações por Turno.
 
 ### Amedrontado
 

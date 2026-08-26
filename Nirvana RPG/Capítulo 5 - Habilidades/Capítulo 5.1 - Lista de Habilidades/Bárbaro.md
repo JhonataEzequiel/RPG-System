@@ -25,7 +25,7 @@ O tipo de dano do bônus é igual a um dos tipos capazes de ser causados pela su
 
 ## Fúria (Custo 1)
 
-**Requisitos:** Não pode usar Armadura. 2 de Força, Constituição, ou Destreza.
+**Requisitos:** 2 de Força, Constituição, ou Destreza.
 
 **Cargas de Fúria** (Passiva): Fúria é uma Habilidade que pode ser usada por um número de vezes limitado, mas a quantidade de vezes que se pode usá-la aumenta conforme o seu Nível de Força, Constituição, ou Destreza.
 

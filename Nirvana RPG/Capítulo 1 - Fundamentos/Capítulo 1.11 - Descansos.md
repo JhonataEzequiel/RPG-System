@@ -7,4 +7,4 @@ O Descanso Curto é de cerca de uma hora, e usa os Dados de Vida e de Mana para 
 
 ## Descanso Longo
 
-O Descanso Longo dura cerca de 8 horas e recupera todos os Pontos de Vida e Mana, além de qualquer Habilidade que precise de um Descanso Longo para recuperar. Você também se curará de Condições (com exceção de Exaustão, que curará apenas um Nível). Basicamente, você estará em seu estado pleno, com todos as estatísticas recuperadas. 
+O Descanso Longo dura cerca de 8 horas e recupera todos os Pontos de Vida e Mana, além de qualquer Habilidade que precise de um Descanso Longo para recuperar. Você também se curará de Condições (com exceção de Exaustão, que curará apenas dois Níveis). Basicamente, você estará em seu estado pleno, com todos as estatísticas recuperadas. 

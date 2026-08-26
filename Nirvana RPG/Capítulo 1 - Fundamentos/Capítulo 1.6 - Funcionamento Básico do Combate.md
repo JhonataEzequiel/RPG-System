@@ -13,9 +13,9 @@ A Iniciativa determinará quem irá agir primeiro quando um combate for iniciado
 
 ## Turnos e Rodadas
 
-Cada jogador terá um Turno aonde poderá decidir o que vai fazer durante um combate. Um Turno dura em média 10 segundos no mundo dos personagens, mas você poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três Ações diferentes em seu turno, com exceção, é claro, das Ações Bônus e Ações Livres, que podem ser usadas independentemente desse limite. 
+Cada jogador terá um Turno aonde poderá decidir o que vai fazer durante um combate. Um Turno dura em média 10 segundos no mundo dos personagens, mas você poderá levar o tempo necessário para escolher como vai agir. Cada jogador poderá usar um total de três Ações diferentes em seu Turno, com exceção, é claro, das Ações Bônus e Ações Livres, que podem ser usadas independentemente desse limite. 
 
-O custo em Ações estará detalhado em cada Habilidade. Uma Rodada é a junção dos Turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu Turno, a Rodada acaba e outra começa. Dentro da mística do jogo, todos os Turnos acontecem ao mesmo tempo. Isso significa que a rodada também tem duração média de 10 segundos. Um minuto, portanto, equivale a 10 Rodadas.
+O custo em Ações estará detalhado em cada Habilidade. Uma Rodada é a junção dos Turnos de todos os jogadores e inimigos, quando o último jogador ou inimigo terminar seu Turno, a Rodada acaba e outra começa. Dentro da mística do jogo, todos os Turnos acontecem ao mesmo tempo. Isso significa que a rodada também tem duração média de 10 segundos. Um minuto, portanto, equivale a 6 Rodadas.
 
 Se em algum lugar é dito que a duração de um efeito é de uma Rodada, isso significa que o efeito estará em vigor até que a Rodada atual acabe. Isso dá uma vantagem grande para aqueles no topo da Iniciativa.
 
@@ -33,7 +33,7 @@ Ataques são definidos por tentativas de uma criatura de causar dano a outra sem
 
 Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o bônus especificado em seu Ataque para realizar esse Teste. Normalmente está descrição da Arma equipada para Atacar. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
 
-## Penalidade de Ações
+## Penalidade de Ataques
 
 É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, Atacar múltiplas vezes no seu Turno, ele sofrerá Penalidades. Por exemplo: se você Atacar na primeira Ação, e queira Atacar de novo, terá -5 na segunda rolagem. Caso Ataque três vezes seguidas, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidades de Ataque".
 

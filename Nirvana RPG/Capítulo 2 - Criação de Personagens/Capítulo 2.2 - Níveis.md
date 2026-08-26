@@ -59,7 +59,7 @@ Caso seu Modificador de Constituição ou Sabedoria aumente em Níveis futuros, 
 
 ## Pontos de Atributo e Habilidade
 
-Você receberá Pontos de Atributo e Pontos de Habilidade para utilizarem da maneira que quiser, seguindo a tabela a seguir:
+Você receberá Pontos de Atributo e Pontos de Habilidade para utilizar da maneira que quiser, seguindo a tabela a seguir:
 
 | Nível Novo Alcançado | Pontos Ganhos |
 | -------------------- | ------------- |

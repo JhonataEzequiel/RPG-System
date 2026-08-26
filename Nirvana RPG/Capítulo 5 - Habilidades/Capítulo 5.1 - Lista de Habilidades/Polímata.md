@@ -53,6 +53,6 @@ Sempre que não estiver em uma zona urbana você pode adicionar o seu Nível de 
 
 **Requisitos**: 10 de Sabedoria, 10 de Fé, e 5 de Inteligência.
 
-Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 Magia da sua lista de Magia. Ela não custará mais Mana para ser conjurada, e também não terá mais Pré-Requisitos. Além disso, você ganha 1 Ponto de Atributo e 1 Ponto de Habilidade.
+Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 Magia da sua Lista de Magias. Ela não custará mais Mana para ser conjurada, e também não terá mais Pré-Requisitos. Além disso, você ganha 1 Ponto de Atributo e 1 Ponto de Habilidade.
 
 Alternativamente, você pode realocar os seus Atributos da maneira que quiser. Também pode trocar a Raça do seu personagem, além da aparência dele. Isto só pode ser feito uma vez. Fazendo isso, você cessará sua conexão com uma divindade ou patrono, caso tenha algum. Você mantém seus Níveis, mas pode escolher novas Habilidades e Magias. No entanto, não pode trocar as Perícias. Você não recupera os pontos gastos nesta Habilidade.

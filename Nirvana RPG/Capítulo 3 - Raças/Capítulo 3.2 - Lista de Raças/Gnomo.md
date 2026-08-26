@@ -5,8 +5,8 @@ Existem dois tipos de Gnomos, os Feéricos e os da Natureza. Além de suas habil
 
 **Proteção das Fadas** (Passiva): Os Gnomos Feéricos possuem uma barreira mágica que os protege, a qual os acompanha durante todo o tempo e é desfeita após receber dano. Os efeitos variam dependendo da fonte do dano:
 
-- **Ataques Diretos:** Tentativas de Ataque sofrem uma penalidade de -3 para acertar. Caso obtenham sucesso, causam metade do dano. A proteção é desfeita somente quando o ataque acertar.
-- **Outras Fontes de Dano** (como magias de dano): A proteção é desfeita imediatamente, e você recebe o dano normalmente. No entanto, antes de receber o dano, você ganha seu Nível + 10 como Pontos de Vida Temporários. Esses Pontos de Vida Temporários desaparecem no início do seu próximo Turno.
+- **Ataques Diretos:** Tentativas de Ataque sofrem uma penalidade de -3 para acertar. Caso obtenham sucesso, causam metade do dano. A proteção é desfeita somente quando o Ataque acertar.
+- **Outras Fontes de Dano** (como Magias de dano): A proteção é desfeita imediatamente, e você recebe o dano normalmente. No entanto, antes de receber o dano, você ganha seu Nível + 10 como Pontos de Vida Temporários. Esses Pontos de Vida Temporários desaparecem no início do seu próximo Turno.
 
 A Habilidade é automática e independe de você querer usá-la ou não. No entanto, é possível desativá-la caso você deseje. Neste caso, a Habilidade só poderá ser ativada novamente após um Descanso Curto ou Longo. Naturalmente, ela recupera com Descanso Longo.
 
@@ -16,5 +16,5 @@ O Gnomo da Natureza pode se comunicar com os espíritos ao seu redor, sendo capa
 
 **Espíritos da Floresta** (Ação Bônus): O Gnomo pode alternar entre as 2 formas com uma Ação Bônus no final de seu Turno. Os Gnomos da Natureza podem desativar ambas as formas com uma ação livre, voltando a um estado neutro aonde nenhuma das duas está ativada.
 
-- **Primeira Forma**: Cascas de árvore crescem em seus antebraços, formando um escudo. Enquanto na Primeira Forma, você possui o equivalente a um Escudo com escala S em um Atributo à sua escolha. Uma vez feita essa escolha, você pode refazê-la no Nível 10, se assim desejar, mas não pode mais voltar atrás após isso. No Nível 12, o Escudo ganha uma escala B em outro Atributo, à sua escolha. Os Pontos de Vida Máximos garantidos pelo Escudo são perdidos ao sair da Primeira Forma.
+- **Primeira Forma**: Cascas de árvore crescem em seus antebraços, formando um escudo. Enquanto na Primeira Forma, você possui o equivalente a um Escudo com Escala S em um Atributo à sua escolha. Uma vez feita essa escolha, você pode refazê-la no Nível 10, se assim desejar, mas não pode mais voltar atrás após isso. No Nível 12, o Escudo ganha uma Escala B em outro Atributo, à sua escolha. Os Pontos de Vida Máximos garantidos pelo Escudo são perdidos ao sair da Primeira Forma.
 - **Segunda Forma**: Seu corpo absorve energia da natureza que te concede um aumento no Deslocamento de 3m. Ganha bônus em Testes de Ataque, tanto para acertar, quanto para dar dano. Caso você utilize uma Magia de Dano nessa forma, o dano da Magia também aumentará. O bônus para acertar um Ataque será seu Nível dividido por 4, com um mínimo de 1. O bônus de dano será metade do seu Nível + 2.
