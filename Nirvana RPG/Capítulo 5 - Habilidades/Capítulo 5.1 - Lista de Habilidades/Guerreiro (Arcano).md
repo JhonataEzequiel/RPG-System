@@ -31,6 +31,14 @@ Ao ser atingido por um Ataque Desarmado, ou um Ataque de criatura que entra em c
 
 Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te atingiu até o fim do Encontro. Esse número aumenta para 2d4 quando você tiver 10 de Constituição, ou Inteligência, ou Sabedoria.
 
+## Um Com os Céus (Custo 2)
+
+**Requisitos:** Sua Arma é capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
+
+Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
+
+Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer Imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o Atributo de Destreza na Iniciativa ao invés do Modificador sempre que o utilizar para acertar Ataques ou causar dano. Além disso, tem uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
+
 ## Mãos Espectrais (Custo 2)
 
 **Requisitos**: 3 de Força ou Destreza. 3 de Inteligência. Só pode ser usada caso ambas as mãos não estejam com nada equipado, nem mesmo Armas de Punho.
@@ -46,6 +54,16 @@ Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te 
 - **Neutras**: A cor neutra é a cor padrão das mãos, sendo um branco um pouco acinzentado. Você tem +100 kg de Capacidade de Carga. Se as mãos espectrais estiverem carregando algo, você não poderá Atacar com elas.
 - **Vermelhas:** Possuem garras grandes, e a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 2d8 de Dano de Fogo. Caso o acerto for Crítico, o dano tem efeito em uma área de 4.5m de raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
 - **Azuis**: São capazes de conjurar uma bola de energia com alcance igual a distância de Ataque das mãos ao custo de Duas Ações e 3 de Mana, que causa 3d8 + Int de Dano de Raio, além de causar Dano Contínuo até o fim do Encontro caso o inimigo falhe em um Teste de Destreza CD 10 + Inteligência, que será 1d4 de Raio. O Dano Contínuo não é cumulativo.
+
+## Um Com a Terra (Custo 3)
+
+**Requisitos**: Habilidade “Um com os céus” de Custo 2. 10 de Destreza e 10 de Fé.
+
+Você agora se conecta com a natureza. Percebe o ciclo interminável de vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre.
+
+Qualquer Dano Cortante que você cause agora recebe um adicional de 3d8 + Fth de Dano Radiante. Além disso, qualquer cura que você receber agora cura o dobro, seja de Vida ou Mana. 
+
+**Rejuvenescer** (Duas Ações): Você pode utilizar seu Dado de Vida para se curar a qualquer momento, uma vez por Descanso Longo. A cura também é dobrada, mas só se estiver fora de combate.
 
 ## Respiração (Custo 3)
 

@@ -31,17 +31,17 @@ Ao atingir o Nível 8 em Força ou Destreza, o dano de Itens Arremessáveis aume
 
 A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não pode ser desfeita.
 
+## Causticomancia (Custo 1)
+
+**Requisitos**: 2 de Inteligência.
+
+Você adiciona 1d8 de Dano Ácido a todos os seus Ataques. Você pode escolher desativar essa Habilidade com uma Ação Livre, e reativá-la sempre que quiser.
+
 ## Bomba Benéfica (Custo 1)
 
 **Requisitos**: 1 de Destreza ou Força.
 
 Você agora pode arremessar Poções, que caem em um local, afetando uma área circular de 3m de raio. Poções de Restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 Pontos de Vida. Outras Poções são de alvo único, e a duração delas é de uma Rodada, mesmo que na descrição o item diga que é maior.
-
-## Causticomante (Custo 1)
-
-**Requisitos**: 3 de Inteligência.
-
-Você adiciona 1d8 de Dano Ácido a todos os seus Ataques. Você pode escolher desativar essa Habilidade com uma Ação Livre, e reativá-la sempre que quiser.
 
 ## Alquimista Iniciante (Custo 1)
 
@@ -55,18 +55,28 @@ Seus Itens Arremessáveis que causam dano agora possuem Escalas similar as Armas
 
 Você escolhe se as Escalas serão em Força, Destreza, ou em ambos os Atributos. Inicialmente, as Escalas serão D em ambos. Ao atingir o Nível 3 de personagem, elas sobem para C. No Nível 6, B. No Nível 12, A. E no Nível 17, S.
 
+## Corroer Defesas (Custo 2)
+
+**Requisitos**: 4 de Inteligência.
+
+Sempre que você diminuir a CA de um alvo através de Dano Ácido, diminua ela em 1 ponto a mais. Alvos que não possuem Armadura de metal também tem sua CA diminuída sempre que uma instância de Dano Ácido puder diminuir a CA.
+
+## Químico Destruidor (Custo 2)
+
+**Requisitos**: Habilidade "Alquimista Iniciante" de Custo 1. 4 de Inteligência.
+**Custo**: Uma Ação.
+**Alcance**: Toque.
+
+Você consegue coletar materiais do ambiente ao longo do dia naturalmente, desde que não esteja com nenhum Nível de Exaustão. Ao ter um Descanso Longo, esses materiais são utilizados para criar uma nova Resina, a Resina Ácida. Ao aplicar em uma Armadura, independente do material, ela começará a derreter. Você diminui 1 na CA do alvo ao final de cada um de seus Turnos, até um máximo de 5.
+
+Para aplicar a Resina você precisará passar por uma Salvaguarda de Destreza CD 15 - Int. Em caso de falha, você fica sujeito a um Ataque de Oportunidade.
+
 ## Peçonha Instantânea (Custo 2)
 
 **Requisitos** O alvo do Ataque precisa estar Envenenado.
 **Custo**: Três Ações, 5 de Mana.
 
 Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a Condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso. Para esta Habilidade ter efeito, a Duração restante do Veneno terá que ser de, pelo menos, 3 Rodadas. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por essa Habilidade.
-
-## Corroer Defesas (Custo 2)
-
-**Requisitos**: 4 de Inteligência.
-
-Sempre que você diminuir a CA de um alvo através de Dano Ácido, diminua ela em 1 ponto a mais. Alvos que não possuem Armadura de metal também tem sua CA diminuída sempre que uma instância de Dano Ácido puder diminuir a CA.
 
 ## Alquimista Supremo (Custo 3)
 
@@ -97,8 +107,14 @@ Os seus Venenos criados causam o dobro de dano, mas suas Poções de Cura criada
 
 ## Enxofre (Custo 3)
 
-**Requisitos**: Habilidade "Corroer Defesas" de Custo 2. 7 de Inteligência, 1 de Constituição.
+**Requisitos**: Habilidade "Corroer Defesas" de Custo 2. 8 de Inteligência.
 
 O seu Dano Ácido agora tem as propriedades modificadas, ficando muito mais poderoso. Sempre que causar Dano Ácido, metade do dano será Dano Verdadeiro, e a outra metade, Dano Ácido.
 
 Seu corpo também se torna particularmente resistente a efeitos negativos advindos de substâncias perigosas. Você tem +10 de Resistência a Dano Ácido e Dano Venenoso.
+
+## Químico Radioativo (Custo 3)
+
+**Requisitos**: Habilidade "Químico Destruidor" de Custo 2. 10 de Inteligência.
+
+O limite de CA diminuída aumenta para 7, e você também pode passar a Resina Ácida em Armas dos seus oponentes. Ao fazer isso, você diminui o dano causado por ele com aquela Arma em 3d8 + Int.

@@ -161,7 +161,7 @@ Trio da Mana: 9 de Fé, 9 de Inteligência, 9 de Carisma. Imaculada.
 
 Éden: 10 de Carisma ou Fé. Sagrada.
 
-Alterar Forma: 10 de Carisma. Imaculada.
+Alterar Forma: 10 de Carisma. Sagrada.
 
 Sumir: 10 de Inteligência ou Carisma. Ilusão.
 

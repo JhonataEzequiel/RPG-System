@@ -51,7 +51,7 @@ Esquentar Metal: 1 de Inteligência. Elemental.
 
 Leitura Dinâmica: 1 de Inteligência. Imaculada.
 
-Campo Anti-magia: 8 de Inteligência. Imaculada.
+Campo Anti-Magia: 8 de Inteligência. Imaculada.
 
 Orbe Negro: 1 de Inteligência, 1 de Fé. Sortilégio.
 
@@ -78,6 +78,8 @@ Mísseis Mágicos: 1 de Inteligência. Imaculada.
 Tormenta Carmesim: 1 de Inteligência, 1 de Fé. Sangue.
 
 Garras de Sangue: 1 de Inteligência, 1 de Fé. Sangue.
+
+Jato Ácido: 1 de Inteligência. Elemental.
 
 ### Custo 2:
 
@@ -134,6 +136,8 @@ Esfera de Espinhos: 3 de Inteligência, 3 de Fé. Sangue.
 Bombear: 3 de Inteligência, 3 de Fé. Sangue.
 
 Golem Zumbi: 3 de Inteligência, 3 de Fé. Sortilégio.
+
+Lâmina Corrosiva: 3 de Inteligência. Elemental.
 
 ### Custo 4:
 

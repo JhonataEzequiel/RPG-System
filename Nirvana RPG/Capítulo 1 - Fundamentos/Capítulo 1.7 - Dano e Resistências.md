@@ -3,6 +3,8 @@ Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo 
 
 Inimigos e Armaduras normalmente tem Resistências diferentes aos tipos de dano. Um monstro que vive num local gelado, como o pico de uma montanha, pode ter alguma Resistência a Dano de Gelo, por exemplo. As Resistências reduzem o dano em uma quantia especificada. Já as Fraquezas são o contrário das Resistências, fazendo com que o inimigo sofra mais dano de acordo com a Fraqueza especificada. Se algum personagem consegue causar mais de um tipo de dano ao mesmo tempo, as Resistências e Vulnerabilidades deverão ser aplicadas apenas ao tipo de dano específico delas. Por exemplo, se o Ataque causar 1d8 de Dano de Impacto e 1d8 de Dano de Fogo, e quem for atingido tiver Resistência a Dano de Fogo, a Resistência vai se aplicar apenas ao Dano de Fogo, portanto o inimigo sofrerá menos Dano de Fogo e sofrerá o Dano de Impacto totalmente.
 
+Nenhum dano pode ser inferior a 0.
+
 ## Dano Contínuo
 
 Pode haver casos em que um dano persistirá por um tempo especificado. Tais casos serão chamados de “Dano Contínuo”, e continuarão até o efeito acabar. No início de cada Turno de quem sofreu o Dano Continuo, ele receberá a quantidade de dano especificada na descrição do Ataque ou Magia. Além disso, ao ser afetado por Dano Contínuo o alvo recebe imediatamente uma instância do dano.

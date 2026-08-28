@@ -45,3 +45,15 @@ Ao conjurar essa Magia, você não pode usar Magias até ter um Descanso Longo. 
 | Item Mágico Grau 1 | 1 hora           |
 | Item Mágico Grau 2 | 24 horas         |
 | Item Mágico Grau 3 | 72 horas         |
+
+### Alterar Forma
+
+- Requisito em Carisma: 10
+- Requisitos Adicionais: Ter visto uma criatura do mesmo tipo que você irá se transformar, e de um Nível igual ou menor ao do seu personagem
+- Duração: 1 hora
+- Alcance: Toque
+- Tempo de Conjuração: Duas Ações
+
+**Descrição:** Você se transforma em uma criatura que já tenha visto, substituindo suas Habilidades e Atributos pelos da criatura, assim como seus Pontos de Vida e Magias. Caso você tenha sido ferido em batalha, seus Pontos de Vida se tornam iguais aos da criatura, mas quando voltar a forma original, eles voltarão ao que eram antes de se transformar. Se for morto enquanto criatura, você irá reverter a transformação e ser Nocauteado. Os Atributos de Inteligência, Sabedoria, Carisma, e Fé serão os maiores entre os seus e os da criatura.
+
+Em resumo, você jogará com a ficha da criatura escolhida até a Magia se desfazer ou você for derrotado.

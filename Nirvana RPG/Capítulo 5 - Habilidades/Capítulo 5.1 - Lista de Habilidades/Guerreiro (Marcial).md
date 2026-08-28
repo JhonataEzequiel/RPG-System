@@ -5,9 +5,9 @@ O Arquétipo do Guerreiro Marcial contém Habilidades relacionadas ao combate f�
 
 **Requisitos**: 2 de Destreza.
 **Duração**: 1 Rodada.
-**Custo**: 1 de Mana.
+**Custo**: Duas Ações, 1 de Mana.
 
-Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você abdica das três Ações de seu Turno para ser capaz de usar três Reações nessa Rodada. Os inimigos tem -5 para te acertar enquanto esta Habilidade estiver ativa. Caso errem, você pode realizar uma Ação de Ataque com +2 de bônus. Você não sofre Penalidades de Ataque enquanto a Habilidade durar.
+Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você encerra seu Turno para ser capaz de usar três Reações nessa Rodada. Os inimigos tem -5 para te acertar enquanto esta Habilidade estiver ativa. Caso errem, você tem um Ataque de Oportunidade com Vantagem. Você não sofre Penalidades de Ataque enquanto a Habilidade durar.
 
 ## Ataque Carregado (Custo 1)
 
@@ -19,7 +19,7 @@ Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais 
 
 **Requisitos**: 3 de Força ou 3 de Destreza.
 
-Você pode realizar dois Ataques seguidos sem se preocupar com a primeira penalidade. Ou seja, o segundo Ataque não receberá a penalidade de -5 para atacar. Por conseguinte, o terceiro Ataque terá uma penalidade de -5, e não de -10.
+Você pode realizar dois Ataques seguidos sem se preocupar com a primeira Penalidade de Ataques. Ou seja, o segundo Ataque não receberá a penalidade de -5 para atacar. Por conseguinte, o terceiro Ataque terá uma penalidade de -5, e não de -10.
 
 ## Pressa de Batalha (Custo 1)
 
@@ -32,25 +32,17 @@ Caso você acumule +7 de bônus em um único Encontro, em três Encontros difere
 ## Mente Calma (Custo 1)
 
 **Requisitos**: 3 de Sabedoria
-**Duração**: 3 Rodadas.
-**Custo**: Uma Ação.
+**Duração**: 1 Encontro.
+**Custo**: Duas Ações.
 
-Você se concentra, aumentando seus reflexos e ferocidade por um tempo. Você se cura da Condição Amedrontado, sua CA aumenta em 1 ponto, e você tem +1 para acertar Ataques.
+Você se concentra, aumentando seus reflexos e ferocidade por um tempo. Você se cura da Condição Amedrontado, sua CA aumenta em 1 ponto, e você tem +1 para acertar Ataques. Esse bônus é cumulativo. Você pode optar por gastar 1 Ponto de Mana e uma Ação ao invés de duas Ações para usar essa Habilidade.
 
 ## Ataque Afortunado (Custo 1)
 
-**Requisitos**: 3 de Força, 3 de Destreza.
-**Custo**: Reação.
+**Requisitos**: Habilidade de Afortunado "Sorte" de Custo 1. 3 de Força, 3 de Destreza.
+**Custo**: Reação, 5 de Mana.
 
-Você agora possuirá Vantagem em um Ataque que desejar. Alternativamente, você pode adicionar metade do seu Nível em um Ataque como Dano Físico, com mínimo de 1 de dano adicional, se sua Arma causar Dano Físico. O tipo de Dano Físico adicional será de um dos tipos possíveis da Arma. Você pode usar essa Habilidade uma vez por Encontro. 
-
-## Afiação (Custo 1)
-
-**Requisitos**: Você empunha uma Arma Comum, Leve, ou de Empunhadura Dupla capaz de causar Dano Físico.
-**Custo**: Três Ações.
-**Duração**: Um Encontro.
-
-Você afia sua lâmina, a deixando mais letal. Essa Habilidade deve ser usada em seu primeiro Turno em um Encontro. Adicione um Modificador à sua escolha a todo dano causado pela sua Arma, desde que esse Modificador já não seja utilizado pela Arma em questão. Sua Margem de Ameaça também aumenta em 1 ponto.
+Você gasta um de seus usos do Modificador de Sorte para garantir um Crítico em um Ataque de um alvo no alcance do seu Deslocamento. Você também pode ser alvo dessa Habilidade, perdendo sua Reação para utilizá-la.
 
 ## Inércia (Custo 1)
 
@@ -62,7 +54,7 @@ Você agora não pode realizar mais do que um Ataque por Turno. Além disso, voc
 
 **Requisitos**: 2 de Força ou 2 de Destreza.
 
-Você pode sacrificar uma de suas Ações neste Turno para ganhar +2 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 1d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque. Você também pode sacrificar duas Ações para obter ambos os bônus.
+Você pode sacrificar uma de suas Ações neste Turno para ganhar +3 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 2d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque. Você também pode sacrificar duas Ações para obter ambos os bônus.
 
 ## Infiltrador (Custo 1)
 
@@ -72,39 +64,37 @@ Seus Ataques ignoram Resistências a Dano Físico no primeiro de seus Turnos em 
 
 ## Golpe Duplo (Custo 2)
 
-**Requisitos**: 2 de Destreza ou 2 de Força.
+**Requisitos**: 4 de Destreza ou 4 de Força.
 **Custo**: Ação Livre.
 
-Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque conta como um Ataque normal, sendo afetado por efeitos que afetem os Ataques.
+Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque conta como um Ataque normal, sendo afetado por efeitos que afetem os Ataques, assim como quaisquer bônus disponíveis, mas não conta para a Penalidade de Ataques.
 
 ## Dilacerar (Custo 2)
 
 **Requisitos**: 4 de Força.
 **Custo**: Reação, 2 de Mana.
 
-Ao acertar três Ataques em um único alvo em um só Turno, você pode forçar o alvo a passar por um Teste de Resistência de Constituição CD 12 + For. O dano residual dos ataques se acumulam, e o alvo tem a Condição Sangrando 1. Ao utilizar essa Habilidade novamente num mesmo alvo, o nível do sangramento aumenta em 1.
+Ao acertar três Ataques em um único alvo em um só Turno, você pode forçar o alvo a passar por um Teste de Resistência de Constituição CD 12 + For. O dano residual dos ataques se acumulam, e o alvo tem a Condição Sangrando 1 em caso de falha. Ao utilizar essa Habilidade novamente num mesmo alvo, o Nível do Sangramento aumenta em 1.
 
 ## Nove Vidas (Custo 2)
 
 **Requisitos**: 5 de Destreza.
 **Custo**: Ação Bônus.
 
-Até o início do seu próximo turno você não pode se utilizar de reações, ações de movimento (andar, correr, etc), e ações livres (falar, soltar um objeto, etc), e sua CA diminui em 2 pontos (mínimo de 0). Fazendo isso, você terá mais três ações neste turno. Ademais, você se concentra e recupera o fôlego durante o combate, curando-se em 1d6 + con.
+Até o início do seu próximo Turno você não pode se utilizar de Reações, Ações de Movimento, e Ações Livres, e sua CA diminui em 2 pontos. Fazendo isso, você terá mais três Ações neste Turno. Ademais, você se concentra e recupera o fôlego durante o combate, curando-se em 1d6 + Con.
 
-Você pode, alternativamente, só se curar ao invés de utilizar essa habilidade por completo. Fazendo isso você encerra seu turno, mas não sofre mais restrições de quais ações você pode ou não fazer. A cura também aumenta para 3d4 + con. Você ainda sofre a penalidade na CA até o início do seu próximo turno.
+Você pode, alternativamente, só se curar ao invés de utilizar essa Habilidade por completo. Fazendo isso você encerra seu Turno, mas não sofre mais restrições de quais ações você pode ou não fazer. A cura também aumenta para 3d4 + Con.
 
 ## Risco e Recompensa (Custo 2)
 
-**Custo**: Ação Bônus.
-
-Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 3d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual ao da Arma que você utilizar.
+Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 3d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual a um dos tipos da Arma que você utilizar.
 
 ## Rajada de Estocadas (Custo 2)
 
-**Requisitos:** Você é capaz de causar Dano Perfurante.
-**Custo:** Duas Ações.
+**Requisitos:** Sua Arma é capaz de causar Dano Perfurante.
+**Custo:** Duas Ações, 1 de Mana.
 
-Esta Ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu Bônus de Proficiência ao dano. O alvo ficará Caído caso falhe num Teste de Resistência de Constituição CD 15 + um Modificador à sua Escolha entre Força e Destreza.
+Esta Ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu Bônus de Proficiência ao dano, sendo o dano adicionado um dos tipos capazes de serem causados pela sua Arma. O alvo ficará Caído caso falhe num Teste de Resistência de Constituição CD 15 + um Modificador à sua Escolha entre Força e Destreza.
 
 ## Estilo de Luta (Custo 2)
 
@@ -118,39 +108,19 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 
 **Leveza**: Você pode utilizar Armas Comuns como se fossem Armas Leves.
 
-**Empunhadura Única**: O bônus de dano ao utilizar uma Arma Comum ou Leve em duas mãos aumenta de 1d4 para 2d4.
+**Empunhadura Única**: O bônus de dano ao utilizar uma Arma Comum ou Leve em duas mãos aumenta de 1d4 para 2d8.
 
 **Posição de Poder**: Armas de Empunhadura Dupla agora podem ser utilizadas como Armas Comuns.
 
 ## Golpe Triplo (Custo 2)
 
 **Requisitos:** Habilidade "Golpe Duplo" de Custo 2.
-**Custo**: Ação Livre.
-
-Esta Habilidade só pode ser usada após utilizar a Habilidade "Golpe Duplo".
+**Custo**: Ação Livre, 3 de Mana.
 
 Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo.
-
-## Um Com os Céus (Custo 2)
-
-**Requisitos:** ser capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
-
-Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
-
-Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer Imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o Atributo de Destreza na Iniciativa ao invés do Modificador sempre que o utilizar para acertar Ataques ou causar dano. Além disso, tem uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
 
 ## Ataque Extra Aprimorado (Custo 3)
 
 **Requisitos:** Habilidade "Ataque Extra" de Custo 1. 8 de Força ou 8 de Destreza.
 
 Você não sofre mais Penalidades de Ataques, e sua Margem de Ameaça é aumentada em 1 ponto.
-
-## Um Com a Terra (Custo 3)
-
-**Requisitos**: Habilidade “Um com os céus” de Custo 2. 10 de Destreza e 10 de Fé.
-
-Você agora se conecta com a natureza. Percebe o ciclo interminável de vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre.
-
-Qualquer dano cortante que você cause agora recebe um adicional de 3d8 + Fth de Dano Radiante. Além disso, qualquer cura que você receber agora cura o dobro, seja de Vida ou Mana. 
-
-**Rejuvenescer** (Duas Ações): Você pode utilizar seu Dado de Vida para se curar a qualquer momento, uma vez por Descanso Longo. A cura também é dobrada, mas só se estiver fora de combate.

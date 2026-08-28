@@ -16,6 +16,12 @@ Você pode forjar qualquer Arma ou Armadura não-mágica ou única da lista de i
 
 Sua Capacidade de Carga agora é aumentada em dez vezes o seu Bônus de Proficiência em quilos.
 
+## Afiação (Custo 1)
+
+**Requisitos**: Você possui uma Pedra de Amolar.
+
+Ao afiar uma lâmina, sua Margem de Ameaça aumentará em 2 pontos. Esse bônus não é cumulativo.
+
 ## Ferraria Intermediária (Custo 2)
 
 **Requisitos**: Habilidade "Ferraria" de Custo 1. 4 de Sabedoria, 1 de Inteligência.
