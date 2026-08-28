@@ -106,11 +106,11 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 
 * **Aparar** (Reação): Você levanta seu escudo na hora em que um Ataque iria te acertar, e impõe Desvantagem nele. Caso o Ataque erre, você pode realizar um Ataque. Se acertar, você causa 1d8 de dano extra de um dos tipos que seu Ataque seja capaz de causar. Se você tirar um Acerto Crítico no Ataque ou a criatura que te atacou inicialmente tirar um Erro Crítico, você não gasta sua Reação nesta Rodada.
 
-**Leveza**: Você pode utilizar Armas Comuns como se fossem Armas Leves.
+**Leveza**: Você pode utilizar Armas Comuns como se fossem Armas Leves, ou seja, não terá mais a penalidade de -3 para Atacar com duas Armas Comuns ao mesmo tempo. Você também se beneficiará de quaisquer Habilidades e efeitos exclusivos de Armas Leves, mantendo também os de Armas Comuns.
 
 **Empunhadura Única**: O bônus de dano ao utilizar uma Arma Comum ou Leve em duas mãos aumenta de 1d4 para 2d8.
 
-**Posição de Poder**: Armas de Empunhadura Dupla agora podem ser utilizadas como Armas Comuns.
+**Posição de Poder**: Armas de Empunhadura Dupla agora podem ser utilizadas como Armas Comuns, ou seja, poderá utilizar duas Armas de Empunhadura Dupla ao mesmo tempo com a penalidade de -3 para acertar. Você também se beneficiará de quaisquer Habilidades e efeitos exclusivos de Armas Comuns, mantendo também os de Armas de Empunhadura Dupla.
 
 ## Golpe Triplo (Custo 2)
 

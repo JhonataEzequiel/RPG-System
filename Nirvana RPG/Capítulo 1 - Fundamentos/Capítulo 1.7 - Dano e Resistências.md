@@ -5,6 +5,10 @@ Inimigos e Armaduras normalmente tem Resistências diferentes aos tipos de dano.
 
 Nenhum dano pode ser inferior a 0.
 
+## Imunidades
+
+Ser Imune a um determinado tipo de dano ou característica te faz não mais ser afetado por quaisquer efeitos que aquilo possa causar. Existem alguns casos em que Imunidades são ignoradas, mas são raros.
+
 ## Dano Contínuo
 
 Pode haver casos em que um dano persistirá por um tempo especificado. Tais casos serão chamados de “Dano Contínuo”, e continuarão até o efeito acabar. No início de cada Turno de quem sofreu o Dano Continuo, ele receberá a quantidade de dano especificada na descrição do Ataque ou Magia. Além disso, ao ser afetado por Dano Contínuo o alvo recebe imediatamente uma instância do dano.

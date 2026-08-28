@@ -1,13 +1,11 @@
 
 O Arquétipo do Mago conterá Habilidades que beneficiarão usuários de Magias de forma geral.
 
-## Lei Universal (Custo 1)
+## Historiador Curioso (Custo 1)
 
-**Requisitos**: Ser Perito em História.
+**Requisitos**: 1 de Inteligência. Ser Perito em História.
 
-Você tem facilidade em entender culturas diferentes da sua. Você pode dedicar 3 dias em um novo local aonde você chegue que tenha pessoas morando, como uma vila ou cidade. Você passa esse tempo estudando o local e se aperfeiçoando. Após isso, enquanto estiver dentro da cidade, seu Bônus de Proficiência é acrescido de 3, mas apenas para Testes de Sabedoria, Inteligência, Fé, ou Carisma. Isto incluí Perícias, Salvaguardas, e outros Testes genéricos.
-
-Você pode interagir com outros personagens, fazer compras, visitar locais, mas não poderá entrar em combate neste meio tempo.
+Sempre que estiver em um local nunca antes visitado, você terá Vantagem no primeiro Teste de História que realizar. Além disso, você terá +1 de Percepção em locais escuros e cavernosos, como masmorras e ruínas.
 
 ## Recuperação Arcana (Custo 1)
 
@@ -33,7 +31,7 @@ A cada três Magias que você anotar no seu Grimório, adicione 1d4 Pontos de Ma
 
 **Requisitos**: 1 de Carisma, Inteligência, ou Fé.
 
-Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar imune. Além disso, pode gastar 1 Ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados imunes também. Caso uma Magia especificamente mencione que seus aliados também serão afetados, ou que você também será, o efeito desta Habilidade é anulado.
+Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna Imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar Imune. Além disso, pode gastar 1 Ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados Imunes também. Caso uma Magia especificamente mencione que seus aliados também serão afetados, ou que você também será, o efeito desta Habilidade é anulado para a Magia em si.
 
 ## Fluir da Mana (Custo 1)
 
@@ -45,16 +43,18 @@ Quando tiver um Descanso Curto e for recuperar Mana utilizando seu Dado de Mana,
 
 **Requisitos**: Você deve possuir um Grimório. 4 de Inteligência.
 
-Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprimorada. Você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas farão parte das suas Magias Conhecidas, acrescentando o número de Magias Conhecidas em 2. As Magias escolhidas são apagadas do Grimório, abrindo margem para novas. Caso você não tenha nenhuma Magia no seu Grimório no momento em que adquirir essa Habilidade, você pode retirar as Magias do Grimório ao ter um Descanso Longo. Você pode pegar essa Habilidade mais de uma vez.
+Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprimorada. Você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas farão parte das suas Magias Conhecidas, acrescentando o número de Magias Conhecidas em 2. 
+
+As Magias escolhidas são apagadas do Grimório, abrindo margem para novas. O seu Grimório deve possuir ao menos 4 Magias anotadas para você poder utilizar essa Habilidade. Você pode pegar essa Habilidade mais de uma vez.
 
 ## Refazer (Custo 1)
 
-Você pode trocar uma Magia das suas Magias Conhecidas. Essa Habilidade pode ser pega mais de uma vez. Cada vez que pegar essa Habilidade a quantidade de Magias que você poderá trocar aumentará em 1.
+Você pode trocar uma Magia das suas Magias Conhecidas. Essa Habilidade pode ser pega mais de uma vez. Cada vez que pegar essa Habilidade a quantidade de Magias que você poderá trocar aumentará em 2.
 
 ## Transferência Arcana (Custo 1)
 
 **Requisitos**: 2 de Sabedoria.
-**Custo**: Metade da sua Mana atual. Uma Ação.
+**Custo**: Uma Ação, metade da sua Mana Atual.
 
 Você consegue extrair uma pequena esfera de Mana do seu corpo, composta por metade da sua Mana atual. Ela é azulada, e não é tangível, mas segue o movimento de suas mãos. Ao encostar essa esfera em uma criatura alvo no alcance do seu Deslocamento ela a absorve, recebendo a Mana extraída.
 
@@ -68,7 +68,7 @@ Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá q
 
 **Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 10 de Inteligência.
 
-Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora custam apenas uma Ação Bônus.
+Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora custam apenas uma Ação Bônus. Os que custarem duas ou três Ações agora custarão uma Ação a menos.
 
 ## Arcano Aprimorado (Custo 2)
 
@@ -89,8 +89,8 @@ Você pode, de maneira permanente, trocar Pontos de Mana por Magias Conhecidas a
 | 6                          | 4-5            |
 | 8                          | 6-7            |
 | 12                         | 8-9            |
-| 14                         | 10             |
-Alternativamente você pode reduzir os Requisitos de uma Magia. Para cada Ponto de Mana gasto, você reduz o Requisito em 1 ponto de algum Atributo.
+| 15                         | 10             |
+Alternativamente você pode reduzir os Requisitos de uma Magia. Para cada Ponto de Mana gasto, você reduz o requisito em 1 ponto de algum Atributo. Isso permite que você conheça novas Magias as quais você reduziu os requisitos o suficiente. Você não precisa conhecer uma Magia a priori para reduzir os requisitos dela;
 
 Você dever efetuar suas escolhas no momento em que adquirir esta Habilidade, e elas são irreversíveis. Essa Habilidade pode ser pega múltiplas vezes.
 
@@ -104,7 +104,7 @@ Você foi capaz de treinar seus olhos para enxergar muito além do comum. Magias
 
 **Requisitos**: 1 de Sabedoria. 4 de Inteligência.
 
-Você só pode recuperar Mana com Descansos Longos, abdicando de quaisquer outros meios, incluindo poções ou outras Habilidades. Em troca, Magias de custo 1 e 2 são consideradas Arcanos Menores, e não custam mais Mana.
+Você só pode recuperar Mana com Descansos Longos, abdicando de quaisquer outros meios, incluindo Poções ou outras Habilidades. Em troca, Magias de custo 1 e 2 são consideradas Arcanos Menores, e não custam mais Mana.
 
 ## Preparação Arcana (Custo 2)
 
@@ -122,7 +122,7 @@ Descansos Curtos agora recuperam toda a sua Mana. Além disso, você conhece uma
 
 **Requisitos**: 3 de Sabedoria, 5 de Inteligência.
 
-Você tem 4d8 a mais de Mana permanentemente. No entanto, Magias da Lista de Magias que custem 7 ou mais custam o dobro. Ainda que você tenha diminuído o custo delas anteriormente, elas custarão o dobro do novo custo. Por exemplo, se uma Magia originalmente custava 8, você diminuiu o custo dela para 6, agora ela custará 12.
+Você tem 4d8 a mais de Mana permanentemente. No entanto, Magias da Lista de Magias que custem 7 ou mais custam o dobro. Ainda que você tenha diminuído o custo delas anteriormente, elas custarão o dobro do novo custo. Por exemplo, se uma Magia originalmente custava 8, você diminuiu o custo dela para 6, agora ela custará 12. Diminuição de custo de Magias é possível através de outras Habilidades. Se você diminuir o custo de uma Magia após o custo dela ter sido dobrado, você não diminuirá o custo duas vezes.
 
 ## Bibliotecário (Custo 3)
 
@@ -140,7 +140,7 @@ Quando você tiver um Descanso Longo, escolha uma Habilidade, Magia, ou efeito q
 
 **Requisitos**: 8 de Inteligência, 2 de Sabedoria.
 
-Sempre que você falar o nome de uma Magia antes de utilizá-la, adicione +1 na CD para evitar quaisquer efeitos negativos da Magia. Esse valor aumenta em +2 caso você conjure apenas esta Magia durante seu Turno, e não faça mais nada. Isto inclui não utilizar quaisquer Ações ou Ações Bônus restantes nele. Você ainda poderá utilizar Reações neste Rodada.
+Sempre que você falar o nome de uma Magia antes de utilizá-la, adicione +1 na CD para evitar quaisquer efeitos negativos da Magia. Esse valor aumenta em +2 caso você conjure apenas esta Magia durante seu Turno, e não faça mais nada. Isto inclui não utilizar quaisquer Ações ou Ações Bônus restantes nele. Você ainda poderá utilizar Reações neste Rodada, assim como Ações de Movimento.
 
 ## Ritual Supremo (Custo 3)
 
@@ -154,4 +154,4 @@ Você agora pode conjurar Magias como ritual independentemente do Custo, mas ela
 
 Ao conjurar 10 Magias de uma mesma categoria sem alternar, ou seja, sem utilizar outra categoria, você diminui permanentemente o custo de Mana das magias daquela categoria em 1 ponto. Comece a contar a partir do momento que você adquirir essa Habilidade. 
 
-Essa Habilidade pode ser pega múltiplas vezes, e seus efeitos são cumulativos. 
+Essa Habilidade pode ser pega múltiplas vezes, e seus efeitos são cumulativos. Você só pode diminuir os custos em 1 para cada categoria de Magia.

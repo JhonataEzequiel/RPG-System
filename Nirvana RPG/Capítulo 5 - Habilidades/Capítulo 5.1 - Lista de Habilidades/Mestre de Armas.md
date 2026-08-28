@@ -3,7 +3,7 @@ O Arquétipo do Mestre de Armas visa obter o domínio básico de seu arsenal ant
 
 ## Maestria em Armas Comuns (Custo 1)
 
-Você diminui em 1 ponto quaisquer penalidades que você tenha para acertar Ataques com Armas Comuns. Isso inclui Penalidades de Ataque, bônus negativo num geral, e quaisquer outras possíveis. No caso de Desvantagem para acertar os Ataques, ela será substituída por -3 para acertar.
+Você diminui em 1 ponto quaisquer penalidades que você tenha para acertar Ataques com Armas Comuns. Isso inclui Penalidades de Ataque, bônus negativo num geral, e quaisquer outras possíveis. No caso de Desvantagem para acertar os Ataques, ela será substituída por -3.
 
 ## Maestria em Armas Leves (Custo 1)
 
@@ -13,13 +13,13 @@ Ao atingir o Nível 8, você adiciona seu Bônus de Proficiência inteiro, ao in
 
 ## Maestria com Empunhadura Dupla (Custo 1)
 
-Você adiciona metade do seu Bônus de Proficiência ao dano causado por Armas de Empunhadura Dupla. No Nível 5 em diante, você adiciona o bônus inteiro.
+Você adiciona metade do seu Bônus de Proficiência ao dano causado por Armas de Empunhadura Dupla. No Nível 5 em diante, você adiciona o bônus inteiro. O tipo do dano será um dos possíveis tipos causados por uma das Armas, à sua escolha.
 
 ## Maestria com Punhos (Custo 1)
 
 Para cada novo inimigo em combate que você acertar um Ataque Desarmado, adicione +1 para acertar os Ataques. Esse bônus dura durante todo o Encontro.
 
-Alternativamente, você tem +1 na Iniciativa, e +1 de CA se o seu Modificador de Destreza for 1 ou maior. Você pode trocar os efeitos dessa Habilidade quando tiver um Descanso Curto ou longo.
+Alternativamente, você tem +1 na Iniciativa, e +1 de CA se o seu Modificador de Destreza for 1 ou maior e estiver utilizando apenas Armas de Punho. Você pode trocar os efeitos dessa Habilidade quando tiver um Descanso Curto ou longo.
 
 ## Maestria com Armas à Distância (Custo 1)
 
@@ -27,4 +27,4 @@ Se uma Arma à Distância sua precisar de recarga, você pode recarregá-la com 
 
 ## Maestria com Artes de Batalha (Custo 1)
 
-Você não precisa ser mais proficiente em um tipo de Arma para poder utilizar suas Artes de Batalha. A primeira Arte de Batalha que você efetuar após um Descanso custa 1 Ponto de Mana a menos.
+Você não precisa ser mais Proficiente em um tipo de Arma para poder utilizar suas Artes de Batalha. A primeira Arte de Batalha que você efetuar após um Descanso custa 1 Ponto de Mana a menos.
