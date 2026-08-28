@@ -1,5 +1,5 @@
 
-O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consumíveis e Arremessáveis.
+O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consumíveis e Arremessáveis, além da utilização de Venenos e Ácidos.
 
 ## Artesão de Bombas (Custo 1)
 
@@ -12,6 +12,14 @@ Você agora consegue fabricar um Item Arremessável qualquer que não seja consi
 **Requisitos**: 2 de Inteligência.
 
 Você agora consegue criar qualquer item mencionado na tabela de Itens Aplicáveis, no Capítulo 4.6 - Lista de Itens Aplicáveis. Você gasta 10 minutos para criar o item, e uma quantidade de moedas igual a metade do custo do item.
+
+## Derreter (Custo 1)
+
+**Requisitos**: 2 de Inteligência.
+**Custo**: Ação Livre, 3 de Mana.
+**Duração**: 5 Rodadas.
+
+Todas as vezes que causar Dano Ácido a um alvo, você pode forçá-lo a passar por uma Salvaguarda de Inteligência CD 12 + Int. Em caso de falha, o alvo não saberá a maneira correta de impedir que o ácido se alastre. O ácido começará a corroer o corpo do alvo, causando Dano Contínuo de Ácido de 1d12. Em caso de sucesso, nada acontece.
 
 ## Lança Granadas (Custo 1)
 
@@ -28,6 +36,12 @@ A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não 
 **Requisitos**: 1 de Destreza ou Força.
 
 Você agora pode arremessar Poções, que caem em um local, afetando uma área circular de 3m de raio. Poções de Restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 Pontos de Vida. Outras Poções são de alvo único, e a duração delas é de uma Rodada, mesmo que na descrição o item diga que é maior.
+
+## Causticomante (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+
+Você adiciona 1d8 de Dano Ácido a todos os seus Ataques. Você pode escolher desativar essa Habilidade com uma Ação Livre, e reativá-la sempre que quiser.
 
 ## Alquimista Iniciante (Custo 1)
 
@@ -47,6 +61,12 @@ Você escolhe se as Escalas serão em Força, Destreza, ou em ambos os Atributos
 **Custo**: Três Ações, 5 de Mana.
 
 Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a Condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso. Para esta Habilidade ter efeito, a Duração restante do Veneno terá que ser de, pelo menos, 3 Rodadas. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por essa Habilidade.
+
+## Corroer Defesas (Custo 2)
+
+**Requisitos**: 4 de Inteligência.
+
+Sempre que você diminuir a CA de um alvo através de Dano Ácido, diminua ela em 1 ponto a mais. Alvos que não possuem Armadura de metal também tem sua CA diminuída sempre que uma instância de Dano Ácido puder diminuir a CA.
 
 ## Alquimista Supremo (Custo 3)
 
@@ -74,3 +94,11 @@ Sempre que arremessar uma Poção de Restauração, você curará o valor padrã
 **Requisitos**: Habilidade "Alquimista Supremo" de Custo 3.
 
 Os seus Venenos criados causam o dobro de dano, mas suas Poções de Cura criadas curam apenas metade dos Pontos de Vida que normalmente curariam.
+
+## Enxofre (Custo 3)
+
+**Requisitos**: Habilidade "Corroer Defesas" de Custo 2. 7 de Inteligência, 1 de Constituição.
+
+O seu Dano Ácido agora tem as propriedades modificadas, ficando muito mais poderoso. Sempre que causar Dano Ácido, metade do dano será Dano Verdadeiro, e a outra metade, Dano Ácido.
+
+Seu corpo também se torna particularmente resistente a efeitos negativos advindos de substâncias perigosas. Você tem +10 de Resistência a Dano Ácido e Dano Venenoso.

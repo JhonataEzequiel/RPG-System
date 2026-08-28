@@ -19,7 +19,7 @@ Ao invés de utilizar um Ataque a mais sem sofrer penalidades, você pode optar 
 
 **Requisitos**: 2 de Destreza ou Força.
 
-Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece é diminuída em 5. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada.
+Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece é diminuída em 5. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada. O mínimo de Magias Conhecidas é 0.
 
 ## Corpo Elemental (Custo 2)
 
@@ -27,24 +27,24 @@ Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidad
 
 Seu corpo é particularmente ligado as propriedades de sua Mana que dizem respeito aos diferentes elementos. Você emana uma aura pequenina em volta do seu corpo, quase como uma camada protetora. Ela surge naturalmente, e é parte de quem você é. 
 
-Ao ser atingido por um Ataque Desarmado, ou um Ataque de criatura que entra em contato direto com você, ou seja, o tocando (armas não serão afetadas), você causa 1d6 de Dano de Raio, Fogo, ou Gelo, à sua escolha, ao alvo que te acertou. Você também pode desativar essa Habilidade com uma Ação Livre, e reativá-la com outra.
+Ao ser atingido por um Ataque Desarmado, ou um Ataque de criatura que entra em contato direto com você, ou seja, o tocando (Armas não serão afetadas), você causa 1d6 de Dano de Raio, Fogo, ou Gelo, à sua escolha, ao alvo que te acertou. Você também pode desativar essa Habilidade com uma Ação Livre, e reativá-la com outra.
 
 Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te atingiu até o fim do Encontro. Esse número aumenta para 2d4 quando você tiver 10 de Constituição, ou Inteligência, ou Sabedoria.
 
 ## Mãos Espectrais (Custo 2)
 
-**Requisitos**: 3 de Força ou Destreza, 3 de Inteligência. Só pode ser usada caso ambas as mãos não estejam com nada equipado.
+**Requisitos**: 3 de Força ou Destreza. 3 de Inteligência. Só pode ser usada caso ambas as mãos não estejam com nada equipado, nem mesmo Armas de Punho.
 
 **Ativar e Desativar Mãos** (Ação Bônus): Você é capaz de criar mãos espectrais flutuantes que repetirão o mesmo movimento que as suas mãos fizerem. Elas são maiores do que os braços normais, aumentando o alcance de seus Ataques Desarmados em 3m.
 
 **Poder Aumentado** (Passiva): Você adiciona seu Modificador de Inteligência aos seus Ataques Desarmados, tanto para acertar, quanto para causar dano.
 
-**Golpes Múltiplos** (Três Ações, 3 de Mana): Ataca uma vez pela esquerda e uma pela direita do alvo, e finaliza com um golpe conjunto das duas mãos na vertical. Causa o dano de três Ataques Desarmados.
+**Golpes Múltiplos** (Duas Ações, 4 de Mana): Ataca uma vez pela esquerda e uma pela direita do alvo, e finaliza com um golpe conjunto das duas mãos na vertical. Causa o dano de três Ataques Desarmados. Você só precisa passar por um Teste para acertar.
 
-**Cor** (Ação Livre): a cor delas é definida por você sempre que as conjurar, podendo ser Vermelhas ou Azuis. Cada cor terá ataques únicos delas, servindo como uma forma de expressar o estilo de luta do seu personagem. A escolha será feita toda vez que ativar as Mãos Espectrais.
+**Cor** (Ação Livre): a cor delas é definida por você sempre que as conjurar, podendo ser Vermelhas ou Azuis. Além disso, existe uma cor neutra, representando um estado aonde as mãos não estão em foco de combate. Cada cor terá ataques únicos delas, servindo como uma forma de expressar o estilo de luta do seu personagem. A escolha será feita toda vez que ativar as Mãos Espectrais.
 
-- **Neutras**: A cor neutra é a cor padrão das mãos, sendo um branco um pouco acinzentado. Você tem +30kg de capacidade de carga. Se as mãos espectrais estiverem carregando algo, você não poderá golpear com elas.
-- **Vermelhas:** Possuem garras grandes, e a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 2d8 de Dano de Fogo. Caso o acerto for crítico, o dano tem efeito em uma área de 4.5m de raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
+- **Neutras**: A cor neutra é a cor padrão das mãos, sendo um branco um pouco acinzentado. Você tem +100 kg de Capacidade de Carga. Se as mãos espectrais estiverem carregando algo, você não poderá Atacar com elas.
+- **Vermelhas:** Possuem garras grandes, e a velocidade das mãos gera calor quando nessa cor, o que causa um adicional de 2d8 de Dano de Fogo. Caso o acerto for Crítico, o dano tem efeito em uma área de 4.5m de raio a partir do local do impacto, afetando todos no alcance. Você escolhe se irá afetar aliados ou não.
 - **Azuis**: São capazes de conjurar uma bola de energia com alcance igual a distância de Ataque das mãos ao custo de Duas Ações e 3 de Mana, que causa 3d8 + Int de Dano de Raio, além de causar Dano Contínuo até o fim do Encontro caso o inimigo falhe em um Teste de Destreza CD 10 + Inteligência, que será 1d4 de Raio. O Dano Contínuo não é cumulativo.
 
 ## Respiração (Custo 3)
