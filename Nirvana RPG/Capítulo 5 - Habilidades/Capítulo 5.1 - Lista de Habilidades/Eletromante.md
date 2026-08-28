@@ -5,7 +5,7 @@ O Arquétipo do Eletromante contém Habilidades relacionadas ao controle da elet
 
 **Requisitos**: 1 de Inteligência.
 **Custo**: Reação, 1 de Mana.
-**Duração**: 1 Rodada.
+**Duração**: 3 Rodadas.
 
 Logo após causar Dano de Raio em uma criatura alvo no alcance do seu Deslocamento você conduz parte da eletricidade para si mesmo, te energizando e aumentando seu Deslocamento em 3m, até um limite de 9m adicionais.
 
@@ -21,7 +21,7 @@ Você absorve eletricidade de alguma fonte, como uma Magia conjurada por você o
 **Custo**: Uma Ação, 2 de Mana.
 **Duração**: 2 Rodadas.
 
-Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
+Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada até que seja apanhada por alguém. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
 
 ## Apressado (Custo 1)
 
@@ -37,7 +37,7 @@ Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5
 
 **Trocar Corrente** (Uma Ação, 1 de Mana): Você se concentra, mudando o foco das suas Magias Elementais que causem Dano de raio. Você pode escolher entre uma das duas correntes abaixo. Os efeitos de ambas duram até o fim do Encontro.
 - **Corrente Alternada**: O Alcance aumenta em uma quantidade de metros iguais ao seu Deslocamento + Int (cada ponto no Modificador de Inteligência aumenta em 1.5m de distância).
-- **Corrente Contínua**: Parte da eletricidade flui para fora, como excesso. Você pode escolher um alvo adicional para suas Magias de alvo único, causando 1d4 + Int como Dano de Raio.
+- **Corrente Contínua**: Parte da eletricidade flui para fora, como excesso. Você pode escolher um alvo adicional para suas Magias de alvo único, causando 1d6 + Int como Dano de Raio.
 
 ## Conversão Elétrica (Custo 3)
 
@@ -45,11 +45,11 @@ Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5
 **Custo**: Duas Ações, 6 de Mana.
 **Duração**: 1 Encontro.
 
-Você sacrifica um Item Mágico ou Único de grau 1 ou maior, o transformando em eletricidade, que é absorvida pelo seu corpo. Você recebe os seguintes benefícios:
+Você sacrifica um Item Mágico ou Único de Grau 1 ou maior, o transformando em eletricidade, que é absorvida pelo seu corpo. Você recebe os seguintes benefícios:
 - Seu Deslocamento aumenta em 10.5m;
 - Todo Ataque corpo a corpo feito contra você reflete 1d8 de dano no atacante como Dano de Raio;
 - Você tem Vantagem em Salvaguardas de Destreza;
-- Você tem +5 em quaisquer Testes de Destreza, incluindo Ataques (dependendo da arma), Salvaguardas, Perícias, e quaisquer outros;
+- Você tem +10 em quaisquer Testes de Destreza, incluindo Ataques que utilizem Destreza como bônus, Salvaguardas, Perícias, e quaisquer outros;
 - Você se torna Imune a Dano de Raio.
 
 ## Hertz (Custo 3)

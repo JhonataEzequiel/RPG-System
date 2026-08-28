@@ -3,9 +3,9 @@ O Arquétipo do Especialista contém Habilidades características daqueles que d
 
 ## Divergente (Custo 1)
 
-**Custo**: Uma Ação, 2 de Mana.
-**Duração:** 1 Minuto.
 **Requisitos**: 5 de Sabedoria.
+**Custo**: Uma Ação, 2 de Mana.
+**Duração:** 1 Encontro.
 
 Conhecer a si mesmo é tão importante quanto ao seu oponente. Seu Nível de Sabedoria te proporciona a opção de trocar o Nível de um Atributo por outro. Você obtém +2 em Testes relacionados ao Atributo que originalmente tinha o menor valor. Você não pode trocar Atributos de mesmo valor. Só pode usar uma vez por Descanso Longo.
 
@@ -31,7 +31,7 @@ Você ignora o Limite Máximo de Nível de Atributo. Você também escolhe um At
 
 ## Impulso Inicial (Custo 3)
 
-**Requisitos**: 10 em qualquer Atributo. 
+**Requisitos**: 10 em qualquer Atributo.
 
 Para essa Habilidade ter efeito, você precisa estar em um Encontro com pelo menos 3 inimigos.
 

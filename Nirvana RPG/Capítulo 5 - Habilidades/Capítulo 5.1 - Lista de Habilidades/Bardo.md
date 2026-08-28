@@ -104,7 +104,7 @@ Caso o alvo fosse passar num Teste qualquer, você pode, uma vez por Descanso Lo
 
 ## Charme Salvador (Custo 3)
 
-**Requisitos**: Habilidade "Diligente" de Custo 3.
+**Requisitos**: Habilidade "Diligente" de Custo 3. 10 de Carisma.
 
 Você pode utilizar seu Modificador de Carisma em qualquer Salvaguarda que quiser, substituindo o Modificador original.
 

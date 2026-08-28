@@ -12,13 +12,13 @@ Você pode adicionar o seu Modificador de Fé como bônus na Iniciativa de um al
 
 **Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal.
 
-Todas as vezes que você tiver um Descanso Longo você pode fazer uma oração. Você rola 1d8. Se cair 6 ou inferior, você ganha +3 de mana temporários até ter um Descanso Curto ou Longo. Se cair 7 você adiciona seu Modificador de Fé ao próximo Teste de Perícia que você não seja perito, e esse bônus é perdido se você não usar ele até ter um Descanso Longo. Por último, se tirar 8, você ganha 8 Pontos de Vida Temporários além dos bônus anteriores, até ter um Descanso Longo.
+Todas as vezes que você tiver um Descanso Longo você pode fazer uma oração. Você rola 1d8. Se cair 6 ou inferior, você ganha +3 de Pontos de Mana Temporários até ter um Descanso Curto ou Longo. Se cair 7 você adiciona seu Modificador de Fé ao próximo Teste de Perícia que você não seja Perito, e esse bônus é perdido se você não usar ele até ter um Descanso Longo. Por último, se tirar 8, você ganha 8 Pontos de Vida Temporários além dos bônus anteriores, até ter um Descanso Longo.
 
 Se você tiver um Símbolo Sagrado, você pode rolar o dado duas vezes e escolher o resultado que quiser.
 
 ## Porteiro do Divino (Custo 1)
 
-**Requisitos**: 3 de Fé.
+**Requisitos**: Habilidade "Devoção" de Custo 1. 3 de Fé.
 **Custo**: Ação Bônus, 1 de Mana.
 
 Você coloca sua divindade ou ideal como prioridade, abrindo o caminho para que tua crença vá à tua frente, o guiando. 
@@ -30,23 +30,23 @@ Você adiciona seu Modificador de Fé na Iniciativa. Você também pode realizar
 **Requisitos**: 5 de Fé ou Carisma.
 **Custo**: Reação, 1 de Mana.
 
-Você ergue uma de suas mãos que não esteja ocupada com um item (com exceção de um símbolo sagrado) para cima quando uma criatura estiver para Atacar outra. Uma luz emana de você, fazendo com que ela tenha Desvantagem nesse Ataque. Você recebe Pontos de Vida Temporários igual ao seu Modificador de Fé ou Carisma, à sua escolha, pelo resto do Encontro, que podem se acumular se você usar essa Habilidade novamente no mesmo Encontro.
+Você ergue uma de suas mãos que não esteja ocupada com um item (com exceção de um Símbolo Sagrado) para cima quando uma criatura estiver para Atacar outra. Uma luz emana de você, fazendo com que ela tenha Desvantagem nesse Ataque. Você recebe Pontos de Vida Temporários igual ao seu Modificador de Fé ou Carisma, à sua escolha, pelo resto do Encontro, que podem se acumular se você usar essa Habilidade novamente no mesmo Encontro.
 
 ## Ciclo Cármico (Custo 2)
 
 **Requisitos**: 3 de Fé.
 
-Escolha um dos sete Atributos disponíveis. O Nível deste Atributo é aumentado permanentemente em 5. Todas as vezes que você causar dano a uma criatura, o dano é refletido em você como Dano Verdadeiro.
+Escolha um dos Atributos disponíveis. O Nível deste Atributo é aumentado permanentemente em 5. Todas as vezes que você causar dano a uma criatura, o dano é refletido em você como Dano Verdadeiro.
 
-Alternativamente, você pode adicionar seu Bônus de Proficiência em qualquer instância de dano que causar. Em troca, você também terá que gastar um Ponto de Atributo ao adquirir essa Habilidade.
+Alternativamente, você pode adicionar 3d8 em qualquer instância de dano que causar, sendo o tipo do dano adicional um dos tipos causados pela Arma. Em troca, você também terá que gastar um Ponto de Atributo ao adquirir essa Habilidade.
 
 ## Transpor Energia (Custo 2)
 
 **Requisitos**: 5 de Carisma ou Fé.
 
-Você agora pode se mover duas vezes durante uma Rodada. Uma no seu Turno, como sempre, e outra em qualquer outro momento da Rodada. Quando não se mover no seu turno, você poderá Andar ou Correr, mas não poderá utilizar Desengajar ou qualquer outra ação de movimentos. É impossível evitar Ataques de Oportunidades se alguém te acertar quando se mover fora do seu Turno, ainda que tenha alguma Habilidade ou efeito que te torne imune a estes ataques normalmente. 
+Você agora pode se mover duas vezes durante uma Rodada. Uma no seu Turno, como sempre, e outra em qualquer outro momento da Rodada. Quando não se mover no seu turno, você poderá Andar ou Correr, mas não poderá utilizar Desengajar ou qualquer outra Ação de Movimento. É impossível evitar Ataques de Oportunidades se alguém te acertar quando se mover fora do seu Turno, ainda que tenha alguma Habilidade ou efeito que te torne imune a estes ataques normalmente. 
 
-Caso você tenha 5 de Carisma, você pode conceder este segundo movimento na Rodada como Deslocamento adicional a um de seus aliados durante o Turno deles, aumentando o Deslocamento que eles normalmente teriam, somando-o com o seu. Você o incentiva de alguma forma, seja com um grito de guerra, ou um gesto característico, que aumenta o espírito de luta dele. Você abdica de se mover uma segunda vez nesta Rodada para fazer isso. O aliado que foi alvo deste aumento de Deslocamento também não será imune a ataques de oportunidade durante este Turno, ainda que normalmente seria por conta de algum efeito ativo ou Habilidade.
+Caso você tenha 5 de Carisma, você pode conceder este segundo movimento na Rodada como Deslocamento adicional a um de seus aliados durante o Turno deles, aumentando o Deslocamento que eles normalmente teriam, somando-o com o seu. Você o incentiva de alguma forma, seja com um grito de guerra, ou um gesto característico, que aumenta o espírito de luta dele. Você abdica de se mover uma segunda vez nesta Rodada para fazer isso. O aliado que foi alvo deste aumento de Deslocamento também não será Imune a Ataques de Oportunidade durante este Turno, ainda que normalmente seria por conta de algum efeito ativo ou Habilidade.
 
 ## Talento Divino (Custo 2)
 
@@ -84,7 +84,7 @@ Você se ajoelha por um momento no combate, rezando e pedindo por auxílio. Role
 | 2                | Seu Deslocamento dobra                                                            |
 | 3                | Você tem Vantagem em qualquer Salvaguarda                                         |
 | 4                | Você tem Vantagem em Ataques, e causa 1d10 de Dano Radiante adicional caso acerte |
-Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 3 de Mana para rolar novamente o dado e obter um novo bônus. Um bônus já resultante poderá ser novamente o resultado da rolagem, sendo adicionado novamente. Para cada vez que rolar o dado a partir de então o custo de Mana dobrará. Você não gasta Ações adicionais para rolar novamente o dado.
+Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 3 de Mana para rolar novamente o dado e obter um novo bônus. Um bônus já resultante poderá ser novamente o resultado da rolagem, sendo adicionado novamente. Para cada vez que rolar o dado a partir de então, o custo de Mana dobrará. Você não gasta Ações adicionais para rolar novamente o dado.
 
 ## Santidade (Custo 3)
 
