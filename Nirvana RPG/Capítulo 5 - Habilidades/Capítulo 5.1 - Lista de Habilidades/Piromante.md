@@ -27,23 +27,23 @@ Ao conjurar um Arcano Menor que cause Dano de Fogo em um alvo único, você pode
 
 ## Chama Frenética (Custo 2)
 
-**Requisitos**: Habilidade "Conflagração", de Custo 1. Habilidade "Absorver Chamas" de Custo 1. 5 de Inteligência, 3 de Sabedoria.
+**Requisitos**: Habilidade "Conflagração", de Custo 1. Habilidade "Absorver Chamas" de Custo 1. 3 de Sabedoria.
 
-Toda sua Habilidade com piromancia o fez gostar cada vez mais das chamas. No entanto, essa obsessão pede um preço, te enlouquecendo lentamente quanto mais próximo delas você está. O fogo em si se torna uma fonte de loucura.
+Toda sua habilidade com piromancia o fez gostar cada vez mais das chamas. No entanto, essa obsessão pede um preço, te enlouquecendo lentamente quanto mais próximo delas você está. O fogo em si se torna uma fonte de loucura.
 
-**Pontos de Frenesi** (Passiva): Você possui uma reserva de Pontos de Frenesi iguais ao dobro do seu Modificador de Sabedoria. Ao gastar metade dos seus Pontos de Frenesi, você tem a Condição Amedrontado até o início do seu próximo Turno, e após isso, entrará em Frenesi. O estado de Frenesi dura até o final do Encontro. Repõe com um Descanso Longo.
+**Pontos de Frenesi** (Passiva): Você possui uma reserva de Pontos de Frenesi iguais ao dobro do seu Modificador de Sabedoria. Ao gastar metade dos seus Pontos de Frenesi, você tem a Condição Amedrontado até o início do seu próximo Turno, e após isso, entrará em Frenesi. O estado de Frenesi dura até o final do Encontro. Repõe com um Descanso Longo. Enquanto em Frenesi, todo Dano de Fogo que causar causará 1 a mais, que se acumula conforme você causa Dano de Fogo. Esse efeito dura até o Encontro acabar.
 
-**Canalizar** (Reação): Ao causar Dano de Fogo a uma criatura alvo, você pode escolher gastar 1 Ponto de Frenesi para adicionar metade do seu Nível ao dano. Caso você esteja em Frenesi, pode optar por fazer o alvo passar por um Teste de Resistência de Sabedoria CD 6 + Int + Sab ao troco de 2 Pontos de Frenesi. Em caso de falha, o alvo tem a Condição Amedrontado até o início do próximo Turno dele, além de tomar o dano extra que seria metade do seu Nível. Em caso de sucesso, recebe apenas o dano extra. 
+**Canalizar** (Reação): Ao causar Dano de Fogo a uma criatura alvo, você pode escolher gastar 1 Ponto de Frenesi para adicionar metade do seu Nível ao dano. Caso você esteja em Frenesi, pode optar por fazer o alvo passar por um Teste de Resistência de Sabedoria CD 6 + Int + Sab ao troco de 2 Pontos de Frenesi. Em caso de falha, o alvo tem a Condição Amedrontado até o início do próximo Turno dele, além de tomar o dano extra que seria metade do seu Nível. Em caso de sucesso, recebe apenas o dano extra.
 
 ## Determinação de Fogo (Custo 3)
 
 **Requisitos**: 8 de Inteligência.
 
-Ao receber um dano que te deixaria Nocauteado, você aguenta um pouco de tempo mais antes de cair. Você pode conjurar uma Magia de custo 1 ou inferior que cause Dano de Fogo neste tempo, caso você tenha Pontos de Mana suficientes para tal. Logo após isso, você é Nocauteado normalmente. Caso opte por não utilizar a Magia, você também será Nocauteado normalmente. Essa Habilidade tem efeito duas vezes por Descanso Longo.
+Ao receber um dano que te deixaria Nocauteado, você aguenta um pouco de tempo mais antes de cair. Você pode conjurar uma Magia de custo 4 ou inferior que cause Dano de Fogo neste tempo, caso você tenha Pontos de Mana suficientes para tal. Logo após isso, você é Nocauteado normalmente. Caso opte por não utilizar a Magia, você também será Nocauteado normalmente. Essa Habilidade tem efeito duas vezes por Descanso Longo.
 
 ## Fênix (Custo 3)
 
 **Requisitos**: Habilidade "Determinação de Fogo" de Custo 3. 10 de Inteligência.
 **Custo**: Ação Livre, toda a sua Mana, com um mínimo de 10 Pontos de Mana.
 
-Ao ser Nocauteado, você pode escolher voltar a vida instantaneamente, recuperando todos os seus Pontos de Vida Máximos. Essa Habilidade não tem limite de usos, mas você deve optar entre os efeitos dela e o da Habilidade "Determinação de Fogo" de Custo 3.
+Ao ser Nocauteado, você pode escolher voltar a vida instantaneamente, recuperando todos os seus Pontos de Vida Máximos. Essa Habilidade não tem limite de usos,

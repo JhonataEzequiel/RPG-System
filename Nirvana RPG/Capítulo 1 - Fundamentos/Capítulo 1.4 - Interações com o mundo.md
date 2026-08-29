@@ -49,6 +49,8 @@ A Desvantagem funciona de forma similar, no entanto se escolherá o pior resulta
 
 O mestre pode conceder Vantagem ou Desvantagem dependendo da situação. Algumas Habilidades e Magias podem também conceder Vantagem ou Desvantagem.
 
+Em algumas raríssimas ocasiões é possível ter Vantagem Dupla. Trata-se de uma condição aonde você rolará o mesmo Teste três vezes e escolherá o resultado maior. Desvantagens Duplas são análogas, fazendo com que você escolha o pior. Normalmente é o Mestre que decide conceder Vantagem Dupla ou Desvantagem Dupla quando a situação é particularmente favorável ou desfavorável.
+
 ## Arredondamentos
 
 Caso você precise arredondar um número, por exemplo, se precisar cortá-lo pela metade, sempre arredonde para baixo, a não ser que na descrição do que causar esse arredondamento esteja especificando para arredondar para cima.

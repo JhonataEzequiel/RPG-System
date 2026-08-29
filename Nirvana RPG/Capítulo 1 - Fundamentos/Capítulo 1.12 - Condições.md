@@ -42,6 +42,10 @@ A Exaustão pode variar em alguns Níveis, cada um aplicando uma penalidade dife
 | 5                 | Deslocamento reduzido para 0                 |
 | 6                 | Morte                                        |
 
+## Furtivo
+
+Ao entrar em Furtividade, o personagem estará indetectável. É possível sair deste estado caso a criatura da qual se deseja esconder perceba que você está Furtivo. Fora isso, uma vez em Furtividade, qualquer Ataque contra um alvo que não notou que você está furtivo terá Vantagem.
+
 ### Incapacitado
 
 Uma criatura Incapacitada não pode realizar nenhum tipo de Ação, Ação Bônus, Ação Livre ou Reação. Seu Deslocamento também é reduzido a zero.

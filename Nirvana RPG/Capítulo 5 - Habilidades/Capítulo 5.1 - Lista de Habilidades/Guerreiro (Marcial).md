@@ -124,3 +124,9 @@ Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ata
 **Requisitos:** Habilidade "Ataque Extra" de Custo 1. 8 de Força ou 8 de Destreza.
 
 Você não sofre mais Penalidades de Ataques, e sua Margem de Ameaça é aumentada em 1 ponto.
+
+## Show do Imperador (Custo 3)
+
+Essa Habilidade pode ser escolhida no Nível 1 em troca de não escolher nenhuma outra. Você ganha 4 Pontos de Habilidade se optar por isso.
+
+Para cada Encontro que sobreviver com mais do que 1 Ponto de Vida, e sem ser vítima de nenhuma Condição negativa, você ganha 1 Ponto do Imperador. Cada Ponto do Imperador será convertido em dano adicional de um dos tipos capazes de serem causados pela sua Arma. Ao ser vítima de uma Condição negativa, você perde metade dos seus Pontos de Imperador. Ao ser Nocauteado, você perde todos os pontos. Se você derrotar a criatura que te Nocauteou ou lhe deu a Condição negativa ainda no mesmo Encontro, você recupera todos os pontos perdidos. Você deve causar o golpe final para recuperar seus pontos. O limite de Pontos do Imperador é 50.

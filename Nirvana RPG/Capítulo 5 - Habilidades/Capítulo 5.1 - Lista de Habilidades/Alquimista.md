@@ -63,13 +63,13 @@ Sempre que você diminuir a CA de um alvo através de Dano Ácido, diminua ela e
 
 ## Químico Destruidor (Custo 2)
 
-**Requisitos**: Habilidade "Alquimista Iniciante" de Custo 1. 4 de Inteligência.
+**Requisitos**: Habilidade "Artesão de Itens Aplicáveis" de Custo 1. 4 de Inteligência.
 **Custo**: Uma Ação.
 **Alcance**: Toque.
 
 Você consegue coletar materiais do ambiente ao longo do dia naturalmente, desde que não esteja com nenhum Nível de Exaustão. Ao ter um Descanso Longo, esses materiais são utilizados para criar uma nova Resina, a Resina Ácida. Ao aplicar em uma Armadura, independente do material, ela começará a derreter. Você diminui 1 na CA do alvo ao final de cada um de seus Turnos, até um máximo de 5.
 
-Para aplicar a Resina você precisará passar por uma Salvaguarda de Destreza CD 15 - Int. Em caso de falha, você fica sujeito a um Ataque de Oportunidade.
+Para aplicar a Resina em combate você precisará passar por uma Salvaguarda de Destreza CD 15 - Int. Em caso de falha, você fica sujeito a um Ataque de Oportunidade. O efeito é permanente, mas você não pode aplicar duas Resinas Ácidas no mesmo item. O máximo de Resinas Ácidas carregadas ao mesmo tempo será 3, e você fabrica uma Resina por Descanso Longo. O peso dela é 0.1 kg, e pode ser vendida caso você convença alguém a comprar.
 
 ## Peçonha Instantânea (Custo 2)
 
@@ -112,6 +112,12 @@ Os seus Venenos criados causam o dobro de dano, mas suas Poções de Cura criada
 O seu Dano Ácido agora tem as propriedades modificadas, ficando muito mais poderoso. Sempre que causar Dano Ácido, metade do dano será Dano Verdadeiro, e a outra metade, Dano Ácido.
 
 Seu corpo também se torna particularmente resistente a efeitos negativos advindos de substâncias perigosas. Você tem +10 de Resistência a Dano Ácido e Dano Venenoso.
+
+## Agente Corrosivo (Custo 3)
+
+**Requisitos**: Habilidade "Químico Destruidor" de Custo 2.
+
+Você agora pode criar múltiplas Resinas Ácidas por Descanso Longo. A quantidade de Resinas Ácidas criadas será igual ao seu Modificador de Inteligência. O máximo de Resinas Ácidas carregadas ao mesmo tempo será 10.
 
 ## Químico Radioativo (Custo 3)
 

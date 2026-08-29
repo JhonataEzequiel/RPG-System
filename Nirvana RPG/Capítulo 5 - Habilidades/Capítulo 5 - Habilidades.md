@@ -3,6 +3,10 @@ Conforme você adquire Pontos de Habilidade, você pode gastá-los para consegui
 
 As Habilidades são subdivididas em grupos que correspondem a determinados arquétipos. Essa divisão é apenas uma maneira de organizá-las melhor, pois você é livre para misturar as habilidades de diferentes arquétipos e criar algo único. Desde que você atenda aos pré-requisitos, pode adquirir uma Habilidade.
 
+Caso Habilidades diferentes te propiciem a mesma coisa, como por exemplo, adicionar um determinado Modificador aos Ataques, você irá fazer isso apenas uma vez. Você ainda pode usufruir dos efeitos das Habilidades que não intersectam normalmente, mas aos que intersectam, você irá receber apenas um deles. Isso se aplica também a Vantagens (por exemplo, duas Habilidades diferentes que concedem Vantagem em um mesmo tipo de Teste) e Desvantagens. Ademais, caso uma Habilidade deixe você utilizar um determinado Modificador para algo, e outra deixe você utilizar o seu Atributo inteiro para aquilo, você utilizará apenas o Atributo.
+
+Existem Habilidades Passivas e Ativas. As Habilidades Passivas concedem alguma característica sem que você precisa fazer nada. Já as ativas requerem que você faça algo para que elas tenham efeito, normalmente custando Ações ou Mana.
+
 Algumas Habilidades causam dano de alguma maneira, sendo consideradas Habilidades de Ataque. Nestes casos, a não ser que a própria Habilidade diga o contrário, será necessário rolar um Teste para acertá-lo, como em um Ataque comum. O Atributo usado no teste será:
 
 - O mesmo que seria usado para aquele tipo de ataque, caso a habilidade envolva uma arma ou Ataque Desarmado;

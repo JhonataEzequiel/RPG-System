@@ -15,7 +15,7 @@ O valor inicial de Sorte é 0, o mínimo é -10, e o máximo é 10.
 
 Você não mais é Nocauteado, se tornando Imune à Condição. Sempre que for Nocauteado, você ficará com 1 Ponto de Vida e terá a Condição Caído. Essa Habilidade tem efeito 8 vezes. Você é miraculosamente salvo da morte nessas 8 vezes, escapando até dos piores desastres.
 
-Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa" de Custo 3, os usos desta Habilidade são restaurados.
+Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa" de Custo 10, os usos desta Habilidade são restaurados.
 
 ## Cartas do Destino (Custo 2)
 
@@ -39,7 +39,6 @@ Para puxar uma carta você deverá rolar 1d4, e o número correspondente será o
 ## Jackpot (Custo 2)
 
 **Custo**: Uma Ação, 1 de Mana.
-**Requisitos**: 1 de Destreza.
 **Duração**: 5 Rodadas.
 
 Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha os seguintes benefícios:
@@ -76,7 +75,7 @@ Os bônus em Testes serão metade do usual. Ou seja, você irá dividir por dois
 
 ## Jackpot Melhorado (Custo 3)
 
-**Requisitos**: Habilidade "Jackpot" de Custo 2. 2 de Destreza.
+**Requisitos**: Habilidade "Jackpot" de Custo 2.
 
 Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso, é necessário que você opte por não receber nenhum benefício do Descanso Longo mais recente que você teve anteriormente ao Encontro atual. Isso inclui poder usar novamente certas Habilidades que podem ser usadas uma vez ao dia, se curar, recuperar sua Mana, etc.
 

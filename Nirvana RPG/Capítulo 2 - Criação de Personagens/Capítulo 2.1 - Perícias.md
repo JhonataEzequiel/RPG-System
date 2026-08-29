@@ -25,7 +25,7 @@ Você poderá escolher qualquer uma das Perícias a seguir, seguindo as regras d
 
 1. Ladroagem: usada quando você deseja se livrar de uma armadilha sem ativá-la, ou quando deseja roubar alguém.
 2. Acrobacia: usado em jogadas em que seja necessário realizar um movimento complicado com o corpo, como pular de cima de um prédio para outro.
-3. Furtividade: Ao entrar em Furtividade, o personagem estará indetectável. É possível sair deste estado caso a criatura da qual se deseja esconder perceba que você está Furtivo. Fora isso, uma vez em Furtividade, qualquer Ataque contra um alvo que não notou que você está furtivo terá Vantagem.
+3. Furtividade: Permite que você fique Furtivo. Para mais detalhes, visite o Capítulo 1.12 - Condições.
 
 ## Inteligência
 

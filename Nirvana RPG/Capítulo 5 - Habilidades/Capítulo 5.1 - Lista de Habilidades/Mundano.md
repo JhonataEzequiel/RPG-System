@@ -1,5 +1,5 @@
 
-Esse Arquétipo herda o nome da Pedra de Infusão Mundana, descrita nas regras de Infusão, no capítulo de Equipamentos. Diz respeito a personagens generalistas. Para Habilidades que utilizem seu Atributo de menor Nível, caso haja um empate entre eles, você pode escolher qual dos dois gostaria de utilizar.
+Esse Arquétipo herda o nome da Pedra de Infusão Mundana, descrita nas regras de Infusão, no Capítulo 4.10 - Infusões. Diz respeito a personagens generalistas. Para Habilidades que utilizem seu Atributo de menor Nível, caso haja um empate entre dois ou mais, você pode escolher qual  gostaria de utilizar.
 
 ## Equilíbrio (Custo 1)
 
@@ -23,11 +23,11 @@ Você não ganha nada ao adquirir esta Habilidade, mas quando atingir Níveis su
 
 ## Pau Para Toda Obra (Custo 2)
 
-**Requisitos**: 3 em cada Atributo. Não pode haver uma diferença maior que 1 Nível entre os Atributos.
+**Requisitos**: 3 em cada Atributo.
 
-Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente ser o melhor em algo. Se algum de seus Atributos tiver uma diferença de Nível maior que um ponto, você perderá essa Habilidade para sempre, assim como os Pontos de Habilidade gastos para adquiri-la. Isso se aplica apenas aos pontos que você alocar, e bônus temporários não contam. Em troca, você recebe os seguintes bônus:
-1. 2d8 a mais para o Dado de Vida.
-2. 2d4 a mais para o Dado de Mana.
+Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente ser o melhor em algo. Em troca, você recebe os seguintes bônus:
+1. 1d12 a mais para o Dado de Vida.
+2. 1d4 a mais para o Dado de Mana.
 3. Você tem +1 em todos os Testes de Resistência.
 4. Você causa +1 de dano sempre que causar dano, o dano adicional é igual a um dos causados pelo Ataque.
 5. Você ganha +1 Ponto de Atributo.
@@ -36,7 +36,7 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 
 **Requisitos**: Habilidade "Equilíbrio" de Custo 1.
 
-Você pode ou não adicionar o Nível do seu menor Atributo em qualquer Teste. Além disso, você adiciona metade do seu Nível na Iniciativa. Você também ganha um Ponto de Atributo adicional no Nível 15, mas só pode colocá-lo no seu Atributo de menor Nível. Por último, você pode escolher uma Habilidade de Custo 1 para o qual atenda aos Requisitos e adquiri-la.
+Você pode ou não adicionar o Modificador do seu menor Atributo em qualquer Teste. Além disso, você adiciona metade do seu Nível na Iniciativa. Você também ganha um Ponto de Atributo adicional no Nível 15, mas só pode colocá-lo no seu Atributo de menor Nível. Por último, você pode escolher uma Habilidade de Custo 1 para o qual atenda aos Requisitos e adquiri-la.
 
 ## Margem de Ameaça Reversa (Custo 2)
 

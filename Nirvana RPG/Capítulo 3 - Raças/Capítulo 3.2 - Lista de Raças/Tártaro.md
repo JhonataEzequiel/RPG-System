@@ -4,5 +4,8 @@ Os Tártaros são povos tartarugas. A cor da pele de réptil deles varia muito, 
 **Casco** (Passiva): Seu Deslocamento natural é de 15m, mas enquanto estiver com o casco você tem uma penalidade de 10.5m, e você tem +2 de CA. Quando você atingir o Nível 20, caso sua Força não seja negativa, você perderá a penalidade do Deslocamento.
 - **Soltar Casco** (Ação Bônus): Você retira o Casco de suas costas, o jogando no chão. Sua CA diminui em 2 pontos, e seu Deslocamento base volta ao normal até que coloque seu Casco novamente. 
 - **Colocar Casco** (Uma Ação): Vestir o Casco novamente é um processo similar a vestir uma armadura, portanto exige um certo tempo para fazê-lo. No entanto, é mais rápido e menos burocrático.
+Caso outra pessoa queira segurar seu casco, ele pesará 40 kg, e terá as mesmas estatísticas de um Escudo de Aço, disponível no Capítulo 4.3 - Lista de Escudos. Você também poderá utilizar seu casco como Escudo. Fazendo isso, ele não pesará nada, você sofrerá a penalidade no Deslocamento, e não receberá bônus na CA, mas terá quaisquer características de um Escudo padrão. Você não precisará atender aos requisitos do Escudo de Aço para utilizar seu casco como Escudo.
 
 **Escola da Tartaruga** (Passiva): Caso você não remova o seu casco entre um Descanso Longo e outro, você ganha um Ponto de Habilidade ou um Ponto de Atributo, à sua escolha. O máximo de pontos adquiridos por essa Habilidade é 3. Após alcançar os três pontos, você receberá Pontos de Vida Temporários que serão iguais ao seu Nível até o fim do próximo Encontro, sempre que manter o casco entre Descansos Longos.
+
+**Respiração Aquática** (Passiva): Você respira debaixo d'água.

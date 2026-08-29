@@ -57,7 +57,7 @@ Estes efeitos ocorrem uma única vez por instância, não podendo ser cumulativo
 
 | Situação          | Efeito                                                                                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Alvo Molhado      | O alvo tem 10 Pontos de Vulnerabilidade contra Dano de Raio, e 10 Pontos de Resistência contra Dano de Fogo.                                              |
+| Alvo Encharcado   | O alvo tem 10 Pontos de Vulnerabilidade contra Dano de Raio, e 10 Pontos de Resistência contra Dano de Fogo.                                              |
 | Alvo em Chamas    | O alvo terá Desvantagem em Testes de Resistência de Magias que causem Dano de Fogo.                                                                       |
 | Alvo Eletrocutado | Ao ser atingido por Dano de Raio, o alvo fica sobrecarregado. Novas Magias que causem Dano de Raio nele agora diminuirão o Deslocamento do mesmo em 4.5m. |
 | Alvo Resfriado    | Ao ser atingido por Dano de Gelo, o alvo ganha 5 Pontos de Vulnerabilidade a Dano Físico.                                                                 |

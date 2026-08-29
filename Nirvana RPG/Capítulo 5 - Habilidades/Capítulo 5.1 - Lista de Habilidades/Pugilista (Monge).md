@@ -5,14 +5,14 @@ O Arquétipo do Pugilista Monge contém Habilidades relacionadas a luta desarmad
 
 **Requisitos**: 1 de Sabedoria.
 
-Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus Ataques Desarmados são fortalecidos. Adicione seu Modificador de Sabedoria aos seus Ataques Desarmados. Esse dano adicional é igual ao dano causado por seus ataques desarmados. Você também pode escolher que seus Ataques Desarmados causem Dano Radiante com uma Ação Livre.
+Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus Ataques Desarmados são fortalecidos. Adicione seu Modificador de Sabedoria apenas para acertar Ataques Desarmados. Você também pode escolher que seus Ataques Desarmados causem Dano Radiante com uma Ação Livre ao invés de usar seu Modificador de Sabedoria nos Ataques.
 
 ## Fluxo do Rio (Custo 1)
 
 **Requisitos**: Habilidade "Ki" de Custo 1. 5 de Destreza.
 **Custo**: Ação Bônus, 1 de Mana.
 
-Seu próximo Ataque Desarmado em um alvo o fará estar sob os mesmos efeitos que estaria caso estivesse encharcado. É como se seus Ataques canalizassem a essência das águas contra seu oponente.
+Seu próximo Ataque Desarmado em um alvo o fará estar sob os mesmos efeitos que estaria caso estivesse Encharcado. Você transmuta seu Ki em energia elemental para fazer isso possível.
 
 ## Explosão de Ki (Custo 2)
 

@@ -17,7 +17,7 @@ Você pode ter até 1 autômato ativo no total ao mesmo tempo. Você gasta 5po p
 
 As suas Armas de Fogo e Bestas agora podem ser modificadas para possuírem Escalas. Você gasta 10po em materiais para adicionar uma Escala D em Força ou Destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.
 
-Além de fazer melhorias nas armas, você agora pode utilizar seu Modificador de Força ou Destreza para acertar os Ataques com Bestas ou Armas de Fogo, acrescidos de seu Bônus de Proficiência, caso você seja proficiente em Armas à Distância.
+Além de fazer melhorias nas armas, você agora pode utilizar seu Modificador de Força ou Destreza para acertar os Ataques com Bestas ou Armas de Fogo, acrescidos de seu Bônus de Proficiência, caso você seja proficiente em Armas à Distância. O seu Modificador escolhido também será adicionado ao dano.
 
 ## Gaiolas Diminuidoras (Custo 2)
 
