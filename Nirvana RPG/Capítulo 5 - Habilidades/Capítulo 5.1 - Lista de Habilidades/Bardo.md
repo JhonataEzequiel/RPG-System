@@ -44,8 +44,8 @@ A Mana gasta por essa Habilidade não é recuperada com o Descanso. Você pode e
 
 Você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as Penalidades de Ataques de até 3 alvos à sua escolha durante a Rodada que a música iniciar. Para cada alvo escolhido você terá que gastar 2 de Mana. Caso um alvo já não tenha Penalidades de Ataque por ter alguma Habilidade que as retire, ou efeito similar, você concede +10 para ele acertar o Ataque.
 
-Para continuar com esta canção nos próximos Turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. 
-- **Resultado Igual**: Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de Rodadas igual ao número escolhido. 
+Para continuar com esta canção nos próximos Turnos será necessário manter a melodia. Para isso, escolha um número de 1 à 4, e role 1d4. Você não pode escolher o mesmo número duas vezes seguidas.
+- **Resultado Igual**: Se o resultado for igual ao número escolhido a canção continuará por uma quantidade de Rodadas igual ao número escolhido.
 - **Resultado Menor**: Caso o resultado for menor, a canção parará.
 - **Resultado Maior**: caso for maior, ela continuará por mais uma Rodada. 
 

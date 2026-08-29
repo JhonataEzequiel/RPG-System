@@ -21,7 +21,7 @@ Ao invés de utilizar um Ataque a mais sem sofrer penalidades, você pode optar 
 
 Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece é diminuída em 5. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada. O mínimo de Magias Conhecidas é 0.
 
-## Corpo Elemental (Custo 2)
+## Forma Mágica (Custo 2)
 
 **Requisitos**: 4 de Constituição, 2 de Inteligência, 1 de Sabedoria.
 

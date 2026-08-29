@@ -1,5 +1,5 @@
 
-### Equilíbrio
+### Equilibrar Opostos
 
 - Requisito em Inteligência: 2
 - Requisito em Fé: 2

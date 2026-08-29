@@ -45,7 +45,7 @@ Cria das Trevas: 1 de Fé, 1 de Inteligência. Sortilégio.
 
 Animar os Mortos: 1 de Inteligência, 2 de Fé. Sortilégio.
 
-Equilíbrio: 2 de Inteligência, 2 de Fé. Sangue.
+Equilibrar Opostos: 2 de Inteligência, 2 de Fé. Sangue.
 
 Curar Ferimentos Maiores: 2 de Fé ou Carisma. Sagrada.
 

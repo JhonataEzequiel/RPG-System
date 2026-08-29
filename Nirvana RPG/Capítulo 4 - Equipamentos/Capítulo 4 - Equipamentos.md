@@ -21,6 +21,8 @@ Armas possuem pré-requisitos e Escalas de Atributo. Sem atender aos requisitos,
 
 O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. Sendo proficiente no tipo de Arma, adicione também o Bônus de Proficiência para acertar. O bônus de dano da Arma servirá como bônus para acertar apenas se estiver descrito na Arma. Ou seja, caso você consiga outros bônus de dano em outros locais, como através de Habilidades ou Magias, estes não entrarão no cálculo para acertar o Ataque. Exemplo: caso uma Arma cause 1d6 + For de dano, você rolará um Teste (1d20) como Ataque, adicionará For como bônus a este Teste e, caso seja Proficiente naquele tipo de Arma, adicionará também o seu Bônus de Proficiência.
 
+As Armas listadas no Capítulo 4.2 - Lista de Armas são apenas a unidade, ou seja, mesmo Armas de Punho como a "Luva de Pugilista" será apenas uma única luva.
+
 **Tipos de Arma:**
 
 - **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações e causa o dano de ambas. Atacar com apenas uma custa uma Ação.

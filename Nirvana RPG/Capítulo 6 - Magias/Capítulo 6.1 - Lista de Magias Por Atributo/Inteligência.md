@@ -91,7 +91,7 @@ Pele de Pedra: 2 de Inteligência. Elemental.
 
 Proteção Elemental: 2 de Inteligência. Elemental.
 
-Equilíbrio: 2 de Inteligência, 2 de Fé. Sangue.
+Equilibrar Opostos: 2 de Inteligência, 2 de Fé. Sangue.
 
 Ilusão Menor: 2 de Inteligência, 2 de Carisma. Ilusão.
 

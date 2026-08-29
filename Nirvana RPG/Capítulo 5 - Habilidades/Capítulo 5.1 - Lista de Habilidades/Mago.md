@@ -47,7 +47,7 @@ Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprim
 
 As Magias escolhidas são apagadas do Grimório, abrindo margem para novas. O seu Grimório deve possuir ao menos 4 Magias anotadas para você poder utilizar essa Habilidade. Você pode pegar essa Habilidade mais de uma vez.
 
-## Refazer (Custo 1)
+## Escolher Novamente (Custo 1)
 
 Você pode trocar uma Magia das suas Magias Conhecidas. Essa Habilidade pode ser pega mais de uma vez. Cada vez que pegar essa Habilidade a quantidade de Magias que você poderá trocar aumentará em 2.
 
