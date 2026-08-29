@@ -54,6 +54,13 @@ Caso você tenha 5 de Carisma, você pode conceder este segundo movimento na Rod
 
 Sempre que você conjurar uma Magia Sagrada, você cura o alvo da Magia em um adicional igual a seu Bônus de Proficiência, caso seja uma Magia com efeito benéfico, e adiciona seu Bônus de Proficiência ao dano, caso seja uma Magia de Dano.
 
+## Inatingível (Custo 2)
+
+**Requisitos**: 10 de Fé.
+**Duração**: 1 Encontro.
+
+Sempre que uma criatura errar um Ataque contra você, adicione +1 na sua CA até um limite de 3 pontos. Para cada inimigo morto em combate, adicione +5 Pontos de Vida Temporários, até um teto máximo de +20 ao mesmo tempo.
+
 ## Guardar Milagres (Custo 3)
 
 **Requisitos**: 3 de Fé ou Carisma.

@@ -2,7 +2,7 @@
 
 - Nível 1/4
 - 13 Pontos de vida
-- 2 de Mana
+- 2 Pontos de Mana
 - 14 CA
 - 9m de Deslocamento
 - +3 Iniciativa
@@ -29,7 +29,7 @@
 
 - Nível 5
 - 94 Pontos de vida
-- 10 de Mana
+- 10 Pontos de Mana
 - 17 CA
 - 10.5m de Deslocamento, 10.5m de Deslocamento Cavando
 - +2 Iniciativa
@@ -126,10 +126,10 @@
 ### Dragão Solar Ancião
 
 - Nível 25
-- Pontos de Vida 550 (30d20 + 234)
-- Pontos de Mana 235 (20d10 + 125)
+- 550 (30d20 + 234) Pontos de Vida
+- 235 (20d10 + 125) Pontos de Mana
 - CA 26
-- 12m Deslocamento, 24m Deslocamento de Voo, 12 Deslocamento de Escalada
+- 12m Deslocamento, 24m Deslocamento de Voo, 12m Deslocamento de Escalada
 - +15 Iniciativa
 
 | Atributo     | Valor | Modificador | Salvaguardas |
@@ -149,7 +149,7 @@
 
 #### Passivas:
 - **Resistência Lendária** (4x ao dia): Se o dragão falhar em uma Salvaguarda, ele pode escolher ter sucesso no lugar.
-- **Multi-ataque**: O dragão não sofre Penalidades de Ataque.
+- **Multi-Ataque**: O dragão não sofre Penalidades de Ataque.
 #### Ações:
 - **Ataque com Cauda** (Uma Ação): +12 para acertar, 6m de alcance adicional. O dragão ataca um alvo com sua cauda, causando 7d6 + 6 de Dano de Impacto.
 - **Raio Brilhante** (Duas Ações, 25 de Mana): Salvaguarda de Destreza CD 25, cada criatura numa linha reta de 48m de distância. Falha: 26d8 de Dano Radiante, e o alvo fica Cego por 2 Rodadas. Sucesso: metade do dano, e ainda fica Cego por 2 Rodadas. Sucesso Crítico: não toma dano, nem fica Cego.
