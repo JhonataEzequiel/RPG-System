@@ -47,13 +47,13 @@ Existem dois tipos de Ataques, os Ataques Corpo a Corpo e os Ataques à Distânc
 
 ## Penalidade de Ataques
 
-É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, Atacar múltiplas vezes no seu Turno, ele sofrerá Penalidades. Por exemplo: se você Atacar na primeira Ação, e queira Atacar de novo, terá -5 na segunda rolagem. Caso Ataque três vezes seguidas, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidades de Ataque".
+É importante destacar que se um participante do combate, seja você ou um monstro inimigo, Atacar múltiplas vezes no seu Turno ou Rodada, ele sofrerá Penalidades. Por exemplo: se você Atacar na primeira Ação, e queira Atacar de novo, terá -5 na segunda rolagem. Caso Ataque três vezes seguidas, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidades de Ataque". O máximo que uma Penalidade de Ataque pode chegar é -10, não aumentando em Ataques posteriores.
 
 ## Ataques de Oportunidade
 
-Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito de passar por ele, ou de fugir dele, o inimigo pode te atacar. Isso não conta como uma reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta Andar ou Correr de você.
+Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito de passar por ele, ou de fugir dele, o inimigo pode te atacar. Isso não conta como uma Reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta Andar ou Correr de você.
 
-Ataques de Oportunidade também impedem a movimentação do oponente caso acertem.
+Ataques de Oportunidade também impedem a movimentação do oponente caso acertem, e são afetados pelas Penalidades de Ataque, o que significa que caso você já tenha realizado Ataques naquela Rodada, você estará sujeito as Penalidades. Caso ainda não tenha realizado, seu próximo Ataque terá a Penalidade de -5 normalmente.
 
 ## Ataques Desarmados
 

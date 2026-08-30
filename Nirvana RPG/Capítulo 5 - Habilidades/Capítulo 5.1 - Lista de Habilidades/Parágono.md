@@ -97,3 +97,11 @@ Ao agarrar uma criatura do seu tamanho ou menor, você pode tentar engoli-la. El
 Uma criatura engolida está Incapacitada, e recebe 3d8 de Dano Ácido Contínuo. Você pode cuspir uma criatura engolida com uma Ação Bônus em um local adjacente a você. A criatura pode repetir o Teste no início de cada um dos Turnos dela para se soltar, forçando você a cuspi-la. Você só pode engolir uma criatura por vez. Caso a criatura engolida seja Imune a Dano Ácido, ela não ficará Incapacitada, e terá Vantagem para te Atacar enquanto estiver engolida.
 
 Se você engolir uma criatura do seu tamanho, sua barriga crescerá para acomodá-la. Você se torna uma criatura de um grau acima do seu tamanho atual.
+
+## Espectro Final (Custo 3)
+
+**Requisitos**: Você é um Okuri de Nível 10 ou superior.
+
+**Contato Astral** (Reação, 7 de Mana): Você se torna completamente espectral ao receber uma instância de Dano Físico ou de Sangue, se tornando Imune àquela instância de dano. A primeira ativação dessa Habilidade após um Descanso Longo não custa Mana.
+
+**Mundo dos Mortos** (Passiva): Você pode escolher ficar completamente Imune a Dano Físico e Dano de Sangue enquanto estiver na Forma Espectral, atravessando finalmente a linha tênue entre o mundo físico e o espectral. No entanto, a Forma Espectral custará 15 de Mana ao invés de 5, mesmo que seja a primeira vez que for ativada após um Descanso Longo.

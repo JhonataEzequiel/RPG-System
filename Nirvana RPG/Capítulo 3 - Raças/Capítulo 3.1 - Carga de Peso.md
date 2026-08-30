@@ -13,5 +13,6 @@ Cada raça consegue carregar uma quantidade de peso em quilos diferente. No enta
 | Gnomo            | 35                     |
 | Halfling         | 35                     |
 | Humano           | 45                     |
+| Okuri            | 45                     |
 | Siderium         | 40                     |
 | Tártaro          | 50                     |
