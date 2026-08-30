@@ -53,7 +53,7 @@ Existem dois tipos de Ataques, os Ataques Corpo a Corpo e os Ataques à Distânc
 
 Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito de passar por ele, ou de fugir dele, o inimigo pode te atacar. Isso não conta como uma Reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta Andar ou Correr de você.
 
-Ataques de Oportunidade também impedem a movimentação do oponente caso acertem, e são afetados pelas Penalidades de Ataque, o que significa que caso você já tenha realizado Ataques naquela Rodada, você estará sujeito as Penalidades. Caso ainda não tenha realizado, seu próximo Ataque terá a Penalidade de -5 normalmente.
+Ataques de Oportunidade também impedem a movimentação do oponente caso acertem, e não são afetados pelas Penalidades de Ataque, nem contam para elas.
 
 ## Ataques Desarmados
 

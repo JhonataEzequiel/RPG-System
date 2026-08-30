@@ -15,5 +15,6 @@ Cada Raça possui Habilidades únicas, além de um deslocamento e tamanho caract
 | Halfling          | 9                                 | Pequeno | -                  |
 | Humano            | 9                                 | Médio   | -                  |
 | Okuri             | 9                                 | Médio   | -                  |
+| Orc               | 9                                 | Médio   | -                  |
 | Siderium          | 9                                 | Médio   | Élfico             |
 | Tártaro           | 15, Penalidade de -10.5 Com Casco | Médio   | -                  |

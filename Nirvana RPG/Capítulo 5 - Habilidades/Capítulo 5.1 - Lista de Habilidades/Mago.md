@@ -13,6 +13,10 @@ Sempre que estiver em um local nunca antes visitado, você terá Vantagem no pri
 
 Ao encerrar um combate, você recupera 1d4 da Mana gasta automaticamente.
 
+## Oportunista Mágico (Custo 1)
+
+Ao ter um Ataque de Oportunidade você pode escolher conjurar um Arcano Menor que causa dano em um alvo único no lugar.
+
 ## Especialista em Arcanos Menores (Custo 1)
 
 **Requisitos**: 3 de Inteligência.
