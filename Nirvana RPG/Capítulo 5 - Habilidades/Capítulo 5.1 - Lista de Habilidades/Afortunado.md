@@ -51,7 +51,7 @@ Se caso após 7 tentativas você não conseguir um Jackpot, você precisará ape
 
 ## Dado de Sorte (Custo 2)
 
-Uma vez por Descanso Longo ou Curto você pode escolher o resultado de um dado que não seja de 20 lados.
+Uma vez por Descanso Curto você pode escolher o resultado de um dado que não seja de 20 lados.
 
 ## Alterar Chances (Custo 2)
 

@@ -8,7 +8,7 @@ Existem dois tipos de Gnomos, os Feéricos e os da Natureza. Além de suas habil
 - **Ataques Diretos:** Tentativas de Ataque sofrem uma penalidade de -3 para acertar. Caso obtenham sucesso, causam metade do dano. A proteção é desfeita somente quando o Ataque acertar.
 - **Outras Fontes de Dano** (como Magias de dano): A proteção é desfeita imediatamente, e você recebe o dano normalmente. No entanto, antes de receber o dano, você ganha seu Nível + 10 como Pontos de Vida Temporários. Esses Pontos de Vida Temporários desaparecem no início do seu próximo Turno.
 
-A Habilidade é automática e independe de você querer usá-la ou não. No entanto, é possível desativá-la caso você deseje. Neste caso, a Habilidade só poderá ser ativada novamente após um Descanso Curto ou Longo. Naturalmente, ela recupera com Descanso Longo.
+A Habilidade é automática e independe de você querer usá-la ou não. No entanto, é possível desativá-la caso você deseje. Neste caso, a Habilidade só poderá ser ativada novamente após um Descanso Curto. Se você não a desativou manualmente, mas ela foi quebrada por dano, só será recuperada com Descanso Longo.
 
 ## Gnomo da Natureza
 

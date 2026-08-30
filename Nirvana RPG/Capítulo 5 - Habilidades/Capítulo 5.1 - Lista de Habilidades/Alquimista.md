@@ -124,3 +124,10 @@ Você agora pode criar múltiplas Resinas Ácidas por Descanso Longo. A quantida
 **Requisitos**: Habilidade "Químico Destruidor" de Custo 2. 10 de Inteligência.
 
 O limite de CA diminuída aumenta para 7, e você também pode passar a Resina Ácida em Armas dos seus oponentes. Ao fazer isso, você diminui o dano causado por ele com aquela Arma em 3d8 + Int.
+
+## Transmutar (Custo 3)
+
+**Requisitos**: Habilidade "Alquimista Supremo" de Custo 3.
+**Custo**: Reação.
+
+Você troca o tipo de dano de uma instância de dano causada por você por qualquer tipo que você escolher entre Dano Físico e Elemental. Essa Habilidade deve ser usada em conjunto com a instância de dano em si, e só pode ser usada uma vez por Descanso Curto.

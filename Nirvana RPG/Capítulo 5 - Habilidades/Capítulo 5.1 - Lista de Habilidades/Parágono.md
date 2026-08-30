@@ -61,7 +61,11 @@ Você agora pode adicionar metade do seu Bônus de Proficiência à Perícias qu
 
 **Requisitos**: Você é um Humano de Nível 10 ou superior.
 
-Caso você não seja Proficiente em todas as Salvaguardas, você pode escolher mais uma para ser Proficiente. Além disso, você ganha Proficiência em um tipo de Arma adicional, e ignora penalidades de Deslocamento das Armaduras Pesadas. Você também se torna perito em uma Perícia adicional, à sua escolha.
+Você se torna Proficiente em:
+- Uma Perícia adicional;
+- Uma Salvaguarda adicional;
+- Um tipo de Arma adicional.
+Seu bônus de Proficiência também aumenta em 2 pontos.
 
 ## Aurora (Custo 3)
 

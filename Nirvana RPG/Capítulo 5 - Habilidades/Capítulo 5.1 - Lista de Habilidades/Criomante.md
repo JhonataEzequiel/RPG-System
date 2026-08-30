@@ -28,7 +28,7 @@ Ao usar essa Habilidade, você causará 1d10 a mais de Dano de Gelo com suas Mag
 **Requisitos**: 1 de Inteligência.
 **Custo**: Reação.
 
-Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto ou Longo. Em suma, ficará mais difícil para um inimigo resistir à sua Magia.
+Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto. Em suma, ficará mais difícil para um inimigo resistir à sua Magia.
 
 ## Era do Gelo (Custo 2)
 

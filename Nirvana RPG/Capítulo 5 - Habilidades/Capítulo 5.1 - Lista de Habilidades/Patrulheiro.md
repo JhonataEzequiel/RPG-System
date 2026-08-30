@@ -37,7 +37,7 @@ Os céus são sua casa, e você se sente mais confortável lutando de cima. Aume
 
 Seus sentidos bem treinados garantem uma chance maior de serem bem sucedidos em se concentrar para detectar coisas ao seu redor, como Armadilhas e inimigos.
 
-Sempre que for realizar um Teste de Percepção e falhar, você poderá rolar novamente o Teste, se assim desejar. Você terá que utilizar o novo valor, ainda que seja menor. Você pode utilizar essa Habilidade apenas duas vezes até ter um Descanso, seja ele Curto ou Longo.
+Sempre que for realizar um Teste de Percepção e falhar, você poderá rolar novamente o Teste, se assim desejar. Você terá que utilizar o novo valor, ainda que seja menor. Você pode utilizar essa Habilidade apenas duas vezes até ter um Descanso Curto.
 
 ## Descrição Avançada (Custo 1)
 
