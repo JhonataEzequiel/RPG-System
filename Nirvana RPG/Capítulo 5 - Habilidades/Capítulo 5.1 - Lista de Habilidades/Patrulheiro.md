@@ -6,7 +6,7 @@ O Arquétipo do Patrulheiro é o caçador das florestas. Ele é especialista em 
 **Requisitos**: 2 de Destreza. Ser capaz de realizar um Ataque a Distância.
 **Custo**: Ação Bônus.
 
-Você tem +2 de Destreza até o início do seu próximo Turno após realizar um Ataque a Distância. No entanto, você tem -2 em Destreza até o início do seu próximo Turno se realizar um Ataque corpo a corpo.
+Você tem +2 de Destreza até o início do seu próximo Turno após realizar um Ataque a Distância. No entanto, você tem -2 em Destreza até o início do seu próximo Turno se realizar um Ataque Corpo a Corpo.
 
 ## Presa Ato II (Custo 1)
 

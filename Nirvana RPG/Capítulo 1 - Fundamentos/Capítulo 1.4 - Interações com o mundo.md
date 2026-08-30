@@ -29,6 +29,17 @@ Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rola
 
 É possível que dois jogadores realizem um Teste ao mesmo tempo caso o Mestre permita. Por exemplo, se você deseja realizar um Teste de uma Perícia, e seu companheiro pergunta se pode ajudar, e o Mestre permitir, você terá Vantagem naquele teste.
 
+A tabela a seguir providenciará exemplos para diferentes dificuldades em um Teste. O seu Mestre poderá escolher um valor a depender do contexto da situação que pede o Teste.
+
+| Dificuldade Intendida | Valor no D20  |
+| --------------------- | ------------- |
+| Muito Fácil           | 5 ou menos    |
+| Fácil                 | Entre 6 e 10  |
+| Mediana               | Entre 11 e 15 |
+| Difícil               | Entre 16 e 20 |
+| Muito Difícil         | Entre 21 e 25 |
+| Lendária              | Maior que 25  |
+
 ## Salvaguardas (ou Testes de Resistência)
 
 Salvaguardas são Testes feitos com o intuito de resistir a alguma coisa. Por exemplo, uma Magia que causa uma explosão pode requerer que os alvos realizem uma Salvaguarda de Destreza para desviar do raio de impacto.
@@ -50,6 +61,8 @@ A Desvantagem funciona de forma similar, no entanto se escolherá o pior resulta
 O mestre pode conceder Vantagem ou Desvantagem dependendo da situação. Algumas Habilidades e Magias podem também conceder Vantagem ou Desvantagem.
 
 Em algumas raríssimas ocasiões é possível ter Vantagem Dupla. Trata-se de uma condição aonde você rolará o mesmo Teste três vezes e escolherá o resultado maior. Desvantagens Duplas são análogas, fazendo com que você escolha o pior. Normalmente é o Mestre que decide conceder Vantagem Dupla ou Desvantagem Dupla quando a situação é particularmente favorável ou desfavorável.
+
+Caso uma criatura possua Vantagem e Desvantagem ao mesmo tempo, por qualquer motivo, elas se anulam.
 
 ## Arredondamentos
 

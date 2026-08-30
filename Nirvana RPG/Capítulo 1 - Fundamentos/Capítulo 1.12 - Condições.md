@@ -13,7 +13,7 @@ Sofre Desvantagem em Ataques, e seu Deslocamento é cortado pela metade.
 
 ### Caído (ou Derrubado)
 
-Uma criatura Caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem Desvantagem em jogadas de Ataque. Quaisquer Ataques direcionados a criatura Caída tem Vantagem para acertar caso o atacante esteja em até 1.5m de distância dela. Ela pode se levantar com uma Ação.
+Uma criatura Caída pode rastejar, e não pode se mover normalmente até que se levante. Ela tem Desvantagem em jogadas de Ataque. Quaisquer Ataques direcionados a criatura Caída tem Vantagem para acertar caso o atacante esteja adjacente. Ela pode se levantar com uma Ação.
 
 ### Cego
 
@@ -58,7 +58,7 @@ A criatura larga o que estiver segurando e cai no chão.
 
 A criatura falha automaticamente em Salvaguardas de Força e Destreza.
 
-Jogadas de Ataque contra a criatura têm Vantagem. Qualquer Ataque que acerte a criatura é um Acerto Crítico se o atacante estiver a até 1.5m da criatura.
+Jogadas de Ataque contra a criatura têm Vantagem. Qualquer Ataque que acerte a criatura é um Acerto Crítico se o atacante estiver adjacente.
 
 ### Invisível
 
@@ -68,7 +68,9 @@ Uma criatura Invisível tem Vantagem em Testes de Furtividade, e também não po
 
 Você é incapacitado, e só pode sair desta Condição caso seja estabilizado de alguma forma. A única forma de ser Nocauteado é caso seus Pontos de Vida cheguem a zero.
 
-Para se libertar desta Condição você precisará passar por algumas Salvaguardas de Constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um Sucesso. Caso contrário, obtém um Fracasso. Você passará por uma Salvaguarda no início de cada um de seus Turnos, até que um resultado final seja obtido.
+Para se libertar desta Condição você precisará passar por algumas Salvaguardas de Constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um Sucesso. Caso contrário, obtém um Fracasso. Você passará por uma Salvaguarda no início de cada um de seus Turnos, até que um resultado final seja obtido. 
+
+Caso obtenha 3 falhas, seu personagem morre, e você não poderá mais utilizar ele a não ser que seja revivido de alguma maneira.
 
 ### Paralisado
 
@@ -78,7 +80,7 @@ A criatura falha automaticamente em Salvaguardas de Força e Destreza.
 
 Jogadas de Ataque contra a criatura têm Vantagem.
 
-Qualquer Ataque que acerte a criatura é um Acerto Crítico se o atacante estiver a até 1,5m da criatura.
+Qualquer Ataque que acerte a criatura é um Acerto Crítico se o atacante estiver adjacente.
 
 ### Petrificado
 

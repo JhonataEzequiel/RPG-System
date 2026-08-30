@@ -1,0 +1,6 @@
+
+**Seguidor** (Reação, 5 de Mana): Um Okuri fica sempre atento aos seus arredores. Sempre que um dos participantes do combate no alcance do seu Deslocamento falhar em uma Salvaguarda, você pode escolher Atacar a criatura que fez seu companheiro passar pela Salvaguarda (caso seja um aliado que tenha falhado), ou Atacar o inimigo que falhou na Salvaguarda, desde que o mesmo esteja no alcance de seu Deslocamento. O Ataque proporcionado por esta Habilidade não tem sofre Penalidades de Ataque, nem conta para elas.
+
+**Forma Espectral** (Três Ações, 5 de Mana, 1 Encontro): Você acessa o plano espiritual por alguns instantes. Sua pelagem fica branca e etérea, como se as pontas de seus pelos ficassem transparentes. Você tem +1 em Testes de Furtividade. Ao entrar no Mundo Espectral, seu Deslocamento aumentará em 1.5m, e você irá ignorar efeitos que diminuam seu Deslocamento (incluindo Terreno Difícil). Ademais, você tem seu Nível + o dobro do seu Bônus de Proficiência como Pontos de Resistência a Dano Físico, e se torna Imune a Dano de Sangue. Você pode desativar essa Habilidade com uma Ação Bônus.
+
+Caso você esteja na Forma Espectral, o custo de Mana de "Seguidor" é reduzido em 4. O primeiro uso de Forma Espectral após ter um Descanso Longo não custará Mana, e custará apenas uma Ação.

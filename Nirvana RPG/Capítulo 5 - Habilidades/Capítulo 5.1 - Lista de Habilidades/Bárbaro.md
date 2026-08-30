@@ -162,3 +162,17 @@ Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar 
 Sua força de preensão aumenta a níveis extremos. Você tem Vantagem dupla em Testes de Atletismo. Você rolará 3 Testes, e ficará com o maior resultado. Além disso, você se torna imune a quaisquer tentativas de desarme.
 
 Lendas são contadas de indivíduos que chegaram neste nível de força, e a principal delas era a capacidade de transformar carvão em diamante apenas apertando ele em suas mãos.  Você pode gastar 10 de Mana para fazer isso, ao troco de ter um Nível de Exaustão.
+
+## Guiado Por Ódio (Custo 3)
+
+**Requisitos**: 10 de Constituição.
+**Custo**: Ação Bônus.
+**Duração**: 1 Encontro.
+
+Você agora pode forçar seu corpo a aguentar por mais tempo que o ideal, forçando-o a se regenerar imediatamente, ignorando o tempo adequado que levaria para se curar dos ferimentos.
+
+Até o fim do Encontro, você não poderá mais escolher poupar uma criatura alvo, e sempre irá matá-la. Se falhar num Teste de Resistência de Força CD 15 - Sab, você perderá o controle totalmente, e atacará a criatura alvo mais próximo de você, não se importando se são aliados. Em troca, você pode optar por curar qualquer dano sofrido no início de cada um de seus Turnos com uma Ação Livre, ao custo de 1 Ponto de Vida Máximo para cada 10 Pontos de Vida curados. Você deve arredondar esse valor para cima, ou seja, curar 11 Pontos de Vida custará 2 Pontos de Vida Máximos.
+
+Esses Pontos de Vida Máximos só poderão ser recuperados através da Magia Sagrada de Custo 9 "Cura Suprema". Você não recuperará Pontos de Vida ao ser alvo dessa Magia, apenas restaurará seus Pontos de Vida Máximos ao valor anterior. Você só poderá ter seus Pontos de Vida Máximos restaurados dessa forma quando estiver fora de combate. O conjurador que conjurar essa Magia em você com este intuito gastará toda a Mana dele para isso. Caso o conjurador decida, ele pode não recuperar seus Pontos de Vida Máximos, mas sim curá-lo normalmente com a Magia.
+
+Você pode desativar essa Habilidade ao custo de três Ações.

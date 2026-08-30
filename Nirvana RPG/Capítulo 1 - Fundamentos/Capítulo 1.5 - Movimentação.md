@@ -9,7 +9,7 @@ O Deslocamento Terrestre é o padrão, normalmente chamado apenas de Deslocament
 
 ### Deslocamento Aéreo
 
-Também é chamado de Deslocamento de Voo. O Deslocamento de Voo é concedido a qualquer criatura capaz de voar, seja por meios naturais ou mágicos. Uma criatura capaz de voar tem a CA  contra Ataques corpo-a-corpo dela aumentada em 2 pontos quando estiver voando, desde que a criatura atacando não esteja voando também.
+Também é chamado de Deslocamento de Voo. O Deslocamento de Voo é concedido a qualquer criatura capaz de voar, seja por meios naturais ou mágicos. Uma criatura capaz de voar tem a CA  contra Ataques Corpo a Corpo dela aumentada em 2 pontos quando estiver voando, desde que a criatura atacando não esteja voando também.
 
 ### Deslocamento Aquático
 

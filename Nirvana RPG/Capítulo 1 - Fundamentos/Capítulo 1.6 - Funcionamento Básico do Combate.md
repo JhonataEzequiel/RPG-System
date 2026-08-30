@@ -33,6 +33,18 @@ Ataques são definidos por tentativas de uma criatura de causar dano a outra sem
 
 Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o bônus especificado em seu Ataque para realizar esse Teste. Normalmente está descrição da Arma equipada para Atacar. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
 
+## Adjacência
+
+Uma criatura é considerada adjacente à outra caso esteja em até 1.5m de distância.
+
+## Tipos de Ataque
+
+Existem dois tipos de Ataques, os Ataques Corpo a Corpo e os Ataques à Distância. 
+
+**Ataques Corpo a Corpo**: são aqueles causados quando o alvo está adjacente, e a Arma utilizada não dispara projéteis. Desde que um alvo esteja a até 1.5m de distância do alcance máximo do seu Deslocamento, você poderá se mover até ele e Atacar.
+
+**Ataques à Distância**: são todos aqueles cujo a Arma dispara projéteis, independente da distância. Você possui Desvantagem em Ataques à Distância se o alvo estiver adjacente a você.
+
 ## Penalidade de Ataques
 
 É importante destacar que se um participante do combate, seja um jogador ou um monstro inimigo, Atacar múltiplas vezes no seu Turno, ele sofrerá Penalidades. Por exemplo: se você Atacar na primeira Ação, e queira Atacar de novo, terá -5 na segunda rolagem. Caso Ataque três vezes seguidas, terá uma penalidade de -10. Para critérios de simplificação, chamaremos essa penalidade de "Penalidades de Ataque".
@@ -64,6 +76,7 @@ Ademais, o alcance de seus arremessos é igual ao seu Modificador de Força em m
 ## Coeficiente de Armadura (CA)
 
 Servirá como uma métrica para determinar se um Ataque atingirá um oponente ou não. A CA é calculada como 10 + Modificador de Força + Modificador de Destreza + bônus concedido pela Armadura equipada. No entanto, você pode escolher utilizar seu Valor de Atributo de Força inteiro ao invés do Modificador, caso seu Modificador de Destreza seja 0. Caso o Modificador de Destreza seja menor que 0, você ainda precisará contabilizá-lo na CA, mas ainda poderá utilizar o valor inteiro de Força. O valor de CA não pode ser inferior a 0.
+
 ## Dano de Armas, Magias, e Ataques
 
 O dano é representado pela quantidade de dados que deverá ser rolada para afetar o oponente, e o Atributo ao qual o bônus será usado. Algumas vezes o bônus pode não existir, ou ser negativo. O menor dano possível é 0. 

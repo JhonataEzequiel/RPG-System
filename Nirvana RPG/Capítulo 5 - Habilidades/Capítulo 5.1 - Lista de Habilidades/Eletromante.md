@@ -47,7 +47,7 @@ Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5
 
 Você sacrifica um Item Mágico ou Único de Grau 1 ou maior, o transformando em eletricidade, que é absorvida pelo seu corpo. Você recebe os seguintes benefícios:
 - Seu Deslocamento aumenta em 10.5m;
-- Todo Ataque corpo a corpo feito contra você reflete 1d8 de dano no atacante como Dano de Raio;
+- Todo Ataque Corpo a Corpo feito contra você reflete 1d8 de dano no atacante como Dano de Raio;
 - Você tem Vantagem em Salvaguardas de Destreza;
 - Você tem +10 em quaisquer Testes de Destreza, incluindo Ataques que utilizem Destreza como bônus, Salvaguardas, Perícias, e quaisquer outros;
 - Você se torna Imune a Dano de Raio.

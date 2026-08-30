@@ -3,7 +3,7 @@ Existem Magias e Arcanos Menores. Arcanos Menores não gastam Mana, já Magias, 
 
 Uma Magia pode mostrar vários Requisitos, mas requerer apenas um. Neste caso, o conectivo "ou" será utilizado para denotar que apenas um dos Requisitos será necessário. Exemplo: "5 de Inteligência, Fé, ou Carisma".
 
-Magias com alcance "Toque" podem ser utilizadas no próprio conjurador. Basta que ele toque em si mesmo e conjure a Magia. Algumas Magias também terão um alcance igual ao Deslocamento do conjurador. Neste caso, estará especificado no alcance apenas como "Deslocamento" ou algo como "9m + Deslocamento", caso o alcance for um pouco maior.
+Magias com alcance "Toque" podem ser utilizadas no próprio conjurador e em alvos adjacentes. Basta que ele toque em si mesmo e conjure a Magia. Algumas Magias também terão um alcance igual ao Deslocamento do conjurador. Neste caso, estará especificado no alcance apenas como "Deslocamento" ou algo como "9m + Deslocamento", caso o alcance for um pouco maior.
 
 As Magias podem ter como tempo necessário para conjurar tanto uma quantidade de Ações (mais comum), quanto uma unidade de tempo específica, sejam minutos, horas, ou algo similar. Elas também podem ser de Concentração, o que significa que ficarão ativas enquanto você quiser mantê-las, ou até alguém quebrar a sua Concentração. A quebra de Concentração pode ocorrer caso você sofra uma quantidade de dano igual ou maior do que metade dos seus Pontos de Vida Atuais, ou alguém te force a passar em uma Salvaguarda qualquer e você falhe. Se qualquer processo de conjuração for interrompido antes da hora, você gastará os Pontos de Mana normalmente.
 
