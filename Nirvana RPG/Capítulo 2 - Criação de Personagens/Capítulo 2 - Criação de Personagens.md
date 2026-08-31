@@ -15,7 +15,7 @@ Além dos traços de personalidade, você também deverá apontar uma qualidade 
 
 ### Defeitos
 
-Seu personagem, provavelmente, estará longe da perfeição. Sendo assim, além das qualidades, procure destacar alguns defeitos do seu personagem. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
+Seu personagem, provavelmente, estará longe da perfeição. Sendo assim, além das qualidades, procure destacar alguns defeitos dele. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
 
 ## Escolha de Raça
 

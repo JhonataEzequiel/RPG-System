@@ -209,7 +209,7 @@ Nuvem Voadora: 6 de Inteligência ou Carisma. Imaculada.
 
 Cicatrizar: 5 de Inteligência, 6 de Fé. Sangue.
 
-Reanimação Completa: 5 de Inteligência, 6 de Fé. Sortilégio.
+Reanimação Parcial: 5 de Inteligência, 6 de Fé. Sortilégio.
 
 Caminho de Gelo: 6 de Inteligência. Elemental.
 
@@ -229,7 +229,7 @@ Hiposfagma: 6 de Fé, 6 de Inteligência. Sangue.
 
 Azul: 6 de Inteligência. Imaculada.
 
-Sol e a Lua: 6 de Inteligência. Elemental.
+Astros: 6 de Inteligência. Elemental.
 
 Estalo: 6 de Inteligência. Imaculada.
 
@@ -263,7 +263,7 @@ Sonho de Fogo: 7 de Inteligência, 7 de Carisma. Imaculada.
 
 Ouro no Lixo: 7 de Inteligência. Imaculada.
 
-Singularidade Perfeita: 7 de Fé, 7 de Inteligência. Sortilégio.
+Singularidade Imperfeita: 7 de Fé, 7 de Inteligência. Sortilégio.
 
 Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 

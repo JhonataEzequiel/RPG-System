@@ -129,7 +129,7 @@ Submissão Cósmica: 6 de Fé ou Carisma. Sagrada.
 
 Cicatrizar: 5 de Inteligência, 6 de Fé. Sangue.
 
-Reanimação Completa: 5 de Inteligência, 6 de Fé. Sortilégio.
+Reanimação Parcial: 5 de Inteligência, 6 de Fé. Sortilégio.
 
 Redenção Tardia: 6 de Fé. Sagrada.
 
@@ -159,7 +159,7 @@ Floresta de Ossos: 7 de Inteligência, 7 de Fé. Sortilégio.
 
 Sutra: 7 de Fé. Sagrada.
 
-Singularidade Perfeita: 7 de Fé, 7 de Inteligência. Sortilégio.
+Singularidade Imerfeita: 7 de Fé, 7 de Inteligência. Sortilégio.
 
 Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 
@@ -173,7 +173,7 @@ Banir: 8 de Fé. Sagrada.
 
 Ruína: 8 de Inteligência, 8 de Fé. Sortilégio.
 
-Luz Resplandescente: 8 de Carisma ou Fé. Sagrada.
+Luz Resplandecente: 8 de Carisma ou Fé. Sagrada.
 
 Curar Maldições: 8 de Carisma, 8 de Fé. Sagrada.
 
