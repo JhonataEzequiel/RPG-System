@@ -31,6 +31,14 @@ Ao chegar ao Nível 10 de Inteligência, você evolui os Arcanos Menores em mais
 
 A cada três Magias que você anotar no seu Grimório, adicione 1d4 Pontos de Mana enquanto estiver com o Grimório equipado.
 
+## Foco Arcano (Custo 1)
+
+**Requisitos**: 1 de Sabedoria.
+
+Você escolhe uma Arma ou objeto que você possua. Esse objeto agora aumenta a força de suas Magias. Você aumenta a CD para evitar os efeitos negativos de suas Magias em 1 ponto. Caso a magia cause exclusivamente dano ou cura, sem pedir por uma Salvaguarda, você aumenta esse valor em 1d4. Caso a Magia cause múltiplos tipos de dano, você escolhe um dos tipos para receber o aumento. 
+
+Você deve estar com o item equipado antes de conjurar a Magia para se beneficiar desses bônus, e ele ocupa uma de suas mãos, a não ser que seja uma Arma de Empunhadura Dupla, pois ocupará as duas por padrão.
+
 ## Assinatura de Mana (Custo 1)
 
 **Requisitos**: 1 de Carisma, Inteligência, ou Fé.

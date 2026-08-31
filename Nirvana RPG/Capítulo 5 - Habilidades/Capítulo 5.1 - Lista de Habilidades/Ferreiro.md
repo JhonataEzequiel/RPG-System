@@ -3,9 +3,9 @@ O Arquétipo do Ferreiro governa todas as Habilidades relacionadas a confecção
 
 ## Ferraria (Custo 1)
 
-**Requisitos**: 2 de Sabedoria. Você precisa ter uma Bigorna e um Martelo de Forja.
+**Requisitos**: 2 de Sabedoria. Uma Bigorna e um Martelo de Forja.
 
-Você pode forjar qualquer Arma ou Armadura não-mágica ou única da lista de itens, desde que tenha o dinheiro necessário para tal. O custo para forjar um item é igual a metade do preço sugerido na tabela de itens, refletindo o custo dos materiais necessários. O tempo para forjar um item aumenta conforme o peso dele:
+Você pode forjar qualquer Arma, Armadura, ou Escudo não-mágica ou única do Capítulo 4.1 - Lista de Armaduras, do Capítulo 4.2 - Lista de Armas, e do Capítulo 4.3 - Lista de Escudos, desde que tenha o dinheiro necessário para tal. O custo para forjar um item é igual a metade do preço sugerido na tabela de itens, refletindo o custo dos materiais necessários. O tempo para forjar um item aumenta conforme o peso dele:
 
 | Peso do Item  | Tempo de Forja |
 | ------------- | -------------- |
@@ -18,7 +18,7 @@ Sua Capacidade de Carga agora é aumentada em dez vezes o seu Bônus de Profici�
 
 ## Afiação (Custo 1)
 
-**Requisitos**: Você possui uma Pedra de Amolar.
+**Requisitos**: Uma Pedra de Amolar.
 
 Ao afiar uma lâmina, sua Margem de Ameaça aumentará em 2 pontos. Esse bônus não é cumulativo.
 
@@ -38,10 +38,20 @@ Você agora pode realizar múltiplas Infusões de itens, assim como consta as re
 
 **Requisitos**: Habilidade "Ferraria Avançada" de Custo 3. 8 de Sabedoria, 3 de Inteligência.
 
-Você pode criar Itens Mágicos e Únicos, caso tenha os materiais necessários. Neste caso, o que for necessário para criar um Item Mágico fica a critério do Mestre, caso o próprio item não especifique isso. Para criar um Item Mágico de Grau 1 você gasta 3 dias. De Grau 2, uma semana. De Grau 3, um mês. Você não pode criar Poções, Venenos, Bombas, ou coisas similares. Num geral, tudo que for de metal ou joias é permitido criar. Demais itens precisarão da aprovação do seu Mestre para serem forjados.
+Você pode criar Itens Mágicos e Únicos, cuja a lista está disponível no Capítulo 4.11 - Itens Mágicos e Únicos, caso tenha os materiais necessários. Você precisará de materiais adequados, e eles serão representados por uma quantidade de moedas que vai depender do Grau do item que deseja criar. Caso um item desse tipo tenha um preço indicado, o preço para criá-lo será metade desse valor. Caso não, a tabela abaixo serve como base. Caso o item esteja sob uma faixa de preço específica, o valor final fica a critério do mestre.
+
+| Grau do Item | Tempo de Criação | Preço dos Materiais |
+| ------------ | ---------------- | ------------------- |
+| 1            | 24 Horas         | 150pl               |
+| 2            | 1 Semana         | 600pl               |
+| 3            | 1 Mês            | 12000pl             |
+
+Também é possível criar seus próprios Itens Mágicos com efeitos únicos. Caso você tenha uma boa ideia e seu Mestre aprove, é possível criar itens especiais que só você terá. O preço e tempo de criação podem variar, mas num geral, devem seguir o recomendado pela tabela. O Mestre tem poder de arbitragem em relação aos efeitos escolhidos para um item. Ele pode, inclusive, não permitir que você crie um item próprio, se ele achar melhor para o desenvolvimento da mesa.
+
+Você não pode criar Poções, Venenos, Bombas, ou coisas similares. Num geral, tudo que for de metal ou joias é permitido criar. Demais itens precisarão da aprovação do seu Mestre para serem forjados.
 
 ## Ferraria Inigualável (Custo 3)
 
-**Requisitos**: Habilidade "Ferraria Mágica" de Custo 3. 10 de Sabedoria, 4 de Inteligência.
+**Requisitos**: Habilidade "Ferraria Avançada" de Custo 3. 10 de Sabedoria, 4 de Inteligência.
 
-Você diminui o tempo para forjar ou Infundir qualquer item não-mágico pela metade. As Pedra de Infusão que você infunde agora tem o efeito dobrado. Ou seja, ao infundir uma Pedra de Infusão que aumentaria as Escalas de um item em dois graus, ela aumentará em quatro. Os efeitos de diminuição de Escala permanecem o mesmo. Você também pode infundir Pedra de Infusão em Itens Mágicos.
+Você diminui o tempo para forjar ou Infundir qualquer item não-mágico pela metade. As Pedra de Infusão que você infunde agora tem o efeito dobrado. Ou seja, ao infundir uma Pedra de Infusão que aumentaria as Escalas de um item em dois graus, ela aumentará em quatro. Os efeitos de diminuição de Escala permanecem o mesmo. Você também pode infundir Pedra de Infusão em Itens Mágicos desde que sejam Armaduras ou Armas.

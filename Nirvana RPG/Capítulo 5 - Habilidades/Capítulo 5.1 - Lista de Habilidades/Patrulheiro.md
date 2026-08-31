@@ -19,11 +19,11 @@ Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distânci
 **Custo**: Duas Ações, 1 de Mana.
 **Requisitos**: Ter uma Arma a Distância equipada.
 
-Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior. 
+Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior, além de adicionar, de maneira inconsciente, parte de sua Mana. Essa Habilidade causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante.
 
-O alvo atingido terá que realizar um Teste de Constituição CD 10 + Dex. Caso falhe, terá 5 de Vulnerabilidade a Dano Perfurante até o início do seu próximo Turno. Essa Habilidade causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante.
+O alvo atingido terá que realizar um Teste de Resistência Constituição CD 10 + Dex. Caso falhe, terá 5 de Vulnerabilidade a Dano Perfurante até o início do seu próximo Turno. Caso um alvo seja inicialmente Imune a Dano Perfurante ele não precisará passar pelo Teste de Resistência de Constituição, pois não poderá receber os 5 pontos de Vulnerabilidade. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
 
-Além disso, este Ataque não é afetado pelas Penalidades de Ataque. Você não pode mais Atacar neste Turno.
+ Por fim, este Ataque não é afetado pelas Penalidades de Ataque. Você não pode mais Atacar neste Turno.
 
 ## Atirador Aéreo (Custo 1)
 

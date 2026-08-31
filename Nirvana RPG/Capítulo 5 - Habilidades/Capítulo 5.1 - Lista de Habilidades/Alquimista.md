@@ -3,13 +3,13 @@ O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consum�
 
 ## Artesão de Bombas (Custo 1)
 
-**Requisitos**: 2 de Inteligência.
+**Requisitos**: 2 de Inteligência. Um Almofariz.
 
-Você agora consegue fabricar um Item Arremessável qualquer que não seja considerado um Item Mágico ou Único. Para cada item criado você dedica 1 minuto fora de combate, ou três Rodadas em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
+Você agora consegue fabricar um Item Arremessável qualquer do Capítulo 4.7 - Itens Arremessáveis. Para cada item criado você dedica 1 minuto fora de combate, ou três Rodadas em combate. Ademais, também será necessário uma quantia de moedas que simbolizarão os materiais perdidos na fabricação. A quantidade gasta será metade do custo sugerido para estes itens.
 
 ## Artesão de Itens Aplicáveis (Custo 1)
 
-**Requisitos**: 2 de Inteligência.
+**Requisitos**: 2 de Inteligência. Um Almofariz.
 
 Você agora consegue criar qualquer item mencionado na tabela de Itens Aplicáveis, no Capítulo 4.6 - Lista de Itens Aplicáveis. Você gasta 10 minutos para criar o item, e uma quantidade de moedas igual a metade do custo do item.
 
@@ -45,7 +45,9 @@ Você agora pode arremessar Poções, que caem em um local, afetando uma área c
 
 ## Alquimista Iniciante (Custo 1)
 
-Você consegue agora criar Poções e Venenos caso tenha um Almofariz. O custo em moedas para criar as Poções é metade do custo padrão delas. O tempo para criar uma Poção é de 30 minutos.
+**Requisitos**: 2 de Inteligência. Um Almofariz.
+
+Você consegue agora criar Poções e Venenos. O custo em moedas para criar as Poções ou Venenos é metade do custo padrão delas. O tempo para criar uma Poção ou Veneno é de 30 minutos.
 
 ## Mestre em Explosões (Custo 2)
 
@@ -83,6 +85,20 @@ Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma
 **Requisitos**: Habilidade "Alquimista Iniciante" de Custo 1. 3 de Inteligência ou Sabedoria.
 
 Você agora pode tomar qualquer Poção como uma Ação Bônus, e aplicar qualquer Veneno como uma Ação Bônus. Poções de Restauração curam o máximo possível sempre que consumidas. O tempo para criar uma Poção agora é de apenas uma Rodada.
+
+## Alquimista Mágico (Custo 3)
+
+**Requisitos**: Habilidade "Artesão de Itens Aplicáveis" de Custo 1, Habilidade "Artesão de Itens Arremessáveis" de Custo 1, Habilidade "Alquimista Iniciante" de Custo 1.
+
+Você também pode confeccionar Itens Mágicos Arremessáveis, Aplicáveis, Poções, Venenos, e quaisquer outros itens similares de Grau 1 ao 3. O tempo de confecção e o preço em materiais aumenta conforme o Grau do item. Caso um item desse tipo tenha um preço indicado, o preço para criá-lo será metade desse valor. Caso não, a tabela abaixo serve como base. Caso o item esteja sob uma faixa de preço específica, o valor final fica a critério do mestre.
+
+| Grau do Item | Tempo de Criação | Preço dos Materiais |
+| ------------ | ---------------- | ------------------- |
+| 1            | 24 Horas         | 150pl               |
+| 2            | 1 Semana         | 600pl               |
+| 3            | 1 Mês            | 12000pl             |
+
+Também é possível criar seus próprios Itens Mágicos (desde que seja Arremessáveis, Aplicáveis, Poções e Venenos) com efeitos únicos. Caso você tenha uma boa ideia e seu Mestre aprove, é possível criar itens especiais que só você terá. O preço e tempo de criação podem variar, mas num geral, devem seguir o recomendado pela tabela. O Mestre tem poder de arbitragem em relação aos efeitos escolhidos para um item. Ele pode, inclusive, não permitir que você crie um item próprio, se ele achar melhor para o desenvolvimento da mesa.
 
 ## Mestre Botânico (Custo 3)
 

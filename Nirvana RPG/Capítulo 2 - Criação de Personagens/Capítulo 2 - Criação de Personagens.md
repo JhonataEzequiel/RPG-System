@@ -90,4 +90,4 @@ Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à su
 
 ## Equipamento Inicial
 
-Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos.
+Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos, com exceção do Capítulo 4.11 - Itens Mágicos e Únicos.

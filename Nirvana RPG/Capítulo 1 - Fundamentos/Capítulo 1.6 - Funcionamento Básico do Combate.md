@@ -67,31 +67,27 @@ Existem vários tipos de Magias de Dano (Magias que causam algum tipo de dano), 
 
 Você pode tentar Desviar de um Ataque. Desviar requer que você encerre seu Turno, e custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -3 para acertar até o início do seu próximo Turno.
 
+## Coeficiente de Armadura (CA)
+
+Servirá como uma métrica para determinar se um Ataque atingirá um oponente ou não. A CA é calculada como 10 + Modificador de Força + Modificador de Destreza + bônus concedido pela Armadura equipada. No entanto, você pode escolher utilizar seu Valor de Atributo de Força inteiro ao invés do Modificador, caso seu Modificador de Destreza seja 0. Caso o Modificador de Destreza seja menor que 0, você ainda precisará contabilizá-lo na CA, mas ainda poderá utilizar o valor inteiro de Força. O valor de CA não pode ser inferior a 0.
+
+## Armas e Objetos Equipados
+
+Alguns itens necessitam que você os segure em uma das mãos para que possam ser usados. Você pode segurar uma quantidade de itens igual a sua quantidade de mãos. Você pode soltar um item segurado com uma Ação Livre, e gastará uma Ação Bônus para apanhá-lo do chão. Para trocar um item equipado por outro que você possua você gastará uma Ação. Por padrão, uma criatura possui duas mãos. Isso é o normal das Raças jogáveis, mas é possível que alguns monstros possuam mais do que duas.
+
 ## Arremessar
 
 Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um Ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro Ataque, e não utilizará nenhum Atributo como bônus a priori, podendo conseguir isto através de Habilidades. Arremessar não se beneficia de Habilidades que melhoram Ataques num geral, nem conta para a Penalidade de Ataques. As Habilidades que influenciam sua capacidade de Arremessar itens deixarão isso explicito na descrição delas.
 
-Ademais, o alcance de seus arremessos é igual ao seu Modificador de Força em metros mais seu Deslocamento, com o mínimo de 1.5m. Arremessar, num geral, custa uma Ação, seja para causar dano a um inimigo ou não. Poções não tem efeito quando arremessadas.
+O alcance de seus arremessos é igual ao seu Modificador de Força em metros (1.5m para cada ponto no Modificador) mais seu Deslocamento, com o mínimo de 1.5m. Arremessar, num geral, custa uma Ação, seja para causar dano a um inimigo ou não. Poções não tem efeito quando arremessadas.
 
-## Coeficiente de Armadura (CA)
-
-Servirá como uma métrica para determinar se um Ataque atingirá um oponente ou não. A CA é calculada como 10 + Modificador de Força + Modificador de Destreza + bônus concedido pela Armadura equipada. No entanto, você pode escolher utilizar seu Valor de Atributo de Força inteiro ao invés do Modificador, caso seu Modificador de Destreza seja 0. Caso o Modificador de Destreza seja menor que 0, você ainda precisará contabilizá-lo na CA, mas ainda poderá utilizar o valor inteiro de Força. O valor de CA não pode ser inferior a 0.
+Você deve ter ao menos uma mão desocupada para poder Arremessar um item, e Itens Arremessáveis não precisam ser equipados, não gastando Ação ou Ação Bônus para isso. No entanto, caso você deseje Arremessar um outro tipo de item, como Armas ou Escudos, você precisará ter ele equipado.
 
 ## Dano de Armas, Magias, e Ataques
 
 O dano é representado pela quantidade de dados que deverá ser rolada para afetar o oponente, e o Atributo ao qual o bônus será usado. Algumas vezes o bônus pode não existir, ou ser negativo. O menor dano possível é 0. 
 
 Exemplo: se na descrição de um Ataque diz que o dano será de 1d8 + For, ele irá rolar um dado de 8 lados e adicionar o Modificador de Força ao dano. Isso se aplica a qualquer fonte de dano.
-
-## Ações Lendárias
-
-Alguns monstros possuirão Ações Lendárias, que são Ações que podem ser usadas a qualquer momento, sem custo algum, até mesmo fora do Turno dos monstros. As Ações Lendárias estarão na descrição dos monstros caso eles as possuam. Normalmente são dadas apenas a criaturas extremamente fortes. As Ações Lendárias são algo bem específico, como um monstro poder Atacar ou usar uma Magia fora de seu Turno, o que não engloba tudo que se pode realizar numa Ação.
-
-Algumas das Habilidades deixam você utilizar algum tipo de Ação fora de seu Turno, modificando o fluxo do combate. Estas não são Ações Lendárias, mas funcionam de maneira similar.
-
-## Resistências Lendárias
-
-Similarmente às Ações Lendárias, as Resistências Lendárias permitem que uma criatura passe automaticamente em uma Salvaguarda, se ela assim desejar. O número de vezes é limitado, normalmente recarregando após um dia (o equivalente a um Descanso Longo).
 
 ## Áreas de Efeito
 
@@ -106,3 +102,13 @@ Existem alguns tipos diferentes de Áreas de Efeito, as quais são utilizadas po
 **Cilindro**: uma Área Circular com altura, como uma coluna ou tornado.
 
 **Linha**: uma área estreita e longa em linha reta a partir do ponto de origem, como um raio ou jato.
+
+## Ações Lendárias
+
+Alguns monstros possuirão Ações Lendárias, que são Ações que podem ser usadas a qualquer momento, sem custo algum, até mesmo fora do Turno dos monstros. As Ações Lendárias estarão na descrição dos monstros caso eles as possuam. Normalmente são dadas apenas a criaturas extremamente fortes. As Ações Lendárias são algo bem específico, como um monstro poder Atacar ou usar uma Magia fora de seu Turno, o que não engloba tudo que se pode realizar numa Ação.
+
+Algumas das Habilidades deixam você utilizar algum tipo de Ação fora de seu Turno, modificando o fluxo do combate. Estas não são Ações Lendárias, mas funcionam de maneira similar.
+
+## Resistências Lendárias
+
+Similarmente às Ações Lendárias, as Resistências Lendárias permitem que uma criatura passe automaticamente em uma Salvaguarda, se ela assim desejar. O número de vezes é limitado, normalmente recarregando após um dia (o equivalente a um Descanso Longo).
