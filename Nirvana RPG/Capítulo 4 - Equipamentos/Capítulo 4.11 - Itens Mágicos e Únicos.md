@@ -163,3 +163,11 @@ Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetr
 | Armadura              | Preço      | CA  | Requisitos | Escalas                 | Penalidades | Efeitos Adicionais | Peso  |
 | --------------------- | ---------- | --- | ---------- | ----------------------- | ----------- | ------------------ | ----- |
 | Armadura de Tetranita | Indefinido | +8  | -          | S em todos os Atributos | -           | -                  | 20 kg |
+
+## Capa dos Ventos
+
+Essa capa controla os espíritos do vento ao redor, utilizando-os ao seu favor. Ao equipar, você precisará entrar em contato com os espíritos, que fará necessário que você tenha um Descanso Longo com ela vestida, a Capa dos Ventos terá efeito. Enquanto não fizer isso, ela serve apenas como peso extra. Uma vez sintonizado com os espíritos do vento, não precisará repetir o processo caso retire a capa e a vista de novo.
+
+| Armadura        | Preço  | CA  | Requisitos | Escalas       | Penalidades | Efeitos Adicionais                                                                                                                                                                                                                                                                                       | Peso |
+| --------------- | ------ | --- | ---------- | ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Capa dos Ventos | 5000pl | +1  | -          | S em Destreza | -           | Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica, a partir daí começará a contar para seu Deslocamento. | 1 kg |
