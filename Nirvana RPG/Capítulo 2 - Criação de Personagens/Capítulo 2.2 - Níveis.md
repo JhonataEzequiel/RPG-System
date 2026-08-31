@@ -55,6 +55,8 @@ Se optar pelo valor médio, você dividirá o número máximo possível do seu D
 
 Caso sua Constituição tenha valor negativo, você não somará o Modificador. Caso sua Sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana por Nível.
 
+## Pontos Retroativos
+
 Caso seu Modificador de Constituição ou Sabedoria aumente em Níveis futuros, você pode adicionar Pontos de Vida e Mana retroativamente de acordo com o aumento. Supondo, por exemplo, que seu Nível antigo de Constituição era 8, e você está Nível 19, mas ao evoluir para o Nível 20 você coloque mais dois Pontos de Atributo em Constituição, seu Modificador aumentará em 1 ponto, e você ganhará 1 Ponto de Vida adicional para cada Nível além do 20. Neste caso, 19 Pontos de Vida adicionais.
 
 ## Pontos de Atributo e Habilidade
