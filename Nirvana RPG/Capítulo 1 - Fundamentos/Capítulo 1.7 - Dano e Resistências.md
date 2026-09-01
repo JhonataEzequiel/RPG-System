@@ -21,7 +21,7 @@ O Dano Cortante é normalmente causado por muitos tipos de armas, e trata-se de 
 
 ## Dano Ácido e Dano Venenoso
 
-Dano Ácido pode corroer equipamentos, diminuindo a CA de uma Armadura, ou inutilizando uma Arma. Quando isso acontecer, estará especificado na fonte do Dano Ácido. Já o Dano Venenoso, normalmente causa Dano Contínuo, e é mais voltado para debilitar o oponente. Eles são considerados Dano Físico, mas ignoram Imunidades a Dano Físico. É possível que uma criatura possua Imunidades a estes tipos de dano, mas serão específicas deles, os diferenciando de outros Danos Físicos.
+Dano Ácido pode corroer equipamentos, diminuindo a CA de uma Armadura, ou inutilizando uma Arma. Quando isso acontecer estará especificado na fonte do Dano Ácido. Já o Dano Venenoso, normalmente causa Dano Contínuo, e é mais voltado para debilitar o oponente. Eles são considerados Dano Físico, mas ignoram Imunidades a Dano Físico. É possível que uma criatura possua Imunidades a estes tipos de dano, mas serão específicas deles, os diferenciando de outros Danos Físicos.
 
 ## Dano Mágico
 

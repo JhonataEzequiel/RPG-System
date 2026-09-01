@@ -5,7 +5,7 @@ O Arquétipo do Polímata diz respeito a Habilidades que não necessariamente pe
 
 **Requisitos**: Esta Habilidade só pode ser pega no Nível 1.
 
-Você tem +50po disponíveis para adquirir seu Equipamento Inicial.
+Você tem +50po disponíveis para adquirir seu Equipamento Inicial. Você pode escolher essa Habilidade múltiplas vezes.
 
 ## Bom Início (Custo 1)
 

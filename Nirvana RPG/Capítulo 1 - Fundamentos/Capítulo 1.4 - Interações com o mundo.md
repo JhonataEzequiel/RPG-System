@@ -29,7 +29,7 @@ Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rola
 
 É possível que dois jogadores realizem um Teste ao mesmo tempo caso o Mestre permita. Por exemplo, se você deseja realizar um Teste de uma Perícia, e seu companheiro pergunta se pode ajudar, e o Mestre permitir, você terá Vantagem naquele teste.
 
-A tabela a seguir providenciará exemplos para diferentes dificuldades em um Teste. O seu Mestre poderá escolher um valor a depender do contexto da situação que pede o Teste.
+A tabela a seguir providenciará exemplos para diferentes dificuldades em um Teste. O seu Mestre poderá escolher um valor diferente a depender do contexto da situação que pede o Teste.
 
 | Dificuldade Intendida | Valor no D20  |
 | --------------------- | ------------- |

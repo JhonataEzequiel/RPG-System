@@ -35,7 +35,7 @@ Ao Rastejar, seu Deslocamento é diminuído pela metade. Normalmente é causado 
 
 Você pode Pular uma distância igual a soma dos seus Modificadores de Força e Destreza, tanto verticalmente quanto horizontalmente. Cada ponto em um desses Modificadores adicionará (ou removerá, se for negativo) 1.5m à distância de pulo. Essa distância conta para o seu Deslocamento, não podendo ultrapassá-lo. Terreno Difícil impede que você pule. A distância mínima de pulo é de 1.5m, a não ser que seu Deslocamento seja 0.
 
-Pular sobre certos locais, como chegar do outro lado de um precipício, pode requerer um Teste de Acrobacia. Se isso irá acontecer, e qual será a dificuldade, fica a critério do mestre.
+Pular sobre certos locais, como chegar do outro lado de um precipício, pode requerer um Teste de Acrobacia. Se isso irá acontecer, e qual será a dificuldade, fica a critério do Mestre.
 
 ## Queda e Queda Livre
 

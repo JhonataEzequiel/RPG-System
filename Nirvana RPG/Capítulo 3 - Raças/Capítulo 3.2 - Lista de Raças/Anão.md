@@ -1,5 +1,5 @@
 
-Anões são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tesouros, ferraria, bijuterias, artesanato, e também itens mágicos. Conhecidos por sua ferocidade em combate e sua força de vontade, os Anões se dão bem com a maioria dos povos do mundo.
+Anões são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tesouros, ferraria, bijuterias, artesanato, e também Itens Mágicos. Conhecidos por sua ferocidade em combate e sua força de vontade, os Anões se dão bem com a maioria dos povos do mundo.
 
 **Runas Mágicas**: Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, os Anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e só podem usar uma runa de cada tipo.
 

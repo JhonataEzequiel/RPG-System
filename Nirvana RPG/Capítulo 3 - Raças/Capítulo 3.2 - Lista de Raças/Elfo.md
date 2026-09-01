@@ -13,7 +13,7 @@ Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, n
 
 **Visão de Caçador** (Passiva): A visão de um Elfo da Floresta possui diversas habilidades passivas. Dentre elas, ele tem Visão Noturna num raio de 27m. Normalmente a visão deles permite encontrar pontos cegos no inimigo, chegar até uma posição avantajada antes de um combate, ou identificar alvos a distancia. Essa capacidade é refletida na seguinte escolha: você pode escolher, ao início de um Encontro, se você será o primeiro na Iniciativa, ou se terá +2 no seu Bônus de Proficiência.
 
-**Bem no Alvo** (Passiva): Uma vez por Descanso Longo também são capazes de escolher passar em um Teste de alguma Perícia que sejam peritos, se falharem.
+**Bem no Alvo** (Passiva): Uma vez por Descanso Longo também são capazes de escolher passar em um Teste de alguma Perícia que sejam Peritos, se falharem.
 
 ## Elfo Negro
 

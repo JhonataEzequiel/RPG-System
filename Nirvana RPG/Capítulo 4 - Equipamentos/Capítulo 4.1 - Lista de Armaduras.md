@@ -1,12 +1,12 @@
 
 ### Roupas
 
-| Armadura            | Preço | CA  | Requisitos | Escalas                   | Penalidades | Efeitos Adicionais  | Peso |
-| ------------------- | ----- | --- | ---------- | ------------------------- | ----------- | ------------------- | ---- |
-| Nenhuma Armadura    | 0     | +0  | -          | 0                         | 0           | -                   | 0 kg |
-| Roupa de Explorador | 1pp   | +0  | -          | D em Destreza             | 0           | -                   | 2 kg |
-| Túnica de Mago      | 3po   | +0  | -          | C em Sabedoria            | 0           | +1d4 Pontos de Mana | 2 kg |
-| Túnica de Monge     | 3po   | +0  | -          | C em Força, C em Destreza | 0           | -                   | 2 kg |
+| Armadura            | Preço | CA  | Requisitos | Escalas                   | Penalidades | Efeitos Adicionais          | Peso |
+| ------------------- | ----- | --- | ---------- | ------------------------- | ----------- | --------------------------- | ---- |
+| Nenhuma Armadura    | 0     | +0  | -          | 0                         | 0           | -                           | 0 kg |
+| Roupa de Explorador | 1pp   | +0  | -          | D em Destreza             | 0           | -                           | 2 kg |
+| Túnica de Mago      | 3po   | +0  | -          | C em Sabedoria            | 0           | +1d4 Pontos de Mana Máximos | 2 kg |
+| Túnica de Monge     | 3po   | +0  | -          | C em Força, C em Destreza | 0           | -                           | 2 kg |
 ### Armaduras Leves
 
 | Armadura                   | Preço | CA  | Requisitos    | Escalas       | Penalidades | Efeitos Adicionais          | Peso |
