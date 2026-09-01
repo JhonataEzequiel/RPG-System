@@ -77,4 +77,6 @@ Você agora causa 6d6 de dano adicional com o Ataque Furtivo ao invés de 3d6.
 
 **Requisitos**: Habilidade "Ladrão" de Custo 1.
 
-Você pode criar moedas falsas ao ter um Descanso Longo. Você gasta metade do valor que você quer criar de moedas como custos de operação. Por exemplo, se criar 20po falsos, gastará 10po para isso. Você agora pode escolher entregar a quantidade de dinheiro falso que quiser em uma negociação. O alvo que está sendo enganado terá que passar por uma Salvaguarda de Sabedoria CD 10 + seu Bônus de Ladroagem, no caso, o bônus utilizado na perícia de Ladroagem.
+Você pode criar moedas falsas ao ter um Descanso Longo. Você gasta metade do valor que você quer criar de moedas como custos de operação. Por exemplo, se criar 20po falsos, gastará 10po para isso. Você pode escolher entregar a quantidade de dinheiro falso que quiser em uma negociação. O alvo que está sendo enganado terá que passar por uma Salvaguarda de Sabedoria CD 10 + seu Bônus de Ladroagem.
+
+O tempo para criar as moedas é de 1 hora, independente da quantidade.

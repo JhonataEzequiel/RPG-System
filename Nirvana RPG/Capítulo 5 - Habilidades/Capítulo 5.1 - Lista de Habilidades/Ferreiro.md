@@ -3,7 +3,7 @@ O Arquétipo do Ferreiro governa todas as Habilidades relacionadas a confecção
 
 ## Ferraria (Custo 1)
 
-**Requisitos**: 2 de Sabedoria. Uma Bigorna e um Martelo de Forja.
+**Requisitos**: 2 de Sabedoria. Uma Bigorna e um Martelo de Forja. Você precisa ter acesso a fogo durante o processo de fabricação de itens.
 
 Você pode forjar qualquer Arma, Armadura, ou Escudo não-mágica ou única do Capítulo 4.1 - Lista de Armaduras, do Capítulo 4.2 - Lista de Armas, e do Capítulo 4.3 - Lista de Escudos, desde que tenha o dinheiro necessário para tal. O custo para forjar um item é igual a metade do preço sugerido na tabela de itens, refletindo o custo dos materiais necessários. O tempo para forjar um item aumenta conforme o peso dele:
 

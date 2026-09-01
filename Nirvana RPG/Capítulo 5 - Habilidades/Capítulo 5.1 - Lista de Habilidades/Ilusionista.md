@@ -22,11 +22,11 @@ Qualquer Magia de Ilusão que tenha um efeito negativo sobre o alvo terá a CD p
 
 ## Ego (Custo 2)
 
-**Requisitos**: Habilidade "Persona" de Custo 1. 3 de Carisma, 3 de Inteligência.
+**Requisitos**: Habilidade "Persona" de Custo 1. 3 de Carisma ou 3 de Inteligência.
 
 Você agora poderá escrever em um diário caso tenha algo com o que escrever, como Papel e Carvão. Você escreve em seu diário ao ter um Descanso Longo. Ao escrever em seu diário, você expõe parte da sua psiquê. Role 1d4, e adicione um destes bônus de acordo com o resultado. Eles duram até o fim do seu próximo Encontro:
 1. Você ganha 1 Ponto de Atuação;
-2. Você aprende uma Magia nova de Custo 1 de qualquer categoria que não seja de Ilusão;
+2. Você aprende uma Magia nova de Custo 1 de qualquer categoria que não seja de Ilusão, ignorando os requisitos;
 3. Adicione seu Bônus de Proficiência ao dano de Magias de Ilusão que causem Dano Psíquico;
 4. Você tem 10 Pontos de Resistência a Dano Psíquico, e 1 Ponto de Mana Temporário.
 
@@ -51,7 +51,7 @@ Você abdica de sua Reação na Rodada atual para obter uma Ação extra no seu 
 **Duração**: Até o fim do próximo Encontro.
 
 Você agora controla a sua mente em sua totalidade, tendo total agência de si mesmo. Você se torna Imune a Condição Encantamento. Uma vez ao dia você pode escolher gastar 10 Pontos de Mana enquanto fora de combate em uma meditação enquanto você está tendo um Descanso Longo. Fazendo isso, você pode transferir uma característica sua para uma criatura alvo no alcance do seu Toque. A criatura precisa aceitar receber essa característica. Dentre as características que você pode passar, estão:
-- Quaisquer Resistências, Fraquezas, Ou invulnerabilidades que você tiver (apenas uma);
+- Quaisquer Resistências, Fraquezas, Ou Invulnerabilidades que você tiver (apenas uma);
 - Algum bônus em um tipo de Teste específico;
 - Características biológicas, como respirar debaixo d'água ou voar (a criatura adquire magicamente as partes biológicas necessárias).
 Você não pode transferir Habilidades. Uma característica transferida é apenas copiada, o que significa que você ainda pode utilizá-la.

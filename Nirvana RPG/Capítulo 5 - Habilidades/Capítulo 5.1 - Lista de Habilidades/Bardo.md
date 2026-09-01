@@ -31,8 +31,8 @@ Você seleciona até 2 alvos no alcance desta Habilidade. Após isso, você toca
 
 Todas as vezes que você tocar uma música fora de combate enquanto tiver um Descanso Longo, pode refletir na letra dela, e extrair um ensinamento adicional. Você escolhe um dos seguintes bônus:
 - Você adiciona metade do seu Bônus de Proficiência para acertar Ataques de um tipo de Arma que não é proficiente, à sua escolha.
-- Você se torna perito em uma Perícia que não é perito, à sua escolha.
-- Você se torna proficiente em uma Salvaguarda que não é proficiente, à sua escolha.
+- Você se torna perito em uma Perícia que não é Perito, à sua escolha.
+- Você se torna proficiente em uma Salvaguarda que não é Proficiente, à sua escolha.
 
 A Mana gasta por essa Habilidade não é recuperada com o Descanso. Você pode escolher usar essa Habilidade ou não.
 

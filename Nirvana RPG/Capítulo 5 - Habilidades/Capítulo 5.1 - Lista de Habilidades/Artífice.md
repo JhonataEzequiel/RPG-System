@@ -79,7 +79,7 @@ Você pode modificar suas Armas de Fogo e Bestas ainda mais, fazendo com que as 
 
 **Requisitos**: 7 de Inteligência.
 
-Você consegue analisar e recriar invenções mecânicas que encontrar pelo caminho, como autômatos, armadilhas, dispositivos, e mecanismos complexos. Você não pode analisar nem recriar autômatos e itens advindos de magias, como golems invocados.
+Você consegue analisar e recriar invenções mecânicas que encontrar pelo caminho, como autômatos, armadilhas, dispositivos, e mecanismos complexos. Você não pode analisar nem recriar autômatos e itens advindos de Magias, como golems invocados.
 
 O tempo para analisar uma invenção é de 4 horas, e você precisará ter acesso físico a ela durante esse tempo. Você pode se lembrar de uma quantidade de invenções igual ao seu Modificador de Inteligência + Modificador de Sabedoria. Caso você tenha Papel e Tinta, pode registrar esquemas de invenções adicionais, gastando uma folha por invenção. Invenções registradas não contam para o limite de memória, mas você precisará ter o esquema em mãos para recriá-las.
 

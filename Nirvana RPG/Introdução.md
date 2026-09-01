@@ -19,7 +19,7 @@ RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de pap�
 
 **Ficha de Personagem**: É aconselhável que você anote as características básicas do seu personagem. Um modelo de Ficha é disponibilizado neste livro, mas você pode utilizar outro, ou montar o seu próprio se assim desejar.
 
-**Recursos do Mestre**: O mestre pode fazer uso de alguns outros recursos que podem auxiliar na narração. Dentre eles, o Escudo do Mestre, as Miniaturas, e o Grid de batalha se destacam. O Escudo é uma proteção que fica a frente do Mestre na mesa e impede que os jogadores vejam o que o mestre está planejando. As miniaturas são bonecos que representam os personagens dos jogadores e os PDMs. O Grid pode ser qualquer coisa marcada com pequenos quadrados de 2.5 centímetros de lado. Cada quadradinho normalmente equivale a 1.5 metros no mundo do jogo.
+**Recursos do Mestre**: O Mestre pode fazer uso de alguns outros recursos que podem auxiliar na narração. Dentre eles, o Escudo do Mestre, as Miniaturas, e o Grid de batalha se destacam. O Escudo é uma proteção que fica a frente do Mestre na mesa e impede que os jogadores vejam o que o mestre está planejando. As miniaturas são bonecos que representam os personagens dos jogadores e os PDMs. O Grid pode ser qualquer coisa marcada com pequenos quadrados de 2.5 centímetros de lado. Cada quadradinho normalmente equivale a 1.5 metros no mundo do jogo.
 
 ### Qual a Motivação Para o Nirvana RPG Existir?
 
