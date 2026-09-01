@@ -7,6 +7,10 @@ Um Encontro é definido por qualquer envolvimento dos personagens do jogador de 
 
 Um Encontro é equivalente a 10 minutos no mundo do jogo. Então, caso uma Magia ou Habilidade tenha como duração 1 Encontro, e os personagens estiverem fora de combate, considere como sendo 10 minutos de duração.
 
+## Aliados e Inimigos
+
+Por definição, é impossível estar a sós em um Encontro. Você sempre estará enfrentando um inimigo, e na maioria das vezes estará acompanhado de um aliado. Um aliado é toda criatura que está lutando ao seu lado em um combate, enquanto um inimigo é seu opositor direto.
+
 ## Iniciativa
 
 A Iniciativa determinará quem irá agir primeiro quando um combate for iniciado. Assim como os jogadores, os inimigos e monstros também terão que rolar Iniciativa. A Iniciativa é calculada através de um Teste de Destreza. Quem tirar o maior resultado será o primeiro a agir, seguido pelo segundo maior, e por ai vai. Caso dois participantes tirem o mesmo resultado, eles vão rolar novamente o Teste para decidir qual dos dois irá primeiro. Caso os dois sejam aliados, eles podem escolher juntos a ordem.

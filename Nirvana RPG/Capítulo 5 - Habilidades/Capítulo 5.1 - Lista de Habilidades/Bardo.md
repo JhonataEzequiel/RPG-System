@@ -85,8 +85,13 @@ Você tem +5 em Testes de Conversação que visam enganar alguém, desde que sua
 **Requisitos**: 5 de Carisma. Ser Perito em Música.
 **Custo**: Duas Ações, 5 de Mana.
 **Duração**: 1 Encontro.
+**Alcance**: Deslocamento.
 
-Escolha uma criatura alvo no alcance do seu Deslocamento. Você agora compartilha sua vida com ela. Os Pontos de Vida Atuais de vocês são somados, podendo ultrapassar temporariamente os Pontos de Vida Máximos. Sempre que um de vocês receber dano, o dano é refletido no outro (Resistências, Fraquezas, e Invulnerabilidades são aplicadas individualmente). Sempre que um de vocês se curar, o outro também é curado na mesma quantidade.
+Escolha um aliado no alcance. Você toca uma valsa serena, unindo a sua frequência de vida a dele. Os Pontos de Vida Atuais de vocês são somados, assim como seus Pontos de Vida Máximos. Ou seja, tanto você quanto o aliado escolhido agora possuem uma única fonte de vida. Uma vez que a Habilidade se encerre, vocês terão o menor número entre seus Pontos de Vida Atuais antes de ativar a Habilidade, e os Pontos de Vida Atuais no momento em que ela se encerrar.
+
+As Resistências, Fraquezas, e Invulnerabilidades são aplicadas individualmente. Ou seja, se um de vocês tiver alguma dessas características em relação a um tipo de dano, e ou outro não tiver, os cálculos de dano deverão levar em conta quem foi o alvo.
+
+Somente um aliado pode ser alvo por vez, e a Habilidade perde o efeito se ele se distanciar do alcance. Caso a criatura escolhida tenha um limite de duração, como um lacaio invocado, e a duração for menor do que a Habilidade, uma vez que a criatura desaparecer, a Habilidade também se encerrará.
 
 ## Dinâmica Musical (Custo 2)
 
