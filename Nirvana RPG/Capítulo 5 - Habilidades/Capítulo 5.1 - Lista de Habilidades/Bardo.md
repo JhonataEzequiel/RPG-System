@@ -80,9 +80,17 @@ Sempre que conjurar uma Magia que cause dano enquanto toca uma música, você ad
 
 Você tem +5 em Testes de Conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma Condição negativa você ganha Vantagem além do bônus padrão de +4.
 
+## Pas de Deux (Custo 2)
+
+**Requisitos**: 5 de Carisma. Ser Perito em Música.
+**Custo**: Duas Ações, 5 de Mana.
+**Duração**: 1 Encontro.
+
+Escolha uma criatura alvo no alcance do seu Deslocamento. Você agora compartilha sua vida com ela. Os Pontos de Vida Atuais de vocês são somados, podendo ultrapassar temporariamente os Pontos de Vida Máximos. Sempre que um de vocês receber dano, o dano é refletido no outro (Resistências, Fraquezas, e Invulnerabilidades são aplicadas individualmente). Sempre que um de vocês se curar, o outro também é curado na mesma quantidade.
+
 ## Dinâmica Musical (Custo 2)
 
-**Requisitos**: 4 de Carisma. Ser perito em Música.
+**Requisitos**: 4 de Carisma. Ser Perito em Música.
 **Custo**: Ação Bônus, 1 de Mana.
 **Duração**: Até o início do seu próximo Turno.
 

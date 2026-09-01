@@ -87,7 +87,7 @@ Você pode, alternativamente, só se curar ao invés de utilizar essa Habilidade
 
 ## Risco e Recompensa (Custo 2)
 
-Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Dano Físico que você causar, com um limite de 3d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual a um dos tipos da Arma que você utilizar.
+Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Ataque que você causar, com um limite de 3d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual a um dos tipos da Arma que você utilizar.
 
 ## Rajada de Estocadas (Custo 2)
 
@@ -119,12 +119,6 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 
 Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo.
 
-## Atacante (Custo 2)
-
-**Requisitos**: 3 de Força ou Destreza.
-
-Sua Margem de Ameaça aumenta em 1 ponto se você estiver com seus Pontos de Vida cheios, desde que você não esteja sob efeito de nenhuma Condição negativa.
-
 ## Ataque Extra Aprimorado (Custo 3)
 
 **Requisitos:** Habilidade "Ataque Extra" de Custo 1. 8 de Força ou 8 de Destreza.
@@ -133,8 +127,6 @@ Você não sofre mais Penalidades de Ataques, e sua Margem de Ameaça é aumenta
 
 ## Show do Imperador (Custo 3)
 
-**Requisitos**: Habilidade "Atacante" de Custo 2.
+Para cada Encontro que sobreviver com mais do que 1 Ponto de Vida, e sem ser vítima de nenhuma Condição negativa, você ganha 1 Ponto do Imperador. Cada Ponto do Imperador será convertido em dano adicional de um dos tipos capazes de serem causados pela sua Arma. 
 
-Para cada Encontro que sobreviver com mais do que 1 Ponto de Vida, e sem ser vítima de nenhuma Condição negativa em nenhum momento do Encontro, você ganha 1 Ponto do Imperador. 
-
-Cada Ponto do Imperador será convertido em dano adicional de um dos tipos capazes de serem causados pela sua Arma. Ao ser vítima de uma Condição negativa, você perde metade dos seus Pontos de Imperador. Ao ser Nocauteado, você perde todos os pontos. Se você derrotar a criatura que te Nocauteou ou lhe deu a Condição negativa ainda no mesmo Encontro, você recupera todos os pontos perdidos. Você deve causar o golpe final para recuperar seus pontos. O limite de Pontos do Imperador é 50.
+Ao ser vítima de uma Condição negativa, você perde metade dos seus Pontos de Imperador. Ao ser Nocauteado, você perde todos os pontos. Se você derrotar a criatura que te Nocauteou ou lhe deu a Condição negativa ainda no mesmo Encontro, você recupera todos os pontos perdidos. Você deve causar o golpe final para recuperar seus pontos. O limite de Pontos do Imperador é 50.

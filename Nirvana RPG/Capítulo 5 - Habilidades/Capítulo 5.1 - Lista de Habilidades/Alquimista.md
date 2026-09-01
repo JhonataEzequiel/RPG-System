@@ -19,7 +19,7 @@ Você agora consegue criar qualquer item mencionado na tabela de Itens Aplicáve
 **Custo**: Ação Livre, 3 de Mana.
 **Duração**: 5 Rodadas.
 
-Todas as vezes que causar Dano Ácido a um alvo, você pode forçá-lo a passar por uma Salvaguarda de Inteligência CD 12 + Int. Em caso de falha, o alvo não saberá a maneira correta de impedir que o ácido se alastre. O ácido começará a corroer o corpo do alvo, causando Dano Contínuo de Ácido de 1d12. Em caso de sucesso, nada acontece.
+Todas as vezes que causar Dano Ácido a um alvo, você pode forçá-lo a passar por uma Salvaguarda de Inteligência CD 12 + Int. Em caso de falha, o alvo não saberá a maneira correta de impedir que o ácido se alastre. O ácido começará a corroer o corpo do alvo, causando Dano Contínuo de Ácido de 1d12. Em caso de sucesso, nada acontece. Ele pode repetir a Salvaguarda no início de cada um dos Turnos dele, ao custo de uma Ação.
 
 ## Lança Granadas (Custo 1)
 
