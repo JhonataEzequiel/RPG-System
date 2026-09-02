@@ -5,7 +5,7 @@ O Arquétipo do Pugilista Batedor contém Habilidades relacionadas a luta desarm
 
 **Requisitos**: 2 de Força ou Destreza.
 
-Seus Punhos agora tem escala B tanto em Força, quanto em Destreza. Quando você chegar no Nível 10 de personagem, você escolhe uma dessas duas escalas para aumentá-la para A. Ao chegar no Nível 14 de personagem, o outro atributo que não foi escolhido também terá escala A.
+Seus Punhos agora tem Escala B tanto em Força, quanto em Destreza. Quando você chegar no Nível 10 de personagem, você escolhe uma dessas duas Escalas para aumentá-la para A. Ao chegar no Nível 14 de personagem, o outro atributo que não foi escolhido também terá Escala A.
 
 Suas Armas de Punho que não sejam seus Punhos tem + 1d8 de dano adicional de um dos tipos capazes de serem causados pela Arma, à sua escolha. Esse dado aumenta para 2d8 no Nível 5, e 3d12 no Nível 15.
 

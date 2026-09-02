@@ -37,7 +37,7 @@ Após se alimentar do sangue de cinco corações recém arrancados de suas víti
 
 **Sangue Vampírico** (Passiva): Você se torna Imune aos efeitos negativos de Magias de Sangue inimigas que visem retirar o sangue do seu corpo, ou afetar o seu sangue de alguma forma. Você ainda poderá as utilizar normalmente.
 
-**Mordida Demoníaca** (Passiva): O dano da sua Mordida Vampírica aumenta em 3d8, totalizando 4d8 de Dano Sombrio. Uma vez por Descanso Longo você pode adicionar um Nível de Sangramento caso o alvo falhe em um Teste de Resistência de Constituição cuja CD é o seu Nível.
+**Mordida Demoníaca** (Passiva): O dano da sua Mordida Vampírica aumenta em 3d8, totalizando 4d8 de Dano Sombrio. Uma vez por Descanso Longo você pode adicionar um Nível de Sangramento caso o alvo falhe em um Teste de Resistência de Constituição cuja CD é 10 + metade do seu Nível.
 
 ## Lorde Vampiro (Estágio 5)
 

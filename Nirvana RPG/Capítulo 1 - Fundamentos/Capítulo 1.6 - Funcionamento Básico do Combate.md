@@ -73,7 +73,9 @@ Você pode tentar Desviar de um Ataque. Desviar requer que você encerre seu Tur
 
 ## Coeficiente de Armadura (CA)
 
-Servirá como uma métrica para determinar se um Ataque atingirá um oponente ou não. A CA é calculada como 10 + Modificador de Força + Modificador de Destreza + bônus concedido pela Armadura equipada. No entanto, você pode escolher utilizar seu Valor de Atributo de Força inteiro ao invés do Modificador, caso seu Modificador de Destreza seja 0. Caso o Modificador de Destreza seja menor que 0, você ainda precisará contabilizá-lo na CA, mas ainda poderá utilizar o valor inteiro de Força. O valor de CA não pode ser inferior a 0.
+Servirá como uma métrica para determinar se um Ataque atingirá um oponente ou não. A CA é calculada como 10 + Modificador de Força + Modificador de Destreza + bônus concedido pela Armadura equipada. Caso algum Modificador desses seja negativo, você deverá contabilizá-lo ainda.
+
+Você pode escolher utilizar seu Valor de Atributo de Força inteiro ao invés do Modificador, caso seu Modificador de Destreza seja 0. Caso o Modificador de Destreza seja menor que 0, você ainda precisará contabilizá-lo na CA, mas ainda poderá utilizar o valor inteiro de Força. O valor de CA não pode ser inferior a 0.
 
 ## Armas e Objetos Equipados
 

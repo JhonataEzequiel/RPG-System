@@ -12,17 +12,17 @@ Desde que você esteja usando uma Armadura Leve ou Roupas, ganha +2 em Testes de
 
 Você adiciona 3d6 como dano no seu próximo Ataque enquanto estiver Furtivo. O tipo de dano é um dos tipos que você consegue causar com sua Arma, à sua escolha.
 
-## Sombra (Custo 1)
+## Espreitador (Custo 1)
 
 **Requisitos**: Ser Perito em Furtividade.
 
-Se estiver até 1.5 metros de um aliado você terá Vantagem em Testes de Furtividade.
+Se estiver adjacente a um aliado você terá Vantagem em Testes de Furtividade.
 
 ## Ladrão (Custo 1)
 
 **Requisitos**: Ser Perito em Ladroagem.
 
-Testes de Ladroagem agora utilizam seu Nível de Destreza como bônus ao invés de seu Modificador. No entanto, você tem -10 de CA ao receber um Ataque de Oportunidade.
+Testes de Ladroagem agora utilizam seu Nível de Destreza como bônus ao invés de seu Modificador. No entanto, você tem -6 de CA ao receber um Ataque de Oportunidade.
 
 ## Retirada Tática (Custo 1)
 
@@ -42,7 +42,7 @@ Uma vez escolhida esta Habilidade, seus efeitos são reversíveis. Você pode vo
 
 **Requisitos**: Perito em Furtividade.
 
-Duas vezes ao dia você pode escolher um Teste de Furtividade que for realizar para ter Vantagem nele. Você não pode ter sido visto por ninguém que você queira se esconder antes de utilizar essa Habilidade. Ao atingir o Nível 7 de Destreza esse limite aumenta para quatro vezes ao dia.
+Duas vezes ao dia você pode escolher um Teste de Furtividade que for realizar para ter Vantagem nele. Você não pode ter sido visto por ninguém que você queira se esconder antes de utilizar essa Habilidade. Ao atingir o Nível 7 de Destreza esse limite aumenta para três vezes ao dia.
 
 Alternativamente, você pode adicionar +1 em todos os Testes de Furtividade. No nível 7 de destreza, esse bônus aumenta em um ponto adicional, totalizando +2.
 

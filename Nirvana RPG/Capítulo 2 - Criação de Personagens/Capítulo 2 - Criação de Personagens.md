@@ -39,7 +39,7 @@ No Nível 1, você pode escolher 7 Habilidades de Custo 1. Ou seja, não se trat
 
 ## Pontos de Vida
 
-Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição. Esse Dado de Vida determinará os Pontos de Vida Iniciais, os subsequentes, e a cura garantida após um Descanso Curto. Você não gasta os Dados de Vida ao ter um Descanso Curto. Eles servem apenas para dizer quanto você vai curar. No Nível 1, seus Pontos de Vida serão o número máximo do seu Dado de Vida mais seu Modificador de Constituição.
+Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição. Esse Dado de Vida determinará os Pontos de Vida Iniciais, os subsequentes, e a cura garantida após um Descanso Curto. Você não gasta os Dados de Vida ao ter um Descanso Curto. Eles servem apenas para dizer quanto você vai curar. No Nível 1, seus Pontos de Vida serão o número máximo do seu Dado de Vida mais seu Modificador de Constituição, caso seu Modificador não seja negativo.
 
 | Nível de Constituição | Dado de Vida |
 | --------------------- | ------------ |

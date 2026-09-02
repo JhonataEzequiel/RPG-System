@@ -19,7 +19,7 @@ Você pode realizar Testes de Conversação utilizando Força ao invés de Caris
 
 Você faz um corte pequeno em uma de suas mãos de alguma forma. Após ter um Descanso Longo, uma tatuagem tribal surgirá na mão cortada, podendo ser a esquerda ou direita. Você pode escolher outro local do corpo para que a tatuagem surja, mas por padrão, será uma de suas mãos.
 
-Quanto mais criaturas forem derrotadas com Ataques Físicos em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque Físico em um inimigo, e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai garantir um bônus de dano aos Ataques Físicos que aumentará conforme ela se expande. O bônus de dano é +5 por cada 10 inimigos derrotados, com um limite de +10, aonde a tatuagem se expande totalmente e toma conta do seu braço inteiro.
+Quanto mais criaturas forem derrotadas com Ataques Corpo a Corpo em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque Corpo a Corpo em um inimigo, e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai garantir um bônus de dano aos Ataques Corpo a Corpo que aumentará conforme ela se expande. O bônus de dano é +5 por cada 10 inimigos derrotados, com um limite de +10, aonde a tatuagem se expande totalmente e toma conta do seu braço inteiro.
 
 O tipo de dano do bônus é igual a um dos tipos capazes de ser causados pela sua Arma.
 
@@ -35,7 +35,7 @@ O tipo de dano do bônus é igual a um dos tipos capazes de ser causados pela su
 | 5-7                                   | 4               |
 | 8-10                                  | 6               |
 
-**Entrar em Fúria** (Ação Bônus): Você entra em um estado de raiva que o faz ignorar certos contratempos, te deixando mais forte e resistente até o fim do seu próximo Turno. É possível estender a duração da Fúria caso você performe uma das seguintes ações contra um adversário:
+**Entrar em Fúria** (Ação Bônus): Você entra em um estado de raiva que o faz ignorar certos contratempos, te deixando mais forte e resistente até o fim do seu próximo Turno. É possível estender a duração da Fúria caso você performe uma das seguintes ações:
 
 * Atacar;
 * Forçar uma criatura alvo a realizar um Teste de Resistência a algo;

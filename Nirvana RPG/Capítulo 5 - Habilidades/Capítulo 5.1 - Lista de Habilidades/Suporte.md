@@ -117,7 +117,7 @@ Você consegue ter um Descanso Curto em 30 minutos ao invés de 1 hora, e um Des
 **Requisitos**: 8 de Carisma ou Fé.
 **Alcance**: 36m.
 
-Você entra em um estado de vazio mental, ficando Incapacitado. No início do seu próximo Turno, você escolhe até 4 criaturas alvo no alcance. Os alvos agora podem utilizar Artes de Batalha sem gastar Mana, e sem serem Proficientes com o tipo de Arma em questão.
+Você entra em um estado de vazio mental, ficando Incapacitado. No início do seu próximo Turno, você escolhe até 4 criaturas alvo no alcance. Os alvos agora podem utilizar Artes de Batalha sem gastar Mana, e sem serem Proficientes com o tipo de Arma em questão. Você também se liberta de ser Incapacitado no início do seu próximo Turno.
 
 ## Numerólogo (Custo 3)
 

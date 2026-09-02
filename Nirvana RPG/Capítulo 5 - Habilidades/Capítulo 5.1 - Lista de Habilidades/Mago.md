@@ -15,7 +15,7 @@ Ao encerrar um combate, você recupera 1d4 da Mana gasta automaticamente.
 
 ## Oportunista Mágico (Custo 1)
 
-Ao ter um Ataque de Oportunidade você pode escolher conjurar um Arcano Menor que causa dano em um alvo único no lugar.
+Ao ter um Ataque de Oportunidade você pode escolher conjurar um Arcano Menor que causa dano em um alvo único no lugar. Este Arcano Menor se beneficiará de efeitos que aumentem o dano de seus Ataques de Oportunidade.
 
 ## Especialista em Arcanos Menores (Custo 1)
 
