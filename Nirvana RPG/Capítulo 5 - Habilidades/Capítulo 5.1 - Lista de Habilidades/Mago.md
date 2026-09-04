@@ -167,3 +167,16 @@ Você agora pode conjurar Magias como ritual independentemente do Custo, mas ela
 Ao conjurar 10 Magias de uma mesma categoria sem alternar, ou seja, sem utilizar outra categoria, você diminui permanentemente o custo de Mana das magias daquela categoria em 1 ponto. Comece a contar a partir do momento que você adquirir essa Habilidade. 
 
 Essa Habilidade pode ser pega múltiplas vezes, e seus efeitos são cumulativos. Você só pode diminuir os custos em 1 para cada categoria de Magia.
+
+## Noite Estrelada (Custo 3)
+
+**Requisitos**: 10 de Inteligência. 10 de Sabedoria. Ao menos uma mão livre no momento de ativação dessa Habilidade.
+**Custo**: Três Ações, toda a sua Mana com um mínimo de 15 pontos.
+**Alcance**: 18m.
+**Duração**: 1 Encontro.
+
+Você desenha no ar utilizando um de seus dedos e toda a sua reserva de Mana. O desenho pode ser visto a olho nu, independente da aptidão mágica dos que estiverem a sua volta. Após um tempo, a aparência do céu é trocada, refletindo uma pintura de uma noite cheia de estrelas brilhantes, em um tom melancólico. Todos no alcance o enxergam assim, mas os de fora veem um céu normal. 
+
+O custo de Mana de qualquer coisa é reduzido pela metade, arredondando para cima. Habilidades, Magias, Habilidades de Raça, etc. Tudo é afetado para todos os participantes do Encontro (caso esteja em batalha), ou para os que estiverem no alcance (caso esteja fora de batalha). 
+
+O custo de Mana continua o mesmo para você, que é o único que não é afetado por essa Habilidade. Mesmo pintando, sua arte não alivia sua dor.

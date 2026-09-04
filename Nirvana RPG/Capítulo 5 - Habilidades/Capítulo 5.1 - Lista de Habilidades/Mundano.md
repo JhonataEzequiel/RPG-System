@@ -54,6 +54,12 @@ Você adiciona o valor do seu menor Atributo como Pontos de Vida e Mana permanen
 
 Por último, na primeira vez que utilizar uma Habilidade que tenha custo de Ações e Mana, você não gastará nenhuma Ação nem Mana. Esse efeito só acontece se você não tiver nenhum Atributo abaixo de 0, e recarrega com Descanso Longo.
 
+## Escalonador (Custo 3)
+
+**Requisitos**: Nenhum Atributo pode ter um valor abaixo de 4.
+
+Caso você tenha pelo menos três Atributos empatados como Atributos de menor valor, você se beneficiará dos bônus de Escala de um item infundido pela Pedra Mundana como se estivesse no Nível 10 do seu Atributo de menor nível.
+
 ## Nirvana (Custo 3)
 
 **Requisitos**: Nenhum Atributo pode ter um valor abaixo de 7.

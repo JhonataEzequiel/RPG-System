@@ -12,4 +12,4 @@ Algumas Habilidades causam dano de alguma maneira, sendo consideradas Habilidade
 - O mesmo que seria usado para aquele tipo de Ataque, caso a Habilidade envolva uma Arma;
 - O mesmo usado para calcular o dano, caso a fonte do Ataque não esteja clara.
 
-Você pode adicionar seu Bônus de Proficiência para acertar caso seja Proficiente no tipo de Arma em questão.
+Você pode adicionar seu Bônus de Proficiência para acertar caso seja Proficiente no tipo de Arma em questão. As Habilidades de Ataque contam para as Penalidades de Ataque, ocupando uma posição, dependendo da ordem que deseja as utilizar. Por exemplo, caso uma Habilidade custa duas Ações e realize três Ataques, e você decida a utilizar no início do seu Turno, quando ainda não tem Penalidades, a Habilidade será apenas um Teste de Ataque comum. Caso a utilize após já ter Atacado, ela estará sujeita às Penalidades. Os múltiplos Ataques dessa Habilidade não serão afetados pelas Penalidades, apenas o Teste de Ataque feito ao decidir utilizá-la, a não ser que seja especificado o contrário na própria Habilidade.

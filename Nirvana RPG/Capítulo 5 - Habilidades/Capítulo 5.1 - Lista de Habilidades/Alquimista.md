@@ -75,6 +75,14 @@ Você consegue coletar materiais do ambiente ao longo do dia naturalmente, desde
 
 Para aplicar a Resina em combate você precisará passar por uma Salvaguarda de Destreza CD 15 - Int. Em caso de falha, você fica sujeito a um Ataque de Oportunidade. O efeito é permanente, mas você não pode aplicar duas Resinas Ácidas no mesmo item. O máximo de Resinas Ácidas carregadas ao mesmo tempo será 3, e você fabrica uma Resina por Descanso Longo. O peso dela é 0.1 kg, e pode ser vendida caso você convença alguém a comprar.
 
+## Diário de um Alquimista (Custo 2)
+
+**Requisitos**: Habilidade "Alquimista Iniciante" de Custo 1, ou a Habilidade "Artesão de Itens Aplicáveis" de Custo 1, ou a Habilidade "Artesão de Bombas" de Custo 1. 1 de Inteligência.
+
+Você coleta materiais durante sua jornada. Ao ter um Descanso Longo, você poderá utilizar esses materiais coletados para criar qualquer Item Arremessável, Aplicável, ou Poções e Venenos, de acordo com as Habilidades que você tem relacionadas a criação desse tipo de Item que são requisitos dessa Habilidade.
+
+Basicamente, qualquer item do Capítulo 4.6 - Lista de Itens Aplicáveis ao Capítulo 4.8 - Lista de Poções e Venenos pode ser criado. A quantidade de moedas necessárias para a criação desses itens, em po, é diminuída em um valor igual ao seu Bônus de Natureza. A quantidade de itens criados por Descanso Longo é igual ao seu Bônus de Proficiência, e o tempo para criar um item é o mesmo dito em cada uma das respectivas Habilidades. Os itens escolhidos não podem custar mais do que 7po individualmente.
+
 ## Peçonha Instantânea (Custo 2)
 
 **Requisitos** O alvo do Ataque precisa estar Envenenado.
