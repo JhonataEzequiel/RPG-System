@@ -30,6 +30,18 @@ Ao usar essa Habilidade, você causará 1d10 a mais de Dano de Gelo com suas Mag
 
 Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto. Em suma, ficará mais difícil para um inimigo resistir à sua Magia.
 
+## Sangue Frio (Custo 1)
+
+Você se torna Imune à Condição Amedrontado e tem 5 Pontos de Resistência a Dano de Gelo, mas tem -2 em Salvaguardas de Constituição.
+
+## Patinação no Gelo (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+**Custo**: Duas Ações.
+**Duração**: 1 Encontro.
+
+Você desliza sobre superfícies sólidas, aumentando seu Deslocamento em 3m, deixando um rastro de gelo por um breve período, que logo derrete. Você também tem +1 em Salvaguardas de Destreza.
+
 ## Era do Gelo (Custo 2)
 
 **Requisitos**: 7 de Inteligência.

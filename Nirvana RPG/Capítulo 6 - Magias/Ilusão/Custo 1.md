@@ -27,7 +27,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca um item mágico. Fazendo isso, você escolhe qual grau e efeito você quer que seja determinado a partir de Magias de detecção de Magias, escondendo o grau e efeito real do item.
+**Descrição:** Você toca um Item Mágico. Fazendo isso, você escolhe qual Grau e efeito você quer que seja determinado a partir de Magias de detecção de Magias, escondendo o Grau e efeito real do item.
 
 ### Disfarce Ilusório
 

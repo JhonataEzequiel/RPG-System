@@ -13,6 +13,21 @@ Todos os seus Ataques são considerados críticos. Ataques Críticos efetuados c
 
 Você pode realizar Testes de Conversação utilizando Força ao invés de Carisma.
 
+## Devorador de Pânico (Custo 1)
+
+**Requisitos**: Habilidade "Força Intimidadora" de Custo 1.
+
+**Cheiro do Medo** (Passiva): Sempre que uma criatura alvo tiver a Condição Amedrontado você anulará completamente as Penalidades de Ataque contra ela.
+
+**Rugido Atormentador** (Duas Ações, 1 de Mana, 18m): Você pode bradar em alta voz, rugindo e intimidando qualquer criatura alvo no alcance que falhar em uma Salvaguarda de Sabedoria CD 10 + Bônus de Conversação. A criatura que falhar tem a Condição Amedrontado. Os alvos podem repetir o Teste no início de cada um de seus Turnos visando se livrar da Condição, ao troco de uma Ação.
+
+## Rachadura Celestial (Custo 1)
+
+**Requisitos**: 3 de Força.
+**Custo**: Três Ações, 2 de Mana.
+
+Você realiza um golpe vertical com sua Arma, Atacando uma criatura alvo. O golpe é concentrado e muito mais poderoso do que o normal, causando o dano de três Ataques ao mesmo tempo. Você receberá um Nível de Exaustão até o início do seu próximo Turno. Você só poderá utilizar essa Habilidade uma quantidade de vezes igual ao seu Bônus de Proficiência por Descanso Longo.
+
 ## Marcas de Guerra (Custo 1)
 
 **Requisitos**: 0 de Sabedoria.

@@ -23,6 +23,19 @@ Você poderá optar por uma das especializações disponíveis. Cada uma concede
 
 Você seleciona até 2 alvos no alcance desta Habilidade. Após isso, você toca uma música que os enche de força de vontade, fazendo-os ter +2 para acertar o próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantém os bônus até acertar.
 
+## Voz Superior (Custo 1)
+
+**Requisitos**: Ser Perito em Música.
+
+Caso opte por utilizar sua Voz como Instrumento Musical, ela concederá um bônus de +2 em Testes de Conversação e Atuação como os outros Instrumentos.
+
+## Charme (Custo 1)
+
+**Requisitos**: 1 de Carisma.
+**Custo**: Reação, 3 de Mana.
+
+Quando uma criatura te Atacar, ela recuará por um momento, abrindo uma brecha no Ataque. Ela tem -3 para acertar.
+
 ## Versatilidade Musical (Custo 1)
 
 **Requisitos**: Ser Perito em Música.

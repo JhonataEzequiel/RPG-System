@@ -11,6 +11,12 @@ Eles podem andar, sendo seu Deslocamento de 12m. Além disso, podem realizar qua
 
 Você pode ter até 1 autômato ativo no total ao mesmo tempo. Você gasta 5po para confeccionar um autômato, e demora 1 hora para fazer cada um deles. A CA deles é 10, e possuem 10 Pontos de Vida. Todos os Atributos deles são -1.
 
+## Mecânico (Custo 1)
+
+**Requisitos**: Habilidade "Autômatos Menores" de Custo 1. 3 de Inteligência.
+
+O custo para criar um autômato mecânico qualquer, ainda que de outras Habilidades, é reduzido em 1d4 Peças de Ouro. O mínimo é 1po.
+
 ## Bucaneiro (Custo 1)
 
 **Requisitos**: 2 de Força ou Destreza, 1 de Inteligência.
@@ -18,6 +24,18 @@ Você pode ter até 1 autômato ativo no total ao mesmo tempo. Você gasta 5po p
 As suas Armas de Fogo e Bestas agora podem ser modificadas para possuírem Escalas. Você gasta 10po em materiais para adicionar uma Escala D em Força ou Destreza, à sua escolha. Além disso, são necessárias 3 horas para concluir a melhoria na arma.
 
 Além de fazer melhorias nas armas, você agora pode utilizar seu Modificador de Força ou Destreza para acertar os Ataques com Bestas ou Armas de Fogo, acrescidos de seu Bônus de Proficiência, caso você seja proficiente em Armas à Distância. O seu Modificador escolhido também será adicionado ao dano.
+
+## Mira Acoplada (Custo 1)
+
+**Requisitos**: Habilidade "Bucaneiro" de Custo 1.
+
+Você pode acoplar uma mira criada por você às suas Armas de Fogo ou Bestas. Serão necessários 3po e 30 minutos para acoplar uma mira nova, e ela concederá +1 para acertar os Ataques. Apenas uma mira pode ser acoplada a uma Arma ao mesmo tempo.
+
+## Pente Estendido (Custo 1)
+
+**Requisitos**: Habilidade "Bucaneiro" de Custo 1.
+
+Você aumenta a quantidade de tiros necessários antes de uma recarga nas suas Armas de Fogo ou Bestas. Um compartimento extra é adicionado, assim como um mecanismo capaz de utilizá-lo. Você pode atirar uma quantidade de vezes adicional igual a metade da sua capacidade original, arredondada para cima. O tempo para fazer essa melhoria é de 1 hora, e custa 45po. Apenas uma melhoria de pente pode ser feita em uma Arma ao mesmo tempo.
 
 ## Gaiolas Diminuidoras (Custo 2)
 

@@ -13,6 +13,21 @@ Ao estar em contato com a natureza, em especial, fauna e flora abundantes, como 
 
 Você aprende um Idioma secreto dos Druidas, o Druídico. Com ele você pode dar simples comandos a plantas e animais que, desde que não os façam se machucar de alguma forma, os seguirão. Esse Idioma também serve como um código entre os Druidas, já que somente eles podem entender.
 
+## Força Animal (Custo 1)
+
+**Requisitos**: 3 de Carisma.
+**Custo**: Uma Ação.
+**Duração**: 4 Rodadas.
+
+Você convoca os espíritos da natureza, que te fortalecem com a força de diversos animais poderosos. Você tem +5 em Testes de Atletismo e +1 de Força.
+
+## Vida em Abundância (Custo 1)
+
+**Requisitos**: 3 de Carisma, 3 de Sabedoria.
+**Custo**: Reação.
+
+Você adiciona seu Bônus de Natureza como Pontos de Vida Temporários ao ser acertado por um Ataque. Quando chegar no Nível 10 de Carisma ou Sabedoria, adicione o dobro do Bônus. Os Pontos de Vida Temporários são perdidos imediatamente após o Ataque, servindo apenas para mitigá-lo.
+
 ## Grande Sábio (Custo 2)
 
 **Requisitos**: 6 de Sabedoria, 2 de Carisma.

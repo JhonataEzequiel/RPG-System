@@ -18,7 +18,22 @@ Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, 
 **Requisitos**: 1 de Inteligência, 1 de Fé.
 **Alcance**: 36m.
 
-Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio. O limite do aumento é 8d4, e o tipo de dano será um dos tipos capazes de serem causados pela Arma do seu aliado.
+Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio. O limite do aumento é 8d4.
+
+## Desordem Estrutural (Custo 1)
+
+**Requisitos**: 3 de Inteligência, 3 de Fé.
+**Alcance**: Metade do Deslocamento.
+**Custo**: Duas Ações.
+**Duração**: 4 Rodadas.
+
+Você emana uma aura de terror e desordem no alcance desta Habilidade. Aliados terão +2 de CA, enquanto os inimigos terão +1. Opcionalmente, todo o dano causado por ambas as partes é aumentado em 1d10 de Dano Sombrio.
+
+## Amor ao Pecado (Custo 1)
+
+**Requisitos**: 1 de Inteligência, 3 de Fé.
+
+Você agora possui 8 Pontos de Vulnerabilidade a Dano Radiante, em troca de possuir 15 Pontos de Resistência a Dano Sombrio.
 
 ## Mente Vazia (Custo 1)
 

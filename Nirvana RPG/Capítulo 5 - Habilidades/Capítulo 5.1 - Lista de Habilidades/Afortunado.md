@@ -17,6 +17,23 @@ Você não mais é Nocauteado, se tornando Imune à Condição. Sempre que for N
 
 Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa" de Custo 10, os usos desta Habilidade são restaurados.
 
+## Distopia (Custo 1)
+
+**Custo**: Reação.
+**Alcance**: 18m.
+
+Você faz com que uma criatura alvo no alcance tenha automaticamente um Erro Crítico em um Teste que esteja prestes a fazer no momento em que usar essa Reação. Em troca, você também terá um Erro Crítico no próximo Teste que realizar. Você pode se livrar do seu Erro Crítico em troca de 10 de Mana e de duas Ações no seu próximo Turno. 
+
+Você pode usar essa Habilidade um número de vezes igual a metade do seu Bônus de Proficiência por Descanso Longo. Essa Habilidade sobrepõe quaisquer outros efeitos, incluindo Condições e Habilidades.
+
+## Utopia (Custo 1)
+
+**Custo**: Reação.
+
+Você anulará a próximo instância de dano que receber, independente da origem, mas sua próxima instância de dano causada por você, ou cura concedida concedida por você a um aliado ou a si mesmo, serão anuladas. Você pode optar por se livrar dessa penalidade em troca de 5 de Mana e de perder duas Ações no seu próximo Turno.
+
+Você pode usar essa Habilidade um número de vezes igual a metade do seu Bônus de Proficiência por Descanso Longo. Essa Habilidade sobrepõe quaisquer outros efeitos, incluindo Condições e Habilidades.
+
 ## Cartas do Destino (Custo 2)
 
 **Requisitos**: 3 de Carisma, Fé, ou Inteligência.

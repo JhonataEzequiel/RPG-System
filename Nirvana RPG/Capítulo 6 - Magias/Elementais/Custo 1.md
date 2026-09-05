@@ -30,13 +30,13 @@ Após a duração, tanto a Armadura quanto a Arma, ainda que o alvo deseje conti
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você cria um pequeno golem com Magia, que surge em um local desocupado dentro do alcance. O golem age imediatamente após o seu Turno, e lhe obedece completamente. Ele tem as seguintes características:
+**Descrição:** Você cria um pequeno golem com Magia feito de terra, que surge em um local desocupado dentro do alcance. O golem age imediatamente após o seu Turno, e lhe obedece completamente. Ele tem as seguintes características:
 
 - **HP:** 30
 - **CA:** 12
 - **Dano:** 1d6 + 2 de Dano de Impacto por Ataque corpo-a-corpo.
 
-O golem é um autômato, portanto é imune a efeitos que afetem apenas criaturas vivas, como Magias de Sangue. Caso o golem seja destruído antes do fim do Encontro, a Magia se encerra. O golem possui uma Ação e uma Ação Bônus, e o Turno dele é logo após o seu.
+O golem é um autômato, portanto é Imune a efeitos que afetem apenas criaturas vivas, como Dano Verdadeiro de Sangue. Caso o golem seja destruído antes do fim do Encontro, a Magia se encerra. O golem possui uma Ação e uma Ação Bônus, e o Turno dele é logo após o seu.
 
 ### Criar Água
 

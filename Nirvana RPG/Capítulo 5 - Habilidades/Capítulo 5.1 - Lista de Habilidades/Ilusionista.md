@@ -1,5 +1,11 @@
 Habilidades que afetam diretamente o uso de Magias de Ilusão e efeitos similares. Também faz referência a efeitos mentais, Dano Psíquico, e a comunicação entre as diferentes partes da psiquê.
 
+## Ventriloquia (Custo 1)
+
+**Requisitos**: 3 de Carisma, 2 de Sabedoria.
+
+Suas Magias que façam com que um alvo fique Encantado tem +3 na CD das Salvaguardas para resistir a elas.
+
 ## Trapaceiro (Custo 1)
 
 **Requisitos**: 1 de Carisma ou 1 de Inteligência.

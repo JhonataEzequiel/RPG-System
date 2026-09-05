@@ -47,9 +47,23 @@ Você agora pode arremessar Poções, que caem em um local, afetando uma área c
 
 ## Alquimista Iniciante (Custo 1)
 
-**Requisitos**: 2 de Inteligência. Um Almofariz.
+**Requisitos**: 2 de Inteligência. Um Almofariz e ao menos um Frasco de Poção.
 
-Você consegue agora criar Poções e Venenos. O custo em moedas para criar as Poções ou Venenos é metade do custo padrão delas. O tempo para criar uma Poção ou Veneno é de 30 minutos.
+Você consegue agora criar Poções e Venenos. O custo em moedas para criar as Poções ou Venenos é metade do custo padrão delas. O tempo para criar uma Poção ou Veneno é de 30 minutos. Ao criar qualquer Poção ou Veneno, o Frasco de Poção é gasto. Ele não é recuperado após o uso, pois conterá impurezas que impedirão a confecção de novas Poções.
+
+## Calcinação (Custo 1)
+
+**Requisitos**: 2 de Inteligência.
+**Duração**: 1 Encontro.
+**Custo**: Ação Livre.
+
+Você pode ativar ou desativar essa Habilidade com uma Ação Livre. Enquanto ativada, se você tomar uma Poção, seu sangue correrá mais rápido pelo seu corpo, e começará a esquentar. Você recebe 1d4 de Dano de Fogo. Em troca, todo o Dano Físico causado por você aumenta em 1d6, incluindo Dano Venenoso e Ácido. Esse efeito é cumulativo até um máximo de 3d6.
+
+## Dissolução (Custo 1)
+
+**Requisitos**: 3 de Inteligência. Um Almofariz.
+
+Você agora pode misturar duas Resinas em uma só enquanto estiver fora de combate. Você leva 10 minutos para fazer isso, e a Resina resultante tem o efeito das duas anteriores, e o peso de apenas uma. Você não gasta recursos adicionais para isso.
 
 ## Mestre em Explosões (Custo 2)
 
@@ -114,7 +128,7 @@ Também é possível criar seus próprios Itens Mágicos (desde que seja Arremes
 
 **Requisitos**: Habilidade "Alquimista Supremo" de Custo 3.
 
-Você agora pode juntar os efeitos de múltiplas Poções em uma só. Para cada efeito que você quiser, terá que somar os custos (lembrando que você gasta apenas metade dos custos em materiais, então somará as metades de cada Poção). A Poção resultante concederá todos os bônus individuais ao ser consumida.
+Você agora pode juntar os efeitos de múltiplas Poções em uma só. Para cada efeito que você quiser, terá que somar os custos (lembrando que você gasta apenas metade dos custos em materiais, então somará as metades de cada Poção). A Poção resultante concederá todos os bônus individuais ao ser consumida. Para misturar duas Poções é necessário um novo frasco, e os dois utilizados pelas Poções anteriormente são descartados.
 
 De maneira análoga, você pode juntar os efeitos de múltiplos Venenos ao mesmo tempo, mas não poderá somar o dano deles. O dano que prevalecerá será o do maior. No entanto, todos os Venenos que você criar a partir de agora causarão 2d8 a mais de Dano Venenoso Contínuo, caso você deseje.
 
