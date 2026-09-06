@@ -22,6 +22,22 @@ Sua Capacidade de Carga agora é aumentada em dez vezes o seu Bônus de Profici�
 
 Ao afiar uma lâmina, sua Margem de Ameaça aumentará em 2 pontos. Esse bônus não é cumulativo.
 
+## Aprendiz do Erro (Custo 1)
+
+**Requisitos**: Habilidade "Ferraria" de Custo 1. 0 de Sabedoria.
+
+Ao tentar criar qualquer item como ferreiro, incluindo aqueles desbloqueáveis através de outras Habilidades além de "Ferraria", você cometerá alguns erros até chegar ao resultado final. Você se torna cada vez melhor nas tarefas simples, aprendendo com seus erros. 
+
+O tempo para criar itens não-mágicos é diminuído pela metade quando você fabricar um mínimo de 10 itens não-mágicos.
+
+## Magnata do Ferro (Custo 1)
+
+**Requisitos**: Habilidade "Aprendiz do Erro" de Custo 1.
+
+Você precisa ter atingido a marca de 10 itens não-mágicos criados para que essa Habilidade tenha efeito.
+
+Você se tornou conhecido, e seus itens forjados são bem quistos em diversos locais devido a sua qualidade. Você tem Vantagem em Testes de Conversação para barganhar os preços de compra e vendas de itens de ferraria, incluindo os que você fabrica. Caso você tenha a Habilidade "Ferraria Inigualável" de Custo 3, você também terá +5 nos Testes cobertos por essa Habilidade, além da Vantagem.
+
 ## Ferraria Intermediária (Custo 2)
 
 **Requisitos**: Habilidade "Ferraria" de Custo 1. 4 de Sabedoria, 1 de Inteligência.

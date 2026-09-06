@@ -21,7 +21,7 @@ Você absorve eletricidade de alguma fonte, como uma Magia conjurada por você o
 **Custo**: Uma Ação, 2 de Mana.
 **Duração**: 2 Rodadas.
 
-Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada até que seja apanhada por alguém. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
+Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a Arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada até que seja apanhada por alguém. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
 
 ## Apressado (Custo 1)
 
@@ -31,11 +31,27 @@ Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de meta
 
 Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5m para cada ponto no seu Bônus de Proficiência. Ao final do Encontro, caso você não tenha sido Nocauteado, a eletricidade é reabsorvida por você, e você recupera 1 Ponto de Mana. Só pode usar uma vez por Descanso Curto ou Longo.
 
+## Nuvem Carregada (Custo 1)
+
+**Requisitos**: 1 de Inteligência.
+**Custo**: Reação.
+**Duração**: 1 Encontro.
+
+Ao conjurar uma Magia Elemental que cause Dano Elétrico em um alvo único, você poderá criar uma pequena nuvem que sobrevoa a cabeça da criatura. A nuvem é escura, como se estivesse prestes a iniciar uma pequena chuva. Você aumenta o dano das Magias Elementais que causem Dano Elétrico em 1d6 de Dano Elétrico. Você pode usar essa Habilidade uma vez por Descanso Curto.
+
+## Nuvem de Tempestade (Custo 1)
+
+**Requisitos**: Habilidade "Nuvem Carregada" de Custo 1. 2 de Inteligência.
+
+Sua Nuvem Carregada agora pode ser usada uma quantidade de vezes igual a seu Bônus de Proficiência por Descanso Curto. Você só pode ter uma Nuvem Carregada ative por vez. O dano também aumenta para 1d8, substituindo o 1d6 anterior.
+
 ## Corrente Alternada e Contínua (Custo 2)
 
 **Requisitos**: 5 de Inteligência.
+**Custo**: Uma Ação, 1 de Mana.
+**Duração**: 1 Encontro.
 
-**Trocar Corrente** (Uma Ação, 1 de Mana): Você se concentra, mudando o foco das suas Magias Elementais que causem Dano de raio. Você pode escolher entre uma das duas correntes abaixo. Os efeitos de ambas duram até o fim do Encontro.
+Você se concentra, mudando o foco das suas Magias Elementais que causem Dano de raio. Você pode escolher entre uma das duas correntes abaixo:
 - **Corrente Alternada**: O Alcance aumenta em uma quantidade de metros iguais ao seu Deslocamento + Int (cada ponto no Modificador de Inteligência aumenta em 1.5m de distância).
 - **Corrente Contínua**: Parte da eletricidade flui para fora, como excesso. Você pode escolher um alvo adicional para suas Magias de alvo único, causando 1d6 + Int como Dano de Raio.
 

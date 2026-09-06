@@ -17,6 +17,18 @@ Por exemplo, se você tiver 6 Níveis em Destreza e 2 Níveis em Carisma, e dese
 
 Seu Bônus de Proficiência é dobrado sempre que utilizá-lo de alguma forma. Caso você tenha uma limitação de -3 ou maior em um único Atributo, o Bônus de Proficiência será triplicado ao invés de dobrado.
 
+## Liberdade de Escolha (Custo 1)
+
+**Requisitos**: Essa Habilidade só pode ser pega no Nível 1.
+
+O seu máximo em limitações iniciais sai de -10 para -15, mas continua sendo contabilizado através de todas as limitações iniciais que possuir, assim como consta a regra no Capítulo 2 - Criação de Personagens.
+
+## Armamento Único (Custo 1)
+
+Você só poderá ser Proficiente em um tipo de Arma ao mesmo tempo, mas recebe um bônus de +2 para aquele tipo de Arma e para o dano. O tipo de dano adicional é um dos tipos capazes de serem causados pela sua Arma. 
+
+Você também terá -2 para acertar um Ataque e no dano causado em Armas de outro tipo. Se a Arma tiver múltiplos tipos de dano, você escolhe qual dos dois será diminuído.
+
 ## Minhas Regras (Custo 2)
 
 Você ignora o Limite Máximo de Nível de Atributo. Você também escolhe um Atributo para destravar sua evolução para além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
