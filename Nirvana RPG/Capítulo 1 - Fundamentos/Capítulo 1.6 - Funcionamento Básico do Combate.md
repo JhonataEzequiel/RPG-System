@@ -59,6 +59,10 @@ Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito
 
 Ataques de Oportunidade também impedem a movimentação do oponente caso acertem, e não são afetados pelas Penalidades de Ataque, nem contam para elas.
 
+## Desarme
+
+Você poderá ser desarmado ou desarmar um oponente, a depender se possui Habilidades para isso. Quando isso ocorrer, sua Arma não estará mais em suas mãos. É impossível desarmar os Punhos, mas é possível desarmar outras Armas de Punho.
+
 ## Ataques Desarmados
 
 Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de Impacto, à sua escolha. Você pode escolher se um Ataque Desarmado será não letal.
@@ -70,6 +74,10 @@ Existem vários tipos de Magias de Dano (Magias que causam algum tipo de dano), 
 ## Desviar
 
 Você pode tentar Desviar de um Ataque. Desviar requer que você encerre seu Turno, e custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -3 para acertar até o início do seu próximo Turno.
+
+## Empurrar
+
+Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa por um Teste de Resistência de Força CD 10 + For. Em caso de falha, é empurrada 1.5m de distância por ponto do seu Modificador de Força. Você gasta uma Ação para empurrar.
 
 ## Coeficiente de Armadura (CA)
 

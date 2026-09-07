@@ -57,7 +57,7 @@ Você consegue agora criar Poções e Venenos. O custo em moedas para criar as P
 **Duração**: 1 Encontro.
 **Custo**: Ação Livre.
 
-Você pode ativar ou desativar essa Habilidade com uma Ação Livre. Enquanto ativada, se você tomar uma Poção, seu sangue correrá mais rápido pelo seu corpo, e começará a esquentar. Você recebe 1d4 de Dano de Fogo. Em troca, todo o Dano Físico causado por você aumenta em 1d6, incluindo Dano Venenoso e Ácido. Esse efeito é cumulativo até um máximo de 3d6.
+Você pode ativar ou desativar essa Habilidade com uma Ação Livre. Enquanto ativada, se você tomar uma Poção, seu sangue correrá mais rápido pelo seu corpo, e começará a esquentar. Você recebe 1d4 de Dano de Fogo. Em troca, todo o Dano Físico causado por você aumenta em 1d6, incluindo Dano Venenoso e Ácido. Esse efeito é cumulativo até um máximo de 3d6, e o dano adicional será um dos tipos capazes de ser causados pela sua Arma, desde que seja Físico, à sua escolha.
 
 ## Dissolução (Custo 1)
 

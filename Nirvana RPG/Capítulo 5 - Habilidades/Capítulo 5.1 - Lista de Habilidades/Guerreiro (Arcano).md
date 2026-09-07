@@ -21,6 +21,21 @@ Ao invés de utilizar um Ataque a mais sem sofrer penalidades, você pode optar 
 
 Seus Arcanos Menores não mais tem pré-requisitos de Atributos, mas a quantidade de Magias que você conhece é diminuída em 5. Se você tiver 4 de Sabedoria ou mais, essa penalidade é anulada. O mínimo de Magias Conhecidas é 0.
 
+## Vínculo Bélico (Custo 1)
+
+**Requisitos**: 3 de Inteligência, 3 de Fé, ou 3 de Carisma. 3 de Sabedoria.
+
+Você faz um ritual segurando uma Arma durante um Descanso Curto. Essa Arma fica vinculada a você caso ela já não esteja vinculada a outra pessoa. Você pode fazer essa Arma voltar às suas mãos apenas estendendo a mão ao custo de uma Ação Livre, não importando a distância aonde ela estiver, desde que você e a Arma estejam no mesmo plano de existência. 
+
+Você também pode se teletransportar para a localização da Arma ao custo de duas Ações, uma vez por Descanso Longo. Você aparece no local aonde ela estiver, já com ela equipada. Você precisa ter mãos o suficiente desocupadas para usar essa característica da Habilidade.
+
+## Memória Perfeita (Custo 1)
+
+**Requisitos**: Ser Perito em História.
+**Custo**: Ação Livre.
+
+Você consegue se lembrar de qualquer acontecimento com perfeição, e também é particularmente bom em analisar comportamentos de seus adversários. Ao final do primeiro Turno em um Encontro, você saberá se um inimigo a sua escolha possui alguma fraqueza. Ao final do segundo, saberá de suas Resistências. Ao final do terceiro, Invulnerabilidades. Você só pode utilizar essa Habilidade no início de um Encontro, e ela é limitada a um alvo único. Você pode usar essa Habilidade uma quantidade de vezes igual ao seu Bônus de Proficiência por Descanso Curto.
+
 ## Forma Mágica (Custo 2)
 
 **Requisitos**: 4 de Constituição, 2 de Inteligência, 1 de Sabedoria.
@@ -67,7 +82,7 @@ Qualquer Dano Cortante que você cause agora recebe um adicional de 3d8 + Fth de
 
 ## Respiração (Custo 3)
 
-**Requisitos**: 10 de Destreza, 1 de Inteligência.
+**Requisitos**: 8 de Destreza, 1 de Inteligência.
 
 Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus Ataques causarão dano mágico adicional, composto por 1d6 de Dano Radiante e 1d6 de outro tipo à sua escolha entre Raio, Fogo, Gelo, e Sortilégio.
 

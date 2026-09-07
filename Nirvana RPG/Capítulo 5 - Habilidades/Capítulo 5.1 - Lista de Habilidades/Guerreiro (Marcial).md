@@ -21,6 +21,19 @@ Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais 
 
 Você pode realizar dois Ataques seguidos sem se preocupar com a primeira Penalidade de Ataques. Ou seja, o segundo Ataque não receberá a penalidade de -5 para atacar. Por conseguinte, o terceiro Ataque terá uma penalidade de -5, e não de -10.
 
+## Dualidade Militar (Custo 1)
+
+**Requisitos**: 4 de Força, 4 de Destreza.
+
+Caso você esteja utilizando uma Arma Comum em cada mão, você pode optar por anular as penalidades que ocorrem ao Atacar com as duas ao mesmo tempo.
+
+## Dança Combatente (Custo 1)
+
+**Requisitos**: 2 de Força ou 2 de Destreza.
+**Duração**: 1 Encontro.
+
+Ao derrotar um inimigo em um Encontro, adicione 1d4 de Dano Físico entre Cortante, Perfurante, ou de Impacto a todos os seus Ataques pelo resto do Encontro, de acordo com o tipo causado pela sua Arma. Esse bônus é cumulativo até um máximo de 4d4.
+
 ## Pressa de Batalha (Custo 1)
 
 **Requisitos**: 2 de Força ou 2 de Destreza.

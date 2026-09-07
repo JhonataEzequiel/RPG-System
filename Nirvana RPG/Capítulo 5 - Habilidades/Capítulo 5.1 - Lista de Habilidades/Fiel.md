@@ -25,6 +25,19 @@ Você coloca sua divindade ou ideal como prioridade, abrindo o caminho para que 
 
 Você adiciona seu Modificador de Fé na Iniciativa. Você também pode realizar qualquer Ação Bônus fora do seu Turno, uma vez por Encontro, no início do Turno de um aliado (o custo dessa Habilidade diz respeito a esta Ação Bônus em questão). Esta Ação Bônus contará como se estivesse no seu Turno, ou seja, se realizar outra Ação Bônus no seu Turno ela será considerada uma Ação. Se você já tiver usado uma Ação Bônus não poderá usar essa Habilidade na Rodada em questão.
 
+## Barreira Celestial (Custo 1)
+
+**Requisitos**: 2 de Fé. Um Símbolo Sagrado.
+**Custo**: Reação.
+
+Você ergue seu Símbolo Sagrado para cima, e faz com que uma barreira se erga em volta de você. Você repele um Ataque que esteja prestes a sofrer de volta ao inimigo, fazendo com que o mesmo cause apenas metade do dano total (avalie os tipos de dano individualmente, diminuindo cada um pela metade) o causando 1d12 de Dano Radiante. O inimigo é empurrado 1.5m para trás. Você pode usar essa característica uma vez por Descanso Longo. Esse número aumenta para três vezes ao atingir o nível 6 de Fé.
+
+## Salvação Maravilhosa (Custo 1)
+
+**Requisitos**: 4 de Fé. Um Símbolo Sagrado.
+
+Enquanto estiver segurando um Símbolo Sagrado, suas Magias de Cura curarão 1d8 a mais. Alternativamente, você pode optar por adicionar 1d8 a mais de Dano Radiante as suas Magias que causem Dano Radiante. Você pode refazer essa escolha ao ter um Descanso Curto.
+
 ## Luz da Madrugada (Custo 2)
 
 **Requisitos**: 5 de Fé ou Carisma.
@@ -44,7 +57,7 @@ Alternativamente, você pode adicionar 3d8 em qualquer instância de dano que ca
 
 **Requisitos**: 5 de Carisma ou Fé.
 
-Você agora pode se mover duas vezes durante uma Rodada. Uma no seu Turno, como sempre, e outra em qualquer outro momento da Rodada. Quando não se mover no seu turno, você poderá Andar ou Correr, mas não poderá utilizar Desengajar ou qualquer outra Ação de Movimento. É impossível evitar Ataques de Oportunidades se alguém te acertar quando se mover fora do seu Turno, ainda que tenha alguma Habilidade ou efeito que te torne imune a estes ataques normalmente. 
+Você agora pode se mover duas vezes durante uma Rodada. Uma no seu Turno, como sempre, e outra em qualquer outro momento da Rodada. Quando não se mover no seu Turno, você poderá Andar ou Correr com uma Ação Livre, mas não poderá utilizar Desengajar ou qualquer outra Ação de Movimento. É impossível evitar Ataques de Oportunidades se alguém te acertar quando se mover fora do seu Turno, ainda que tenha alguma Habilidade ou efeito que te torne imune a estes ataques normalmente. 
 
 Caso você tenha 5 de Carisma, você pode conceder este segundo movimento na Rodada como Deslocamento adicional a um de seus aliados durante o Turno deles, aumentando o Deslocamento que eles normalmente teriam, somando-o com o seu. Você o incentiva de alguma forma, seja com um grito de guerra, ou um gesto característico, que aumenta o espírito de luta dele. Você abdica de se mover uma segunda vez nesta Rodada para fazer isso. O aliado que foi alvo deste aumento de Deslocamento também não será Imune a Ataques de Oportunidade durante este Turno, ainda que normalmente seria por conta de algum efeito ativo ou Habilidade.
 

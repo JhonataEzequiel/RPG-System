@@ -1,4 +1,5 @@
 
+Existem alguns tipos de Condições. Algumas são neutras ou benéficas, enquanto outras são negativas. Uma Condição negativa é toda Condição que aplique um malefício para quem estiver com ela.
 ### Agarrado
 
 O Deslocamento da criatura Agarrada é reduzido a zero, e a criatura perde uma de suas Ações enquanto estiver Agarrada, tendo só 2 Ações por Turno.
@@ -62,7 +63,7 @@ Jogadas de Ataque contra a criatura têm Vantagem. Qualquer Ataque que acerte a 
 
 ### Invisível
 
-Uma criatura Invisível tem Vantagem em Testes de Furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer Ataque contra alguém Invisível tem Desvantagem.
+Uma criatura Invisível tem Vantagem em Testes de Furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer Ataque contra alguém Invisível tem Desvantagem. Além disso, a Invisibilidade é quebrada ao realizar qualquer Ação, Ação Bônus, ou Reação.
 
 ### Nocauteado
 

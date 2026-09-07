@@ -4,7 +4,13 @@ Habilidades que afetam diretamente o uso de Magias de Ilusão e efeitos similare
 
 **Requisitos**: 3 de Carisma, 2 de Sabedoria.
 
-Suas Magias que façam com que um alvo fique Encantado tem +3 na CD das Salvaguardas para resistir a elas.
+Suas Magias que façam com que um alvo fique Encantado tem +2 na CD das Salvaguardas para resistir a elas.
+
+## Forçar Invisibilidade (Custo 1)
+
+**Requisitos**: 2 de Carisma, 2 de Inteligência.
+
+Ao fazer um alvo ficar Invisível de qualquer maneira, seja através de Magias, Poções, ou quaisquer outros meios, ela não mais perderá a Condição Invisível na primeira Ação, Ação Bônus, ou Reação que realizar, apenas na segunda. Por exemplo, se Atacar alguém, não sairá mais da Invisibilidade, mas caso use outra Ação, Ação Bônus, ou Reação após isso, a Invisibilidade será quebrada. Essa Habilidade tem efeito apenas na primeira vez que deixar alguém Invisível. Você também pode ser alvo dessa Habilidade.
 
 ## Trapaceiro (Custo 1)
 

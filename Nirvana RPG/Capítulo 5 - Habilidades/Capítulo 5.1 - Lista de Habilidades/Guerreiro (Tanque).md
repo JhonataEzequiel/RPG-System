@@ -30,6 +30,17 @@ Sempre que for afetado por Dano de Fogo você ignora quaisquer efeitos que dimin
 
 Quando Motor em Chamas estiver ativo, você pode optar por recuperar duas de suas Ações ao final do seu Turno.
 
+## Escudo de Carvalho (Custo 1)
+
+Você adiciona metade do seu Bônus de Proficiência a sua CA enquanto utilizar um Escudo. Você ainda precisa atender aos requisitos do Escudo para que esse bônus se aplique. Esse bônus se soma as Escalas do Escudo.
+
+## Ombro Direto (Custo 1)
+
+**Requisitos**: 3 de Constituição.
+**Custo**: Uma Ação.
+
+Essa Habilidade substitui a ação Empurrar. Você dá um escorão no alvo ao Empurrá-lo. A CD do Teste para resistir ao seu Empurrão aumenta para 10 + Con + For, e o alcance do Empurrão agora será de 1.5m por ponto no Modificador de Constituição e de Força.
+
 ## Pele Dura (Custo 1)
 
 A sua pele torna-se mais resistente a medida que recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que você for Nocauteado, ganhará um bônus de 5 de Resistência contra qualquer dano que você quiser. O bônus é cumulativo, e é perpétuo. Você pode adquirir até 20 de Resistência no total com esta Habilidade, somando todas as Resistências adquiridas por meio dela.
