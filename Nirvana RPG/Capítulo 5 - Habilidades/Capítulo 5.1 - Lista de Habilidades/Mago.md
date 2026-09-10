@@ -5,7 +5,7 @@ O Arquétipo do Mago conterá Habilidades que beneficiarão usuários de Magias 
 
 **Requisitos**: 1 de Inteligência. Ser Perito em História.
 
-Sempre que estiver em um local nunca antes visitado, você terá Vantagem no primeiro Teste de História que realizar. Além disso, você terá +1 de Percepção em locais escuros e cavernosos, como masmorras e ruínas.
+Sempre que estiver em um local nunca antes visitado, você terá Vantagem no primeiro Teste de História que realizar. Além disso, você terá +2 de Percepção em locais escuros e cavernosos, como masmorras e ruínas.
 
 ## Recuperação Arcana (Custo 1)
 
@@ -81,6 +81,18 @@ Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá q
 **Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 10 de Inteligência.
 
 Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora custam apenas uma Ação Bônus. Os que custarem duas ou três Ações agora custarão uma Ação a menos.
+
+## Magia do Coração (Custo 1)
+
+**Requisitos**: Habilidade "Fluir da Mana" de Custo 1.
+
+A Magia adicional concedida por Fluir da Mana agora poderá ser uma Magia de custo 2 ou inferior a qual você não cumpre os requisitos de Atributo. Alternativamente, você conhece dois Arcanos Menores adicionais, e ignora os requisitos de Atributo deles.
+
+## Engrenagem (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+
+Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No segundo Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do terceiro em diante, adicione também o seu Bônus de Proficiência.
 
 ## Arcano Aprimorado (Custo 2)
 

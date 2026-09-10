@@ -7,6 +7,21 @@ O Arquétipo do Suporte se dedica apenas a auxiliar seus companheiros.
 
 Sempre que realizar uma cura a um único alvo, você pode selecionar outro alvo para curá-lo em 1d4 + Fth ou Car gratuitamente. Ao atingir o Nível 10, esse valor aumenta para 1d6 + Fth ou Car. No Nível 16, aumenta para 1d8 + Fth ou Car.
 
+## Alvo Preferencial (Custo 1)
+
+**Requisitos**: 3 de Fé ou Carisma.
+**Duração**: 3 Rodadas.
+
+Escolha uma criatura alvo que compartilhe um Descanso Longo com você. Sempre que curá-lo adicione 1d4 de Resistência a qualquer um dos tipos de dano. O limite ao mesmo tempo é de 2d4. Você escolhe o tipo de resistência ao iniciar o Encontro. Você pode refazer a escolha de aliado ao ter um Descanso Longo.
+
+## Louçania (Custo 1)
+
+**Requisitos**: 3 de Carisma.
+**Custo**: Reação, 4 de Mana.
+**Duração**: 3 Rodadas.
+
+Ao utilizar uma Magia de Cura em um inimigo, você o força a passar por um Teste de Resistência de Carisma CD 7 + Carisma. Em caso de falha, ele tem a Condição Encantado. O alvo pode repetir o Teste no Início de cada um dos Turnos dele.
+
 ## Inspiração (Custo 1)
 
 **Custo**: Uma Ação, 1 de Mana.

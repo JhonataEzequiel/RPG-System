@@ -49,6 +49,10 @@ Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá 
 
 **Revelar Forças** (Uma Ação, 3 de Mana): Revela todas as Resistências e Invulnerabilidades que um alvo possua.
 
+## Sobrevivente Sadio (Custo 1)
+
+Ao se alimentar, adicione +1d8 de Pontos de Vida Temporários até o fim do próximo Encontro. Você terá que consumir o equivalente a uma Ração de Viagem (disponível no Capítulo 4.12 - Outros Itens) para que essa Habilidade tenha efeito. Esse efeito é cumulativo até um máximo de 3d8. Uma vez atingido esse máximo, será necessário te rum Descanso Longo para ganhar novos Pontos de Vida Temporários.
+
 ## Preparar Terreno (Custo 1)
 
 **Requisitos**: Ser Perito em Natureza ou Ser Perito em Ladroagem.

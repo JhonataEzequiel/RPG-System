@@ -7,6 +7,22 @@ O Arquétipo do Piromante contém Habilidades relacionadas ao controle do fogo, 
 
 Você consegue criar e manipular chamas pequenas com o toque, sem precisar de uma fonte de fogo. Isso permite acender tochas, fogueiras, velas, e similares instantaneamente, com uma Ação Livre. Quando você atingir o Nível 5 de Inteligência, você pode, uma vez por Descanso Longo, adicionar seu Nível de Inteligência ao dano de uma Magia que cause exclusivamente Dano de Fogo.
 
+## Incinerar (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+**Custo**: Reação.
+
+Você aumenta o dano de um Arcano Menor que cause Dano de Fogo em 1d6 a mais de Dano de Fogo.
+
+## Temperatura Ambiente (Custo 1)
+
+**Requisitos**: 5 de Inteligência.
+**Custo**: Duas Ações.
+**Duração**: 3 Rodadas.
+**Alcance**: 15m.
+
+Você pode aumentar a temperatura ao seu redor, fazendo com que fique mais difícil de se mover. Você reduz o Deslocamento de todos no alcance em 1.5m. Ademais, Ataques feitos fora da área de alcance contra criaturas afetadas tem +1 para acertar.
+
 ## Fogo Aplicado (Custo 1)
 
 **Requisitos**: 3 de Inteligência.
@@ -17,7 +33,7 @@ Ao causar Dano de Fogo em uma criatura, ela terá 1 ponto a mais de Vulnerabilid
 
 **Requisitos**: 3 de Inteligência.
 
-Ao receber Dano de Fogo de qualquer fonte, recupera 1 de Ponto de Mana perdido.
+Ao receber Dano de Fogo de qualquer fonte, recupera 1 de Ponto de Mana perdido. O dano deve vir de um inimigo em combate para essa Habilidade ter efeito.
 
 ## Conflagração (Custo 1)
 

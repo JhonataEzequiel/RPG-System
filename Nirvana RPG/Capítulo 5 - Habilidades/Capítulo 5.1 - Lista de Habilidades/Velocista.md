@@ -13,6 +13,16 @@ Explorar o mundo com pouca bagagem é algo que você preza. Você recupera 1d4 a
 
 Você tem +10 em qualquer Teste para escalar algo fora de combate, e +5 em combate. Você pode pular mesmo em Terreno Difícil, mas o seu Deslocamento de pulo é apenas metade do normal nessas condições.
 
+## Coração Forte (Custo 1)
+
+Ao receber uma penalidade no seu Deslocamento, ela é diminuída em 1.5m. Por exemplo, uma penalidade de -3m agora será de -1.5m. Isso se aplica a quaisquer penalidades. Ao chegar ao Nível 12, a redução nas penalidades será de 3m ao invés de apenas 1.5m. Ao atingir o Nível 18, a redução é de 4.5m nas penalidades.
+
+## Sonido (Custo 1)
+
+**Requisitos**: 4 de Destreza.
+
+Ao Correr, seu Deslocamento aumenta em 9m. Os 9m são somados apenas após dobrar o Deslocamento por Correr. Por 5 de Mana, você pode Correr usando uma Ação Bônus agora.
+
 ## Pulo Duplo (Custo 1)
 
 **Requisitos**: 2 de Destreza, 1 de Inteligência.

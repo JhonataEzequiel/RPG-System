@@ -7,9 +7,24 @@ Você ganha 1 Ponto de Atributo adicional nos Níveis 5, e 10. No entanto, você
 
 Você ganha 1d4 de Pontos de Mana e Vida permanentemente ao adquirir essa Habilidade.
 
+## Bônus Generalista (Custo 1)
+
+**Requisitos**: 2 em todos os Atributos.
+**Duração**: 1 Encontro.
+
+Ao iniciar um Encontro, role 1d4. Você irá adicionar esse valor a um Atributo temporariamente, à sua escolha. Você pode usar essa Habilidade duas vezes por Descanso Longo.
+
 ## Sem Especialidade (Custo 1)
 
 Sempre que você receber um Ponto de Atributo ele irá automaticamente para o Atributo de menor Nível. Você agora pode utilizar ambas as características do Atributo de Sabedoria relacionadas a Mana, sendo elas a de conjurar Magias, e a de adicionar Mana a Testes.
+
+## Coveiro da Realeza (Custo 1)
+
+**Requisitos**: Habilidade "Sem Especialidade" de Custo 1.
+
+Caso um inimigo tenha uma Vantagem em um Ataque direcionado a você, essa Vantagem será automaticamente anulada uma vez por Descanso Curto.
+
+Ao ter todos os Atributos no Nível 3 ou superior, essa Habilidade terá efeito um total de vezes igual ao seu Bônus de Proficiência por Descanso Curto.
 
 ## Do nada à nata (Custo 1)
 

@@ -26,6 +26,21 @@ Você consegue atacar um alvo em seus pontos de pressão, causando danos signifi
 
 Você domina um técnica que te torna capaz de desferir golpes velozes, cortando seu oponente. Seus Punhos poderão causar Dano Cortante, caso você deseje.
 
+## Contra-Ataque em Cruz (Custo 1)
+
+**Requisitos**: 3 de Força ou Destreza.
+**Custo**: Reação, 2 de Mana.
+
+Ao ser acertado por um Ataque você contra-ataca rapidamente, utilizando o movimento do inimigo para sua vantagem. Você Ataca o inimigo com Vantagem, causando 1d10 de Dano Verdadeiro adicional caso acerte, além do dano de um Ataque Desarmado. Você ainda sofre o dano normalmente.
+
+## Gatilho Contínuo (Custo 1)
+
+**Requisitos**: 5 de Força ou Destreza.
+**Custo**: Ação Bônus, 5 de Mana.
+**Duração**: até o fim do seu próximo Turno.
+
+Você converte a Penalidade de Ataques em um bônus positivo para seus Ataques Desarmados. Caso possua a Habilidade "Ataque Extra" e/ou "Ataque Extra Aprimorado" de Guerreiro (Marcial), você ainda recebe os bônus positivos.
+
 ## Evolução Pugilista (Custo 2)
 
 **Requisitos**: Habilidade "Força Natural" de Custo 1. Você deve estar pelo menos Nível 12.

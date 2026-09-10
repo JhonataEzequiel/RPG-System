@@ -5,7 +5,20 @@ O Arquétipo do Pugilista Monge contém Habilidades relacionadas a luta desarmad
 
 **Requisitos**: 1 de Sabedoria.
 
-Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus Ataques Desarmados são fortalecidos. Adicione seu Modificador de Sabedoria apenas para acertar Ataques Desarmados. Você também pode escolher que seus Ataques Desarmados causem Dano Radiante com uma Ação Livre ao invés de usar seu Modificador de Sabedoria nos Ataques.
+Você sente e aprende a ter um controle básico sobre a energia vital do seu corpo. Com isso, seus Ataques Desarmados são fortalecidos. Adicione seu Modificador de Sabedoria apenas para acertar Ataques Desarmados. Você também pode escolher que seus Ataques Desarmados causem Dano Radiante com uma Ação Livre ao invés de usar seu Modificador de Sabedoria nos Ataques. A escolha é feita no início de cada Encontro, ignorando a ordem de Iniciativa.
+
+## Selamento (Custo 1)
+
+**Requisitos**: Habilidade "Ki" de Custo 1. 3 de Sabedoria.
+**Custo**: 3 de Mana.
+
+O próximo Ataque Desarmado que acertar o seu alvo fará com que o mesmo também precise passar por um Teste de Resistência de Força CD 8 + Sabedoria. Em caso de falha, ele fica Paralisado até sofrer dano de qualquer fonte.
+
+## Descanso Mental e Corporal (Custo 1)
+
+**Requisitos**: Habilidade "Ki" de Custo 1.
+
+No seu primeiro Encontro após ter um Descanso Longo, adicione +3 em Sabedoria e em Constituição. Esse bônus diminui em 1 ponto no início de cada um dos seus Turnos após o primeiro, até chegar em 0.
 
 ## Fluxo do Rio (Custo 1)
 
@@ -17,10 +30,10 @@ Seu próximo Ataque Desarmado em um alvo o fará estar sob os mesmos efeitos que
 ## Explosão de Ki (Custo 2)
 
 **Requisitos**: Habilidade "Ki" de Custo 1. 2 de Sabedoria.
-**Alcance**: 18m.
+**Alcance**: 15m.
 **Custo**: Uma Ação.
 
-Você concentra parte de sua energia vital e a dispara em um Ataque a Distância. O dano é igual ao do seu Ataque Desarmado. O alcance é de 18m, mas você pode gastar Pontos de Mana para aumentar a distância. Cada ponto gasto equivale a 6m de alcance adicional.
+Você concentra parte de sua energia vital e a dispara em um Ataque a Distância. O dano é igual ao do seu Ataque Desarmado. O alcance pode ser aumentado ao gastar Pontos de Mana. Cada ponto gasto equivale a 6m de alcance adicional.
 
 ## Punho do Sol (Custo 2)
 

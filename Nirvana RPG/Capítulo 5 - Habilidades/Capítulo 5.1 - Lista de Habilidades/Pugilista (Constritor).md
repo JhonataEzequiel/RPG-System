@@ -1,5 +1,5 @@
 
-O Arquétipo do Pugilista Constritor contém Habilidades relacionadas a luta desarmada, especialmente direcionadas a controle de grupo através da luta agarrada.
+O Arquétipo do Pugilista Constritor contém Habilidades relacionadas a luta desarmada, especialmente direcionadas a controle de grupo.
 
 ## Submissão (Custo 1)
 
@@ -7,6 +7,16 @@ O Arquétipo do Pugilista Constritor contém Habilidades relacionadas a luta des
 **Custo**: Duas Ações.
 
 Quando você agarrar um oponente, você pode levá-lo ao chão. Ele terá a Condição Caído juntamente da Condição Agarrado. Os efeitos são somados.
+
+## Danificar Tímpanos (Custo 1)
+
+**Requisitos**: 3 de Força.
+**Custo**: Duas Ações.
+**Duração**: 3 Rodadas.
+
+Caso uma criatura possua orelhas, você as Ataca de ambos os lados, causando o dano de um Ataque Desarmado, e a deixando Surda caso ela falhe em um Teste de Resistência de Constituição CD 12 + For.
+
+Caso não possua, você causa o dano de um Ataque Desarmado além de 1d6 de Dano de Impacto.
 
 ## Estremecer (Custo 2)
 
@@ -36,3 +46,12 @@ Você agora é capaz de realizar Ataques Desarmados em um alvo da Habilidade Aga
 **Custo**: Ação Bônus.
 
 Você aperta o pescoço ou um determinado ponto vital de um alvo afetado por Submissão. O alvo terá que passar por um Teste de Resistência de Constituição CD 10 + For + Dex. Em caso de falha, ele terá a Condição Inconsciente além das outras.
+
+## Corta-Fôlego (Custo 3)
+
+**Requisitos**: 10 de Força.
+**Custo**: Três Ações.
+
+Você Ataca a garganta de uma criatura alvo, causando o dano de um Ataque Desarmado. Caso ela falhe num Teste de Resistência de Constituição CD 9 + Força, ela ficará Inconsciente, e poderá repetir o Teste novamente para recuperar o fôlego ao início de cada um dos Turnos dela. 
+
+Essa Habilidade não possui esse efeito adicional em criaturas que não precisam respirar, ou que respirem de uma forma diferente, como as aquáticas. No entanto, elas recebem o dano de dois Ataques Desarmados + 2d4 de Dano de Impacto caso sejam acertadas.

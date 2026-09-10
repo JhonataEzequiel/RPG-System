@@ -43,6 +43,16 @@ Você é fisicamente incapaz de causar danos a outras criaturas, diretamente ou 
 
 Em troca, você é Proficiente em todas as Salvaguardas, e possui uma quantidade de Vantagens nas primeiras Salvaguardas que realizar após um Descanso Longo igual ao seu Bônus de Proficiência. Você também pode conceder uma ou mais dessas Vantagens a aliados, fazendo com que possam utilizá-las em qualquer Salvaguarda. Por fim, você tem 1d10 de Pontos de Mana Máximos adicionais.
 
+## Amostra Grátis (Custo 2)
+
+Todas as vezes que tiver um Descanso Longo, escolha uma coisa que não é Proficiente para ser, até ter outro Descanso Longo. Isso inclui Perícias, tipos de Arma, e Salvaguardas. Você não poderá repetir a sua escolha até escolher três outras coisas diferentes. 
+
+Por exemplo, caso opte por ser Proficiente em Salvaguardas de Inteligência, não poderá optar por isso novamente até que escolha outras três coisas diferentes desta Proficiência, o que inclui outras Salvaguardas.
+
+## Canivete (Custo 2)
+
+Você pode trocar um Ponto de Atributo para ter +1 em todos os Testes. Você pode fazer isso até um limite de 3 vezes, não precisando adquirir essa Habilidade outra vez para isso.
+
 ## Eremita (Custo 3)
 
 **Requisitos**: 7 de Constituição ou 7 de Sabedoria.

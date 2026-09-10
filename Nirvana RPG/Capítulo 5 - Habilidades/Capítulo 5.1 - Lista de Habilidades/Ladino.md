@@ -3,14 +3,29 @@ O Arquétipo de Ladino diz respeito ao especialista em Furtividade e Ladroagem.
 
 ## Acrobata (Custo 1)
 
-Desde que você esteja usando uma Armadura Leve ou Roupas, ganha +2 em Testes de Acrobacia. Também pode usar Desengajar como uma Ação Bônus uma vez por Descanso Longo.
+Desde que você esteja usando uma Armadura Leve ou Roupas, ganha +4 em Testes de Acrobacia. Também pode usar Desengajar como uma Ação Bônus uma vez por Descanso Curto.
+
+## Mercado Negro (Custo 1)
+
+**Requisitos**: Essa Habilidade só pode ser pega no Nível 1.
+
+Você conhece os pormenores do submundo do crime, e é capaz de vender e comprar itens de mercadores ocultos nas vielas das cidades. Ao entrar em um ambiente urbano, você sempre achará um mercado paralelo da cidade, se ela tiver um, e não estiver completamente fora do seu alcance (caso o Mestre não queira revelar o local).
+
+Você agora possui um Dado de Ladrão. Esse dado pode ser usado em qualquer compra ou venda de algum item que fizer no mercado negro. Você pode subtrair o valor de compra de um item, ou aumentar o valor da venda de um em um número igual ao resultado do item, e pode fazer isso uma quantidade de vezes igual ao seu Bônus de Proficiência. O Dado de Ladrão é 1d4, aumentado para 1d6 no Nível 1 de Carisma, 1d8 no Nível 3, e 1d10 no Nível 6. 
+
+O custo de um item deve ser maior do que 1po para utilizar o dano, e ele não poderá ser rebaixado para além de 1po.
 
 ## Ataque Furtivo (Custo 1)
 
 **Requisitos**: Ser Perito em Furtividade.
-**Custo**: Ação Bônus.
 
-Você adiciona 3d6 como dano no seu próximo Ataque enquanto estiver Furtivo. O tipo de dano é um dos tipos que você consegue causar com sua Arma, à sua escolha.
+Seus Ataques enquanto estiver Furtivo causam 3d6 a mais de dano. O tipo do dano adicional é um dos tipos que você consegue causar com sua Arma, à sua escolha.
+
+## Ataque Invisível (Custo 1)
+
+**Requisitos**: Habilidade "Ataque Furtivo" de Custo 1.
+
+Se estiver invisível, o dano dos seus Ataques Furtivos aumenta em 2d6. O tipo do dano adicional é o mesmo do Ataque Furtivo.
 
 ## Espreitador (Custo 1)
 
@@ -71,7 +86,7 @@ Quando fora de combate, você pode realizar um Teste de Furtividade para copiar 
 
 **Requisitos**: Habilidade "Ataque Furtivo" de Custo 1.
 
-Você agora causa 6d6 de dano adicional com o Ataque Furtivo ao invés de 3d6.
+O Ataque Furtivo recebe um aumento de 3d6 no dano.
 
 ## Maior Vigarice (Custo 3)
 
