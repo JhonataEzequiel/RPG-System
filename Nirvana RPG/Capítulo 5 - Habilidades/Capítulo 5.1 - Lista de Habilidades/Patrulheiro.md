@@ -21,7 +21,7 @@ Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distânci
 
 Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior, adicionando parte de sua Mana para isso. Essa Habilidade causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante.
 
-O alvo atingido terá que realizar um Teste de Resistência Constituição CD 10 + Dex. Caso falhe, terá 5 de Vulnerabilidade a Dano Perfurante até o início do seu próximo Turno. Caso um alvo seja inicialmente Imune a Dano Perfurante ele não precisará passar pelo Teste de Resistência de Constituição, pois não poderá receber os 5 pontos de Vulnerabilidade. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
+O alvo atingido terá que realizar um Teste de Resistência Constituição CD 10 + Dex. Caso falhe, terá 5 de Vulnerabilidade a Dano Perfurante até o início do próximo Turno dele. Caso um alvo seja inicialmente Imune a Dano Perfurante ele não precisará passar pelo Teste de Resistência de Constituição, pois não poderá receber os 5 pontos de Vulnerabilidade. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
 
  Por fim, este Ataque não é afetado pelas Penalidades de Ataque. Você não pode mais Atacar neste Turno.
 

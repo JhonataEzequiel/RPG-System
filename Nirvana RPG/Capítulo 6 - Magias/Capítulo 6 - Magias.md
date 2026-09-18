@@ -7,6 +7,8 @@ Magias com alcance "Toque" podem ser utilizadas tanto em você, quanto em alvos 
 
 As Magias podem ter como tempo necessário para conjurar tanto uma quantidade de Ações (mais comum), quanto uma unidade de tempo específica, sejam minutos, horas, ou algo similar. Elas também podem ser de Concentração, o que significa que ficarão ativas enquanto você quiser mantê-las, ou até alguém quebrar a sua Concentração. A quebra de Concentração pode ocorrer caso você sofra uma quantidade de dano igual ou maior do que metade dos seus Pontos de Vida Atuais, ou alguém te force a passar em uma Salvaguarda qualquer e você falhe. Se qualquer processo de conjuração for interrompido antes da hora, você gastará os Pontos de Mana normalmente.
 
+Para conjurar uma Magia não é necessário estar com as mãos livres, bastando que você faça algum gesto ou fale uma palavra mágica para servir como gatilho para a conjuração.
+
 ## Categorias de Magias
 
 ### Elementais

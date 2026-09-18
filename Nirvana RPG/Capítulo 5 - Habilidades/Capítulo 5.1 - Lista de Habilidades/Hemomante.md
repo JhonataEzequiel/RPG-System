@@ -33,6 +33,7 @@ Essa Habilidade não pode ser escolhida se você já tiver a Habilidade "Tipo O"
 ## Tipo O (Custo 1)
 
 **Requisitos**: 5 de Fé, 1 de Inteligência.
+**Custo**: Uma Ação, 1 de Mana.
 
 Você pode doar parte do seu sangue para um aliado. Você gasta uma quantidade de Pontos de Vida à sua escolha, e seu aliado é curado pelo dobro da quantidade gasta. No Nível 8 de Fé, ele será curado pelo triplo. No Nível 10 de Fé e Inteligência, ele será curado por quatro vezes a quantidade gasta.
 
@@ -58,7 +59,12 @@ Agora todo dano adicional causado pela Habilidade "Hemomancia Venenosa" não ser
 
 ## Cura Carmesim (Custo 3)
 
-**Requisitos**: 10 de Inteligência, 10 de Fé.
-**Custo**: Uma Ação.
+**Requisitos**: Habilidade "Tipo O" de Custo 1. 10 de Inteligência, 10 de Fé.
 
-Você pode sacrificar Pontos de Vida para curar uma criatura alvo. O seu sangue se transmuta, mudando o tipo e propriedades para se encaixar com o do alvo. Ele é curado em um valor igual ao triplo dos Pontos de Vida gastos.
+Ao curar um aliado com a Habilidade Tipo O, você também adicionará seu Bônus de Proficiência e se Nível à cura. Esses valores adicionais não serão multiplicados.
+
+## Roubo de Vida (Custo 3)
+
+**Requisitos**: Habilidade "Tipo AB" de Custo 1. 10 de Inteligência, 10 de Fé.
+
+Você agora absorve o sangue de criaturas ao acertar um Ataque nelas. Você se cura em 1d4 sempre que acertar um Ataque em um alvo. O alvo não pode ser Imune a Dano Verdadeiro de Sangue.

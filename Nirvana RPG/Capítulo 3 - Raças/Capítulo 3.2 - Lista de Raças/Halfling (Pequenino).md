@@ -7,9 +7,9 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 ### Pés Sorrateiros
 
-**Agilidade nos Pés** (Passiva): Você pode escalar utilizando seu Deslocamento total ao invés de metade dele. 
+**Agilidade nos Pés** (Passiva): Você pode escalar utilizando seu Deslocamento total ao invés de metade dele.
 
-**Desvio Rápido** (Uma Ação, 1 de Mana): Essa Habilidade substitui a ação de Desviar. Com ela, ataques direcionados a você enquanto desvia tem -10 para acertar ao invés de -3. Você ainda encerra seu Turno quando Desviar, e a duração continua igual. Uma vez por Descanso Longo, você também pode impôr Desvantagem à um Ataque enquanto estiver desviando dele. A Desvantagem e a penalidade de -10 são cumulativas. Caso sua Mana acabe, pode usar Desviar normalmente.
+**Desvio Rápido** (Uma Ação, 1 de Mana): Essa Habilidade substitui a ação de Desviar. Com ela, ataques direcionados a você enquanto desvia tem -10 para acertar ao invés de -3. Você ainda encerra seu Turno quando Desviar, e a duração continua igual. Uma vez por Descanso Longo, você também pode impor Desvantagem à um Ataque enquanto estiver desviando dele, ao custo de uma Reação. A Desvantagem e a penalidade de -10 são cumulativas. Caso sua Mana acabe, pode usar Desviar normalmente.
 
 ### Pés Aconchegantes
 
@@ -21,4 +21,4 @@ Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Es
 
 **Vagante** (Passiva): Você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma Condição negativa.
 
-**Mercador** (passiva): Ao vender ou comprar 5 itens, você ganha 1 Ponto de Habilidade. Você pode fazer isso até 4 vezes. O valor mínimo do primeiro item deve ser de 50po, e aumenta em 50po a cada item. Caso você venda um item e o compre novamente, ou vice e versa, este item contará apenas uma vez.
+**Mercador** (Passiva): Ao vender ou comprar 5 itens, você ganha 1 Ponto de Habilidade. Você pode fazer isso até 4 vezes. O valor mínimo do primeiro item deve ser de 50po, e aumenta em 50po a cada item. Caso você venda um item e o compre novamente, ou vice e versa, este item contará apenas uma vez.

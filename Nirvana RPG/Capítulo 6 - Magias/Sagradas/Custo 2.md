@@ -1,4 +1,16 @@
 
+### Alterar Forma (Incompleta)
+
+- Requisito em Carisma: 2
+- Duração: 1 hora
+- Alcance: Toque
+- Tempo de Conjuração: Três Ações
+
+**Descrição:** Você pode alterar sua forma, desde que a alteração se enquadre nas seguintes categorias:
+- **Adaptação aquática**: Você cria guelras no seu corpo, além de membranas entre os dedos, fazendo com que seja capaz de respirar de baixo d’água e nadar com mais eficiência, aumentando seu Deslocamento aquático em 3m. Você tem +5 de bônus em Testes de Atletismo enquanto estiver submerso na água.
+- **Mudar Aparência**: Você pode alterar características físicas como: tamanho, peso, traços faciais, cabelo, cor, timbre da voz, etc. Você não pode criar asas ou algo parecido que te conceda uma Vantagem além.
+- **Armas Naturais**: Você pode crescer garras, chifres, presas, espinhos, ou qualquer coisa do gênero onde quiser no seu corpo, fazendo com que seus ataques desarmados causem 1d6 + Int de Dano Perfurante ou Cortante adicional, a depender do tipo de arma natural criada.
+
 ### Curar Ferimentos Maiores
 
 - Requisito em Fé ou Carisma: 2

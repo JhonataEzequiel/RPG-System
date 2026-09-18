@@ -23,7 +23,9 @@ Caso a criatura obtenha sucesso no Teste, recebe apenas 4d6 + Car de Dano Psíqu
 
 **Descrição:** Você toca uma criatura alvo, que terá que passar por uma Salvaguarda de Sabedoria CD 12 + Int + Car. 
 
-Em caso de falha, o alvo entra em um estado de choque imediato, se desconectando da realidade. O alvo confundirá amigos com inimigos, ouvirá vozes estranhas, sentirá toques e cheiros que não existem, acreditará que está sendo perseguido por alguém, etc. O alvo fica Incapacitado pela duração, e não pode se libertar por conta própria, sendo necessário ajuda externa de alguma forma, como uma Magia capaz de curar Condições. Ele recebe Dano Psíquico Contínuo enquanto a Condição durar de 4d8 + Int + Car. Em caso de sucesso, o dano cai pela metade e o alvo não fica Incapacitado, mas terá -3 em Ataques pelo resto do Encontro.
+Em caso de falha, o alvo entra em um estado de choque imediato, se desconectando da realidade. O alvo confundirá amigos com inimigos, ouvirá vozes estranhas, sentirá toques e cheiros que não existem, acreditará que está sendo perseguido por alguém, etc. O efeito em específico fica ao seu critério. 
+
+O alvo fica Incapacitado pela duração, e não pode se libertar por conta própria, sendo necessário ajuda externa de alguma forma, como uma Magia capaz de curar Condições. Ele recebe Dano Psíquico Contínuo enquanto a Condição durar de 4d8 + Int + Car. Em caso de sucesso, o dano cai pela metade e o alvo não fica Incapacitado, mas terá -3 em Ataques pelo resto do Encontro.
 
 ### Horror de Argila
 
@@ -33,4 +35,4 @@ Em caso de falha, o alvo entra em um estado de choque imediato, se desconectando
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você escolhe uma criatura alvo no alcance da Magia. A mente dela é temporariamente transportada para uma dimensão esquisita, aonde ela se verá em uma sala fechada, com uma mesa e uma figura de argila em cima, retratando uma entidade desconhecida. Ao ver esta cena, ela terá que passar por um Teste de Resistência de Inteligência CD 13 + Int + Car. Após realizar o Teste, a mente do alvo volta ao dono. Em caso de falha, se ele te olhar uma vez sequer verá o rosto da entidade desconhecida no lugar do seu, e receberá 4d8 + Int + Car de Dano Psíquico Contínuo pelo resto da duração, além de ficar Amedrontado. Ele pode escolher fechar os olhos e ter a Condição Cego, e se fizer isso, não poderá mais Atacar enquanto não abrir os olhos. Em caso de sucesso, recebe apenas 4d8 + Int + Car de Dano Psíquico uma única vez.
+**Descrição:** Você cria uma ilusão de uma figura feita de argila que aparece em um local adjacente a você. Todos os inimigos no alcance terão que passar em um Teste de Resistência de Fé CD 13 + Int + Car. Em caso de falha, a ilusão os impede de sequer olhar para sua direção, anulando Ataques direcionados a você. Uma criatura afetada pode realizar o Teste novamente no início de cada um dos Turnos dela, ao troco de duas Ações.

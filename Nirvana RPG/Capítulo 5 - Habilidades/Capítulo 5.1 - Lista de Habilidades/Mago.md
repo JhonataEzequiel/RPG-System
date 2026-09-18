@@ -49,7 +49,7 @@ Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir
 
 **Requisitos**: 1 de Sabedoria.
 
-Quando tiver um Descanso Curto e for recuperar Mana utilizando seu Dado de Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem. Você agora conhece uma Magia adicional.
+Quando tiver um Descanso Curto e for recuperar Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem. Você agora conhece uma Magia adicional.
 
 ## Conhecedor Arcano (Custo 1)
 
@@ -92,7 +92,7 @@ A Magia adicional concedida por Fluir da Mana agora poderá ser uma Magia de cus
 
 **Requisitos**: 3 de Inteligência.
 
-Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No segundo Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do terceiro em diante, adicione também o seu Bônus de Proficiência.
+Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No segundo Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do terceiro em diante, adicione o Atributo inteiro ao invés do Modificador.
 
 ## Arcano Aprimorado (Custo 2)
 

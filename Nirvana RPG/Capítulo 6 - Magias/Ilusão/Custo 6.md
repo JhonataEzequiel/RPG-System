@@ -10,7 +10,7 @@
 
 A ilusão pode ser descoberta caso quem esteja ao redor sejam bem sucedidos em uma Salvaguarda de Inteligência CD 10 + Int ou Car.
 
-### Fim dos Tempos
+### Paralisia Cerebral
 
 - Requisito em Inteligência: 6
 - Requisito em Carisma: 6
@@ -18,11 +18,7 @@ A ilusão pode ser descoberta caso quem esteja ao redor sejam bem sucedidos em u
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você entra na mente de uma criatura alvo dentro do alcance da Magia, e faz ela enxergar visões apocalípticas. Ela enxerga o mundo acabando, assim como a destruição de tudo que ela conhecia. 
-
-Se o alvo falhar em um Teste de Resistência de Fé CD 10 + Int + Car ela fica Paralisada pelo resto da duração da Magia. Ela pode repetir o Teste no início de cada um de seus Turnos, ao custo de Três Ações. 
-
-Em caso de sucesso o alvo recebe 1d10 de Dano Psíquico, e a dificuldade do Teste para resistir a essa Magia novamente aumenta em 1.
+**Descrição:** Você adentra na mente de uma criatura alvo, que deverá passar em um Teste de Resistência CD 10 + Int + Car. Em caso de falha, a criatura terá a Condição Paralisado. Além disso, sofrerá 3d6 + Int + Car de Dano Psíquico.
 
 ### Comunicação Onírica
 

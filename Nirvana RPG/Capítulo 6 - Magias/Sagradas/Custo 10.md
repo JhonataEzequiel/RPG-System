@@ -46,7 +46,7 @@ Ao conjurar essa Magia, você não pode usar Magias até ter um Descanso Longo. 
 | Item Mágico Grau 2 | 24 horas         |
 | Item Mágico Grau 3 | 72 horas         |
 
-### Alterar Forma
+### Alterar Forma (Completa)
 
 - Requisito em Carisma: 10
 - Requisitos Adicionais: Ter visto uma criatura do mesmo tipo que você irá se transformar, e de um Nível igual ou menor ao do seu personagem

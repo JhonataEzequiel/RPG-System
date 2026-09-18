@@ -11,7 +11,7 @@
 
 | Armadura                   | Preço | CA  | Requisitos    | Escalas       | Penalidades | Efeitos Adicionais          | Peso |
 | -------------------------- | ----- | --- | ------------- | ------------- | ----------- | --------------------------- | ---- |
-| Armadura Alcochoada        | 2pp   | +1  | 1 de Força    | D em Força    | 0           | -                           | 4 kg |
+| Armadura Acolchoada        | 2pp   | +1  | 1 de Força    | D em Força    | 0           | -                           | 4 kg |
 | Couro                      | 1po   | +1  | 0             | D em Destreza | 0           | -                           | 4 kg |
 | Couro Batido               | 3po   | +2  | 1 de Destreza | D em Destreza | 0           | -                           | 5 kg |
 | Couro de Elite             | 4po   | +2  | 1 de Destreza | C em Destreza | 0           | -                           | 6 kg |

@@ -8,9 +8,9 @@
 
 **Descrição:** Você aumenta a temperatura de qualquer material metálico dentro do alcance, fazendo com que quem o toque receba 2d4 de Dano de Fogo.
 
-Você também pode ter como alvo alguém utilizando uma Armadura. Neste caso o alvo perderá seu próximo Turno para se livrar completamente das partes de metal da Armadura, fazendo com que sua CA também diminua. Caso ele permaneça com a Armadura equipada, sofrerá 5d6 + Int de Dano de Fogo ao final de cada Turno dele.
+Você também pode ter como alvo alguém utilizando uma Armadura. Neste caso o alvo perderá seu próximo Turno para se livrar completamente das partes de metal da Armadura, fazendo com que sua CA também diminua. Caso ele permaneça com a Armadura equipada, sofrerá 5d6 + Int de Dano de Fogo Contínuo a partir do próximo Turno dele.
 
-Se você tiver como alvo alguém empunhando uma Arma, ele deverá soltar a Arma dele em uma Ação Livre, ou sofrer 3d6 + Int de Dano de Fogo ao final de cada Turno dele enquanto segurar a arma. 
+Se você tiver como alvo alguém empunhando uma Arma, ele deverá soltar a Arma dele em uma Ação Livre, ou sofrer 3d6 + Int de Dano de Fogo Contínuo enquanto segurar a arma, a partir do próximo Turno dele. 
 
 Após a duração, tanto a Armadura quanto a Arma, ainda que o alvo deseje continuar com elas, serão inutilizadas caso o item não conceda Resistência a Dano de Fogo.
 
@@ -70,8 +70,8 @@ Você pode aumentar o dano em 1d8 por Ponto de Mana adicional até um máximo de
 ### Jato Ácido
 
 - Requisito em Inteligência: 1
-- Duração: Instantânea
+- Duração: 2 Rodadas
 - Alcance: Deslocamento
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você dispara um jato de ácido das suas mãos em um alvo. O alvo recebe 3d8 de Dano Ácido, e a CA dele é diminuída em 1 ponto por 2 Rodadas.
+**Descrição:** Você dispara um jato de ácido das suas mãos em um alvo. O alvo recebe 3d8 de Dano Ácido, e a CA dele é diminuída em 1 ponto.

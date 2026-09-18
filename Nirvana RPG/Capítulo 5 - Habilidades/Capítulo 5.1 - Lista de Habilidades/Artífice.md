@@ -15,7 +15,7 @@ Você pode ter até 1 autômato ativo no total ao mesmo tempo. Você gasta 5po p
 
 **Requisitos**: Habilidade "Autômatos Menores" de Custo 1. 3 de Inteligência.
 
-O custo para criar um autômato mecânico qualquer, ainda que de outras Habilidades que não seja a "Autômatos Menores", é reduzido em 1d4 Peças de Ouro. O mínimo é 1po.
+O custo para criar um autômato mecânico qualquer, ainda que de outras Habilidades que não sejam a "Autômatos Menores", é reduzido em 1d4 Peças de Ouro. O mínimo é 1po.
 
 ## Bucaneiro (Custo 1)
 

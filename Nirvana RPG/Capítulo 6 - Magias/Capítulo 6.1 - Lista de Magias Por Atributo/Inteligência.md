@@ -217,7 +217,7 @@ Batida Pesada: 6 de Inteligência ou Carisma. Imaculada.
 
 Toque Necrótico: 6 de Inteligência, 6 de Fé. Sortilégio.
 
-Fim dos Tempos: 6 de Carisma, 6 de Inteligência. Ilusão.
+Paralisia Cerebral: 6 de Carisma, 6 de Inteligência. Ilusão.
 
 Ventania: 6 de Inteligência. Elemental.
 

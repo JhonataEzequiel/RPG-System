@@ -47,17 +47,20 @@ Uma vez adquirido XP para subir de Nível será necessário ter um Descanso Long
 
 ## Pontos de Vida e Mana Adicionais
 
-Ao evoluir de Nível você ganhará mais Pontos de Vida e Pontos de Mana. Você pode optar por adicionar novos Pontos de duas maneiras: rolando os dados, ou pegando o valor médio deles. 
+Ao evoluir de Nível você ganhará mais Pontos de Vida e Pontos de Mana. 
 
-Se optar por rolar os dados, você rolará seu Dado de Vida e adicionará o resultado ao seu Modificador de Constituição. Após isso, juntará os dois nos seus Pontos de Vida Máximos. Analogamente, fará o mesmo com a Mana, mas utilizando seu Dado de Mana e seu Modificador de Sabedoria.
+**Pontos de Mana**: Seus Pontos de Mana adicionais serão sempre o valor do seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana adicional por Nível.
 
-Se optar pelo valor médio, você dividirá o número máximo possível do seu Dado de Vida ou Dado de Mana, e somará ao Modificador correspondente, adicionando os resultados ao seu total máximo de cada um.
-
-Caso sua Constituição tenha valor negativo, você não somará o Modificador. Caso sua Sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana por Nível.
+**Pontos de Mana**: Você pode optar por adicionar novos Pontos de Vida de duas maneiras: rolando os dados, ou pegando o valor médio deles.
+- Se optar por rolar os dados, você rolará seu Dado de Vida e adicionará o resultado ao seu Modificador de Constituição. Após isso, juntará os dois nos seus Pontos de Vida Máximos.
+- Se optar pelo valor médio, você dividirá o número máximo possível do seu Dado de Vida por dois, e somará ao Modificador de Constituição, adicionando os resultados ao seu total máximo.
+Caso sua Constituição tenha valor negativo, você não somará o Modificador.
 
 ## Pontos Retroativos
 
 Caso seu Modificador de Constituição ou Sabedoria aumente em Níveis futuros, você pode adicionar Pontos de Vida e Mana retroativamente de acordo com o aumento. Supondo, por exemplo, que seu Nível antigo de Constituição era 8, e você está Nível 19, mas ao evoluir para o Nível 20 você coloque mais dois Pontos de Atributo em Constituição, seu Modificador aumentará em 1 ponto, e você ganhará 1 Ponto de Vida adicional para cada Nível além do 20. Neste caso, 19 Pontos de Vida adicionais.
+
+Isto não afeta seu Dado de Vida. Ou seja, apesar de seu Dado de Vida mudar quando você subir seu valor de Constituição, você não rolará novamente seus Pontos de Vida com o novo dado.
 
 ## Pontos de Atributo e Habilidade
 

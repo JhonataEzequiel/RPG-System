@@ -62,23 +62,23 @@ Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos 
 
 Ao melhorar seu Atributo de Sabedoria, você poderá escolher novas Magias da Lista de Magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até Magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma Magia se não atender primeiro aos requisitos dela.
 
-No Nível 1, seus Pontos de Mana serão o maior número possível do seu Dado de Mana, acrescido do seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana Inicial será 1.
+No Nível 1, seus Pontos de Mana serão iguais ao seu Modificador de Sabedoria + 1d4. Caso sua Sabedoria seja 0 ou inferior, sua Mana inicial será 1.
 
-| Nível de Sabedoria | Magias Conhecidas | Arcanos Menores Conhecidos | Dado de Mana |
-| ------------------ | ----------------- | -------------------------- | ------------ |
-| 0                  | 0                 | 0                          | 0            |
-| 1                  | 3                 | 2                          | 1d4          |
-| 2                  | 5                 | 3                          | 1d4          |
-| 3                  | 6                 | 4                          | 1d4          |
-| 4                  | 8                 | 5                          | 1d6          |
-| 5                  | 10                | 6                          | 1d6          |
-| 6                  | 12                | 7                          | 1d6          |
-| 7                  | 13                | 8                          | 1d8          |
-| 8                  | 15                | 8                          | 1d8          |
-| 9                  | 17                | 8                          | 1d8          |
-| 10                 | 20                | 10                         | 2d4          |
+| Nível de Sabedoria | Magias Conhecidas | Arcanos Menores Conhecidos |
+| ------------------ | ----------------- | -------------------------- |
+| 0                  | 0                 | 0                          |
+| 1                  | 3                 | 2                          |
+| 2                  | 5                 | 3                          |
+| 3                  | 6                 | 4                          |
+| 4                  | 8                 | 5                          |
+| 5                  | 10                | 6                          |
+| 6                  | 12                | 7                          |
+| 7                  | 13                | 8                          |
+| 8                  | 15                | 8                          |
+| 9                  | 17                | 8                          |
+| 10                 | 20                | 10                         |
 
-Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente. Ao fazer esta escolha, ela não poderá ser desfeita. Você deve realizar essa escolha antes de criar seu personagem.
+Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente. Ao fazer esta escolha, ela não poderá ser desfeita. Você deve realizar essa escolha antes de finalizar seu personagem.
 
 ## Escolha de Perícias e Proficiências
 
@@ -87,6 +87,8 @@ Após você terminar de realizar as etapas anteriores, você precisará escolher
 Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo. Alternativamente, caso esteja criando seu personagem, pode escolher um novo tipo de arma para ser Proficiente ao invés de uma das 7 Habilidades de Custo 1 que você pode escolher (pode ter quantas Proficiências quiser ao troco de mais Habilidades).
 
 Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Proficiente em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
+
+Por último, você pode escolher ser Proficiente em Iniciativa. Fazendo isso, você adiciona seu Bônus de Proficiência na Iniciativa. Você precisa abdicar de 2 das suas Habilidades iniciais de custo 1, ou de dois Pontos de Habilidade (caso esteja além do Nível 1) para adquirir essa característica.
 
 ## Equipamento Inicial
 

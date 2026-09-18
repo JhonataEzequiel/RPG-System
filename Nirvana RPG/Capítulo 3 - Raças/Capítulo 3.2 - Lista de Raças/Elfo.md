@@ -3,7 +3,7 @@
 
 Como Alto Elfo você terá facilidade em aprender sobre temas diversos.
 
-**Adaptação Élfica** (Ação Livre): Uma vez por Descanso Longo você pode adicionar um Modificador de qualquer Atributo, à sua escolha, como dano em um Ataque ou Magia, ou como cura em uma Poção de Restauração ou Magia de cura.
+**Adaptação Élfica** (Reação): Uma vez por Descanso Longo você pode adicionar qualquer Atributo, à sua escolha, como dano em um Ataque ou Magia, ou como cura em uma Poção de Restauração ou Magia de cura.
 
 **Descanso Élfico** (Passiva): Você recupera toda a sua Mana ao ter um Descanso Curto.
 

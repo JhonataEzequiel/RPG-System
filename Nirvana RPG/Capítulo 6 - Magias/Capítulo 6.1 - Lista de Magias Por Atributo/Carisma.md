@@ -41,7 +41,7 @@ Domo Protetor: 1 de Carisma ou de Fé. Sagrada.
 
 ### Custo 2:
 
-Alterar Forma (incompleta): 2 de Carisma. Imaculada.
+Alterar Forma (Incompleta): 2 de Carisma. Sagrada.
 
 Aprimorar Atributos: 2 de Carisma. Imaculada.
 
@@ -107,7 +107,7 @@ Batida Pesada: 6 de Inteligência ou Carisma. Imaculada.
 
 Ritmo de Cura: 6 de Fé ou Carisma. Sagrada.
 
-Fim dos Tempos: 6 de Carisma, 6 de Inteligência. Ilusão.
+Paralisia Cerebral: 6 de Carisma, 6 de Inteligência. Ilusão.
 
 Comunicação Onírica: 6 de Carisma ou Inteligência. Ilusão.
 
@@ -161,7 +161,7 @@ Trio da Mana: 9 de Fé, 9 de Inteligência, 9 de Carisma. Imaculada.
 
 Éden: 10 de Carisma ou Fé. Sagrada.
 
-Alterar Forma: 10 de Carisma. Sagrada.
+Alterar Forma (Completa): 10 de Carisma. Sagrada.
 
 Sumir: 10 de Inteligência ou Carisma. Ilusão.
 

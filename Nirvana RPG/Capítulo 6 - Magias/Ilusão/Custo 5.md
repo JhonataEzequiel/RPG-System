@@ -9,9 +9,9 @@
 
 **Descrição:** Você toca uma criatura alvo, que deverá realizar uma Salvaguarda de Sabedoria CD 10 + Int + Car. 
 
-Caso a criatura fracasse, você pode escolher algum outro alvo. Você faz com que a criatura veja o alvo da maneira que você desejar. Por exemplo, ao aplicar a Magia em um bandido você pode fazer ele enxergar um de seus companheiros como um monstro.
+Caso a criatura fracasse, você pode escolher algum outro alvo. Você faz com que a criatura veja o alvo da maneira que você desejar. Por exemplo, ao aplicar a Magia em um bandido você pode fazer ele enxergar um de seus companheiros como monstros.
 
-Caso a criatura obtenha sucesso na Salvaguarda ela recebe 2d10 de Dano Psíquico.
+Caso a criatura obtenha sucesso na Salvaguarda, ela recebe 2d10 de Dano Psíquico.
 
 ### Dragão Azul Devorador
 

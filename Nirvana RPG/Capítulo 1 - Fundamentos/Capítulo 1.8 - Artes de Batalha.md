@@ -1,7 +1,7 @@
 
-Além de todas as regras descritas na parte de combate, você poderá realizar algumas ações diferentes enquanto estiver em um Encontro. As Artes de Batalha serão opções de ação extras que todos os personagens tem acesso, desde que tenham Proficiência com o tipo de Arma que estão utilizando. Elas são consideradas Ataques, e todas elas precisam de Mana para serem executadas. Os custos variam, assim como seus efeitos. 
+Além de todas as regras descritas na parte de combate, você poderá realizar algumas ações diferentes enquanto estiver em um Encontro. As Artes de Batalha serão opções de ação extras que todos os personagens tem acesso, desde que tenham Proficiência com o tipo de Arma que estão utilizando. Elas são consideradas Ataques (precisam acertar), e todas elas precisam de Mana para serem executadas. Os custos variam, assim como seus efeitos. 
 
-Uma Arte de Batalha só poderá ser utilizada caso você esteja portanto uma Arma cujo tipo é compatível com ela. O custo de Ações de uma Arte de Batalha também depende da Arte em si. Você ainda precisará acertar o Ataque como normalmente o faz. 
+Uma Arte de Batalha só poderá ser utilizada caso você esteja portanto uma Arma cujo tipo é compatível com ela. O custo de Ações de uma Arte de Batalha também depende da Arte em si. Você ainda precisará acertar o Ataque como normalmente o faz.
 
 Artes de Batalha contam para as Penalidades de Ataque. Se você estiver equipado com duas Armas de tipos diferentes, apenas aquelas que forem do tipo necessário para a Arte de Batalha contarão para os efeitos. Ademais, é possível utilizar múltiplas Armas para uma mesma Arte de Batalha caso ambas sejam tipos utilizáveis pela Arte de Batalha em específico, e se ela providenciar algum uso para duas Armas ao mesmo tempo.
 

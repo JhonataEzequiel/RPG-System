@@ -33,6 +33,10 @@ Você também terá -2 para acertar um Ataque e no dano causado em Armas de outr
 
 Você ignora o Limite Máximo de Nível de Atributo. Você também escolhe um Atributo para destravar sua evolução para além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
 
+## Esperteza (Custo 2)
+
+Escolha uma característica na qual é Proficiente, como tipo de Arma ou Salvaguarda. Agora você usará o dobro do seu Bônus de Proficiência naquela característica. Essa Habilidade pode ser pega múltiplas vezes, mas ela não afeta uma mesma característica múltiplas vezes.
+
 ## Polivalente (Custo 3)
 
 **Requisitos:** Habilidade "Divergente" de Custo 1. 10 de Sabedoria.

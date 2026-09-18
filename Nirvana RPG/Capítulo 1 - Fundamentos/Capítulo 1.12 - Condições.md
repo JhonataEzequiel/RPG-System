@@ -47,6 +47,8 @@ A Exaustão pode variar em alguns Níveis, cada um aplicando uma penalidade dife
 
 Ao entrar em Furtividade, o personagem estará indetectável. É possível sair deste estado caso a criatura da qual se deseja esconder perceba que você está Furtivo. Fora isso, uma vez em Furtividade, qualquer Ataque contra um alvo que não notou que você está Furtivo terá Vantagem.
 
+Você sai da Furtividade ao Atacar, Conjurar uma Magia, um inimigo te achar, ou você fazer um barulho maior do que um sussurro.
+
 ### Incapacitado
 
 Uma criatura Incapacitada não pode realizar nenhum tipo de Ação, Ação Bônus, Ação Livre ou Reação. Seu Deslocamento também é reduzido a zero.

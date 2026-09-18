@@ -55,6 +55,7 @@
 | Clava Imensa       | 15po  | 2d10 + Força de Impacto            | 7 de Força                | S em Força                | -                                                         | 1.5m               | 50kg   |
 | Espada Bastarda    | 4po   | 1d8 + For Cortante                 | 4 de Força                | B em Força                | -                                                         | 0                  | 2 kg   |
 | Claymore           | 12po  | 2d8 + For + Dex Cortante           | 3 de Força, 3 de Destreza | A em Força, A em Destreza | -                                                         | 0                  | 3 kg   |
+| Espada Colossal    | 22po  | 2d12 + Força Cortante              | 8 de Força                | S em Força                | -                                                         | 3m                 | 110 kg |
 | Lança de Cavalaria | 1po   | 1d8 + Força Perfurante             | 5 de Força                | B em Força                | -                                                         | 3m                 | 3.5 kg |
 | Martelo de Guerra  | 2po   | 1d10 + For de Impacto              | 4 de Força                | A em Força                | -                                                         | 0                  | 5 kg   |
 | Tridente           | 1po   | 1d8 + For Perfurante               | 1 de Força                | C em Força                | -                                                         | 1.5m               | 2 kg   |

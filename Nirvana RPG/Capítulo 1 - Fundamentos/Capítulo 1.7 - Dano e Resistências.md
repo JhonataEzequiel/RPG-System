@@ -1,5 +1,5 @@
 
-Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo elas Dano Físico, Mágico, ou de Sangue. Dano de Sangue é considerado um Dano Mágico por vir, normalmente, de Magias. No entanto, suas características são bem diferentes, o que será detalhado mais para frente neste capítulo.
+Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo elas Dano Físico, Dano Venenoso, Dano Ácido, e Dano Mágico.
 
 Inimigos e Armaduras normalmente tem Resistências diferentes aos tipos de dano. Um monstro que vive num local gelado, como o pico de uma montanha, pode ter alguma Resistência a Dano de Gelo, por exemplo. As Resistências reduzem o dano em uma quantia especificada. Já as Fraquezas são o contrário das Resistências, fazendo com que o inimigo sofra mais dano de acordo com a Fraqueza especificada. Se algum personagem consegue causar mais de um tipo de dano ao mesmo tempo, as Resistências e Vulnerabilidades deverão ser aplicadas apenas ao tipo de dano específico delas. Por exemplo, se o Ataque causar 1d8 de Dano de Impacto e 1d8 de Dano de Fogo, e quem for atingido tiver Resistência a Dano de Fogo, a Resistência vai se aplicar apenas ao Dano de Fogo, portanto o inimigo sofrerá menos Dano de Fogo e sofrerá o Dano de Impacto totalmente.
 
@@ -21,21 +21,9 @@ O Dano Cortante é normalmente causado por muitos tipos de armas, e trata-se de 
 
 ## Dano Ácido e Dano Venenoso
 
-Dano Ácido pode corroer equipamentos, diminuindo a CA de uma Armadura, ou inutilizando uma Arma. Quando isso acontecer estará especificado na fonte do Dano Ácido. Já o Dano Venenoso, normalmente causa Dano Contínuo, e é mais voltado para debilitar o oponente. Eles são considerados Dano Físico, mas ignoram Imunidades a Dano Físico. É possível que uma criatura possua Imunidades a estes tipos de dano, mas serão específicas deles, os diferenciando de outros Danos Físicos.
+Dano Ácido (ou Dano de Ácido) pode corroer equipamentos, diminuindo a CA de uma Armadura, ou inutilizando uma Arma. Quando, e se isso acontecer, estará especificado na fonte do Dano Ácido (por exemplo, na descrição da Magia ou Habilidade). 
 
-## Dano Mágico
-
-Existem alguns tipos de Dano Mágico, os quais são causados pelo uso de Magias, Armas Mágicas, ou Habilidades Mágicas, sendo eles:
-
-**Elementais**: Dano de Fogo, Elétrico (ou Raio), e Gelo. Os outros elementos de Magias Elementais causam basicamente algum tipo de Dano Físico, como Dano Contundente ao arremessar uma rocha gigante no inimigo, ou Dano Cortante, fazendo uma lâmina de ar.
-
-**Sagrado** (também chamado de Radiante): tipo de Dano Mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e Magias Sagradas. Mortos-vivos tem, por padrão, 10 Pontos de Vulnerabilidade a este tipo de dano, a não ser que seja especificado o contrário.
-
-**Sortilégio** (ou Sombrio): tipo de Dano Mágico normalmente utilizado por monstros das trevas, ou bruxos. Há poucas criaturas resistentes a este tipo de dano, o que o torna versátil.
-
-**Psíquico**: Associado a Magias e Ataques capazes de afetar diretamente a mente do oponente.
-
-**Sangue**: As Magias de Sangue normalmente são usadas a partir do próprio sangue do portador, e causam Danos de Sortilégio, Cortante, dentre outros. No entanto, existem algumas Magias que controlam o sangue do oponente, causando danos internos ao manipular diretamente o sangue dentro do corpo do alvo. São raras e poderosas. Essas Magias causam Dano Verdadeiro de Sangue. Algumas criaturas podem ser imunes a esse tipo de dano, normalmente quando não possuem sangue em seus corpos.
+O Dano Venenoso (ou Dano de Veneno) normalmente causa Dano Contínuo, e é mais voltado para debilitar o oponente, podendo infligir feridas e danos internos.
 
 ## Dano Verdadeiro
 
@@ -43,17 +31,31 @@ Existem alguns tipos de Dano Mágico, os quais são causados pelo uso de Magias,
 
 É possível que certas Habilidades, Magias, itens, ou outras coisas concedam Resistência a todos os tipos de dano. Neste caso, Dano Verdadeiro será uma exceção. Não é possível resistir a Dano Verdadeiro.
 
+## Dano Mágico
+
+Existem alguns tipos de Dano Mágico, os quais são causados pelo uso de Magias, Armas mágicas, ou Habilidades mágicas, sendo eles:
+
+**Elementais**: Dano de Fogo, Elétrico (ou Raio), e Gelo. Os outros elementos de Magias Elementais causam basicamente algum tipo de Dano Físico, como Dano Contundente ao arremessar uma rocha gigante no inimigo, ou Dano Cortante, fazendo uma lâmina de ar.
+
+**Sagrado** (também chamado de Radiante): tipo de Dano Mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e Magias Sagradas.
+
+**Sortilégio** (ou Sombrio): tipo de Dano Mágico normalmente utilizado por monstros das trevas, ou bruxos. Celestiais e seres divinos normalmente possuem vulnerabilidade a esse tipo de dano, enquanto criaturas das trevas são resistentes a ele.
+
+**Psíquico**: Causado principalmente por Magias de Ilusão, representa o dano mental infligido em um oponente.
+
+**Sangue**: As Magias de Sangue normalmente são usadas a partir do próprio sangue do portador, e causam algum dos outros tipos de dano, mesmo os não-mágicos. No entanto, existem algumas Magias que controlam o sangue do oponente, causando danos internos ao manipular diretamente o sangue dentro do corpo dele. São raras e poderosas. Essas Magias causam Dano Verdadeiro de Sangue. Algumas criaturas podem ser Imunes a esse tipo de dano, normalmente quando não possuem sangue em seus corpos.
+
 ## Multiplicadores de Dano
 
-Sempre que você tiver que multiplicar o dano, seja por uma Habilidade, Acerto Crítico, ou outra mecânica, os multiplicadores vão se multiplicar entre si. Ou seja, se uma Habilidade deixa você dobrar o dano, e você tirou um Acerto Crítico, você irá quadruplicar o dano.
+Sempre que você tiver que multiplicar o dano, seja por uma Habilidade, Acerto Crítico, ou outra mecânica, os multiplicadores vão se multiplicar entre si. Por exemplo, se uma Habilidade deixar você dobrar o dano, e você tirar um Acerto Crítico em um Ataque, você irá quadruplicar o dano deste Ataque.
 
 ## Interação Entre Tipos de Dano Elementais
 
-Existem algumas interações possíveis entre os tipos de Dano Elementais. Muitas vezes dependerá da situação atual do alvo. 
+Existem algumas interações possíveis entre os tipos de Dano Elementais, que vão ocorrer dependendo da situação atual da criatura afetada. Essa regra é, particularmente, dispensável, não tendo muito impacto no jogo. O Mestre, como em outras regras, pode decidir utilizá-la ou não.
 
-Por exemplo, ao falhar criticamente em uma Salvaguarda para resistir a uma Magia que cause Dano de Fogo, o mestre decide que a criatura alvo foi colocada em chamas. A duração desses efeitos é até o fim do próximo Turno do inimigo, a não ser que seja dito o contrário, ou que o Mestre decida que o efeito durará mais tempo.
+Um exemplo de forma com que esses efeitos podem ocorrer é: ao falhar criticamente em uma Salvaguarda para resistir a uma Magia que cause Dano de Fogo, o Mestre decide que a criatura alvo foi colocada em chamas. 
 
-Estes efeitos ocorrem uma única vez por instância, não podendo ser cumulativos em si mesmos. No entanto, um efeito diferente de outro podem se acumular.
+A duração desses efeitos é até o fim do próximo Turno do inimigo, a não ser que seja dito o contrário, ou que o Mestre decida que o efeito durará mais tempo. Estes efeitos ocorrem uma única vez por instância, não podendo ser cumulativos em si mesmos. No entanto, um efeito diferente de outro podem se acumular.
 
 | Situação          | Efeito                                                                                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
