@@ -51,10 +51,6 @@ Escudos seguem as mesmas regras de Escala das Armaduras, mas adicionam apenas me
 
 O peso total carregado é a soma de todos os itens equipados e transportados. Se você ultrapassar a Capacidade de Carga, você terá a Condição Exaustão 2. Ao se livrar da carga extra, a Condição é retirada imediatamente.
 
-## Itens Mágicos
-
-Itens mágicos variam do Grau 1 ao 3. Grau superior não significa necessariamente mais poderoso, mas com certeza serão mais raros.
-
 ## Munições
 
 Armas que disparam projéteis consomem uma unidade de munição por Ataque. Após um Encontro, é possível recuperar metade das munições gastas (arredondado para baixo), desde que o campo de batalha esteja acessível. O Mestre pode optar por deixar você recuperar um número específico de munições. Munições de Armas de Fogo não podem ser recuperadas.
