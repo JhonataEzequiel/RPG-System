@@ -7,13 +7,13 @@ Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes co
 
 **Classificação:** Armaduras com penalidade de Deslocamento são pesadas. As que concedem CA sem penalidade são leves. As demais são roupas. Exceções serão descritas no item.
 
-| Escala | Nível 1                    | Nível 3                                     | Nível 5                    | Nível 7          | Nível 10                |
-| ------ | -------------------------- | ------------------------------------------- | -------------------------- | ---------------- | ----------------------- |
-| S      | +10 Pontos de Vida Máximos | +3 de Resistência a Dano Físico e Elemental | +10 Pontos de Vida Máximos | +3 de Iniciativa | +3 de CA                |
-| A      | +3 Pontos de Vida Máximos  | +2 de Resistência a Dano Físico             | +3 Pontos de Vida Máximos  | +2 de Iniciativa | +3 de CA                |
-| B      | +3 Pontos de Vida Máximos  | +1 de Resistência a Dano Físico             | +3 Pontos de Vida Máximos  | +2 de Iniciativa | +2 de CA                |
-| C      | +2 Pontos de Vida Máximos  | +1 de Resistência a Dano Físico             | +2 Pontos de Vida Máximos  | +1 de Iniciativa | +1 de CA                |
-| D      | +1 Ponto de Vida Máximo    | +1 de Resistência a Dano Físico             | +1 Ponto de Vida Máximo    | +1 de Iniciativa | +1 Ponto de Vida Máximo |
+| Escala | Nível 1                                     | Nível 3                                     | Nível 5                                     | Nível 7          | Nível 10 |
+| ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ---------------- | -------- |
+| S      | +3 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +4 de Resistência a Dano Físico e Elemental | +3 de Iniciativa | +3 de CA |
+| A      | +2 de Resistência a Dano Físico             | +3 de Resistência a Dano Físico             | +3 de Resistência a Dano Físico             | +2 de Iniciativa | +2 de CA |
+| B      | +2 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico             | +3 de Resistência a Dano Físico             | +1 de Iniciativa | +2 de CA |
+| C      | +1 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico             | +1 de Iniciativa | +1 de CA |
+| D      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Iniciativa | +1 de CA |
 
 ## Armas
 
@@ -45,7 +45,7 @@ As Armas listadas no Capítulo 4.2 - Lista de Armas são apenas a unidade, ou se
 
 ## Escudos
 
-Escudos seguem as mesmas regras de Escala das Armaduras, mas não adicionam CA diretamente. Quando uma Escala concederia CA, o escudo concede o dobro desse valor como Pontos de Vida Máximos. Bônus de Escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum bônus de Escalas, nem poderá utilizar Habilidades que interajam com seu Escudo, servindo apenas como peso extra. O Escudo deverá ocupar uma das mãos.
+Escudos seguem as mesmas regras de Escala das Armaduras, mas adicionam apenas metade do valor de CA ao atingir o Nível de Atributo 10. Os Bônus de Escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum Bônus de Escalas, nem poderá utilizar Habilidades que interajam com seu Escudo, servindo apenas como peso extra. O Escudo deverá ocupar uma das mãos.
 
 ## Peso dos Equipamentos
 

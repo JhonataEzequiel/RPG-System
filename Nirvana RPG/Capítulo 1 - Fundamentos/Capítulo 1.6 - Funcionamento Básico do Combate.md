@@ -55,7 +55,7 @@ Existem dois tipos de Ataques, os Ataques Corpo a Corpo e os Ataques à Distânc
 
 ## Ataques de Oportunidade
 
-Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito de passar por ele, ou de fugir dele, o inimigo pode te atacar. Isso não conta como uma Reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta Andar ou Correr de você.
+Caso você tente Andar ou Correr e passar no alcance de um inimigo com o intuito de passar por ele, ou de fugir dele, o inimigo pode te atacar. Isso conta como uma Reação. O mesmo é válido caso o inimigo passe pelo seu alcance enquanto tenta Andar ou Correr de você.
 
 Ataques de Oportunidade também impedem a movimentação do oponente caso acertem, e não são afetados pelas Penalidades de Ataque, nem contam para elas.
 
@@ -65,7 +65,7 @@ Você poderá ser desarmado ou desarmar um oponente, a depender se possui Habili
 
 ## Ataques Desarmados
 
-Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de Impacto, à sua escolha. Você pode escolher se um Ataque Desarmado será não letal.
+Os Ataques Desarmados causam, por padrão, 1d4 + For ou Dex de Dano de Impacto. Você pode escolher se um Ataque Desarmado será não letal.
 
 ## Ataques de Magia
 
