@@ -19,7 +19,7 @@ Você pode realizar Testes de Conversação utilizando Força ao invés de Caris
 
 **Cheiro do Medo** (Passiva): Sempre que uma criatura alvo tiver a Condição Amedrontado você anulará completamente as Penalidades de Ataque contra ela.
 
-**Rugido Atormentador** (Duas Ações, 1 de Mana, 18m): Você pode bradar em alta voz, rugindo e intimidando qualquer criatura alvo no alcance que falhar em uma Salvaguarda de Sabedoria CD 10 + Bônus de Conversação. A criatura que falhar tem a Condição Amedrontado. Os alvos podem repetir o Teste no início de cada um de seus Turnos visando se livrar da Condição, ao troco de uma Ação.
+**Rugido Atormentador** (Duas Ações, 1 de Mana, 18m): Você pode bradar em alta voz, rugindo e intimidando qualquer criatura alvo no alcance que falhar em uma Salvaguarda de Sabedoria CD 8 + Bônus de Conversação. A criatura que falhar tem a Condição Amedrontado. Os alvos podem repetir o Teste no início de cada um de seus Turnos visando se livrar da Condição, ao troco de uma Ação.
 
 ## Rachadura Celestial (Custo 1)
 
@@ -42,13 +42,7 @@ O tipo de dano do bônus é igual a um dos tipos capazes de ser causados pela su
 
 **Requisitos:** 2 de Força, Constituição, ou Destreza.
 
-**Cargas de Fúria** (Passiva): Fúria é uma Habilidade que pode ser usada por um número de vezes limitado, mas a quantidade de vezes que se pode usá-la aumenta conforme o seu Nível de Força, Constituição, ou Destreza.
-
-| Nível de Um dos Atributos Mencionados | Cargas de Fùria |
-| ------------------------------------- | --------------- |
-| 2-4                                   | 2               |
-| 5-7                                   | 4               |
-| 8-10                                  | 6               |
+**Cargas de Fúria** (Passiva): Fúria é uma Habilidade que pode ser usada por um número de vezes limitado, sendo esse número o seu Bônus de Proficiência.
 
 **Entrar em Fúria** (Ação Bônus): Você entra em um estado de raiva que o faz ignorar certos contratempos, te deixando mais forte e resistente até o fim do seu próximo Turno. É possível estender a duração da Fúria caso você performe uma das seguintes ações:
 

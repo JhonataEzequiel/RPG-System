@@ -85,7 +85,7 @@ Alternativamente, você pode manter a Penalidade de Deslocamento e ganhar +1 de 
 
 Você agora adiciona o Modificador de Constituição como bônus à uma Salvaguarda de outro Atributo que não seja Constituição uma vez por Descanso Longo. 
 
-Se você conseguir passar por um Encontro recebendo, no mínimo, metade dos seus Pontos de Vida como dano, você ganha 1 Ponto de Aura. Você pode gastar um Ponto de Aura para utilizar essa Habilidade novamente quando quiser.
+Ao finalizar um Encontro com menos da metade dos seus Pontos de Vida, você recupera 1d10 de Vida.
 
 ## Indestrutível (Custo 1)
 
@@ -128,22 +128,15 @@ Se você estiver usando Armadura Pesada em um Encontro, você escolhe até 2 cri
 ## Quem com Ferro Fere (Custo 2)
 
 **Requisitos**: 4 de Constituição.
+**Duração**: 1 Encontro.
 
-Todas as vezes que você receber Dano Físico você adquire 1 Ponto de Contingência. Você pode ter um máximo de Pontos de Contingência iguais ao seu Nível de Constituição. Você pode gastar 1 Ponto de Contingência para aumentar qualquer cura que você receba em 1d6. 
-
-A partir do Nível 7, um Ponto de Contingência também poderá te conceder +2 de Constituição por um Encontro. Para este fim só é permitido a utilização de 1 Ponto de Contingência por vez.
-
-Você também pode utilizar seus Pontos de Contingência em qualquer Salvaguarda de Constituição, aonde cada um deles concederá +1 na Salvaguarda.
-
-Todos os Pontos de Contingência são perdidos ao fim do Encontro.
+Sua CA aumenta em 1 ponto ao receber dano, com um limite de dois pontos.
 
 ## Aura Aprimorada (Custo 2)
 
 **Requisitos**: Habilidade "Aura" de Custo 1. 5 de Constituição.
 
-Você agora tem Vantagem em uma Salvaguarda, à sua escolha, uma vez por Descanso Longo. Você também adquire dois Pontos de Aura sempre que sobreviver depois de ser Nocauteado.
-
-Você pode gastar 1 Ponto de Aura para utilizar essa Habilidade novamente sem precisar descansar.
+Você agora tem Vantagem em uma Salvaguarda, à sua escolha, uma vez por Descanso Longo. A cura concedida por Aura agora é de 1d12 + Con.
 
 ## Tamanho é Documento (Custo 2)
 
@@ -194,16 +187,9 @@ Você abdica de todos os seus Pontos de Mana e os converte em Pontos de Vida. Al
 ## Com Ferro Será Ferido (Custo 3)
 
 **Requisitos**: Habilidade "Quem com Ferro Fere" de Custo 2. 8 de Constituição.
-**Custo**: 3 de Mana.
+**Duração**: 1 Encontro.
 
-Gastando 3 de Mana uma vez por Encontro como Ação Livre, você pode executar qualquer uma das seguintes ações utilizando seus pontos de contingência:
-
-| Custo em Pontos de Contingência | Custo de Ações | Efeito                                                                                                                                                                                                                               |
-| ------------------------------- | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1                               | Reação         | Você adiciona +1 à CA de um aliado prestes a receber um Ataque. Caso o Ataque falhe por conta disso, você recebe +1 de Resistência a qualquer dano causado pelo inimigo que realizou o Ataque até o fim do Encontro.                 |
-| 3                               | Duas Ações     | Você desvia de todos os Ataques de alvo único direcionados a você até o início do seu próximo Turno, mas tem Desvantagem em Salvaguardas até lá.                                                                                     |
-| 5                               | Ação Bônus     | Você ganha 5d6 de Pontos de Vida Temporários até o início do seu próximo Turno. Caso um inimigo te acerte com um Ataque nesse meio tempo, ele tem -5 para te acertar novamente até o início do próximo Turno dele.                   |
-| 10                              | Três Ações     | Você aumenta todo o dano causado por você e um aliado a sua escolha em um valor igual ao seu Nível, independente de qual dano seja. Vocês dois agora ignoram Resistências, mas ainda respeitam Invulnerabilidades. Dura um Encontro. |
+Ao invés de aumentar a sua CA, você agora pode optar por acumular dano conforme recebe dano. Para cada instância de dano recebida, você acumula 1d6, até um máximo de 12d6. Ao acertar um Ataque, você pode utilizar todo esse dano acumulado de uma vez, somando-o ao dano total. O tipo de dano será igual a um dos tipos capazes de serem causados pela sua Arma.
 
 ## Gordura Grossa (Custo 3)
 
@@ -222,9 +208,9 @@ Ao receber um Ataque, ele causará apenas metade do dano. O restante do dano ser
 
 **Requisitos**: Habilidade "Aura Aprimorada" de Custo 2. 10 de Constituição.
 
-Você agora pode transformar seus Pontos de Aura em Pontos de Vida Temporários com uma Ação Bônus. Cada Ponto de Aura equivale a 10 Pontos de Vida Temporários que duram até o fim do Encontro. Você escolhe quantos Pontos de Aura irá gastar. 
+Toda vez que você receber dano, adicione 1d4 de Pontos de Vida Temporários. Esse ganho ocorre após receber a instância de dano. Você não recebe Pontos de Vida Temporários caso a instância de dano te deixe Nocauteado.
 
-Se, por qualquer razão, você consiga pelo menos 50 Pontos de Vida Temporários no total, ao somar quaisquer bônus que o concedam Pontos de Vida Temporários, você pode escolher gastar todos os seus Pontos de Vida Temporários para conceder +50 de Dano Verdadeiro no seu próximo Ataque que acertar.
+Se, por qualquer razão, você consiga pelo menos 50 Pontos de Vida Temporários no total ao mesmo tempo, ao somar quaisquer bônus que o concedam Pontos de Vida Temporários, você pode escolher gastar todos os seus Pontos de Vida Temporários para conceder +50 de Dano Verdadeiro no seu próximo Ataque que acertar. O bônus permanece até acertar o Ataque.
 
 ## Supremo Protetor (Custo 3)
 

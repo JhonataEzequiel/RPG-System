@@ -32,10 +32,10 @@ Você adiciona seu Bônus de Natureza como Pontos de Vida Temporários ao ser ac
 
 **Requisitos**: 6 de Sabedoria, 2 de Carisma.
 
-Você é Perito em uma Perícia adicional, à sua escolha. Você também recebe uma das seguintes opções toda vez que tiver um Descanso Longo:
+Você recebe uma das seguintes opções toda vez que tiver um Descanso Longo:
 - Os seus Ataques causam 1d8 de Dano de Fogo, Gelo, ou Elétrico, à sua escolha;
 - Seus Arcanos Menores que causam dano agora infligem 5 Pontos de Vulnerabilidade a Dano Físico, uma vez por alvo, até o fim do Encontro.
-Sua escolha dura até ter outro Descanso Longo. Você pode refazer a escolha ao ter um Descanso Longo. Por último, role 1d10 ao ter um Descanso Curto. Caso você tire 10, você diminui o custo de suas Magias que tem Carisma como pré-requisito em 1.
+Sua escolha dura até ter outro Descanso Longo. Você pode refazer a escolha ao ter um Descanso Longo.
 
 ## Instrumento de Agência (Custo 2)
 
@@ -61,4 +61,4 @@ Você agora calcula Iniciativa com seu Modificador de Carisma ao invés de Destr
 
 Você sempre é bem sucedido em Testes para escalar árvores e outras estruturas naturais. Sua percepção é bem mais aguçada do que a maioria das pessoas. 
 
-Você se torna Imune a Ataques de Oportunidade, e também consegue enxergar criaturas invisíveis. Sempre que você puder causar um Ataque de Oportunidade, sua Margem de Ameaça naquele Ataque aumenta em 3 pontos. Outrossim, sua Margem de Ameaça aumenta em 1 ponto para outros Ataques.
+Você se torna Imune a Ataques de Oportunidade, e também consegue enxergar criaturas invisíveis. Sempre que você puder causar um Ataque de Oportunidade, sua Margem de Ameaça naquele Ataque aumenta em 3 pontos. Outrossim, sua Margem de Ameaça aumenta em 1 ponto para quaisquer outros Ataques.

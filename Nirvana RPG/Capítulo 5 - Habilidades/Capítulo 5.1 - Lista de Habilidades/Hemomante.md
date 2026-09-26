@@ -61,10 +61,10 @@ Agora todo dano adicional causado pela Habilidade "Hemomancia Venenosa" não ser
 
 **Requisitos**: Habilidade "Tipo O" de Custo 1. 10 de Inteligência, 10 de Fé.
 
-Ao curar um aliado com a Habilidade Tipo O, você também adicionará seu Bônus de Proficiência e se Nível à cura. Esses valores adicionais não serão multiplicados.
+Ao curar um aliado com a Habilidade Tipo O, você também adicionará seu Bônus de Proficiência e seu Nível à cura. Esses valores adicionais não serão multiplicados.
 
 ## Roubo de Vida (Custo 3)
 
 **Requisitos**: Habilidade "Tipo AB" de Custo 1. 10 de Inteligência, 10 de Fé.
 
-Você agora absorve o sangue de criaturas ao acertar um Ataque nelas. Você se cura em 1d4 sempre que acertar um Ataque em um alvo. O alvo não pode ser Imune a Dano Verdadeiro de Sangue.
+Você agora absorve o sangue de criaturas ao acertar um Ataque nelas. Você se cura em 1d4 sempre que acertar um Ataque em um alvo. O alvo não pode ser Imune a Dano Verdadeiro de Sangue para que essa Habilidade tenha efeito.
