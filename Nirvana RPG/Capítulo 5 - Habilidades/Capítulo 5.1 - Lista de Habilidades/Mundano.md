@@ -28,7 +28,7 @@ Ao ter todos os Atributos no Nível 3 ou superior, essa Habilidade terá efeito 
 
 ## Do nada à nata (Custo 1)
 
-**Requisitos**: Esta Habilidade só pode ser escolhida Nível 1. Você não poderá escolher outras Habilidades além desta no Nível 1.
+**Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1. Você não poderá escolher outras Habilidades além desta no Nível 1.
 
 Você não ganha nada ao adquirir esta Habilidade, mas quando atingir Níveis superiores, você ganhará os seguintes benefícios:
 - Nível 5: +1 em todas as Salvaguardas, +1 Ponto de Habilidade.

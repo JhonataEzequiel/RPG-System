@@ -26,4 +26,4 @@
 - Alcance: 36m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você conjura uma névoa obscurecida com Magia sombria. Um local a sua escolha dentro do alcance é tomado, fazendo com que uma área esférica de raio 4.5m seja contaminada por uma névoa venenosa. Criaturas que falharem num Teste de Resistência de Constituição CD 11 + Int + Fth receberão 8d4 de Dano Venenoso imediatamente, e 2d8 de Dano Venenoso Contínuo por 2 Rodadas. Em caso de sucesso, receberão metade do dano, e não receberão Dano Contínuo. Ademais, a névoa se dissipará após a duração.
+**Descrição:** Você conjura uma névoa obscurecida com Magia sombria. Um local à sua escolha dentro do alcance é tomado, fazendo com que uma área esférica de raio 4.5m seja contaminada por uma névoa venenosa. Criaturas que falharem num Teste de Resistência de Constituição CD 11 + Int + Fth receberão 8d4 de Dano Venenoso imediatamente, e 2d8 de Dano Venenoso Contínuo por 2 Rodadas. Em caso de sucesso, receberão metade do dano, e não receberão Dano Contínuo. Ademais, a névoa se dissipará após a duração.

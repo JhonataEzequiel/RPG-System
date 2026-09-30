@@ -10,7 +10,7 @@
 
 Caso haja uma fonte de água próxima com, no mínimo, 10 litros de água, você pode utilizar essa água como matéria prima da espada, reduzindo o custo da Magia em 1 ponto. A água gasta volta ao seu estado normal após o fim da magia, e você pode utilizá-la novamente, caso a mantenha em um recipiente adequado.
 
-Você também pode aumentar o dano da espada em 1d8 gastando por Ponto de Mana adicional gasto.
+Você também pode aumentar o dano da espada em 1d8 por Ponto de Mana adicional gasto.
 
 ### Pele de Pedra
 

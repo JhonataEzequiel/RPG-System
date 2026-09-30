@@ -16,7 +16,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você conjura um escudo de fogo em uma mão vaga. Ele tem escala A em Inteligência. Todo vez que alguém fizer um ataque desarmado contra você ele toma 1d6 + Int de Dano de Fogo.
+**Descrição:** Você conjura um escudo de fogo em uma mão vaga. Ele tem escala A em Inteligência. Toda vez que alguém fizer um ataque desarmado contra você ele toma 1d6 + Int de Dano de Fogo.
 
 ### Lastro Cromático
 

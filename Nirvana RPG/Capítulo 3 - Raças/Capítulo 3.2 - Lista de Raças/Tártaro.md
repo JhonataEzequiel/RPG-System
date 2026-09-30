@@ -6,6 +6,6 @@ Os Tártaros são povos tartarugas. A cor da pele de réptil deles varia muito, 
 - **Colocar Casco** (Uma Ação): Vestir o Casco novamente é um processo similar a vestir uma armadura, portanto exige um certo tempo para fazê-lo. No entanto, é mais rápido e menos burocrático.
 Caso outra criatura queira segurar seu casco, ele pesará 40 kg, e terá as mesmas estatísticas de um Escudo de Aço, disponível no Capítulo 4.3 - Lista de Escudos. Você também poderá utilizar seu casco como Escudo. Fazendo isso, ele não pesará nada, você sofrerá a penalidade no Deslocamento, e não receberá bônus na CA, mas terá quaisquer características de um Escudo padrão. Você não precisará atender aos requisitos do Escudo de Aço para utilizar seu casco como Escudo, mas outras criaturas, sim.
 
-**Escola da Tartaruga** (Passiva): Caso você não remova o seu casco entre um Descanso Longo e outro, você ganha um Ponto de Habilidade ou um Ponto de Atributo, à sua escolha. O máximo de pontos adquiridos por essa Habilidade é 3. Após alcançar os três pontos, você diminui a penalidade de Deslocamento com o caso em 1.5m.
+**Escola da Tartaruga** (Passiva): Caso você não remova o seu casco entre um Descanso Longo e outro, você ganha um Ponto de Habilidade ou um Ponto de Atributo, à sua escolha. O máximo de pontos adquiridos por essa Habilidade é 3. Após alcançar os três pontos, você diminui a penalidade de Deslocamento com o casco em 1.5m.
 
 **Respiração Aquática** (Passiva): Você respira debaixo d'água.

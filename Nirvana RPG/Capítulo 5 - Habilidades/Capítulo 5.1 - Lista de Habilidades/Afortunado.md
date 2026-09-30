@@ -30,7 +30,7 @@ Você pode usar essa Habilidade um número de vezes igual a metade do seu Bônus
 
 **Custo**: Reação.
 
-Você anulará a próximo instância de dano que receber, independente da origem, mas sua próxima instância de dano causada por você, ou cura concedida concedida por você a um aliado ou a si mesmo, serão anuladas. Você pode optar por se livrar dessa penalidade em troca de 5 de Mana e de perder duas Ações no seu próximo Turno.
+Você anulará a próxima instância de dano que receber, independente da origem, mas sua próxima instância de dano causada por você, ou cura concedida por você a um aliado ou a si mesmo, serão anuladas. Você pode optar por se livrar dessa penalidade em troca de 5 de Mana e de perder duas Ações no seu próximo Turno.
 
 Você pode usar essa Habilidade um número de vezes igual a metade do seu Bônus de Proficiência por Descanso Longo. Essa Habilidade sobrepõe quaisquer outros efeitos, incluindo Condições e Habilidades.
 
@@ -64,7 +64,7 @@ Você rola 3 dados de 6 lados. Se você conseguir números iguais nos 3, ganha o
 - Ao final de seu turno, recupera toda a Mana perdida, ignorando qualquer restrição que você tenha no momento de não poder recuperar Mana. 
 - Imunidade a Condição Encantado.
 
-Se caso após 7 tentativas você não conseguir um Jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um Jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um Jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um Jackpot voltam a ser os iniciais.
+Se, após 7 tentativas você não conseguir um Jackpot, você precisará apenas acertar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um Jackpot garantido na décima terceira tentativa. Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, pode tentar tirar um Jackpot novamente uma vez que o efeito do atual encerre. Quando seu efeito encerrar, a contagem de tentativas voltará a zero. Ou seja, os requisitos para acertar um Jackpot voltam a ser os iniciais.
 
 ## Dado de Sorte (Custo 2)
 

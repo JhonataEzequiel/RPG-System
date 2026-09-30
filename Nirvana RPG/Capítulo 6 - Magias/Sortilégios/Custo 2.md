@@ -28,6 +28,6 @@
 - Alcance: Toque
 - Tempo de Conjuração: Reação
 
-**Descrição:** Você engole qualquer projétil mágico de Magias de dano lançado contra você como alvo (não tem efeito em Magias de área). Esse projétil é absorvido, anulando o dano que ele causaria. Caso seja um Sortilégio, você recupera 1 de Ponto de Mana. A Magia devorada não pode ser de custo 4 ou maior. Se a Magia tiver múltiplos projéteis você precisará gastar 1 Ponto de Mana adicional para cada projétil.
+**Descrição:** Você engole qualquer projétil mágico de Magias de dano lançado contra você como alvo (não tem efeito em Magias de área). Esse projétil é absorvido, anulando o dano que ele causaria. Caso seja um Sortilégio, você recupera 1 Ponto de Mana. A Magia devorada não pode ser de custo 4 ou maior. Se a Magia tiver múltiplos projéteis você precisará gastar 1 Ponto de Mana adicional para cada projétil.
 
 Você pode aumentar o custo máximo da Magia engolida em 1 para cada ponto adicional de Mana gasto.

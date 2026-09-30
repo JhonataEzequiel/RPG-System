@@ -66,4 +66,4 @@ Você pode aumentar em 5 os Pontos de Vida Temporários para cada Ponto de Mana 
 
 **Descrição:** Você dispara um pequeno foguete mágico em um alvo no alcance da Magia, causando 1d8 + Int de Dano de Fogo ou de Impacto, à sua escolha. 
 
-Você pode gastar Ações adicionais para aumentar a quantidade de misseis disparados. A quantidade de misseis aumenta em 1 para cada Ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de Uma Ação Bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa Magia na próxima Rodada. Os mísseis sempre acertam.
+Você pode gastar Ações adicionais para aumentar a quantidade de mísseis disparados. A quantidade de mísseis aumenta em 1 para cada Ação adicional. Você pode selecionar múltiplos alvos caso você dispare mais do que 1 míssil. Ao custo de Uma Ação Bônus, você pode disparar um quarto míssil, mas não poderá conjurar essa Magia na próxima Rodada. Os mísseis sempre acertam.

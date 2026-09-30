@@ -35,7 +35,7 @@ Após se alimentar do sangue de cinco corações recém arrancados de suas víti
 
 **Nobreza** (Passiva): Você agora pode se alimentar do sangue de outros Vampiros para ficar mais forte. Ao fazer isso, você receberá um Ponto de Atributo extra. O limite de Pontos de Atributo extras que se pode adquirir nesse Estágio é 5. Você deve se alimentar do sangue de diferentes Vampiros para que essa Habilidade tenha efeito.
 
-**Sangue Vampírico** (Passiva): Você se torna Imune aos efeitos negativos de Magias de Sangue inimigas que visem retirar o sangue do seu corpo, ou afetar o seu sangue de alguma forma. Você ainda poderá as utilizar normalmente.
+**Sangue Vampírico** (Passiva): Você se torna Imune aos efeitos negativos de Magias de Sangue inimigas que visem retirar o sangue do seu corpo, ou afetar o seu sangue de alguma forma. Você ainda poderá utilizá-las normalmente.
 
 **Mordida Demoníaca** (Passiva): O dano da sua Mordida Vampírica aumenta em 3d8, totalizando 4d8 de Dano Sombrio. Uma vez por Descanso Longo você pode adicionar um Nível de Sangramento caso o alvo falhe em um Teste de Resistência de Constituição cuja CD é 10 + metade do seu Nível.
 

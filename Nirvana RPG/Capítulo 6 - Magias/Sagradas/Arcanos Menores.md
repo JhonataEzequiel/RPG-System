@@ -26,4 +26,4 @@ Se você tiver 4 de Fé, aumente o dano adicionado para 2d8 + Fth, e os Pontos d
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você comanda vinhas a saírem do chão a sua volta e atacarem um alvo a sua escolha. As vinhas saltam do chão rapidamente, emaranhando o alvo, que ganha a condição Agarrado. Ele terá que realizar um Teste de Força CD 10 + Car para se soltar. O alvo pode repetir o Teste no início de cada um de seus Turnos ao custo de uma Ação Bônus até o fim da duração a Magia, onde as vinhas se soltam e o libertam. Criaturas aladas poderão ser atingidas pelas vinhas também, desde que estejam no alcance.
+**Descrição:** Você comanda vinhas a saírem do chão a sua volta e atacarem um alvo a sua escolha. As vinhas saltam do chão rapidamente, emaranhando o alvo, que ganha a condição Agarrado. Ele terá que realizar um Teste de Força CD 10 + Car para se soltar. O alvo pode repetir o Teste no início de cada um de seus Turnos ao custo de uma Ação Bônus até o fim da duração da Magia, onde as vinhas se soltam e o libertam. Criaturas aladas poderão ser atingidas pelas vinhas também, desde que estejam no alcance.

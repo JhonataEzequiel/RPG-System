@@ -1,7 +1,7 @@
 
 As Perícias são basicamente habilidades individuais que os personagens possuem, e são utilizadas em ações diversas, cada uma com seu intuito. Existem algumas Perícias para cada Atributo, menos Constituição, que não possui nenhuma. 
 
-Caso você não seja Perito uma Perícia em questão, mas o mestre pedir um Teste dessa Perícia, você rolará um Teste relacionado ao Atributo da Perícia. Por exemplo, se for um Teste de Atletismo, mas você não for perito em Atletismo, você realizará um Teste apenas com o bônus do Modificador de Força. Caso você seja Perito uma Perícia, você adiciona o Bônus de Proficiência à jogada que necessite dessa Perícia, além do Modificador específico dela. O Bônus de Proficiência aumenta conforme seu Nível.
+Caso você não seja Perito em uma Perícia em questão, mas o mestre pedir um Teste dessa Perícia, você rolará um Teste relacionado ao Atributo da Perícia. Por exemplo, se for um Teste de Atletismo, mas você não for perito em Atletismo, você realizará um Teste apenas com o bônus do Modificador de Força. Caso você seja Perito em uma Perícia, você adiciona o Bônus de Proficiência à jogada que necessite dessa Perícia, além do Modificador específico dela. O Bônus de Proficiência aumenta conforme seu Nível.
 
 | Nível | Bônus de Proficiência |
 | ----- | --------------------- |

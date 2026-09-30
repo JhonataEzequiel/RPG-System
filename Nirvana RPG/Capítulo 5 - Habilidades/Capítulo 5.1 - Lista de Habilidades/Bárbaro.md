@@ -89,7 +89,7 @@ Você tem -1 em todos os Testes de Perícias que não sejam Atletismo. Em troca,
 **Duração**: 1 Rodada.
 **Custo**: Ação Bônus.
 
-Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, como um braço ou perna quebrados, e continuar lutando com força total. Todo o dano de Ataques também aumentará conforme o seu Nível. Você estará em um estado de fúria que o fará atacar qualquer inimigo sem piedade, não podendo escolher poupar a criatura atacada. Ainda sim, é possível diferenciar inimigos de aliados. Pode ser usada uma vez por Encontro.
+Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, como um braço ou perna quebrados, e continuar lutando com força total. Todo o dano de Ataques também aumentará conforme o seu Nível. Você estará em um estado de fúria que o fará atacar qualquer inimigo sem piedade, não podendo escolher poupar a criatura atacada. Ainda assim, é possível diferenciar inimigos de aliados. Pode ser usada uma vez por Encontro.
 
 | Nível do Personagem | Dano Adicional |
 | ------------------- | -------------- |
@@ -103,7 +103,7 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 **Requisitos**: 6 de Força.
 **Custo:** Três Ações
 
- Você ataca todos os inimigos em um círculo centrado nele de raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano será seu dano de um Ataque acrescido de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado até o início do próximo Turno deles.
+ Você ataca todos os inimigos em um círculo centrado em você de raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano será seu dano de um Ataque acrescido de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado até o início do próximo Turno deles.
  
 ## Marcas de Guerra Melhorada (Custo 2)
 
@@ -133,7 +133,7 @@ Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 
 * Vantagem em Testes de Constituição;
 * Imunidade a Condição Encantado;
-* Seus Margem de Ameaça aumenta em 1 ponto;
+* Sua Margem de Ameaça aumenta em 1 ponto;
 * Recebe seu Nível como Pontos de Vida Temporários que duram por 3 Rodadas ou até a Fúria acabar, o que vier primeiro.
 
 ## Engodo da Ira (Custo 3)
@@ -178,7 +178,7 @@ Lendas são contadas de indivíduos que chegaram neste nível de força, e a pri
 **Custo**: Ação Bônus.
 **Duração**: 1 Encontro.
 
-Você agora pode fazer seu corpo a aguentar por mais tempo que o ideal, forçando-o a se regenerar imediatamente, ignorando o tempo adequado que levaria para se curar dos ferimentos.
+Você agora pode fazer seu corpo aguentar por mais tempo que o ideal, forçando-o a se regenerar imediatamente, ignorando o tempo adequado que levaria para se curar dos ferimentos.
 
 Até o fim do Encontro, você não poderá mais escolher poupar uma criatura alvo. Se falhar num Teste de Resistência de Força CD 15 - Sab, você perderá o controle totalmente, e atacará a criatura mais próximo de você, não se importando se são aliados. Em troca, você pode optar por curar qualquer dano sofrido no início de cada um de seus Turnos com uma Ação Livre, ao custo de 1 Ponto de Vida Máximo para cada 10 Pontos de Vida curados. Você deve arredondar esse valor para cima, ou seja, curar 11 Pontos de Vida custará 2 Pontos de Vida Máximos.
 

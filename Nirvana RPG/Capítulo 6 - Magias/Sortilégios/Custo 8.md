@@ -7,7 +7,7 @@
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Conjura cinco esferas negras acima de sua cabeça. Quando um inimigo terminar o Turno dele dentro do alcance da Magia, uma dessas esferas o acerta, causando 8d6 + Int ou Fth de Dano de Sortilégio. O alvo pode esquivar se passar por um Teste de Destreza CD 10 + Int +Fth. Apenas uma esfera pode atacar um inimigo por vez.
+**Descrição:** Conjura cinco esferas negras acima de sua cabeça. Quando um inimigo terminar o Turno dele dentro do alcance da Magia, uma dessas esferas o acerta, causando 8d6 + Int ou Fth de Dano de Sortilégio. O alvo pode esquivar se passar por um Teste de Destreza CD 10 + Int + Fth. Apenas uma esfera pode atacar um inimigo por vez.
 
 Você pode gastar 3 Pontos de Mana adicionais para dobrar a quantidade de esferas um única vez.
 

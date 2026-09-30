@@ -43,7 +43,7 @@ Ao conjurar uma Magia Elemental que cause Dano Elétrico em um alvo único, voc�
 
 **Requisitos**: Habilidade "Nuvem Carregada" de Custo 1. 2 de Inteligência.
 
-Sua Nuvem Carregada agora pode ser usada uma quantidade de vezes igual a seu Bônus de Proficiência por Descanso Curto. Você só pode ter uma Nuvem Carregada ative por vez. O dano também aumenta para 1d8, substituindo o 1d6 anterior.
+Sua Nuvem Carregada agora pode ser usada uma quantidade de vezes igual a seu Bônus de Proficiência por Descanso Curto. Você só pode ter uma Nuvem Carregada ativa por vez. O dano também aumenta para 1d8, substituindo o 1d6 anterior.
 
 ## Corrente Alternada e Contínua (Custo 2)
 

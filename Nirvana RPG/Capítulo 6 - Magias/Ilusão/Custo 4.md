@@ -19,7 +19,7 @@ Você pode gastar um Ponto de Mana a mais para estender a duração da Magia par
 - Alcance: 9m + Deslocamento
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você embaralha os sentidos de uma criatura alvo. A visão dela fica de cabeça para baixo, a audição dela identifica sons distantes como próximos e vice e versa, o olfato dela confunde cheios, o tato dela não mais sente, e o paladar confunde todos os sabores como sendo venenosos. 
+**Descrição:** Você embaralha os sentidos de uma criatura alvo. A visão dela fica de cabeça para baixo, a audição dela identifica sons distantes como próximos e vice-versa, o olfato dela confunde cheiros, o tato dela não mais sente, e o paladar confunde todos os sabores como sendo venenosos. 
 
 A criatura falha automaticamente Testes de Percepção. Caso falhe em um Teste de Resistência de Inteligência CD 13 + Car + Int, ela também terá Desvantagem em Ataques até o fim da duração, além de não saber se está sob efeito de alguma Condição negativa, ou que sofreu um Ataque. Ela pode repetir o Teste em troca de duas Ações.
 

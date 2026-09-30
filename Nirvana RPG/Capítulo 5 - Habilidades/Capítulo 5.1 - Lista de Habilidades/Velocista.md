@@ -51,7 +51,7 @@ Você se move com destreza suficiente para conseguir Andar, Correr, Pular, ou re
 
 Você avança contra um inimigo que possa ver, dobrando seu Deslocamento para isso. Seu próximo Ataque terá Vantagem para acertar, e você desvia de Ataques à Distância até o início do seu próximo Turno.
 
-Naturalmente, se você estiver em Furtividade você já tem Vantagem para acertar Ataques. Neste caso, ao invés de receber Vantagem por meio desta Habilidade, você terá +5 de para acertar o Ataque, e +5 de dano caso acerte. Isso só tem efeito se a Vantagem prévia advir da Condição Furtivo.
+Naturalmente, se você estiver em Furtividade você já tem Vantagem para acertar Ataques. Neste caso, ao invés de receber Vantagem por meio desta Habilidade, você terá +5 para acertar o Ataque, e +5 de dano caso acerte. Isso só tem efeito se a Vantagem prévia advir da Condição Furtivo.
 
 ## Velocidade de Gato (Custo 2)
 

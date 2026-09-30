@@ -8,7 +8,7 @@
 
 **Descrição:** Você clama por ajuda de um ser de outro plano, que envia um de seus lacaios para seu auxílio. Este lacaio aparece em um local desocupado dentro do alcance da Magia. 
 
-Dependendo da Natureza do lacaio, ele pode ou não ser convencido a lhe ajudar a realizar uma tarefa. Um ser ínfero, por exemplo, pode requerer um sacrifício macabro, ou uma relíquia, além do padrão, que é uma quantidade de tesouros básicos igual ao Nível da criatura dobrado em Peças de Ouro. Um ser celestial pode requerer uma doação para realizar a tarefa, cujo o preço seria igual ao do exemplo do ínfero. Caso o lacaio deseje algo em troca de seus serviços, o mestre decidirá o que é.
+Dependendo da Natureza do lacaio, ele pode ou não ser convencido a lhe ajudar a realizar uma tarefa. Um ser ínfero, por exemplo, pode requerer um sacrifício macabro, ou uma relíquia, além do padrão, que é uma quantidade de tesouros básicos igual ao Nível da criatura dobrado em Peças de Ouro. Um ser celestial pode requerer uma doação para realizar a tarefa, cujo preço seria igual ao do exemplo do ínfero. Caso o lacaio deseje algo em troca de seus serviços, o mestre decidirá o que é.
 
 Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas ações.
 
@@ -40,4 +40,4 @@ Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas aç�
 - Alcance: 48m
 - Tempo de Conjuração: Reação
 
-**Descrição:** Você consegue, por um momento, acessar o poder que controla o tempo. Você desfaz a último Turno de uma criatura alvo que esteja em combate com você. Ela volta ao estado que estava antes de realizar o Turno anterior, mas o perde. A Magia falha caso você já tenha conjurado uma Magia neste Encontro. Essa Magia deve ser conjurada imediatamente após o Turno da criatura alvo para ter efeito.
+**Descrição:** Você consegue, por um momento, acessar o poder que controla o tempo. Você desfaz o último Turno de uma criatura alvo que esteja em combate com você. Ela volta ao estado que estava antes de realizar o Turno anterior, mas o perde. A Magia falha caso você já tenha conjurado uma Magia neste Encontro. Essa Magia deve ser conjurada imediatamente após o Turno da criatura alvo para ter efeito.

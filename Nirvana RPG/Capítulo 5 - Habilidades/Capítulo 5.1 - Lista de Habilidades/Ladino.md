@@ -13,7 +13,7 @@ Você conhece os pormenores do submundo do crime, e é capaz de vender e comprar
 
 Você agora possui um Dado de Ladrão. Esse dado pode ser usado em qualquer compra ou venda de algum item que fizer no mercado negro. Você pode subtrair o valor de compra de um item, ou aumentar o valor da venda de um em um número igual ao resultado do item, e pode fazer isso uma quantidade de vezes igual ao seu Bônus de Proficiência. O Dado de Ladrão é 1d4, aumentado para 1d6 no Nível 1 de Carisma, 1d8 no Nível 3, e 1d10 no Nível 6. 
 
-O custo de um item deve ser maior do que 1po para utilizar o dano, e ele não poderá ser rebaixado para além de 1po.
+O custo de um item deve ser maior do que 1po para utilizar o dado, e ele não poderá ser rebaixado para além de 1po.
 
 ## Ataque Furtivo (Custo 1)
 
@@ -59,7 +59,7 @@ Uma vez escolhida esta Habilidade, seus efeitos são reversíveis. Você pode vo
 
 Duas vezes ao dia você pode escolher um Teste de Furtividade que for realizar para ter Vantagem nele. Você não pode ter sido visto por ninguém que você queira se esconder antes de utilizar essa Habilidade. Ao atingir o Nível 7 de Destreza esse limite aumenta para três vezes ao dia.
 
-Alternativamente, você pode adicionar +1 em todos os Testes de Furtividade. No nível 7 de destreza, esse bônus aumenta em um ponto adicional, totalizando +2.
+Alternativamente, você pode adicionar +1 em todos os Testes de Furtividade. No nível 7 de Destreza, esse bônus aumenta em um ponto adicional, totalizando +2.
 
 ## Destrancar Rapidamente (Custo 2)
 

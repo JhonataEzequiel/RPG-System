@@ -21,7 +21,7 @@ Uma vez que a duração acabe, os itens não se perderão. Você poderá conjura
 - Alcance: Ilimitado
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você altera o código fonte da realidade. Você pode apagar uma regra existente do jogo, modificá-la, ou adicionar uma nova. Você pode modificar qualquer aspecto do jogo. O mestre tem poder de veto, e você pode tentar barganhar com ele. Ele pode impor uma condição ao que você deseja realizar, e vocês podem chegar num acordo.
+**Descrição:** Você altera o código-fonte da realidade. Você pode apagar uma regra existente do jogo, modificá-la, ou adicionar uma nova. Você pode modificar qualquer aspecto do jogo. O mestre tem poder de veto, e você pode tentar barganhar com ele. Ele pode impor uma condição ao que você deseja realizar, e vocês podem chegar num acordo.
 
 Você só pode conjurar essa Magia uma vez. Essa Magia também não pode ser transformada ou encontrada em forma de pergaminho. Essas são as únicas regras que não podem ser alteradas.
 
@@ -42,6 +42,6 @@ Você só pode conjurar essa Magia uma vez. Essa Magia também não pode ser tra
 - Alcance: 36m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você manipula as leis da causalidade em um nível intrínseco, as deixando completamente aleatórias.
+**Descrição:** Você manipula as leis da causalidade em um nível intrínseco, deixando-as completamente aleatórias.
 
 Todas as criaturas dentro de uma área circular com o raio igual ao alcance da magia, centrado em você, não terão mais nenhum bônus, seja ele positivo ou negativo, em qualquer Teste ou rolagem de dados. Isso também inclui Vantagem e Desvantagens, além de quaisquer outros efeitos similares. Você também é afetado por essa Magia. Todas as Salvaguardas agora tem CD 10.

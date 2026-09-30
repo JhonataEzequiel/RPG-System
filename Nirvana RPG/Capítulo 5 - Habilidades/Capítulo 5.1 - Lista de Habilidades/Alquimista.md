@@ -100,7 +100,7 @@ Basicamente, qualquer item do Capítulo 4.6 - Lista de Itens Aplicáveis ao Cap�
 
 ## Peçonha Instantânea (Custo 2)
 
-**Requisitos** O alvo do Ataque precisa estar Envenenado.
+**Requisitos**: O alvo do Ataque precisa estar Envenenado.
 **Custo**: Três Ações, 5 de Mana.
 
 Você Ataca o alvo, fazendo com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez, e encerrando a Condição Envenenado. Além do dano do seu Ataque, o alvo toma 10d8 de Dano Venenoso. Para esta Habilidade ter efeito, a Duração restante do Veneno terá que ser de, pelo menos, 3 Rodadas. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por essa Habilidade.

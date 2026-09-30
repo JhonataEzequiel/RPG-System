@@ -43,7 +43,7 @@ Essa Habilidade não pode ser escolhida se você já tiver a Habilidade "Tipo AB
 
 **Requisitos**: 2 de Inteligência, 5 de Fé.
 
-Quando tiver um Descanso você sempre irá sacrificar 2d4 Pontos de Vida como oferenda. Você pode escolher se fará isso para uma divindade, uma entidade diferente, ou como um voto pessoal para algum ideal. Você obtêm +2 no seu Bônus de Proficiência até o fim do próximo Encontro. Você pode escolher parar de fazer oferendas quando quiser, assim como retomá-las.
+Quando tiver um Descanso você sempre irá sacrificar 2d4 Pontos de Vida como oferenda. Você pode escolher se fará isso para uma divindade, uma entidade diferente, ou como um voto pessoal para algum ideal. Você obtém +2 no seu Bônus de Proficiência até o fim do próximo Encontro. Você pode escolher parar de fazer oferendas quando quiser, assim como retomá-las.
 
 ## Sólido de Vigor (Custo 2)
 

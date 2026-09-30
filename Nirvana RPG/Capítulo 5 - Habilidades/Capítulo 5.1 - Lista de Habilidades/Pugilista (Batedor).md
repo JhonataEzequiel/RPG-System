@@ -62,7 +62,7 @@ Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adic
 
 **Requisitos**: Habilidade "Força Natural" de Custo 1. 6 de Força ou Destreza, 1 de Inteligência ou Sabedoria. 
 
-**Sinergia Corpo e Mente** (Passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu Modificador de Sabedoria ou Inteligência os Ataques Desarmados, caso sejam positivos.
+**Sinergia Corpo e Mente** (Passiva): Você consegue manipular parte de sua energia mental para canalizar o poder de algum elemento no seu corpo. Você adiciona seu Modificador de Sabedoria ou Inteligência aos Ataques Desarmados, caso sejam positivos.
 
 **Elementar** (Ação Bônus): Você troca o tipo de dano do seu Ataque Desarmado para qualquer um dos tipos elementais. Você pode voltar ao dano padrão de seus Ataques Desarmados com uma Ação Bônus.
 

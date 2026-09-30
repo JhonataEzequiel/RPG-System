@@ -7,7 +7,7 @@ O Arquétipo do Guerreiro Arcano contém Habilidades que focam em misturar estra
 **Custo**: Três Ações.
 **Duração**: 1 Encontro.
 
-Você liga sua mente a de um alvo caso ele falhe num Teste de Resistência de Sabedoria CD 10 + Sab. Você anula a capacidade dele de usar Mana, mas você também não poderá usar Mana. Todo dano causado no alvo será refletido em você, fazendo com que você tome metade dele como Dano Verdadeiro. O alvo ainda recebe o dano completo, você apenas é ferido também. O dano que você receberá será metade do dano que o alvo recebeu após ter calculado o valor sobre quaisquer Resistências que ele possua.
+Você liga sua mente à de um alvo caso ele falhe num Teste de Resistência de Sabedoria CD 10 + Sab. Você anula a capacidade dele de usar Mana, mas você também não poderá usar Mana. Todo dano causado no alvo será refletido em você, fazendo com que você tome metade dele como Dano Verdadeiro. O alvo ainda recebe o dano completo, você apenas é ferido também. O dano que você receberá será metade do dano que o alvo recebeu após ter calculado o valor sobre quaisquer Resistências que ele possua.
 
 ## Ataque Extra Mágico (Custo 1)
 

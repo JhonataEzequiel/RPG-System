@@ -62,7 +62,7 @@ Você abdica de sua Reação na Rodada atual para obter uma Ação extra no seu 
 **Custo**: Ação Livre, 10 de Mana.
 **Duração**: Até o fim do próximo Encontro.
 
-Você agora controla a sua mente em sua totalidade, tendo total agência de si mesmo. Você se torna Imune a Condição Encantamento. Uma vez ao dia você pode escolher gastar 10 Pontos de Mana enquanto fora de combate em uma meditação enquanto você está tendo um Descanso Longo. Fazendo isso, você pode transferir uma característica sua para uma criatura alvo no alcance do seu Toque. A criatura precisa aceitar receber essa característica. Dentre as características que você pode passar, estão:
+Você agora controla a sua mente em sua totalidade, tendo total agência de si mesmo. Você se torna Imune à Condição Encantamento. Uma vez ao dia você pode escolher gastar 10 Pontos de Mana enquanto fora de combate em uma meditação enquanto você está tendo um Descanso Longo. Fazendo isso, você pode transferir uma característica sua para uma criatura alvo no alcance do seu Toque. A criatura precisa aceitar receber essa característica. Dentre as características que você pode passar, estão:
 - Quaisquer Resistências, Fraquezas, Ou Invulnerabilidades que você tiver (apenas uma);
 - Algum bônus em um tipo de Teste específico;
 - Características biológicas, como respirar debaixo d'água ou voar (a criatura adquire magicamente as partes biológicas necessárias).

@@ -30,7 +30,7 @@ Você também pode gastar 1 Ponto de Mana adicional para aumentar o seu Deslocam
 - Alcance: 48m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você cria uma ventania à sua frente em uma área de cone com o comprimento igual ao alcance da Magia, empurrando qualquer criatura que esteja no alcance da Magia. Todas as criaturas terão que realizar um Teste de Resistência de Destreza CD 13 + Int. Caso falhem, serão empurradas em 36m em relação a posição inicial, e receberão 3d12 + Int de Dano de Impacto ao caírem no chão, além da condição Caído até o início do próximo Turno delas. Em caso de sucesso, são empurrados 18m, mas não recebem nenhuma condição ou dano.
+**Descrição:** Você cria uma ventania à sua frente em uma área de cone com o comprimento igual ao alcance da Magia, empurrando qualquer criatura que esteja no alcance da Magia. Todas as criaturas terão que realizar um Teste de Resistência de Destreza CD 13 + Int. Caso falhem, serão empurradas em 36m em relação à posição inicial, e receberão 3d12 + Int de Dano de Impacto ao caírem no chão, além da condição Caído até o início do próximo Turno delas. Em caso de sucesso, são empurrados 18m, mas não recebem nenhuma condição ou dano.
 
 ### Astros
 

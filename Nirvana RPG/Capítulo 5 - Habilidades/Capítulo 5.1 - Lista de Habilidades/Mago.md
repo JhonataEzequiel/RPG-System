@@ -114,9 +114,9 @@ Você pode, de maneira permanente, trocar Pontos de Mana por Magias Conhecidas a
 | 8                          | 6-7            |
 | 12                         | 8-9            |
 | 15                         | 10             |
-Alternativamente você pode reduzir os Requisitos de uma Magia. Para cada Ponto de Mana gasto, você reduz o requisito em 1 ponto de algum Atributo. Isso permite que você conheça novas Magias as quais você reduziu os requisitos o suficiente. Você não precisa conhecer uma Magia a priori para reduzir os requisitos dela;
+Alternativamente você pode reduzir os Requisitos de uma Magia. Para cada Ponto de Mana gasto, você reduz o requisito em 1 ponto de algum Atributo. Isso permite que você conheça novas Magias as quais você reduziu os requisitos o suficiente. Você não precisa conhecer uma Magia a priori para reduzir os requisitos dela.
 
-Você dever efetuar suas escolhas no momento em que adquirir esta Habilidade, e elas são irreversíveis. Essa Habilidade pode ser pega múltiplas vezes.
+Você deve efetuar suas escolhas no momento em que adquirir esta Habilidade, e elas são irreversíveis. Essa Habilidade pode ser pega múltiplas vezes.
 
 ## Visão Além do Alcance (Custo 2)
 

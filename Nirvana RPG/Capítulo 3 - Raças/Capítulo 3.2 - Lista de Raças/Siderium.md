@@ -9,7 +9,7 @@ Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu notur
 
 **Requerimento Luminoso** (Passiva): Ao usar a Habilidade "Helius" em um Encontro, você receberá 1d6 de Dano Verdadeiro Contínuo até o Encontro acabar. Caso utilize fora de combate, você terá Exaustão 1. Caso utilize o Helius em batalha, e a batalha acabe com você ainda vivo, você também terá o efeito de Exaustão.
 
-**Minerva** (Passiva) : Os Siderium Diurnus tem um bônus de +2 em Testes de Sabedoria.
+**Minerva** (Passiva): Os Siderium Diurnus tem um bônus de +2 em Testes de Sabedoria.
 
 ## Nocturnus
 

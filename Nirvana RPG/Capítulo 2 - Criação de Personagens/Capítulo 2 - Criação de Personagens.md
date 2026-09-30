@@ -3,7 +3,7 @@ Uma dica para criar um personagem novo é idealizar como você quer que ele seja
 
 ## História de Origem
 
-Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maior idade em busca de aventuras, até um ladino com uma história trágica de fundo. Você pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPGs, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que você tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem. Você pode ou não ser detalhista.
+Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maioridade em busca de aventuras, até um ladino com uma história trágica de fundo. Você pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPGs, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que você tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem. Você pode ou não ser detalhista.
 
 ## Traços de personalidade
 
@@ -27,7 +27,7 @@ Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, vo
 
 ## Limitação Inicial
 
-Você pode optar por tirar Pontos de atributo de um Atributo para deixá-lo abaixo do Nível 0. Fazendo isso, pode alocar estes Pontos de Atributo em outro Atributo, ignorando o Limite de Nível Máximo de Atributos. Um Atributo com valor negativo tem seu Modificador negativo também, então você irá subtrair ao invés de somar quando algo pedir que use o Atributo. 
+Você pode optar por tirar Pontos de Atributo de um Atributo para deixá-lo abaixo do Nível 0. Fazendo isso, pode alocar estes Pontos de Atributo em outro Atributo, ignorando o Limite de Nível Máximo de Atributos. Um Atributo com valor negativo tem seu Modificador negativo também, então você irá subtrair ao invés de somar quando algo pedir que use o Atributo. 
 
 O valor mínimo que um Atributo pode assumir é -10. Você pode tirar quantos Pontos quiser de quantos Atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações. Você pode ter -10 em apenas um Atributo, se assim desejar.
 

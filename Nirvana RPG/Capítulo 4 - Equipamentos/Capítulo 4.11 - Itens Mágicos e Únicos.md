@@ -23,7 +23,7 @@ Restaura completamente os Pontos de Vida ou Mana (dependendo do tipo) quando con
 
 Pequena semente que, quando ingerida, diminui o custo de Magias sagradas em 2 pontos. Essa diminuição de custo atua somente nas três próximas Magias conjuradas por aquele que a ingeriu.
 
-Dizem que a muito tempo atrás essas raras sementes brotaram de árvores agora extintas. Devido às mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 500pl. Pesa apenas 0.1 kg.
+Dizem que, há muito tempo, essas raras sementes brotaram de árvores agora extintas. Devido às mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 500pl. Pesa apenas 0.1 kg.
 
 ## Manto Mágico
 
@@ -51,7 +51,7 @@ Qualquer uma das Armaduras Pesadas pode ser feita de Adamantina, um mineral part
 
 ## Munição Melhorada
 
-Algumas Munições são particularmente mais poderosas devido ao seu processo de fabricação. Elas possuem um pode de perfuração maior. Cada uma delas melhora suas chances de perfurar a Armadura de um alvo. O preço é igual para flechas, virotes, ou balas. Uma Munição +1 pode, por exemplo, ser um virote +1.
+Algumas Munições são particularmente mais poderosas devido ao seu processo de fabricação. Elas possuem um poder de perfuração maior. Cada uma delas melhora suas chances de perfurar a Armadura de um alvo. O preço é igual para flechas, virotes, ou balas. Uma Munição +1 pode, por exemplo, ser um virote +1.
 
 | Munição        | Efeito                            | Preço | Peso   |
 | -------------- | --------------------------------- | ----- | ------ |
@@ -159,7 +159,7 @@ Reza a lenda que quem possui essa espada lendária adquire o direito de se torna
 
 ## Armadura de Tetranita
 
-Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetranita é um mineral que contém as propriedades dos quatro elementos, das quatro estações, e dos quatro pontos cardiais. O material se pode se moldar conforme a necessidade do usuário, e somente os melhores ferreiros conseguem manuseá-lo para tal.
+Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetranita é um mineral que contém as propriedades dos quatro elementos, das quatro estações, e dos quatro pontos cardiais. O material se pode moldar conforme a necessidade do usuário, e somente os melhores ferreiros conseguem manuseá-lo para tal.
 
 | Armadura              | Preço      | CA  | Requisitos | Escalas                 | Penalidades | Efeitos Adicionais | Peso  |
 | --------------------- | ---------- | --- | ---------- | ----------------------- | ----------- | ------------------ | ----- |

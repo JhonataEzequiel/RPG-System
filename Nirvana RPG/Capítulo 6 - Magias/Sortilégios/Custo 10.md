@@ -8,7 +8,7 @@
 - Alcance: 1500m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você entra em um estado de transe enquanto essa Magia está sendo conjurada, se tornando Incapacitado. Ele pode sair desse estado caso alguém chame sua atenção ou o Ataque, o que fará a Magia parar imediatamente. Se alguém chamar a sua atenção sem Atacar, você pode escolher se vai sair desse estado de transe ou não.
+**Descrição:** Você entra em um estado de transe enquanto essa Magia está sendo conjurada, se tornando Incapacitado. Você pode sair desse estado caso alguém chame sua atenção ou te Ataque, o que fará a Magia parar imediatamente. Se alguém chamar a sua atenção sem Atacar, você pode escolher se vai sair desse estado de transe ou não.
 
 Você entra em contato com as entidades malignas que sondam o ambiente, ou um patrono, se tiver um, absorvendo qualquer poder que elas possam lhe propiciar de uma vez. O poder absorvido gera uma aura escura a sua volta, como se você emanasse as trevas enquanto respira. Você libera esse poder ao longo de duas Rodadas, arremessando esferas negras de energia em todos que estiverem dentro da área de alcance e forem considerados alvos por você. Essas esferas parecem ter rostos agonizando de dor estampados nelas, são totalmente escuras, e tem uma aparência gasosa. Cada uma tem por volta de 1.5m de diâmetro.
 

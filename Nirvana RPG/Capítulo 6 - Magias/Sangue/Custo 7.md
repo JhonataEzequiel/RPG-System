@@ -23,7 +23,7 @@ Você pode gastar 1 Ponto de Mana adicional para aumentar a CD do Teste em 1 pon
 
 **Descrição:** Sangue começa a sair de um de seus dedos indicadores, e você agora pode desenhar no ar a imagem de alguém. Mesmo que você não seja muito bom com desenhos, ele sairá perfeito. Essa criatura escolhida precisa estar no alcance da Magia. Você escolhe quanto sangue irá utilizar.
 
-Cada 1 Ponto de Vida gasto, o inimigo receberá 5 de Dano Verdadeiro. Esse Dano Verdadeiro não é de Sangue, é simplesmente um dano causado ao alvo como uma maldição que deteriora o corpo dele. Portanto, essa Magia tem efeito em todos os tipos de criaturas.
+Para cada Ponto de Vida gasto, o inimigo receberá 5 de Dano Verdadeiro. Esse Dano Verdadeiro não é de Sangue, é simplesmente um dano causado ao alvo como uma maldição que deteriora o corpo dele. Portanto, essa Magia tem efeito em todos os tipos de criaturas.
 
 ### Sangue Perfurante
 

@@ -8,9 +8,9 @@
 
 **Descrição:** Uma nuvem aparece abaixo do alvo, e se adapta ao tamanho dele, concedendo 15m de Deslocamento de Voo. A cor da nuvem será dourada, e se o alvo souber algum Sortilégio, a nuvem será intangível para ele, não o deixando subir nela. 
 
-A nuvem tem vontade própria, mas segue ordens de quem estiver em cima dela, ou de quem a conjurou, dano prioridade as ordens do conjurador. Ela também consegue apanhar alguém que tenha caído da nuvem, o impedindo de sofrer dano de queda. Caso o alvo seja de tamanho médio, outra criatura de tamanho médio poderá subir na nuvem ao mesmo tempo.
+A nuvem tem vontade própria, mas segue ordens de quem estiver em cima dela, ou de quem a conjurou, dando prioridade as ordens do conjurador. Ela também consegue apanhar alguém que tenha caído da nuvem, o impedindo de sofrer dano de queda. Caso o alvo seja de tamanho médio, outra criatura de tamanho médio poderá subir na nuvem ao mesmo tempo.
 
-A duração pode ser estendida em uma 1 hora por cada Ponto de Mana adicional gasto.
+A duração pode ser estendida em 1 hora por cada Ponto de Mana adicional gasto.
 
 ### Batida Pesada
 

@@ -7,7 +7,7 @@
 - Alcance: Raio de 18m centrado em você
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você clama pelo sangue de todos ao teu redor, não descriminando se são aliados ou inimigos.  Todos os que estiverem no raio da Magia terão que passar num Teste de Resistência de Constituição, CD 8 + Fth + Int. Caso algum alvo falhe, parte de seu sangue será retirado de seu corpo a força, causando 12d8 de Dano Verdadeiro de Sangue. Você absorve parte desse sangue, curando-se pela metade de todo o sangue absorvido. Caso o alvo seja bem sucedido, ele receberá apenas 8d4 de Dano Venenoso, e você não se curará pelo dano causado ao alvo. 
+**Descrição:** Você clama pelo sangue de todos ao teu redor, não discriminando se são aliados ou inimigos.  Todos os que estiverem no raio da Magia terão que passar num Teste de Resistência de Constituição, CD 8 + Fth + Int. Caso algum alvo falhe, parte de seu sangue será retirado de seu corpo a força, causando 12d8 de Dano Verdadeiro de Sangue. Você absorve parte desse sangue, curando-se pela metade de todo o sangue absorvido. Caso o alvo seja bem sucedido, ele receberá apenas 8d4 de Dano Venenoso, e você não se curará pelo dano causado ao alvo. 
 
 Você pode executar essa Magia, uma vez conjurada, até 3 vezes seguidas, enquanto não for interrompido. Ela toma efeito ao final do seu Turno. Serão necessárias três Ações para cada execução.
 

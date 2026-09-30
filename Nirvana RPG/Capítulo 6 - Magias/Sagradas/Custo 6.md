@@ -6,7 +6,7 @@
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você invoca uma criatura de outro plano à sua escolha. Caso seja capaz de fazê-la submeter a você através de um teste de combate, ela atenderá a qualquer ordem dada durante a duração da Magia. Os Pontos de Vida dela, assim como quaisquer ferimentos são restaurados no final do teste.
+**Descrição:** Você invoca uma criatura de outro plano à sua escolha. Caso seja capaz de fazê-la se submeter a você através de um teste de combate, ela atenderá a qualquer ordem dada durante a duração da Magia. Os Pontos de Vida dela, assim como quaisquer ferimentos são restaurados no final do teste.
 
 Caso você comande a criatura a entrar em combate contra um inimigo, ela decidirá quais Ações irá utilizar. O mestre será o responsável pela criatura.
 

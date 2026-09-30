@@ -6,7 +6,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca uma criatura alvo que tenha vindo de um plano diferente do que você está no momento em que conjurar essa Magia. A criatura terá que passar por um Teste de Resistência de Fé CD 16 + Fth para permanecer no plano atual, caso contrária reaparecerá em seu plano de origem. Essa Magia não pode ser usada duas vezes em uma mesma criatura até você ter um Descanso Longo.
+**Descrição:** Você toca uma criatura alvo que tenha vindo de um plano diferente do que você está no momento em que conjurar essa Magia. A criatura terá que passar por um Teste de Resistência de Fé CD 16 + Fth para permanecer no plano atual, caso contrário, reaparecerá em seu plano de origem. Essa Magia não pode ser usada duas vezes em uma mesma criatura até você ter um Descanso Longo.
 
 ### Luz Resplandecente
 

@@ -31,14 +31,14 @@ Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rola
 
 A tabela a seguir providenciará exemplos para diferentes dificuldades em um Teste. O seu Mestre poderá escolher um valor diferente a depender do contexto da situação que pede o Teste.
 
-| Dificuldade Intendida | Valor no D20  |
-| --------------------- | ------------- |
-| Muito Fácil           | 5 ou menos    |
-| Fácil                 | Entre 6 e 10  |
-| Mediana               | Entre 11 e 15 |
-| Difícil               | Entre 16 e 20 |
-| Muito Difícil         | Entre 21 e 25 |
-| Lendária              | Maior que 25  |
+| Dificuldade Pretendida | Valor no D20  |
+| ---------------------- | ------------- |
+| Muito Fácil            | 5 ou menos    |
+| Fácil                  | Entre 6 e 10  |
+| Mediana                | Entre 11 e 15 |
+| Difícil                | Entre 16 e 20 |
+| Muito Difícil          | Entre 21 e 25 |
+| Lendária               | Maior que 25  |
 
 ## Salvaguardas (ou Testes de Resistência)
 
@@ -54,7 +54,7 @@ A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um Acerto 
 
 Além das jogadas normais, existem condições que afetam a possibilidade de sucesso ou de fracasso. Essas condições são chamadas de Vantagem e Desvantagem.
 
-A Vantagem é dada a um personagem caso a situação esteja a favor dele. Essencialmente a Vantagem é relacionada diretamente a jogada em questão. Caso alguém tenha Vantagem. poderá rolar duas vezes em um Teste para obter resultados diferentes, e nesse caso, escolherá obrigatoriamente o resultado mais alto das duas rolagens.
+A Vantagem é dada a um personagem caso a situação esteja a favor dele. Essencialmente a Vantagem é relacionada diretamente a jogada em questão. Caso alguém tenha Vantagem, ele poderá rolar duas vezes em um Teste para obter resultados diferentes e, nesse caso, escolherá obrigatoriamente o resultado mais alto das duas rolagens.
 
 A Desvantagem funciona de forma similar, no entanto se escolherá o pior resultado das duas rolagens. Normalmente a Desvantagem existe quando a situação não está favorável no momento.
 

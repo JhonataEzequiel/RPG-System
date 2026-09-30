@@ -1,5 +1,5 @@
 
-## Bem-Vindos ao Nirvana RPG!
+## Bem-vindos ao Nirvana RPG!
 
 No capítulo inicial desse livro serão explicados conceitos básicos para jogadores iniciantes em jogos de interpretação de papéis (RPG). Assim como explicar toda a motivação por trás da criação deste sistema em específico.
 
@@ -13,7 +13,7 @@ RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de pap�
 
 **Jogadores**: Os jogadores serão os responsáveis por controlar os protagonistas da história. Eles criarão personagens neste novo mundo, e irão interagir com todo o cenário criado e interpretado pelo mestre. As ações dos jogadores impactam diretamente o andar da carruagem, podendo afetar planos futuros do Mestre; mudar completamente a ideia inicial da Campanha; ou somente se divertir no mundo que o Mestre trouxe à tona.
 
-**Dados**: Um conjunto de dados típicos utilizados para jogar RPG é composto por um dado de quatro lados (1d4), um dado comum de seis lados (1d6), um de oito lados (1d8), um de dez lados (1d10), um de doze lados (1d12), um de vinte lados (1d20), e as vezes um de cem lados (1d100). Você precisará ter um conjunto desses em mãos, ou pelo menos ter acesso a algum meio digital para rolar estes dados, como um aplicativo ou um site em específico.
+**Dados**: Um conjunto de dados típicos utilizados para jogar RPG é composto por um dado de quatro lados (1d4), um dado comum de seis lados (1d6), um de oito lados (1d8), um de dez lados (1d10), um de doze lados (1d12), um de vinte lados (1d20) e, às vezes, um de cem lados (1d100). Você precisará ter um conjunto desses em mãos, ou pelo menos ter acesso a algum meio digital para rolar estes dados, como um aplicativo ou um site em específico.
 
 **Livros Extras**: Além deste livro, que conterá o básico para jogar, existirão alguns outros como o Livro dos Monstros ou o Livro do Mestre, feitos como extras para adicionar mais opções à sua aventura. Eles não são estritamente necessários, mas podem adicionar horas a mais de diversão à Mesa.
 

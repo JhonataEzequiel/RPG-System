@@ -5,7 +5,7 @@ O Arquétipo do Artífice contém Habilidades relacionadas à criação de bugig
 
 **Requisitos**: 2 de Inteligência.
 
-Você consegue criar pequenos autômatos a partir de materiais encontrados pelo caminho, sendo compostos de metais, minerais, e outros materiais necessários. Esses autômatos conseguem seguir um único comando antes de descarregarem, e precisam ter estado sob a luz do sol por 10 minutos a pelo menos 24 horas para se energizar, caso contrário não funcionarão. Você também pode energizá-los com Mana, gastando 1d4 Pontos de Mana para energizá-los por 24 horas. Você escolhe a aparência deles na hora da confecção. Autômatos criados por você são considerados objetos.
+Você consegue criar pequenos autômatos a partir de materiais encontrados pelo caminho, sendo compostos de metais, minerais, e outros materiais necessários. Esses autômatos conseguem seguir um único comando antes de descarregarem, e precisam ter estado sob a luz do sol por 10 minutos há pelo menos 24 horas para se energizar, caso contrário não funcionarão. Você também pode energizá-los com Mana, gastando 1d4 Pontos de Mana para energizá-los por 24 horas. Você escolhe a aparência deles na hora da confecção. Autômatos criados por você são considerados objetos.
 
 Eles podem andar, sendo seu Deslocamento de 12m. Além disso, podem realizar qualquer Ação Livre possível. Eles tem o tamanho Pequeno. Por fim, podem realizar tarefas básicas, como pegar um item, levar um item até um local, puxar uma alavanca, limpar um local, cozinhar receitas simples, etc.
 
@@ -41,7 +41,7 @@ Você aumenta a quantidade de tiros necessários antes de uma recarga nas suas A
 
 **Requisitos**: 3 de Inteligência.
 
-Você agora consegue criar pequenas capsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho Grande dentro delas. 
+Você agora consegue criar pequenas cápsulas a partir de alguns materiais básicos que são representados pelo custo de 5po cada. Essas capsulas se parecem com pequenas gaiolas. Você pode colocar qualquer item até o tamanho Grande dentro delas. 
 
 **Guardar Item** (Ação Bônus): As gaiolas encolhem o item, que fica dentro delas como se estivesse em miniatura. 
 

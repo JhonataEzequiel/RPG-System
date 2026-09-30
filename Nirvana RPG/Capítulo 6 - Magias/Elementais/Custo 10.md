@@ -6,7 +6,7 @@
 - Alcance: 36m + Deslocamento
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você escolhe um alvo dentro do alcance da Magia. Ele é envolto de uma esfera aparentemente inofensiva cuja composição é desconhecida, mas tem um aspecto translúcido, e uma coloração azulada. Após um segundo, a esfera explode de dentro para fora em uma combinação de todos os tipos de Dano Elemental. O alvo deverá realizar um Teste de Resistência de Constituição CD 14 + Int. Independente de ser bem sucedido ou não, ele recebe 8d10 + Int de cada um dos tipos de dano elemental (fogo, gelo, e raio). 
+**Descrição:** Você escolhe um alvo dentro do alcance da Magia. Ele é envolto de uma esfera aparentemente inofensiva cuja composição é desconhecida, mas tem um aspecto translúcido, e uma coloração azulada. Após um segundo, a esfera explode de dentro para fora em uma combinação de todos os tipos de Dano Elemental. O alvo deverá realizar um Teste de Resistência de Constituição CD 14 + Int. Independente de ser bem-sucedido ou não, ele recebe 8d10 + Int de cada um dos tipos de dano elemental (fogo, gelo, e raio). 
 
 Você deverá rolar o dano separadamente para cada elemento, aplicando o modificador de Inteligência em cada uma das vezes (total 24d10 + 3 vezes Int), e Resistências e Invulnerabilidades individuais ainda poderão reduzir o dano em partes. Por exemplo, caso o alvo seja Resistente a Fogo ele tomará menos Dano de Fogo em relação aos outros dois tipos. 
 

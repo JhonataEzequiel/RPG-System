@@ -2,7 +2,7 @@
 Seu personagem, por padrão, fala "Comum", o idioma central mais falado por todas as Raças. Existem outros Idiomas que irão depender do cenário da Campanha, e de quem o fala. Alguns exemplos são:
 
 Feérico: falado por Fadas e seres mágicos.
-Demoníaco: falado for seres ínferos.
+Demoníaco: falado p seres ínferos.
 Dracônico: falado por seres dracônicos, como Wyverns e Dragões.
 Celestial: falado por Anjos e seres celestes num geral.
 Élfico: falado por Elfos e Sideriums.

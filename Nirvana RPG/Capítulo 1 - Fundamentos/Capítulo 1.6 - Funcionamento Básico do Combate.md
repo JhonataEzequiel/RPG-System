@@ -13,7 +13,7 @@ Por definição, é impossível estar a sós em um Encontro. Você sempre estar�
 
 ## Iniciativa
 
-A Iniciativa determinará quem irá agir primeiro quando um combate for iniciado. Assim como os jogadores, os inimigos e monstros também terão que rolar Iniciativa. A Iniciativa é calculada através de um Teste de Destreza. Quem tirar o maior resultado será o primeiro a agir, seguido pelo segundo maior, e por ai vai. Caso dois participantes tirem o mesmo resultado, eles vão rolar novamente o Teste para decidir qual dos dois irá primeiro. Caso os dois sejam aliados, eles podem escolher juntos a ordem.
+A Iniciativa determinará quem irá agir primeiro quando um combate for iniciado. Assim como os jogadores, os inimigos e monstros também terão que rolar Iniciativa. A Iniciativa é calculada através de um Teste de Destreza. Quem tirar o maior resultado será o primeiro a agir, seguido pelo segundo maior, e por aí vai. Caso dois participantes tirem o mesmo resultado, eles vão rolar novamente o Teste para decidir qual dos dois irá primeiro. Caso os dois sejam aliados, eles podem escolher juntos a ordem.
 
 ## Turnos e Rodadas
 
@@ -35,7 +35,7 @@ Magias sempre acertam o alvo, a menos que a descrição da Magia especifique o c
 
 Ataques são definidos por tentativas de uma criatura de causar dano a outra sem ser por meio direto de uma Magia ou outro efeito.
 
-Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o bônus especificado em seu Ataque para realizar esse Teste. Normalmente está descrição da Arma equipada para Atacar. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
+Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o bônus especificado em seu Ataque para realizar esse Teste. Normalmente, está disponível na descrição da Arma equipada. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
 
 ## Adjacência
 
@@ -91,7 +91,7 @@ Alguns itens necessitam que você os segure em uma das mãos para que possam ser
 
 ## Arremessar
 
-Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um Ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro Ataque, e não utilizará nenhum Atributo como bônus a priori, podendo conseguir isto através de Habilidades. Arremessar não se beneficia de Habilidades que melhoram Ataques num geral, nem conta para a Penalidade de Ataques. As Habilidades que influenciam sua capacidade de Arremessar itens deixarão isso explicito na descrição delas.
+Arremessar um item com o intuito de ferir um inimigo, como um frasco de veneno ou ácido, será contabilizado como um Ataque. Você precisará passar pela CA do inimigo para acertar como qualquer outro Ataque, e não utilizará nenhum Atributo como bônus a priori, podendo conseguir isto através de Habilidades. Arremessar não se beneficia de Habilidades que melhoram Ataques num geral, nem conta para a Penalidade de Ataques. As Habilidades que influenciam sua capacidade de Arremessar itens deixarão isso explícito na descrição delas.
 
 O alcance de seus arremessos é igual ao seu Modificador de Força em metros (1.5m para cada ponto no Modificador) mais seu Deslocamento, com o mínimo de 1.5m. Arremessar, num geral, custa uma Ação, seja para causar dano a um inimigo ou não. Poções não tem efeito quando arremessadas.
 

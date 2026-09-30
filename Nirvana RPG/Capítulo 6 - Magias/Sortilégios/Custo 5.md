@@ -35,4 +35,4 @@ A condição de Exaustão pode ser curada por qualquer meio capaz de fazê-lo, m
 
 **Descrição:** Você conjura duas esferas de 1 metro de diâmetro, uma dourada e outra roxa. Cada esfera deve circular uma criatura diferente em todo momento que a Magia estiver ativa. A esfera dourada concede +5 em Fé ao alvo, e também concede Vantagem em qualquer Teste de Medicina que ele realizar. A esfera roxa concede ao alvo 20 de Vulnerabilidade a qualquer Dano Mágico, exceto aos tipos aos quais o alvo já seja Imune — nesses casos específicos a Vulnerabilidade não se aplica.
 
-O tempo de conjuração dessa Magia já engloba a escolha dos dois primeiros alvos, mas trocar de alvo custa uma Ação. Essa Magia se encerra automaticamente caso não hajam alvos disponíveis no combate, ou se você não selecionar um novo alvo para uma esfera desocupada até o final de seu Turno.
+O tempo de conjuração dessa Magia já engloba a escolha dos dois primeiros alvos, mas trocar de alvo custa uma Ação. Essa Magia se encerra automaticamente caso não haja alvos disponíveis no combate, ou se você não selecionar um novo alvo para uma esfera desocupada até o final de seu Turno.

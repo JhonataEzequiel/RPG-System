@@ -7,7 +7,7 @@ As Habilidades são subdivididas em grupos que correspondem a determinados arqu�
 
 Caso Habilidades diferentes te propiciem a mesma coisa, como por exemplo, adicionar um determinado Modificador aos Ataques, você irá fazer isso apenas uma vez. Você ainda pode usufruir dos efeitos das Habilidades que não se intersectam normalmente, mas aos que intersectam, você irá receber apenas um deles. Isso se aplica também a Vantagens (por exemplo, duas Habilidades diferentes que concedem Vantagem em um mesmo tipo de Teste) e Desvantagens. Caso uma Habilidade deixe você utilizar um determinado Modificador para algo, e outra deixe você utilizar o seu Atributo inteiro para aquilo, você utilizará apenas o Atributo.
 
-Existem Habilidades Passivas e Ativas. As Habilidades Passivas concedem alguma característica sem que você precisa fazer nada. Já as ativas requerem que você faça algo para que elas tenham efeito, normalmente custando Ações ou Mana. Algumas Habilidades podem conceder múltiplas passivas e ativas diferentes ao mesmo tempo, e misturar ambos os tipos em uma só.
+Existem Habilidades Passivas e Ativas. As Habilidades Passivas concedem alguma característica sem que você precise fazer nada. Já as ativas requerem que você faça algo para que elas tenham efeito, normalmente custando Ações ou Mana. Algumas Habilidades podem conceder múltiplas passivas e ativas diferentes ao mesmo tempo, e misturar ambos os tipos em uma só.
 
 Algumas Habilidades causam dano de alguma maneira, sendo consideradas Habilidades de Ataque. Nestes casos, a não ser que a própria Habilidade diga o contrário, será necessário rolar um Teste para acertá-lo, como em um Ataque comum. O Atributo usado no teste será:
 

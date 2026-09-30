@@ -55,7 +55,7 @@ Existem algumas interações possíveis entre os tipos de Dano Elementais, que v
 
 Um exemplo de forma com que esses efeitos podem ocorrer é: ao falhar criticamente em uma Salvaguarda para resistir a uma Magia que cause Dano de Fogo, o Mestre decide que a criatura alvo foi colocada em chamas. 
 
-A duração desses efeitos é até o fim do próximo Turno do inimigo, a não ser que seja dito o contrário, ou que o Mestre decida que o efeito durará mais tempo. Estes efeitos ocorrem uma única vez por instância, não podendo ser cumulativos em si mesmos. No entanto, um efeito diferente de outro podem se acumular.
+A duração desses efeitos é até o fim do próximo Turno do inimigo, a não ser que seja dito o contrário, ou que o Mestre decida que o efeito durará mais tempo. Estes efeitos ocorrem uma única vez por instância, não podendo ser cumulativos em si mesmos. No entanto, efeitos diferentes podem se acumular, com exceção de Encharcado e Em Chamas.
 
 | Situação          | Efeito                                                                                                                                                    |
 | ----------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |

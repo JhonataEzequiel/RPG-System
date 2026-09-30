@@ -51,7 +51,7 @@ Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá 
 
 ## Sobrevivente Sadio (Custo 1)
 
-Ao se alimentar, adicione +1d8 de Pontos de Vida Temporários até o fim do próximo Encontro. Você terá que consumir o equivalente a uma Ração de Viagem (disponível no Capítulo 4.12 - Outros Itens) para que essa Habilidade tenha efeito. Esse efeito é cumulativo até um máximo de 3d8. Uma vez atingido esse máximo, será necessário te rum Descanso Longo para ganhar novos Pontos de Vida Temporários.
+Ao se alimentar, adicione +1d8 de Pontos de Vida Temporários até o fim do próximo Encontro. Você terá que consumir o equivalente a uma Ração de Viagem (disponível no Capítulo 4.12 - Outros Itens) para que essa Habilidade tenha efeito. Esse efeito é cumulativo até um máximo de 3d8. Uma vez atingido esse máximo, será necessário ter um Descanso Longo para ganhar novos Pontos de Vida Temporários.
 
 ## Preparar Terreno (Custo 1)
 

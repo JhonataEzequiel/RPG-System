@@ -25,7 +25,7 @@ Para se livrar do Dano Contínuo os alvos precisarão estar fora da área de efe
 
 - Requisito em Inteligência: 2
 - Requisito em Fé: 2
-- Requisitos Adicionais: Você deve ter acesso a uma fonte de sangue que não provém de você ou de uma criatura que está em combate atualmente, como uma odre cheio de sangue. É necessário ao menos 1 litro de sangue.
+- Requisitos Adicionais: Você deve ter acesso a uma fonte de sangue que não provém de você ou de uma criatura que está em combate atualmente, como um odre cheio de sangue. É necessário ao menos 1 litro de sangue.
 - Duração: 3 Rodadas
 - Alcance: 18m + Deslocamento
 - Tempo de Conjuração: Três Ações
