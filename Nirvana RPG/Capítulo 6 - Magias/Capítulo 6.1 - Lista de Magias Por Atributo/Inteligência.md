@@ -51,8 +51,6 @@ Esquentar Metal: 1 de Inteligência. Elemental.
 
 Leitura Dinâmica: 1 de Inteligência. Imaculada.
 
-Campo Anti-Magia: 8 de Inteligência. Imaculada.
-
 Orbe Negro: 1 de Inteligência, 1 de Fé. Sortilégio.
 
 Anular Cheiro: 1 de Carisma ou Inteligência. Ilusão.
@@ -167,7 +165,7 @@ Golem de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
 
 ### Custo 5:
 
-Aljava Elemental: 5 de Inteligência. Elemental.
+Munição Elemental: 5 de Inteligência. Elemental.
 
 Troca: 5 de Inteligência. Imaculada.
 
@@ -272,6 +270,8 @@ Zumbi Conjurador: 7 de Fé, 7 de Inteligência. Sortilégio.
 ### Custo 8:
 
 Perseguidores: 8 de Inteligência, 8 de Fé. Sortilégio.
+
+Campo Anti-Magia: 8 de Inteligência. Imaculada.
 
 Aura Carismática: 8 de Inteligência ou Carisma. Ilusão.
 

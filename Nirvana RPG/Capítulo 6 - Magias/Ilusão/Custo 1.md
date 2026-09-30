@@ -8,7 +8,7 @@
 - Tempo de Conjuração: Duas Ações
 
 **Descrição:** Você tenta suprimir emoções fortes em um grupo de pessoas. Cada criatura com pelo menos -1 de Inteligência em uma esfera de 6 metros de raio, centrada em um ponto que você escolher dentro do alcance, deve realizar uma Salvaguarda de Carisma CD 10 + Car; uma criatura pode escolher falhar nesse Teste, se desejar. Se uma criatura falhar no Teste, escolha um dentre os dois efeitos a seguir:
-1. Você pode suprimir qualquer efeito que esteja deixando a criatura Enfeitiçada ou Amedrontada. Quando essa Magia terminar, qualquer efeito suprimido volta a funcionar, considerando que sua duração não tenha acabado nesse meio tempo.
+1. Você pode suprimir qualquer efeito que esteja deixando a criatura Encantada ou Amedrontada. Quando essa Magia terminar, qualquer efeito suprimido volta a funcionar, considerando que sua duração não tenha acabado nesse meio tempo.
 2. Você pode tornar um alvo indiferente às criaturas que você escolher que forem hostis a ele. Essa indiferença acaba se o alvo for Atacado, ferido por uma Magia, ou se ele testemunhar qualquer dos seus amigos sendo ferido. Quando a Magia terminar, a criatura se tornará hostil novamente.
 
 ### Anular Cheiro

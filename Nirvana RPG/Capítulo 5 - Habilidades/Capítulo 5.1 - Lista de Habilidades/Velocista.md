@@ -113,3 +113,11 @@ Caso você falhe em identificar o ponto Cego do alvo, você perde as três açõ
 **Custo**: Três Ações, toda a sua Mana com um mínimo de 10 pontos.
 
 Você se move tão rápido, e golpeia os inimigos com tanta ferocidade que seus golpes parecem feixes de luz. Você ataca todos os inimigos no alcance do seu Deslocamento ao mesmo tempo, causando o dano de três Ataques corpo a corpo em cada um deles. Você retorna para a sua posição inicial ao fim do seu Turno, e não ativa Ataques de Oportunidade. Essa Habilidade sempre acerta.
+
+## Monarca do Movimento (Custo 3)
+
+**Requisitos**: 10 de Destreza.
+**Custo**: Duas Ações, 10 de Mana.
+**Duração**: Até o início do seu próximo Turno.
+
+Você se concentra internamente, se preparando para arrancar. Seus reflexos também melhoram significativamente. Adicione +5 na sua CA, +5 em Salvaguardas de Destreza, e +9m de Deslocamento. Você ignora quaisquer penalidades de Deslocamento, independente da origem. Por último, a duração é estendida por mais um Turno caso você não sofra dano até o início do seu próximo Turno. Ela continua sendo estendida enquanto você cumprir essa condição.

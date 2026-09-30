@@ -7,8 +7,6 @@ Força Divina: 1 de Fé. Sagrada.
 
 Estabilizar: 1 de Fé. Sagrada.
 
-Benção: 1 de Fé. Sagrada.
-
 Dispensar Servos: 1 de Fé, 1 de Inteligência. Sortilégio.
 
 Consciência Sombria: 1 de Fé. Sortilégio.
@@ -26,6 +24,8 @@ Sombra Agente: 1 de Inteligência, 1 de Fé. Sortilégio.
 ### Custo 1:
 
 Cura Menor: 1 de Fé ou Carisma. Sagrada.
+
+Benção: 1 de Fé. Sagrada.
 
 Ajuda: 1 de Fé, 1 de Carisma. Imaculada.
 
@@ -71,7 +71,7 @@ Escuridão: 3 de Inteligência, 3 de Fé. Sortilégio.
 
 Arma Incorpórea: 3 de Inteligência ou Fé. Imaculada.
 
-Neutralizar Magia: 3 de Fé ou Carisma. Sagrada.
+Neutralizar Veneno: 3 de Fé ou Carisma. Sagrada.
 
 Zona da Verdade: 3 de Fé. Sagrada.
 
@@ -159,7 +159,7 @@ Floresta de Ossos: 7 de Inteligência, 7 de Fé. Sortilégio.
 
 Sutra: 7 de Fé. Sagrada.
 
-Singularidade Imerfeita: 7 de Fé, 7 de Inteligência. Sortilégio.
+Singularidade Imperfeita: 7 de Fé, 7 de Inteligência. Sortilégio.
 
 Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 
@@ -221,7 +221,7 @@ Sono de Séculos: 10 de Inteligência, 10 de Fé. Sortilégio.
 
 Magia Carmesim: 10 de Inteligência, 10 de Fé. Sangue.
 
-Buraco Negro: 10 de Inteligência, 10 de Fé. Sortilégio.
+Escuridão Eterna: 10 de Inteligência, 10 de Fé. Sortilégio.
 
 Realidade Sangrenta: 10 de Inteligência, 10 de Fé. Sangue.
 
