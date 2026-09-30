@@ -77,7 +77,7 @@ Você não pode alocar pontos além do Nível Máximo de um Atributo. No entanto
 
 Os Pontos pré-alocados não cumprem pré-requisitos de Habilidades, Magias, ou quaisquer outras mecânicas do jogo. No entanto, eles somam ao valor atual do Atributo para fins de Modificador e Bônus de Dano — ou seja, o Modificador do Atributo é calculado considerando os Pontos pré-alocados somados aos já alocados.
 
-Para Pontos de Vida e Mana, ainda que você tenha pré-alocado Pontos de Atributo em Constituição e Sabedoria, você utilizará o seu Dado de Vida e Mana atuais, mas o Modificador será atualizado, portanto você poderá adicionar ao cálculo de seus Pontos de Vida e Mana novos, ou os que forem restaurados em um Descanso Curto.
+Para Pontos de Vida, ainda que você tenha pré-alocado Pontos de Atributo em Constituição, você utilizará o seu Dado de Vida atual, mas o Modificador será atualizado, portanto você poderá adicionar ao cálculo de seus Pontos de Vida. Você também poderá utilizar o Modificador de Sabedoria atualizado para calcular sua Mana. Descansos Curtos também se beneficiam completamente pelos pontos Pré-alocados.
 
 ## Ganho de Perícias Adicionais
 

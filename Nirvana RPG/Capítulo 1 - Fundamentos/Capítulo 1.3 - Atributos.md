@@ -58,4 +58,4 @@ Os Modificadores serão valores derivados dos Atributos, correspondendo a metade
 
 Caso a sigla esteja em algum lugar das regras de algo, será o Modificador que deverá ser usado. Caso não, o Atributo em si é que contará.
 
-É possível que o jogador se depare com algo parecido com isso: "2d4 + Int ou Fth", isso significa que ele poderá escolher um dos dois Modificadores para usar.  Caso apareça algo como "2d4 + Int + Fth", os dois Modificadores deverão ser usados.
+É possível que você se depare com algo parecido com isso: "2d4 + Int ou Fth", isso significa que você poderá escolher um dos dois Modificadores para usar.  Caso apareça algo como "2d4 + Int + Fth", os dois Modificadores deverão ser usados.

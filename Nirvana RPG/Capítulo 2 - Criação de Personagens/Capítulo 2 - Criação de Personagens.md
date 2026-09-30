@@ -58,7 +58,7 @@ Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição.
 
 ## Pontos de Mana
 
-Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos Menores. Para tal, você receberá um Dado de Mana. O Dado de Mana funciona similarmente ao Dado de Vida, concedendo Mana adicional a cada Nível de Sabedoria. A quantidade de Magias e Arcanos Menores que você conhece também é ditada pelo seu Nível de Sabedoria.
+Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos Menores. Para tal, você utilizará Mana. A quantidade de Magias e Arcanos Menores que você conhece também é ditada pelo seu Nível de Sabedoria.
 
 Ao melhorar seu Atributo de Sabedoria, você poderá escolher novas Magias da Lista de Magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até Magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma Magia se não atender primeiro aos requisitos dela.
 

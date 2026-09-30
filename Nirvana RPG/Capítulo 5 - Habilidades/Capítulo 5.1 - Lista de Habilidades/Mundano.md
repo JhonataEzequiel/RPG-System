@@ -42,7 +42,7 @@ Você não ganha nada ao adquirir esta Habilidade, mas quando atingir Níveis su
 
 Devido a falta de especialização, você consegue fazer qualquer coisa um pouco melhor do que uma pessoa comum. No entanto, isso te impede de realmente ser o melhor em algo. Em troca, você recebe os seguintes bônus:
 1. 1d12 a mais para o Dado de Vida.
-2. 1d4 a mais para o Dado de Mana.
+2. 1d4 a mais de Mana permanentemente.
 3. Você tem +1 em todos os Testes de Resistência.
 4. Você causa +1 de dano sempre que causar dano, o dano adicional é igual a um dos causados pelo Ataque.
 5. Você ganha +1 Ponto de Atributo.

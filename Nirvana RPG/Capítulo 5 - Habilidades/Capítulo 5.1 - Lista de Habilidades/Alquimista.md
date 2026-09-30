@@ -19,15 +19,15 @@ Você agora consegue criar qualquer item mencionado na tabela de Itens Aplicáve
 **Custo**: Ação Livre, 3 de Mana.
 **Duração**: 5 Rodadas.
 
-Todas as vezes que causar Dano Ácido a um alvo, você pode forçá-lo a passar por uma Salvaguarda de Inteligência CD 12 + Int. Em caso de falha, o alvo não saberá a maneira correta de impedir que o ácido se alastre. O ácido começará a corroer o corpo do alvo, causando Dano Contínuo de Ácido de 1d12. Em caso de sucesso, nada acontece. Ele pode repetir a Salvaguarda no início de cada um dos Turnos dele, ao custo de uma Ação.
+Todas as vezes que causar Dano Ácido a um alvo, você pode forçá-lo a passar por uma Salvaguarda de Inteligência CD 12 + Int. Em caso de falha, o alvo não saberá a maneira correta de impedir que o ácido se alastre. O ácido começará a corroer o corpo do alvo, causando Dano Contínuo de Ácido de 1d12. Em caso de sucesso, nada acontece. Ele pode repetir a Salvaguarda no início de cada um dos Turnos dele, ao custo de uma Ação, impedindo o Dano Contínuo. Você só pode aplicar esse efeito uma vez por alvo.
 
 ## Lança Granadas (Custo 1)
 
 **Requisitos**: 3 de Destreza ou Força.
 
-Você agora escolhe se quer utilizar o Modificador de Força, o de Destreza, ou ambos para calcular a distância de arremesso. Além disso, você pode adicionar o Modificador de Força, de Destreza, ou ambos ao dano de Itens Arremessáveis. O dano adicional é do mesmo tipo causado pelo item.
+Você agora escolhe se quer utilizar o Modificador de Força, o de Destreza, ou ambos para calcular a distância de arremesso. Além disso, você pode adicionar o Modificador de Força, de Destreza, ou ambos ao dano de Itens Arremessáveis. O dano adicional é de um dos tipos capazes de serem causados pelo item.
 
-Ao atingir o Nível 8 em Força ou Destreza, o dano de Itens Arremessáveis aumenta em 1d8 do mesmo tipo causado pelo item. Este bônus se aplica ao Atributo que você escolher para o dano. Caso escolha os dois, ambos devem estar no Nível 8 para que isso aconteça.
+Ao atingir o Nível 8 em Força ou Destreza, o dano de Itens Arremessáveis aumenta em 1d8 do mesmo tipo escolhido anteriormente para os bônus dos Modificadores. Este bônus se aplica ao Atributo que você escolher para o dano. Caso escolha os dois, ambos devem estar no Nível 8 para que isso aconteça.
 
 A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não pode ser desfeita.
 
@@ -39,17 +39,17 @@ A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não 
 
 Você adiciona 1d12 de Dano Ácido a todos os seus Ataques. Você pode escolher desativar essa Habilidade com uma Ação Livre.
 
-## Bomba Benéfica (Custo 1)
-
-**Requisitos**: 1 de Destreza ou Força.
-
-Você agora pode arremessar Poções, que caem em um local, afetando uma área circular de 3m de raio. Poções de Restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 Pontos de Vida. Outras Poções são de alvo único, e a duração delas é de uma Rodada, mesmo que na descrição o item diga que é maior.
-
 ## Alquimista Iniciante (Custo 1)
 
 **Requisitos**: 2 de Inteligência. Um Almofariz e ao menos um Frasco de Poção.
 
 Você consegue agora criar Poções e Venenos. O custo em moedas para criar as Poções ou Venenos é metade do custo padrão delas. O tempo para criar uma Poção ou Veneno é de 30 minutos. Ao criar qualquer Poção ou Veneno, o Frasco de Poção é gasto. Ele não é recuperado após o uso, pois conterá impurezas que impedirão a confecção de novas Poções.
+
+## Bomba Benéfica (Custo 1)
+
+**Requisitos**: Habilidade "Alquimista Iniciante" de Custo 1. 1 de Destreza ou Força.
+
+Você agora pode arremessar as Poções que você cria. Elas caem em um local no alcance da sua distância de arremesso, afetando uma área circular de 3m de raio. Poções de Restauração podem afetar múltiplos alvos, curando-os na metade da cura total, após rolar os dados e calcular o resultado. A cura por alvo não pode exceder 10 Pontos de Vida. Outras Poções são de alvo único, e a duração delas é de uma Rodada, mesmo que na descrição o item diga que é maior.
 
 ## Calcinação (Custo 1)
 
@@ -57,19 +57,19 @@ Você consegue agora criar Poções e Venenos. O custo em moedas para criar as P
 **Duração**: 1 Encontro.
 **Custo**: Ação Livre.
 
-Você pode ativar ou desativar essa Habilidade com uma Ação Livre. Enquanto ativada, se você tomar uma Poção, seu sangue correrá mais rápido pelo seu corpo, e começará a esquentar. Você recebe 1d4 de Dano de Fogo. Em troca, todo o Dano Físico causado por você aumenta em 1d6, incluindo Dano Venenoso e Ácido. Esse efeito é cumulativo até um máximo de 3d6, e o dano adicional será um dos tipos capazes de ser causados pela sua Arma, desde que seja Físico, à sua escolha.
+Você pode ativar ou desativar essa Habilidade com uma Ação Livre. Enquanto ativada, se você tomar uma Poção, seu sangue correrá mais rápido pelo seu corpo, e começará a esquentar. Você recebe 1d4 de Dano de Fogo. Em troca, todo o Dano Físico causado por você aumenta em 1d6. Esse efeito é cumulativo até um máximo de 3d6, e o dano adicional será um dos tipos capazes de ser causados pela sua Arma, desde que seja Físico, à sua escolha.
 
 ## Dissolução (Custo 1)
 
 **Requisitos**: 3 de Inteligência. Um Almofariz.
 
-Você agora pode misturar duas Resinas em uma só enquanto estiver fora de combate. Você leva 10 minutos para fazer isso, e a Resina resultante tem o efeito das duas anteriores, e o peso de apenas uma. Você não gasta recursos adicionais para isso.
+Você agora pode misturar duas Resinas em uma só enquanto estiver fora de combate. Você leva 10 minutos para fazer isso, e a Resina resultante tem o efeito das duas anteriores, e o peso de apenas uma. Você não gasta recursos adicionais para isso. Você poderá misturar uma terceira Resina junto às outras duas uma vez que seu Atributo de Inteligência atingir o Nível 10.
 
 ## Mestre em Explosões (Custo 2)
 
 **Requisitos**: Habilidade "Lança Granadas" de Custo 1.
 
-Seus Itens Arremessáveis que causam dano agora possuem Escalas similar as Armas, recebendo os mesmos benefícios que elas. No entanto, os benefícios do Nível 10 de um Atributo nas Escalas é substituído por dano adicional igual ao valor para acertar os Ataques descrito na tabela de Escalas.
+Seus Itens Arremessáveis que causam dano agora possuem Escalas similar as das Armas, recebendo os mesmos benefícios que elas. No entanto, os benefícios do Nível 10 de um Atributo nas Escalas é substituído por dano adicional igual ao valor para acertar os Ataques descrito na tabela de Escalas. O dano adicional das Escalas será um dos tipos capazes de serem causados pelo Item Arremessável em questão.
 
 Você escolhe se as Escalas serão em Força, Destreza, ou em ambos os Atributos. Inicialmente, as Escalas serão D em ambos. Ao atingir o Nível 3 de personagem, elas sobem para C. No Nível 6, B. No Nível 12, A. E no Nível 17, S.
 
@@ -77,17 +77,18 @@ Você escolhe se as Escalas serão em Força, Destreza, ou em ambos os Atributos
 
 **Requisitos**: 4 de Inteligência.
 
-Sempre que você diminuir a CA de um alvo através de Dano Ácido, diminua ela em 1 ponto a mais. Alvos que não possuem Armadura de metal também tem sua CA diminuída sempre que uma instância de Dano Ácido puder diminuir a CA.
+Sempre que você diminuir a CA de um alvo através de Dano Ácido, diminua ela em 1 ponto a mais. Alvos que não possuem Armadura de metal também tem sua CA diminuída sempre que uma instância de Dano Ácido puder diminuir a CA, no entanto você diminuirá apenas 1 ponto.
 
 ## Químico Destruidor (Custo 2)
 
 **Requisitos**: Habilidade "Artesão de Itens Aplicáveis" de Custo 1. 4 de Inteligência.
 **Custo**: Uma Ação.
 **Alcance**: Toque.
+**Duração**: 1 Encontro.
 
-Você consegue coletar materiais do ambiente ao longo do dia naturalmente, desde que não esteja com nenhum Nível de Exaustão. Ao ter um Descanso Longo, esses materiais são utilizados para criar uma nova Resina, a Resina Ácida. Ao aplicar em uma Armadura, independente do material, ela começará a derreter. Você diminui 1 na CA do alvo ao final de cada um de seus Turnos, até um máximo de 5.
+Você consegue coletar materiais do ambiente ao longo do dia naturalmente, desde que não esteja com nenhum Nível de Exaustão. Ao ter um Descanso Longo, esses materiais são utilizados para criar uma nova Resina, a Resina Ácida. Ao aplicá-la em uma Armadura feita de metal ela começará a derreter. Você diminui 1 na CA do alvo ao final de cada um de seus Turnos, até um máximo de 5.
 
-Para aplicar a Resina em combate você precisará passar por uma Salvaguarda de Destreza CD 15 - Int. Em caso de falha, você fica sujeito a um Ataque de Oportunidade. O efeito é permanente, mas você não pode aplicar duas Resinas Ácidas no mesmo item. O máximo de Resinas Ácidas carregadas ao mesmo tempo será 3, e você fabrica uma Resina por Descanso Longo. O peso dela é 0.1 kg, e pode ser vendida caso você convença alguém a comprar.
+Para aplicar a Resina em combate você precisará passar por uma Salvaguarda de Destreza CD 15 - Int. Em caso de falha, você fica sujeito a um Ataque de Oportunidade. Você não pode aplicar duas Resinas Ácidas no mesmo item, ao mesmo tempo. O máximo de Resinas Ácidas carregadas ao mesmo tempo será 3, e você fabrica uma Resina por Descanso Longo. O peso dela é 0.1 kg, e pode ser vendida caso você convença alguém a comprar. O preço sugerido de venda é de 3po.
 
 ## Diário de um Alquimista (Custo 2)
 
@@ -95,7 +96,7 @@ Para aplicar a Resina em combate você precisará passar por uma Salvaguarda de 
 
 Você coleta materiais durante sua jornada. Ao ter um Descanso Longo, você poderá utilizar esses materiais coletados para criar qualquer Item Arremessável, Aplicável, ou Poções e Venenos, de acordo com as Habilidades que você tem relacionadas a criação desse tipo de Item que são requisitos dessa Habilidade.
 
-Basicamente, qualquer item do Capítulo 4.6 - Lista de Itens Aplicáveis ao Capítulo 4.8 - Lista de Poções e Venenos pode ser criado. A quantidade de moedas necessárias para a criação desses itens, em po, é diminuída em um valor igual ao seu Bônus de Natureza. A quantidade de itens criados por Descanso Longo é igual ao seu Bônus de Proficiência, e o tempo para criar um item é o mesmo dito em cada uma das respectivas Habilidades. Os itens escolhidos não podem custar mais do que 7po individualmente.
+Basicamente, qualquer item do Capítulo 4.6 - Lista de Itens Aplicáveis ao Capítulo 4.8 - Lista de Poções e Venenos pode ser criado. A quantidade de moedas necessárias para a criação desses itens, em po, é diminuída em um valor igual ao seu Bônus de Natureza. A quantidade de itens criados por Descanso Longo é igual ao seu Bônus de Proficiência, e o tempo para criar um item é o mesmo dito em cada uma das respectivas Habilidades. Os itens criados através desta Habilidade não podem custar mais do que 7po individualmente.
 
 ## Peçonha Instantânea (Custo 2)
 
@@ -128,16 +129,16 @@ Também é possível criar seus próprios Itens Mágicos (desde que seja Arremes
 
 **Requisitos**: Habilidade "Alquimista Supremo" de Custo 3.
 
-Você agora pode juntar os efeitos de múltiplas Poções em uma só. Para cada efeito que você quiser, terá que somar os custos (lembrando que você gasta apenas metade dos custos em materiais, então somará as metades de cada Poção). A Poção resultante concederá todos os bônus individuais ao ser consumida. Para misturar duas Poções é necessário um novo frasco, e os dois utilizados pelas Poções anteriormente são descartados.
+Você agora pode juntar os efeitos de múltiplas Poções em uma só. Para cada efeito que você quiser, terá que somar os custos (lembrando que você gasta apenas metade dos custos em materiais, então somará as metades de cada Poção). A Poção resultante concederá todos os bônus individuais ao ser consumida. Para misturar duas Poções é necessário um novo Frasco de Poção, e os dois utilizados pelas Poções anteriormente são descartados. O limite de Poções misturadas ao mesmo tempo é de 6.
 
 De maneira análoga, você pode juntar os efeitos de múltiplos Venenos ao mesmo tempo, mas não poderá somar o dano deles. O dano que prevalecerá será o do maior. No entanto, todos os Venenos que você criar a partir de agora causarão 2d8 a mais de Dano Venenoso Contínuo, caso você deseje.
 
 ## Chuva de Bençãos (Custo 3)
 
-**Requisitos**: Habilidade "Bomba Benéfica" de Custo 1. 5 de Fé ou Carisma.
+**Requisitos**: Habilidade "Bomba Benéfica" de Custo 1.
 **Custo**: 3 de Mana.
 
-Sempre que arremessar uma Poção de Restauração, você curará o valor padrão da poção, removendo o teto anterior de 10 pontos máximos curados. Você pode gastar três Ações para curar o valor máximo da poção, independente da quantidade de alvos.
+Sempre que arremessar uma Poção de Restauração, você curará o valor padrão da Poção, removendo o teto anterior de 10 pontos máximos curados. Você pode gastar três Ações para curar o valor máximo da poção, independente da quantidade de alvos.
 
 ## Podridão (Custo 3)
 
@@ -157,17 +158,17 @@ Seu corpo também se torna particularmente resistente a efeitos negativos advind
 
 **Requisitos**: Habilidade "Químico Destruidor" de Custo 2.
 
-Você agora pode criar múltiplas Resinas Ácidas por Descanso Longo. A quantidade de Resinas Ácidas criadas será igual ao seu Modificador de Inteligência. O máximo de Resinas Ácidas carregadas ao mesmo tempo será 10.
+Você agora pode criar múltiplas Resinas Ácidas por Descanso Longo. A quantidade de Resinas Ácidas criadas será igual ao seu Modificador de Inteligência. O máximo de Resinas Ácidas carregadas ao mesmo tempo será aumentado para 10.
 
 ## Químico Radioativo (Custo 3)
 
 **Requisitos**: Habilidade "Químico Destruidor" de Custo 2. 10 de Inteligência.
 
-O limite de CA diminuída aumenta para 7, e você também pode passar a Resina Ácida em Armas dos seus oponentes. Ao fazer isso, você diminui o dano causado por ele com aquela Arma em 3d8 + Int.
+O limite de CA diminuída aumenta para 7, e você também pode passar a Resina Ácida em Armas dos seus oponentes. Ao fazer isso, você diminui o dano causado por ele com aquela Arma em 3d8 + Int. Você também terá que passar pela Salvaguarda de Destreza para isso.
 
 ## Transmutar (Custo 3)
 
 **Requisitos**: Habilidade "Alquimista Supremo" de Custo 3.
 **Custo**: Reação.
 
-Você troca o tipo de dano de uma instância de dano causada por você por qualquer tipo que você escolher entre Dano Físico e Elemental. Essa Habilidade deve ser usada em conjunto com a instância de dano em si, e só pode ser usada uma vez por Descanso Curto.
+Você troca o tipo de dano de uma instância de dano causada por você por qualquer tipo que você escolher entre Dano Físico, Elemental, Ácido, ou Venenoso. Essa Habilidade deve ser usada em conjunto com a instância de dano em si, e só pode ser usada uma vez por Encontro.

@@ -162,7 +162,7 @@ Golpeia um alvo com toda a sua Força, afetando o psicológico e a alma dele al�
 
 **Requisitos**: 8 de Força.
 
-Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como atordoar um inimigo, você ignora esse efeito em troca de causar mais dano. O dano adicional será Força + Bônus de Proficiência + 2d8. O dano adicional será de um dos tipos que sua Arma é capaz de causar, à sua escolha.
+Se qualquer Habilidade de Ataque sua tiver um efeito secundário, como Atordoar um inimigo, ou derrubá-lo, você ignora esse efeito em troca de causar mais dano. Essa Habilidade não se aplica a efeitos secundários que causem mais dano. O dano adicional será Força + Bônus de Proficiência + 2d8. O dano adicional será de um dos tipos que sua Arma é capaz de causar, à sua escolha.
 
 ## Diamante (Custo 3)
 
