@@ -17,7 +17,7 @@ Caso você comande a criatura a entrar em combate contra um inimigo, ela decidir
 - Alcance: 36m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você escolhe um local dentro do alcance. Uma ajuda divina vem ao seu chamado, afetando uma área circular de 9m de raio com o centro sendo o local escolhido. Depois de duas Rodadas, todos as criaturas se curam em 8d12 + Fth. Enquanto mortos-vivos tomam 2d8 + Fth de Dano Radiante, e tem o Deslocamento reduzido em 3m por duas Rodadas. 
+**Descrição:** Você escolhe um local dentro do alcance. Uma ajuda divina vem ao seu chamado, afetando uma área circular de 9m de raio com o centro sendo o local escolhido. Depois de duas Rodadas, todas as criaturas se curam em 8d12 + Fth. Enquanto mortos-vivos tomam 2d8 + Fth de Dano Radiante, e tem o Deslocamento reduzido em 3m por duas Rodadas. 
 
 ### Ritmo de Cura
 

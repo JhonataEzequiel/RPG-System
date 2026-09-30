@@ -19,7 +19,7 @@ Você pode executar essa Magia, uma vez conjurada, até 3 vezes seguidas, enquan
 - Alcance: 18m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você cria uma pequena rosa a partir de seu sangue, e o transmuta para uma substância venenosa que torna a cor da flor em branca. Após isso, você arremessa a rosa contra um inimigo fazendo uma jogada de ataque utilizando Int e Fth como bônus contra a CA do inimigo. Caso você erre, o custo dessa Magia será apenas de 2 de Mana, mas você estará sujeito as penalidades de Ação para conjurar essa Magia novamente, ou realizar um Ataque Físico qualquer.
+**Descrição:** Você cria uma pequena rosa a partir de seu sangue, e o transmuta para uma substância venenosa que torna a cor da flor em branca. Após isso, você arremessa a rosa contra um inimigo fazendo uma jogada de ataque utilizando Int e Fth como bônus contra a CA do inimigo. Caso você erre, o custo dessa Magia será apenas de 2 de Mana, mas você estará sujeito às penalidades de Ação para conjurar essa Magia novamente, ou realizar um Ataque Físico qualquer.
 
 Em caso de acerto, a rosa irá se fincar no inimigo e começará a sugar o sangue dele ao mesmo tempo que o envenena. A coloração dela aos poucos se torna vermelha, simbolizando a passagem do sangue venenoso para o corpo do alvo, e a transferência do sangue dele para a rosa. O alvo toma 1d6 + Int + Fth de Dano Verdadeiro de Sangue Contínuo até o final do Encontro, que aumenta em 1d6 por Rodada até um teto de 5d6 + Int + Fth no total. O alvo também receberá 1d8 + Int + Fth de Dano Venenoso Contínuo até o fim da duração da Magia. Caso o alvo venha a morrer em combate com a rosa no peito, ela alcançará uma coloração completamente vermelha, e a pele do alvo ficará alva como a neve. 
 

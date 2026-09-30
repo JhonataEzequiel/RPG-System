@@ -9,4 +9,4 @@ Celestial: falado por Anjos e seres celestes num geral.
 Anão: falado pelo povo Anão.
 Orquídeo: falado por Orcs e Goblinóides. 
 
-Para adquirir novos idiomas além dos que você possuí naturalmente, você precisará ser perito na Perícia "Linguística".
+Para adquirir novos idiomas além dos que você possui naturalmente, você precisará ser perito na Perícia "Linguística".

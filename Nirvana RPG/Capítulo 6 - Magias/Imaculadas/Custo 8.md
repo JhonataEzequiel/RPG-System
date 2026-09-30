@@ -6,7 +6,7 @@
 - Alcance: 18m + Deslocamento
 - Tempo de Conjuração: Uma, Duas, ou Três Ações
 
-**Descrição:** Você aponta para um local vazio dentro do alcance desta Magia. Uma área circular é cercada por uma espécie de gás branco semitransparente e sem cheiro. Todos as criaturas dentro da área não poderão conjurar quaisquer Magias e Arcanos Menores. Qualquer criatura pode sair ou entrar na área livremente, mas ao sair delas terão -5 em Testes de Inteligência enquanto a Magia durar. Caso uma criatura saia e entre várias vezes na área a penalidade acumula, adicionando -5 em todas as vezes. Caso uma Magia já esteja ativa, como uma Magia que altere o terreno, ela é desfeita, desde que a duração dela seja menor que uma hora.
+**Descrição:** Você aponta para um local vazio dentro do alcance desta Magia. Uma área circular é cercada por uma espécie de gás branco semitransparente e sem cheiro. Todas as criaturas dentro da área não poderão conjurar quaisquer Magias e Arcanos Menores. Qualquer criatura pode sair ou entrar na área livremente, mas ao sair delas terão -5 em Testes de Inteligência enquanto a Magia durar. Caso uma criatura saia e entre várias vezes na área a penalidade acumula, adicionando -5 em todas as vezes. Caso uma Magia já esteja ativa, como uma Magia que altere o terreno, ela é desfeita, desde que a duração dela seja menor que uma hora.
 
 A área que esta Magia ocupará será decidida pela quantidade de Ações que você deseja gastar ao conjurá-la. Caso gaste Uma Ação, a área terá um raio de 4.5m. Caso gaste Duas Ações, será de 12m. Caso gaste Três Ações, será de 24m.
 

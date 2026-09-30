@@ -9,7 +9,7 @@
 
 Você pode aumentar em 1d8 a cura total por Ponto de Mana adicional gasto.
 
-### Benção
+### Bênção
 
 - Requisito em Fé: 1
 - Duração: 1 Encontro
@@ -43,6 +43,6 @@ Você pode aumentar em 1d8 a cura total por Ponto de Mana adicional gasto.
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você conjura um pequeno domo em formato circular. O domo ignora estruturas, e é tratado como intangível por elas. Ele tem uma aparência translúcida azul, formado por pequenos hexágonos. Você pode escolher o tamanho do raio desse domo, que será centrado em você, até um máximo de 18m de raio. Quaisquer ataques vindos de fora do domo acertam ele ao invés do interior. O domo possui 10 Pontos de Vida iniciais, e 10 pontos a mais para cada ponto no Modificador de Fé ou Carisma, e não possuí CA. Você sofre Desvantagem em salvaguardas de Destreza enquanto o domo estiver ativo. Magias de dano que precisem te acertar com um projétil, como Bola de Fogo, causarão o dano máximo possível de seus dados ao domo, mas não afetarão o interior, a não ser que sejam múltiplos projéteis. Nesse caso, o domo protegerá enquanto tiver pelo menos 1 Ponto de Vida restante.
+**Descrição:** Você conjura um pequeno domo em formato circular. O domo ignora estruturas, e é tratado como intangível por elas. Ele tem uma aparência translúcida azul, formado por pequenos hexágonos. Você pode escolher o tamanho do raio desse domo, que será centrado em você, até um máximo de 18m de raio. Quaisquer ataques vindos de fora do domo acertam ele ao invés do interior. O domo possui 10 Pontos de Vida iniciais, e 10 pontos a mais para cada ponto no Modificador de Fé ou Carisma, e não possui CA. Você sofre Desvantagem em salvaguardas de Destreza enquanto o domo estiver ativo. Magias de dano que precisem te acertar com um projétil, como Bola de Fogo, causarão o dano máximo possível de seus dados ao domo, mas não afetarão o interior, a não ser que sejam múltiplos projéteis. Nesse caso, o domo protegerá enquanto tiver pelo menos 1 Ponto de Vida restante.
 
 Você pode aumentar os Pontos de Vida do domo gastando Pontos de Mana adicionais. Para cada Ponto de Mana adicional, adicione 10 Pontos de Vida ao domo.

@@ -25,7 +25,7 @@ Sombra Agente: 1 de Inteligência, 1 de Fé. Sortilégio.
 
 Cura Menor: 1 de Fé ou Carisma. Sagrada.
 
-Benção: 1 de Fé. Sagrada.
+Bênção: 1 de Fé. Sagrada.
 
 Ajuda: 1 de Fé, 1 de Carisma. Imaculada.
 

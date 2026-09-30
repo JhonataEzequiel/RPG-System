@@ -84,7 +84,7 @@ Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode
 
 Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, com um mínimo de duas. As Perícias em si estão detalhadas no Capítulo 2.1 - Perícias.
 
-Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, ao troco de 1 Ponto de Habilidade por tipo. Alternativamente, caso esteja criando seu personagem, pode escolher um novo tipo de arma para ser Proficiente ao invés de uma das 7 Habilidades de Custo 1 que você pode escolher (pode ter quantas Proficiências quiser ao troco de mais Habilidades).
+Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, em troca de 1 Ponto de Habilidade por tipo. Alternativamente, caso esteja criando seu personagem, pode escolher um novo tipo de arma para ser Proficiente ao invés de uma das 7 Habilidades de Custo 1 que você pode escolher (pode ter quantas Proficiências quiser ao troco de mais Habilidades).
 
 Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Proficiente em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
 

@@ -1,5 +1,5 @@
 
-Os Humanos são mais versáteis que qualquer outra Raça. No entanto, não tem um caminho definido. Eles vem em diversas formas e aparências.
+Os Humanos são mais versáteis que qualquer outra Raça. No entanto, não têm um caminho definido. Eles vêm em diversas formas e aparências.
 
 ### Versatilidade Inata
 

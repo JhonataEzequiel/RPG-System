@@ -49,7 +49,7 @@ Toda sua habilidade com piromancia o fez gostar cada vez mais das chamas. No ent
 
 **Frenesi** (Passiva): Ao utilizar Canalizar três vezes, você terá a Condição Amedrontado até o início do seu próximo Turno, e após isso, entrará em Frenesi. O estado de Frenesi dura até o final do Encontro. Repõe com um Descanso Longo. Enquanto em Frenesi, todo Dano de Fogo que causar causará 1d4 a mais, que se acumula conforme você causa Dano de Fogo. Esse efeito dura até o Encontro acabar.
 
-**Canalizar** (Reação, 1 de Mana): Ao causar Dano de Fogo a uma criatura alvo, você adiciona metade do seu Nível ao dano. Caso você esteja em Frenesi, pode optar por fazer o alvo passar por um Teste de Resistência de Sabedoria CD 8 + Int + Sab ao troco de 2 Pontos de Mana adicionais. Em caso de falha, o alvo tem a Condição Amedrontado até o início do próximo Turno dele. Em caso de sucesso, recebe apenas o dano extra.
+**Canalizar** (Reação, 1 de Mana): Ao causar Dano de Fogo a uma criatura alvo, você adiciona metade do seu Nível ao dano. Caso você esteja em Frenesi, pode optar por fazer o alvo passar por um Teste de Resistência de Sabedoria CD 8 + Int + Sab em troca de 2 Pontos de Mana adicionais. Em caso de falha, o alvo tem a Condição Amedrontado até o início do próximo Turno dele. Em caso de sucesso, recebe apenas o dano extra.
 
 ## Determinação de Fogo (Custo 3)
 

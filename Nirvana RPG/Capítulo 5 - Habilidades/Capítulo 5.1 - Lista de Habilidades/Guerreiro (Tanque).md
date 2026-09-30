@@ -224,7 +224,7 @@ Você tem uma Reação adicional em todas as Rodadas, mas ela só pode ser usada
 
 **Requisitos**: 10 em Constituição, 10 em qualquer outro Atributo.
 
-Quando você estiver sob o efeito de uma Condição negativa, você não sofrerá mais Desvantagens em nada, nem mesmo se essas Desvantagens forem advindas de outras fontes que não são a Condição em si. Todas as vezes que você iria receber uma Desvantagem, agora você terá Vantagem no lugar. Isso incluí Desvantagens impostas pela Condição negativa que te afligir. No entanto, você sofre 1d6 de Dano Verdadeiro Contínuo ao final dos seus Turnos enquanto a Condição durar.
+Quando você estiver sob o efeito de uma Condição negativa, você não sofrerá mais Desvantagens em nada, nem mesmo se essas Desvantagens forem advindas de outras fontes que não são a Condição em si. Todas as vezes que você iria receber uma Desvantagem, agora você terá Vantagem no lugar. Isso inclui Desvantagens impostas pela Condição negativa que te afligir. No entanto, você sofre 1d6 de Dano Verdadeiro Contínuo ao final dos seus Turnos enquanto a Condição durar.
 
 ## Parrudo (Custo 3)
 

@@ -60,7 +60,7 @@ Você pode fazer isso uma vez por Descanso Longo. A Habilidade usada não pode s
 **Requisitos**: 1 de Carisma ou Fé, 3 de Constituição.
 **Duração**: Até o próximo Descanso Curto ou Longo.
 
-Você não mais dorme quando tem um Descanso qualquer, mas ainda se recupera normalmente apenas meditando. Você se torna Imune à Condição Inconsciente. Além disso, você pode gastar 10 de Mana quando estiver tendo um Descanso Longo para sonhar acordado. Você fecha seus olhos e imagina cenários que normalmente só apareceriam em sonhos. Fazendo isso, você agora possuí uma força intrínseca contra fontes de Dano Psíquico e de controle mental. Você pode compartilhar esse seu conhecimento com mais 2 outras criaturas, contando o sonho que teve. Ao fazer isso, tanto você quanto as criaturas alvo terão 10 de Resistência a Dano Psíquico, e serão imunes a Condição Inconsciente. Você recupera 3 de Mana para cada criatura escolhida.
+Você não mais dorme quando tem um Descanso qualquer, mas ainda se recupera normalmente apenas meditando. Você se torna Imune à Condição Inconsciente. Além disso, você pode gastar 10 de Mana quando estiver tendo um Descanso Longo para sonhar acordado. Você fecha seus olhos e imagina cenários que normalmente só apareceriam em sonhos. Fazendo isso, você agora possui uma força intrínseca contra fontes de Dano Psíquico e de controle mental. Você pode compartilhar esse seu conhecimento com mais 2 outras criaturas, contando o sonho que teve. Ao fazer isso, tanto você quanto as criaturas alvo terão 10 de Resistência a Dano Psíquico, e serão imunes a Condição Inconsciente. Você recupera 3 de Mana para cada criatura escolhida.
 
 ## Puro Suporte (Custo 2)
 

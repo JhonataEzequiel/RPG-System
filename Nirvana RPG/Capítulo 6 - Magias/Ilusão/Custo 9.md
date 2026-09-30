@@ -35,4 +35,4 @@ O alvo fica Incapacitado pela duração, e não pode se libertar por conta próp
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você cria uma ilusão de uma figura feita de argila que aparece em um local adjacente a você. Todos os inimigos no alcance terão que passar em um Teste de Resistência de Fé CD 13 + Int + Car. Em caso de falha, a ilusão os impede de sequer olhar para sua direção, anulando Ataques direcionados a você. Uma criatura afetada pode realizar o Teste novamente no início de cada um dos Turnos dela, ao troco de duas Ações.
+**Descrição:** Você cria uma ilusão de uma figura feita de argila que aparece em um local adjacente a você. Todos os inimigos no alcance terão que passar em um Teste de Resistência de Fé CD 13 + Int + Car. Em caso de falha, a ilusão os impede de sequer olhar para sua direção, anulando Ataques direcionados a você. Uma criatura afetada pode realizar o Teste novamente no início de cada um dos Turnos dela, em troca de duas Ações.

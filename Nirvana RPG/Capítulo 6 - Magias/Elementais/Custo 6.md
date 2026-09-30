@@ -6,7 +6,7 @@
 - Alcance: 48m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Cria uma nuvem negra em formato circular com 12m de raio à 18m do chão, no alcance da Magia, que faz chover magma no local. Caso uma criatura termine o Turno dela de baixo dessa nuvem, ela recebe 5d12 + Int de Dano de Fogo. No início do seu próximo Turno, a área abaixo da nuvem se tornará Terreno Difícil.
+**Descrição:** Cria uma nuvem negra em formato circular com 12m de raio a 18m do chão, no alcance da Magia, que faz chover magma no local. Caso uma criatura termine o Turno dela debaixo dessa nuvem, ela recebe 5d12 + Int de Dano de Fogo. No início do seu próximo Turno, a área abaixo da nuvem se tornará Terreno Difícil.
 
 Você pode gastar pontos adicionais de mana para aumentar o raio da Magia em 3 metros por ponto gasto, até um máximo de 12 metros adicionais.
 
@@ -17,7 +17,7 @@ Você pode gastar pontos adicionais de mana para aumentar o raio da Magia em 3 m
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** O chão abaixo dos seus pés é temporariamente congelado, o que torna possível que você pise no ar e gere um caminho de gelo. O caminho de gelo se forma a medida que você caminha. O comprimento máximo do caminho é o seu Deslocamento dobrado, ou seja, você poderá andar o dobro do seu Deslocamento neste Turno, e sua espessura é de 6m. Quaisquer aliados que passarem pelo caminho tem o Deslocamento dobrado também. No entanto, para os inimigos o caminho é considerado Terreno Difícil. Você decide quem é aliado ou inimigo.
+**Descrição:** O chão abaixo dos seus pés é temporariamente congelado, o que torna possível que você pise no ar e gere um caminho de gelo. O caminho de gelo se forma à medida que você caminha. O comprimento máximo do caminho é o seu Deslocamento dobrado, ou seja, você poderá andar o dobro do seu Deslocamento neste Turno, e sua espessura é de 6m. Quaisquer aliados que passarem pelo caminho tem o Deslocamento dobrado também. No entanto, para os inimigos o caminho é considerado Terreno Difícil. Você decide quem é aliado ou inimigo.
 
 No Nível 10 de Inteligência essa Magia causará 3d8 + Int de Dano de Gelo a qualquer criatura que terminar o Turno no caminho e que seja considerada inimiga. 
 

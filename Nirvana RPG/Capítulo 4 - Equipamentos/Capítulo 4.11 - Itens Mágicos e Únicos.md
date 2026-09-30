@@ -5,7 +5,7 @@ Alguns itens são particularmente únicos e raros, ou possuem propriedades mági
 
 ## Joia de Resistência
 
-Bijuteria qualquer, como um anel ou colar, que possuí em sua confecção ou adorno uma pedra preciosa, e Mana infundida em sua criação. Dependendo da pedra utilizada, concede Resistência mágica a um tipo de dano mágico em específico. O preço do item em si pode variar bastante, dependendo da raridade e do exemplar da pedra preciosa utilizada. Por exemplo, se for utilizado um diamante particularmente raro, a joia pode custar muito mais caro. Seu efeito mágico, no entanto, não muda. Custam entre 30pl até 10000pl. Em média, custam 35pl. O peso da bijuteria pode variar entre 0.1 kg até 3 kg, a depender do que foi utilizado além da joia núcleo.
+Bijuteria qualquer, como um anel ou colar, que possui em sua confecção ou adorno uma pedra preciosa, e Mana infundida em sua criação. Dependendo da pedra utilizada, concede Resistência mágica a um tipo de dano mágico em específico. O preço do item em si pode variar bastante, dependendo da raridade e do exemplar da pedra preciosa utilizada. Por exemplo, se for utilizado um diamante particularmente raro, a joia pode custar muito mais caro. Seu efeito mágico, no entanto, não muda. Custam entre 30pl até 10000pl. Em média, custam 35pl. O peso da bijuteria pode variar entre 0.1 kg até 3 kg, a depender do que foi utilizado além da joia núcleo.
 
 | Pedra Preciosa | Efeito                            |
 | -------------- | --------------------------------- |
@@ -23,7 +23,7 @@ Restaura completamente os Pontos de Vida ou Mana (dependendo do tipo) quando con
 
 Pequena semente que, quando ingerida, diminui o custo de Magias sagradas em 2 pontos. Essa diminuição de custo atua somente nas três próximas Magias conjuradas por aquele que a ingeriu.
 
-Dizem que a muito tempo atrás essas raras sementes brotaram de árvores agora extintas. Devido as mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 500pl. Pesa apenas 0.1 kg.
+Dizem que a muito tempo atrás essas raras sementes brotaram de árvores agora extintas. Devido às mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 500pl. Pesa apenas 0.1 kg.
 
 ## Manto Mágico
 

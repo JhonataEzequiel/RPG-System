@@ -50,7 +50,7 @@ Você poderá escolher qualquer uma das Perícias a seguir, seguindo as regras d
 
 ## Percepção Passiva
 
-A Percepção Passiva determinará se você irá notar diferentes coisas que estarão ocultas a princípio de maneira passiva, como por exemplo, Armadilhas. Caso um inimigo deseje estar Furtivo para você ele precisará passar por um Teste de Furtividade cuja a CD será 1 ponto maior que sua Percepção Passiva. O mesmo é válido para você, que precisará passar por um Teste semelhante utilizando a Percepção Passiva das criaturas as quais você deseja estar Furtivo como base.
+A Percepção Passiva determinará se você irá notar diferentes coisas que estarão ocultas a princípio de maneira passiva, como por exemplo, Armadilhas. Caso um inimigo deseje estar Furtivo para você ele precisará passar por um Teste de Furtividade cuja a CD será 1 ponto maior que sua Percepção Passiva. O mesmo é válido para você, que precisará passar por um Teste semelhante utilizando a Percepção Passiva das criaturas às quais você deseja estar Furtivo como base.
 
 A dificuldade de um Teste de Furtividade pode também aumentar dependendo das condições do local ou das criaturas. Por exemplo, caso você esteja em um local vantajoso ao qual não está sendo vigiado, a dificuldade para ficar Furtivo pode abaixar um pouco, dependendo do seu Mestre.
 
