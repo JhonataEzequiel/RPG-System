@@ -28,7 +28,7 @@ Caso seja parte do cenário e esteja sob efeito de alguma Magia em área, como u
 
 **Descrição:** Você conjura uma pequena mão espectral do tamanho da mão de um humano. Ela tem uma aparência azul translúcida, e é capaz de interagir com o ambiente fisicamente. Você pode comandá-la a realizar as seguintes Ações:
 
-**Manipular (Ação Livre):** A mão pode agarrar, soltar, ou transportar objetos de até 5kg para qualquer local dentro do alcance. Pode também realizar tarefas simples como abrir portas destrancadas, acionar alavancas, entregar itens a aliados, ou segurar tochas.
+**Manipular** (Ação Livre): A mão pode agarrar, soltar, ou transportar objetos de até 5kg para qualquer local dentro do alcance. Pode também realizar tarefas simples como abrir portas destrancadas, acionar alavancas, entregar itens a aliados, ou segurar tochas.
 
 **Atacar** (Uma Ação): A mão ataca um alvo dentro do alcance, causando 1d4 de Dano de Impacto.
 

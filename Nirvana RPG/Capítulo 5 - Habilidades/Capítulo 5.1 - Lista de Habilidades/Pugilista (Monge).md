@@ -54,19 +54,19 @@ Caso você e um outro aliado possuam essa Habilidade, os dois poderão unir seus
 **Fundir** (Duas Ações): A duração da fusão será idêntica em caso de sucesso ou fracasso, sendo de 1 Encontro. 
 
 Em caso de fracasso na fusão, as seguintes coisas acontecerão com o personagem resultante:
-* O Deslocamento será de 3m.
-* A CA será de 3.
-* Os Atributos resultantes serão os mais baixos de cada um, com -5 em cada. Ou seja, se alguém tiver 10 de Força e outro tiver 5, a Força será 0. O mínimo de Inteligência será -2.
-* A aparência resultante será uma fraca e patética, e fica a critério do mestre. Ela deve unir características de ambos os personagens originais.
+- O Deslocamento será de 3m.
+- A CA será de 3.
+- Os Atributos resultantes serão os mais baixos de cada um, com -5 em cada. Ou seja, se alguém tiver 10 de Força e outro tiver 5, a Força será 0. O mínimo de Inteligência será -2.
+- A aparência resultante será uma fraca e patética, e fica a critério do mestre. Ela deve unir características de ambos os personagens originais.
 
 Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante:
-* O Deslocamento dos dois será somado.
-* A CA dos dois será somada.
-* Os Atributos resultantes serão os mais altos de cada um, dobrados. Ou seja, caso alguém tenha 10 de Força e outro tenha 5, a Força será 20.
-* Imunidade a qualquer Condição negativa.
-* A aparência resultante ressaltará os pontos positivos de cada um dos personagens que se fundiram, ficando a critério do mestre.
-* Terá duas Ações Bônus e seis Ações normais no Turno, além de duas Reações na Rodada.
-* Terá todas as Habilidades e Magias de ambos os personagens, além das Habilidades de Raça de cada um.
-* Os Pontos de Vida e Mana Atuais serão somados.
+- O Deslocamento dos dois será somado.
+- A CA dos dois será somada.
+- Os Atributos resultantes serão os mais altos de cada um, dobrados. Ou seja, caso alguém tenha 10 de Força e outro tenha 5, a Força será 20.
+- Imunidade a qualquer Condição negativa.
+- A aparência resultante ressaltará os pontos positivos de cada um dos personagens que se fundiram, ficando a critério do mestre.
+- Terá duas Ações Bônus e seis Ações normais no Turno, além de duas Reações na Rodada.
+- Terá todas as Habilidades e Magias de ambos os personagens, além das Habilidades de Raça de cada um.
+- Os Pontos de Vida e Mana Atuais serão somados.
 
 Você e seu aliado deverão decidir em conjunto o que vão fazer em cada uma das vezes que puderem realizar algo.

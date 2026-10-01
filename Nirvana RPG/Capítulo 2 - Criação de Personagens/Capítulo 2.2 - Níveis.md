@@ -3,7 +3,7 @@ O Nível de um personagem determinará o quão apto para encarar certos desafios
 
 # Evoluindo Além do Nível 1
 
-### Calculando Pontos de Experiência (XP)
+## Calculando Pontos de Experiência (XP)
 
 Os Pontos de Experiência de um jogador ditarão se ele é capaz de subir de Nível ou não. Existem 3 modos de jogo que o mestre deverá optar, e que determinará a velocidade que os jogadores aumentam de nível. O mestre também pode arbitrariamente escolher uma outra quantidade de XP para os jogadores evoluírem de Nível.
 
@@ -85,10 +85,10 @@ Você pode optar por não gastar seus Pontos de Habilidade e escolher novas Per�
 
 A exceção a essa regra é o Nível 20, aonde você poderá tanto adquirir Perícias, quanto Habilidades, visto que você não poderá guardar mais os seus Pontos de Habilidade.
 
-### Habilidades de Raça, Habilidades de Atributos, ou Magias
+## Habilidades de Raça, Habilidades de Atributos, ou Magias
 
 Sua Raça pode ou não conceder Habilidades que recebem uma melhoria conforme o Nível. Algumas Habilidades normais também podem melhorar com o tempo. Esteja atento a esses detalhes.
 
-### Indo Além do Nível 20
+## Indo Além do Nível 20
 
 Caso o mestre permita, é possível ir além do Nível 20. Neste caso, cada Nível subsequente te concederá um Ponto de Atributo e um Ponto de Habilidade. O restante continua igual, você ganha Pontos de Vida e Pontos de Mana como sempre.

@@ -17,7 +17,7 @@ Você pode escolher gastar 1d6 de vida e 1 Ponto de Mana adicionais para aumenta
 
 - Requisito em Inteligência: 3
 - Requisito em Fé: 3
-- Duração: concentração
+- Duração: Concentração
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 

@@ -16,8 +16,8 @@ Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distânci
 
 ## Disparo Poderoso (Custo 1)
 
-**Custo**: Duas Ações, 1 de Mana.
 **Requisitos**: Ter uma Arma a Distância equipada.
+**Custo**: Duas Ações, 1 de Mana.
 
 Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior, adicionando parte de sua Mana para isso. Essa Habilidade causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante.
 

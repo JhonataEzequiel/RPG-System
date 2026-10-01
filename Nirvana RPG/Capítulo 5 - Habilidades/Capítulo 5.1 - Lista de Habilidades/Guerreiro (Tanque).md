@@ -47,7 +47,7 @@ A sua pele torna-se mais resistente a medida que recebe danos e se cura, tornand
 
 ## Postura Defensiva (Custo 1)
 
-**Custo**: Reação
+**Custo**: Reação.
 
 Você só pode usar essa Habilidade uma vez por Encontro, e não pode mais Atacar na Rodada que usar.
 

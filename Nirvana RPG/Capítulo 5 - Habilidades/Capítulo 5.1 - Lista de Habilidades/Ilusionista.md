@@ -1,3 +1,4 @@
+
 Habilidades que afetam diretamente o uso de Magias de Ilusão e efeitos similares. Também faz referência a efeitos mentais, Dano Psíquico, e a comunicação entre as diferentes partes da psiquê.
 
 ## Ventriloquia (Custo 1)
@@ -36,7 +37,7 @@ Qualquer Magia de Ilusão que tenha um efeito negativo sobre o alvo terá a CD p
 
 **Requisitos**: Habilidade "Persona" de Custo 1. 3 de Carisma ou 3 de Inteligência.
 
-Você agora poderá escrever em um diário caso tenha algo com o que escrever, como Papel e Carvão. Você escreve em seu diário ao ter um Descanso Longo. Ao escrever em seu diário, você expõe parte da sua psiquê. Role 1d4, e adicione um destes bônus de acordo com o resultado. Eles duram até o fim do seu próximo Encontro:
+Você agora poderá escrever em um diário caso tenha algo com o que escrever, como Papel e Carvão. Você escreve em seu diário ao ter um Descanso Longo. Ao escrever em seu diário, você expõe parte da sua psiquê. Role 1d4, e adicione um destes bônus de acordo com o resultado. Eles duram até o fim do seu próximo Encontro.
 1. Você ganha 1 Ponto de Atuação;
 2. Você aprende uma Magia nova de Custo 1 de qualquer categoria que não seja de Ilusão, ignorando os requisitos;
 3. Adicione seu Bônus de Proficiência ao dano de Magias de Ilusão que causem Dano Psíquico;

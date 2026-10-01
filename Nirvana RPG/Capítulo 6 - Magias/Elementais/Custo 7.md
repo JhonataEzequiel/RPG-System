@@ -33,7 +33,7 @@ Você pode gastar 1 Ponto de Mana para mover a posição da esfera em até 9m, e
 - Alcance: 36m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você faz com que uma quantidade grande de ácido líquido apareça logo acima de uma criatura alvo, ocupando uma área cúbica de 9m que cai no alvo. O alvo terá que passar por um Teste de Resistência de Destreza CD 12 +Int. Em caso de falha, recebe 10d10 + Int de dano ácido, e tem a CA diminuída em 2 pontos pela duração da Magia. Em caso de sucesso receberá metade do dano, e a CA será diminuída em 1 ponto pela duração da Magia. Caso múltiplas criaturas estejam dentro da área escolhida, todas elas podem ser vítimas dos efeitos dessa Magia e terão que passar pela Salvaguarda de Destreza também.
+**Descrição:** Você faz com que uma quantidade grande de ácido líquido apareça logo acima de uma criatura alvo, ocupando uma área cúbica de 9m que cai no alvo. O alvo terá que passar por um Teste de Resistência de Destreza CD 12 + Int. Em caso de falha, recebe 10d10 + Int de dano ácido, e tem a CA diminuída em 2 pontos pela duração da Magia. Em caso de sucesso receberá metade do dano, e a CA será diminuída em 1 ponto pela duração da Magia. Caso múltiplas criaturas estejam dentro da área escolhida, todas elas podem ser vítimas dos efeitos dessa Magia e terão que passar pela Salvaguarda de Destreza também.
 
 ### Gaiola
 

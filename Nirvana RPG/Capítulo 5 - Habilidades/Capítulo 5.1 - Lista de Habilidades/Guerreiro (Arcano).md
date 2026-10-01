@@ -48,7 +48,7 @@ Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te 
 
 ## Um Com os Céus (Custo 2)
 
-**Requisitos:** Sua Arma é capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
+**Requisitos**: Sua Arma é capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 

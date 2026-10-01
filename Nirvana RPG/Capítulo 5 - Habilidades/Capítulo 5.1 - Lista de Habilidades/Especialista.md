@@ -5,7 +5,7 @@ O Arquétipo do Especialista contém Habilidades características daqueles que d
 
 **Requisitos**: 5 de Sabedoria.
 **Custo**: Uma Ação, 2 de Mana.
-**Duração:** 1 Encontro.
+**Duração**: 1 Encontro.
 
 Conhecer a si mesmo é tão importante quanto o seu oponente. Seu Nível de Sabedoria te proporciona a opção de trocar o Nível de um Atributo por outro. Você obtém +2 em Testes relacionados ao Atributo que originalmente tinha o menor valor. Você não pode trocar Atributos de mesmo valor. Só pode usar uma vez por Descanso Longo.
 

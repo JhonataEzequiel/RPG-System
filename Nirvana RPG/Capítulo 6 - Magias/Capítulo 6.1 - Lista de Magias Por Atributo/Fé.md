@@ -1,5 +1,5 @@
 
-### Arcanos Menores:
+### Arcanos Menores
 
 Espalhar Sangue Fervente: 1 de Inteligência, 1 de Fé. Sangue.
 
@@ -21,7 +21,7 @@ Corte de Papel: 1 de Inteligência, 1 de Fé. Sangue.
 
 Sombra Agente: 1 de Inteligência, 1 de Fé. Sortilégio.
 
-### Custo 1:
+### Custo 1
 
 Cura Menor: 1 de Fé ou Carisma. Sagrada.
 
@@ -41,7 +41,7 @@ Domo Protetor: 1 de Carisma ou de Fé. Sagrada.
 
 Cria das Trevas: 1 de Fé, 1 de Inteligência. Sortilégio.
 
-### Custo 2:
+### Custo 2
 
 Animar os Mortos: 1 de Inteligência, 2 de Fé. Sortilégio.
 
@@ -61,7 +61,7 @@ Corte Sombrio: 2 de Fé, 2 de Inteligência. Sortilégio.
 
 Glutão: 2 de Fé, 2 de Inteligência. Sortilégio.
 
-### Custo 3:
+### Custo 3
 
 Canalizar Energia: 3 de Fé ou Carisma. Sagrada.
 
@@ -85,7 +85,7 @@ Bombear: 3 de Inteligência, 3 de Fé. Sangue.
 
 Golem Zumbi: 3 de Inteligência, 3 de Fé. Sortilégio.
 
-### Custo 4:
+### Custo 4
 
 Bola de Fogo Sagrada: 4 de Fé. Sagrada.
 
@@ -103,7 +103,7 @@ Palma da Mão: 4 de Fé. Sagrada.
 
 Golem de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
 
-### Custo 5:
+### Custo 5
 
 Tumba Aberta: 5 de Inteligência, 5 de Fé. Sortilégio.
 
@@ -123,7 +123,7 @@ Raio da Morte: 5 de Inteligência, 5 de Fé. Sortilégio.
 
 Ordem e Caos: 5 de Inteligência, 5 de Fé. Sortilégio.
 
-### Custo 6:
+### Custo 6
 
 Submissão Cósmica: 6 de Fé ou Carisma. Sagrada.
 
@@ -141,7 +141,7 @@ Esfera Vampírica: 6 de Fé, 6 de Inteligência. Sangue.
 
 Hiposfagma: 6 de Fé, 6 de Inteligência. Sangue.
 
-### Custo 7:
+### Custo 7
 
 Convocar Ajuda: 7 de Inteligência, Carisma, ou Fé. Imaculada.
 
@@ -165,7 +165,9 @@ Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 
 Zumbi Conjurador: 7 de Fé, 7 de Inteligência. Sortilégio.
 
-### Custo 8:
+### Custo 8
+
+Perseguidores: 8 de Inteligência, 8 de Fé. Sortilégio.
 
 Sangue Pútrido: 8 de Inteligência, 7 de Fé. Sangue.
 
@@ -179,7 +181,7 @@ Curar Maldições: 8 de Carisma, 8 de Fé. Sagrada.
 
 Espada de Ossos: 8 de Fé, 8 de Inteligência. Sortilégio.
 
-### Custo 9:
+### Custo 9
 
 Nihil: 8 de Inteligência, 9 de Fé. Sangue.
 
@@ -199,7 +201,7 @@ Quebra Ossos: 9 de Fé, 9 de Inteligência. Sortilégio.
 
 Melancolia Sombria: 9 de Fé, 9 de Inteligência. Sortilégio.
 
-### Custo 10:
+### Custo 10
 
 Éden: 10 de Carisma ou Fé. Sagrada.
 

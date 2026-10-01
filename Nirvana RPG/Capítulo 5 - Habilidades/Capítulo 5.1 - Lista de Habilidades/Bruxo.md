@@ -72,16 +72,16 @@ Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo u
 
 Você entoa um cântico de louvor a uma entidade cósmica desconhecida. Esta Habilidade só pode ser usada fora de combate. O Mestre rola 1d4 em segredo para determinar o efeito:
 
-**1.** A entidade responde na noite do mesmo dia através de um sonho. Faça um Teste de Resistência de Sabedoria CD 15.
+1. A entidade responde na noite do mesmo dia através de um sonho. Faça um Teste de Resistência de Sabedoria CD 15.
 
 - **Sucesso:** Você ganha conhecimento detalhado sobre um assunto à sua escolha.
 - **Falha:** Sofre 3d6 de Dano Psíquico.
 
-**2.** A entidade faz morada em sua mente, utilizando sua força mental para conceder-lhe mais chances de vitória. Até ter um Descanso Longo, você ganha +2d8 em todas as rolagens que fizer, e ignora Falhas Críticas, tornando-se falhas normais. Toda vez que fizer um Teste, sofre 2d8 de Dano Psíquico. O efeito termina após um Descanso Longo. O Dano Psíquico recebido é curado totalmente com um Descanso Curto.
+2. A entidade faz morada em sua mente, utilizando sua força mental para conceder-lhe mais chances de vitória. Até ter um Descanso Longo, você ganha +2d8 em todas as rolagens que fizer, e ignora Falhas Críticas, tornando-se falhas normais. Toda vez que fizer um Teste, sofre 2d8 de Dano Psíquico. O efeito termina após um Descanso Longo. O Dano Psíquico recebido é curado totalmente com um Descanso Curto.
 
-**3.** A entidade se manifesta em você. Criaturas que fizerem contato visual devem passar em um Teste de Resistência de Sabedoria CD 16 ou sofrer 3d6 de Dano Psíquico no final de cada Turno delas até o fim do Encontro. Sempre que um inimigo sofrer esse dano, você se cura pela metade do valor.
+3. A entidade se manifesta em você. Criaturas que fizerem contato visual devem passar em um Teste de Resistência de Sabedoria CD 16 ou sofrer 3d6 de Dano Psíquico no final de cada Turno delas até o fim do Encontro. Sempre que um inimigo sofrer esse dano, você se cura pela metade do valor.
 
-**4.** Você é levado ao plano da entidade e recebe um influxo de conhecimento. Faça um Teste de Resistência de Sabedoria CD 22:
+4. Você é levado ao plano da entidade e recebe um influxo de conhecimento. Faça um Teste de Resistência de Sabedoria CD 22:
 
 - **Sucesso:** Escolha uma Magia para aprender. Ela não custará nada até o fim do próximo Encontro, ignorará Requisitos, e pode ser usada como Ação Bônus. Você tem Vantagem em Testes de Sabedoria e Inteligência até o fim do Encontro.
 - **Falha:** Sofre 4d8 de Dano Psíquico e fica Amedrontado até o fim do próximo Encontro.

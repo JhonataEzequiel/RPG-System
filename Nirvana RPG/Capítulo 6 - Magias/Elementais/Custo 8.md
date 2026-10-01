@@ -4,7 +4,7 @@
 - Requisito em Inteligência: 8
 - Duração: Instantânea
 - Alcance: 48m
-- Tempo de Conjuração: Duas Ações.
+- Tempo de Conjuração: Duas Ações
 
 **Descrição:** Você canaliza um raio na palma da sua mão e o arremessa contra um alvo, causando 10d8 de Dano de Raio, e 2d12 de Dano Perfurante. Caso o alvo seja bem sucedido em uma Salvaguarda de Destreza CD 13 + Int, ele recebe apenas metade do Dano de Raio, e nenhuma parte do Dano Perfurante. 
 

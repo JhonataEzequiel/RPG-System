@@ -44,7 +44,7 @@ Caso você acumule +7 de bônus em um único Encontro, em três Encontros difere
 
 ## Mente Calma (Custo 1)
 
-**Requisitos**: 3 de Sabedoria
+**Requisitos**: 3 de Sabedoria.
 **Duração**: 1 Encontro.
 **Custo**: Duas Ações.
 
@@ -117,7 +117,7 @@ Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com 
 
 **Duelista de Escudo:** Caso você esteja com uma Arma Comum ou Leve em uma mão, e um Escudo na outra mão, você agora poderá Aparar.
 
-* **Aparar** (Reação): Você levanta seu escudo na hora em que um Ataque iria te acertar, e impõe Desvantagem nele. Caso o Ataque erre, você pode realizar um Ataque. Se acertar, você causa 1d8 de dano extra de um dos tipos que seu Ataque seja capaz de causar. Se você tirar um Acerto Crítico no Ataque ou a criatura que te atacou inicialmente tirar um Erro Crítico, você não gasta sua Reação nesta Rodada.
+- **Aparar** (Reação): Você levanta seu escudo na hora em que um Ataque iria te acertar, e impõe Desvantagem nele. Caso o Ataque erre, você pode realizar um Ataque. Se acertar, você causa 1d8 de dano extra de um dos tipos que seu Ataque seja capaz de causar. Se você tirar um Acerto Crítico no Ataque ou a criatura que te atacou inicialmente tirar um Erro Crítico, você não gasta sua Reação nesta Rodada.
 
 **Leveza**: Você pode utilizar Armas Comuns como se fossem Armas Leves, ou seja, não terá mais a penalidade de -3 para Atacar com duas Armas Comuns ao mesmo tempo. Você também se beneficiará de quaisquer Habilidades e efeitos exclusivos de Armas Leves, mantendo também os de Armas Comuns.
 

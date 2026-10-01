@@ -2,6 +2,7 @@
 ### Bola de Fogo Sagrada
 
 - Requisito em Fé: 4
+- Duração: Instantânea
 - Alcance: 36m
 - Tempo de Conjuração: Duas Ações
 

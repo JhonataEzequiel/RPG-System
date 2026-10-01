@@ -29,7 +29,7 @@ Você pode aumentar o alcance da Magia em 9m por Ponto de Mana adicional gasto. 
 - Alcance: 27m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você dispara um projétil de fogo com um brilho dourado em formato esférico. A criatura alvo é atingida e o projétil é absorvido. Após alguns segundos ele detona, causando 3d6 + Fth de dano sagrado em mortos-vivos. Demais criaturas recebem apenas 2d6 + Fth.
+**Descrição:** Você dispara um projétil de fogo com um brilho dourado em formato esférico. A criatura alvo é atingida e o projétil é absorvido. Após alguns segundos ele detona, causando 3d6 + Fth de Dano Sagrado em mortos-vivos. Demais criaturas recebem apenas 2d6 + Fth.
 
 Você pode aumentar o dano dessa Magia em 2d6 contra mortos vivos e 1d6 contra outras criaturas com um Ponto de Mana adicional.
 
@@ -41,7 +41,7 @@ Você pode aumentar o dano dessa Magia em 2d6 contra mortos vivos e 1d6 contra o
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você seleciona um local dentro do alcance. Uma imagem idêntica ao Símbolo Sagrado que você possui aparece naquele local, ocupando uma área circular de 6m de raio. Inimigos dentro da área realizarão um Teste de Resistência de Fé CD 14 + Fth. Caso falhe, recebem 1d12 de dano sagrado contínuo até o final da Magia. Em caso de sucesso, recebem metade do dano.
+**Descrição:** Você seleciona um local dentro do alcance. Uma imagem idêntica ao Símbolo Sagrado que você possui aparece naquele local, ocupando uma área circular de 6m de raio. Inimigos dentro da área realizarão um Teste de Resistência de Fé CD 14 + Fth. Caso falhe, recebem 1d12 de Dano Sagrado contínuo até o final da Magia. Em caso de sucesso, recebem metade do dano.
 
 Caso algum aliado esteja na área de impacto, ele é curado em 2d8 + Fth instantaneamente. Você decide quem é aliado ou inimigo, e a cura não é repetida, sendo uma instância única para cada aliado.
 

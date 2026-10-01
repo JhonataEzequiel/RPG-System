@@ -92,10 +92,10 @@ A partir do início do seu segundo Turno em um Encontro, adicione +3m de Desloca
 **Custo:** Duas Ações e 7 de Mana.
 
 Você se move tão rápido, e com tanta ferocidade, que recebe os seguintes bônus:
-* Seu Deslocamento aumenta em 6m;
-* Todos os Ataques contra você tem Desvantagem para acertar;
-* Você tem Vantagem para resistir a Magias que pedem uma Salvaguarda de Destreza;
-* Caso tenha um Acerto Crítico numa rolagem de Ataque, adicione seu Bônus de Proficiência ao dano. Esse bônus não é dobrado.
+- Seu Deslocamento aumenta em 6m;
+- Todos os Ataques contra você tem Desvantagem para acertar;
+- Você tem Vantagem para resistir a Magias que pedem uma Salvaguarda de Destreza;
+- Caso tenha um Acerto Crítico numa rolagem de Ataque, adicione seu Bônus de Proficiência ao dano. Esse bônus não é dobrado.
 
 ## Blitzkrieg (Custo 3)
 

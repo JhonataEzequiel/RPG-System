@@ -20,8 +20,8 @@ Caso não possua, você causa o dano de um Ataque Desarmado além de 1d6 de Dano
 
 ## Estremecer (Custo 2)
 
-**Custo:** Duas Ações.
-**Requisito:** 6 de Força.
+**Custo**: Duas Ações.
+**Requisitos**: 6 de Força.
 
 Você pisa no chão e o faz estremecer, derrubando todos as criaturas vivas na sua frente num cone de tamanho igual a metade do seu Deslocamento. Todas as criaturas que estiverem dentro do alcance precisarão passar por um Teste de Resistência de Destreza CD 11 + Força. Caso falhem, terão a Condição Caído, e sofrerão o dano de um Ataque Desarmado. Caso tenham sucesso, receberão apenas o dano do Ataque Desarmado.
 

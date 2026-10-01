@@ -40,7 +40,7 @@ Você pode utilizar essa Magia um total de cinco vezes por Grimório.
 ### Estalo
 
 - Requisito em Inteligência: 6
-- Duração: Três Rodadas
+- Duração: 3 Rodadas
 - Alcance: 18m
 - Tempo de Conjuração: Uma Ação
 

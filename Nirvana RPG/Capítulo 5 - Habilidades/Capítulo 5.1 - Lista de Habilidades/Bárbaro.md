@@ -101,9 +101,9 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 ## Ataque Descontrolado (Custo 2)
 
 **Requisitos**: 6 de Força.
-**Custo:** Três Ações
+**Custo:** Três Ações.
 
- Você ataca todos os inimigos em um círculo centrado em você de raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano será seu dano de um Ataque acrescido de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado até o início do próximo Turno deles.
+ Você ataca todos as criaturas alvo em um círculo centrado em você de raio igual ao seu Deslocamento. Os inimigos precisarão passar num Teste de Resistência de Destreza CD 12 + For para desviar do Ataque. O dano será seu dano de um Ataque acrescido de seu Bônus de Proficiência. Todos os inimigos afetados (que falharem no Teste de Resistência) terão a Condição Amedrontado até o início do próximo Turno deles.
  
 ## Marcas de Guerra Melhorada (Custo 2)
 
@@ -127,7 +127,7 @@ Você pode optar por usar seu Modificador de Força em qualquer Salvaguarda. Ao 
 
 ## Fúria Aprimorada (Custo 3)
 
-**Requisitos:** Habilidade "Fúria" de Custo 1. 9 de Força.
+**Requisitos**: Habilidade "Fúria" de Custo 1. 9 de Força.
 
 Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 

@@ -1,5 +1,5 @@
 
-### Roupas
+## Roupas
 
 | Armadura            | Preço | CA  | Requisitos | Escalas                   | Penalidades | Efeitos Adicionais          | Peso |
 | ------------------- | ----- | --- | ---------- | ------------------------- | ----------- | --------------------------- | ---- |
@@ -7,7 +7,7 @@
 | Roupa de Explorador | 1pp   | +0  | -          | D em Destreza             | 0           | -                           | 2 kg |
 | Túnica de Mago      | 3po   | +0  | -          | C em Sabedoria            | 0           | +1d4 Pontos de Mana Máximos | 2 kg |
 | Túnica de Monge     | 3po   | +0  | -          | C em Força, C em Destreza | 0           | -                           | 2 kg |
-### Armaduras Leves
+## Armaduras Leves
 
 | Armadura                   | Preço | CA  | Requisitos    | Escalas       | Penalidades | Efeitos Adicionais          | Peso |
 | -------------------------- | ----- | --- | ------------- | ------------- | ----------- | --------------------------- | ---- |
@@ -17,7 +17,7 @@
 | Couro de Elite             | 4po   | +2  | 1 de Destreza | C em Destreza | 0           | -                           | 6 kg |
 | Armadura de Pele Camuflada | 5po   | +1  | 1 de Destreza | C em Destreza | 0           | +2 em Testes de Furtividade | 5 kg |
 | Armadura Nobre             | 25po  | +3  | 3 de Carisma  | B em Carisma  | 0           | +2 em Testes de Conversação | 5 kg |
-### Armaduras Pesadas
+## Armaduras Pesadas
 
 | Armadura                 | Preço | CA  | Requisitos | Escalas    | Penalidades           | Efeitos Adicionais | Peso  |
 | ------------------------ | ----- | --- | ---------- | ---------- | --------------------- | ------------------ | ----- |

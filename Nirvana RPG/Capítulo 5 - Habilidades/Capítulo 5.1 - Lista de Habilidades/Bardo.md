@@ -9,10 +9,10 @@ Você poderá optar por uma das especializações disponíveis. Cada uma concede
 
 **Músico:** Sempre que tocar um Instrumento suas Magias de Cura curarão 1d4 a mais do que o normal. No Nível 7 de Carisma esse dado aumenta para 1d8.
 
-**Diplomata:** Sua capacidade de resolver disputas no diálogo e em negociações é maior do que a da maioria das pessoas. 
-	**Dado de Diplomacia:** Você ganha um Dado de Diplomacia que poderá ser usado uma vez por Descanso Longo. O dado será 1d4 + Car. Quando usado, adicione o resultado num Teste de Conversação qualquer que você for fazer. O dado deverá ser utilizado antes de rolar o Teste. No Nível 7 de Carisma, o dado passa a ser 1d6 + Car.
+**Diplomata** (Passiva): Sua capacidade de resolver disputas no diálogo e em negociações é maior do que a da maioria das pessoas. 
+- **Dado de Diplomacia:** Você ganha um Dado de Diplomacia que poderá ser usado uma vez por Descanso Longo. O dado será 1d4 + Car. Quando usado, adicione o resultado num Teste de Conversação qualquer que você for fazer. O dado deverá ser utilizado antes de rolar o Teste. No Nível 7 de Carisma, o dado passa a ser 1d6 + Car.
 
-**Comerciante:** Tem Vantagem em Testes de Conversação para barganhar com alguém. Seu instinto de negócios é capaz de entender itens raros com mais facilidade. Adicione seu Modificador de Carisma a Testes de Arcanismo.
+**Comerciante** (Passiva): Tem Vantagem em Testes de Conversação para barganhar com alguém. Seu instinto de negócios é capaz de entender itens raros com mais facilidade. Adicione seu Modificador de Carisma a Testes de Arcanismo.
 
 ## Hino da Coragem (Custo 1)
 
@@ -138,9 +138,9 @@ Você pode utilizar seu Modificador de Carisma em qualquer Salvaguarda que quise
 
 **Requisitos**: 10 de Carisma.
 
-De maneira passiva, você possui Vantagem em todos os Testes de Conversação e Atuação. Não pode sofrer Desvantagens nesses testes, ou ter qualquer bônus negativo aplicado a eles.
+De maneira passiva, você possui Vantagem em todos os Testes de Conversação e Atuação. Não pode sofrer Desvantagens nesses Testes, ou ter qualquer bônus negativo aplicado a eles.
 
-**Rendição** (Ação Bônus, 5 de Mana): Caso duas das seguintes condições forem cumpridas dentro de uma hora, você pode forçar um alvo à sua escolha a se render. O alvo fica Encantado, e seguirá suas ordens por uma hora. Alvos com Imunidade a Encantamento são Imunes a essa Habilidade.
+**Rendição** (Ação Bônus, 5 de Mana): Caso duas das seguintes condições forem cumpridas dentro de uma hora, você pode forçar um alvo à sua escolha a se render. O alvo fica Encantado, e seguirá suas ordens por uma hora.
 - **Atuar** (Duas Ações): Você pode realizar uma performance utilizando sua Perícia de Atuação para tentar convencer o alvo de alguma coisa. O alvo precisará ser capaz de lhe ouvir, ver, ou se comunicar com você de alguma forma. Você deve passar por um Teste de Atuação de CD igual à 12 + Sab do alvo.
 - **Ilusionista** (Passiva): Caso você faça o alvo passar por uma Magia de Ilusão que inclua uma Salvaguarda, e ele falhar, isto contará como um condição cumprida.
 - **Cura Agnóstica** (Passiva): Ao curar o alvo de uma Condição negativa ou restaurar pelo menos metade de seus Pontos de Vida Máximos ao longo do Encontro você cumprirá uma das condições.

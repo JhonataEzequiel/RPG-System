@@ -1,5 +1,5 @@
 
-## Arcanos Menores:
+### Arcanos Menores
 
 Conjurar Luz: 1 de Inteligência. Imaculada.
 
@@ -37,7 +37,7 @@ Sombra Agente: 1 de Inteligência, 1 de Fé. Sortilégio.
 
 Batalha Mental: 1 de Inteligência ou Carisma. Ilusão.
 
-### Custo 1:
+### Custo 1
 
 Acalmar: 1 de Inteligência, 1 de Carisma. Ilusão.
 
@@ -79,7 +79,7 @@ Garras de Sangue: 1 de Inteligência, 1 de Fé. Sangue.
 
 Jato Ácido: 1 de Inteligência. Elemental.
 
-### Custo 2:
+### Custo 2
 
 Animar os Mortos: 1 de Inteligência, 2 de Fé. Sortilégio.
 
@@ -103,7 +103,7 @@ Glutão: 2 de Fé, 2 de Inteligência. Sortilégio.
 
 Calar Voz: 2 de Inteligência, 2 de Carisma. Ilusão.
 
-### Custo 3:
+### Custo 3
 
 Bola de Fogo: 3 de Inteligência. Elemental.
 
@@ -137,7 +137,7 @@ Golem Zumbi: 3 de Inteligência, 3 de Fé. Sortilégio.
 
 Lâmina Corrosiva: 3 de Inteligência. Elemental.
 
-### Custo 4:
+### Custo 4
 
 Bola de Fogo Negra: 4 de Inteligência, 4 de Fé. Sortilégio.
 
@@ -163,7 +163,7 @@ Chocolate: 4 de Inteligência ou Carisma. Ilusão.
 
 Golem de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
 
-### Custo 5:
+### Custo 5
 
 Munição Elemental: 5 de Inteligência. Elemental.
 
@@ -197,7 +197,7 @@ Esticar: 5 de Inteligência ou Carisma. Imaculada.
 
 Corpo Elemental: 5 de Inteligência. Elemental.
 
-### Custo 6:
+### Custo 6
 
 Chuva de Magma: 6 de Inteligência. Elemental.
 
@@ -231,7 +231,7 @@ Astros: 6 de Inteligência. Elemental.
 
 Estalo: 6 de Inteligência. Imaculada.
 
-### Custo 7:
+### Custo 7
 
 Convocar Ajuda: 7 de Inteligência, Carisma, ou Fé. Imaculada.
 
@@ -267,7 +267,7 @@ Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 
 Zumbi Conjurador: 7 de Fé, 7 de Inteligência. Sortilégio.
 
-### Custo 8:
+### Custo 8
 
 Perseguidores: 8 de Inteligência, 8 de Fé. Sortilégio.
 
@@ -295,7 +295,7 @@ Devorar Matéria: 8 de Inteligência. Imaculada.
 
 Geoforça: 8 de Inteligência. Elemental.
 
-### Custo 9:
+### Custo 9
 
 Nihil: 8 de Inteligência, 9 de Fé. Sangue.
 
@@ -323,7 +323,7 @@ Quebra Ossos: 9 de Fé, 9 de Inteligência. Sortilégio.
 
 Melancolia Sombria: 9 de Fé, 9 de Inteligência. Sortilégio.
 
-### Custo 10:
+### Custo 10
 
 Cair da Noite: 10 de Inteligência, 10 de Fé. Sortilégio.
 

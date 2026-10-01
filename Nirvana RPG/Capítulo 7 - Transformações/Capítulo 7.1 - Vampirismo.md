@@ -1,7 +1,7 @@
 
 Como um Vampiro você precisará se alimentar de sangue constantemente. Os vampiros se beneficiam de certas capacidades, enquanto tem desvantagens em outros âmbitos. Tais efeitos adversos são amplificados quando passam muito tempo sem se alimentar de sangue. A medida que você se alimenta ficará mais forte e, com isso, seus efeitos adversos também serão piores caso não esteja bem alimentado. Você passará por cinco estágios de vampirismo e, conforme avança por estes estágios, desbloqueará novas habilidades únicas. Os benefícios de um estágio se somam aos do anterior, mas os malefícios podem ou não mudar, dependendo do estágio. Vampiros não morrem de velhice a partir do Estágio 2, nem envelhecem. Se um Vampiro de Estágio 2 ou superior morrer em contato com a luz do sol, ele virará pó.
 
-### Iniciado em Vampirismo (Estágio 1)
+## Iniciado em Vampirismo (Estágio 1)
 
 Para se iniciar como um Vampiro é necessário que pelo menos um dos requisitos a seguir seja cumprido. Além disso, você deverá ter um Descanso Longo para concluir a transformação.
 

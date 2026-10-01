@@ -41,7 +41,7 @@ Testes de Ladroagem agora utilizam seu Nível de Destreza como bônus ao invés 
 
 ## Retirada Tática (Custo 1)
 
-**Custo:** 2 de Mana. Ação Bônus.
+**Custo**: 2 de Mana. Ação Bônus.
 
 Ao adquirir esta Habilidade, você tem -1 nas Iniciativas. Esta Habilidade substitui Desengajar, e tem os mesmos efeitos de Desengajar. Se você não tiver mais Mana, pode usar Desengajar normalmente.
 
@@ -76,7 +76,7 @@ Você tem Vantagem em Testes de Conversação contra autoridades da lei ao tenta
 ## Impostor (Custo 3)
 
 **Requisitos**: 7 de Carisma, 4 de Destreza.
-**Duração:** 1 Hora.
+**Duração**: 1 Hora.
 
 A sua especialidade é se encaixar em diferentes contextos e se disfarçar entre outras pessoas. Seus inimigos terão dificuldades em distingui-lo entre os demais alvos que eles tenham. Você pode adicionar seu Modificador de Carisma aos Testes de Furtividade.
 

@@ -1,5 +1,5 @@
 
-### Arcanos Menores:
+### Arcanos Menores
 
 Amizade: 1 de Carisma ou Inteligência. Ilusão.
 
@@ -15,7 +15,7 @@ Sons Fantasmas: 1 de Carisma ou Inteligência. Ilusão.
 
 Batalha Mental: 1 de Inteligência ou Carisma. Ilusão.
 
-### Custo 1:
+### Custo 1
 
 Acalmar: 1 de Inteligência, 1 de Carisma. Ilusão.
 
@@ -39,7 +39,7 @@ Golpe Certo: 1 de Inteligência ou Carisma. Imaculada.
 
 Domo Protetor: 1 de Carisma ou de Fé. Sagrada.
 
-### Custo 2:
+### Custo 2
 
 Alterar Forma (Incompleta): 2 de Carisma. Sagrada.
 
@@ -53,7 +53,7 @@ Calar Voz: 2 de Inteligência, 2 de Carisma. Ilusão.
 
 Falar Com Animais e Plantas: 2 de Carisma. Sagrada.
 
-### Custo 3:
+### Custo 3
 
 Fortificar Flora: 3 de Carisma. Imaculada.
 
@@ -69,7 +69,7 @@ Esfera de Invisibilidade: 3 de Inteligência ou Carisma. Ilusão.
 
 Barulho de Inseto: 3 de Carisma. Sagrada.
 
-### Custo 4:
+### Custo 4
 
 Pulo Suave: 4 de Inteligência ou Carisma. Imaculada.
 
@@ -83,7 +83,7 @@ Campo Falso: 4 de Inteligência, 4 de Carisma. Ilusão.
 
 Mundo Invertido: 4 de Inteligência, 4 de Carisma. Ilusão.
 
-### Custo 5:
+### Custo 5
 
 Curar Condições: 5 de Fé ou Carisma. Sagrada.
 
@@ -95,7 +95,7 @@ Cópia Ilusória de Ataque: 5 de Inteligência, 5 de Carisma. Ilusão.
 
 Esticar: 5 de Inteligência ou Carisma. Imaculada.
 
-### Custo 6:
+### Custo 6
 
 Submissão Cósmica: 6 de Fé ou Carisma. Sagrada.
 
@@ -111,7 +111,7 @@ Paralisia Cerebral: 6 de Carisma, 6 de Inteligência. Ilusão.
 
 Comunicação Onírica: 6 de Carisma ou Inteligência. Ilusão.
 
-### Custo 7:
+### Custo 7
 
 Convocar Ajuda: 7 de Inteligência, Carisma, ou Fé. Imaculada.
 
@@ -127,7 +127,7 @@ Sonho de Fogo: 7 de Inteligência, 7 de Carisma. Imaculada.
 
 Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 
-### Custo 8:
+### Custo 8
 
 Aura Carismática: 8 de Inteligência ou Carisma. Ilusão.
 
@@ -139,7 +139,7 @@ Luz Resplandecente: 8 de Carisma ou Fé. Sagrada.
 
 Curar Maldições: 8 de Carisma, 8 de Fé. Sagrada.
 
-### Custo 9:
+### Custo 9
 
 Discernimento: 9 de Carisma. Sagrada.
 
@@ -157,7 +157,7 @@ Midas: 9 de Inteligência, 9 de Carisma. Imaculada.
 
 Trio da Mana: 9 de Fé, 9 de Inteligência, 9 de Carisma. Imaculada.
 
-### Custo 10:
+### Custo 10
 
 Éden: 10 de Carisma ou Fé. Sagrada.
 

@@ -43,9 +43,9 @@ No Nível 8 de Carisma, poderá utilizar Inspiração como uma Ação Bônus, ao
 
 Toda vez que você utilizar Inspiração, adicione os seguintes benefícios:
 
-* Você ignora Terreno Difícil, e seus aliados tem mais 1.5m de Deslocamento em Terreno Difícil.
-* Você adiciona o seu Modificador de Carisma à sua CA até o início do seu próximo Turno.
-* Escolha um aliado para receber uma Ação extra no próximo Turno dele. Você só pode utilizar essa característica uma vez por Encontro.
+- Você ignora Terreno Difícil, e seus aliados tem mais 1.5m de Deslocamento em Terreno Difícil.
+- Você adiciona o seu Modificador de Carisma à sua CA até o início do seu próximo Turno.
+- Escolha um aliado para receber uma Ação extra no próximo Turno dele. Você só pode utilizar essa característica uma vez por Encontro.
 
 ## União (Custo 2)
 
@@ -85,7 +85,7 @@ Uma vez ao dia você pode analisar a situação atual de um Encontro. Role 1d100
 
 ## Saúdem o Rei (Custo 3)
 
-**Requisitos:** Habilidade "Movimento Inspirador" de Custo 2. 10 de Carisma e 10 de Fé.
+**Requisitos**: Habilidade "Movimento Inspirador" de Custo 2. 10 de Carisma e 10 de Fé.
 
 Você será visto como líder por aqueles ao seu redor. Cativar os corações dos seus aliados e de seu povo será uma tarefa inata para você. Multidões te seguirão e obedecerão suas ordens, e crerão que você foi enviado por uma divindade para liderá-los, ou por uma força maior do que eles mesmos. Uma vez por Descanso Longo, pode escolher ser bem sucedido num Teste que utilize seu Atributo de Carisma, se falhar em um.
 

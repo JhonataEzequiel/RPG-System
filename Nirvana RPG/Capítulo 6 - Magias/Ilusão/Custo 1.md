@@ -45,7 +45,7 @@ Você pode aumentar a duração da Magia para 24 horas por 3 Pontos de Mana adic
 
 - Requisito em Inteligência: 1
 - Requisito em Carisma: 1
-- Duração: Duas Rodadas
+- Duração: 2 Rodadas
 - Alcance: 18m
 - Tempo de Conjuração: Uma Ação
 

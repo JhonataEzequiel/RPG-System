@@ -3,6 +3,7 @@
 
 - Requisito em Inteligência: 4
 - Requisito em Fé: 4
+- Duração: Instantânea
 - Alcance: 45m
 - Tempo de Conjuração: Uma Ação
 

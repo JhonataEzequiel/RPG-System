@@ -3,7 +3,7 @@
 
 - Requisito em Inteligência: 1
 - Duração: Instantânea
-- Alcance: 36 metros
+- Alcance: 36m
 - Tempo de Conjuração: Uma Ação
 
 **Descrição:** Você conjura um projétil de fogo que deixa um rastro pelo caminho até atingir o alvo, dando a aparência de um raio. O alvo recebe 1d8 + Int de Dano de Fogo.

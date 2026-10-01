@@ -29,4 +29,4 @@ Se você estiver dentro da área afetada também não poderá conjurar Magias, m
 - Alcance: Toque
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você transforma algum item que você possua, e que esteja entre o Capítulo 4.1 - Lista de Armaduras e o Capítulo 4.8 - Lista de Poções, em energia pura. Após isso, você a devorará, restaurando 4d8 + Inteligência como Pontos de Vida. Caso você transforme um Grimório, toda a sua Mana é recuperada ao invés de se curar, com exceção dos pontos gastos por essa Magia.
+**Descrição:** Você transforma algum item que você possua, e que esteja entre o Capítulo 4.1 - Lista de Armaduras e o Capítulo 4.8 - Lista de Poções e Venenos, em energia pura. Após isso, você a devorará, restaurando 4d8 + Inteligência como Pontos de Vida. Caso você transforme um Grimório, toda a sua Mana é recuperada ao invés de se curar, com exceção dos pontos gastos por essa Magia.

@@ -3,8 +3,8 @@
 
 - Requisito em Inteligência ou Carisma: 7
 - Duração: 1 Encontro
-- Alcance: 9 metros
-- Tempo de Conjuração: Duas Ações.
+- Alcance: 9m
+- Tempo de Conjuração: Duas Ações
 
 **Descrição:** Você escolhe um local desocupado no alcance da Magia. Uma criatura idêntica a você surge no local. Essa criatura não pode interagir fisicamente com o mundo, mas é capaz de conjurar qualquer Magia que você tenha. Magias de Toque funcionam normalmente. Ela possui uma capacidade de Mana Máxima igual a sua, mas possui apenas 1 Ponto de Vida. Ela tem Três Ações e um Turno só para ela que acontece imediatamente após o seu Turno, no entanto ela não tem Reações ou Ações Bônus.
 

@@ -26,7 +26,7 @@ Caso um inimigo tenha uma Vantagem em um Ataque direcionado a você, essa Vantag
 
 Ao ter todos os Atributos no Nível 3 ou superior, essa Habilidade terá efeito um total de vezes igual ao seu Bônus de Proficiência por Descanso Curto.
 
-## Do nada à nata (Custo 1)
+## Do Nada à Nata (Custo 1)
 
 **Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1. Você não poderá escolher outras Habilidades além desta no Nível 1.
 

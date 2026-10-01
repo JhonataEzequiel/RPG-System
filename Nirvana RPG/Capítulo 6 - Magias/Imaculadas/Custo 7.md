@@ -29,7 +29,7 @@ Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas aç�
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você consegue transmutar qualquer objeto de, no mínimo, 1 quilo em um item do Capítulo 4.1 - Lista de Armaduras, até o Capítulo 4.8 - Lista de Poções. O item escolhido para ser o resultante não tem limitação de peso. Cada vez que você usa essa Magia ela fica 1 Ponto de Mana mais cara, até que você tenha um Descanso Longo, fazendo o custo retomar ao normal.
+**Descrição:** Você consegue transmutar qualquer objeto de, no mínimo, 1 quilo em um item do Capítulo 4.1 - Lista de Armaduras, até o Capítulo 4.8 - Lista de Poções e Venenos. O item escolhido para ser o resultante não tem limitação de peso. Cada vez que você usa essa Magia ela fica 1 Ponto de Mana mais cara, até que você tenha um Descanso Longo, fazendo o custo retomar ao normal.
 
 ### Retornar ao Zero
 

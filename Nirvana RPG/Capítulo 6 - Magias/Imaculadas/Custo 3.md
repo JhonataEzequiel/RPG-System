@@ -4,7 +4,7 @@
 - Requisito em Carisma: 3
 - Requisitos Adicionais: Haver flora no alcance da Magia
 - Duração: 1 Encontro, ou 1 ano
-- Alcance: 45 metros
+- Alcance: 45m
 - Tempo de Conjuração: Duas Ações ou 8 horas
 
 **Descrição:** Você fortifica a vegetação do local.
@@ -17,8 +17,8 @@ Caso escolha utilizar 8 horas para conjurar a Magia, as plantas num raio de 30m 
 
 - Requisito em Inteligência: 3
 - Duração: Instantânea
-- Alcance: 18 metros
-- Tempo de Conjuração: Duas Ações.
+- Alcance: 18m
+- Tempo de Conjuração: Duas Ações
 
 **Descrição:** Se teletransporta para um local que possa ver no alcance da Magia. Você pode estender o alcance da Magia em 9 metros por Ponto de Mana adicional gasto.
 
