@@ -88,6 +88,14 @@ Quando fora de combate, você pode realizar um Teste de Furtividade para copiar 
 
 O Ataque Furtivo recebe um aumento de 3d6 no dano.
 
+## Furtividade das Sombras (Custo 3)
+
+**Requisitos**: Habilidade "Ataque Furtivo Aprimorado" de Custo 3.
+**Alcance**: Deslocamento.
+**Custo**: Reação, 12 de Mana.
+
+Ao iniciar um Encontro em Furtividade e sendo o primeiro na Iniciativa, você pode Atacar todos os inimigos no alcance. Esses Ataques são considerados Ataques Furtivos. Você precisará rolar apenas um Ataque, cuja dificuldade será a maior CA entre os inimigos. Você não terá Vantagem nessa rolagem.
+
 ## Maior Vigarice (Custo 3)
 
 **Requisitos**: Habilidade "Ladrão" de Custo 1.

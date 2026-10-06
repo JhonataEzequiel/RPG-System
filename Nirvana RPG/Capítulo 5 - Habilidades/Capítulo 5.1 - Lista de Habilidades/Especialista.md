@@ -52,3 +52,10 @@ Escolha uma característica na qual é Proficiente, como tipo de Arma ou Salvagu
 Para essa Habilidade ter efeito, você precisa estar em um Encontro com pelo menos 3 inimigos.
 
 Você começa o Encontro com uma Ação adicional nas primeiras três Rodadas. Após isso, um inimigo à escolha do mestre ganhará uma Ação adicional em algum momento do Encontro, durante o Turno da criatura escolhida. A sua Ação adicional não poderá ser usada para Atacar, conjurar Magias, ou usar outras Habilidades de Ataque, mas a concedida ao seu oponente, sim.
+
+## Roda do Dharma (Custo 3)
+
+**Requisitos**: Habilidade "Divergente" de Custo 1. 10 de Sabedoria, 10 de Constituição.
+**Duração**: 1 Encontro.
+
+Ao receber um instância de dano em um Encontro, você ganha 2d4 de Resistência àquele tipo de dano. Esse efeito é cumulativo, e tem início a após o momento em que você receber a primeira instância de dano.
