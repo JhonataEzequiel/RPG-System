@@ -15,7 +15,7 @@ Pode haver casos em que um dano persistirá por um tempo especificado. Tais caso
 
 ## Dano Físico
 
-Dano Físico vem de qualquer tipo de ataque que não se origine em uma Magia ou efeito mágico. Esse dano é comum em qualquer fonte que não seja considerada mágica. Existem três tipos de Dano Físico: o Dano Cortante, o Perfurante, e o de Impacto (ou Contundente). Cada Arma ou personagem que cause Dano Físico terá em sua descrição quais tipos de Dano Físico especificamente ele consegue causar. 
+Dano Físico vem de qualquer tipo de ferimento causado por objetos físicos. Esse dano é comum em qualquer fonte que não seja considerada mágica. Existem três tipos de Dano Físico: o Dano Cortante, o Perfurante, e o de Impacto (ou Contundente). Cada Arma ou personagem que cause Dano Físico terá em sua descrição quais tipos de Dano Físico especificamente ele consegue causar. 
 
 O Dano Cortante é normalmente causado por muitos tipos de armas, e trata-se de cortes que podem ser realizados em diferentes direções. O Dano Perfurante ocorre quando se atinge o oponente com algum tipo de objeto ou Habilidade capaz de perfurar, como um golpe de lança. O Dano de Impacto ocorre quando o alvo é afetado por uma força direta contundente, causando pressão no local.
 

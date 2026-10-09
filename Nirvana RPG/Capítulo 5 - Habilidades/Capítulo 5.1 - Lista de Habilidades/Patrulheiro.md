@@ -53,7 +53,7 @@ Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá 
 
 **Requisitos**: 3 de Destreza.
 
-Sua pontaria é incrementada devido a sua experiência com Armas a Distância. Aumente a distância dessas Armas em 18m.
+Sua pontaria é incrementada devido a sua experiência com Armas à Distância. Aumente a distância dessas Armas em 18m.
 
 ## Sobrevivente Sadio (Custo 1)
 
@@ -107,7 +107,7 @@ Se você estiver em combate com a criatura, você recebe um bônus de +2 de Dest
 
 **Requisitos**: 5 de Destreza.
 
-Sua mira melhora a cada abate. Para cada criatura morta com um Ataque a Distância, adicione 1.5m à distância de suas Armas a Distância, com um limite de 150m.
+Sua mira melhora a cada abate. Para cada criatura morta com um Ataque à Distância, adicione 1.5m ao alcance de suas Armas à Distância, com um limite de 150m adicionais.
 
 ## Presa Ato IV (Custo 3)
 
@@ -135,6 +135,8 @@ O custo de Mana de Tambor Rápido é permanentemente diminuído em 1.
 
 ## Morte Branca (Custo 3)
 
-**Requisitos**: Habilidade "Centena de Alvos" de Custo 2. 10 de Destreza.
+**Requisitos**: Habilidade "Centena de Alvos" de Custo 2. Ser Proficiente em Armas à Distância. 10 de Destreza.
 
-O seu primeiro Ataque com uma Arma a Distância enquanto estiver Furtivo causará o dobro de dano caso você acerte. Se você estiver a, pelo menos, 90m de distância de seu alvo, e você acertar seu Ataque com uma diferença de 3 pontos em relação a CA dele, você não sairá de Furtividade.
+Se você estiver a, pelo menos, 90m de distância de uma criatura, e realizar um Ataque à Distância, você causará 2d12 a mais de dano, de um dos tipos capazes de serem causados pela sua Arma. A cada 30m além desses 90m, você adicionará 1d12 de Dano Verdadeiro ao Ataque. Se você estiver Furtivo antes de Atacar a uma distância mínima de 90m, e acertar seu alvo com pelo menos 3 pontos a mais em relação a CA dele, você não sairá de Furtividade.
+
+Para outros Ataques à Distância, os com uma distância inferior a 90m, duplique seu Bônus de Proficiência para acertar.

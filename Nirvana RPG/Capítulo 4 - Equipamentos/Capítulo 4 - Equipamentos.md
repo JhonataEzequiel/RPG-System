@@ -31,7 +31,7 @@ As Armas listadas no Capítulo 4.2 - Lista de Armas são apenas a unidade, ou se
 - **Comuns:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações, com -3 para acertar. Atacar com apenas uma custa uma Ação.
 - **Empunhadura Dupla:** Exigem duas mãos. Não podem ser usadas em uma mão só, nem duas ao mesmo tempo.
 - **Punho:** Beneficiam-se de Habilidades de Ataques Desarmados, mas ambas as mãos devem estar ocupadas apenas com Armas de Punho para isso. Não se beneficiam de Habilidades específicas de Armas, mas sim de Habilidades que modificam Ataques em geral.
-- **Armas à Distância:** O alcance máximo está na tabela de cada Arma. Atacar além dele impõe Desvantagem. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior, mas não possuem Escalas ou bônus de Atributo. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, seguindo as regras de Armas Comuns.
+- **Armas à Distância:** O alcance máximo está na tabela de cada Arma. Atacar além dele impõe Desvantagem, e -1 para cada 9m além do alcance. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior, mas não possuem Escalas ou bônus de Atributo. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, seguindo as regras de Armas Comuns.
 
 **Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos, aumentando o dano em 1d4 de um dos tipos possíveis da Arma.
 

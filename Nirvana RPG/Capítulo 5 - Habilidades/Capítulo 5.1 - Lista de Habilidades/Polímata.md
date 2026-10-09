@@ -59,13 +59,11 @@ Você pode trocar um Ponto de Atributo para ter +1 em todos os Testes. Você pod
 
 Sempre que não estiver em uma zona urbana você pode adicionar o seu Nível de Sabedoria ou Constituição a qualquer Salvaguarda ou Teste de Perícia. Essa Habilidade perde o efeito se você estiver com algum Nível de Exaustão.
 
-## Gnose (Custo 3)
+## Transcender a Matéria (Custo 3)
 
-**Requisitos**: 10 de Sabedoria, 10 de Fé, e 5 de Inteligência.
+**Requisitos**: 10 de Sabedoria, 10 de Fé, e 10 de Inteligência.
 
-Você retirou o véu da realidade que limitava a sua consciência, sendo capaz agora de se comunicar diretamente com o divino. Escolha 1 Magia da sua Lista de Magias. Ela não custará mais Mana para ser conjurada, e também não terá mais pré-requisitos. Além disso, você ganha 1 Ponto de Atributo e 1 Ponto de Habilidade.
-
-Alternativamente, você pode realocar os seus Atributos da maneira que quiser. Também pode trocar a Raça do seu personagem, além da aparência dele. Isto só pode ser feito uma vez. Fazendo isso, você cessará sua conexão com uma divindade ou patrono, caso tenha algum. Você mantém seus Níveis, mas pode escolher novas Habilidades e Magias. No entanto, não pode trocar as Perícias. Você não recupera os pontos gastos nesta Habilidade.
+Seu corpo material perde boa parte de sua influência, se enfraquecendo, tirando as limitações da sua mente e alma. Seus Pontos de Mana Máximos são dobrados. Você tem 10 Pontos de Vulnerabilidade a Dano Físico, Venenoso, e Ácido. Essa Vulnerabilidade é diminuída para 5 em caso de Dano Contínuo.
 
 ## Trocar de Lado (Custo 3)
 

@@ -25,7 +25,7 @@ Os bônus em si podem variar dependendo do Teste, mas geralmente são os Modific
 
 ## Testes
 
-Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um Teste para ultrapassar a CA do oponente. Atacar é considerado um Teste.
+Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um Teste para ultrapassar a CA do oponente. Atacar é considerado um Teste. O valor mínimo possível em um Teste é 1.
 
 É possível que dois jogadores realizem um Teste ao mesmo tempo caso o Mestre permita. Por exemplo, se você deseja realizar um Teste de uma Perícia, e seu companheiro pergunta se pode ajudar, e o Mestre permitir, você terá Vantagem naquele teste.
 
