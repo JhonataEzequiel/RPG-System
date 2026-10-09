@@ -107,7 +107,7 @@ Se você estiver em combate com a criatura, você recebe um bônus de +2 de Dest
 
 **Requisitos**: 5 de Destreza.
 
-Para cada criatura abatida com um Ataque a Distância, adicione 1.5m à distância de suas Armas a Distância, com um limite de 150m.
+Sua mira melhora a cada abate. Para cada criatura morta com um Ataque a Distância, adicione 1.5m à distância de suas Armas a Distância, com um limite de 150m.
 
 ## Presa Ato IV (Custo 3)
 
@@ -135,6 +135,6 @@ O custo de Mana de Tambor Rápido é permanentemente diminuído em 1.
 
 ## Morte Branca (Custo 3)
 
-**Requisitos**: 10 de Destreza.
+**Requisitos**: Habilidade "Centena de Alvos" de Custo 2. 10 de Destreza.
 
-O seu primeiro Ataque com uma Arma a Distância após um Descanso Curto, enquanto estiver Furtivo, causará o dobro de dano caso você acerte. Você tem +5 para acertar esse Ataque.
+O seu primeiro Ataque com uma Arma a Distância enquanto estiver Furtivo causará o dobro de dano caso você acerte. Se você estiver a, pelo menos, 90m de distância de seu alvo, e você acertar seu Ataque com uma diferença de 3 pontos em relação a CA dele, você não sairá de Furtividade.

@@ -48,7 +48,7 @@ Você agora pode realizar Infusões em itens não-mágicos. Você precisa ter a 
 
 **Requisitos**: Habilidade "Ferraria Intermediária" de Custo 2. 5 de Sabedoria, 2 de Inteligência.
 
-Você agora pode realizar múltiplas Infusões de itens, assim como consta as regras de Infusões. Você não terá custo adicional pelas Pedras de Infusão, ou seja, elas custarão o valor que consta na tabela. Ainda que ferreiros normalmente cobrem o dobro do preço para Infundir uma Pedra de Infusão em um item já infundido, isto não refletirá no preço das pedras em si. Você ainda pode cobrar o valor que quiser pelos seus serviços.
+A quantidade de Infusões que você pode realizar em um único item aumenta, sendo agora o maior valor entre 3 e seu Bônus de Proficiência.
 
 ## Ferraria Mágica (Custo 3)
 
@@ -70,4 +70,4 @@ Você não pode criar Poções, Venenos, Bombas, ou coisas similares. Num geral,
 
 **Requisitos**: Habilidade "Ferraria Avançada" de Custo 3. 10 de Sabedoria, 4 de Inteligência.
 
-Você diminui o tempo para forjar ou Infundir qualquer item não-mágico pela metade. As Pedras de Infusão que você infunde agora tem o efeito dobrado. Ou seja, ao infundir uma Pedra de Infusão que aumentaria as Escalas de um item em dois graus, ela aumentará em quatro. Os efeitos de diminuição de Escala permanecem o mesmo. Você também pode infundir Pedra de Infusão em Itens Mágicos desde que sejam Armaduras ou Armas.
+Você diminui o tempo para forjar ou Infundir qualquer item não-mágico pela metade. As Pedras de Infusão que você Infunde agora tem o efeito dobrado. Ou seja, ao Infundir uma Pedra de Infusão que aumentaria a Escala de um item em 1 grau, agora aumentará em 2.
