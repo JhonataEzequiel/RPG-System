@@ -49,6 +49,12 @@ Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá 
 
 **Revelar Forças** (Uma Ação, 3 de Mana): Revela todas as Resistências e Invulnerabilidades que um alvo possua.
 
+## Mira Melhorada (Custo 1)
+
+**Requisitos**: 3 de Destreza.
+
+Sua pontaria é incrementada devido a sua experiência com Armas a Distância. Aumente a distância dessas Armas em 18m.
+
 ## Sobrevivente Sadio (Custo 1)
 
 Ao se alimentar, adicione +1d8 de Pontos de Vida Temporários até o fim do próximo Encontro. Você terá que consumir o equivalente a uma Ração de Viagem (disponível no Capítulo 4.12 - Outros Itens) para que essa Habilidade tenha efeito. Esse efeito é cumulativo até um máximo de 3d8. Uma vez atingido esse máximo, será necessário ter um Descanso Longo para ganhar novos Pontos de Vida Temporários.
@@ -97,6 +103,12 @@ Enquanto fora de combate, escolha uma criatura alvo que você possa ver. Você t
 
 Se você estiver em combate com a criatura, você recebe um bônus de +2 de Destreza enquanto o combate durar. Uma vez que o combate encerrar, a Habilidade perde o efeito.
 
+## Centena de Alvos (Custo 2)
+
+**Requisitos**: 5 de Destreza.
+
+Para cada criatura abatida com um Ataque a Distância, adicione 1.5m à distância de suas Armas a Distância, com um limite de 150m.
+
 ## Presa Ato IV (Custo 3)
 
 **Requisitos**: Habilidade "Presa Ato III" de Custo 2. 6 de Destreza, 4 de Sabedoria.
@@ -120,3 +132,9 @@ Caso sua Arma à Distância atualmente equipada possua recarga, ela deve estar c
 Você realiza 3 Ataques rápidos em seguida com uma Arma à Distância. Para Armas à Distância que precisam de recarga, você recarregará extremamente rápido entre os tiros, anulando o custo de Ações para recarregar. Ao finalizar os 3 Ataques, a Arma já fica recarregada. Você não pode mais Atacar no Turno em que usar essa Habilidade. 
 
 O custo de Mana de Tambor Rápido é permanentemente diminuído em 1.
+
+## Morte Branca (Custo 3)
+
+**Requisitos**: 10 de Destreza.
+
+O seu primeiro Ataque com uma Arma a Distância após um Descanso Curto, enquanto estiver Furtivo, causará o dobro de dano caso você acerte. Você tem +5 para acertar esse Ataque.

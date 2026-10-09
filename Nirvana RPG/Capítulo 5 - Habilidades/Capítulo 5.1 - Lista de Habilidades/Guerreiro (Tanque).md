@@ -244,3 +244,9 @@ Caso todos os seus aliados forem Nocauteados ou mortos e você estiver lutando s
 **Requisitos**: Habilidade "Último Suspiro" de Custo 3. 1 de Carisma.
 
 Caso a Habilidade "Último Suspiro" esteja ativa, você pode escolher se sacrificar pelos seus aliados. Você tem direito a fazer uma última coisa antes disso. Qualquer Habilidade, Magia, Ataque, ou outra coisa que custe mais do que uma Ação Livre agora se torna uma Ação Livre. Seus aliados se estabilizam com 1 Ponto de Vida, e você morre.
+
+## Impenetrável (Custo 3)
+
+**Requisitos**: 10 de Constituição.
+
+Acertos Críticos causam metade do dano em você.
