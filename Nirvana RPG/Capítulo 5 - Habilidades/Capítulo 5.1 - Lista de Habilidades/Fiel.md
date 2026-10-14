@@ -113,3 +113,10 @@ Você pode escolher ter múltiplos desses bônus ao mesmo tempo. Você gastará 
 Você atingiu um patamar superior de devoção. Um último teste à sua fé será necessário. Você precisará atingir o Nível de Exaustão 5 e ficar nesse estado por um dia (24 horas). Durante esse período, seu Nível de Exaustão não aumentará de forma natural. Ou seja, você não chegará a Exaustão 6 por ficar sem ter um Descanso Longo. 
 
 Após isso, faça uma reza pedindo por bençãos e oferecendo sua penitência. Ao finalizar a reza, você será curado da Exaustão e terá +5 em Testes de Medicina permanentemente. Por último, você receberá uma Resistência Lendária por Descanso Curto. Você só pode receber uma Resistência Lendária por vez através desta Habilidade.
+
+## Apocatástase (Custo 3)
+
+**Requisitos**: Habilidade "Santidade" de Custo 3.
+**Alcance**: 150m.
+
+Ao causar dano a um inimigo, outros inimigos no combate recebem 1d10 de Dano Verdadeiro. Caso nenhum dano seja causado por conta de Imunidades ou Resistências, os outros não recebem dano. Ao curar um aliado, outros aliados também são curados em 1d10.

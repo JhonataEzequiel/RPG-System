@@ -63,7 +63,7 @@ Sempre que não estiver em uma zona urbana você pode adicionar o seu Nível de 
 
 **Requisitos**: 10 de Sabedoria, 10 de Fé, e 10 de Inteligência.
 
-Seu corpo material perde boa parte de sua influência, se enfraquecendo, tirando as limitações da sua mente e alma. Seus Pontos de Mana Máximos são dobrados. Você tem 10 Pontos de Vulnerabilidade a Dano Físico, Venenoso, e Ácido. Essa Vulnerabilidade é diminuída para 5 em caso de Dano Contínuo.
+Seu corpo material perde boa parte de sua influência, se enfraquecendo, e tirando as limitações da sua mente e alma. Seus Pontos de Mana Máximos são dobrados. Você tem 10 Pontos de Vulnerabilidade a Dano Físico, Venenoso, e Ácido. Essa Vulnerabilidade é diminuída para 5 em caso de Dano Contínuo.
 
 ## Trocar de Lado (Custo 3)
 

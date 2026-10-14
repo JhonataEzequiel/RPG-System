@@ -33,9 +33,9 @@ Seu limite antigo de se teletransportar duas vezes ao dia no Nível 14 agora é 
 
 **Requisitos**: Você é um Fjer de Nível 10 ou superior.
 
-Quando você possuir um objeto que naturalmente não pode se mover, você agora pode se mover com ele de acordo com a sua Natureza. Por exemplo, se você possuir uma chave você pode girá-la se estiver na fechadura, sendo capaz de abrir uma porta. 
+Quando você possuir um objeto que naturalmente não pode se mover, você agora pode se mover com ele de acordo com a sua Natureza. Por exemplo, se você possuir uma chave você pode girá-la se estiver na fechadura, sendo capaz de abrir uma porta.
 
-Se você possuir um projétil em movimento você pode mudar a trajetória dele. O mestre pode pedir um Teste para que alguma dessas Ações seja possível. Por exemplo, para mudar a trajetória de um projétil você precisaria vencer a resistência do ar passando por um Teste de Atletismo (mesmo sendo um projétil). Nesses casos, as suas estatísticas que contarão, ou seja, você utilizará seu valor de Atletismo, já que o projétil em si não teria um valor. 
+Você também pode possuir um objeto com uma Reação ao invés de uma Ação Bônus, mas isso só vale para projéteis direcionados a você. Se você possuir um projétil em movimento, você pode mudar a trajetória dele. O mestre pode pedir um Teste para que isso seja possível. Por exemplo, para mudar a trajetória de um projétil você precisaria vencer a resistência do ar passando por um Teste de Atletismo. Nesses casos, as suas estatísticas que contarão, ou seja, você utilizará seu valor de Atletismo, já que o projétil em si não teria um valor. 
 
 Você agora tem Vantagem em Testes de Ladroagem para desarmar armadilhas se você possuir a armadilha.
 
