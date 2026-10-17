@@ -5,7 +5,7 @@ O Arquétipo do Bruxo governa o oculto e seus poderes perigosos e desconhecidos.
 
 **Requisitos**: 3 de Inteligência. 3 de Fé.
 
-Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo. Além disso, aumente sua Mana em 1d4 permanentemente.
+Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo.
 
 ## Domínio (Custo 1)
 
@@ -45,7 +45,7 @@ Sempre que conjurar qualquer Magia de dano que não seja um Sortilégio, cause u
 
 **Requisitos**: Habilidade "Mente Vazia" de Custo 1.
 
-Ao aumentar sua Mana Máxima quando subir de Nível, você agora adiciona seu valor total de Sabedoria ao invés do Modificador. Além disso, você ganha 1d8 de Pontos de Mana Temporários ao iniciar um Encontro. Em troca, não recuperará mais Mana ou Vida com Descansos. O contrato não tem efeito em Níveis anteriores. Ou seja, somente a partir do momento que você aceitar é que ele entrará em vigor.
+Ao aumentar sua Mana Máxima quando subir de Nível, você agora adiciona seu valor total de Sabedoria ao invés do Modificador. Em troca, não recuperará mais Mana ou Vida com Descansos. O contrato não tem efeito em Níveis anteriores. Ou seja, somente a partir do momento que você aceitar é que ele entrará em vigor.
 
 Quem ou o quê é responsável por falar com você e oferecer esse contrato é um mistério. O mestre pode usar esse personagem para oferecer outros contratos diferentes, ou ter relevância na campanha, se assim desejar.
 

@@ -7,13 +7,13 @@ Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes co
 
 **Classificação:** Armaduras com penalidade de Deslocamento são pesadas. As que concedem CA sem penalidade são leves. As demais são roupas. Exceções serão descritas no item.
 
-| Escala | Nível 1                                     | Nível 3                                     | Nível 5                                     | Nível 7          | Nível 10 |
-| ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ---------------- | -------- |
-| S      | +3 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +4 de Resistência a Dano Físico e Elemental | +3 de Iniciativa | +3 de CA |
-| A      | +2 de Resistência a Dano Físico             | +3 de Resistência a Dano Físico             | +3 de Resistência a Dano Físico             | +2 de Iniciativa | +2 de CA |
-| B      | +2 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico             | +3 de Resistência a Dano Físico             | +1 de Iniciativa | +2 de CA |
-| C      | +1 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico             | +1 de Iniciativa | +1 de CA |
-| D      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Iniciativa | +1 de CA |
+| Escala | Nível 1                                     | Nível 3                                     | Nível 5                                     | Nível 7                                     | Nível 10 |
+| ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------- |
+| S      | +1 de Resistência a Dano Físico e Elemental | +2 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +4 de Resistência a Dano Físico e Elemental | +3 de CA |
+| A      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +2 de CA |
+| B      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico e Elemental | +2 de Resistência a Dano Físico e Elemental | +2 de CA |
+| C      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico e Elemental | +1 de CA |
+| D      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de CA |
 
 ## Armas
 
@@ -33,15 +33,15 @@ As Armas listadas no Capítulo 4.2 - Lista de Armas são apenas a unidade, ou se
 - **Punho:** Beneficiam-se de Habilidades de Ataques Desarmados, mas ambas as mãos devem estar ocupadas apenas com Armas de Punho para isso. Não se beneficiam de Habilidades específicas de Armas, mas sim de Habilidades que modificam Ataques em geral.
 - **Armas à Distância:** O alcance máximo está na tabela de cada Arma. Atacar além dele impõe Desvantagem, e -1 para cada 9m além do alcance. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior, mas não possuem Escalas ou bônus de Atributo. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, seguindo as regras de Armas Comuns.
 
-**Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos, aumentando o dano em 1d4 de um dos tipos possíveis da Arma.
+**Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos, aumentando o dano em 1d4 de um dos tipos possíveis de serem causados pela Arma, à sua escolha.
 
-| Escala | Nível 1    | Nível 3    | Nível 5    | Nível 7     | Nível 10                 |
-| ------ | ---------- | ---------- | ---------- | ----------- | ------------------------ |
-| S      | +2 de dano | +3 de dano | +5 de dano | +10 de dano | +4 para acertar o Ataque |
-| A      | +1 de dano | +2 de dano | +3 de dano | +4 de dano  | +3 para acertar o Ataque |
-| B      | +1 de dano | +2 de dano | +2 de dano | +3 de dano  | +2 para acertar o Ataque |
-| C      | +1 de dano | +1 de dano | +2 de dano | +2 de dano  | +2 para acertar o Ataque |
-| D      | +1 de dano | +1 de dano | +1 de dano | +1 de dano  | +1 para acertar o Ataque |
+| Escala | Nível 1    | Nível 3    | Nível 5    | Nível 7    | Nível 10                 |
+| ------ | ---------- | ---------- | ---------- | ---------- | ------------------------ |
+| S      | +5 de dano | +5 de dano | +5 de dano | +5 de dano | +5 para acertar o Ataque |
+| A      | +4 de dano | +4 de dano | +4 de dano | +4 de dano | +4 para acertar o Ataque |
+| B      | +3 de dano | +3 de dano | +3 de dano | +3 de dano | +3 para acertar o Ataque |
+| C      | +2 de dano | +2 de dano | +2 de dano | +2 de dano | +2 para acertar o Ataque |
+| D      | +1 de dano | +1 de dano | +1 de dano | +1 de dano | +1 para acertar o Ataque |
 
 ## Escudos
 

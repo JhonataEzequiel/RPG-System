@@ -23,7 +23,7 @@ Alternativamente, você tem +1 na Iniciativa, e +1 de CA se o seu Modificador de
 
 ## Maestria com Armas à Distância (Custo 1)
 
-Se uma Arma à Distância sua precisar de recarga, você pode recarregá-la com uma Ação Bônus. Caso não precise, adicione +5 para acertar o Ataque se o alvo estiver em até metade do alcance total da Arma.
+Se uma Arma à Distância sua precisar de recarga, você pode recarregá-la com uma Ação Bônus. Caso não precise, adicione +3 para acertar o Ataque se o alvo estiver em até metade do alcance total da Arma.
 
 ## Maestria com Artes de Batalha (Custo 1)
 
