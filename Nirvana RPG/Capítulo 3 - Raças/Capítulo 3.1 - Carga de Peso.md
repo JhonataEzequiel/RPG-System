@@ -14,5 +14,6 @@ Cada Raça consegue carregar uma quantidade de peso em quilos diferente. No enta
 | Halfling         | 35                     |
 | Humano           | 45                     |
 | Okuri            | 45                     |
+| Revenã           | 40                     |
 | Siderium         | 40                     |
 | Tártaro          | 50                     |

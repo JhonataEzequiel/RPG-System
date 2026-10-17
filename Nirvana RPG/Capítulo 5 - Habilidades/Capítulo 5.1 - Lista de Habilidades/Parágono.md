@@ -109,3 +109,11 @@ Se você engolir uma criatura do seu tamanho, sua barriga crescerá para acomod�
 **Contato Astral** (Reação, 7 de Mana): Você se torna completamente espectral ao receber uma instância de Dano Físico ou de Sangue, se tornando Imune àquela instância de dano, e voltando ao normal logo após. A primeira ativação dessa Habilidade após um Descanso Longo não custa Mana.
 
 **Mundo dos Mortos** (Passiva): Você pode escolher ficar completamente Imune a Dano Físico e Dano de Sangue enquanto estiver na Forma Espectral, atravessando finalmente a linha tênue entre o mundo físico e o espectral. No entanto, a Forma Espectral custará 15 de Mana ao invés de 5, mesmo que seja a primeira vez que for ativada após um Descanso Longo.
+
+## Atestado de Vida (Custo 3)
+
+**Requisitos**: Você é um Revenã de Nível 10 ou superior.
+
+A quantidade de Pontos de Vida Temporários recebidos ao conceder a si mesmo um efeito positivo aumenta de 1d8 para 2d8. 
+
+Ademais, você agora começa as Salvaguardas quando for Nocauteado com 1 sucesso. A quantidade de sucessos aumenta para 2 caso você tenha recebido pelo menos dois efeitos positivos durante o Encontro. Esse efeito só é válido para a primeira vez que for Nocauteado.
