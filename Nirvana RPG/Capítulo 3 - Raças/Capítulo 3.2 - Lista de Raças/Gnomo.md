@@ -3,6 +3,8 @@ Existem dois tipos de Gnomos, os Feéricos e os da Natureza. Além de suas habil
 
 ## Gnomo Feérico
 
+### Habilidades de Raça
+
 **Proteção das Fadas** (Passiva): Os Gnomos Feéricos possuem uma barreira mágica que os protege, a qual os acompanha durante todo o tempo e é desfeita após receber dano. Os efeitos variam dependendo da fonte do dano:
 
 - **Ataques Diretos:** Tentativas de Ataque sofrem uma penalidade de -3 para acertar. Caso obtenham sucesso, causam metade do dano. A proteção é desfeita somente quando o Ataque acertar.
@@ -13,6 +15,8 @@ A Habilidade é automática e independe de você querer usá-la ou não. No enta
 ## Gnomo da Natureza
 
 O Gnomo da Natureza pode se comunicar com os espíritos ao seu redor, sendo capaz de receber certas bênçãos deles. Quanto maior o Nível do Gnomo, mais afinidade ele terá com os espíritos. Os espíritos podem alterar o corpo dos Gnomos de 2 formas diferentes, garantindo estatísticas únicas.
+
+### Habilidades de Raça
 
 **Espíritos da Floresta** (Ação Bônus): O Gnomo pode alternar entre as 2 formas com uma Ação Bônus no final de seu Turno. Os Gnomos da Natureza podem desativar ambas as formas com uma ação livre, voltando a um estado neutro aonde nenhuma das duas está ativada.
 

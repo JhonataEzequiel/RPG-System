@@ -75,6 +75,8 @@ Para se libertar desta Condição você precisará passar por algumas Salvaguard
 
 Caso obtenha 3 falhas, seu personagem morre, e você não poderá mais utilizar ele a não ser que seja revivido de alguma maneira. Ao ser Nocauteado e conseguir se libertar, na próxima vez que for Nocauteado, você já começará com uma falha. Essas falhas se acumulam a medida que você é Nocauteado.
 
+Se receber dano enquanto Nocauteado, você recebe uma falha. Caso essa instância de dano seja maior ou igual aos seus Pontos de Vida Máximos, você morre.
+
 ### Paralisado
 
 Uma criatura Paralisada está Incapacitada (veja a condição) e não pode mover-se ou falar.

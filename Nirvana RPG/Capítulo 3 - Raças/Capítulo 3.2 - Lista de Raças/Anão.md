@@ -1,6 +1,8 @@
 
 Anões são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tesouros, ferraria, bijuterias, artesanato, e também Itens Mágicos. Conhecidos por sua ferocidade em combate e sua força de vontade, os Anões se dão bem com a maioria dos povos do mundo.
 
+### Habilidades de Raça
+
 **Runas Mágicas**: Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, os Anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e só podem usar uma runa de cada tipo.
 
 - **Aplicar Runa** (Uma Ação): Para colocar uma Runa em um equipamento é necessário que esteja ao alcance do seu toque. No entanto, você pode retirar uma Runa de um equipamento que você colocou à distância, não tendo limite de espaço. A Runa é removida, e o poder é retomado para si. Para remover uma Runa também é necessário uma Ação.

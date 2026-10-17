@@ -114,6 +114,8 @@ Se você engolir uma criatura do seu tamanho, sua barriga crescerá para acomod�
 
 **Requisitos**: Você é um Revenã de Nível 10 ou superior.
 
-A quantidade de Pontos de Vida Temporários recebidos ao conceder a si mesmo um efeito positivo aumenta de 1d8 para 2d8. 
+A quantidade de Pontos de Vida Temporários recebidos ao conceder a si mesmo um efeito positivo aumenta de 1d8 para 2d8. Esse valor substitui o 1d8, e segue a regra de não acumular PV Temporários.
 
-Ademais, você agora começa as Salvaguardas quando for Nocauteado com 1 sucesso. A quantidade de sucessos aumenta para 2 caso você tenha recebido pelo menos dois efeitos positivos durante o Encontro. Esse efeito só é válido para a primeira vez que for Nocauteado.
+Ademais, a duração de Voltar à Vida aumenta de três para cinco Rodadas.
+
+Por último, você agora começa as Salvaguardas quando for Nocauteado com 1 sucesso. A quantidade de sucessos aumenta para 2 caso você esteja sob efeito de Voltar à Vida. Esse efeito só é válido para a primeira vez que for Nocauteado após um Descanso Longo.

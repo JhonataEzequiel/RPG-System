@@ -1,6 +1,8 @@
 
 Os Fjer são uma Raça de pássaros humanoides que possuem a habilidade de se apossar de um corpo por tempo indeterminado. Também possuem a capacidade de voar. A aparência deles varia de acordo com a sua origem, mas normalmente herdam características de pássaros diferentes. Seus membros superiores, que deveriam ser apenas as suas asas, têm na verdade um formato parecido com braços normais, porém cobertos por penas e bem maiores, dando a impressão de terem asas. 
 
+### Habilidades de Raça
+
 **Troca de Corpo** (Ação Bônus): O Fjer é capaz de possuir objetos por tempo indefinido, mas seu corpo original fica Inconsciente durante esse período. Você pode voltar para o seu corpo original com uma Ação Bônus, ou quando o corpo possuído for destruído. Algumas regras se aplicam:
 
 - **Morte do Corpo Original:** Caso o corpo original receba um golpe fatal, o Fjer morrerá sem ao menos ser Nocauteado. O Fjer não sente se o seu corpo estiver sendo atacado.

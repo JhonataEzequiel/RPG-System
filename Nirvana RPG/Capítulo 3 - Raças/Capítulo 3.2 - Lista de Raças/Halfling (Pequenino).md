@@ -5,6 +5,8 @@ Os Halflings são conhecidos pela hospitalidade, lábia, e capacidade de se move
 
 Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Este aspecto afeta como você interage com o ambiente ao seu redor.
 
+### Habilidades de Raça
+
 ### Pés Sorrateiros
 
 **Agilidade nos Pés** (Passiva): Você pode escalar utilizando seu Deslocamento total ao invés de metade dele.

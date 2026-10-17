@@ -1,6 +1,8 @@
 
 O povo Gama é uma raça de sapos humanoides. Em sua cultura, é dito que os mesmos nasceram de folhas de uma árvore ancestral há muito esquecida que, ao cair no chão, deu origem aos seus primeiros ancestrais. Estes ancestrais eram sapos pequenos, como normalmente são encontrados os sapos. Aos poucos, os espíritos da floresta ensinaram estes sapinhos como se comunicar e festejar. Eles foram sendo modificados pelo próprio lar aonde viviam, adquirindo inteligência e capacidades similares aos de outras raças. São um povo considerado feliz e festeiro, e adoram a companhia de outras raças.
 
+### Habilidades de Raça
+
 **Anfíbio** (Passiva): Você pode respirar embaixo d'água, e seu Deslocamento Aquático é o dobro do seu Deslocamento. Você tem vantagem em Testes de Atletismo enquanto estiver embaixo d'água.
 
 **Língua de Sapo** (Uma Ação): Você estica sua língua e realiza um Ataque, cujo o alcance é de 4.5m, causando 1d4 + metade do seu Nível como Dano de Impacto. Após isso, o alvo do Ataque precisa passar por um Teste de Resistência de Força CD 10 + metade do seu Nível. Em caso de falha, o alvo tem a Condição Agarrado, e você pode puxá-lo para próximo de você com uma Ação, o segurando em um local adjacente a você. O alvo não perde a Condição Agarrado ao ser puxado. Em caso de sucesso, nada acontece. Alvos de um grau de tamanho superior ao seu têm Vantagem no Teste, e os maiores ainda são Imunes. Ao ser Agarrado, o alvo pode realizar novamente o Teste no início de cada um de seus Turnos para se soltar.
