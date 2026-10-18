@@ -6,7 +6,7 @@ O Arquétipo do Criomante contém Habilidades relacionadas ao controle do gelo, 
 **Requisitos**: 3 de Inteligência.
 **Custo**: Reação, 1 de Mana.
 
-Toda vez que conjurar uma Magia de área que cause Dano de Gelo, você aumenta o tamanho da área em 3m, de acordo com o tipo de área. Um nevoeiro surge ao fim da conjuração ao seu redor. Trata-se de uma névoa fina, mas muito fria. O próximo Ataque corpo a corpo efetuado contra você tem Desvantagem para acertar.
+Toda vez que conjurar uma Magia de área que cause Dano de Gelo, você aumenta o tamanho da área em 3m, de acordo com o tipo de área. Um nevoeiro surge ao fim da conjuração ao seu redor. Trata-se de uma névoa fina, mas muito fria. O próximo Ataque Corpo a Corpo efetuado contra você tem Desvantagem para acertar.
 
 ## Habitante de Terras Congeladas (Custo 1)
 
@@ -18,8 +18,9 @@ Seu corpo se adapta o suficiente para sobreviver um pouco melhor que a maioria e
 
 **Requisitos**: 5 de Inteligência.
 **Custo**: Três Ações, 1 de Mana.
+**Duração**: 3 Rodadas.
 
-Você consegue soprar um vento congelante em uma área de cone de 4.5m de tamanho. Criaturas dentro dessa área devem passar por uma Salvaguarda de Destreza CD 10 + Int. Em caso de falha, recebem 2d4 + Int de Dano de Gelo. Em caso de sucesso, recebem metade do dano.
+Você consegue soprar um vento congelante em uma área de cone de 4.5m de tamanho. Criaturas dentro dessa área devem passar por uma Salvaguarda de Destreza CD 10 + Int. Em caso de falha, recebem 2d8 + Int de Dano de Gelo. Em caso de sucesso, recebem metade do dano.
 
 Ao usar essa Habilidade, você causará 1d10 a mais de Dano de Gelo com suas Magias que causem Dano de Gelo.
 

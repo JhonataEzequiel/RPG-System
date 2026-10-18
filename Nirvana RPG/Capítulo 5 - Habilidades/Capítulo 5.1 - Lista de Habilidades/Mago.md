@@ -92,7 +92,7 @@ A Magia adicional concedida por Fluir da Mana agora poderá ser uma Magia de cus
 
 **Requisitos**: 3 de Inteligência.
 
-Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No segundo Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do terceiro em diante, adicione o Atributo inteiro ao invés do Modificador.
+Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No terceiro Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do quarto em diante, adicione o Atributo inteiro ao invés do Modificador.
 
 ## Arcano Aprimorado (Custo 2)
 
