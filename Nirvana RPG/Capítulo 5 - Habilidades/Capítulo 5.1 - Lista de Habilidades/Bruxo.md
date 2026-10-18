@@ -127,3 +127,11 @@ Você pode usar essa Habilidade três vezes por Descanso Curto ou Longo.
 O céu toma uma coloração escura como em tempos de tempestade. Todos num raio de 120m conseguem ver isso. Seus próximos 3 Sortilégios conjurados dentro da duração desta Habilidade não custam Mana para serem conjurados. Alternativamente, dobre todas as estatísticas de um lacaio conjurado ou reanimado. Isso inclui Pontos de Vida e Mana, Atributos, Salvaguardas, e CA. Caso algum Atributo seja negativo, o valor dele é invertido. Por exemplo, de -4 passaria a ser 4.
 
 Após a duração, você avançará 2 Níveis de Exaustão. Cada vez que Conjurar um Sortilégio com essa Habilidade você recebe 7 Pontos de Vulnerabilidade a Dano Físico.
+
+## Anjo Caído (Custo 3)
+
+**Requisitos**: Habilidade "Amor ao Pecado" de Custo 1. 10 de Fé, 5 de Inteligência.
+
+Você não sofre mais dano de queda. Antes de cair, fracas asas surgem em suas costas feitas a partir de Mana, e amortecem sua queda. A Mana é absorvida novamente após isso.
+
+**Pecado Original** (Reação, 6 de Mana): Ao cair de uma altura superior a 18m, você pousa e cria raízes no chão, que se espalham. Fazendo isso, você se joga no chão, sofrendo 6 de Dano Verdadeiro. As raízes são escuras e sombrias, emanando uma aura negra. Todas as criaturas inimigas num raio igual ao seu Deslocamento centrado em você devem passar por uma Salvaguarda de Sabedoria CD 10 + Int + Fth. Em caso de fracasso, elas têm a Condição Agarrado. Elas podem repetir o Teste no início de cada Turno delas e, caso falhem duas vezes neste Teste, tem também a Condição Encantado. Em caso de sucesso, sofrem 3d8 de Dano Sombrio. As Condições Negativas infligidas duram 6 Rodadas. Essa Habilidade só pode ser usada uma vez por Encontro.

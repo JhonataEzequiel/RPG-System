@@ -112,10 +112,16 @@ Se você engolir uma criatura do seu tamanho, sua barriga crescerá para acomod�
 
 ## Atestado de Vida (Custo 3)
 
-**Requisitos**: Você é um Revenã de Nível 10 ou superior.
+**Requisitos**: Você é um Revenã Zumbi de Nível 10 ou superior.
 
-A quantidade de Pontos de Vida Temporários recebidos ao conceder a si mesmo um efeito positivo aumenta de 1d8 para 2d8. Esse valor substitui o 1d8, e segue a regra de não acumular PV Temporários.
+Curas que antes não funcionavam em você, como a Magia Cura Menor, de custo 1, agora funcionam. Você não é mais afetado negativamente por Magias e outros efeitos advindos de você ou aliados que normalmente afetariam mortos-vivos negativamente.
 
-Ademais, a duração de Voltar à Vida aumenta de três para cinco Rodadas.
+Ao receber Dano Sombrio, os efeitos da sua regeneração da Biologia Necrótica são aumentados. O dado de cura sobe para 1d8 ao invés de 1d4. A duração desse aumento é de um Encontro. Inclusive, você mesmo pode causar Dano Sombrio em si mesmo, por exemplo, ao usar um Sortilégio de dano. Esse aumento só ocorre uma vez por Descanso Longo.
 
-Por último, você agora começa as Salvaguardas quando for Nocauteado com 1 sucesso. A quantidade de sucessos aumenta para 2 caso você esteja sob efeito de Voltar à Vida. Esse efeito só é válido para a primeira vez que for Nocauteado após um Descanso Longo.
+## Esqueleto Assustador e Amedrontador (Custo 3)
+
+**Requisitos**: Você é um Revenã Esqueleto de Nível 10 ou superior.
+
+**Osso Duro de Roer** (Passiva): A distância de acoplamento aumenta para 150m. Suas Resistências a Dano Perfurante e Dano de Fogo aumentam em 4.
+
+**Susto** (Duas Ações, 3 de Mana): Você agora pode Arremessar sua cabeça e reaparecer no local aonde ela cair. Seu corpo atual é descartado, e novos ossos aparecem no local de pouso da cabeça, formando um novo corpo. Se você reaparecer adjacente a alguma criatura, ela deve passar por um Teste de Resistência de Sabedoria CD 14 + Proficiência, até um máximo de 2 criaturas ao mesmo tempo. Em caso de falha, a criatura tem a Condição Amedrontado por 3 Rodadas. Você pode gastar 1 Ponto de Mana adicional para fazer com que o seus itens sejam carregados com você. Pequenas mãozinhas surgem logo abaixo do seu crânio quando você o arremessa, e elas carregam seus itens até o novo local. Quando o corpo novo surge, você já está com eles equipados. Você não pode utilizar Susto caso esteja sob efeito de uma Condição Negativa.
