@@ -49,12 +49,12 @@ Uma vez adquirido XP para subir de Nível será necessário ter um Descanso Long
 
 Ao evoluir de Nível você ganhará mais Pontos de Vida e Pontos de Mana. 
 
-**Pontos de Mana**: Seus Pontos de Mana adicionais serão sempre o valor do seu Modificador de Sabedoria. Caso seu Modificador de Sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana adicional por Nível.
-
 **Pontos de Vida**: Você pode optar por adicionar novos Pontos de Vida de duas maneiras: rolando os dados, ou pegando o valor médio deles.
 - Se optar por rolar os dados, você rolará seu Dado de Vida e adicionará o resultado ao seu Modificador de Constituição. Após isso, juntará os dois nos seus Pontos de Vida Máximos.
 - Se optar pelo valor médio, você dividirá o número máximo possível do seu Dado de Vida por dois, e somará ao Modificador de Constituição, adicionando os resultados ao seu total máximo.
 Caso sua Constituição tenha valor negativo, você não somará o Modificador.
+
+**Pontos de Mana**: Seus Pontos de Mana adicionais serão sempre o valor do seu Modificador de Sabedoria. Caso seu Modificador de Sabedoria seja 0 ou inferior, você receberá apenas 1 Ponto de Mana adicional por Nível.
 
 ## Pontos Retroativos
 
