@@ -47,7 +47,7 @@ Existem alguns tipos de Dano Mágico, os quais são causados pelo uso de Magias,
 
 ## Multiplicadores de Dano
 
-Sempre que você tiver que multiplicar o dano, seja por uma Habilidade, Acerto Crítico, ou outra mecânica, os multiplicadores vão se multiplicar entre si. Por exemplo, se uma Habilidade deixar você dobrar o dano, e você tirar um Acerto Crítico em um Ataque, você irá quadruplicar o dano deste Ataque.
+Sempre que você tiver que multiplicar o dano, seja por uma Habilidade, ou outra mecânica, os multiplicadores vão se multiplicar entre si.
 
 ## Interação Entre Tipos de Dano Elementais
 

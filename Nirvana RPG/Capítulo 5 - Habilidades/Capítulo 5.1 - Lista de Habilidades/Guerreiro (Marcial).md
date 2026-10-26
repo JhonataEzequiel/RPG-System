@@ -136,7 +136,7 @@ Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ata
 
 **Requisitos:** Habilidade "Ataque Extra" de Custo 1. 8 de Força ou 8 de Destreza.
 
-Você não sofre mais Penalidades de Ataques, e sua Margem de Ameaça é aumentada em 1 ponto.
+Você não sofre mais Penalidades de Ataques, e sua Potência Crítica é aumentada em 1 ponto.
 
 ## Show do Imperador (Custo 3)
 

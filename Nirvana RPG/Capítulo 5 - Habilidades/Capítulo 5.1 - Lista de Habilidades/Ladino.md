@@ -65,7 +65,7 @@ Alternativamente, você pode adicionar +1 em todos os Testes de Furtividade. No 
 
 Você tem Vantagem em Testes de Ladroagem para desarmar Armadilhas.
 
-Você também pode tentar desativar um autômato caso seja capaz de identificar o mecanismo que o mantém ativo. Você deverá rolar um teste de Ladroagem, e a CD será a CA do inimigo + Sab dele. Você é imediatamente percebido pela criatura caso falhe, e não poderá se mover mais durante aquele turno. Caso tenha uma falha crítica, você tomará um Ataque de Oportunidade da criatura. Caso seja bem sucedido, o autômato parará de funcionar até que seja ativo novamente.
+Você também pode tentar desativar um autômato caso seja capaz de identificar o mecanismo que o mantém ativo. Você deverá rolar um teste de Ladroagem, e a CD será a CA do inimigo + Sab dele. Você é imediatamente percebido pela criatura caso falhe, e não poderá se mover mais durante aquele turno. Caso tenha um Erro Crítico, você tomará um Ataque de Oportunidade da criatura. Caso seja bem sucedido, o autômato parará de funcionar até que seja ativo novamente.
 
 ## Justiça Cega (Custo 2)
 

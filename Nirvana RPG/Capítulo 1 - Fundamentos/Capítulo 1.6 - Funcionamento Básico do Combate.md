@@ -35,7 +35,17 @@ Magias sempre acertam o alvo, a menos que a descrição da Magia especifique o c
 
 Ataques são definidos por tentativas de uma criatura de causar dano a outra sem ser por meio direto de uma Magia ou outro efeito.
 
-Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o bônus especificado em seu Ataque para realizar esse Teste. Normalmente, está disponível na descrição da Arma equipada. Caso ocorra um Acerto Crítico, o dano total que for infligido dobrará. Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
+Para um Ataque obter sucesso ele precisará penetrar o Coeficiente de Armadura do oponente (CA). Você usará o bônus especificado em seu Ataque para realizar esse Teste. Normalmente, está disponível na descrição da Arma equipada. 
+
+Caso ocorra um Acerto Crítico, o Ataque será considerado um Ataque Crítico. O dano do Ataque receberá um aumento considerável. O tipo de dano adicional será um dos tipos capazes de serem causados pela sua Arma, à sua escolha, como explicado no Capítulo 1.7 - Dano e Resistências. Você recebe 1d6 de dano adicional para seus Ataques Críticos sempre que atingir um novo Nível ímpar. Por exemplo, no Nível 1, o dano adicional é 1d6. No Nível 3 sobe para 2d6, no Nível 5 sobe para 3d6, assim por diante. O valor mínimo de dano adicional para um Ataque Crítico é de 1d6, e o máximo é de 10d6.
+
+Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, ao invés de ser prejudicado.
+
+## Potência Crítica
+
+Você pode aumentar seu dano de Ataques Críticos se conseguir pontos em sua Potência Crítica. Por padrão, você tem 0 pontos, mas pode conseguir mais por meio de Habilidades e outros efeitos.
+
+Ao aumentar sua Potência Crítica em 1 ponto, seu dano de Ataques Críticos aumenta em 1d6 de dano, até um máximo igual ao seu Bônus de Proficiência, que é explicado em mais detalhes no Capítulo 2.1 - Perícias. Esse aumento pode ultrapassar o máximo de 10d6 padrão para os Ataques Críticos.
 
 ## Adjacência
 

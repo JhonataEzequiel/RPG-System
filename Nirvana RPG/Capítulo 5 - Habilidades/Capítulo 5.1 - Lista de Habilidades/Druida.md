@@ -61,4 +61,4 @@ Você agora calcula Iniciativa com seu Modificador de Carisma ao invés de Destr
 
 Você sempre é bem sucedido em Testes para escalar árvores e outras estruturas naturais. Sua percepção é bem mais aguçada do que a maioria das pessoas. 
 
-Você se torna Imune a Ataques de Oportunidade, e também consegue enxergar criaturas invisíveis. Sempre que você puder causar um Ataque de Oportunidade, sua Margem de Ameaça naquele Ataque aumenta em 3 pontos. Outrossim, sua Margem de Ameaça aumenta em 1 ponto para quaisquer outros Ataques.
+Você se torna Imune a Ataques de Oportunidade, e também consegue enxergar criaturas invisíveis. Sempre que você puder causar um Ataque de Oportunidade, sua Margem de Ameaça naquele Ataque aumenta em 3 pontos. Outrossim, sua Potência Crítica aumenta em 1 ponto para quaisquer outros Ataques.

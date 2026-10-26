@@ -53,13 +53,11 @@ Devido a falta de especialização, você consegue fazer qualquer coisa um pouco
 
 Você pode ou não adicionar o Modificador do seu menor Atributo em qualquer Teste. Além disso, você adiciona metade do seu Nível na Iniciativa. Você também ganha um Ponto de Atributo adicional no Nível 15, mas só pode colocá-lo no seu Atributo de menor Nível. Por último, você pode escolher uma Habilidade de Custo 1 para o qual atenda aos Requisitos e adquiri-la.
 
-## Margem de Ameaça Reversa (Custo 2)
+## Agente Punitivo (Custo 2)
 
 **Requisitos**: 3 em qualquer Atributo.
 
-Toda vez que você causar um efeito negativo ao qual o alvo precise passar por um Teste de Resistência, você aplica uma punição maior para as falhas do seu oponente. A Margem de Ameaça Reversa aumenta em 1 o número necessário para obter uma Falha Crítica. Por exemplo, se você tiver +1 na Margem de Ameaça Reversa, e o alvo tirar 1 ou 2 como resultado do Teste, ele terá uma Falha Crítica.
-
-Você tem +1 na Margem de Ameaça Reversa. Essa Habilidade pode ser pega múltiplas vezes, até um total de 3. Cada vez que você escolher essa Habilidade o número da Margem de Ameaça Reversa aumenta em +1. Na terceira vez que escolher esta Habilidade ela custará 1 Ponto de Habilidade para ser pega.
+Caso um alvo de algum efeito causado por você precise passar por um Teste de Resistência, a CD aumentará em 1 ponto. Essa Habilidade pode ser pega múltiplas vezes, até um total de 3 vezes.
 
 ## Equilíbrio Supremo (Custo 3)
 

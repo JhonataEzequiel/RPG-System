@@ -45,7 +45,7 @@ Capa que se usa por cima da roupa para proteção. Ela não aumenta a CA, mas po
 
 ## Armadura de Adamantina
 
-Qualquer uma das Armaduras Pesadas pode ser feita de Adamantina, um mineral particularmente resiliente. Armaduras de Adamantina anulam o efeito de Acertos Críticos de quem te Atacar. Custam dez vezes o preço de sua contraparte comum.
+Qualquer uma das Armaduras Pesadas pode ser feita de Adamantina, um mineral particularmente resiliente. Armaduras de Adamantina anulam o dano adicional de Acertos Críticos de quem te Atacar. Custam dez vezes o preço de sua contraparte comum.
 
 É possível que uma Armadura Mágica de qualquer Grau seja feita de Adamantina. Neste caso, permanecerá o maior Grau, e essa Armadura terá os efeitos da Armadura de Adamantina adicionados a ela.
 

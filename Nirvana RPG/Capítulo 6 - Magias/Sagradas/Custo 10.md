@@ -13,7 +13,7 @@ Os frutos da árvore podem ser consumidos para garantir benefícios. Existe, no 
 
 Consumir um fruto requer uma Ação.
 
-**Frutos Normais:** Caso o usuário tenha um Erro Crítico, será um erro normal. Caso tenha um acerto, será um Acerto Crítico. E caso tenha um Acerto Crítico, o resultado será dobrado novamente (se for um Ataque), ou amplificado mais ainda se for outra Ação (ficando a critério do mestre). Quem comer do fruto pode escolher o Teste que se beneficiará deste efeito. Cada fruto influenciará apenas um Teste.
+**Frutos Normais:** Caso o usuário tenha um Erro Crítico, será um erro normal. Caso tenha um acerto, será um Acerto Crítico. E caso tenha um Acerto Crítico, sua Potência Crítica aumentará em 3 pontos (se for um Ataque), ou amplificado mais ainda se for outra Ação (ficando a critério do mestre). Quem comer do fruto pode escolher o Teste que se beneficiará deste efeito. Cada fruto influenciará apenas um Teste.
 
 **Fruto Proibido:** Concederá os bônus dos frutos normais em qualquer Teste que quem o coma faça durante a duração da Magia, mas sugará toda a energia vital do mesmo, fazendo com que ele tenha a Condição Inconsciente uma vez que a Magia acabar durante 24 horas. Ele pode ser Acordado através de uma Magia de custo 5 ou superior que remova efeitos de Condições, mas não de custo menor do que 5.
 

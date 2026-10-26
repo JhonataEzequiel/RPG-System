@@ -7,7 +7,7 @@
 - Alcance: Deslocamento
 - Tempo de Conjuração: Reação
 
-**Descrição:** Você escuta a voz do próprio mundo ao seu redor, que fala contigo em sussurros. Você consegue fazer com que uma criatura saiba um futuro próximo, e evite o pior que poderia acontecer. Escolha um alvo no alcance da Magia. A criatura escolhida não sofrerá nenhum tipo de dano, e sempre terá um acerto crítico em qualquer Teste que tenha que realizar até o início do próximo Turno dela. 
+**Descrição:** Você escuta a voz do próprio mundo ao seu redor, que fala contigo em sussurros. Você consegue fazer com que uma criatura saiba um futuro próximo, e evite o pior que poderia acontecer. Escolha um alvo no alcance da Magia. A criatura escolhida não sofrerá nenhum tipo de dano, e sempre terá um Acerto Crítico em qualquer Teste que tenha que realizar até o início do próximo Turno dela.
 
 Essa Magia deverá ser conjurada após a criatura alvo ser alvo de dano ou de efeitos negativos que a façam passar por uma Salvaguarda.
 

@@ -25,7 +25,7 @@ Os bônus em si podem variar dependendo do Teste, mas geralmente são os Modific
 
 ## Testes
 
-Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um Teste para ultrapassar a CA do oponente. Atacar é considerado um Teste. O valor mínimo possível em um Teste é 1.
+Os Testes podem ser pedidos por alguns tipos de ações, e tratam-se de uma rolagem de dados que tem o intuito de determinar se aquela ação será bem sucedida ou não. Atacar um inimigo, por exemplo, exige um Teste para ultrapassar a Classe de Armadura do oponente. Atacar é considerado um Teste. O valor mínimo possível em um Teste é 1.
 
 É possível que dois jogadores realizem um Teste ao mesmo tempo caso o Mestre permita. Por exemplo, se você deseja realizar um Teste de uma Perícia, e seu companheiro pergunta se pode ajudar, e o Mestre permitir, você terá Vantagem naquele teste.
 
@@ -44,11 +44,11 @@ A tabela a seguir providenciará exemplos para diferentes dificuldades em um Tes
 
 Salvaguardas são Testes feitos com o intuito de resistir a alguma coisa. Por exemplo, uma Magia que causa uma explosão pode requerer que os alvos realizem uma Salvaguarda de Destreza para desviar do raio de impacto.
 
-### Críticos e Margem de Ameaça
+### Acertos e Erros Críticos
 
-Caso você tire 20 em um dado em um Teste, será um Sucesso Crítico (ou Acerto Crítico), o que fará com que as consequências daquela ação sejam bem melhores. De modo análogo, se tirar 1, será um Erro Crítico, e as consequências serão devastadoras.
+Caso o resultado da sua rolagem em um Teste seja maior ou igual que a CD do Teste + 10, será um Sucesso Crítico (ou Acerto Crítico), o que fará com que as consequências daquela ação sejam bem melhores. De modo análogo, se tirar CD - 10, será um Erro Crítico, e as consequências serão devastadoras. Os números 1 e 20 no d20 não tem efeito adicional nenhum para Críticos.
 
-A Margem de Ameaça diz respeito ao intervalo que alguém poderá ter um Acerto Crítico. Na maioria dos casos, será apenas o número 20, porém é possível que Habilidades e Magias aumentem esse intervalo. Por exemplo, se você pudesse ter um Acerto Crítico tirando 19 ou 20, então sua Margem de Ameaça seria +1.
+Para efeitos críticos não cobertos pelas regras, o resultado ficará a critério do Mestre. Por exemplo, tirar um Erro Crítico num Teste de Atletismo ao tentar abrir uma porta emperrada pode fazer com que a porta entorte, e se torne ainda mais difícil de ser aberta. Analogamente, um efeito benéfico adicional será garantido quando você tiver um Acerto Crítico em algum Teste.
 
 ### Vantagens e Desvantagens
 

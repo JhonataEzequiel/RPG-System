@@ -12,7 +12,7 @@ Você tem +2 de Destreza até o início do seu próximo Turno após realizar um 
 
 **Requisitos**: Habilidade "Presa Ato I" de Custo 1. 3 de Destreza.
 
-Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distância você agora acerta, mas causa apenas 1 de dano do tipo do Ataque.
+Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distância você agora acerta, mas causa apenas 1 de dano do tipo do Ataque. Os efeitos adicionais dos Erros Críticos nessas condições não te afetam mais.
 
 ## Disparo Poderoso (Custo 1)
 
@@ -29,7 +29,7 @@ O alvo atingido terá que realizar um Teste de Resistência Constituição CD 10
 
 **Requisitos**: Ser capaz de voar.
 
-Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua Margem de Ameaça em 2 pontos caso você Ataque a Distância enquanto voa. Você não é mais capaz de ter um Acerto Crítico em um Ataque se não estiver voando.
+Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua Potência Crítica em 2 pontos caso você Ataque a Distância enquanto voa. Você não é mais capaz de ter um Acerto Crítico em um Ataque se não estiver voando.
 
 ## Sentidos Aguçados (Custo 1)
 

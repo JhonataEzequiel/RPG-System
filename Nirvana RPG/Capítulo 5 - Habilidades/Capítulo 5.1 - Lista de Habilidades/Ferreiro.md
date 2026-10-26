@@ -20,7 +20,7 @@ Sua Capacidade de Carga agora é aumentada em dez vezes o seu Bônus de Profici�
 
 **Requisitos**: Uma Pedra de Amolar.
 
-Ao afiar uma lâmina, sua Margem de Ameaça aumentará em 2 pontos. Esse bônus não é cumulativo.
+Ao afiar uma lâmina, sua Potência Crítica aumentará em 2 pontos ao invés de 1. Esse bônus não é cumulativo caso você deseje afiar a mesma Arma mais de uma vez.
 
 ## Aprendiz do Erro (Custo 1)
 

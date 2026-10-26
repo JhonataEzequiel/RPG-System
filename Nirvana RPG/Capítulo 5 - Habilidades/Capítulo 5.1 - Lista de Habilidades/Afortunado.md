@@ -88,7 +88,7 @@ Você agora não mais usará o d20 para realizar Testes de qualquer tipo. No lug
 | 18         | 10         |
 | 19         | 11         |
 | 20         | 12         |
-Os bônus em Testes serão metade do usual. Ou seja, você irá dividir por dois a soma de bônus em um determinado Teste realizado com os 2d6, e esse bônus não pode ultrapassar o valor 3. A Margem de Ameaça do 2d6 é inexistente, ou seja, não é possível aumentar a chance de ter acertos críticos, a não ser que outra Habilidade permita isso.
+Os bônus em Testes serão metade do usual. Ou seja, você irá dividir por dois a soma de bônus em um determinado Teste realizado com os 2d6, e esse bônus não pode ultrapassar o valor 5. A Margem de Ameaça do 2d6 é inexistente, ou seja, não é possível aumentar a chance de ter acertos críticos, a não ser que outra Habilidade permita isso. Seu limiar para ter um Acerto Crítico agora é de +5 ao invés de +10 em relação a dificuldade do Teste.
 
 ## Jackpot Melhorado (Custo 3)
 
@@ -100,4 +100,4 @@ Você agora pode escolher ter um Jackpot garantido a hora que quiser. Para isso,
 
 **Requisitos**: Habilidade "Alterar Chances" de Custo 2.
 
-Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. A cada dois pontos adicionais na sua Margem de Ameaça, você obterá um ponto na Margem de Ameaça para os 2d6.
+Você agora adiciona seu bônus completo aos 2d6, mas o bônus não pode ultrapassar o valor 10. Sua Potência Crítica aumenta em 1 ponto.

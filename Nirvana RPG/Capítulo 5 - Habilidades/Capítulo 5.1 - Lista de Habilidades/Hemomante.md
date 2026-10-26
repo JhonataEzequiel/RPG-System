@@ -13,7 +13,7 @@ Sempre que precisar rolar um dado para decidir quantos Pontos de Vida serão sac
 **Custo**: Uma Ação, 5 de Mana.
 **Duração**: 3 Rodadas.
 
-Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado Crítico. Com três Ações (ou quando a duração acabar), você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
+Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado um Ataque Crítico. Com três Ações (ou quando a duração acabar), você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
 
 ## Hemomancia Venenosa (Custo 1)
 

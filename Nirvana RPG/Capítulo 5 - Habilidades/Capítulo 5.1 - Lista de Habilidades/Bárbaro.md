@@ -5,7 +5,9 @@ O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalh
 
 **Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
 
-Todos os seus Ataques são considerados críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais também. Você não tem mais erros críticos em nenhum Teste. Porém, você não pode mais escolher nenhuma outra Habilidade para sempre. Você recebe 6 Pontos de Habilidade extras, e poderá usá-los para adquirir novas Proficiências.
+Todos os seus Ataques são considerados Ataques Críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais também, e sua Potência Crítica recebe um aumento de pontos igual ao seu Bônus de Proficiência. Você também não tem mais Erros Críticos em nenhum Teste. 
+
+Em troca, você abdica da sua capacidade de escolher outras Habilidades além desta para sempre. Você recebe 6 Pontos de Habilidade extras, e poderá usá-los para adquirir novas Proficiências.
 
 ## Força Intimidadora (Custo 1)
 
@@ -56,7 +58,7 @@ Enquanto estiver em fúria, você receberá as seguintes características:
 * +5 de Resistência contra Dano Físico;
 * +5 em Testes de Resistência de Força, Destreza e Constituição;
 * Não poderá conjurar Magias, nem manter Magias já conjuradas;
-* Aumento na Margem de Ameaça em 1 ponto.
+* Aumento na Potência Crítica em 1 ponto.
 
 A Fúria acabará automaticamente ao finalizar um Encontro.
 
@@ -71,7 +73,7 @@ Todas as vezes que você causar dano a alguém, causará 1d6 a mais de Dano Verd
 
 **Requisitos**: Máximo de 5 de Constituição.
 
-Você não pode mais usar qualquer Armadura, nem mesmo Armadura mágica. Sua CA não poderá ultrapassar 16 independente do que aconteça. Você recebe +3 pontos na Margem de Ameaça, e toda vez que tiver um Acerto Crítico adicione 2d8 ao dano. Esse dano adicional não passará por nenhum multiplicador, e será de um dos tipos que sua Arma é capaz de causar.
+Você não pode mais usar qualquer Armadura, nem mesmo Armadura mágica. Sua CA não poderá ultrapassar 16 independente do que aconteça. Você recebe +4 pontos na Potência Crítica.
 
 Essa Habilidade perde o efeito ao ultrapassar 5 de Constituição, ou utilizar uma Armadura.
 
@@ -133,7 +135,7 @@ Os seguintes bônus são adicionados toda vez que você entrar em fúria:
 
 * Vantagem em Testes de Constituição;
 * Imunidade a Condição Encantado;
-* Sua Margem de Ameaça aumenta em 1 ponto;
+* Sua Potência Crítica aumenta em mais 1 ponto;
 * Recebe seu Nível como Pontos de Vida Temporários que duram por 3 Rodadas ou até a Fúria acabar, o que vier primeiro.
 
 ## Engodo da Ira (Custo 3)
@@ -149,7 +151,7 @@ Você concede a um alvo dentro do alcance do seu Deslocamento os efeitos de Fúr
 **Custo:** Uma Ação e 10 de Mana.
 **Duração**: 1 Encontro.
 
-Sua concentração aumenta drasticamente, focando apenas nos seus Ataques, não podendo mais conjurar Magias enquanto esta Habilidade estiver ativa. Todos os seus Ataques agora são considerados Críticos.
+Sua concentração aumenta drasticamente, focando apenas nos seus Ataques, não podendo mais conjurar Magias enquanto esta Habilidade estiver ativa. Todos os seus Ataques agora são considerados Ataques Críticos.
 
 ## Violência (Custo 3)
 

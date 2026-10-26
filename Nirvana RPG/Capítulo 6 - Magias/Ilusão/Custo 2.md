@@ -35,4 +35,4 @@ Outros efeitos podem ser criados. Converse com o mestre para decidir se o que vo
 - Alcance: 15m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você seleciona uma criatura alvo dentro do alcance da Magia e projeta nela um campo que impede que qualquer som seja emitido pela mesma. Caso o alvo falhe num Teste de Resistência de Sabedoria CD 10 + Int + Car ele não conseguirá escutar nada, ganhando a condição Surdo pela duração. Caso tenha um erro crítico, ficará ainda mais desnorteado, e perderá uma de suas Ações pela duração da Magia.
+**Descrição:** Você seleciona uma criatura alvo dentro do alcance da Magia e projeta nela um campo que impede que qualquer som seja emitido pela mesma. Caso o alvo falhe num Teste de Resistência de Sabedoria CD 10 + Int + Car ele não conseguirá escutar nada, ganhando a Condição Surdo pela duração. Caso ela tenha um erro crítico, ficará ainda mais desnorteado, e perderá uma de suas Ações pela duração da Magia.

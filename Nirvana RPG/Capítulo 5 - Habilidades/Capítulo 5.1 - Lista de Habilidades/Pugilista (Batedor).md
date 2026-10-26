@@ -48,7 +48,7 @@ Você converte a Penalidade de Ataques em um bônus positivo para seus Ataques D
 Você pode escolher um dos seguintes benefícios:
 - Suas escalas A em Força e em Destreza com os Punhos agora serão S;
 - Seus Punhos terão escala S em algum outro atributo de sua escolha, com exceção de Força e Destreza;
-- Você aumenta seu Deslocamento em 6m, ganha +3 em Iniciativa, +1 de CA, e sua Margem de Ameaça aumenta em 1 ponto enquanto só estiver equipado com Armas de Punho;
+- Você aumenta seu Deslocamento em 6m, ganha +3 em Iniciativa, +1 de CA, e sua Potência Crítica aumenta em 1 ponto enquanto só estiver equipado com Armas de Punho;
 
 ## Punho Divino e Blasfemo (Custo 2)
 
@@ -70,7 +70,7 @@ Caso esteja com uma Arma de Punho que já cause algum desses tipos de dano, adic
 
 **Requisitos**: Habilidade "Mãos Cortantes" de Custo 1. 3 de Sabedoria.
 
-Você agora consegue cortar o seu inimigo com artes marciais mesmo não fazendo contato fisicamente com ele. O inimigo sente como se fosse cortado, ainda que não tenha sido. Todas as vezes que errar um Ataque Desarmado você causará 1d4 + Sab de Dano Psíquico. Com erros críticos esta Habilidade não terá efeito.
+Você agora consegue cortar o seu inimigo com artes marciais mesmo não fazendo contato fisicamente com ele. O inimigo sente como se fosse cortado, ainda que não tenha sido. Todas as vezes que errar um Ataque Desarmado você causará 1d4 + Sab de Dano Psíquico. Com Erros Críticos, esta Habilidade não terá efeito.
 
 Você pode gastar 3 Pontos de Mana por Encontro como uma Ação Livre para aumentar o dano desta Habilidade para 2d8 + Sab durante todo o Encontro.
 
