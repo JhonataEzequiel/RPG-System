@@ -8,7 +8,7 @@
 - Alcance: 3m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você transforma uma pilha de ossos em um esqueleto animado, ou um corpo morto em um zumbi. Pode controlar as criaturas animadas por esta Magia no início de seu Turno, e, no início do Turno delas, elas realizarão o seu comando. Seu servo terá uma Ação, e age imediatamente após você. Ele tem CA 12, tem -2 em Fé, Carisma, Inteligência, e Sabedoria, mas tem 2 em Constituição, Força, e Destreza. Ele causa 1d6 + For de Dano Sombrio por Ataque, e tem 9m de Deslocamento. A criatura possui 20 Pontos de Vida, e 13 de CA.
+**Descrição:** Você transforma uma pilha de ossos em um esqueleto animado, ou um corpo morto em um zumbi. Pode controlar as criaturas animadas por esta Magia no início de seu Turno, e, no início do Turno delas, elas realizarão o seu comando. Seu servo terá uma Ação, e age imediatamente após você. Ele tem CA 13, tem -2 em Fé, Carisma, Inteligência, e Sabedoria, mas tem 2 em Constituição, Força, e Destreza. Ele causa 1d6 + For de Dano Sombrio por Ataque, e tem 9m de Deslocamento. A criatura possui 4d6 Pontos de Vida.
 
 ### Corte Sombrio
 

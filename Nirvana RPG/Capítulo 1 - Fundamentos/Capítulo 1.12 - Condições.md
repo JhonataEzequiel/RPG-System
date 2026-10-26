@@ -71,7 +71,7 @@ Uma criatura Invisível tem Vantagem em Testes de Furtividade, e também não po
 
 Você é incapacitado, e só pode sair desta Condição caso seja estabilizado de alguma forma. A única forma de ser Nocauteado é caso seus Pontos de Vida cheguem a zero.
 
-Para se libertar desta Condição você precisará passar por algumas Salvaguardas de Constituição CD 10. Será uma melhor de 5. Conseguindo 10 ou superior, você obtém um Sucesso. Caso contrário, obtém um Fracasso. Você passará por uma Salvaguarda no início de cada um de seus Turnos, até que um resultado final seja obtido. 
+Para se libertar desta Condição você precisará passar por algumas Salvaguardas de Constituição CD 10. Será uma melhor de 5 Salvaguardas. Conseguindo 10 ou superior, você obtém um Sucesso. Caso contrário, obtém um Fracasso. Você passará por uma Salvaguarda no início de cada um de seus Turnos, até que um resultado final seja obtido. 
 
 Caso obtenha 3 falhas, seu personagem morre, e você não poderá mais utilizar ele a não ser que seja revivido de alguma maneira. Ao ser Nocauteado e conseguir se libertar, na próxima vez que for Nocauteado, você já começará com uma falha. Essas falhas se acumulam a medida que você é Nocauteado.
 

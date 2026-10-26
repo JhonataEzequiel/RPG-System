@@ -53,6 +53,10 @@ Calar Voz: 2 de Inteligência, 2 de Carisma. Ilusão.
 
 Falar Com Animais e Plantas: 2 de Carisma. Sagrada.
 
+Devorar Pesadelos: 2 de Inteligência, 1 de Carisma. Ilusão.
+
+Línguas: 2 de Inteligência ou Carisma. Imaculada.
+
 ### Custo 3
 
 Fortificar Flora: 3 de Carisma. Imaculada.
@@ -63,7 +67,7 @@ Raio de Frenesi: 3 de Inteligência ou Carisma. Ilusão.
 
 Raio Desacelerador: 3 de Inteligência ou Carisma. Ilusão.
 
-Neutralizar Magia: 3 de Fé ou Carisma. Sagrada.
+Neutralizar Veneno: 3 de Fé ou Carisma. Sagrada.
 
 Esfera de Invisibilidade: 3 de Inteligência ou Carisma. Ilusão.
 
@@ -117,7 +121,7 @@ Convocar Ajuda: 7 de Inteligência, Carisma, ou Fé. Imaculada.
 
 Doppelganger: 7 de Inteligência ou Carisma. Ilusão.
 
-Horrípilo: 7 de Inteligência, 7 e Carisma. Ilusão.
+Horrípilo: 7 de Inteligência, 7 de Carisma. Ilusão.
 
 Mente Conectada: 7 de Inteligência, 7 de Carisma. Ilusão.
 
@@ -176,3 +180,5 @@ Livro do Fim: 10 de Inteligência, 10 de Carisma. Ilusão.
 Apaziguar: 10 de Inteligência, 10 de Carisma. Imaculada.
 
 Pura Sorte: 10 de Carisma. Imaculada.
+
+Controle Mental Completo: 10 de Carisma Inteligência. Ilusão.

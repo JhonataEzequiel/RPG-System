@@ -41,6 +41,10 @@ Domo Protetor: 1 de Carisma ou de Fé. Sagrada.
 
 Cria das Trevas: 1 de Fé, 1 de Inteligência. Sortilégio.
 
+Raio de Enfraquecimento: 1 de Fé, 1 de Inteligência. Sortilégio.
+
+Dose Letal: 1 de Fé, 1 de Inteligência. Sortilégio.
+
 ### Custo 2
 
 Animar os Mortos: 1 de Inteligência, 2 de Fé. Sortilégio.
@@ -103,6 +107,8 @@ Palma da Mão: 4 de Fé. Sagrada.
 
 Golem de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
 
+Armadura de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
+
 ### Custo 5
 
 Tumba Aberta: 5 de Inteligência, 5 de Fé. Sortilégio.
@@ -140,6 +146,8 @@ Ritmo de Cura: 6 de Fé ou Carisma. Sagrada.
 Esfera Vampírica: 6 de Fé, 6 de Inteligência. Sangue.
 
 Hiposfagma: 6 de Fé, 6 de Inteligência. Sangue.
+
+Novo Corpo: 6 de Inteligência, 6 de Fé. Sortilégio.
 
 ### Custo 7
 
@@ -180,6 +188,10 @@ Luz Resplandecente: 8 de Carisma ou Fé. Sagrada.
 Curar Maldições: 8 de Carisma, 8 de Fé. Sagrada.
 
 Espada de Ossos: 8 de Fé, 8 de Inteligência. Sortilégio.
+
+Destino de Sangue: 8 de Inteligência, 8 de Fé. Sangue.
+
+Ferver Sangue: 8 de Inteligência, 8 de Fé. Sangue.
 
 ### Custo 9
 

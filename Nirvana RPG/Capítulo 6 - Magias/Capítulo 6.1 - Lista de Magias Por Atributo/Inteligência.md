@@ -79,6 +79,16 @@ Garras de Sangue: 1 de Inteligência, 1 de Fé. Sangue.
 
 Jato Ácido: 1 de Inteligência. Elemental.
 
+Jato D'água: 1 de Inteligência. Elemental.
+
+Mãos Flamejantes: 1 de Inteligência. Elemental.
+
+Cria das Trevas: 1 de Fé, 1 de Inteligência. Sortilégio.
+
+Raio de Enfraquecimento: 1 de Fé, 1 de Inteligência. Sortilégio.
+
+Dose Letal: 1 de Fé, 1 de Inteligência. Sortilégio.
+
 ### Custo 2
 
 Animar os Mortos: 1 de Inteligência, 2 de Fé. Sortilégio.
@@ -102,6 +112,12 @@ Corte Sombrio: 2 de Fé, 2 de Inteligência. Sortilégio.
 Glutão: 2 de Fé, 2 de Inteligência. Sortilégio.
 
 Calar Voz: 2 de Inteligência, 2 de Carisma. Ilusão.
+
+Devorar Pesadelos: 2 de Inteligência, 1 de Carisma. Ilusão.
+
+Preservar: 2 de Inteligência. Imaculada.
+
+Línguas: 2 de Inteligência ou Carisma. Imaculada.
 
 ### Custo 3
 
@@ -162,6 +178,8 @@ Mundo Invertido: 4 de Inteligência, 4 de Carisma. Ilusão.
 Chocolate: 4 de Inteligência ou Carisma. Ilusão.
 
 Golem de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
+
+Armadura de Sangue: 4 de Inteligência, 4 de Fé. Sangue.
 
 ### Custo 5
 
@@ -231,6 +249,8 @@ Astros: 6 de Inteligência. Elemental.
 
 Estalo: 6 de Inteligência. Imaculada.
 
+Novo Corpo: 6 de Inteligência, 6 de Fé. Sortilégio.
+
 ### Custo 7
 
 Convocar Ajuda: 7 de Inteligência, Carisma, ou Fé. Imaculada.
@@ -267,6 +287,8 @@ Retornar ao Zero: 7 de Fé, 7 de Inteligência, 7 de Carisma. Imaculada.
 
 Zumbi Conjurador: 7 de Fé, 7 de Inteligência. Sortilégio.
 
+Gaiola: 7 de Inteligência. Elemental.
+
 ### Custo 8
 
 Perseguidores: 8 de Inteligência, 8 de Fé. Sortilégio.
@@ -294,6 +316,12 @@ Meteorito: 8 de Inteligência. Imaculada.
 Devorar Matéria: 8 de Inteligência. Imaculada.
 
 Geoforça: 8 de Inteligência. Elemental.
+
+Espada de Ossos: 8 de Fé, 8 de Inteligência. Sortilégio.
+
+Destino de Sangue: 8 de Inteligência, 8 de Fé. Sangue.
+
+Ferver Sangue: 8 de Inteligência, 8 de Fé. Sangue.
 
 ### Custo 9
 
@@ -323,6 +351,10 @@ Quebra Ossos: 9 de Fé, 9 de Inteligência. Sortilégio.
 
 Melancolia Sombria: 9 de Fé, 9 de Inteligência. Sortilégio.
 
+Pássaro Trovão: 9 de Inteligência. Elemental.
+
+Iéti: 9 de Inteligência. Elemental.
+
 ### Custo 10
 
 Cair da Noite: 10 de Inteligência, 10 de Fé. Sortilégio.
@@ -351,7 +383,7 @@ Sono de Séculos: 10 de Inteligência, 10 de Fé. Sortilégio.
 
 Magia Carmesim: 10 de Inteligência, 10 de Fé. Sangue.
 
-Buraco Negro: 10 de Inteligência, 10 de Fé. Sortilégio.
+Escuridão Eterna: 10 de Inteligência, 10 de Fé. Sortilégio.
 
 Espaço Branco: 10 de Inteligência, 10 de Carisma. Ilusão.
 
@@ -366,3 +398,5 @@ Realidade Sangrenta: 10 de Inteligência, 10 de Fé. Sangue.
 Apaziguar: 10 de Inteligência, 10 de Carisma. Imaculada.
 
 Mestre dos Cadáveres: 10 de Inteligência, 10 de Fé. Sortilégio.
+
+Controle Mental Completo: 10 de Carisma Inteligência. Ilusão.

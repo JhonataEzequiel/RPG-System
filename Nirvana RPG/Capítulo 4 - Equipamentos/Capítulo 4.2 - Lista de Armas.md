@@ -37,7 +37,7 @@
 | Chicote            | 1pp   | 1d4 + Dex de Impacto      | 3 de Destreza             | D em Destreza             | -                    | 3m                 | 0.7 kg |
 | Cimitarra          | 1po   | 1d6 + Dex Cortante        | 4 de Destreza             | A em Destreza             | -                    | 0                  | 1 kg   |
 | Shamshir           | 2po   | 1d6 + Destreza Cortante   | 5 de Destreza             | A em Destreza             | -                    | 0                  | 1 kg   |
-| Espada Larga       | 2po   | 1d12 + For Cortante       | 2 de Destreza, 2 de Força | C em Destreza, D em Força | -                    | 0                  | 1.2 kg |
+| Espada Larga       | 3po   | 1d12 + For Cortante       | 2 de Destreza, 2 de Força | C em Destreza, D em Força | -                    | 0                  | 1.2 kg |
 | Espada Longa       | 1po   | 1d8 + For Cortante        | 2 de Força                | C em Força, C em Destreza | -                    | 0                  | 1.5 kg |
 | Machado de Batalha | 1po   | 1d8 + For Cortante        | 2 de Força                | C em Força                | -                    | 0                  | 1.5 kg |
 | Rapieira           | 2po   | 1d10 + Dex Perfurante     | 4 de Destreza             | A em Destreza             | -                    | 0                  | 1 kg   |

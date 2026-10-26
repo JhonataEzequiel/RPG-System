@@ -62,11 +62,11 @@ Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos 
 
 Ao melhorar seu Atributo de Sabedoria, você poderá escolher novas Magias da Lista de Magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até Magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma Magia se não atender primeiro aos requisitos dela.
 
-No Nível 1, seus Pontos de Mana serão iguais ao seu Modificador de Sabedoria. Caso sua Sabedoria seja 0 ou inferior, sua Mana inicial será 1.
+No Nível 1, seus Pontos de Mana serão iguais ao seu Modificador de Sabedoria. Caso seu Modificador de Sabedoria seja menor ou igual a 0, você começará com 1 Ponto de Mana Máximo.
 
 | Nível de Sabedoria | Magias Conhecidas | Arcanos Menores Conhecidos |
 | ------------------ | ----------------- | -------------------------- |
-| 0                  | 0                 | 0                          |
+| 0 ou Inferior      | 0                 | 0                          |
 | 1                  | 3                 | 2                          |
 | 2                  | 5                 | 3                          |
 | 3                  | 6                 | 4                          |

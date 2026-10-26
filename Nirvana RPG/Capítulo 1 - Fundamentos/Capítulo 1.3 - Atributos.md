@@ -14,7 +14,7 @@ Os Atributos terão um Limite de Nível Máximo que aumentará conforme seu Nív
 | 12-13               | 9                        |
 | Maior ou igual a 14 | 10                       |
 
-Para critérios de simplificação, o Nível Máximo que um Atributo pode assumir é metade do seu Nível de Personagem acrescido de 3.
+Para critérios de simplificação, o Nível Máximo que um Atributo pode assumir é metade do seu Nível de Personagem acrescido de 3. Um Atributo não pode ultrapassar o nível 10. Num geral, um Atributo não poderá ultrapassar o nível 10.
 
 ## Constituição
 
@@ -56,6 +56,6 @@ Os Modificadores serão valores derivados dos Atributos, correspondendo a metade
 - Fé: “Fth”
 - Carisma: “Car”
 
-Caso a sigla esteja em algum lugar das regras de algo, será o Modificador que deverá ser usado. Caso não, o Atributo em si é que contará.
+Caso a sigla esteja em algum lugar das regras de algo, será o Modificador que deverá ser usado. Caso não, o Atributo em si é que contará. É normal que o Atributo esteja listado em algumas ocasiões, como por exemplo, em certos bônus de Armas ou Magias.
 
 É possível que você se depare com algo parecido com isso: "2d4 + Int ou Fth", isso significa que você poderá escolher um dos dois Modificadores para usar.  Caso apareça algo como "2d4 + Int + Fth", os dois Modificadores deverão ser usados.

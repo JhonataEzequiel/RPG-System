@@ -7,7 +7,7 @@ Há também algumas características que são restauradas em parte, normalmente 
 
 ## Descanso Curto
 
-O Descanso Curto é de cerca de uma hora, e usa os Dados de Vida para definir a recuperação dos seus Pontos de Vida. Por exemplo, se você tiver 1 de Constituição, seu Dado de Vida será 1d8, logo, tendo um Descanso Curto, você recuperará 1d8 Pontos de Vida + Con. Você recuperará uma quantidade de Pontos de Mana equivalentes ao seu Modificador de Sabedoria.
+O Descanso Curto é de cerca de uma hora, e usa os Dados de Vida para definir a recuperação dos seus Pontos de Vida. Por exemplo, se você tiver 1 de Constituição, seu Dado de Vida será 1d6, logo, tendo um Descanso Curto, você recuperará 1d6 Pontos de Vida + Con. Você recuperará uma quantidade de Pontos de Mana equivalentes ao seu Modificador de Sabedoria, com um mínimo de 1.
 
 ## Descanso Longo
 

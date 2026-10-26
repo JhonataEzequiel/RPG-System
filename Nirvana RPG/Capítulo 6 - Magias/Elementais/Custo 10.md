@@ -10,7 +10,7 @@
 
 Você deverá rolar o dano separadamente para cada elemento, aplicando o modificador de Inteligência em cada uma das vezes (total 24d10 + 3 vezes Int), e Resistências e Invulnerabilidades individuais ainda poderão reduzir o dano em partes. Por exemplo, caso o alvo seja Resistente a Fogo ele tomará menos Dano de Fogo em relação aos outros dois tipos. 
 
-Em caso de falha no Teste, o alvo também fica Incapacitado até o início do próximo Turno dele. Além disso, ao final de cada um dos Turnos do alvo enquanto a Magia durar, ele é afetado por danos residuais do ataque (Dano Contínuo), como queimaduras, congelamentos parciais, etc., tomando 3d6 de dano (1d6 de cada tipo). Em caso de sucesso, ele não fica Incapacitado, nem recebe dano residual.
+Em caso de falha no Teste, o alvo também fica Incapacitado até o início do próximo Turno dele. Além disso, enquanto a Magia durar ele é afetado por danos residuais da Magia (Dano Contínuo), como queimaduras, congelamentos parciais, etc., tomando 3d6 de dano (1d6 de cada tipo). Em caso de sucesso, ele não fica Incapacitado, nem recebe dano residual.
 
 O dano residual acumula caso a Magia seja conjurada mais de uma vez no mesmo alvo no mesmo Encontro. Ou seja, o dano residual é somado a cada conjuração da Magia, mesmo se o alvo for bem sucedido em um dos Testes.
 

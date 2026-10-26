@@ -1,9 +1,19 @@
 
+## Requisitos
+
+Certos itens possuirão pré-requisitos de Atributos para serem utilizados. Caso não os possua, não poderá fazer uso deles. Alguns itens também especificam efeitos adversos ao os utilizar sem dispor dos Atributos adequados, como as Armaduras e Armas. Em outros casos, o item ainda pode ser equipado ou segurado, mas não tem nenhum efeito adicional.
+
+## Escalas
+
+Boa parte das Armaduras e Armas possuem Escalas, que variam de D até S. As Escalas concedem bônus diferentes em certos Níveis de Atributo. Estes são chamados de Bônus de Escalas. Um Bônus de Escala de um certo Nível de Atributo é cumulativo com os anteriores. Ou seja, você soma os dois. Por exemplo, caso você esteja equipado com uma Armadura com Escala S em Força, e tenha 7 de Força, você receberá o Bônus de Escala concedido pelos Níveis de Atributo 1, 3, 5, e 7, mas não receberá o que for concedido no Nível 10.
+
+As Escalas só estão ativas ao equipar um item que as tenha, e caso você atenda aos Requisitos de Atributo daquele item.
+
 ## Armaduras
 
 Armaduras possuem pré-requisitos de Atributo (de 0 a 10). Sem atendê-los, a Armadura conta apenas como peso extra — efeitos negativos ainda se aplicam, mas a CA e quaisquer efeitos positivos não.
 
-Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes conforme o Nível do Atributo. Os bônus são cumulativos — ter nível 10 num Atributo concede todos os bônus anteriores. Bônus de Escala só estão ativos com a Armadura equipada. Armaduras que escalam com múltiplos Atributos concedem os bônus de cada um separadamente.
+Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes conforme o Nível do Atributo. Bônus de Escala só estão ativos com a Armadura equipada. Armaduras que escalam com múltiplos Atributos concedem os bônus de cada um separadamente.
 
 **Classificação:** Armaduras com penalidade de Deslocamento são pesadas. As que concedem CA sem penalidade são leves. As demais são roupas. Exceções serão descritas no item.
 
@@ -17,9 +27,9 @@ Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes co
 
 ## Armas
 
-Armas possuem pré-requisitos e Escalas de Atributo. Sem atender aos requisitos, o dano é sempre 1 de um dos tipos de dano da Arma e cada Ataque custa três Ações — Ataques de Oportunidade também ficam indisponíveis. Armas com múltiplos tipos de dano permitem escolher qual tipo receberá os bônus de escala.
+Armas possuem pré-requisitos também, assim como as Armaduras. Sem atender aos requisitos, o dano é sempre 1 de um dos tipos de dano da Arma e cada Ataque custa três Ações — Ataques de Oportunidade também ficam indisponíveis. Armas com múltiplos tipos de dano permitem escolher qual tipo receberá os Bônus de Escala.
 
-O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. Sendo proficiente no tipo de Arma, adicione também o Bônus de Proficiência para acertar. O bônus de dano da Arma servirá como bônus para acertar apenas se estiver descrito na Arma. Ou seja, caso você consiga outros bônus de dano em outros locais, como através de Habilidades ou Magias, estes não entrarão no cálculo para acertar o Ataque. Exemplo: caso uma Arma cause 1d6 + For de dano, você rolará um Teste (1d20) como Ataque, adicionará For como bônus a este Teste e, caso seja Proficiente naquele tipo de Arma, adicionará também o seu Bônus de Proficiência.
+O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. Sendo proficiente no tipo de Arma, adicione também o Bônus de Proficiência para acertar. O bônus de dano da Arma servirá como bônus para acertar apenas se estiver descrito na Arma. Ou seja, caso você consiga outros bônus de dano em outros locais, como através de Habilidades ou Magias, estes não entrarão no cálculo para acertar o Ataque. Exemplo: caso uma Arma cause 1d6 + For de dano, você rolará um Teste (1d20) como Ataque, adicionará For como bônus a este Teste e, caso seja Proficiente naquele tipo de Arma, adicionará também o seu Bônus de Proficiência. Outros bônus de acerto advindos de outras fontes também se aplicam.
 
 Algumas Armas podem aumentar o alcance padrão de Ataques Corpo a Corpo (alvos adjacentes), e caso o façam, isso estará descrito na Arma em si na coluna "Aumento de Alcance" nas tabelas do Capítulo 4.2 - Lista de Armas. O aumento de alcance da Arma se somará aos 1.5m do padrão
 

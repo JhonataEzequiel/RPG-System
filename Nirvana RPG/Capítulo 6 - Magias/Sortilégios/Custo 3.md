@@ -41,4 +41,4 @@ O máximo de cadáveres explodidos ao mesmo tempo é de 10. Mortos-vivos que est
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você conjura um Golem apodrecido em um local vazio no alcance da Magia. O Golem possui 15 de CA, uma Ação, e age imediatamente após o seu Turno. O Deslocamento dele é 15m, é de tamanho Grande, e tem todos os Atributos iguais a 2. Causa 2d4 + For de Dano Sombrio por Ataque, e possui 30 Pontos de Vida.
+**Descrição:** Você conjura um Golem apodrecido em um local vazio no alcance da Magia. O Golem possui 15 de CA, uma Ação, e age imediatamente após o seu Turno. O Deslocamento dele é 15m, é de tamanho Grande, e tem todos os Atributos iguais a 2. Causa 2d4 + For de Dano Sombrio por Ataque, e possui 50 Pontos de Vida.

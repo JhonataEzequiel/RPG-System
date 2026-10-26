@@ -28,14 +28,13 @@ Alternativamente, você pode bloquear qualquer projétil, independente da origem
 - Alcance: 45m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você conjura um relâmpago que acerta todos os alvos em uma linha reta de 12m de comprimento, atravessando inimigos. O relâmpago causa 8d8 + Int de Dano de Raio. 
+**Descrição:** Você conjura um relâmpago que acerta todos os alvos em uma linha reta de 12m de comprimento, atravessando todas as criaturas vivas que não forem bem sucedidas num Teste de Resistência de Destreza CD 11 + Int. Em caso de sucesso, você causa metade do dano. O relâmpago causa 8d8 + Int de Dano de Raio.
 
 Você pode aumentar o dano dessa Magia em 2d8 para cada Ponto de Mana adicional gasto, com um limite de pontos gastos igual ao seu Modificador de Inteligência.
 
 ### Lâmina Corrosiva
 
 - Requisito em Inteligência: 3
-- Requisito em Carisma: 3
 - Duração: 1 Encontro
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação

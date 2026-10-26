@@ -5,7 +5,7 @@ O Arquétipo do Artífice contém Habilidades relacionadas à criação de bugig
 
 **Requisitos**: 2 de Inteligência.
 
-Você consegue criar pequenos autômatos a partir de materiais encontrados pelo caminho, sendo compostos de metais, minerais, e outros materiais necessários. Esses autômatos conseguem seguir um único comando antes de descarregarem, e precisam ter estado sob a luz do sol por 10 minutos há pelo menos 24 horas para se energizar, caso contrário não funcionarão. Você também pode energizá-los com Mana, gastando 1d4 Pontos de Mana para energizá-los por 24 horas. Você escolhe a aparência deles na hora da confecção. Autômatos criados por você são considerados objetos.
+Você consegue criar pequenos autômatos a partir de materiais encontrados pelo caminho, sendo compostos de metais, minerais, e outros materiais necessários. Esses autômatos conseguem seguir um único comando antes de descarregarem, e precisam ter estado sob a luz do sol por 10 minutos há pelo menos 24 horas para se energizar, caso contrário não funcionarão. Você também pode energizá-los com Mana, gastando 1d4 Pontos de Mana para energizá-los por 24 horas. Você escolhe a aparência deles na hora da confecção.
 
 Eles podem andar, sendo seu Deslocamento de 12m. Além disso, podem realizar qualquer Ação Livre possível. Eles tem o tamanho Pequeno. Por fim, podem realizar tarefas básicas, como pegar um item, levar um item até um local, puxar uma alavanca, limpar um local, cozinhar receitas simples, etc.
 
@@ -55,7 +55,7 @@ Qualquer coisa que seja considerada um objeto pode ser guardado na gaiola. O tem
 
 **Requisitos**: Habilidade "Autômatos Menores" de Custo 1. 5 de Inteligência.
 
-Você agora consegue criar Autômatos Menores pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses Autômatos Medianos possuem capacidade de lutar ou agir por conta própria em um Encontro. Eles podem Atacar, se esconder, arremessar objetos, utilizar-se de Armas e Armaduras que você concede a eles, realizar Ataques a Distância com Armas a distância, administrar Poções e Venenos, e realizar qualquer ação de movimento. Eles são de tamanho Pequeno, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
+Você agora consegue criar Autômatos Menores pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses Autômatos Medianos possuem capacidade de lutar ou agir por conta própria em um Encontro. Eles podem Atacar, se esconder, arremessar objetos, utilizar-se de Armas e Armaduras que você concede a eles, realizar Ataques a Distância com Armas a distância, administrar Poções e Venenos, e realizar qualquer ação de movimento. Eles são de tamanho Pequeno, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos.
 
 Você pode ter até 2 autômatos no total ativos ao mesmo tempo. Assim como os Autômatos Menores, precisam de luz do sol ou Mana para funcionarem, seguindo as mesmas regras deles. A única exceção é que eles não descarregam após um único comando, mas sim, após participarem de um Encontro. Os atributos de um Autômato Mediano são todos iguais a 1, e eles tem uma Ação e uma Ação Bônus no Turno deles. A CA deles é 11 + qualquer bônus concedido por Armaduras, e tem 5d4 de Pontos de Vida. O Deslocamento deles é de 9m.
 
@@ -81,7 +81,7 @@ Você se torna mais hábil na criação das gaiolas, fazendo com que desperdice 
 
 **Requisitos**: Habilidade "Autômatos Medianos" de custo 2. 10 de inteligência.
 
-Você agora consegue criar Autômatos Medianos pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses Autômatos Maiores possuem quaisquer capacidades que os demais, mais fracos, possuíam. Eles são de tamanho Grande, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos. Autômatos criados por você são considerados objetos.
+Você agora consegue criar Autômatos Medianos pela metade do tempo normal, e também consegue criar novos autômatos mais capazes. Esses Autômatos Maiores possuem quaisquer capacidades que os demais, mais fracos, possuíam. Eles são de tamanho Grande, e são humanoides. Eles seguem qualquer comando seu, e você que os controla em combate através da sua voz ou gestos.
 
 Você pode ter até 3 autômatos ativos ao mesmo tempo. Assim como os Autômatos Menores e Medianos, precisam de luz do sol ou mana para funcionarem, seguindo as mesmas regras deles. Os Atributos de um Autômato Maior são todos iguais a 3, e eles tem uma Ação e uma Ação Bônus no Turno deles. A CA deles é 13 + qualquer bônus concedido por Armaduras, e tem 5d8 de Pontos de Vida. O Deslocamento deles é de 9m.
 

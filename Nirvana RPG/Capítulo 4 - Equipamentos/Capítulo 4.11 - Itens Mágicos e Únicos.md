@@ -81,15 +81,15 @@ As Resinas Melhoradas são versões superiores as Resinas comuns. Elas possuem e
 
 ## Arma Melhorada
 
-As Armas melhoradas são Armas comuns que tem mais chances de passar pela Armadura de um oponente. Elas são mais afiadas e letais. Elas vão de +1 até +3. Uma Arma +1 concede +1 para acertar o Ataque, uma Arma +2 concede +2, e uma Arma +3 concede +3. O preço de uma Arma +1 é duas vezes o preço de uma Arma comum, o de uma Arma +2 é três vezes, e o de uma Arma +3 é quatro vezes.
+As Armas melhoradas são Armas comuns que tem mais chances de passar pela Armadura de um oponente. Elas são mais afiadas e letais. Elas vão de +1 até +3. Uma Arma +1 concede +1 para acertar o Ataque, uma Arma +2 concede +2, e uma Arma +3 concede +3. O preço de uma Arma +1 é duas vezes o preço de uma Arma comum, o de uma Arma +2 é três vezes, e o de uma Arma +3 é quatro vezes. O preço mínimo de uma Arma Melhorada qualquer é de 200po.
 
 ## Armadura Melhorada
 
-As Armaduras melhoradas são Armaduras comuns que tem mais proteção. Elas são mais robustas e bem construídas. Elas vão de +1 até +3. Uma Armadura +1 concede +1 de CA, uma Armadura +2 concede +2, e uma Armadura +3 concede +3. O preço de uma Armadura +1 é duas vezes o preço de uma Armadura comum, o de uma Armadura +2 é três vezes, e o de uma Armadura +3 é quatro vezes.
+As Armaduras melhoradas são Armaduras comuns que tem mais proteção. Elas são mais robustas e bem construídas. Elas vão de +1 até +3. Uma Armadura +1 concede +1 de CA, uma Armadura +2 concede +2, e uma Armadura +3 concede +3. O preço de uma Armadura +1 é duas vezes o preço de uma Armadura comum, o de uma Armadura +2 é três vezes, e o de uma Armadura +3 é quatro vezes. O preço mínimo de uma Armadura Melhorada qualquer é de 200po.
 
 ## Varinhas e Cajados Mágicos
 
-Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas para Magos. Essas escalas agem de maneira diferente, adicionando Mana em cada um dos Bônus de Escala. Sempre que uma Escala concederia dano extra, agora concederá Mana extra igual a metade do total (somando todos os Bônus de Escala atualmente ativos), arredondado para baixo. Sempre que uma Escala concederia bônus para acertar um Ataque, agora concederá uma quantidade de Mana igual ao bônus.
+Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas para Magos. Essas escalas agem de maneira diferente, adicionando Mana em cada um dos Bônus de Escala. Sempre que uma Escala concederia dano extra, agora concederá Mana extra igual a metade do total (somando todos os Bônus de Escala atualmente ativos), arredondado para baixo. Sempre que uma Escala concederia bônus para acertar um Ataque, agora concederá uma quantidade de Mana igual ao bônus. A Mana adicional é considerada Pontos de Mana Temporários, e você os recupera ao ter um Descanso Longo.
 
 Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligência, Fé, e Carisma. É possível equipar até dois ao mesmo tempo, recebendo os efeitos de ambos ao conjurar uma Magia.
 
@@ -102,6 +102,10 @@ Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligênci
 | Suprema(o)               | 750po | -    | 3 de Inteligência, Carisma, ou Fé | S em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
 
 É possível também que uma mesma Varinha ou Cajado Mágico possa ter Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Inteligência e B em Fé. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico". Os custos serão somados.
+
+## Pergaminhos de Magias
+
+Um Pergaminho de Magia possui uma Magia guardada nele. Qualquer um pode conjurar aquela Magia sem gastar Mana, e sem atender aos requisitos. O preço de um é 200 vezes o custo da Magia em PO.
 
 # Grau 2
 

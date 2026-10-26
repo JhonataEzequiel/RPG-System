@@ -7,7 +7,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Ação Livre
 
-**Descrição:** No momento em que for Nocauteado pode escolher utilizar essa Magia ou não. Seu corpo ficará intangível enquanto não terminar as Salvaguardas para se Estabilizar. Você se torna Imune a todo e qualquer tipo de dano. Todos podem ver o seu corpo, mas ele tem uma aparência translúcida. 
+**Descrição:** No momento em que for Nocauteado pode escolher utilizar essa Magia ou não. Seu corpo ficará intangível enquanto não terminar as Salvaguardas para se Estabilizar. Você se torna Imune a todo e qualquer tipo de dano, incluindo Dano Verdadeiro. Todos podem ver o seu corpo, mas ele tem uma aparência translúcida. 
 
 Pequenas marcações circulares, que parecem círculos mágicos, surgem no seu corpo. Um aliado seu precisa acertar cada uma dessas marcações com um ataque cada. Será considerado como ataque para acertar os círculos mágicos qualquer instância de dano. O seu aliado sempre acerta os Ataques Físicos contra os círculos, mas caso um inimigo esteja a 1.5m de você, ele sofre um Ataque de Oportunidade quando finalizar os Ataques. Este Ataque de Oportunidade não pode ser impedido de maneira alguma, nem mesmo por Habilidades. Uma vez que as marcações sejam atingidas, você volta a vida com metade dos seus Pontos de Vida, e ganha +4d8 de vida temporários. Isto independe do resultado atual das Salvaguardas, desde que você ainda não tenha morrido.
 

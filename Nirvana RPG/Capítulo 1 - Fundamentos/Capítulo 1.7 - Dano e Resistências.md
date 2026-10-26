@@ -3,9 +3,9 @@ Dependendo do Ataque realizado, o dano pode ser de diferentes categorias, sendo 
 
 Inimigos e Armaduras normalmente tem Resistências diferentes aos tipos de dano. Um monstro que vive num local gelado, como o pico de uma montanha, pode ter alguma Resistência a Dano de Gelo, por exemplo. As Resistências reduzem o dano em uma quantia especificada. Já as Fraquezas são o contrário das Resistências, fazendo com que o inimigo sofra mais dano de acordo com a Fraqueza especificada. Se algum personagem consegue causar mais de um tipo de dano ao mesmo tempo, as Resistências e Vulnerabilidades deverão ser aplicadas apenas ao tipo de dano específico delas. Por exemplo, se o Ataque causar 1d8 de Dano de Impacto e 1d8 de Dano de Fogo, e quem for atingido tiver Resistência a Dano de Fogo, a Resistência vai se aplicar apenas ao Dano de Fogo, portanto o inimigo sofrerá menos Dano de Fogo e sofrerá o Dano de Impacto totalmente.
 
-Nenhum dano pode ser inferior a 0.
+Nenhum dano pode ser inferior a 0. Os termos "Fraqueza" e "Vulnerabilidade" são intercambiáveis, e significam a mesma coisa, assim como os termos "Imunidade" e "Invulnerabilidade".
 
-## Imunidades
+## Imunidades ou Invulnerabilidades
 
 Ser Imune a um determinado tipo de dano ou característica te faz não mais ser afetado por quaisquer efeitos que aquilo possa causar. Existem alguns casos em que Imunidades são ignoradas, mas são raros.
 
@@ -27,7 +27,7 @@ O Dano Venenoso (ou Dano de Veneno) normalmente causa Dano Contínuo, e é mais 
 
 ## Dano Verdadeiro
 
-É o tipo de dano que ignora todas as Resistências e Vulnerabilidades do alvo, essencialmente o Dano Verdadeiro recebido é o Dano Verdadeiro causado, sempre. Não existe Imunidade ao Dano Verdadeiro em si, mas é possível ser Imune à fonte que causa esse dano. 
+É o tipo de dano que ignora todas as Resistências e Vulnerabilidades do alvo, essencialmente o Dano Verdadeiro recebido é o Dano Verdadeiro causado, sempre. Em raríssimas ocasiões, é possível se tornar Imune a Dano Verdadeiro. Isso é especificado na Magia ou Habilidade que conceder esse efeito. É mais comum, no entanto, ficar Imune à fonte do dano, como certas Magias de Sangue que afetam diretamente o interior do alvo.
 
 É possível que certas Habilidades, Magias, itens, ou outras coisas concedam Resistência a todos os tipos de dano. Neste caso, Dano Verdadeiro será uma exceção. Não é possível resistir a Dano Verdadeiro.
 

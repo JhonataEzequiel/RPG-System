@@ -11,7 +11,7 @@
 
 Quaisquer Magias conjuradas, seja pelo alvo ou utilizando o objeto, que causem Dano de Fogo, seja dano único ou um dos tipos de dano da Magia, agora causarão o dobro de Dano de Fogo. O alvo também recebe 50 pontos de Resistência a Dano de Fogo.
 
-Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a Fogo.
+Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a Fogo. Essa Magia só pode ser conjurada uma vez até ter um Descanso Longo.
 
 ### Pássaro Trovão
 
@@ -25,7 +25,7 @@ Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a F
 
 Quaisquer Magias conjuradas, seja pelo alvo ou utilizando o objeto, que causem Dano de Raio, seja dano único ou um dos tipos de dano da Magia, agora causarão o dobro de Dano de Raio. O alvo também recebe 50 pontos de Resistência a Dano de Raio.
 
-Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a Raio.
+Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a Raio. Essa Magia só pode ser conjurada uma vez até ter um Descanso Longo.
 
 ### Iéti
 
@@ -39,4 +39,4 @@ Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a R
 
 Quaisquer Magias conjuradas, pelo alvo ou utilizando o objeto, que causem Dano de Gelo, seja dano único ou um dos tipos de dano da Magia, agora causarão o dobro de Dano de Gelo. O alvo também recebe 50 pontos de Resistência a Dano de Gelo.
 
-Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a Gelo.
+Por 2 Pontos de Mana adicionais, as Magias do alvo ignoram Invulnerabilidade a Gelo. Essa Magia só pode ser conjurada uma vez até ter um Descanso Longo.

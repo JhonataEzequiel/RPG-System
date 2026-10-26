@@ -6,7 +6,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** A criatura que você tocar recebe uma visão divina que ultrapassa a capacidade mental dela. Ela desmaia automaticamente se falhar num Teste de Resistência de Fé CD 12 + Car + Sab, tendo a Condição Inconsciente. Em caso de sucesso, ela fica Atordoada. Causa 4d8 + Fth de Dano Sagrado a mortos-vivos.
+**Descrição:** A criatura que você tocar recebe uma visão divina que ultrapassa a capacidade mental dela. Ela desmaia automaticamente se falhar num Teste de Resistência de Fé CD 11 + Fé, tendo a Condição Inconsciente. Em caso de sucesso, ela fica Atordoada. Causa 4d8 + Fth de Dano Sagrado a mortos-vivos.
 
 ### Discernimento
 

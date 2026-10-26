@@ -7,7 +7,7 @@
 - Alcance: 9m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você se concentra no inimigo para retirar o sangue do corpo dele, causando 2d4 + Int de Dano Verdadeiro de Sangue no final de cada um de seus Turnos, até a Concentração ser interrompida. Além disso, você absorve esse sangue e o converte em energia vital, curando-se em metade do dano causado. 
+**Descrição:** Você se concentra no inimigo para retirar o sangue do corpo dele, causando 2d4 + Int de Dano Verdadeiro de Sangue Contínuo até a Concentração ser interrompida. Além disso, você absorve esse sangue e o converte em energia vital, curando-se em metade do dano causado.
 
 ### Tormenta Carmesim
 

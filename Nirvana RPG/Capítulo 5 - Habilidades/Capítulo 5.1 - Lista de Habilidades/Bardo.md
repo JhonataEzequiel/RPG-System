@@ -66,10 +66,10 @@ Esta Habilidade consome Ações e Mana apenas na primeira vez que você executá
 
 ## Canção do Perecimento (Custo 1)
 
-**Requisitos**: 2 de Fé, 1 de Inteligência. Ser perito em Música.
+**Requisitos**: 1 de Fé, 1 de Inteligência. Ser perito em Música.
 **Custo**: Uma Ação, 5 de Mana.
 
-Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento que ouvirem a música morrerão, incluindo você.
+Você entoa um canto macabro, que entra na mente do seu inimigo. Uma vez iniciada a canção, não há como parar seu efeito. Em três Rodadas, todos no alcance do seu Deslocamento que ouvirem a música e falharem num Teste de Resistência de Sabedoria CD 11 + Fé morrerão, incluindo você. Você também deverá realizar o Teste. O Teste para você será bem mais difícil, tendo a CD 15 + Fé. Em caso de sucesso, um alvo não é afetado.
 
 Você pode escolher perder toda sua Mana permanentemente, assim como sua capacidade de conjurar qualquer Magia, não importando como a conseguiu, em troca de ser apenas Nocauteado. Criaturas com Resistência ou Imunidade a Dano Sombrio, assim como aquelas com a Condição Surdo são Imunes a essa Habilidade. Caso obtenham a Condição Surdo após ouvir a canção não serão mais afetadas.
 
@@ -91,7 +91,7 @@ Sempre que conjurar uma Magia que cause dano enquanto toca uma música, você ad
 
 **Requisitos**: 5 de Carisma.
 
-Você tem +5 em Testes de Conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma Condição negativa você ganha Vantagem além do bônus padrão de +4.
+Você tem +5 em Testes de Conversação que visam enganar alguém, desde que suas intenções sejam maléficas para com o alvo do Teste, ou para ganho pessoal, pensando de maneira egoísta. Caso o alvo tenha alguma Condição negativa, você ganha Vantagem além do bônus padrão de +5.
 
 ## Pas de Deux (Custo 2)
 

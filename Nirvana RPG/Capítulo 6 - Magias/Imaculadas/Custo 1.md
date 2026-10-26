@@ -23,7 +23,7 @@ Você pode aumentar em 5 os Pontos de Vida Temporários para cada Ponto de Mana 
 ### Armadura Arcana
 
 - Requisito em Inteligência: 1
-- Requisitos Adicionais: O alvo não pode estar usando armadura
+- Requisitos Adicionais: O alvo não pode estar usando Armadura Leve ou Pesada
 - Duração: 24 horas
 - Alcance: Toque
 - Tempo de Conjuração: Duas Ações

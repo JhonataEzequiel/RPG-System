@@ -113,7 +113,7 @@ Você agora pode tomar qualquer Poção como uma Ação Bônus, e aplicar qualqu
 
 ## Alquimista Mágico (Custo 3)
 
-**Requisitos**: Habilidade "Artesão de Itens Aplicáveis" de Custo 1, Habilidade "Artesão de Itens Arremessáveis" de Custo 1, Habilidade "Alquimista Iniciante" de Custo 1.
+**Requisitos**: Habilidade "Artesão de Itens Aplicáveis" de Custo 1, Habilidade "Artesão de Bombas" de Custo 1, Habilidade "Alquimista Iniciante" de Custo 1.
 
 Você também pode confeccionar Itens Mágicos Arremessáveis, Aplicáveis, Poções, Venenos, e quaisquer outros itens similares de Grau 1 ao 3. O tempo de confecção e o preço em materiais aumenta conforme o Grau do item. Caso um item desse tipo tenha um preço indicado, o preço para criá-lo será metade desse valor. Caso não, a tabela abaixo serve como base. Caso o item esteja sob uma faixa de preço específica, o valor final fica a critério do mestre.
 

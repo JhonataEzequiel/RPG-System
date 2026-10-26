@@ -22,3 +22,7 @@ O cenário em si pode impactar no quanto você consegue enxergar em um determina
 ### Penumbra
 
 Similar a escuridão, a Penumbra acontece quando há pouca iluminação. Criaturas em Penumbra tem -3 para acertar Ataques, e -5 em Testes de Percepção relacionados a visão.
+
+### Visão no Escuro e na Penumbra
+
+Concedem a capacidade de ignorar os efeitos de um local Escuro ou em Penumbra, de acordo com o tipo. Os efeitos só são ignorados enquanto o alvo estiver dentro do raio de alcance da Visão no Escuro, que é centrada em você. Por exemplo, seus Ataques não terão mais Desvantagem caso seu alvo no Escuro esteja dentro do raio de alcance da sua Visão no Escuro.

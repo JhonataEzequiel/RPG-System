@@ -23,6 +23,10 @@ Ao escalar verticalmente uma superfície, o seu Deslocamento Terrestre é cortad
 
 Algumas criaturas são capazes de cavar no chão e abrir túneis, se locomovendo pelo solo. O Deslocamento enquanto estiverem Cavando irá variar de acordo com a criatura.
 
+### Terreno Difícil
+
+O Terreno Difícil é uma condição que afeta o cenário em que um personagem está se deslocando. Terreno Difícil diminui o Deslocamento das criaturas afetadas pela metade.
+
 ## Andar, Correr e Desengajar
 
 Andar é considerada uma Ação Livre. Ao Correr, você gasta duas Ações e seu Deslocamento é dobrado. Desengajar impede Ataques de Oportunidade, e custa três Ações. Seu Deslocamento também é dobrado ao Desengajar.
@@ -39,9 +43,9 @@ Pular sobre certos locais, como chegar do outro lado de um precipício, pode req
 
 ## Queda e Queda Livre
 
-Pequenas alturas não apresentam perigo. Quedas de até 5m, ou 10m enquanto Furtivo não causam dano algum. Caso ultrapassem esse limiar, você toma 1d4 de dano de impacto por 3m de queda ao atingir o chão.
+Pequenas alturas não apresentam perigo. Quedas de até 5m, ou 10m enquanto Furtivo não causam dano algum. Caso ultrapassem esse limiar, você toma 1d4 de Dano de Impacto por 3m de queda ao atingir o chão. A fórmula para calcular o dano de queda só tem efeito a partir desse limiar.
 
-A velocidade em Queda Livre é dada pela quantidade de Turnos em Queda Livre multiplicada por 10. Ou seja, quanto mais turnos passarem, maior a distância percorrida em queda livre. A fórmula é a seguinte:
+A distância total percorrida em Queda Livre é dada pela quantidade de Turnos em Queda Livre multiplicada por 10. A fórmula é a seguinte:
 
 $$
 DistânciaPercorrida = Turnos*10

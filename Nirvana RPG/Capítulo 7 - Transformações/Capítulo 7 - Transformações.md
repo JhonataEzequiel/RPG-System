@@ -1,2 +1,2 @@
 
-As transformações são mecânicas adicionais que permitem com que você tenha a experiência de jogar como uma criatura de natureza diferente, como um Vampiro ou Licantropo. As transformações contém um sistema de progressão próprio que independem do resto do sistema. Elas não levam em consideração o Nível do seu personagem, seus Atributos, ou qualquer coisa similar.
+As Transformações são mecânicas adicionais que permitem com que você tenha a experiência de jogar como uma criatura de natureza diferente, como um Vampiro ou Licantropo. As Transformações contém um sistema de progressão próprio que independem do resto do sistema. Você pode ter uma Transformação independente do seu Nível de Personagem, ou de Atributos.
