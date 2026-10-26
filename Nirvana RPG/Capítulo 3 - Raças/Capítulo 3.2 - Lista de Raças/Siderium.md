@@ -7,9 +7,9 @@ Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu notur
 
 ### Habilidades de Raça
 
-**Helius** (Ação Bônus): Caso fique 8 horas em contato direto com luz solar, ou uma fonte de luz potente (pelo menos uma fogueira) em um momento anterior ao uso desta Habilidade, você receberá os benefícios de um Descanso Longo sem precisar descansar. Só pode usar essa Habilidade uma vez até se energizar de novo. 
+**Helius** (Ação Bônus): Caso fique 8 horas em contato direto com luz solar, ou uma fonte de luz potente (pelo menos uma fogueira) em um momento anterior ao uso desta Habilidade, você receberá os benefícios de um Descanso Longo sem precisar descansar. Só pode usar essa Habilidade uma vez até se energizar de novo.
 
-**Requerimento Luminoso** (Passiva): Ao usar a Habilidade "Helius" em um Encontro, você receberá 1d6 de Dano Verdadeiro Contínuo até o Encontro acabar. Caso utilize fora de combate, você terá Exaustão 1. Caso utilize o Helius em batalha, e a batalha acabe com você ainda vivo, você também terá o efeito de Exaustão.
+**Requerimento Luminoso** (Passiva): Ao usar a Habilidade "Helius" em um Encontro, você receberá 1d4 de Dano Verdadeiro Contínuo até o Encontro acabar. Caso utilize fora de combate, você terá Exaustão 1. Caso utilize o Helius em batalha, e a batalha acabe com você ainda vivo, você também terá o efeito de Exaustão.
 
 **Minerva** (Passiva): Os Siderium Diurnus tem um bônus de +2 em Testes de Sabedoria.
 
