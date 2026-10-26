@@ -38,6 +38,6 @@ Como licantropo você receberá as seguintes Habilidades a partir do Nível de E
 
 **Sangue Puro** (Três Ações): Você só pode utilizar essa Habilidade com o Nível de Exaustão 5. Uma aura de medo e terror emana de você, cobrindo o ambiente ao seu redor. Ao usar, todos no Alcance de 48m tem a Condição Amedrontado até o final do Encontro caso falhem numa Salvaguarda de Sabedoria CD 15 + For + Car.
 
-**Luz do Luar** (Ação Bônus): Você olha diretamente para a lua por alguns segundos, encerrando seu Turno. Seu Nível de Exaustão diminui em 1. Você não pode utilizar essa Habilidade quando estiver com o Nível de Exaustão 5.
+**Luz do Luar** (Ação Bônus): Você olha diretamente para a lua por alguns segundos, encerrando seu Turno. Essa Habilidade só funciona de noite. Seu Nível de Exaustão diminui em 1. Você não pode utilizar essa Habilidade quando estiver com o Nível de Exaustão 5.
 
 **Sangue do Luar** (Ação Bônus): Você olha diretamente para a lua por alguns segundos, e foca no seu lado mais bestial. A lua começa a parecer vermelha para você, liberando esse lado. Você avança seu Nível de Exaustão em 1 e encerra seu Turno. Não pode usar essa Habilidade quando estiver com o Nível de Exaustão 5. Ao usar essa Habilidade e voltar a sua forma normal seus Níveis de Exaustão não serão curados.
