@@ -6,7 +6,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca uma criatura no alcance da Magia que deve passar por um Teste de Resistência de Sabedoria CD 14 + Car ou Int. 
+**Descrição:** Você toca uma criatura no alcance da Magia que deve passar por um Teste de Resistência de Sabedoria CD 14 + Car ou Int.
 
 Em caso de haver falha, você toma controle total da criatura, que obedecerá suas ordens. A criatura também ganha a condição Encantado. Você basicamente ganha acesso a todas as estatísticas e ações da criatura, e pode utilizá-la como desejar. A ordem de Iniciativa permanece a mesma, ou seja, quando for a vez da criatura agir, você agirá por ela.
 

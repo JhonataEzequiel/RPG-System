@@ -5,7 +5,7 @@ O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalh
 
 **Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
 
-Todos os seus Ataques são considerados Ataques Críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais também, e sua Potência Crítica recebe um aumento de pontos igual ao seu Bônus de Proficiência. Você também não tem mais Erros Críticos em nenhum Teste. 
+Todos os seus Ataques são considerados Ataques Críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais também, e sua Potência Crítica recebe um aumento de pontos igual ao seu Bônus de Proficiência. Você também não tem mais Erros Críticos em nenhum Teste.
 
 Em troca, você abdica da sua capacidade de escolher outras Habilidades além desta para sempre. Você recebe 6 Pontos de Habilidade extras, e poderá usá-los para adquirir novas Proficiências.
 

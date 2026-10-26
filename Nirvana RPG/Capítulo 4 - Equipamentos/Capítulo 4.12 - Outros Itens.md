@@ -1,6 +1,8 @@
 
 A tabela abaixo contém itens básicos úteis para aventureiros em suas jornadas. Estes itens não possuem efeitos mecânicos complexos, mas são essenciais para sobrevivência, exploração, e utilidades diversas. Caso precise utilizar um desses itens em combate, o custo será de uma Ação. Exceções existem. Caso o próprio item aponte um tempo de uso diferente, ou especifique que não pode ser usado em combate, então a regra na descrição do item deverá ser seguida.
 
+Itens que recuperam Exaustão só recuperam até um máximo de um Nível de Exaustão por Descanso Longo, mesmo que sejam itens diferentes.
+
 | Item                      | Funcionalidade                                                                                                                                                                                                                   | Custo | Peso                         |
 | ------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ---------------------------- |
 | Tocha                     | Ilumina uma área esférica de 6m de raio por 1 hora. Pode ser usada como Arma improvisada causando 1d4 de Dano de Fogo.                                                                                                           | 1pc   | 0.5 kg                       |

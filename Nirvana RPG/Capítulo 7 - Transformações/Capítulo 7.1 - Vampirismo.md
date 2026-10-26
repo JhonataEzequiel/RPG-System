@@ -16,7 +16,7 @@ No Estágio 1 você terá Desvantagem em todas as Salvaguardas enquanto estiver 
 Depois de se alimentar do sangue de, pelo menos, três pessoas diferentes, você se tornará um Vampiro completamente. Neste estágio você ganhará alguns benefícios novos. Os malefícios serão similares aos do Estágio 1, mas agora você recebe 1d6 de Dano Verdadeiro ao finalizar o seu Turno em contato com a luz solar. Os novos benefícios serão:
 - Você pode usar qualquer Arcano Menor de Sangue e Ilusão, ainda que não atenda aos requisitos;
 - Você tem +5 em Testes de Furtividade e Conversação;
-- **Morcegos Espectrais** (Ação Bônus): Uma vez até ter um Descanso Curto ou Longo você pode se transformar em morcegos espectrais, ficando Invulnerável a Danos Físicos até o final do seu Turno. Enquanto nesta forma o seu Deslocamento será dobrado, e você ignora Terreno Difícil. Seu Turno encerra depois de usar essa Habilidade.
+- **Morcegos Espectrais** (Reação, 2 de Mana): Você se transforma em morcegos espectrais quando fosse receber uma instância de Dano Físico, ficando Invulnerável àquela instância de dano. Você volta ao normal logo após o fim da Reação.
 - **Mordida Vampírica** (Passiva): Ao executar um Ataque Desarmado você pode escolher que esse Ataque seja uma mordida. Se fizer isso, o ataque causará 1d8 de Dano Sombrio adicional, e se curará na mesma quantidade. Isso conta como você se alimentando de sangue. Você só poderá morder uma vez por Rodada.
 - **Visão Vampírica** (Passiva): Você adquire Visão no Escuro no alcance do seu Deslocamento.
 A partir deste estágio você poderá transformar outros em Vampiros, se assim desejar.
