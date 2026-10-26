@@ -35,7 +35,7 @@ O Dano Venenoso (ou Dano de Veneno) normalmente causa Dano Contínuo, e é mais 
 
 Existem alguns tipos de Dano Mágico, os quais são causados pelo uso de Magias, Armas mágicas, ou Habilidades mágicas, sendo eles:
 
-**Elementais**: Dano de Fogo, Elétrico (ou Raio), e Gelo. Os outros elementos de Magias Elementais causam basicamente algum tipo de Dano Físico, como Dano Contundente ao arremessar uma rocha gigante no inimigo, ou Dano Cortante, fazendo uma lâmina de ar.
+**Elementais**: Dano de Fogo, Elétrico (também chamado de Raio), e Gelo. Os outros elementos de Magias Elementais causam basicamente algum tipo de Dano Físico, como Dano Contundente ao arremessar uma rocha gigante no inimigo, ou Dano Cortante, fazendo uma lâmina de ar.
 
 **Sagrado** (também chamado de Radiante): tipo de Dano Mágico eficaz contra mortos-vivos e criaturas das trevas. Normalmente causados por itens e Magias Sagradas.
 

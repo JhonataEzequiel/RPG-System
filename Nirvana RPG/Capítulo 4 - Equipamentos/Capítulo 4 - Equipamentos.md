@@ -55,7 +55,7 @@ As Armas listadas no Capítulo 4.2 - Lista de Armas são apenas a unidade, ou se
 
 ## Escudos
 
-Escudos seguem as mesmas regras de Escala das Armaduras, mas adicionam apenas metade do valor de CA ao atingir o Nível de Atributo 10. Os Bônus de Escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum Bônus de Escalas, nem poderá utilizar Habilidades que interajam com seu Escudo, servindo apenas como peso extra. O Escudo deverá ocupar uma das mãos.
+Escudos seguem as mesmas regras de Escala das Armaduras, mas adicionam apenas metade do valor de CA ao atingir o Nível de Atributo 10, arredondando para cima. Os Bônus de Escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum Bônus de Escalas, nem poderá utilizar Habilidades que interajam com seu Escudo, servindo apenas como peso extra. O Escudo deverá ocupar uma das mãos.
 
 ## Peso dos Equipamentos
 

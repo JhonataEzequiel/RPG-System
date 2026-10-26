@@ -27,7 +27,7 @@ Você tem os dois efeitos que originalmente você precisava escolher da Visão d
 
 **Requisitos**: Você é um Elfo Negro de Nível 10 ou superior.
 
-Seu limite antigo de se teletransportar duas vezes ao dia no Nível 14 agora é removido, e você pode fazer isso 4 vezes por Descanso Curto. Você também pode se teletransportar essas 4 vezes já no Nível 10.
+Seu limite antigo de se teletransportar duas vezes por Descanso Longo no Nível 14 agora é removido, e você pode fazer isso 4 vezes por Descanso Curto. Você também pode se teletransportar essas 4 vezes já no Nível 10.
 
 ## Fantasma Possuidor (Custo 3)
 
@@ -49,7 +49,7 @@ Ao receber dano e ter sua Proteção das Fadas desfeita, você o reflete. O dano
 
 **Requisitos**: Você é um Gnomo da Natureza de Nível 10 ou superior.
 
-A vulnerabilidade a Dano de Fogo na primeira forma é perdida, mas você não ganha Resistência a Dano de Fogo, ficando neutro. Além disso, quando você troca de forma você ganha Imunidade a Ataques de Oportunidade até o fim de seu próximo Turno. Por último, você agora se cura em metade do seu Nível quando desativar as formas, voltando a seu estado básico.
+Ao alternar entre as formas, você se cura em uma quantidade de Pontos de Vida igual ao seu Bônus de Proficiência. Espíritos da Floresta agora custa uma Ação Livre ao invés de Ação Bônus, mas ainda encerra seu Turno.
 
 ## Pequeno Prodígio (Custo 3)
 

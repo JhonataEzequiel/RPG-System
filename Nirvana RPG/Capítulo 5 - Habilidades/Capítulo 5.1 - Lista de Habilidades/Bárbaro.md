@@ -97,8 +97,8 @@ Durante uma quantidade limitada de tempo, você poderá ignorar o dano causado, 
 | ------------------- | -------------- |
 | 1-5                 | Con            |
 | 6-10                | Con+3          |
-| 11-15               | Constituição+3 |
-| 16-20               | Constituição+5 |
+| 11-15               | Con+5          |
+| 16-20               | Con+7          |
 
 ## Ataque Descontrolado (Custo 2)
 

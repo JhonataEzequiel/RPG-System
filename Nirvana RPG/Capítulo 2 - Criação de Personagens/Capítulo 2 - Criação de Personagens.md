@@ -67,18 +67,18 @@ No Nível 1, seus Pontos de Mana serão iguais ao seu Modificador de Sabedoria. 
 | Nível de Sabedoria | Magias Conhecidas | Arcanos Menores Conhecidos |
 | ------------------ | ----------------- | -------------------------- |
 | 0 ou Inferior      | 0                 | 0                          |
-| 1                  | 3                 | 2                          |
-| 2                  | 5                 | 3                          |
-| 3                  | 6                 | 4                          |
-| 4                  | 8                 | 5                          |
-| 5                  | 10                | 6                          |
-| 6                  | 12                | 7                          |
-| 7                  | 13                | 8                          |
-| 8                  | 15                | 8                          |
-| 9                  | 17                | 8                          |
+| 1                  | 2                 | 1                          |
+| 2                  | 4                 | 2                          |
+| 3                  | 6                 | 3                          |
+| 4                  | 8                 | 4                          |
+| 5                  | 10                | 5                          |
+| 6                  | 12                | 6                          |
+| 7                  | 14                | 7                          |
+| 8                  | 16                | 8                          |
+| 9                  | 18                | 9                          |
 | 10                 | 20                | 10                         |
 
-Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por gastar até 3 Pontos de Mana em qualquer Teste que for realizar (3 Pontos por Teste), adicionando este número ao resultado final. Os Pontos de Mana gastos podem ser recuperados normalmente. Ao fazer esta escolha, ela não poderá ser desfeita. Você deve realizar essa escolha antes de finalizar seu personagem.
+Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por aumentar seus Pontos de Mana Máximos em 1 a cada Nível de Personagem Ímpar, começando pelo Nível 1. Ou seja, ao chegar no Nível 19, você terá +10 Pontos de Mana Máximos. Essa escolha é irreversível, e é feita ao criar seu personagem.
 
 ## Escolha de Perícias e Proficiências
 

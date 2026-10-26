@@ -52,7 +52,7 @@ Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te 
 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
 
-Sua lâmina agora é energizada com força divina que vem de dentro de você, não dependendo de uma divindade. Ignora quaisquer Imunidades a Dano Físico que seus oponentes possuam. Por exemplo, fantasmas agora podem ser atingidos por seus Ataques. Você agora utiliza o Atributo de Destreza na Iniciativa ao invés do Modificador sempre que o utilizar para acertar Ataques ou causar dano. Além disso, tem uma Ação Bônus a mais por Encontro, podendo usá-la em qualquer um de seus Turnos.
+Você causa um adicional de Dano Radiante em cada Ataque que originalmente cause Dano Cortante igual ao seu Atributo de Fé.
 
 ## Mãos Espectrais (Custo 2)
 
@@ -86,9 +86,7 @@ Qualquer Dano Cortante que você cause agora recebe um adicional de 3d8 + Fth de
 
 Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus Ataques causarão dano mágico adicional, composto por 1d6 de Dano Radiante e 1d6 de outro tipo à sua escolha entre Raio, Fogo, Gelo, e Sortilégio.
 
-O multiplicador deste bônus aumenta conforme a quantidade de oponentes no Encontro: com 1 oponente o bônus é normal, com 2 duplica, com 3 triplica, e assim por diante, até o máximo de 5 inimigos.
-
-No entanto, o multiplicador só se aplica caso você esteja lutando completamente sozinho, ou que seus aliados estejam Nocauteados. As seguintes condições devem ser atendidas simultaneamente caso seus aliados não estejam Nocauteados:
+O bônus aumenta conforme a quantidade de inimigos no combate. Você recebe 1d6 de Dano Radiante adicional para cada inimigo em combate, até um máximo de 5 inimigos. No entanto, esse adicional só se aplica caso você esteja lutando completamente sozinho, ou que seus aliados estejam Nocauteados. As seguintes condições devem ser atendidas simultaneamente caso seus aliados não estejam Nocauteados:
 
 - Nenhum aliado pode estar presente no campo de visão dos combatentes;
 - Nenhum aliado pode interferir no Encontro de qualquer forma;
@@ -98,7 +96,7 @@ Essa Habilidade não funciona caso você não consiga respirar.
 
 ## Sol (Custo 3)
 
-**Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade Ofensiva "Respiração" de Custo 3. Caso você já tenha a Habilidade Ofensiva "Lua" de Custo 3, esta Habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
+**Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade Ofensiva "Respiração" de Custo 3. Caso você já tenha a Habilidade "Lua" de Custo 3, esta Habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
 **Custo**: Uma Ação, 10 de Mana.
 
 A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.

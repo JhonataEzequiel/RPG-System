@@ -15,7 +15,7 @@
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você lança um raio desacelerador numa criatura dentro do alcance da Magia. O alvo terá que realizar um Teste de Constituição CD 12 + Car ou Int. Caso não seja bem sucedido, o alvo começa a enxergar tudo de maneira mais desacelerada, fazendo com que seu cérebro comece a agir mais rapidamente que seu corpo, que não consegue acompanhar. Tem a condição Atordoado até o fim da duração da Magia. Em caso de sucesso, o alvo toma 2d4 + Int + Car de Dano Psíquico.
+**Descrição:** Você lança um raio desacelerador numa criatura dentro do alcance da Magia. O alvo terá que realizar um Teste de Resistência de Constituição CD 12 + Car ou Int. Caso não seja bem sucedido, o alvo começa a enxergar tudo de maneira mais desacelerada, fazendo com que seu cérebro comece a agir mais rapidamente que seu corpo, que não consegue acompanhar. Tem a condição Atordoado até o fim da duração da Magia. Em caso de sucesso, o alvo toma 2d4 + Int + Car de Dano Psíquico.
 
 ### Esfera de Invisibilidade
 

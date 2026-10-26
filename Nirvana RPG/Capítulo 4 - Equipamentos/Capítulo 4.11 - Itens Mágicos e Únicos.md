@@ -89,7 +89,7 @@ As Armaduras melhoradas são Armaduras comuns que tem mais proteção. Elas são
 
 ## Varinhas e Cajados Mágicos
 
-Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas para Magos. Essas escalas agem de maneira diferente, adicionando Mana em cada um dos Bônus de Escala. Sempre que uma Escala concederia dano extra, agora concederá Mana extra igual a metade do total (somando todos os Bônus de Escala atualmente ativos), arredondado para baixo. Sempre que uma Escala concederia bônus para acertar um Ataque, agora concederá uma quantidade de Mana igual ao bônus. A Mana adicional é considerada Pontos de Mana Temporários, e você os recupera ao ter um Descanso Longo.
+Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas particularmente úteis para Magos. Essas escalas agem de maneira diferente, adicionando Mana em cada um dos Bônus de Escala. Sempre que uma Escala concederia dano extra, agora concederá Mana extra igual a metade do total (somando todos os Bônus de Escala atualmente ativos), arredondado para baixo. Sempre que uma Escala concederia bônus para acertar um Ataque, agora concederá uma quantidade de Mana igual ao bônus. A Mana adicional é considerada Pontos de Mana Temporários, e você os recupera ao ter um Descanso Longo.
 
 Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligência, Fé, e Carisma. É possível equipar até dois ao mesmo tempo, recebendo os efeitos de ambos ao conjurar uma Magia.
 
@@ -101,7 +101,7 @@ Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligênci
 | Poderosa(o)              | 300po | -    | 3 de Inteligência, Carisma, ou Fé | A em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
 | Suprema(o)               | 750po | -    | 3 de Inteligência, Carisma, ou Fé | S em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
 
-É possível também que uma mesma Varinha ou Cajado Mágico possa ter Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Inteligência e B em Fé. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico". Os custos serão somados.
+É possível também que uma mesma Varinha ou Cajado Mágico possa ter Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Inteligência e B em Fé. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico".
 
 ## Pergaminhos de Magias
 

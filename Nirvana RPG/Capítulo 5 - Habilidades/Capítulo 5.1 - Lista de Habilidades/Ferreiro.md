@@ -58,7 +58,7 @@ Você pode criar Itens Mágicos e Únicos, cuja a lista está disponível no Cap
 
 | Grau do Item | Tempo de Criação | Preço dos Materiais |
 | ------------ | ---------------- | ------------------- |
-| 1            | 24 Horas         | 150pl               |
+| 1            | 24 Horas         | 18pl                |
 | 2            | 1 Semana         | 600pl               |
 | 3            | 1 Mês            | 12000pl             |
 

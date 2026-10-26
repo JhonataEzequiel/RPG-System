@@ -18,7 +18,7 @@
 - Alcance: Deslocamento
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Selecione até 2 alvos no alcance da Magia. Os alvos recuperam 3d6 + Fth Pontos de Vida. Caso essa Magia for usada fora de combate, também concede +1 em Iniciativa no próximo Encontro em que os alvos participarem. Este bônus é aplicado apenas ao próximo Encontro, não acumulando para Encontros subsequentes. No entanto, você pode conjurar essa Magia várias vezes enquanto fora de combate para acumular o bônus na Iniciativa até o próximo Encontro.
+**Descrição:** Selecione até 2 alvos no alcance da Magia. Os alvos recuperam 3d6 + Fth ou Car Pontos de Vida. Caso essa Magia for usada fora de combate, também concede +1 em Iniciativa no próximo Encontro em que os alvos participarem. Este bônus é aplicado apenas ao próximo Encontro, não acumulando para Encontros subsequentes. No entanto, você pode conjurar essa Magia várias vezes enquanto fora de combate para acumular o bônus na Iniciativa até o próximo Encontro.
 
 Você pode aumentar o alcance da Magia em 9m por Ponto de Mana adicional gasto. Também pode gastar mais Pontos de Mana para aumentar a cura. Neste caso, você aumentará a cura em 2d6 por ponto gasto.
 

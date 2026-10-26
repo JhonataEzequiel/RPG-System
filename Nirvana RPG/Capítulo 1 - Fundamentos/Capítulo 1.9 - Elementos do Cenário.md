@@ -26,3 +26,5 @@ Similar a escuridão, a Penumbra acontece quando há pouca iluminação. Criatur
 ### Visão no Escuro e na Penumbra
 
 Concedem a capacidade de ignorar os efeitos de um local Escuro ou em Penumbra, de acordo com o tipo. Os efeitos só são ignorados enquanto o alvo estiver dentro do raio de alcance da Visão no Escuro, que é centrada em você. Por exemplo, seus Ataques não terão mais Desvantagem caso seu alvo no Escuro esteja dentro do raio de alcance da sua Visão no Escuro.
+
+Se você possuir Visão no Escuro, também terá Visão na Penumbra pelo mesmo raio. O inverso não é verdadeiro, ou seja, ter Visão na Penumbra não garante Visão no Escuro.

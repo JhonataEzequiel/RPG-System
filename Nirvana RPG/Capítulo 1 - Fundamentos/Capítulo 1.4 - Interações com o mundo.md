@@ -11,7 +11,7 @@ Existem certas atividades que não gastam Ação alguma durante o Turno para ser
 
 ## Ações Bônus
 
-Ações Bônus são aquelas que podem ser utilizadas no mesmo Turno sem consumir uma Ação Padrão. Normalmente são dadas com Magias e Habilidades específicas. O Mestre também pode decidir dar uma Ação Bônus para um jogador dependendo da situação, como quando um jogador vai se preparar para o combate sem ser visto pelo inimigo a priori. Todos podem usar apenas uma Ação Bônus por Turno. Caso deseje usar uma segunda Ação Bônus no mesmo Turno, ela será tratada como uma Ação Padrão, consumindo uma das três Ações disponíveis.
+Ações Bônus são aquelas que podem ser utilizadas no mesmo Turno sem consumir uma Ação Padrão. Normalmente são dadas com Magias e Habilidades específicas. Todos podem usar apenas uma Ação Bônus por Turno. Caso deseje usar uma segunda Ação Bônus no mesmo Turno, ela será tratada como uma Ação Padrão, consumindo uma das três Ações disponíveis.
 
 ## Reações
 

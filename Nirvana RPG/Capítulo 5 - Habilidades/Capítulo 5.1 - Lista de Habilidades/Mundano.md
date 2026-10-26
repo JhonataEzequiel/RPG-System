@@ -16,7 +16,7 @@ Ao iniciar um Encontro, role 1d4. Você irá adicionar esse valor a um Atributo 
 
 ## Sem Especialidade (Custo 1)
 
-Sempre que você receber um Ponto de Atributo ele irá automaticamente para o Atributo de menor Nível. Você agora pode utilizar ambas as características do Atributo de Sabedoria relacionadas a Mana, sendo elas a de conjurar Magias, e a de adicionar Mana a Testes.
+Sempre que você receber um Ponto de Atributo ele irá automaticamente para o Atributo de menor Nível. Você adiciona 1d8 aos seus Pontos de Vida Máximos no Nível 1, 5, 10, 15, e 20. 
 
 ## Coveiro da Realeza (Custo 1)
 

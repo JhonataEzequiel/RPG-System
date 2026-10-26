@@ -399,4 +399,4 @@ Apaziguar: 10 de Inteligência, 10 de Carisma. Imaculada.
 
 Mestre dos Cadáveres: 10 de Inteligência, 10 de Fé. Sortilégio.
 
-Controle Mental Completo: 10 de Carisma Inteligência. Ilusão.
+Controle Mental Completo: 10 de Carisma ou Inteligência. Ilusão.

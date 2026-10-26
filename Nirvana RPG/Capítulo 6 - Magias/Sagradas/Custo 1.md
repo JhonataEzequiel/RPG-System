@@ -2,10 +2,11 @@
 ### Cura Menor
 
 - Requisito em Fé ou Carisma: 1
+- Duração: Instantânea
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Uma criatura que você tocar recupera uma quantidade de Pontos de Vida iguais a 1d8 + Fth. Essa Magia não produz efeito em autômatos ou mortos-vivos. 
+**Descrição:** Uma criatura que você tocar recupera uma quantidade de Pontos de Vida iguais a 1d8 + Fth ou Car. Essa Magia não produz efeito em autômatos ou mortos-vivos. 
 
 Você pode aumentar em 1d8 a cura total por Ponto de Mana adicional gasto.
 

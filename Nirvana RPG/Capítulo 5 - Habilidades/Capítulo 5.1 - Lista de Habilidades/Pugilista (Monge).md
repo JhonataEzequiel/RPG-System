@@ -41,7 +41,7 @@ Você concentra parte de sua energia vital e a dispara em um Ataque a Distância
 **Custo**: Três Ações.
 **Duração**: 3 Rodadas.
 
-Você concentra seu Ki na palma das mãos, fecha os olhos, e solta uma luz cegante que tem um efeito semelhante a olhar diretamente para o sol. Todos os inimigos dentro de um cone de 9m à sua frente que falharem num Teste de Resistência de Constituição CD 13 + Fth ficarão Cegos pela duração. Caso sejam bem sucedidos, terão -1 para acertar Ataques.
+Você concentra seu Ki na palma das mãos, fecha os olhos, e solta uma luz cegante que tem um efeito semelhante a olhar diretamente para o sol. Todos os inimigos dentro de um cone de 9m à sua frente que falharem num Teste de Resistência de Constituição CD 13 + Sab ficarão Cegos pela duração. Caso sejam bem sucedidos, terão -1 para acertar Ataques.
 
 ## Fusão (Custo 3)
 

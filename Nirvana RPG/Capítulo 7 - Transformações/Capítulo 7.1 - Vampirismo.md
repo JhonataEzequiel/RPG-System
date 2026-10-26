@@ -27,7 +27,7 @@ Após um mês sem passar por nenhum período de fome (estar sob efeito de Exaust
 
 **Morcegos Espectrais Aprimorados** (Uma Ação): Essa Habilidade substitui a Habilidade "Morcegos Espectrais", e mantém os mesmos efeitos dela.
 
-**Sobrevida Vampírica** (Passiva): Você ganha seu 1d8 como Pontos de Vida Temporários sempre que se alimentar. Você só poderá ganhar novos Pontos de Vida Temporários com essa Habilidade após perder os que você já tem.
+**Sobrevida Vampírica** (Passiva): Você ganha 1d8 como Pontos de Vida Temporários sempre que se alimentar. Você só poderá ganhar novos Pontos de Vida Temporários com essa Habilidade após perder os que você já tem.
 
 ## Vampiro Nobre (Estágio 4)
 

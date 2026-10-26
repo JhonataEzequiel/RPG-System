@@ -20,7 +20,7 @@ Caso o lacaio venha a lhe ajudar em combate, você o controla e decide suas aç�
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** A alma de uma criatura alvo é teletransportada para um local desconhecido coberto por chamas e calor. O corpo físico dela continua no plano material, no local onde ela estava. Apenas a alma dela é levada até este local, que é um local real em algum lugar do plano material, escolhido aleatoriamente, como o topo de um vulcão. Caso o alvo falhe num Teste de Constituição CD 9 + Int + Car, ele recebe 4d4 + Int + Car de Dano Psíquico, e 12d4 de Dano de Fogo. Em caso de sucesso, recebe apenas metade do Dano de Fogo, e não recebe Dano Psíquico.
+**Descrição:** A alma de uma criatura alvo é teletransportada para um local desconhecido coberto por chamas e calor. O corpo físico dela continua no plano material, no local onde ela estava. Apenas a alma dela é levada até este local, que é um local real em algum lugar do plano material, escolhido aleatoriamente, como o topo de um vulcão. Caso o alvo falhe num Teste de Resistência de Constituição CD 9 + Int + Car, ele recebe 4d4 + Int + Car de Dano Psíquico, e 12d4 de Dano de Fogo. Em caso de sucesso, recebe apenas metade do Dano de Fogo, e não recebe Dano Psíquico.
 
 ### Ouro no Lixo
 

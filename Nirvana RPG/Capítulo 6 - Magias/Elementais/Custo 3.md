@@ -6,7 +6,7 @@
 - Alcance: 45m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Arremessa uma bola de fogo que explode no local do impacto, causando 7d6 + Int de Dano de Fogo numa área circular com raio de 6m dentro do alcance. As criaturas na área de impacto devem realizar um Teste de Destreza CD 13 + Int para desviar, recebendo metade do dano em caso de sucesso.
+**Descrição:** Arremessa uma bola de fogo que explode no local do impacto, causando 7d6 + Int de Dano de Fogo numa área circular com raio de 6m dentro do alcance. As criaturas na área de impacto devem realizar um Teste de Resistência de Destreza CD 13 + Int para desviar, recebendo metade do dano em caso de sucesso.
 
 Você pode escolher adicionar Pontos de Mana na conjuração, aumentando seu custo e sua força. Para cada Ponto de Mana adicionado ao custo, some mais 2d6 ao dano. O limite de Pontos de Mana adicionais é igual ao seu Modificador de Inteligência.
 

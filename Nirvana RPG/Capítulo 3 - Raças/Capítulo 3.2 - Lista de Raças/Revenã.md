@@ -19,7 +19,7 @@ Como Revenã, você poderá jogar com um Zumbi ou Esqueleto. Ambos compartilham 
 
 **Incansável** (Passiva): Você é Imune a qualquer instância Exaustão, podendo escolher por quais será afetado, se desejar. A exceção é a Exaustão ocasionada por estar sobrecarregado (exceder a Capacidade de Carga). Ao receber uma redução no seu Deslocamento, você reduz 1.5m a menos.
 
-**Biologia Necrótica** (Passiva): Ao receber uma instância de dano igual ou maior aos seus Pontos de Vida Máximos (mesmo que igual ou maior ao dobro deles), você sobrevive com 1 Ponto de Vida. Essa proteção só volta a funcionar quando seus Pontos de Vida estiverem completos. Se receber uma instância de dano que atenda a esses requisitos antes disso, você é Nocauteado.. Você também se cura em 1d4 por ponto no Bônus de Proficiência ao final de cada um de seus Turnos, caso não esteja com seus Pontos de Vida completamente curados. Você não recebe a cura caso seja Nocauteado.
+**Biologia Necrótica** (Passiva): Ao receber uma instância de dano igual ou maior aos seus Pontos de Vida Máximos (mesmo que igual ou maior ao dobro deles), você sobrevive com 1 Ponto de Vida. Essa proteção só volta a funcionar quando seus Pontos de Vida estiverem completos. Se receber uma instância de dano que atenda a esses requisitos antes disso, você é Nocauteado. Você também se cura em 1d4 por ponto no Bônus de Proficiência ao final de cada um de seus Turnos, caso não esteja com seus Pontos de Vida completamente curados. Você não recebe a cura caso seja Nocauteado.
 
 ## Esqueleto
 

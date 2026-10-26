@@ -17,6 +17,12 @@ Ao encerrar um combate, você recupera 1d4 da Mana gasta automaticamente.
 
 Ao ter um Ataque de Oportunidade você pode escolher conjurar um Arcano Menor que causa dano em um alvo único no lugar. Este Arcano Menor se beneficiará de efeitos que aumentem o dano de seus Ataques de Oportunidade.
 
+## Magia Simples (Custo 1)
+
+**Requisitos**: 3 de Inteligência, 2 de Sabedoria.
+
+Você conhece 1 Arcano Menor para cada ponto no seu Bônus de Proficiência.
+
 ## Especialista em Arcanos Menores (Custo 1)
 
 **Requisitos**: 3 de Inteligência.

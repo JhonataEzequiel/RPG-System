@@ -47,9 +47,9 @@ Você agora poderá escrever em um diário caso tenha algo com o que escrever, c
 
 **Requisitos**: 5 de Carisma ou 5 de Inteligência.
 
-Quando for Nocauteado, adicione seu Modificador de Carisma ao resultado das Salvaguardas para se Estabilizar.
+Quando for Nocauteado, adicione seu Modificador de Carisma ao resultado da primeira Salvaguarda para se Estabilizar.
 
-Magias de Ilusão de Custo 1 são consideradas Arcanos Menores, tendo seu custo reduzido em 1 Ponto de Mana.
+Magias de Ilusão de Custo 1 também tem o custo reduzido em 1.
 
 ## Herói (Custo 3)
 

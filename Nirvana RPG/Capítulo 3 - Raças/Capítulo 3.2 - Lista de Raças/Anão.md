@@ -3,7 +3,7 @@ Anões são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tes
 
 ### Habilidades de Raça
 
-**Runas Mágicas**: Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, os Anões podem usar 3 runas diferentes, mas não podem usar as 3 no mesmo equipamento, e só podem usar uma runa de cada tipo.
+**Runas Mágicas**: Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, os Anões podem usar 3 runas diferentes, mas não podem usar mais de uma no mesmo equipamento, e não podem repetir runas do mesmo tipo, mesmo em equipamentos diferentes.
 
 - **Aplicar Runa** (Uma Ação): Para colocar uma Runa em um equipamento é necessário que esteja ao alcance do seu toque. No entanto, você pode retirar uma Runa de um equipamento que você colocou à distância, não tendo limite de espaço. A Runa é removida, e o poder é retomado para si. Para remover uma Runa também é necessário uma Ação.
 - **Runa de Diamante** (Aplicável em Armaduras): Concede Resistência a Dano Físico ao usuário da Armadura com a Runa. A Resistência é metade do seu Nível + 4.

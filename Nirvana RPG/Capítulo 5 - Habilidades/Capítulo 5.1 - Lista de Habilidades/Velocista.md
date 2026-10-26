@@ -103,7 +103,7 @@ Você se move tão rápido, e com tanta ferocidade, que recebe os seguintes bôn
 **Custo**: Três Ações, 2 de Mana.
 **Alcance**: Deslocamento.
 
-Você escolhe um alvo dentro do alcance. Caso você esteja Furtivo, ou com pelo menos 2 aliados no alcance, role um Teste de Investigação ou Percepção para identificar algum ponto Cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse Ataque será considerado um Acerto Crítico. O alvo fica Atordoado, tento que passar por uma Salvaguarda de Constituição CD 13 + Dex no início de cada um dos Turnos dele até se libertar. Esta Habilidade não provoca Ataques de Oportunidade. Ignora terreno difícil.
+Você escolhe um alvo dentro do alcance. Caso você esteja Furtivo, ou com pelo menos 2 aliados no alcance, role um Teste de Investigação ou Percepção para identificar algum ponto Cego do alvo, a CD será a CA do alvo. Caso seja bem sucedido, você pode se mover rapidamente em direção ao alvo, atacá-lo, e voltar ao seu ponto de origem. Esse Ataque será considerado um Acerto Crítico. O alvo fica Atordoado, tendo que passar por uma Salvaguarda de Constituição CD 13 + Dex no início de cada um dos Turnos dele até se libertar. Esta Habilidade não provoca Ataques de Oportunidade. Ignora terreno difícil.
 
 Caso você falhe em identificar o ponto Cego do alvo, você perde as três ações, mas não gasta a Mana.
 

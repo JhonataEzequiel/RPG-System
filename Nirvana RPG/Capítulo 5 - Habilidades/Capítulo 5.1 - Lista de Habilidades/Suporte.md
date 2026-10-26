@@ -89,7 +89,7 @@ Uma vez ao dia você pode analisar a situação atual de um Encontro. Role 1d100
 
 Você será visto como líder por aqueles ao seu redor. Cativar os corações dos seus aliados e de seu povo será uma tarefa inata para você. Multidões te seguirão e obedecerão suas ordens, e crerão que você foi enviado por uma divindade para liderá-los, ou por uma força maior do que eles mesmos. Uma vez por Descanso Longo, pode escolher ser bem sucedido num Teste que utilize seu Atributo de Carisma, se falhar em um.
 
-**Monarca** (Passiva): Ao entrar em combate você automaticamente ativa sua Inspiração com uma Ação Livre. Para ativá-la novamente quando a duração acabar é necessário gastar a Ação Bônus como dito na "Movimento Inspirador".
+**Monarca** (Passiva): Ao entrar em combate você automaticamente ativa sua Inspiração com uma Ação Livre. Para ativá-la novamente quando a duração acabar é necessário gastar a Ação Bônus, como dito na Inspiração Melhorada.
 
 **Pontífice** (Três Ações, 7 de Mana): Põe uma aura curativa ao seu redor. Essa aura recupera 3d6 + Fth de Vida de todos os aliados no alcance de seu Deslocamento ao final do seu Turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + Fth de Dano Radiante. Aliados Nocauteados já começam com um acerto nas Salvaguardas para se estabilizarem, desde que estejam no alcance. Dura um Encontro.
 

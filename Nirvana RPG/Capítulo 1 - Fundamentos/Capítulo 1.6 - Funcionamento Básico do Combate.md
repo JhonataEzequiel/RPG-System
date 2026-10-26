@@ -9,7 +9,7 @@ Um Encontro é equivalente a 10 minutos no mundo do jogo. Então, caso uma Magia
 
 ## Aliados e Inimigos
 
-Por definição, é impossível estar a sós em um Encontro. Você sempre estará enfrentando um inimigo, e na maioria das vezes estará acompanhado de um aliado. Um aliado é toda criatura que está lutando ao seu lado em um combate, enquanto um inimigo é seu opositor direto.
+Por definição, é impossível estar a sós em um Encontro, pois é necessário que pelo menos um inimigo esteja presente para ser considerado um Encontro . Você sempre estará enfrentando um inimigo, e na maioria das vezes estará acompanhado de um aliado. Um aliado é toda criatura que está lutando ao seu lado em um combate, enquanto um inimigo é seu opositor direto.
 
 ## Iniciativa
 
@@ -45,7 +45,7 @@ Caso ocorra um Erro Crítico, o inimigo deverá se beneficiar de alguma forma, a
 
 Você pode aumentar seu dano de Ataques Críticos se conseguir pontos em sua Potência Crítica. Por padrão, você tem 0 pontos, mas pode conseguir mais por meio de Habilidades e outros efeitos.
 
-Ao aumentar sua Potência Crítica em 1 ponto, seu dano de Ataques Críticos aumenta em 1d6 de dano, até um máximo igual ao seu Bônus de Proficiência, que é explicado em mais detalhes no Capítulo 2.1 - Perícias. Esse aumento pode ultrapassar o máximo de 10d6 padrão para os Ataques Críticos.
+Ao aumentar sua Potência Crítica em 1 ponto, seu dano de Ataques Críticos aumenta em 1d6 de dano. A Potência Crítica pode ultrapassar o máximo de dano adicional causado pelos Ataques Críticos em um determinado Nível, inclusive o teto máximo de 10d6 que naturalmente é estipulado por esses Ataques.
 
 ## Adjacência
 

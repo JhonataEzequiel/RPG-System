@@ -37,7 +37,7 @@
 | Chicote            | 1pp   | 1d4 + Dex de Impacto      | 3 de Destreza             | D em Destreza             | -                    | 3m                 | 0.7 kg |
 | Cimitarra          | 1po   | 1d6 + Dex Cortante        | 4 de Destreza             | A em Destreza             | -                    | 0                  | 1 kg   |
 | Shamshir           | 2po   | 1d6 + Destreza Cortante   | 5 de Destreza             | A em Destreza             | -                    | 0                  | 1 kg   |
-| Espada Larga       | 3po   | 1d12 + For Cortante       | 2 de Destreza, 2 de Força | C em Destreza, D em Força | -                    | 0                  | 1.2 kg |
+| Espada Larga       | 6po   | 1d12 + For Cortante       | 2 de Destreza, 2 de Força | C em Destreza, D em Força | -                    | 0                  | 1.2 kg |
 | Espada Longa       | 1po   | 1d8 + For Cortante        | 2 de Força                | C em Força, C em Destreza | -                    | 0                  | 1.5 kg |
 | Machado de Batalha | 1po   | 1d8 + For Cortante        | 2 de Força                | C em Força                | -                    | 0                  | 1.5 kg |
 | Rapieira           | 2po   | 1d10 + Dex Perfurante     | 4 de Destreza             | A em Destreza             | -                    | 0                  | 1 kg   |
@@ -66,17 +66,17 @@
 
 ## Armas a Distância
 
-| Arma                | Preço | Dano                        | Requisitos                | Escalas                   | Característica Única                                            | Aumento de Alcance | Peso   |
-| ------------------- | ----- | --------------------------- | ------------------------- | ------------------------- | --------------------------------------------------------------- | ------------------ | ------ |
-| Arco Curto          | 3po   | 1d6 + Dex Perfurante        | 2 de Destreza             | B em Destreza             | -                                                               | 18m                | 0.8 kg |
-| Arco Curto Composto | 14po  | 1d6 + Dex Perfurante        | 3 de Destreza             | S em Destreza             | -                                                               | 18m                | 1 kg   |
-| Arco Longo          | 5po   | 1d10 + Dex + For Perfurante | 2 de Destreza, 2 de Força | B em Destreza, D em Força | -                                                               | 30m                | 1.2 kg |
-| Arco Longo Composto | 20po  | 1d10 + Dex + For Perfurante | 2 de Destreza, 3 de Força | S em Destreza, A em Força | -                                                               | 30m                | 1.5 kg |
-| Besta Leve          | 3po   | 2d6 Perfurante              | 0                         | 0                         | -                                                               | 18m                | 2.5 kg |
-| Besta Pesada        | 5po   | 2d10 Perfurante             | 0                         | 0                         | -                                                               | 30m                | 5 kg   |
-| Pistola             | 45po  | 3d8 Perfurante              | 3 de Destreza             | 0                         | Recarrega a cada 10 disparos. Pode-se usar duas ao mesmo tempo. | 45m                | 1.5 kg |
-| Escopeta            | 55po  | 5d10 de Impacto             | 5 de Força                | 0                         | Recarrega a cada 2 disparos.                                    | 18m                | 3.5 kg |
-| Canhão de Mão       | 150po | 6d10 de Impacto             | 5 de Força, 3 de Destreza | 0                         | Recarrega a cada disparo.                                       | 45m                | 5 kg   |
+| Arma                | Preço | Dano                        | Requisitos                | Escalas                   | Característica Única                                            | Alcance | Peso   |
+| ------------------- | ----- | --------------------------- | ------------------------- | ------------------------- | --------------------------------------------------------------- | ------- | ------ |
+| Arco Curto          | 3po   | 1d6 + Dex Perfurante        | 2 de Destreza             | B em Destreza             | -                                                               | 18m     | 0.8 kg |
+| Arco Curto Composto | 14po  | 1d6 + Dex Perfurante        | 3 de Destreza             | S em Destreza             | -                                                               | 18m     | 1 kg   |
+| Arco Longo          | 5po   | 1d10 + Dex + For Perfurante | 2 de Destreza, 2 de Força | B em Destreza, D em Força | -                                                               | 30m     | 1.2 kg |
+| Arco Longo Composto | 20po  | 1d10 + Dex + For Perfurante | 2 de Destreza, 3 de Força | S em Destreza, A em Força | -                                                               | 30m     | 1.5 kg |
+| Besta Leve          | 3po   | 2d6 Perfurante              | 0                         | 0                         | -                                                               | 18m     | 2.5 kg |
+| Besta Pesada        | 5po   | 2d10 Perfurante             | 0                         | 0                         | -                                                               | 30m     | 5 kg   |
+| Pistola             | 45po  | 3d8 Perfurante              | 3 de Destreza             | 0                         | Recarrega a cada 10 disparos. Pode-se usar duas ao mesmo tempo. | 45m     | 1.5 kg |
+| Escopeta            | 55po  | 5d10 de Impacto             | 5 de Força                | 0                         | Recarrega a cada 2 disparos.                                    | 18m     | 3.5 kg |
+| Canhão de Mão       | 150po | 6d10 de Impacto             | 5 de Força, 3 de Destreza | 0                         | Recarrega a cada disparo.                                       | 45m     | 5 kg   |
 
 ## Munições
 

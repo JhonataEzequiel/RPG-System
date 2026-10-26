@@ -6,7 +6,7 @@
 - Alcance: Toque
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você toca uma criatura alvo. A criatura fica automaticamente Invisível, e uma duplicata dela é criada no lugar, que age exatamente como o alvo agiria. O alvo também ativa a ação Desengajar automaticamente, e caso o alvo não seja o próprio conjurador, ele ainda pode realizar todas as suas ações normalmente. Essa ilusão não interage diretamente com o plano material, sendo apenas uma visão na mente dos que estão próximos. 
+**Descrição:** Você toca uma criatura alvo. A criatura fica automaticamente Invisível, e uma duplicata dela é criada no lugar, que age sob o seu comando. Ela é apenas uma ilusão, não podendo realizar nenhuma ação além de andar, ou tentar distrair os inimigos de alguma forma. O alvo também ativa a ação Desengajar automaticamente, e caso o alvo não seja o próprio conjurador, ele ainda pode realizar todas as suas ações normalmente. A Invisibilidade continua sendo quebrada ao realizar determinadas ações, como consta nas regras no Capítulo 1.12 - Condições.
 
 A ilusão pode ser descoberta caso quem esteja ao redor sejam bem sucedidos em uma Salvaguarda de Inteligência CD 10 + Int ou Car.
 
@@ -18,7 +18,7 @@ A ilusão pode ser descoberta caso quem esteja ao redor sejam bem sucedidos em u
 - Alcance: 18m
 - Tempo de Conjuração: Três Ações
 
-**Descrição:** Você adentra na mente de uma criatura alvo, que deverá passar em um Teste de Resistência CD 10 + Int + Car. Em caso de falha, a criatura terá a Condição Paralisado. Além disso, sofrerá 3d6 + Int + Car de Dano Psíquico.
+**Descrição:** Você adentra na mente de uma criatura alvo, que deverá passar em um Teste de Resistência de Sabedoria CD 10 + Int + Car. Em caso de falha, a criatura terá a Condição Paralisado. Além disso, sofrerá 3d6 + Int + Car de Dano Psíquico.
 
 ### Comunicação Onírica
 
