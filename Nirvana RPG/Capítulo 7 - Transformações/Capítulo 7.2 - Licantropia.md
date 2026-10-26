@@ -5,9 +5,10 @@ Um licantropo é capaz de se transformar em uma fera em uma noite de lua cheia a
 - Se você ofertar carne de pessoas a um deus ou entidade bondosa, role 1d4. Caso o resultado seja 1, você será amaldiçoado com a licantropia;
 - Se você for mordido por um licantropo e ficar sem descansar até atingir a condição de Exaustão 5, você se transformará em um licantropo.
 
-**Descontrole Progressivo** (Passiva): Você ganha 1 Nível de Exaustão quando estiver com menos da metade dos seus Pontos de Vida Máximos. Para cada instância de dano adicional que você receber, seu Nível de Exaustão aumenta em 1.
+**Descontrole Progressivo** (Passiva): Você ganha 1 Nível de Exaustão quando estiver com menos da metade dos seus Pontos de Vida Máximos. Para cada instância de dano adicional que você receber, seu Nível de Exaustão aumenta em 1. Essa passiva só funciona quando você não estiver na Forma Bestial.
 
-**Forma Bestial** (Ação Bônus): Ao ter um Nível de Exaustão qualquer, você se transforma. Essa transformação dura até a noite acabar, caso esteja de noite, ou 1 Encontro, caso esteja de dia. Você pode se transformar uma quantidade de vezes igual a metade do seu Bônus de Proficiência por Descanso Longo. Você automaticamente se transforma ao olhar para uma lua cheia, e isso não gasta um uso da sua transformação.
+**Forma Bestial** (Reação): Ao receber um Nível de Exaustão qualquer, você se transforma. Se você estiver com Exaustão 5, essa Habilidade é automática, mesmo que você não possua mais uma Reação restante nessa Rodada. Essa transformação dura até a noite acabar, caso esteja de noite, ou 1 Encontro, caso esteja de dia. Você pode se transformar uma quantidade de vezes igual a metade do seu Bônus de Proficiência por Descanso Longo. Você automaticamente se transforma ao olhar para uma lua cheia, e isso não gasta um uso da sua transformação.
+- Você se cura em 1d12 Pontos de Vida ao se transformar.
 - Uma vez transformado, você receberá algumas características que dependem de seu Nível de Exaustão.
 - O quanto você consegue se controlar também mudará de acordo com o Nível de Exaustão.
 - Você não será afetado pelos efeitos normais da Exaustão enquanto estiver transformado.
@@ -29,7 +30,7 @@ Como licantropo você receberá as seguintes Habilidades a partir do Nível de E
 
 **Uivo ou Rugido** (Uma Ação): Você uiva ou ruge aos céus, diminuindo a CA de todos os inimigos no alcance de seu Deslocamento em 2 pontos. Seus aliados também são afetados caso seu Nível de Exaustão seja 4 ou superior. Dura até o início da próxima Rodada.
 
-**Salto Bestial** (Duas Ações): Você pula em direção ao alvo, que deve passar por uma Salvaguarda de Destreza CD 12 + Força para desviar. Em caso de falha, o alvo tem a Condição Agarrado, e recebe o dano de um Ataque Desarmado.
+**Salto Bestial** (Duas Ações): Você pula em direção ao alvo, que deve passar por uma Salvaguarda de Destreza CD 12 + Força para desviar. Em caso de falha, o alvo tem a Condição Agarrado, e recebe o dano de um Ataque Desarmado. Ele pode repetir o Teste no início de cada um dos Turnos dele.
 
 **Mordida** (Uma Ação): Você morde um alvo que esteja sob efeito de alguma Condição negativa dentro do alcance do seu Deslocamento. Causa o dano de um Ataque Desarmado, com um adicional do seu Modificador de Constituição. Esse Ataque sempre acerta.
 
