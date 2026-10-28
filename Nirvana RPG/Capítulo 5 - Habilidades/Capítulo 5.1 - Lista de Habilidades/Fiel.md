@@ -119,4 +119,4 @@ Após isso, faça uma reza pedindo por bençãos e oferecendo sua penitência. A
 **Requisitos**: Habilidade "Santidade" de Custo 3.
 **Alcance**: 150m.
 
-Ao causar dano a um inimigo, outros inimigos no combate recebem 1d10 de Dano Verdadeiro. Caso nenhum dano seja causado por conta de Imunidades ou Resistências, os outros não recebem dano. Ao curar um aliado, outros aliados também são curados em 1d10.
+Ao causar dano a um inimigo, outros inimigos no combate recebem 1d12 de Dano Radiante de uma luz que desce sobre eles. Ao curar um aliado, outros aliados também são curados em 1d12.

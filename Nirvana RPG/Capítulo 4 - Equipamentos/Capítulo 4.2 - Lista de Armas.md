@@ -45,24 +45,24 @@
 
 ## Armas de Empunhadura Dupla
 
-| Arma               | Preço | Dano                               | Requisitos                | Escalas                   | Característica Única                                      | Aumento de Alcance | Peso   |
-| ------------------ | ----- | ---------------------------------- | ------------------------- | ------------------------- | --------------------------------------------------------- | ------------------ | ------ |
-| Lança              | 1pp   | 1d6 + Dex Perfurante               | 1 de Força, 1 de Destreza | D em Força, D em Destreza | -                                                         | 1.5m               | 2 kg   |
-| Lança Longa        | 5pp   | 1d8 + Dex Perfurante               | 1 de Força, 2 de Destreza | D em Força, D em Destreza | -                                                         | 3m                 | 3 kg   |
-| Alabarda           | 2po   | 1d10 + For Cortante                | 4 de Força                | B em Força                | -                                                         | 3m                 | 3.5 kg |
-| Ji                 | 3po   | 1d8 + For + Dex Cortante           | 2 de Força, 2 de Destreza | C em Força, C em Destreza | -                                                         | 3m                 | 3 kg   |
-| Clava Pesada       | 1po   | 1d10 + Força de Impacto            | 5 de Força                | A em Força                | -                                                         | 0                  | 5 kg   |
-| Clava Imensa       | 15po  | 2d10 + Força de Impacto            | 7 de Força                | S em Força                | -                                                         | 1.5m               | 50 kg  |
-| Espada Bastarda    | 4po   | 1d8 + For Cortante                 | 4 de Força                | B em Força                | -                                                         | 0                  | 2 kg   |
-| Claymore           | 12po  | 2d8 + For + Dex Cortante           | 3 de Força, 3 de Destreza | A em Força, A em Destreza | -                                                         | 0                  | 3 kg   |
-| Espada Colossal    | 22po  | 2d12 + Força Cortante              | 8 de Força                | S em Força                | -                                                         | 3m                 | 110 kg |
-| Lança de Cavalaria | 1po   | 1d8 + Força Perfurante             | 5 de Força                | B em Força                | -                                                         | 3m                 | 3.5 kg |
-| Martelo de Guerra  | 2po   | 1d10 + For de Impacto              | 4 de Força                | A em Força                | -                                                         | 0                  | 5 kg   |
-| Tridente           | 1po   | 1d8 + For Perfurante               | 1 de Força                | C em Força                | -                                                         | 1.5m               | 2 kg   |
-| Kusarigama         | 10po  | 1d8 + Dex Perfurante ou de Impacto | 2 de Destreza             | A em Destreza             | -                                                         | 4.5m               | 1.2 kg |
-| Glaive             | 6po   | 1d12 + For + Dex Cortante          | 3 de Força, 3 de Destreza | B em Força, D em Destreza | -                                                         | 3m                 | 3 kg   |
-| Guandao            | 6po   | 1d12 + Destreza Cortante           | 3 de Destreza             | A em Destreza             | -                                                         | 3m                 | 2.5 kg |
-| Lâmina Gêmea       | 14po  | 1d4 + For + Dex Cortante           | 1 de Força, 3 de Destreza | D em Força, B em Destreza | Causa o dano de dois Ataques sempre que acertar um Ataque | 1.5m               | 2.5 kg |
+| Arma               | Preço | Dano                               | Requisitos                | Escalas                   | Característica Única                                                                            | Aumento de Alcance | Peso   |
+| ------------------ | ----- | ---------------------------------- | ------------------------- | ------------------------- | ----------------------------------------------------------------------------------------------- | ------------------ | ------ |
+| Lança              | 1pp   | 1d6 + Dex Perfurante               | 1 de Força, 1 de Destreza | D em Força, D em Destreza | -                                                                                               | 1.5m               | 2 kg   |
+| Lança Longa        | 5pp   | 1d8 + Dex Perfurante               | 1 de Força, 2 de Destreza | D em Força, D em Destreza | -                                                                                               | 3m                 | 3 kg   |
+| Alabarda           | 2po   | 1d10 + For Cortante                | 4 de Força                | B em Força                | -                                                                                               | 3m                 | 3.5 kg |
+| Ji                 | 3po   | 1d8 + For + Dex Cortante           | 2 de Força, 2 de Destreza | C em Força, C em Destreza | -                                                                                               | 3m                 | 3 kg   |
+| Clava Pesada       | 1po   | 1d10 + Força de Impacto            | 5 de Força                | A em Força                | -                                                                                               | 0                  | 5 kg   |
+| Clava Imensa       | 15po  | 2d10 + Força de Impacto            | 7 de Força                | S em Força                | -                                                                                               | 1.5m               | 50 kg  |
+| Espada Bastarda    | 4po   | 1d8 + For Cortante                 | 4 de Força                | B em Força                | -                                                                                               | 0                  | 2 kg   |
+| Claymore           | 12po  | 2d8 + For + Dex Cortante           | 3 de Força, 3 de Destreza | A em Força, A em Destreza | -                                                                                               | 0                  | 3 kg   |
+| Espada Colossal    | 22po  | 2d12 + Força Cortante              | 8 de Força                | S em Força                | -                                                                                               | 3m                 | 110 kg |
+| Lança de Cavalaria | 1po   | 1d8 + Força Perfurante             | 5 de Força                | B em Força                | -                                                                                               | 3m                 | 3.5 kg |
+| Martelo de Guerra  | 2po   | 1d10 + For de Impacto              | 4 de Força                | A em Força                | -                                                                                               | 0                  | 5 kg   |
+| Tridente           | 1po   | 1d8 + For Perfurante               | 1 de Força                | C em Força                | -                                                                                               | 1.5m               | 2 kg   |
+| Kusarigama         | 10po  | 1d8 + Dex Perfurante ou de Impacto | 2 de Destreza             | A em Destreza             | -                                                                                               | 4.5m               | 1.2 kg |
+| Glaive             | 6po   | 1d12 + For + Dex Cortante          | 3 de Força, 3 de Destreza | B em Força, D em Destreza | -                                                                                               | 3m                 | 3 kg   |
+| Guandao            | 6po   | 1d12 + Destreza Cortante           | 3 de Destreza             | A em Destreza             | -                                                                                               | 3m                 | 2.5 kg |
+| Lâmina Gêmea       | 14po  | 1d4 + For + Dex Cortante           | 1 de Força, 3 de Destreza | D em Força, B em Destreza | Ao acertar um Ataque, você causa metade do dano dele novamente como uma nova instância de dano. | 1.5m               | 2.5 kg |
 
 ## Armas a Distância
 

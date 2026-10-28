@@ -7,7 +7,7 @@ Certos itens possuirão pré-requisitos de Atributos para serem utilizados. Caso
 
 Boa parte das Armaduras e Armas possuem Escalas, que variam de D até S. As Escalas concedem bônus diferentes em certos Níveis de Atributo. Estes são chamados de Bônus de Escalas. Um Bônus de Escala de um certo Nível de Atributo é cumulativo com os anteriores. Ou seja, você soma os dois. Por exemplo, caso você esteja equipado com uma Armadura com Escala S em Força, e tenha 7 de Força, você receberá o Bônus de Escala concedido pelos Níveis de Atributo 1, 3, 5, e 7, mas não receberá o que for concedido no Nível 10.
 
-As Escalas só estão ativas ao equipar um item que as tenha, e caso você atenda aos Requisitos de Atributo daquele item.
+As Escalas só estão ativas ao equipar um item que as tenha, e caso você atenda aos Requisitos de Atributo daquele item. Um item não pode ter mais do que duas Escalas diferentes ao mesmo tempo. Cada Escala ocupa um espaço.
 
 ## Armaduras
 

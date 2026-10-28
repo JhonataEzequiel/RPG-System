@@ -71,7 +71,7 @@ Por último, na primeira vez que utilizar uma Habilidade que tenha custo de Aç�
 
 **Requisitos**: Nenhum Atributo pode ter um valor abaixo de 4.
 
-Caso você tenha pelo menos três Atributos empatados como Atributos de menor valor, você se beneficiará dos bônus de Escala de um item infundido pela Pedra Mundana como se estivesse no Nível 10 do seu Atributo de menor nível.
+Caso você tenha pelo menos dois Atributos empatados como Atributos de menor valor, você receberá um aumento de 3 pontos nos dois Atributos de menor valor para critérios de Escala. Ou seja, se antes você tinha o valor 3 nos seus Atributos de menor nível, agora esse valor será 6, mas apenas para as Escalas de itens equipados.
 
 ## Nirvana (Custo 3)
 

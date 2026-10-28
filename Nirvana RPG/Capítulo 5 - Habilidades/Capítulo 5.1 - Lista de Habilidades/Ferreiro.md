@@ -1,4 +1,3 @@
-
 O Arquétipo do Ferreiro governa todas as Habilidades relacionadas a confecção de Armas, Armaduras, e itens de metal não mecânicos.
 
 ## Ferraria (Custo 1)
@@ -42,13 +41,13 @@ Você se tornou conhecido, e seus itens forjados são bem quistos em diversos lo
 
 **Requisitos**: Habilidade "Ferraria" de Custo 1. 4 de Sabedoria, 1 de Inteligência.
 
-Você agora pode realizar Infusões em itens não-mágicos. Você precisa ter a Pedra de Infusão para fazê-lo, mas não terá nenhum outro custo adicional. O tempo para realizar a Infusão é o mesmo descrito nas regras de Infusão.
+Você agora pode realizar Infusões em itens não-mágicos, seguindo as regras do Capítulo 4.10 - Infusões. Você precisa ter a Pedra de Infusão para fazê-lo, mas não pagará o preço para Infundir, apenas a Pedra em si. O tempo para realizar a Infusão é o mesmo descrito nas regras de Infusão. Você também pode remover as Infusões de um item com a Pedra Branca nas mesmas condições.
 
 ## Ferraria Avançada (Custo 3)
 
 **Requisitos**: Habilidade "Ferraria Intermediária" de Custo 2. 5 de Sabedoria, 2 de Inteligência.
 
-A quantidade de Infusões que você pode realizar em um único item aumenta, sendo agora o maior valor entre 3 e seu Bônus de Proficiência.
+A quantidade de Infusões que você pode realizar em um único item aumenta, sendo agora o maior valor entre 4 e seu Bônus de Proficiência. Esse limite também vale para Infusões feitas pelas Pedras exclusivas (Qualidade, Mundana, e Bruta).
 
 ## Ferraria Mágica (Custo 3)
 
@@ -70,4 +69,4 @@ Você não pode criar Poções, Venenos, Bombas, ou coisas similares. Num geral,
 
 **Requisitos**: Habilidade "Ferraria Avançada" de Custo 3. 10 de Sabedoria, 4 de Inteligência.
 
-Você diminui o tempo para forjar ou Infundir qualquer item não-mágico pela metade. As Pedras de Infusão que você Infunde agora tem o efeito dobrado. Ou seja, ao Infundir uma Pedra de Infusão que aumentaria a Escala de um item em 1 grau, agora aumentará em 2.
+Você diminui o tempo para forjar ou Infundir qualquer item não-mágico pela metade. As Pedras de Infusão que você Infunde agora tem o efeito dobrado. Ou seja, ao Infundir uma Pedra de Infusão que aumentaria a Escala de um item em 1 grau, agora aumentará em 2, e uma Escala nova começará em B ao invés de C. As Pedras Mundana e de Qualidade aumentam as duas Escalas em 2 graus, e a Pedra Bruta concede o dobro do bônus fixo. Uma Infusão dobrada por essa Habilidade ainda conta como uma única Infusão para o limite do item, e o preço para Infundir é calculado de acordo com o grau resultante.

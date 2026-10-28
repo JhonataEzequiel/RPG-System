@@ -50,9 +50,9 @@ Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te 
 
 **Requisitos**: Sua Arma é capaz de causar Dano Cortante. 5 de Destreza e 5 de Fé.
 
-Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres.
+Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres. Seus cortes se tornam divinizados, e você aprende a seguir o caminho da espada.
 
-Você causa um adicional de Dano Radiante em cada Ataque que originalmente cause Dano Cortante igual ao seu Atributo de Fé.
+Você causa um adicional de 1d8 de Dano Radiante em cada Ataque que originalmente cause algum Dano Cortante. Esse dano aumenta para 1d12 + Fé ao chegar no Nível 10 de Fé e Destreza.
 
 ## Mãos Espectrais (Custo 2)
 
@@ -72,17 +72,17 @@ Você causa um adicional de Dano Radiante em cada Ataque que originalmente cause
 
 ## Um Com a Terra (Custo 3)
 
-**Requisitos**: Habilidade “Um com os céus” de Custo 2. 10 de Destreza e 10 de Fé.
+**Requisitos**: Habilidade “Um Com os Céus” de Custo 2. 10 de Destreza e 10 de Fé.
 
-Você agora se conecta com a natureza. Percebe o ciclo interminável de vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre.
+Você agora se conecta com a natureza. Percebe o ciclo interminável de vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre. Você chegou no auge do caminho da espada.
 
-Qualquer Dano Cortante que você cause agora recebe um adicional de 3d8 + Fth de Dano Radiante. Além disso, qualquer cura que você receber agora cura o dobro, seja de Vida ou Mana. 
+O dano adicional concedido por Um Com os Céus agora é de 2d12 + Fé. Você se torna Imune à Condição Encantado, e suas curas agora curam um valor adicional igual ao seu Nível de Destreza.
 
-**Rejuvenescer** (Duas Ações): Você pode utilizar seu Dado de Vida para se curar a qualquer momento, uma vez por Descanso Longo. A cura também é dobrada, mas só se estiver fora de combate.
+**Rejuvenescer** (Duas Ações): Você pode utilizar seu Dado de Vida para se curar a qualquer momento, uma vez por Descanso Longo.
 
 ## Respiração (Custo 3)
 
-**Requisitos**: 8 de Destreza, 1 de Inteligência.
+**Requisitos**: 8 de Destreza, 1 de Sabedoria.
 
 Você canaliza a energia interna do seu corpo quando respira fundo, a transmutando e modificando suas propriedades. Seus Ataques causarão dano mágico adicional, composto por 1d6 de Dano Radiante e 1d6 de outro tipo à sua escolha entre Raio, Fogo, Gelo, e Sortilégio.
 
@@ -97,22 +97,22 @@ Essa Habilidade não funciona caso você não consiga respirar.
 ## Sol (Custo 3)
 
 **Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade Ofensiva "Respiração" de Custo 3. Caso você já tenha a Habilidade "Lua" de Custo 3, esta Habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
-**Custo**: Uma Ação, 10 de Mana.
+**Custo**: Uma Ação, 20 de Mana.
 
 A essência do mundo é a mudança. Você entende que iluminar este caminho para que outros o sigam com menos pedras na trilha é o correto, e é também virtuoso. Portanto, você se torna o sol para você e seus aliados. Você emana um brilho amarelo em volta da sua cabeça.
 
-Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de Atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se Estabilizar. Aliados no raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
+Durante esta Rodada você se torna imune a Dano de Sortilégio. Além disso, caso acerte um Ataque ainda neste Turno, você terá Vantagem em todos os Testes que fizer pelo resto do Encontro. Isso inclui Ataques, Testes de Atributos, Perícias, e também Salvaguardas, com exceção das necessárias para se Estabilizar. Aliados no raio do seu Deslocamento terão +1 em todos os Testes até o início do seu próximo Turno. Quando acertar o Ataque, você também causará 1d6 de Dano Radiante adicional.
 
-Caso utilize em conjunto com a Habilidade "Lua" de custo 3, você agora curará Condições negativas de aliados também, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
+Caso utilize em conjunto com a Habilidade "Lua" de custo 3, você agora curará Condições Negativas de aliados no alcance do seu Deslocamento, com exceção de Agarrado, Incapacitado, e Nocauteado. Quando juntas, ambas as Habilidades se complementam.
 
 ## Lua (Custo 3)
 
 **Requisitos**: 10 de Sabedoria, 10 de Carisma. Habilidade "Respiração" de custo 3. Caso você já tenha a Habilidade "Sol" de custo 3, esta Habilidade custará 6 pontos, e um efeito adicional é desbloqueado.
-**Custo**: Uma Ação, 10 de Mana.
+**Custo**: Uma Ação, 20 de Mana.
 
 Apesar de compreender a mudança constante da Vida, você procura por outro caminho. Seu caminho é de escuridão e introversão, negando este aspecto doloroso da realidade.
 
-Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se cura de quaisquer Condições negativas que estiver sobre você, incluindo Nocauteado. Esta Habilidade pode ser usada quando você estiver Nocauteado, e neste caso não custará Ação. Você só pode se estabilizar uma vez por Descanso Longo com esta Habilidade. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
+Durante esta Rodada você se torna imune a Dano Radiante. Além disso, caso acerte um Ataque ainda neste Turno, você se torna Imune a quaisquer Condições Negativas, com exceção de Nocauteado, pelo resto do Encontro. Você também adiciona 1d6 de Dano de Sortilégio ao Ataque efetuado.
 
 Caso utilize em conjunto com a Habilidade "Sol" de custo 3, você agora será bem sucedido em qualquer Teste, com exceção dos Testes para se estabilizar. Quando juntas, ambas as Habilidades se complementam.
 

@@ -86,7 +86,7 @@ Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá q
 
 **Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 10 de Inteligência.
 
-Todos os Arcanos Menores que custarem uma Ação para serem conjurados agora custam apenas uma Ação Bônus. Os que custarem duas ou três Ações agora custarão uma Ação a menos.
+Uma vez por Encontro, você pode utilizar um Arcano Menor que cause dano com uma Ação Livre.
 
 ## Magia do Coração (Custo 1)
 

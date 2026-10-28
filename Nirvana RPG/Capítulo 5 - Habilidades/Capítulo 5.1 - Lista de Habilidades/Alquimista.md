@@ -33,9 +33,9 @@ A escolha dos Atributos utilizados é feita ao adquirir essa Habilidade, e não 
 
 ## Causticomancia (Custo 1)
 
-**Requisitos**: 2 de Inteligência.
+**Requisitos**: 3 de Inteligência.
 **Custo**: Ação Bônus, 1 de Mana.
-**Duração**: 3 Rodadas.
+**Duração**: 4 Rodadas.
 
 Você adiciona 1d12 de Dano Ácido a todos os seus Ataques. Você pode escolher desativar essa Habilidade com uma Ação Livre.
 

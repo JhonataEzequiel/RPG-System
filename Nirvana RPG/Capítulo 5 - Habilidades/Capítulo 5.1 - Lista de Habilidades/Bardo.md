@@ -32,9 +32,9 @@ Caso opte por utilizar sua Voz como Instrumento Musical, ela concederá um bônu
 ## Charme (Custo 1)
 
 **Requisitos**: 1 de Carisma.
-**Custo**: Reação, 3 de Mana.
+**Custo**: Reação, 2 de Mana.
 
-Quando uma criatura te Atacar, ela recuará por um momento, abrindo uma brecha no Ataque. Ela tem -3 para acertar.
+Quando uma criatura te Atacar, ela recuará por um momento, abrindo uma brecha no Ataque. Ela tem -3 para acertar o Ataque.
 
 ## Versatilidade Musical (Custo 1)
 
@@ -47,7 +47,7 @@ Todas as vezes que você tocar uma música fora de combate enquanto tiver um Des
 - Você se torna perito em uma Perícia que não é Perito, à sua escolha.
 - Você se torna proficiente em uma Salvaguarda que não é Proficiente, à sua escolha.
 
-A Mana gasta por essa Habilidade não é recuperada com o Descanso. Você pode escolher usar essa Habilidade ou não.
+A Mana gasta por essa Habilidade não é recuperada com o Descanso em que a usar. Você pode escolher usar essa Habilidade ou não.
 
 ## Canção Heroica (Custo 1)
 

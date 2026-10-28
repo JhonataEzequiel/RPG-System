@@ -89,17 +89,27 @@ As Armaduras melhoradas são Armaduras comuns que tem mais proteção. Elas são
 
 ## Varinhas e Cajados Mágicos
 
-Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas particularmente úteis para Magos. Essas escalas agem de maneira diferente, adicionando Mana em cada um dos Bônus de Escala. Sempre que uma Escala concederia dano extra, agora concederá Mana extra igual a metade do total (somando todos os Bônus de Escala atualmente ativos), arredondado para baixo. Sempre que uma Escala concederia bônus para acertar um Ataque, agora concederá uma quantidade de Mana igual ao bônus. A Mana adicional é considerada Pontos de Mana Temporários, e você os recupera ao ter um Descanso Longo.
+Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas particularmente úteis para Magos. As Escalas de Varinhas e Cajados tem bônus diferentes do que a de Armas comuns. 
 
-Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligência, Fé, e Carisma. É possível equipar até dois ao mesmo tempo, recebendo os efeitos de ambos ao conjurar uma Magia.
+| Escala | Nível 1    | Nível 3    | Nível 5                      | Nível 7                      | Nível 10                     |
+| ------ | ---------- | ---------- | ---------------------------- | ---------------------------- | ---------------------------- |
+| S      | +5 de Mana | +5 de Mana | +5 de dano em Magias de dano | +5 de dano em Magias de dano | +5 de cura em Magias de cura |
+| A      | +4 de Mana | +4 de Mana | +4 de dano em Magias de dano | +4 de dano em Magias de dano | +4 de cura em Magias de cura |
+| B      | +3 de Mana | +3 de Mana | +3 de dano em Magias de dano | +3 de dano em Magias de dano | +3 de cura em Magias de cura |
+| C      | +2 de Mana | +2 de Mana | +2 de dano em Magias de dano | +2 de dano em Magias de dano | +2 de cura em Magias de cura |
+| D      | +1 de Mana | +1 de Mana | +1 de dano em Magias de dano | +1 de dano em Magias de dano | +1 de cura em Magias de cura |
 
-| Varinha ou Cajado Mágico | Preço | Dano | Requisitos                        | Escalas                           | Tipo  | Aumento de Alcance | Peso |
-| ------------------------ | ----- | ---- | --------------------------------- | --------------------------------- | ----- | ------------------ | ---- |
-| Simples                  | 10po  | -    | 2 de Inteligência, Carisma, ou Fé | D em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Arcana(o)                | 35po  | -    | 3 de Inteligência, Carisma, ou Fé | C em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Mística(o)               | 150po | -    | 3 de Inteligência, Carisma, ou Fé | B em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Poderosa(o)              | 300po | -    | 3 de Inteligência, Carisma, ou Fé | A em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Suprema(o)               | 750po | -    | 3 de Inteligência, Carisma, ou Fé | S em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
+A Mana adicional é considerada Pontos de Mana Temporários, e você os recupera ao ter um Descanso Longo.
+
+Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligência, Fé, e Carisma. É possível equipar até dois ao mesmo tempo, mesmo que você tenha mais do que duas mãos disponíveis de algum jeito, recebendo os efeitos de ambos ao conjurar uma Magia.
+
+| Varinha ou Cajado Mágico | Preço  | Dano | Requisitos                        | Escalas                           | Tipo  | Aumento de Alcance | Peso |
+| ------------------------ | ------ | ---- | --------------------------------- | --------------------------------- | ----- | ------------------ | ---- |
+| Simples                  | 10po   | -    | 2 de Inteligência, Carisma, ou Fé | D em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
+| Arcana(o)                | 35po   | -    | 3 de Inteligência, Carisma, ou Fé | C em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
+| Mística(o)               | 200po  | -    | 3 de Inteligência, Carisma, ou Fé | B em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
+| Poderosa(o)              | 655po  | -    | 3 de Inteligência, Carisma, ou Fé | A em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
+| Suprema(o)               | 1250po | -    | 3 de Inteligência, Carisma, ou Fé | S em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
 
 É possível também que uma mesma Varinha ou Cajado Mágico possa ter Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Inteligência e B em Fé. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico".
 
@@ -121,13 +131,13 @@ Famoso entre tribos de Gnomos, apenas os melhores manuseadores de ervas podem cr
 
 Alguns anéis proporcionam efeitos diversos ao serem utilizados. Você pode ter um anel por dedo da mão.
 
-| Anel                               | Efeito                                                                                                                                                                                                                                                                       | Preço  | Peso   |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| Anel da Vida                       | Sua Constituição aumenta para 9 se for inferior a 9. Isso significa que você aumentará seus Pontos de Vida Máximos de acordo com a regra de Pontos Retroativos do Capítulo 2.2 - Níveis, caso seja possível. Seus Pontos de Vida Máximos diminuem ao retirar o Anel da Vida. | 300pl  | 0.1 kg |
-| Anel da Mana                       | Sua Sabedoria aumenta para 9 se for inferior a 9. Isso significa que você aumentará seus Pontos de Mana Máximos de acordo com a regra de Pontos Retroativos do Capítulo 2.2 - Níveis, caso seja possível. Seus Pontos de Mana Máximos diminuem ao retirar o Anel da Mana.    | 1000pl | 0.1 kg |
-| Anel da Sobrecarga                 | Dobra sua Capacidade de Carga.                                                                                                                                                                                                                                               | 225pl  | 0.1 kg |
-| Anel da Soberania                  | Seu Bônus de Proficiência em Perícias de Carisma é dobrado                                                                                                                                                                                                                   | 325pl  | 0.1 kg |
-| Anel de Regeneração (Mana ou Vida) | Recupera quatro Pontos de Vida ou 1 de Mana ao final de cada um dos seus Turnos, a depender do anel.                                                                                                                                                                         | 800pl  | 0.1 kg |
+| Anel                               | Efeito                                                                                                                                                                       | Preço  | Peso   |
+| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
+| Anel da Vida                       | Você tem 5d8 Pontos de Vida Temporários ao usar esse anel, caso sua Constituição seja inferior a 5. Você recupera esses Pontos de Vida Temporários ao ter um Descanso Curto. | 300pl  | 0.1 kg |
+| Anel da Mana                       | Você tem 2d8 Pontos de Mana Temporários ao usar esse anel, caso sua Sabedoria seja inferior a 5. Você recupera esses Pontos de Mana Temporários ao ter um Descanso Curto.    | 1000pl | 0.1 kg |
+| Anel da Sobrecarga                 | Dobra sua Capacidade de Carga.                                                                                                                                               | 225pl  | 0.1 kg |
+| Anel da Soberania                  | Seu Bônus de Proficiência em Perícias de Carisma é dobrado                                                                                                                   | 325pl  | 0.1 kg |
+| Anel de Regeneração (Mana ou Vida) | Recupera quatro Pontos de Vida ou 1 de Mana ao final de cada um dos seus Turnos, a depender do anel.                                                                         | 800pl  | 0.1 kg |
 
 ## Escudo Animado
 
@@ -149,9 +159,9 @@ Espada grande que emana uma luz verde-azulada. É composta em sua maior parte po
 
 **Feixes de Luz** (Duas Ações): Todas as criaturas no alcance de 18m em cone terão que passar por um Teste de Resistência de Destreza CD 13 + Int para desviar do Ataque. Caso contrário, um feixe de luz que sai ao balançar a espada os atinge, causando 4d8 + Int de algum Dano Mágico que não seja Sombrio, à sua escolha.
 
-| Arma                  | Preço      | Dano                                                                                               | Requisitos        | Escalas           | Tipo              | Aumento de Alcance | Peso   |
-| --------------------- | ---------- | -------------------------------------------------------------------------------------------------- | ----------------- | ----------------- | ----------------- | ------------------ | ------ |
-| Espada da Luz do Luar | Indefinido | 6d8 + Inteligência de Dano Mágico (o tipo de dano fica à sua escolha, com exceção de Dano Sombrio) | 8 de Inteligência | S em Inteligência | Empunhadura Dupla | 0                  | 1.5 kg |
+| Arma                  | Preço      | Dano                                                                  | Requisitos         | Escalas           | Tipo              | Aumento de Alcance | Peso   |
+| --------------------- | ---------- | --------------------------------------------------------------------- | ------------------ | ----------------- | ----------------- | ------------------ | ------ |
+| Espada da Luz do Luar | Indefinido | 6d8 + Inteligência de Dano Mágico (o tipo de dano fica à sua escolha) | 10 de Inteligência | S em Inteligência | Empunhadura Dupla | 0                  | 1.5 kg |
 
 ## Fissura
 
@@ -165,9 +175,9 @@ Reza a lenda que quem possui essa espada lendária adquire o direito de se torna
 
 Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetranita é um mineral que contém as propriedades dos quatro elementos, das quatro estações, e dos quatro pontos cardiais. O material se pode moldar conforme a necessidade do usuário, e somente os melhores ferreiros conseguem manuseá-lo para tal.
 
-| Armadura              | Preço      | CA  | Requisitos | Escalas                 | Penalidades | Efeitos Adicionais | Peso  |
-| --------------------- | ---------- | --- | ---------- | ----------------------- | ----------- | ------------------ | ----- |
-| Armadura de Tetranita | Indefinido | +8  | -          | S em todos os Atributos | -           | -                  | 20 kg |
+| Armadura              | Preço      | CA  | Requisitos | Escalas                                    | Penalidades | Efeitos Adicionais | Peso  |
+| --------------------- | ---------- | --- | ---------- | ------------------------------------------ | ----------- | ------------------ | ----- |
+| Armadura de Tetranita | Indefinido | +8  | -          | S em dois Atributos, à escolha do ferreiro | -           | -                  | 20 kg |
 
 ## Capa dos Ventos
 

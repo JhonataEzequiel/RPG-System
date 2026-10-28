@@ -33,7 +33,7 @@ Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito nega
 
 ## Sangue Frio (Custo 1)
 
-Você se torna Imune à Condição Amedrontado e tem 5 Pontos de Resistência a Dano de Gelo, mas tem -2 em Salvaguardas de Constituição.
+Você se torna Imune à Condição Amedrontado e tem 5 Pontos de Resistência a Dano de Gelo, mas tem -3 em Salvaguardas de Constituição.
 
 ## Patinação no Gelo (Custo 1)
 
