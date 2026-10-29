@@ -6,9 +6,9 @@
 - Alcance: Toque
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Concede 1d8 de Dano Sagrado aos Ataques Físicos realizados pelo alvo. Alternativamente, você também pode escolher adicionar 1d4 como Pontos de Vida Temporários ao alvo.
+**Descrição:** Concede 1d6 de Dano Sagrado aos Ataques Físicos realizados pelo alvo. Alternativamente, você também pode escolher adicionar 1d4 como Pontos de Vida Temporários ao alvo.
 
-Se você tiver 4 de Fé, aumente o dano adicionado para 2d8 + Fth, e os Pontos de Vida Temporários para 2d6. Com 8 de Fé, será 2d10 + Fth de dano adicionado, e 2d8 + Fth de Pontos de Vida Temporários.
+Se você tiver 4 de Fé, aumente o dano adicionado para 1d6 + Fth, e os Pontos de Vida Temporários para 2d4. Com 8 de Fé, será 2d6 + Fth de dano adicionado, e 2d4 + Fth de Pontos de Vida Temporários.
 
 ### Estabilizar
 

@@ -67,9 +67,13 @@ Jogadas de Ataque contra a criatura têm Vantagem. Qualquer Ataque que acerte a 
 
 Uma criatura Invisível tem Vantagem em Testes de Furtividade, e também não pode ser detectada pela visão, apenas por rastros deixados para trás. Qualquer Ataque contra alguém Invisível tem Desvantagem. Além disso, a Invisibilidade é quebrada ao realizar qualquer Ação, Ação Bônus, ou Reação.
 
+## Morto
+
+Uma criatura morta se torna um objeto. Ela não poderá interagir mais com o mundo, e perde sua agência própria. Para todos os critérios, ela deixa de participar ativamente do jogo.
+
 ### Nocauteado
 
-Você é incapacitado, e só pode sair desta Condição caso seja estabilizado de alguma forma. A única forma de ser Nocauteado é caso seus Pontos de Vida cheguem a zero.
+Você é Incapacitado, e só pode sair desta Condição caso seja estabilizado de alguma forma. A única forma de ser Nocauteado é caso seus Pontos de Vida cheguem a zero.
 
 Para se libertar desta Condição você precisará passar por algumas Salvaguardas de Constituição CD 10. Será uma melhor de 5 Salvaguardas. Conseguindo 10 ou superior, você obtém um Sucesso. Caso contrário, obtém um Fracasso. Você passará por uma Salvaguarda no início de cada um de seus Turnos, até que um resultado final seja obtido. 
 

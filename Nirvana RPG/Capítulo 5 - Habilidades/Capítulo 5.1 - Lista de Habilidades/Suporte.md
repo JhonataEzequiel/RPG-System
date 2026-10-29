@@ -66,15 +66,23 @@ Você não mais dorme quando tem um Descanso qualquer, mas ainda se recupera nor
 
 **Requisitos**: 5 de Carisma ou Fé.
 
-Sempre que estiver em um Encontro e tiver pelo menos uma criatura aliada consigo, você não poderá causar dano algum. Em troca, você dobra permanentemente o valor do seu Atributo de Carisma ou Fé, à sua escolha, e também cura 3d8 a mais todas as vezes que curar alguém ou a si mesmo. 
+Sempre que estiver em um Encontro e tiver pelo menos uma criatura aliada consigo, você não poderá causar dano algum. Em troca, você dobra permanentemente o valor do seu Atributo de Carisma ou Fé, à sua escolha, e também cura 2d8 a mais todas as vezes que curar alguém ou a si mesmo. 
 
-Você ainda poderá se utilizar de quaisquer meios de causar dano, mas o dano será completamente negado. A exceção é se você estiver lutando a sós. Neste caso, essa Habilidade é desativada completamente, assim como todos os seus efeitos, menos o de dobrar seus Atributos de Fé ou Carisma.
+Você ainda poderá se utilizar de quaisquer meios de causar dano, mas o dano será completamente negado. A exceção é se você estiver lutando a sós. Neste caso, essa Habilidade é desativada completamente, assim como todos os seus efeitos.
+
+## Altruísta (Custo 2)
+
+**Requisitos**: 6 de Fé.
+**Duração**: 1 Encontro.
+
+Sempre que curar um aliado com Magias de Cura, adicione 1 ponto na sua CA. Sempre que curar um inimigo, adicione +2. O máximo de CA adicional é 3 pontos. Uma Magia que cura múltiplos alvos ao mesmo tempo conta apenas uma vez, e essa Habilidade não tem efeito quando você cura a si mesmo.
 
 ## Armadura Anti-Magia (Custo 2)
 
 **Requisitos**: 5 de Carisma ou Fé.
+**Duração**: Enquanto o bônus temporário durar.
 
-Sempre que você conceder bônus na CA temporariamente a um aliado, ou Pontos de Vida Temporários, o alvo recebe Resistência a um tipo de Dano Mágico igual a metade do seu Nível, à sua escolha.
+Sempre que você conceder bônus na CA temporariamente a um aliado, ou Pontos de Vida Temporários, o alvo recebe Resistência a um tipo de Dano Mágico igual a metade do seu Nível, à sua escolha. Essa Habilidade só tem efeito até 2 vezes.
 
 ## Matemático (Custo 2)
 
@@ -91,7 +99,7 @@ Você será visto como líder por aqueles ao seu redor. Cativar os corações do
 
 **Monarca** (Passiva): Ao entrar em combate você automaticamente ativa sua Inspiração com uma Ação Livre. Para ativá-la novamente quando a duração acabar é necessário gastar a Ação Bônus, como dito na Inspiração Melhorada.
 
-**Pontífice** (Três Ações, 7 de Mana): Põe uma aura curativa ao seu redor. Essa aura recupera 3d6 + Fth de Vida de todos os aliados no alcance de seu Deslocamento ao final do seu Turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + Fth de Dano Radiante. Aliados Nocauteados já começam com um acerto nas Salvaguardas para se estabilizarem, desde que estejam no alcance. Dura um Encontro.
+**Pontífice** (Três Ações, 7 de Mana): Põe uma aura curativa ao seu redor. Essa aura recupera 2d6 + Fth de Vida de todos os aliados no alcance de seu Deslocamento ao final do seu Turno. Além disso, se mortos vivos estiverem até 18m de você, eles recebem 4d6 + Fth de Dano Radiante. Aliados Nocauteados já começam com um acerto nas Salvaguardas para se estabilizarem, desde que estejam no alcance. Dura um Encontro.
 
 ## Rei Oculto (Custo 3)
 

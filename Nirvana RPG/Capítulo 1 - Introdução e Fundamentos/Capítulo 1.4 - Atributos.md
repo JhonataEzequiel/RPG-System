@@ -1,5 +1,5 @@
 
-Os Atributos são as estatísticas que ditam como o seu personagem se comporta perante os desafios impostos a ele. As suas capacidades estão atreladas a esses Atributos, sendo eles também responsáveis por ditar a taxa de sucesso de uma determinada ação. Por exemplo, ser ótimo em lábia ao ponto de ser capaz de convencer os outros a não lutarem apenas com o diálogo é uma característica atrelada ao Atributo de Carisma, ou seja, caso você opte por evoluí-lo obterá uma chance maior de ser bem sucedido em ações parecidas. A quantidade de Atributos no total é 7, sendo eles: Constituição, Força, Destreza, Sabedoria, Inteligência, Fé, e Carisma. Você receberá Pontos de Atributo para investir como quiser, tanto no Nível 1, quanto nos Níveis subsequentes.
+Os Atributos são estatísticas que representam suas capacidades básicas de agência no mundo. Cada um representa uma característica diferente, e ditam a taxa de sucesso de suas diversas ações possíveis. A quantidade de Atributos no total é 7, sendo eles: Constituição, Força, Destreza, Sabedoria, Inteligência, Fé, e Carisma. Você receberá Pontos de Atributo (PAs) para investir como quiser, tanto no Nível 1, quanto nos Níveis subsequentes.
 
 Os Atributos terão um Limite de Nível Máximo que aumentará conforme seu Nível, seguindo a tabela a seguir:
 

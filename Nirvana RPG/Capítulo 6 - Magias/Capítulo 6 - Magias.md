@@ -9,7 +9,7 @@ As Magias podem ter como tempo necessário para conjurar tanto uma quantidade de
 
 Para conjurar uma Magia não é necessário estar com as mãos livres, bastando que você faça algum gesto ou fale uma palavra mágica para servir como gatilho para a conjuração.
 
-Caso não seja especificado, a quantidade máxima de vezes que uma Magia pode ter o seu poder aumentado através de pontos adicionais de Mana será de 10 vezes.
+Caso não seja especificado, a quantidade máxima de vezes que uma Magia pode ter o seu poder aumentado através de pontos adicionais de Mana será de 5 vezes.
 
 ## Categorias de Magias
 

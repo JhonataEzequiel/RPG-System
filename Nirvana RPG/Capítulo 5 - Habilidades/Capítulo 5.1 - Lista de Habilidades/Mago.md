@@ -25,11 +25,9 @@ Você conhece 1 Arcano Menor para cada ponto no seu Bônus de Proficiência.
 
 ## Especialista em Arcanos Menores (Custo 1)
 
-**Requisitos**: 3 de Inteligência.
+**Requisitos**: 4 de Inteligência.
 
-Sempre que você puder conjurar um Arcano Menor com 1 Ponto de Mana adicional para obter um efeito extra, você automaticamente o faz. Você não gasta 1 Ponto de Mana adicional para isso. Se o Arcano Menor em específico puder ser fortalecido ainda mais com mais Pontos de Mana, você gastará Pontos de Mana normalmente para isso, caso deseje fazê-lo. Você também conhece um Arcano Menor adicional.
-
-Ao chegar ao Nível 10 de Inteligência, você evolui os Arcanos Menores em mais 1 Ponto de Mana, caso isso seja possível para o Arcano Menor em si.
+Seus Arcanos Menores que causam dano, agora causam 1d8 a mais de dano. O tipo de dano adicional é um dos tipos capazes de serem causados pelo Arcano Menor, à sua escolha.
 
 ## Companheiro Grimório (Custo 1)
 
@@ -41,7 +39,7 @@ A cada três Magias que você anotar no seu Grimório, adicione 1d4 Pontos de Ma
 
 **Requisitos**: 1 de Sabedoria.
 
-Você escolhe uma Arma ou objeto que você possua. Esse objeto agora aumenta a força de suas Magias. Você aumenta a CD para evitar os efeitos negativos de suas Magias em 1 ponto. Caso a magia cause exclusivamente dano ou cura, sem pedir por uma Salvaguarda, você aumenta esse valor em 1d4. Caso a Magia cause múltiplos tipos de dano, você escolhe um dos tipos para receber o aumento. 
+Você escolhe uma Arma ou objeto que você possua. Esse objeto agora aumenta a força de suas Magias. Você aumenta a CD para evitar os efeitos negativos de suas Magias em 1 ponto. Caso a magia cause exclusivamente dano ou cura, sem pedir por uma Salvaguarda, você aumenta esse valor em 1d4. Caso a Magia cause múltiplos tipos de dano, você escolhe um dos tipos para receber o aumento.
 
 Você deve estar com o item equipado antes de conjurar a Magia para se beneficiar desses bônus, e ele ocupa uma de suas mãos, a não ser que seja uma Arma de Empunhadura Dupla, pois ocupará as duas por padrão.
 

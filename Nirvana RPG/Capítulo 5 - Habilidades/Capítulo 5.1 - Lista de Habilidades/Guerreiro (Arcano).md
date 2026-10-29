@@ -52,7 +52,7 @@ Ao ser atingido, você também ganha 1d6 de Resistência ao tipo de dano que te 
 
 Seguindo um caminho de fé, você compreende sobre aspectos metafísicos da vida, e percebe que nas pequenas coisas há milagres. Seus cortes se tornam divinizados, e você aprende a seguir o caminho da espada.
 
-Você causa um adicional de 1d8 de Dano Radiante em cada Ataque que originalmente cause algum Dano Cortante. Esse dano aumenta para 1d12 + Fé ao chegar no Nível 10 de Fé e Destreza.
+Você causa um adicional de 1d8 de Dano Radiante em cada Ataque que originalmente cause algum Dano Cortante. Você tem +4 em Salvaguardas de Fé.
 
 ## Mãos Espectrais (Custo 2)
 
@@ -76,7 +76,7 @@ Você causa um adicional de 1d8 de Dano Radiante em cada Ataque que originalment
 
 Você agora se conecta com a natureza. Percebe o ciclo interminável de vida e morte, e que há uma harmonia entre as coisas. Ainda que esteja sob influência de forças externas, seu espírito percebe que é completamente livre. Você chegou no auge do caminho da espada.
 
-O dano adicional concedido por Um Com os Céus agora é de 2d12 + Fé. Você se torna Imune à Condição Encantado, e suas curas agora curam um valor adicional igual ao seu Nível de Destreza.
+O dano adicional concedido por Um Com os Céus agora é de 2d12 + Fé. Você se torna Imune à Condição Encantado, e sempre que você receber cura, você segura em um valor adicional igual ao seu Modificador de Destreza.
 
 **Rejuvenescer** (Duas Ações): Você pode utilizar seu Dado de Vida para se curar a qualquer momento, uma vez por Descanso Longo.
 

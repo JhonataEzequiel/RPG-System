@@ -47,6 +47,12 @@ Todas as vezes que tiver um Descanso Longo, escolha uma coisa que não é Profic
 
 Por exemplo, caso opte por ser Proficiente em Salvaguardas de Inteligência, não poderá optar por isso novamente até que escolha outras três coisas diferentes desta Proficiência, o que inclui outras Salvaguardas.
 
+## Reserva Extra (Custo 2)
+
+**Requisitos**: Você deve estar no Nível 10 ou superior.
+
+Escolha um Modificador entre Fth, Int, e Car. Para cada ponto nesse Modificador, aumente seus Pontos de Mana Máximos em 4. Sempre que aumentar seu Modificador escolhido, você recebe +4 de Mana.
+
 ## Canivete (Custo 2)
 
 Você pode trocar um Ponto de Atributo para ter +1 em todos os Testes. Você pode fazer isso até um limite de 3 vezes, não precisando adquirir essa Habilidade outra vez para isso.

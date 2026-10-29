@@ -1,6 +1,0 @@
-
-Os Pontos de Vida determinarão a condição física de alguém. Quanto mais próximos de 0, mais debilitado se está. Caso você perca Pontos de Vida até ficar com 0 Pontos de Vida, você terá a Condição Nocauteado. Caso você receba uma instância de dano maior ou igual ao dobro dos seus Pontos de Vida Máximos, você morre instantaneamente.
-
-É possível ter Pontos de Vida Temporários. Normalmente, são concedidos por efeitos benéficos causados por você, ou por aliados. Eles terão um tempo limite, sendo efetivos até atingirem uma determinada condição que é especificada pela fonte dos Pontos de Vida Temporários. Caso não tenha essa condição especificada em algum lugar, duram até você ter um Descanso Longo. Confira o Capítulo 1.11 - Descansos para mais informações. 
-
-Pontos de Vida Temporários não podem ser recuperados por fontes de cura. Eles também tem prioridade em relação aos Pontos de Vida Atuais. Ou seja, ao sofrer dano e ter Pontos de Vida Temporários, eles serão diminuídos primeiro até que acabem. Só então o dano restante será distribuído aos Pontos de Vida Atuais.

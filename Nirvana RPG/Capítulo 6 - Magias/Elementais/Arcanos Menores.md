@@ -6,9 +6,9 @@
 - Alcance: 36m
 - Tempo de Conjuração: Uma Ação
 
-**Descrição:** Você conjura um projétil de fogo que deixa um rastro pelo caminho até atingir o alvo, dando a aparência de um raio. O alvo recebe 1d8 + Int de Dano de Fogo.
+**Descrição:** Você conjura um projétil de fogo que deixa um rastro pelo caminho até atingir o alvo, dando a aparência de um raio. O alvo recebe 1d6 + Int de Dano de Fogo.
 
-Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d8 por ponto gasto.
+Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d6 por ponto gasto.
 
 ### Relâmpago Gêmeo
 
@@ -17,9 +17,9 @@ Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d8 por
 - Alcance: 18m
 - Tempo de Conjuração: Duas Ações
 
-**Descrição:** Você conjura dois relâmpagos que acertam um único alvo, causando 1d6 + Int de Dano de Raio cada. 
+**Descrição:** Você conjura dois relâmpagos que acertam um único alvo, causando 1d4 + Int de Dano de Raio cada. 
 
-Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d6 por ponto gasto para cada um dos relâmpagos.
+Você pode gastar Pontos de Mana adicionais para aumentar o dano em mais 1d4 por ponto gasto para cada um dos relâmpagos.
 
 ### Bolha Ácida
 
