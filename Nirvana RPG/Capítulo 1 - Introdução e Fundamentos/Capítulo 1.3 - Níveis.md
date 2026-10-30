@@ -1,3 +1,0 @@
-O Nível (NV) de um PDJ representa o acumulo total de Experiência (XP) que ele acumulou em sua vida. XP é uma forma de quantificar a vivência de alguém como aventureiro. Por padrão, o NV de um PDJ vai de 1 até 20. Opcionalmente, o Mestre pode permitir que os PDJs.
-
-PDMs também possuem Níveis, mas eles estão relacionados a dificuldade que os PDJs encontrarão ao enfrentá-los. Quanto maior o NV, mais difíceis serão os desafios proporcionados pelos PDMs.
