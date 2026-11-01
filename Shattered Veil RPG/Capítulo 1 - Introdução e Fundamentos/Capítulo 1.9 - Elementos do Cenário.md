@@ -1,4 +1,3 @@
-
 O cenário de uma aventura é composto por muito mais do que criaturas. Neste capítulo, você verá como os Objetos são definidos, e como a iluminação do ambiente afeta o quanto você consegue enxergar.
 
 ## Objetos

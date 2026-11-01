@@ -1,4 +1,3 @@
-
 Mover-se pelo mundo é parte essencial de qualquer aventura, seja para alcançar um objetivo, chegar até um inimigo, ou fugir de um perigo. Neste capítulo, você verá como funciona o Deslocamento, as diferentes formas de se mover, e os obstáculos do caminho, como o Terreno Difícil e a Queda Livre.
 
 ## Deslocamento
@@ -13,7 +12,7 @@ O Deslocamento Terrestre é o padrão, normalmente chamado apenas de Deslocament
 
 ### Deslocamento Aéreo
 
-O Deslocamento Aéreo é concedido a qualquer criatura ou objeto capaz de voar, seja por meios naturais ou mágicos. Seu valor não é derivado do Deslocamento Terrestre, e estará especificado caso uma criatura ou objeto o possua. Uma criatura capaz de voar tem a CA contra Ataques Corpo-a-Corpo aumentada em 3 pontos enquanto estiver voando, desde que a criatura atacante não esteja voando também.
+O Deslocamento Aéreo é concedido a qualquer criatura ou objeto capaz de voar, seja por meios naturais ou mágicos. Seu valor não é derivado do Deslocamento Terrestre, e estará especificado caso uma criatura ou objeto o possua. Uma criatura capaz de voar tem a CA contra Ataques Corpo a Corpo aumentada em 3 pontos enquanto estiver voando, desde que a criatura atacante não esteja voando também.
 
 ### Deslocamento Aquático
 
@@ -21,7 +20,7 @@ O Deslocamento Aquático diz respeito à velocidade de locomoção debaixo d'ág
 
 ### Deslocamento Vertical
 
-Ao escalar verticalmente uma superfície, o seu Deslocamento Terrestre é diminuído pela metade. Esse será seu Deslocamento Vertical.
+Ao escalar verticalmente uma superfície, o seu Deslocamento Terrestre é diminuído pela metade.
 
 ### Deslocamento Subterrâneo
 
@@ -29,26 +28,26 @@ Algumas criaturas são capazes de cavar no chão e abrir túneis, se locomovendo
 
 ## Terreno Difícil
 
-O Terreno Difícil é uma circunstância que afeta o cenário em que um personagem está se deslocando. Ele pode afetar qualquer um dos tipos de Deslocamento. Terreno Difícil diminui pela metade o Deslocamento das criaturas afetadas por ele.
+O Terreno Difícil é uma circunstância que afeta o cenário em que um personagem está se deslocando. Ele pode afetar qualquer um dos tipos de Deslocamento. Terreno Difícil diminui pela metade o Deslocamento das criaturas afetadas.
 
 ## Andar, Correr e Desengajar
 
-Andar é uma Ação Livre. Ao Correr, você gasta duas Ações e seu Deslocamento é dobrado. Desengajar custa três Ações e impede Ataques de Oportunidade contra você até o fim do seu Turno. Seu Deslocamento também é dobrado ao Desengajar.
+Andar é a principal forma de Movimentação, e não custa Ações. A distância andada é descontada do seu Deslocamento restante na Rodada. Ao Correr, você gasta duas Ações e seu Deslocamento é dobrado. Desengajar custa três Ações e impede Ataques de Oportunidade contra você até o fim do seu Turno. Seu Deslocamento também é dobrado ao Desengajar.
 
-## Rastejar
+## Esgueirar
 
-Ao Rastejar, você gasta uma Ação e seu Deslocamento é diminuído pela metade.
+Você pode se Esgueirar por um espaço grande o bastante para uma criatura de um Tamanho menor que o seu (veja o Capítulo 1.13 - Tamanho). Seu Deslocamento é reduzido pela metade ao se Esgueirar.
 
 ## Pular
 
-Você pode Pular uma distância igual à soma dos seus valores de Força e de Destreza vezes 1.5 metros. Ou seja, para cada ponto em Força ou Destreza, você pula 1.5 metros. O mínimo da distância de pulo é 0 metros, e o limite é de 15 metros. Ao Correr, esse limite é removido. Alguns efeitos podem aumentar a distância máxima de pulo, e isso estará especificado quando ocorrer.
+Você pode Pular uma distância igual à soma dos seus Modificadores de Força e de Destreza vezes 1,5 metros. Ou seja, para cada ponto no Modificador de Força ou no de Destreza, você pula 1,5 metros. O mínimo da distância de pulo é 0 metros, e o limite é de 15 metros. Ao Correr, esse limite é removido. Alguns efeitos podem aumentar a distância máxima de pulo, e isso estará especificado quando ocorrer.
 
-Ao Pular verticalmente, a distância do pulo é igual à metade da distância do pulo normal, menos 1.5 metros.
+Ao Pular verticalmente, a distância do pulo é igual à metade da distância do pulo normal, menos 1,5 metros.
 
-A distância pulada, seja horizontal ou vertical, é descontada do seu Deslocamento, ou seja, Pular 1.5 metros diminui 1.5 metros do seu Deslocamento restante na Rodada. Não é possível Pular sem estar com os pés no chão. Pular é uma Ação Livre.
+A distância pulada, seja horizontal ou vertical, é descontada do seu Deslocamento, ou seja, Pular 1,5 metros diminui 1,5 metros do seu Deslocamento restante na Rodada. Não é possível Pular sem estar com os pés no chão. Pular é uma forma de Movimentação, e não custa Ações.
 
 ## Queda Livre
 
-Pequenas alturas não apresentam perigo. Quedas Livres de até 5 metros não causam dano algum. Caso ultrapassem esse limiar, você recebe 1d4 de Dano de Impacto a cada 3 metros de queda além dos 5 metros, ao atingir o chão.
+Pequenas alturas não apresentam perigo. A distância de uma Queda Livre só começa a ser contabilizada a partir dos 5 metros, ou seja, quedas de até 5 metros não causam dano algum. Ao atingir o chão, você recebe 1d4 de Dano de Impacto para cada 3 metros completos de queda além dos 5 metros. Por exemplo, uma queda de 8 metros causa 1d4 de dano, uma de 11 metros causa 2d4, e assim por diante. Metros incompletos são descartados, então uma queda de 7 metros ainda não causa dano.
 
 A distância total percorrida em Queda Livre é dada pela quantidade de Turnos em Queda Livre multiplicada por 9 metros.

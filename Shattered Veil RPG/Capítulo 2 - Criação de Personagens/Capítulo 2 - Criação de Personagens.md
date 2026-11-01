@@ -1,95 +1,39 @@
-
-Uma dica para criar um personagem novo é idealizar como você quer que ele seja na sua mente antes de montá-lo de fato. Isso faz com que o personagem tenha uma ideia principal que, aos poucos, vai se adequando às mecânicas do sistema, e ficando o mais próximo possível do ideal que você pensou. Claro, você pode dar uma olhada em outras partes do sistema e focar em um determinado campo que te agradou. Por exemplo, você pode pensar em fazer um guerreiro comum logo de cara, sem se preocupar tanto com o resto. Ou você pode dar uma olhada nas Habilidades, ver um conceito que te agrada, e construir seu personagem a partir dele. Escolha qualquer abordagem que seja mais conveniente e divertida para você.
-
-## História de Origem
-
-Todos os personagens tem alguma história de origem, seja o básico guerreiro que sai de sua vila pacata quando completa a maioridade em busca de aventuras, até um ladino com uma história trágica de fundo. Você pode e deve expressar toda a sua criatividade na criação do personagem aqui, dando a ele uma motivação para seguir em frente, talvez alguma justificativa para um traço de personalidade, ou alguns possíveis personagens que ele já conhece com antecedência. Não tem problema em criar uma história que já é comum de se ver em RPGs, mas é interessante sair do padrão de vez em quando. Criar uma história emocionante ou bem escrita pode fazer com que você tenha um certo destaque a mais na mesa, e que sua história seja incorporada a trama principal. Não poupe palavras para escrever a sua origem. Você pode ou não ser detalhista.
-
-## Traços de personalidade
-
-Cada personagem terá uma personalidade diferente, que pode ou não vir da história de origem do mesmo. É recomendável que você tente transmitir esses traços em sua interpretação. Um exemplo seria um personagem que não consegue se conter quando vê uma injustiça, e age por impulso. Seguir traços dos seus personagens traz ao mundo um quê de realismo, fazendo com que os jogadores possam tentar coisas novas a cada momento.
-
-### Qualidades
-
-Além dos traços de personalidade, você também deverá apontar uma qualidade de seu personagem, seja ele alguém justo, ou alguém bem humorado e sociável. Ter alguma qualidade destacada não necessariamente significa ter apenas uma qualidade, mas sim que aquela é a mais notória e essencial para o personagem.
-
-### Defeitos
-
-Seu personagem, provavelmente, estará longe da perfeição. Sendo assim, além das qualidades, procure destacar alguns defeitos dele. Seja ele egocêntrico, tímido, ou até um bêbado atrapalhado.
+A criação de um personagem é o primeiro passo de qualquer Campanha. Neste capítulo, você verá todas as escolhas que definem o seu PDJ no Nível 1, na ordem em que normalmente são feitas: Raça, Atributos, Dados de Vida e de Mana, Proficiências, Habilidades e Origem, além dos PVs, PMs e Equipamento iniciais.
 
 ## Escolha de Raça
 
-Você terá que escolher uma Raça dentre as disponíveis para que seu personagem tenha uma origem definida. Cada Raça tem Habilidades únicas e que podem ser usadas nas mais diversas situações. Elas estão listadas no Capítulo 3.2 - Lista de Raças.
+Você terá que escolher uma Raça dentre as disponíveis. Cada Raça tem características únicas e são viáveis nas mais diversas situações. Confira o Capítulo 3 - Raças para mais informações.
 
 ## Escolha de Atributos
 
-Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, você terá 7 Pontos de Atributo disponíveis para distribuir entre os 7 Atributos diferentes, que começarão em 0.
+Você irá iniciar no Nível 1, podendo chegar até o Nível 20. No Nível 1, você terá 7 Pontos de Atributo disponíveis para distribuir entre os 7 Atributos diferentes, que começarão em 0. Lembre-se de respeitar o Limite de Atributo. Esses Pontos de Atributo são obrigatórios, pois definem o básico do seu personagem, e você não pode guardá-los para utilizar em outros Níveis.
 
 ## Limitação Inicial
 
-Você pode optar por tirar Pontos de Atributo de um Atributo para deixá-lo abaixo do Nível 0. Fazendo isso, pode alocar estes Pontos de Atributo em outro Atributo, ignorando o Limite de Nível Máximo de Atributos. Um Atributo com valor negativo tem seu Modificador negativo também, então você irá subtrair ao invés de somar quando algo pedir que use o Atributo. 
+Você pode optar por tirar Pontos de Atributo de um ou mais Atributos, deixando-os abaixo do valor 0. Fazendo isso, pode alocar estes Pontos de Atributo que você retirou em um outro Atributo, desde que siga o Limite de Atributo. Você também pode guardar os pontos retirados para utilizar em outros Níveis, quando o LA permitir. O máximo de pontos totais retirados é 10. Esses pontos são adicionais aos 7 iniciais, em troca de deixar o seu personagem particularmente debilitado nos Atributos de onde os retirou.
 
-O valor mínimo que um Atributo pode assumir é -10. Você pode tirar quantos Pontos quiser de quantos Atributos quiser, e alocar eles da maneira que achar melhor, desde que a soma total de todos os valores negativos não ultrapasse -10. Por exemplo, caso você tenha -4 em Destreza e -6 em Força, você não poderá ter mais limitações. Você pode ter -10 em apenas um Atributo, se assim desejar.
+## Dado de Vida e Dado de Mana
 
-Os 7 Pontos de Atributo iniciais do Nível 1 ainda seguirão a Limitação de Nível Máximo de Atributo. Portanto, é preferível alocá-los antes de tomar uma decisão sobre ter ou não uma Limitação Inicial.
+Você terá acesso a um Dado de Vida e um de Mana. Eles servirão para ditar como seus PVs Máximos serão determinados, além dos PVs recuperados por cada hora de Descanso. Ambos possuirão cinco possíveis graus: d4, d6, d8, d10, d12. Você inicia no primeiro grau em ambos, e pode aumentá-los de acordo com as regras da seção "Origem", que estará mais a frente neste capítulo.
+
+## Proficiências
+
+Você poderá ser Proficiente em um ou mais tipos de Armadura e de Arma, Magias no geral, Salvaguardas, e Perícias (se tornando Perito). Você poderá escolher suas Proficiências na seção "Origem".
 
 ## Escolha de Habilidades
 
-No Nível 1, você pode escolher 7 Habilidades de Custo 1. Ou seja, não se tratam de 7 Pontos de Habilidades. Você ganha essas 7 Habilidades de Custo 1 sem gastar Pontos. Você pode optar por não começar com nenhuma Habilidade, se assim desejar, mas não ganhará nada com isso.
+Você terá 2 PHs para escolher qualquer Habilidade do Capítulo 5 - Habilidades. Você ainda deve atender aos requisitos para escolhê-las. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar.
 
-## Pontos de Vida
+## Origem
 
-Você terá um Dado de Vida, que aumentará conforme o Nível de Constituição. Esse Dado de Vida determinará os Pontos de Vida Iniciais, os subsequentes, e a cura garantida após um Descanso Curto. Você não gasta os Dados de Vida ao ter um Descanso Curto. Eles servem apenas para dizer quanto você vai curar. No Nível 1, seus Pontos de Vida serão o número máximo do seu Dado de Vida mais seu Modificador de Constituição, caso seu Modificador não seja negativo.
+Você fará algumas escolhas atreladas à origem de seu personagem. No total serão 7 Pontos de Origem que você poderá gastar. Dentre as opções de gasto estão: aumentar o grau dos seus Dados de Vida ou do de Mana, adquirir novas Proficiências, e obter PHs adicionais.
 
-| Nível de Constituição | Dado de Vida |
-| --------------------- | ------------ |
-| <0                    | 1d4          |
-| 0                     | 1d6          |
-| 1                     | 1d6          |
-| 2                     | 1d8          |
-| 3                     | 1d8          |
-| 4                     | 1d10         |
-| 5                     | 1d10         |
-| 6                     | 2d8          |
-| 7                     | 2d8          |
-| 8                     | 2d10         |
-| 9                     | 2d10         |
-| 10                    | 3d10         |
+Ao subir um grau de qualquer um dos dois dados, você gasta um Ponto de Origem. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Por fim, você também pode trocar Pontos de Origem por Pontos de Habilidade, na proporção de 1 para 1, e adquirir novas Habilidades com eles. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar.
 
-## Pontos de Mana
+## PVs e PMs Máximos
 
-Todos podem utilizar Mana de alguma maneira, além de conjurar Magias e Arcanos Menores. Para tal, você utilizará Mana. A quantidade de Magias e Arcanos Menores que você conhece também é ditada pelo seu Nível de Sabedoria.
-
-Ao melhorar seu Atributo de Sabedoria, você poderá escolher novas Magias da Lista de Magias de acordo com o número listado em Magias Conhecidas na tabela abaixo. Você pode escolher até Magias de nível alto, mas deverá atender aos requisitos para usá-las. Você não pode escolher uma Magia se não atender primeiro aos requisitos dela.
-
-No Nível 1, seus Pontos de Mana serão iguais ao seu Modificador de Sabedoria. Caso seu Modificador de Sabedoria seja menor ou igual a 0, você começará com 1 Ponto de Mana Máximo.
-
-| Nível de Sabedoria | Magias Conhecidas | Arcanos Menores Conhecidos |
-| ------------------ | ----------------- | -------------------------- |
-| 0 ou Inferior      | 0                 | 0                          |
-| 1                  | 2                 | 1                          |
-| 2                  | 4                 | 2                          |
-| 3                  | 6                 | 3                          |
-| 4                  | 8                 | 4                          |
-| 5                  | 10                | 5                          |
-| 6                  | 12                | 6                          |
-| 7                  | 14                | 7                          |
-| 8                  | 16                | 8                          |
-| 9                  | 18                | 9                          |
-| 10                 | 20                | 10                         |
-
-Alternativamente, ao invés de ganhar Magias e Arcanos Menores novos, você pode optar por aumentar seus Pontos de Mana Máximos em 1 a cada Nível de Personagem Ímpar, começando pelo Nível 1. Ou seja, ao chegar no Nível 19, você terá +10 Pontos de Mana Máximos. Essa escolha é irreversível, e é feita ao criar seu personagem.
-
-## Escolha de Perícias e Proficiências
-
-Após você terminar de realizar as etapas anteriores, você precisará escolher um número de Perícias igual a 2 + Int, com um mínimo de duas. As Perícias em si estão detalhadas no Capítulo 2.1 - Perícias.
-
-Você também é Proficiente em um tipo de arma à sua escolha, entre Comum, Empunhadura Dupla, Leve, Punhos, e À Distância. Você pode adquirir uma Proficiência em outros tipos de arma se desejar, em troca de 1 Ponto de Habilidade por tipo. Alternativamente, caso esteja criando seu personagem, pode escolher um novo tipo de arma para ser Proficiente ao invés de uma das 7 Habilidades de Custo 1 que você pode escolher (pode ter quantas Proficiências quiser ao troco de mais Habilidades).
-
-Você também é Proficiente em Salvaguardas de dois Atributos diferentes, à sua escolha. Você pode gastar 2 Pontos de Habilidade para conseguir ser Proficiente em Salvaguardas de outro Atributo, e pode fazer isso quantas vezes quiser. Sendo Proficiente em uma Salvaguarda de um determinado Atributo, você adicionará o seu Bônus de Proficiência toda vez que precisar passar por uma.
-
-Por último, você pode escolher ser Proficiente em Iniciativa. Fazendo isso, você adiciona seu Bônus de Proficiência na Iniciativa. Você precisa abdicar de 2 das suas Habilidades iniciais de custo 1, ou de dois Pontos de Habilidade (caso esteja além do Nível 1) para adquirir essa característica.
+Uma vez escolhido o Dado de Vida, seus PVs Máximos iniciais serão o maior valor do Dado de Vida, acrescido de seu Modificador de Constituição, mas apenas se ele for positivo. Caso seja zero ou negativo, ele não é somado, e seus PVs Máximos iniciais serão apenas o maior valor do Dado de Vida. De maneira análoga, seus PMs Máximos iniciais serão o maior valor do seu Dado de Mana, acrescido do seu Modificador de Sabedoria, mas apenas se ele for positivo. Caso seja zero ou negativo, ele não é somado.
 
 ## Equipamento Inicial
 
-Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos, com exceção do Capítulo 4.11 - Itens Mágicos e Únicos.
+Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos. Lá também estarão as explicações de como as moedas do jogo funcionam.

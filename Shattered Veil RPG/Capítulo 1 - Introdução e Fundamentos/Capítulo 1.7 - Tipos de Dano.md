@@ -1,4 +1,3 @@
-
 Toda instância de dano possui um tipo, que indica a natureza da agressão sofrida pelo alvo. Existem doze tipos de dano, divididos entre Dano Físico, Dano Ácido e Venenoso, e Dano Mágico. Neste capítulo, você conhecerá cada um deles, além das regras de Fraquezas, Resistências, Imunidades, e Dano Contínuo.
 
 ## Dano Físico

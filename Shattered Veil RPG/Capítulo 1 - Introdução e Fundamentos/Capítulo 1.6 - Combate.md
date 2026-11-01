@@ -1,4 +1,3 @@
-
 Batalhas acontecerão o tempo todo, e podem se desenrolar de várias maneiras diferentes. Quando se está em um confronto, o foco é encerrar o conflito antes de fazer outras coisas. Existem muitos jeitos de se encerrar um conflito, seja com lábia, fugindo, ou derrotando os inimigos.
 
 ## Encontros
@@ -27,38 +26,39 @@ Se em algum lugar é dito que a duração de um efeito é de uma Rodada, isso si
 
 ## Magias
 
-Uma Magia é um desdobramento da realidade causado pela mente do usuário. Um usuário de Magias consegue controlar aspectos da natureza e das leis do universo em diferentes graus.
-
-Magias têm suas próprias regras detalhadas no Capítulo 6 - Magias. No entanto, para critérios de simplificação de combate, quando uma regra se referir a "Magias", também estarão inclusos os Arcanos Menores — que, resumindo, são Magias sem custo de Mana — a não ser que seja especificado o contrário. É possível também que afetem apenas os Arcanos Menores e, neste caso, essa informação será clara na descrição da regra.
-
-Por exemplo, caso um efeito amplifique o dano de Magias, estarão inclusos os Arcanos Menores que causem dano, mas se a Habilidade especificar que apenas o dano dos Arcanos Menores aumentará, então as Magias em si não serão afetadas.
+Uma Magia é um desdobramento da realidade causado pela mente do usuário. Um usuário de Magias consegue controlar aspectos da natureza e das leis do universo em diferentes graus. Magias têm suas próprias regras detalhadas no Capítulo 6 - Magias.
 
 ## Ataques
 
-Um Ataque é definido como uma tentativa de uma criatura de acertar outra criatura. Essa tentativa requer um Teste.
+Um Ataque é definido como uma tentativa de uma criatura de acertar um alvo único e causar dano. Essa tentativa requer um Teste, e cada Ataque custa uma Ação.
 
 ## Coeficiente de Armadura (CA)
 
-Valor que define a CD do Teste necessário para que um Ataque acerte. A CA é calculada através de uma soma básica de diversos elementos. O valor base de uma CA é 10. Após isso, acrescenta-se o valor de Destreza ou de Força, à sua escolha e, por último, de outras fontes, como equipamentos. A fórmula é a seguinte:
+Valor que define a CD do Teste necessário para que um Ataque acerte. A CA é calculada através de uma soma básica de diversos elementos. O valor base de uma CA é 10. Após isso, acrescenta-se o valor do Modificador de Destreza ou do Modificador de Força, à sua escolha, o seu Bônus de Proficiência, caso esteja usando uma armadura na qual seja Proficiente e, por último, de outras fontes, como equipamentos. A fórmula é a seguinte:
 
-**CA = 10 + Des ou For + Outros**
+**CA = 10 + Des ou For + BP + Outros**
+
+- **BP**: o seu Bônus de Proficiência, adicionado apenas se você estiver usando uma armadura na qual seja Proficiente. Caso contrário, vale 0.
+- **Outros**: a soma de quaisquer outros bônus ou penalidades que você tenha na CA, como o bônus da própria armadura.
+
+Você pode optar por não adicionar seu Modificador de Força ou de Destreza, se assim desejar.
 
 ## Adjacência
 
-Uma criatura é considerada adjacente à outra caso esteja em até 1.5 metros de distância. Caso esteja utilizando um Grid, uma criatura é considerada adjacente à outra caso esteja em um dos quadradinhos que a circundam.
+Uma criatura é considerada adjacente à outra caso esteja em até 1,5 metros de distância. Caso esteja utilizando um Grid, uma criatura é considerada adjacente à outra caso esteja em um dos quadradinhos que a circundam.
 
 ## Tipos de Ataque
 
-Existem dois tipos de Ataque: os Ataques Mágicos, e os Ataques Físicos. Ambos são subdivididos em duas categorias cada: Ataques Corpo-a-Corpo, e Ataques à Distância. Os Ataques Mágicos são aqueles advindos de Magias de alvo único, enquanto os Ataques Físicos são causados por Armas físicas.
+Existem dois tipos de Ataque: os Ataques Mágicos, e os Ataques Físicos. Ambos são subdivididos em duas categorias cada: Ataques Corpo a Corpo, e Ataques à Distância. Os Ataques Mágicos são aqueles advindos de Magias de alvo único, enquanto os Ataques Físicos são causados por Armas físicas.
 
-- **Ataque Corpo-a-Corpo**: O atacante faz contato direto com o oponente, ou seja, o atacante vai até o oponente e tenta aplicar o dano.
+- **Ataque Corpo a Corpo**: O atacante faz contato direto com o oponente, ou seja, o atacante vai até o oponente e tenta aplicar o dano.
 - **Ataque à Distância**: O atacante dispara um projétil e não faz contato direto com o oponente.
 
-**Magias em Área**: Algumas Magias afetam múltiplos alvos ao mesmo tempo, desde que eles estejam em uma determinada Área de Efeito. Essas Magias não são consideradas Ataques, pois não pedem por um Teste de Ataque, mas normalmente vêm acompanhadas de uma Salvaguarda para desviar da Área de Efeito.
+**Magias em Área**: Magias que causem dano em área não são consideradas Ataques Mágicos, e podem pedir por uma Salvaguarda para terem seus efeitos mitigados. Por exemplo, uma Magia que cause uma explosão pode pedir uma Salvaguarda de Destreza para desviar dela.
 
 ## Alcance de Ataques
 
-O alcance de um Ataque varia de acordo com o tipo. Sendo Corpo-a-Corpo, o padrão é de 1.5 metros, ou seja, adjacente. Algumas Armas e efeitos podem aumentar esse alcance.
+O alcance de um Ataque varia de acordo com o tipo. Sendo Corpo a Corpo, o padrão é de 1,5 metros, ou seja, adjacente. Algumas Armas e efeitos podem aumentar esse alcance.
 
 Para um Ataque à Distância, isso dependerá da fonte do Ataque. Certas Armas e Magias possuem um alcance maior ou menor do que outras.
 
@@ -68,7 +68,9 @@ Atacar múltiplas vezes seguidas diminui o seu Bônus de Acerto. Para cada Ataqu
 
 ## Ataques de Oportunidade
 
-Caso um inimigo esteja no alcance de seus Ataques Corpo-a-Corpo, e ele saia do alcance, você poderá executar um Ataque ao custo de uma Reação. Esse Ataque é chamado de Ataque de Oportunidade.
+Caso um inimigo esteja no alcance de seus Ataques Corpo a Corpo, e ele saia do alcance, você poderá executar um Ataque como uma Reação. Esse Ataque é chamado de Ataque de Oportunidade.
+
+Esse Ataque é uma exceção ao custo das Reações: um Ataque de Oportunidade não custa uma Ação do seu próximo Turno. Você só pode realizar um Ataque de Oportunidade por Rodada.
 
 ## Fórmula de Dano
 
@@ -76,17 +78,31 @@ Ao causar uma instância de dano, ela terá um componente aleatório e também u
 
 **Dano = XdY + BD**
 
-Onde X é a quantidade de dados, e Y, as faces dos dados. BD irá variar de acordo com a instância de dano, normalmente sendo o valor de um Atributo, acrescido de outros bônus menores que você ganha através de outras regras. Quando a fonte do dano indicar mais de um Atributo, você pode escolher um deles, caso estejam separados por "ou" (For ou Des), ou usar todos ao mesmo tempo, caso estejam separados por "+" (For + Des).
+Onde X é a quantidade de dados, e Y, as faces dos dados. BD irá variar de acordo com a instância de dano, normalmente sendo um Modificador, acrescido de outros bônus menores que você ganha através de outras regras.
+
+## Grau de Dano
+
+O dado de dano (XdY mencionado na seção anterior) será definido por graus. A média desses dados também será disponibilizada para consultas rápidas.
+
+| Grau de Dano | Dado de Dano | Média | Grau de Dano | Dado de Dano | Média |
+| ------------ | ------------ | ----- | ------------ | ------------ | ----- |
+| 1            | 1d4          | 2,5   | 6            | 2d6          | 7     |
+| 2            | 1d6          | 3,5   | 7            | 2d8          | 9     |
+| 3            | 1d8          | 4,5   | 8            | 2d10         | 11    |
+| 4            | 1d10         | 5,5   | 9            | 2d12         | 13    |
+| 5            | 1d12         | 6,5   | 10           | 3d10         | 16,5  |
+
+Dependendo da Arma ou Magia de Dano que você utilizar, o Grau de Dano variará. Um Grau de Dano só pode ir até o 10, e não pode passar disso. Caso um efeito proporcione um aumento permanente ou temporário do Grau de Dano, ele deve respeitar esse limite. Efeitos acima desse limite são desconsiderados.
 
 ## Ataques Críticos
 
-Caso você obtenha um Sucesso Crítico em um Ataque, ele será considerado um Ataque Crítico. Você adicionará dano de acordo com a sua Potência Crítica. O tipo de dano adicional será um dos tipos capazes de serem causados pelo seu Ataque.
+Caso você obtenha um Sucesso Crítico em um Ataque, ou um resultado natural dentro da sua Margem de Ameaça, ele será considerado um Ataque Crítico, e sempre acertará, independentemente da CA do alvo. Ao obter um Ataque Crítico, você pode escolher entre dobrar o dano causado, incluindo o BD, ou rolar os dados novamente e somar os dois resultados, adicionando o BD novamente. Você pode escolher após ver o resultado dos dados.
 
-**Potência Crítica**: para cada ponto na sua Potência Crítica, adicione 1d6 ao dano dos Ataques Críticos. Ela é calculada da seguinte maneira:
+## Margem de Ameaça
 
-**Potência Crítica = BP + Outros**
+Cada ponto na Margem de Ameaça reduz em 1 o resultado natural necessário para um Ataque ser um Ataque Crítico. Um resultado natural dentro da Margem de Ameaça sempre é um Ataque Crítico, e sempre acerta, independentemente da CA do alvo. Ela afeta apenas Ataques Críticos, e não os Sucessos Críticos de outros tipos de Teste.
 
-Outros são bônus ou penalidades vindos de efeitos raros.
+Por exemplo, com dois pontos na Margem de Ameaça, seus Ataques serão Ataques Críticos com o resultado natural de 18, 19 ou 20.
 
 ## Armas e Objetos Equipados
 
@@ -98,23 +114,23 @@ Caso uma criatura seja desarmada, ela perderá o acesso à sua Arma. A depender 
 
 ## Ataques Desarmados
 
-Os Ataques Desarmados causam, por padrão, 1d4 + For ou Des de Dano de Impacto (explicado no Capítulo 1.7 - Tipos de Dano). Você pode escolher se um Ataque Desarmado será não letal.
+Os Ataques Desarmados causam, por padrão, Dano de Grau 1 (1d4) + For ou Des de Dano de Impacto (explicado no Capítulo 1.7 - Tipos de Dano).
 
 ## Desviar
 
-Você pode tentar Desviar de um Ataque. Desviar requer que você encerre seu Turno, e custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -5 de BA até o início do seu próximo Turno.
+Você pode tentar Desviar de um Ataque. Desviar requer que você encerre seu Turno, e custa duas Ações. Fazendo isso, qualquer Ataque direcionado a você terá -3 de BA até o início do seu próximo Turno.
 
 ## Empurrar
 
-Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa por uma Salvaguarda de Força. Em caso de falha, é empurrada 1.5 metros de distância por ponto de Força que você tiver, até um máximo de 7.5 metros. Você gasta uma Ação para Empurrar. A CD da Salvaguarda é dada por "CD = 10 + For", ou seja, seu valor de Força impacta a dificuldade do Teste.
+Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa por uma Salvaguarda de Força. Em caso de falha, é empurrada 1,5 metros de distância por ponto no seu Modificador de Força. Você gasta uma Ação para Empurrar. A CD da Salvaguarda é dada por "CD = 10 + For", ou seja, seu Modificador de Força impacta a dificuldade do Teste.
 
 ## Arremessar
 
-Arremessar um item com o intuito de ferir uma criatura é um Ataque Físico à Distância. Você precisa superar a CA do alvo como em qualquer outro Ataque, utilizando seu valor de Destreza no BA. Itens arremessáveis contam como Armas à Distância para critérios de Proficiência. Ou seja, se você é Proficiente em Armas à Distância, adiciona seu BP ao BA de Ataques com eles.
+Arremessar um item com o intuito de ferir uma criatura é um Ataque Físico à Distância. Você precisa superar a CA do alvo como em qualquer outro Ataque, utilizando seu Modificador de Destreza no BA. Itens arremessáveis contam como Armas à Distância para critérios de Proficiência. Ou seja, se você é Proficiente em Armas à Distância, adiciona seu BP ao BA de Ataques com eles.
 
-O BD de um Ataque com um item arremessável é definido pelo próprio item. Por padrão, o dano é 1d4, sem BD.
+O BD de um Ataque com um item arremessável é definido pelo próprio item. Por padrão, o dano é de Grau 1 (1d4), sem BD.
 
-O alcance de um arremesso é de 1.5 metros por ponto de Força, com mínimo de 1.5 metros. Não é possível Arremessar um item além desse alcance.
+O alcance de um arremesso é de 1,5 metros para cada ponto no seu Modificador de Força ou no de Destreza, com mínimo de 1,5 metros. Não é possível Arremessar um item além desse alcance.
 
 Arremessar custa uma Ação, causando dano ou não.
 

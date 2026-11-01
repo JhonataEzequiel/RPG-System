@@ -1,4 +1,3 @@
-
 **RPG**: Role Playing Game, jogo de interpretação de papéis.
 
 **Campanha**: história contínua em um mundo de RPG.
@@ -7,290 +6,320 @@
 
 **Sessão**: momento em que se está jogando RPG.
 
-**Mestre**: pessoa que narra a aventura, conecta a trama, e controla os PDMs.
+**Mestre**: quem narra a aventura e controla os PDMs.
 
-**PDMs**: Personagens do Mestre. Personagens controlados pelo Mestre.
+**PDMs**: Personagens do Mestre.
 
-**Jogadores**: pessoas que controlam os PDJs.
+**Jogadores**: quem controla os PDJs.
 
-**PDJs**: Personagens dos Jogadores. Personagens controlados pelos jogadores.
+**PDJs**: Personagens dos Jogadores.
 
-**Grid**: malha de quadrados usada para marcar posições. Cada quadrado equivale a 1.5 metros.
+**Ficha de Personagem**: onde se anotam as características do personagem.
 
-**Regra de Arredondamento**: números quebrados são sempre arredondados para baixo.
+**Grid**: malha de quadrados de 1,5 metros para marcar posições.
+
+**Regra de Ouro**: uma regra só é boa se não atrapalhar a Mesa.
+
+**Regra de Arredondamento**: números quebrados são arredondados para baixo.
 
 **Efeito**: resultado mecânico produzido por uma regra.
 
 **Duração**: tempo que um efeito fica ativo.
 
-**PVs e PVs Atuais**: Pontos de Vida ou Pontos de Vida Atuais. Condicionamento físico.
+**PVs e PVs Atuais**: Pontos de Vida. Condição física.
 
-**PVs Máximos**: Pontos de Vida Máximos. Teto superior do condicionamento físico.
+**PVs Máximos**: teto dos PVs.
 
-**PVs Temporários**: Pontos de Vida Temporários. Incremento com duração limitada no condicionamento físico.
+**PVs Temporários**: PVs extras, com duração limitada.
 
-**Dano**: diminuição de PVs causada por qualquer fonte.
+**Dano**: perda de PVs.
 
-**Cura**: restauração de PVs causada por qualquer fonte.
+**Cura**: recuperação de PVs.
 
-**Morte Direta**: morte instantânea ao receber uma instância de dano maior ou igual ao dobro dos PVs Máximos.
+**Morte Direta**: morte instantânea por dano excessivo.
 
-**PMs**: Pontos de Mana ou Pontos de Mana Atuais. Condicionamento mental.
+**PMs**: Pontos de Mana. Condição mental.
 
-**PMs Máximos**: Pontos de Mana Máximos. Teto superior do condicionamento mental.
+**PMs Máximos**: teto dos PMs.
 
-**PMs Temporários**: Pontos de Mana Temporários. Incremento com duração limitada no condicionamento mental.
+**PMs Temporários**: PMs extras, com duração limitada.
 
-**Restauração de Mana**: restauração de PMs causada por qualquer fonte.
+**Restauração de Mana**: recuperação de PMs.
 
-**NV**: Nível. Acúmulo de Experiência. Medida de dificuldade.
+**NV**: Nível. Acúmulo de Experiência.
 
-**XP**: Experiência. Medida quantificável de vivência.
+**XP**: Experiência.
 
-**Atributo**: medida quantitativa de uma capacidade de agência no mundo.
+**Atributo**: capacidade básica de agência no mundo.
 
-**PAs**: Pontos de Atributo. Pontos utilizados para aumentar o valor de um Atributo.
+**PAs**: Pontos de Atributo.
 
-**LA**: Limite de Atributo. Valor máximo que um Atributo pode assumir em um determinado Nível.
+**LA**: Limite de Atributo. Teto de um Atributo em um dado Nível.
 
-**Con**: Constituição. Atributo que mede a resiliência física.
+**Con**: Constituição. Tenacidade física.
 
-**Sab**: Sabedoria. Atributo que mede o vigor mental e conhecimento adquirido.
+**Sab**: Sabedoria. Conhecimento e vigor mental.
 
-**For**: Força. Atributo que mede a força física.
+**For**: Força. Aptidão física.
 
-**Des**: Destreza. Atributo que mede a agilidade e reflexos.
+**Des**: Destreza. Agilidade e reflexos.
 
-**Arc**: Arcano. Atributo que mede o raciocínio lógico, memória, aprendizado teórico, e conexão com a magia arcana.
+**Arc**: Arcano. Raciocínio e magia arcana.
 
-**Vin**: Vínculo. Atributo que mede a conexão com o divino e oculto.
+**Vin**: Vínculo. Conexão com o divino e o oculto.
 
-**Car**: Carisma. Atributo que mede a inteligência interpessoal.
+**Car**: Carisma. Inteligência interpessoal.
 
-**Ação**: uma das três Ações que podem ser feitas em um Turno.
+**Modificador**: valor derivado de um Atributo, usado nas regras.
 
-**Ação Livre**: ação que não conta para o limite de três Ações por Turno.
+**Escolha de Modificador**: como ler "e" e "ou" entre Modificadores.
 
-**Reação**: ação que necessita que um critério seja cumprido para ser usada.
+**Ação**: esforço necessário para uma atividade. Três por Turno.
+
+**Ação Livre**: atividade de esforço mínimo, fora do limite de Ações.
+
+**Reação**: ação que exige um critério e só pode ser usada fora do seu Turno. Custa uma Ação do próximo Turno.
 
 **Movimentação**: capacidade de se mover pelo mundo.
 
-**Teste**: rolagem de d20 contra uma dificuldade pré-determinada.
+**Teste**: rolagem de d20 contra uma dificuldade.
 
-**CD**: Classe de Dificuldade. Número que indica a dificuldade de um Teste.
+**CD**: Classe de Dificuldade.
 
-**BP**: Bônus de Proficiência. Valor que indica sua proeza em uma atividade.
+**BP**: Bônus de Proficiência.
 
-**Proficiência**: se Proficiente em uma atividade, adicione seu BP ao BA dos Testes relacionados a ela.
+**Proficiência**: habilidade que permite somar o BP.
 
-**BA**: Bônus de Acerto. Valor adicionado ao resultado de um Teste.
+**BA**: Bônus de Acerto. Somado ao d20 em um Teste.
 
-**Sucesso Crítico**: resultado de um Teste igual ou superior à CD + 10.
+**Resultado Natural**: número do d20 antes dos bônus.
 
-**Falha Crítica**: resultado de um Teste igual ou inferior à CD - 10.
+**Sucesso Crítico**: 20 natural. Sucesso garantido.
 
-**Vantagem**: o Teste é rolado duas vezes, e o maior resultado é mantido.
+**Falha Crítica**: 1 natural. Falha garantida.
 
-**Desvantagem**: o Teste é rolado duas vezes, e o menor resultado é mantido.
+**Vantagem**: rola-se duas vezes, fica o maior.
 
-**Salvaguarda**: Teste para resistir ou evitar um efeito.
+**Desvantagem**: rola-se duas vezes, fica o menor.
 
-**Encontro**: momento em que os PDJs estão em combate.
+**Salvaguarda**: Teste para resistir a um efeito.
 
-**Aliado**: personagem que ajuda um PDJ em um Encontro.
+**Encontro**: combate envolvendo os PDJs.
 
-**Inimigo**: opositor direto a um PDJ em um Encontro.
+**Aliado**: quem luta ao seu lado.
 
-**Iniciativa**: determina a ordem em que cada um age em um Encontro.
+**Inimigo**: seu opositor direto.
 
-**Turno**: momento em que um personagem pode utilizar suas três Ações.
+**Iniciativa**: define a ordem dos Turnos.
 
-**Rodada**: soma dos Turnos de todos os personagens em um Encontro.
+**Turno**: momento em que um personagem age.
 
-**Magia**: desdobramento da realidade causado pela mente do usuário.
+**Rodada**: soma dos Turnos de todos os personagens.
 
-**Arcano Menor**: Magia de custo 0.
+**Limite de Ações**: três Ações por Turno.
 
-**Ataque**: tentativa de uma criatura de acertar outra através de um Teste.
+**Magia**: desdobramento da realidade causado pela mente.
 
-**CA**: Coeficiente de Armadura. Define a CD de um Ataque.
+**Ataque**: tentativa de acertar um alvo único e causar dano. Custa uma Ação.
 
-**Adjacência**: estar a até 1.5m de uma criatura.
+**CA**: Coeficiente de Armadura. CD para acertar um Ataque.
 
-**Ataque Mágico**: Ataque advindo de Magias de alvo único.
+**Adjacência**: estar a até 1,5 m de alguém.
 
-**Ataque Físico**: Ataque não advindo de Magias.
+**Ataque Mágico**: Ataque vindo de Magia de alvo único.
 
-**Ataque Corpo-a-Corpo**: o atacante faz contato direto com o alvo.
+**Ataque Físico**: Ataque feito com Arma física.
 
-**Ataque à Distância**: o atacante não faz contato direto com o alvo.
+**Ataque Corpo a Corpo**: Ataque com contato direto.
 
-**Penalidades de Ataque**: -5 de BA para cada Ataque além do primeiro no mesmo Turno.
+**Ataque à Distância**: Ataque com projétil.
 
-**Ataques de Oportunidade**: Reação que permite Atacar um inimigo que saia do seu alcance.
+**Magias em Área**: Magias de dano em área, que não são Ataques.
 
-**BD**: Bônus de Dano. Valor fixo somado aos dados em uma instância de dano.
+**Alcance de Ataques**: distância máxima de um Ataque.
 
-**Ataque Crítico**: Ataque que obteve Sucesso Crítico. Causa dano adicional de acordo com a Potência Crítica.
+**Penalidade de Ataques**: perda de BA ao atacar várias vezes.
 
-**Potência Crítica**: quantidade de d6 adicionados ao dano de um Ataque Crítico. Igual ao BP, mais outros bônus.
+**Ataques de Oportunidade**: Reação gratuita, uma por Rodada, contra quem sai do seu alcance.
 
-**Desarme**: perda do acesso de uma criatura à sua Arma.
+**BD**: Bônus de Dano.
 
-**Ataques Desarmados**: Ataques sem Arma. Causam 1d4 + For ou Des de Dano de Impacto.
+**Grau de Dano**: define o dado de dano, de 1 a 10.
 
-**Desviar**: custa duas Ações e encerra o Turno. Ataques contra você têm -5 de BA até seu próximo Turno.
+**Ataque Crítico**: Ataque com Sucesso Crítico ou resultado natural na Margem de Ameaça. Sempre acerta. Dano ampliado.
 
-**Empurrar**: Ação que empurra uma criatura adjacente que falhe em uma Salvaguarda de Força (CD = 10 + For).
+**Margem de Ameaça**: resultados naturais abaixo de 20 que também causam Ataque Crítico. Sempre acertam.
 
-**Arremessar**: Ação que lança um item como um Ataque Físico à Distância.
+**Desarme**: perda do acesso à Arma.
 
-**Área de Efeito**: região afetada por um efeito, definida por um Ponto de Origem e um formato.
+**Ataques Desarmados**: Ataques sem Arma.
 
-**Ponto de Origem**: local de onde uma Área de Efeito se propaga.
+**Desviar**: dificultar os Ataques contra você.
 
-**Cone**: Área de Efeito que se alarga a partir da origem.
+**Empurrar**: afastar uma criatura adjacente.
 
-**Cubo**: Área de Efeito cúbica, com a origem em uma de suas faces.
+**Arremessar**: lançar um item como Ataque.
 
-**Cilindro**: Área de Efeito circular com altura definida.
+**Área de Efeito**: região afetada por um efeito.
 
-**Linha**: Área de Efeito em linha reta a partir da origem.
+**Ponto de Origem**: de onde a Área de Efeito se propaga.
 
-**Esfera**: Área de Efeito que se estende em todas as direções a partir da origem.
+**Cone**: Área de Efeito que se alarga.
 
-**Dano Físico**: dano causado por objetos físicos. Inclui Dano Cortante, Perfurante, e de Impacto.
+**Cubo**: Área de Efeito cúbica.
 
-**Dano Cortante**: Dano Físico causado por lâminas e bordas afiadas.
+**Cilindro**: Área de Efeito circular com altura.
 
-**Dano Perfurante**: Dano Físico causado por objetos que perfuram.
+**Linha**: Área de Efeito reta.
 
-**Dano de Impacto**: Dano Físico causado por força direta e contundente.
+**Esfera**: Área de Efeito em todas as direções.
 
-**Dano Ácido**: dano causado por agentes corrosivos.
+**Dano Físico**: dano de objetos físicos.
 
-**Dano Venenoso**: dano interno causado por peçonhas e químicos.
+**Dano Cortante**: dano de lâminas.
 
-**Dano Mágico**: dano causado por efeitos mágicos.
+**Dano Perfurante**: dano de pontas.
+
+**Dano de Impacto**: dano de força contundente.
+
+**Dano Ácido**: dano corrosivo.
+
+**Dano Venenoso**: dano interno de peçonhas e químicos.
+
+**Dano Mágico**: dano de efeitos mágicos.
 
 **Dano Elemental**: Dano Ígneo, Elétrico, e Gélido.
 
-**Dano Ígneo**: Dano Mágico que representa o fogo.
+**Dano Ígneo**: dano de fogo.
 
-**Dano Elétrico**: Dano Mágico que representa a eletricidade.
+**Dano Elétrico**: dano de eletricidade.
 
-**Dano Gélido**: Dano Mágico que representa o gelo.
+**Dano Gélido**: dano de gelo.
 
-**Dano Luminoso**: Dano Mágico que representa a energia positiva e bondosa.
+**Dano Luminoso**: dano de energia positiva.
 
-**Dano Sombrio**: Dano Mágico que representa a energia negativa e maligna.
+**Dano Sombrio**: dano de energia negativa.
 
-**Dano Psíquico**: Dano Mágico que representa o dano mental.
+**Dano Psíquico**: dano mental.
 
-**Dano Sanguíneo**: Dano Mágico que manipula o sangue da criatura.
+**Dano Sanguíneo**: dano pela manipulação do sangue.
 
-**Fraqueza**: aumenta o dano recebido de um tipo pelo valor da Fraqueza.
+**Fraqueza**: aumenta o dano recebido de um tipo.
 
-**Resistência**: diminui o dano recebido de um tipo pelo valor da Resistência.
+**Resistência**: diminui o dano recebido de um tipo.
 
-**Imunidade**: impede ser afetado por um tipo de dano ou efeito.
+**Imunidade**: impede ser afetado.
 
-**Dano Contínuo**: dano aplicado de imediato e no início de cada Turno do alvo até a duração acabar.
+**Dano Contínuo**: dano que se repete a cada Turno.
 
-**Deslocamento**: distância, em metros, que uma criatura consegue andar em uma Rodada.
+**Deslocamento**: distância que se anda por Rodada.
 
 **Deslocamento Terrestre**: Deslocamento padrão.
 
-**Deslocamento Aéreo**: Deslocamento de quem voa. Concede +3 de CA contra Ataques Corpo-a-Corpo de atacantes que não estejam voando.
+**Deslocamento Aéreo**: Deslocamento de quem voa.
 
-**Deslocamento Aquático**: Deslocamento debaixo d'água. Igual ao Terrestre por padrão.
+**Deslocamento Aquático**: Deslocamento debaixo d'água.
 
-**Deslocamento Vertical**: Deslocamento ao escalar. Metade do Terrestre.
+**Deslocamento Vertical**: Deslocamento ao escalar.
 
-**Deslocamento Subterrâneo**: Deslocamento de quem cava o solo.
+**Deslocamento Subterrâneo**: Deslocamento de quem cava.
 
-**Terreno Difícil**: diminui pela metade o Deslocamento das criaturas afetadas.
+**Terreno Difícil**: reduz o Deslocamento pela metade.
 
-**Andar**: Ação Livre de se mover pelo seu Deslocamento.
+**Andar**: principal forma de Movimentação, gastando Deslocamento. Não custa Ação.
 
-**Correr**: custa duas Ações e dobra o Deslocamento.
+**Correr**: dobra o Deslocamento.
 
-**Desengajar**: custa três Ações, dobra o Deslocamento, e impede Ataques de Oportunidade contra você.
+**Desengajar**: dobra o Deslocamento e evita Ataques de Oportunidade.
 
-**Rastejar**: custa uma Ação e diminui o Deslocamento pela metade.
+**Esgueirar**: passar por um espaço de um Tamanho menor que o seu, com o Deslocamento reduzido pela metade.
 
-**Pular**: Ação Livre que move você (For + Des) × 1.5 metros, até 15 metros. A distância é descontada do Deslocamento.
+**Pular**: Movimentação de saltar, gastando Deslocamento. Não custa Ação.
 
-**Queda Livre**: quedas de até 5 metros não causam dano. Acima disso, 1d4 de Dano de Impacto a cada 3 metros além dos 5.
+**Queda Livre**: queda que pode causar dano de Impacto após os 5 primeiros metros.
 
-**Objeto**: entidade sem vontade, que não age nem reage por conta própria, em escala compatível com a interação dos personagens.
+**Objeto**: entidade sem vontade nem ação própria.
 
-**Acionamento Automático**: característica de Objetos que agem por conta própria, mas dependem de um gatilho.
+**Acionamento Automático**: Objeto que age quando um gatilho ocorre.
 
-**Escuridão**: quem não enxerga falha em Testes de visão e tem Desvantagem para acertar Ataques.
+**Escuridão**: iluminação que impede enxergar.
 
-**Penumbra**: -3 para acertar Ataques e -5 em Testes de visão.
+**Penumbra**: pouca iluminação que prejudica a visão.
 
-**Visão no Escuro**: ignora a Escuridão dentro de um Cone com origem em você. Também concede Visão na Penumbra.
+**Visão no Escuro**: ignora a Escuridão em um Cone.
 
-**Visão na Penumbra**: ignora a Penumbra dentro de um Cone com origem em você.
+**Visão na Penumbra**: ignora a Penumbra em um Cone.
 
-**Pontos de Atuação**: concedidos por boa interpretação. Gastos para ter Vantagem em um Teste.
+**Pontos de Atuação**: recompensa por boa interpretação. Dão Vantagem.
 
-**Descanso**: pausa de pelo menos uma hora, fora de combate. A cada hora, rola-se o Dado de Vida e o Dado de Mana para recuperar PVs e PMs.
+**Descanso**: pausa para recuperar PVs e PMs.
 
-**Condição**: estado que afeta uma criatura, concedendo benefícios ou impondo penalidades.
+**Dado de Vida**: dado definido na criação, de d4 a d12, rolado no Descanso para recuperar PVs.
 
-**Condição Negativa**: Condição que aplica um malefício a quem a possui.
+**Dado de Mana**: dado definido na criação, de d4 a d12, rolado no Descanso para recuperar PMs.
 
-**Agarrado**: Deslocamento reduzido a zero e apenas 2 Ações por Turno.
+**Condição**: estado que afeta uma criatura.
 
-**Amedrontado**: Desvantagem em Ataques e Deslocamento pela metade, apenas em relação à fonte do medo.
+**Condição Negativa**: Condição que prejudica quem a possui.
 
-**Atordoado**: incapaz de agir. Falha automaticamente em Salvaguardas de Força e Destreza.
+**Agarrado**: preso, sem se mover.
 
-**Caído**: só pode rastejar. Tem Desvantagem em Ataques, e Ataques contra ele têm Vantagem.
+**Amedrontado**: temeroso de uma fonte específica.
 
-**Cego**: falha em Testes de visão. Ataques contra ele têm Vantagem, e os seus, Desvantagem.
+**Caído**: no chão, vulnerável.
 
-**Encantado**: não pode realizar ações hostis contra quem o Encantou ou contra seus aliados.
+**Debilitado**: sem um ou mais sentidos.
 
-**Envenenado**: sofre Dano Venenoso Contínuo.
+**Encantado**: impedido de ser hostil a quem o Encantou.
 
-**Exausto**: Condição com Valor de Exaustão de 1 a 6, cujas penalidades são cumulativas.
+**Exausto**: cansaço acumulado, em seis Valores. Um Descanso de 8 horas reduz um Valor.
 
-**Valor de Exaustão**: aumenta em um a cada 24 horas sem Descanso, e diminui em um a cada Descanso. No valor 6, ocorre a morte.
+**Valor de Exaustão**: nível de cansaço da Condição Exausto.
 
-**Furtivo**: indetectável para quem não esteja tentando encontrá-lo. Seus Ataques contra alvos que não o notaram têm Vantagem.
+**Furtivo**: escondido, com Vantagem em Ataques.
 
-**Incapacitado**: não pode realizar Ações, Ações Livres, ou Reações. Deslocamento reduzido a zero.
+**Incapacitado**: sem poder agir.
 
-**Inconsciente**: Incapacitado, Caído, e sem ciência dos arredores. Ataques que o acertam causam dano crítico.
+**Invisível**: não pode ser visto.
 
-**Invisível**: Vantagem em Testes de Furtividade e não pode ser detectado pela visão. Ataques contra ele têm Desvantagem.
+**Morrendo**: com 0 PVs, incapacitado até ser estabilizado.
 
-**Morto**: a criatura se torna um Objeto, mas ainda pode ser ressuscitada.
+**Ferimentos Profundos**: sequelas de quem foi estabilizado.
 
-**Nocauteado**: PVs em 0. Incapacitado, Inconsciente e Caído até ser estabilizado com três instâncias de cura.
+**Morto**: sem vida. Vira um Objeto.
 
-**Paralisado**: Incapacitado, sem poder se mover ou falar. Ataques contra ele têm Vantagem e causam dano crítico.
+**Petrificado**: transformado em matéria inanimada.
 
-**Petrificado**: transformado em uma substância inanimada. Incapacitado, com peso x10 e Resistência 20 à maioria dos danos.
+**Tamanho**: classificação por dimensões e espaço ocupado.
 
-**Sangrando**: sofre Dano Sanguíneo Contínuo.
+**Minúsculo**: Tamanho de até 0,3 m.
 
-**Surdo**: não pode ouvir e falha em Testes de audição.
+**Pequeno**: Tamanho entre 0,3 m e 1,5 m.
 
-**Tamanho**: classificação de criaturas e Objetos pelas dimensões aproximadas, que também definem o espaço ocupado. No Grid, o mínimo é um quadradinho.
+**Médio**: Tamanho entre 1,5 m e 3 m.
 
-**Minúsculo**: Tamanho de até 0.3m.
+**Grande**: Tamanho entre 3 m e 4,5 m.
 
-**Pequeno**: Tamanho entre 0.3m e 1.5m.
+**Enorme**: Tamanho entre 4,5 m e 6 m.
 
-**Médio**: Tamanho entre 1.5m e 3m.
+**Colossal**: Tamanho a partir de 6 m.
 
-**Grande**: Tamanho entre 3m e 4.5m.
+**PHs**: Pontos de Habilidade.
 
-**Enorme**: Tamanho entre 4.5m e 6m.
+**Habilidade**: capacidade adquirida com PHs. Pertence a um Arquétipo.
 
-**Colossal**: Tamanho a partir de 6m.
+**Arquétipo**: grupo de Habilidades organizadas por tema.
+
+**Habilidade Passiva**: Habilidade ativada sem custar Ação, Ação Livre ou Reação.
+
+**Habilidade Ativa**: Habilidade que custa Ação, Ação Livre ou Reação.
+
+**Perícia**: competência básica atrelada a um Atributo.
+
+**Perito**: quem é Proficiente em uma Perícia.
+
+**Percepção Passiva**: o que você percebe sem tentar.
+
+**Pontos de Origem**: pontos gastos na criação do personagem.
+
+**Limitação Inicial**: retirar pontos de Atributos na criação para usá-los depois.

@@ -1,5 +1,5 @@
 
-O Arquétipo do Patrulheiro é o caçador das florestas. Ele é especialista em observar seus arredores. Normalmente, utiliza-se de Ataques a Distância para abater seus alvos, portanto Habilidades que beneficiem exclusivamente esse tipo de ofensiva estarão aqui.
+O Arquétipo do Caçador representa o patrulheiro das florestas. Ele é especialista em observar seus arredores. Normalmente, utiliza-se de Ataques a Distância para abater seus alvos, portanto Habilidades que beneficiem exclusivamente esse tipo de ofensiva estarão aqui.
 
 ## Presa Ato I (Custo 1)
 

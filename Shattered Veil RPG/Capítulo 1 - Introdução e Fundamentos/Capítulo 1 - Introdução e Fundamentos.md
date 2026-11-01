@@ -1,4 +1,3 @@
-
 ## Bem-vindos ao Guia do Jogador do Shattered Veil!
 
 No capítulo inicial deste livro serão explicados conceitos básicos para jogadores iniciantes em jogos de interpretação de papéis (RPG), assim como toda a motivação por trás da criação deste sistema em específico.
@@ -11,7 +10,7 @@ RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de pap�
 
 **Mestre**: O Mestre é a pessoa que irá narrar a aventura. Ele será responsável por conectar a trama e dizer o resultado das decisões dos jogadores. Sempre que uma determinada ação tomada por um personagem do jogador acontecer, o Mestre a descreverá, assim como suas consequências. Ele também é responsável pela história de fundo, e por outros personagens não controlados pelos jogadores, os Personagens do Mestre (PDMs).
 
-**Jogadores**: Os jogadores serão os responsáveis por controlar os protagonistas da história. Eles criarão personagens neste novo mundo, e irão interagir com todo o cenário criado e interpretado pelo mestre. Esses personagens são chamados de Personagens dos Jogadores (PDJs). As ações dos PDJs impactam diretamente o andar da carruagem, podendo afetar planos futuros do Mestre ou mudar completamente a ideia inicial da Campanha. Ou os jogadores podem apenas se divertir no mundo que o Mestre trouxe à tona.
+**Jogadores**: Os jogadores serão os responsáveis por controlar os protagonistas da história. Eles criarão personagens neste novo mundo, e irão interagir com todo o cenário criado e interpretado pelo Mestre. Esses personagens são chamados de Personagens dos Jogadores (PDJs). As ações dos PDJs impactam diretamente o andar da carruagem, podendo afetar planos futuros do Mestre ou mudar completamente a ideia inicial da Campanha. Ou os jogadores podem apenas se divertir no mundo que o Mestre trouxe à tona.
 
 **Dados**: Um conjunto de dados típicos utilizados para jogar RPG é composto por um dado de quatro lados (1d4), um dado comum de seis lados (1d6), um de oito lados (1d8), um de dez lados (1d10), um de doze lados (1d12), um de vinte lados (1d20) e, às vezes, um de cem lados (1d100). Você precisará ter um conjunto desses em mãos, ou pelo menos ter acesso a algum meio digital para rolar estes dados, como um aplicativo ou um site em específico.
 
@@ -19,7 +18,7 @@ RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de pap�
 
 **Ficha de Personagem**: É aconselhável que você anote as características básicas do seu personagem. Um modelo de Ficha é disponibilizado neste livro, mas você pode utilizar outro, ou montar o seu próprio se assim desejar.
 
-**Recursos do Mestre**: O Mestre pode fazer uso de alguns outros recursos que podem auxiliar na narração. Dentre eles, o Escudo do Mestre, as Miniaturas, e o Grid de batalha se destacam. O Escudo é uma proteção que fica a frente do Mestre na mesa e impede que os jogadores vejam o que o mestre está planejando. As miniaturas são bonecos que representam os personagens dos jogadores e os PDMs. O Grid pode ser qualquer coisa marcada com pequenos quadrados de 2.5 centímetros de lado. Cada quadradinho normalmente equivale a 1.5 metros no mundo do jogo.
+**Recursos do Mestre**: O Mestre pode fazer uso de alguns outros recursos que podem auxiliar na narração. Dentre eles, o Escudo do Mestre, as Miniaturas, e o Grid de batalha se destacam. O Escudo é uma proteção que fica à frente do Mestre na Mesa e impede que os jogadores vejam o que o Mestre está planejando. As miniaturas são bonecos que representam os personagens dos jogadores e os PDMs. O Grid pode ser qualquer coisa marcada com pequenos quadrados de 2,5 centímetros de lado. Cada quadradinho normalmente equivale a 1,5 metros no mundo do jogo.
 
 ### Qual a Motivação Para o Shattered Veil Existir?
 
@@ -44,7 +43,7 @@ O livro será subdividido em capítulos. Cada capítulo tratará de algum aspect
 
 ### Nomenclatura Básica
 
-O sistema fará uso de certos termos-chave. Tais termos serão acompanhados de suas siglas ou forma resumida em parêntesis na primeira vez que forem mencionados nas regras. Isso evita que um mesmo termo seja repetido por extenso diversas vezes, tornando a leitura mais fluída.
+O sistema fará uso de certos termos-chave. Tais termos serão acompanhados de suas siglas ou forma resumida entre parênteses na primeira vez que forem mencionados nas regras. Isso evita que um mesmo termo seja repetido por extenso diversas vezes, tornando a leitura mais fluida.
 
 Você já viu um exemplo antes, quando os PDMs (Personagens do Mestre) e os PDJs (Personagens dos Jogadores) foram mencionados na seção "O Que É Necessário Para Jogar Este Jogo?". Um termo estará no plural quando for acompanhado de um "s" minúsculo no final. Por exemplo, PDM é Personagem do Mestre, enquanto PDMs são Personagens do Mestre.
 

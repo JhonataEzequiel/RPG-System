@@ -1,15 +1,12 @@
-
 Criaturas e Objetos variam em Tamanho. As dimensões aproximadas se referem tanto à altura quanto à largura, mas podem ser diferentes entre si, como uma parede que é maior verticalmente do que horizontalmente. Neste caso, o maior valor entre largura e altura é considerado para sua classificação.
 
-As dimensões aproximadas também definem o espaço ocupado. Ao usar um Grid, o mínimo de espaço ocupado é um quadradinho.
+O Tamanho também define o espaço que uma criatura ocupa em combate, ou seja, a área que ela controla efetivamente, e não necessariamente as suas dimensões físicas. Ao usar um Grid, a tabela abaixo indica quantos quadradinhos cada Tamanho ocupa. Quatro criaturas Minúsculas podem dividir um mesmo quadradinho.
 
-O peso pode variar bastante, não dependendo necessariamente da altura. No entanto, o peso deve permanecer dentro da faixa do Tamanho, salvo exceções explicitamente descritas. Em geral, é possível que o peso tenha interseções entre Tamanhos. O principal a se considerar são as dimensões aproximadas.
-
-|Tamanho|Dimensões Aproximadas|Peso Aproximado|
+|Tamanho|Dimensões Aproximadas|Espaço no Grid|
 |---|---|---|
-|Minúsculo|menor ou igual a 0.3m|menor ou igual a 1 kg|
-|Pequeno|maior que 0.3m, menor que 1.5m|maior que 1 kg, menor que 45 kg|
-|Médio|maior ou igual a 1.5m, menor que 3m|maior ou igual a 45 kg, menor que 200 kg|
-|Grande|maior ou igual a 3m, menor que 4.5m|maior ou igual a 100 kg, menor que 900 kg|
-|Enorme|maior ou igual a 4.5m, menor que 6m|maior ou igual a 200 kg, menor que 6000 kg|
-|Colossal|maior ou igual a 6m|maior ou igual a 300 kg|
+|Minúsculo|menor ou igual a 0,3 m|1/4 de quadrado (0,75 m x 0,75 m)|
+|Pequeno|maior que 0,3 m, menor que 1,5 m|1 quadrado (1 x 1)|
+|Médio|maior ou igual a 1,5 m, menor que 3 m|1 quadrado (1 x 1)|
+|Grande|maior ou igual a 3 m, menor que 4,5 m|4 quadrados (2 x 2)|
+|Enorme|maior ou igual a 4,5 m, menor que 6 m|9 quadrados (3 x 3)|
+|Colossal|maior ou igual a 6 m|16 quadrados (4 x 4) ou mais
