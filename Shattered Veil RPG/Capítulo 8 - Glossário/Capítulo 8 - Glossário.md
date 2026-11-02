@@ -82,6 +82,8 @@
 
 **Movimentação**: capacidade de se mover pelo mundo.
 
+**Grau de Dado (Grau)**: define o dado rolado por uma regra, como dano e cura, de 1 (1d4) a 10 (3d10).
+
 **Teste**: rolagem de d20 contra uma dificuldade.
 
 **CD**: Classe de Dificuldade.
@@ -138,13 +140,11 @@
 
 **Alcance de Ataques**: distância máxima de um Ataque.
 
-**Penalidade de Ataques**: perda de BA ao atacar várias vezes.
+**Penalidade de Ataques**: perda cumulativa de BA ao atacar várias vezes, de -5 por Ataque além do primeiro.
 
 **Ataques de Oportunidade**: Reação gratuita, uma por Rodada, contra quem sai do seu alcance.
 
 **BD**: Bônus de Dano.
-
-**Grau de Dano**: define o dado de dano, de 1 a 10.
 
 **Ataque Crítico**: Ataque com Sucesso Crítico ou resultado natural na Margem de Ameaça. Sempre acerta. Dano ampliado.
 
@@ -336,9 +336,9 @@
 
 **Limitação Inicial**: retirar pontos de Atributos na criação para usá-los depois.
 
-**Dado de Vida**: dado definido na criação, de d4 a d12. Define os PVs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PVs.
+**Dado de Vida**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Define os PVs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PVs.
 
-**Dado de Mana**: dado definido na criação, de d4 a d12. Define os PMs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PMs.
+**Dado de Mana**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Define os PMs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PMs.
 
 **Pontos de Origem**: pontos gastos na criação do personagem.
 
@@ -351,3 +351,7 @@
 **Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Erudição.
 
 **Idioma Comum**: Idioma falado por todos e compreendido pela maioria dos habitantes.
+
+**Raça**: origem do personagem, que define seu Deslocamento, Tamanho, Habilidades de Raça e Idiomas naturais.
+
+**Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita e não segue regras de limite.

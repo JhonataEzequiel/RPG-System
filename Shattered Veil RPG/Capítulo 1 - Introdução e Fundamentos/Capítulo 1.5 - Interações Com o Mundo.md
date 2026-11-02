@@ -22,6 +22,20 @@ Você poderá se mover pelo mundo. As regras de movimentação têm um capítulo
 
 Na maioria das vezes que você quiser fazer algo será necessário rolar dados. O resultado de uma rolagem de dados determina o quão bem-sucedida foi a sua tentativa. Existem diversas maneiras diferentes de se usar os dados. Além disso, qual dado deverá ser usado pode variar de acordo com o que se deseja fazer.
 
+## Grau de Dado (Grau)
+
+Muitas regras pedem a rolagem de dados, como as de dano e cura, e o dado a ser rolado é definido por um Grau de Dado (Grau). Por exemplo, uma Arma pode causar dano de Grau 3, e uma Magia de cura pode curar Grau 2. A média desses dados também será disponibilizada para consultas rápidas.
+
+|Grau|Dado|Média|Grau|Dado|Média|
+|---|---|---|---|---|---|
+|1|1d4|2,5|6|2d6|7|
+|2|1d6|3,5|7|2d8|9|
+|3|1d8|4,5|8|2d10|11|
+|4|1d10|5,5|9|2d12|13|
+|5|1d12|6,5|10|3d10|16,5|
+
+Um Grau só pode ir até o 10, e não pode passar disso. Caso um efeito proporcione um aumento permanente ou temporário do Grau, ele deve respeitar esse limite. Efeitos acima desse limite são desconsiderados.
+
 ## Testes
 
 Um Teste é uma rolagem de um d20. Esse Teste terá uma dificuldade que precisará ser superada, representada por um número. Ao rolar o d20 e tirar um resultado igual ou superior ao número que indica a dificuldade do Teste, você é bem-sucedido. Você falha ao tirar um resultado inferior ao requerido pela dificuldade do Teste. A dificuldade de um Teste é chamada de Classe de Dificuldade (CD).

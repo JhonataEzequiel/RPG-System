@@ -14,17 +14,17 @@ Você pode optar por tirar Pontos de Atributo de um ou mais Atributos, deixando-
 
 ## Dado de Vida e Dado de Mana
 
-Você terá acesso a um Dado de Vida e um de Mana. Eles servirão para ditar como seus PVs Máximos e PMs Máximos serão determinados, além dos PVs e PMs recuperados por cada hora de Descanso. Ambos possuirão cinco possíveis graus:
+Você terá acesso a um Dado de Vida e um de Mana. Eles servirão para ditar como seus PVs Máximos e PMs Máximos serão determinados, além dos PVs e PMs recuperados por cada hora de Descanso. Ambos possuirão cinco possíveis Graus (veja o Capítulo 1.5 - Interações Com o Mundo):
 
-|Grau do Dado (Vida ou Mana)|Média|
-|---|---|
-|1d4|2.5|
-|1d6|3.5|
-|1d8|4.5|
-|1d10|5.5|
-|1d12|6.5|
+|Grau|Dado|Média|
+|---|---|---|
+|1|1d4|2,5|
+|2|1d6|3,5|
+|3|1d8|4,5|
+|4|1d10|5,5|
+|5|1d12|6,5|
 
-Você inicia no primeiro grau em ambos, e pode aumentá-los de acordo com as regras da seção "Origem", que estará mais a frente neste capítulo.
+Você inicia no Grau 1 em ambos, e pode aumentá-los de acordo com as regras da seção "Origem", que estará mais a frente neste capítulo.
 
 ## Proficiências
 
@@ -36,9 +36,9 @@ Você terá 2 PHs para escolher qualquer Habilidade do Capítulo 5 - Habilidades
 
 ## Origem
 
-Você fará algumas escolhas atreladas à origem de seu personagem. No total serão 7 Pontos de Origem que você poderá gastar. Dentre as opções de gasto estão: aumentar o grau dos seus Dados de Vida ou do de Mana, adquirir novas Proficiências, e obter PHs adicionais.
+Você fará algumas escolhas atreladas à origem de seu personagem. No total serão 7 Pontos de Origem que você poderá gastar. Dentre as opções de gasto estão: aumentar o Grau dos seus Dados de Vida ou do de Mana, adquirir novas Proficiências, e obter PHs adicionais.
 
-Ao subir um grau de qualquer um dos dois dados, você gasta um Ponto de Origem. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Por fim, você também pode trocar Pontos de Origem por Pontos de Habilidade, na proporção de 1 para 1, e adquirir novas Habilidades com eles. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar.
+Cada Ponto de Origem gasto aumenta em um o Grau de um dos dois dados, até o máximo de Grau 5. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Por fim, você também pode trocar Pontos de Origem por Pontos de Habilidade, na proporção de 1 para 1, e adquirir novas Habilidades com eles. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar.
 
 ## PVs e PMs Máximos
 

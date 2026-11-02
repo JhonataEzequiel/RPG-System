@@ -64,7 +64,7 @@ Para um Ataque à Distância, isso dependerá da fonte do Ataque. Certas Armas e
 
 ## Penalidade de Ataques
 
-Atacar múltiplas vezes seguidas diminui o seu Bônus de Acerto. Para cada Ataque no mesmo Turno além do primeiro, você tem -5 no seu BA.
+Atacar múltiplas vezes seguidas diminui o seu Bônus de Acerto. Cada Ataque no mesmo Turno além do primeiro adiciona uma penalidade de -5 no BA, e elas se acumulam. Por exemplo, o segundo Ataque tem -5 no BA, e o terceiro tem -10, pois a segunda penalidade soma com a primeira.
 
 ## Ataques de Oportunidade
 
@@ -74,25 +74,11 @@ Esse Ataque é uma exceção ao custo das Reações: um Ataque de Oportunidade n
 
 ## Fórmula de Dano
 
-Ao causar uma instância de dano, ela terá um componente aleatório e também um bônus. Esse bônus é chamado de Bônus de Dano (BD). O componente aleatório é um ou mais dados de faces variadas. O BD é um número fixo, não variável. A fórmula para uma instância de dano é a seguinte:
+Ao causar uma instância de dano, ela terá um componente aleatório e também um bônus. Esse bônus é chamado de Bônus de Dano (BD). O componente aleatório é o dado de dano, definido por um Grau de Dado (veja o Capítulo 1.5 - Interações Com o Mundo). O BD é um número fixo, não variável. A fórmula para uma instância de dano é a seguinte:
 
-**Dano = XdY + BD**
+**Dano = Grau + BD**
 
-Onde X é a quantidade de dados, e Y, as faces dos dados. BD irá variar de acordo com a instância de dano, normalmente sendo um Modificador, acrescido de outros bônus menores que você ganha através de outras regras.
-
-## Grau de Dano
-
-O dado de dano (XdY mencionado na seção anterior) será definido por graus. A média desses dados também será disponibilizada para consultas rápidas.
-
-| Grau de Dano | Dado de Dano | Média | Grau de Dano | Dado de Dano | Média |
-| ------------ | ------------ | ----- | ------------ | ------------ | ----- |
-| 1            | 1d4          | 2,5   | 6            | 2d6          | 7     |
-| 2            | 1d6          | 3,5   | 7            | 2d8          | 9     |
-| 3            | 1d8          | 4,5   | 8            | 2d10         | 11    |
-| 4            | 1d10         | 5,5   | 9            | 2d12         | 13    |
-| 5            | 1d12         | 6,5   | 10           | 3d10         | 16,5  |
-
-Dependendo da Arma ou Magia de Dano que você utilizar, o Grau de Dano variará. Um Grau de Dano só pode ir até o 10, e não pode passar disso. Caso um efeito proporcione um aumento permanente ou temporário do Grau de Dano, ele deve respeitar esse limite. Efeitos acima desse limite são desconsiderados.
+Onde Grau é o dado correspondente ao Grau do dano. Dependendo da Arma ou Magia de Dano que você utilizar, o Grau variará. BD irá variar de acordo com a instância de dano, normalmente sendo um Modificador, acrescido de outros bônus menores que você ganha através de outras regras.
 
 ## Ataques Críticos
 
