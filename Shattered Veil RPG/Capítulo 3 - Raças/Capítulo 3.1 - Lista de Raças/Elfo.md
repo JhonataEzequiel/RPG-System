@@ -1,13 +1,12 @@
-
 ## Alto Elfo
 
-Como Alto Elfo você terá facilidade em aprender sobre temas diversos.
+Como Alto Elfo você terá facilidade em aprender sobre temas diversos. Você faz parte de uma raça culta que é capaz de se adaptar através da maestria em aprendizagem, seja teórica ou prática. O seus Descansos também são mais relaxantes do que o normal, refletindo sua natureza serena.
 
 ### Habilidades de Raça
 
-**Adaptação Élfica** (Reação): Uma vez por Descanso Longo você pode adicionar qualquer Atributo, à sua escolha, como dano em um Ataque ou Magia, ou como cura em uma Poção de Restauração ou Magia de cura.
+**Adaptação Élfica** (Passiva): você aprende com seus erros. Ao falhar em um Teste, seu próximo Teste tem um aumento de BA igual a metade do seu BP.
 
-**Descanso Élfico** (Passiva): Você recupera toda a sua Mana ao ter um Descanso Curto.
+**Descanso Élfico** (Passiva): seus Dados de Vida e Mana aumentam em um Grau, mas apenas para a recuperação em um Descanso. Esse Grau aumentado pode ultrapassar o Grau 5.
 
 ## Elfo da Floresta
 
@@ -15,16 +14,18 @@ Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, n
 
 ### Habilidades de Raça
 
-**Visão de Caçador** (Passiva): A visão de um Elfo da Floresta possui diversas habilidades passivas. Dentre elas, ele tem Visão no Escuro num raio de 27m. Normalmente a visão deles permite encontrar pontos cegos no inimigo, chegar até uma posição avantajada antes de um combate, ou identificar alvos a distancia. Essa capacidade é refletida na seguinte escolha: você pode escolher, ao início de um Encontro, se você será o primeiro na Iniciativa, ou se terá +2 no seu Bônus de Proficiência.
+**Visão de Caçador** (Passiva): você tem Visão no Escuro num alcance de 27m.
 
-**Bem no Alvo** (Passiva): Uma vez por Descanso Longo também são capazes de escolher passar em um Teste de alguma Perícia que sejam Peritos, se falharem.
+**Olheiro** (Passiva): você analisa o local ao seu redor antes de começar um Encontro, estando um passo a frente de seus inimigos e aliados. Sua Iniciativa é dobrada no próximo Encontro após um Descanso.
+
+**Bem no Alvo** (Passiva): seus Ataques Críticos adicionam seu BP ao seu BD. Esse bônus adicional não é dobrado.
 
 ## Elfo Negro
 
-Os Elfos Negros possuem tonalidades de pele mais acinzentadas ou levemente roxas, além de possuírem uma estatura um pouco superior aos Elfos da Floresta, mas inferior aos Altos Elfos, em média. Elfos Negros tem o movimento melhorado em relação às outras raças, possuindo um Deslocamento igual a 12m por padrão. Além disso, possuem Habilidades que vão desbloqueando conforme o Nível deles aumenta, todas elas relacionadas a movimento.
+Os Elfos Negros possuem tonalidades de pele mais acinzentadas ou levemente roxas, além de possuírem uma estatura um pouco superior aos Elfos da Floresta, mas inferior aos Altos Elfos, em média. Elfos Negros tem o movimento melhorado em relação às outras raças.
 
 ### Habilidades de Raça
 
-**Velocidade Aumentada** (Ação Bônus): A partir do Nível 1 você pode dobrar seu Deslocamento por um Encontro com uma Ação Bônus, mas só pode utilizar uma vez até ter um Descanso Longo. No Nível 10, pode usar 2 vezes por Descanso Longo. No Nível 15 em diante essa Habilidade vira uma Passiva, e não custa mais uma Ação Bônus, estando sempre ativa.
+**Velocidade Aumentada** (Passiva): seu Deslocamento base é de 12 metros.
 
-**Teletransporte Curto** (Ação Bônus): No Nível 5 você pode se teletransportar para uma distância igual ao seu Deslocamento uma vez até ter um Descanso Longo. No Nível 14, pode usar essa Habilidade 2 vezes.
+**Teletransporte Curto** (Ação, 4 de Mana): você pode se teletransportar para uma distância igual ao seu Deslocamento. A distância percorrida com o teletransporte não conta para o seu Deslocamento.

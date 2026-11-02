@@ -1,10 +1,19 @@
+Comumente chamados de "Homens-Gato", os Cait-Sith são uma Raça de felinos humanoides de aparência diversa. Alguns se parecem mais com tigres ou linces, outros com gatos domésticos.
 
-Comumente chamados de "Homens-Gato", os Cait-Sith são uma raça de felinos humanoides de aparência diversa. Alguns se parecem mais com tigres ou linces, outros com gatos domésticos. Eles são capazes de se alimentar da energia vital de criaturas.
+Tudo é feito de energia, em um grau maior ou menor. Quando um corpo qualquer sofre dano, essa energia se dispersa, enfraquecendo-o e destruindo-o. O Cait-Sith é capaz de sugar essa energia para si antes que ocorra essa dispersão.
 
 ### Habilidades de Raça
 
-**Queda de Gato** (Passiva): Você recebe metade do dano ocasionado por Queda Livre.
+**Queda de Gato** (Passiva): você recebe metade da instância de dano ocasionada por Queda Livre.
 
-**Sugador de Essências** (Uma Ação, 1 de Mana): Você realiza um Ataque à Distância contra uma criatura alvo que você possa ver num raio de 48m. Você suga a energia vital da criatura, que vem até você e é absorvida. Você utiliza o Modificador de um Atributo à sua escolha como bônus, além de seu Bônus de Proficiência para acertar. O dano inicial é de 2d12 + Modificador escolhido, o tipo de dano é Sombrio, e aumenta em 2d12 nos Níveis 5, 10, e 15. Você se cura em metade do dano causado. Esta Habilidade não conta para Penalidades de Ataque, nem sofre com seus efeitos. Você pode usar esta Habilidade uma vez por Turno.
+**Roubo de Vida** (Passiva | Limite de Usos: uma vez por Turno): ao causar uma instância de dano a um inimigo, com exceção de Dano Contínuo, você recebe uma recuperação de PVs cujo valor depende do seu Nível, de acordo com a tabela abaixo. Ela conta como uma instância de cura.
 
-**Garras Felinas** (Passiva): Você adquire a Habilidade de Pugilista (Batedor) "Mãos Cortantes" de Custo 1.
+|Nível|Grau|Dado|
+|---|---|---|
+|1-4|-|1 PV|
+|5-8|1|1d4|
+|9-12|2|1d6|
+|13-16|4|1d10|
+|17-20|5|1d12|
+
+**Garras Felinas** (Passiva): você pode escolher causar Dano Cortante, em vez de Dano de Impacto, com cada Ataque Desarmado.

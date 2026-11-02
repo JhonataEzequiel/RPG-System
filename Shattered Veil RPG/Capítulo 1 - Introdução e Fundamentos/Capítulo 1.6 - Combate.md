@@ -4,6 +4,8 @@ Batalhas acontecerão o tempo todo, e podem se desenrolar de várias maneiras di
 
 Um Encontro é definido por qualquer envolvimento dos PDJs de maneira conflituosa com PDMs ou com eles mesmos, em que se inicia um combate.
 
+Um Encontro é finalizado quando a situação conflituosa com combate se encerra.
+
 Um Encontro é equivalente a 10 minutos no mundo do jogo. Então, caso um efeito tenha como duração um Encontro e seja iniciado fora de combate, ele durará 10 minutos.
 
 ## Aliados e Inimigos

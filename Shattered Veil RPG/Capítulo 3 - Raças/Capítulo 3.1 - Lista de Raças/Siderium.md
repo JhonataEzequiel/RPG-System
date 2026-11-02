@@ -1,24 +1,29 @@
 
-Os Siderium são parentes distantes dos Elfos, que compartilham de uma origem em comum, vindos das estrelas. Medem entre 1.5m e 1.6m de altura. Existem 2 tipos de Siderium, os Nocturnus e os Diurnus.
+Os Sideria são Elfos que vieram do espaço a muito tempo atrás. Eles refletem sua ancestralidade espacial através de sua aparência. Existem 2 tipos de Sideria, os Noturnos e os Diurnos. O singular é Siderium, e o plural é Sideria.
 
-## Diurnus
+## Diurnos
 
-Os Diurnus possuem pele branca ou amarelada e cabelos que refletem um céu noturno, como se fosse possível ver o espaço sideral através deles. Eles recebem e convertem a energia das luzes, e a utilizam para ficar mais fortes.
-
-### Habilidades de Raça
-
-**Helius** (Ação Bônus): Caso fique 8 horas em contato direto com luz solar, ou uma fonte de luz potente (pelo menos uma fogueira) em um momento anterior ao uso desta Habilidade, você receberá os benefícios de um Descanso Longo sem precisar descansar. Só pode usar essa Habilidade uma vez até se energizar de novo.
-
-**Requerimento Luminoso** (Passiva): Ao usar a Habilidade "Helius" em um Encontro, você receberá 1d4 de Dano Verdadeiro Contínuo até o Encontro acabar. Caso utilize fora de combate, você terá Exaustão 1. Caso utilize o Helius em batalha, e a batalha acabe com você ainda vivo, você também terá o efeito de Exaustão.
-
-**Minerva** (Passiva): Os Siderium Diurnus tem um bônus de +2 em Testes de Sabedoria.
-
-## Nocturnus
-
-Os Nocturnus refletem o céu noturno através de sua pele, possuindo olhos azuis ou dourados sem pupila. Seus cabelos são totalmente brancos ou amarelos.
+Os Diurnos possuem pele branca ou amarelada, emitindo um leve brilho, e cabelos que refletem um céu noturno, como se fosse possível ver o espaço sideral através deles. Eles recebem e convertem a energia das luzes, e a utilizam para ficar mais fortes.
 
 ### Habilidades de Raça
 
-**Luna** (Uma Ação, 5 de Mana): A Luna de um Nocturnus é uma característica intrínseca presente na alma deles. É possível se concentrar e acessar essa parte da alma, assim entendendo a si mesmos de maneira mais profunda, e tomando decisões mais acertadas. Você escolhe um dos efeitos abaixo para sua Luna. Você terá que utilizar sua Luna novamente caso queira o outro efeito. Os efeitos da Luna duram 1 Encontro.
-- **Foco Aprimorado**: Você se torna proficiente em todas as Salvaguardas. Nas Salvaguardas que você já for proficiente, você dobrará o Bônus de Proficiência.
-- **Ofensiva Direcionada**: Sempre que você fizer um alvo passar por um Teste de Resistência, adicione seu Bônus de Proficiência a CD do Teste.
+**Descanso Profundo** (Ação): ao ter um Descanso, você guarda parte dos efeitos dele. Ao custo de uma Ação, você ganha os efeitos de um Descanso de uma hora instantaneamente. Esse efeito pode ser usado novamente após ter um Descanso.
+
+**Minerva** (Passiva): Os Sideria Diurnos tem um bônus de +2 em Testes de Sabedoria.
+
+## Noturnos
+
+Os Noturnos refletem o céu noturno através de sua pele, que tem uma coloração mais escura, possuindo olhos azuis ou dourados sem pupila. Seus cabelos são totalmente brancos ou amarelos.
+
+### Habilidades de Raça
+
+**Contemplar as Estrelas** (Passiva): ao ter um Descanso, você rola 1d4, e recebe um dos efeitos a seguir, a depender do resultado:
+
+| Resultado | Efeito                                 |
+| --------- | -------------------------------------- |
+| 1         | Adicione Sab + BP a recuperação de PMs |
+| 2         | Adicione Con + BP a recuperação de PVs |
+| 3         | Adicione Con + BP como PVs Temporários |
+| 4         | Adicione Sab + BP como PMs Temporários |
+
+Você adiciona 3 aos efeitos ao invés dos Modificadores, caso eles sejam inferiores a 3.

@@ -27,12 +27,14 @@ Segue uma lista com todas as Perícias, e a qual Atributo estão atreladas:
 
 ## Destreza
 
-1. **Subterfúgio**: usada quando você deseja se livrar de uma armadilha sem ativá-la, quando deseja roubar alguém, ou realizar um movimento complicado com o corpo, como pular de um local perigoso para outro. Você pode realizar Testes de Subterfúgio para se esconder, ganhando a Condição Furtivo. Você não pode estar sendo visto pela criatura à qual deseja se esconder antes de realizar o Teste de Subterfúgio. Para realizar um Teste de Subterfúgio com esse intuito é necessária uma Ação.
+1. **Ladroagem**: reúne tudo aquilo que é típico de um ladrão. É usada quando você deseja furtar algo de alguém, se livrar de uma armadilha sem ativá-la, ou realizar um movimento complicado com o corpo, como pular de um local perigoso para outro.
+2. **Furtividade**: determina a sua capacidade de se esconder. Você pode realizar Testes de Furtividade para se esconder, ganhando a Condição Furtivo. Você não pode estar sendo visto pela criatura à qual deseja se esconder antes de realizar o Teste de Furtividade. Para realizar um Teste de Furtividade é necessária uma Ação.
 
 ## Arcano
 
-1. **Erudição**: determina sua capacidade de conhecer e interpretar fenômenos mágicos. Você também poderá desvendar com maior maestria um Idioma que não conhece. Além disso, caso seja Perito em Erudição, você conhece um Idioma adicional para cada ponto no seu Modificador de Arcano, além dos que já conhece pela sua Raça.
-2. **Investigação**: determina sua capacidade de investigar um cenário à procura de pistas, analisando os indícios encontrados para tirar conclusões a partir deles.
+1. **Erudição**: determina sua capacidade de conhecer e interpretar fenômenos mágicos, assim como o seu conhecimento teórico em geral. Um Perito em Erudição consegue, por exemplo, reconhecer os efeitos de uma Magia ao vê-la, identificar itens e criaturas mágicas, e recordar histórias, lendas e fatos sobre o cenário. O Mestre pode pedir um Teste de Erudição sempre que você tentar lembrar ou deduzir algo que dependa de estudo prévio.
+2. **Linguística**: determina sua capacidade de compreender e dominar Idiomas. Você poderá desvendar com maior maestria um Idioma que não conhece, deduzindo o significado de falas e textos a partir de padrões, palavras semelhantes e contexto, além de reconhecer a origem de uma língua, de um dialeto ou de um sotaque. Além disso, caso seja Perito em Linguística, você conhece um Idioma adicional para cada ponto no seu Modificador de Arcano, além dos que já conhece pela sua Raça. Mais detalhes sobre Idiomas estão no Capítulo 2.2 - Idiomas.
+3. **Investigação**: determina sua capacidade de investigar um cenário à procura de pistas, analisando os indícios encontrados para tirar conclusões a partir deles.
 
 ## Vínculo
 
@@ -40,11 +42,13 @@ Segue uma lista com todas as Perícias, e a qual Atributo estão atreladas:
 
 ## Carisma
 
-1. **Influência**: Determina a capacidade de intimidar, persuadir, ou barganhar com outros personagens. Além disso, determina sua capacidade como ator e com disfarces.
-2. **Música**: Capacidade de cantar ou tocar um Instrumento Musical. Caso seja Perito em Música, você deve escolher uma quantidade de Instrumentos igual ao seu Modificador de Carisma, com um mínimo de um Instrumento. A voz conta como um Instrumento, ou seja, saber cantar necessitará que você escolha a voz como uma de suas opções musicais. As regras para Instrumentos Musicais estarão disponíveis no Capítulo 4.5 - Instrumentos Musicais.
+1. **Intimidação**: determina a sua capacidade de coagir os outros por meio de ameaças, de uma presença imponente ou de demonstrações de força, fazendo com que cedam, recuem ou revelem informações por medo.
+2. **Atuação**: determina a sua capacidade de interpretar um papel diante dos outros. Abrange se disfarçar, se passar por outra pessoa e imitar trejeitos e vozes, além de se apresentar como ator em uma encenação.
+3. **Persuasão**: determina a sua capacidade de convencer por meio do diálogo. Abrange barganhar preços e acordos, persuadir alguém a mudar de ideia ou a colaborar, e negociar com diplomacia.
+4. **Enganação**: determina a sua capacidade de mentir e enganar com sucesso.
 
 ## Percepção Passiva
 
-A Percepção Passiva determinará se você irá notar diferentes coisas que estarão ocultas a princípio de maneira passiva, como por exemplo, Armadilhas. Caso um inimigo deseje estar Furtivo para você ele precisará passar por um Teste de Subterfúgio cuja CD será sua Percepção Passiva. O mesmo é válido para você, que precisará passar por um Teste semelhante utilizando a Percepção Passiva das criaturas às quais você deseja estar Furtivo como CD.
+A Percepção Passiva determinará se você irá notar diferentes coisas que estarão ocultas a princípio de maneira passiva, como por exemplo, Armadilhas. Caso um inimigo deseje estar Furtivo para você ele precisará passar por um Teste de Furtividade cuja CD será sua Percepção Passiva. O mesmo é válido para você, que precisará passar por um Teste semelhante utilizando a Percepção Passiva das criaturas às quais você deseja estar Furtivo como CD.
 
 A Percepção Passiva é dada por 10 + Percepção.

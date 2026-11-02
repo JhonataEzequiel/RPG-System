@@ -129,3 +129,13 @@ Como tabela de referência e não de regra, uma sugestão seria “Grau recomend
 |---|---|---|---|---|---|---|
 |Grau recomendado|5|6|7|8|9|10|
 |Pedras para chegar lá, partindo do Grau 1|4|6|8|11|14|20|
+
+### Pedras com o novo custo
+
+|Subida|Pedras|Ganho de média|Ganho por pedra|Acumulado desde o Grau 1|
+|---|---|---|---|---|
+|1→2, 2→3, 3→4, 4→5|1 cada|+1|1,00|1 / 2 / 3 / 4|
+|5→6|2|+0,5|0,25|6|
+|6→7|2|+2|1,00|8|
+|7→8, 8→9|3 cada|+2|0,67|11 / 14|
+|9→10|6|+3,5|0,58|20|

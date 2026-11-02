@@ -11,4 +11,4 @@ Existem incontáveis povos e culturas em um cenário de fantasia, e o que mais d
 |Anão|Anãos|
 |Orquídeo|Orcs e Goblinóides|
 
-Para adquirir novos Idiomas além dos que você possui naturalmente pela Raça, você precisará ser Perito na Perícia "Erudição". Sendo Perito, você conhece um Idioma adicional para cada ponto no seu Modificador de Arcano (veja o Capítulo 1.15 - Perícias).
+Para adquirir novos Idiomas além dos que você possui naturalmente pela Raça, você precisará ser Perito na Perícia "Linguística". Sendo Perito, você conhece um Idioma adicional para cada ponto no seu Modificador de Arcano, com um mínimo de um Idioma adicional (veja o Capítulo 1.15 - Perícias).

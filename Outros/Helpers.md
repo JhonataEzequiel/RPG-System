@@ -11,7 +11,7 @@
 - Alcance: 00
 - Tempo de Conjuração: (quantidade de ações)
 
-**Descrição:** \#Descrição#
+**Descrição:** \#DESCRIÇÃO#
 
 
 # Monstros

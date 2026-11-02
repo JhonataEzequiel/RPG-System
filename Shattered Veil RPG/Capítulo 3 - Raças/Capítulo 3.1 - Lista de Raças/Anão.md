@@ -1,11 +1,22 @@
-
-Anões são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tesouros, ferraria, bijuterias, e artesanato. Conhecidos por sua ferocidade em combate e sua força de vontade, os Anões se dão bem com a maioria dos povos do mundo.
+Anãos são uma Raça que tem um apreço gigantesco por cavernas, montanhas, tesouros, ferraria, bijuterias, e artesanato. Conhecidos por sua ferocidade em combate e sua força de vontade, os Anãos se dão bem com a maioria dos povos do mundo.
 
 ### Habilidades de Raça
 
-**Runas Mágicas**: Anões possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, os Anões podem usar 3 runas diferentes, mas não podem usar mais de uma no mesmo equipamento, e não podem repetir runas do mesmo tipo, mesmo em equipamentos diferentes.
+#### Runas Mágicas
 
-- **Aplicar Runa** (Uma Ação): Para colocar uma Runa em um equipamento é necessário que esteja ao alcance do seu toque. No entanto, você pode retirar uma Runa de um equipamento que você colocou à distância, não tendo limite de espaço. A Runa é removida, e ela fica disponível para uso instantaneamente. Para remover uma Runa também é necessário uma Ação.
-- **Runa de Diamante** (Aplicável em Armaduras): Concede Resistência a Dano Físico ao usuário da Armadura com a Runa. A Resistência é metade do seu Nível + 2.
-- **Runa de Ouro** (Aplicável em Armas): A Runa de Ouro imbui uma Arma com a capacidade de conduzir eletricidade, calor, ou frio, fazendo com que dê dano adicional de algum dos três danos elementais (Elétrico, Ígneo, e Gélido, respectivamente) no inimigo. O dano adicional será metade do seu Nível +2. Você escolhe o tipo de dano ao colocar a runa, e não poderá trocá-lo até retirá-la.
-- **Runa de Safira** (Aplicável em Qualquer Item, Uma Ação): Quem tocar no item em que a Runa de Safira está equipada será curado em seu Nível + 25, uma vez por Descanso Longo. É necessário que quem vá se curar se concentre um pouco no item, o que é refletido no custo de uma Ação. A criatura que será curada necessita de sua permissão para receber a cura, que é concedida mentalmente por você.
+Anãos possuem a capacidade de imbuir equipamentos de acordo com as suas propriedades, fazendo uso de Runas Mágicas que copiam o poder oculto de certos minerais. No total, cada Anão pode usar 3 Runas diferentes, mas não pode usar mais de uma no mesmo equipamento, e não pode repetir Runas do mesmo tipo, mesmo em equipamentos diferentes. As Runas são permanentes até serem removidas. Um equipamento que já possua uma Runa, ainda que de outro Anão, não pode receber outra. Se o equipamento for destruído, as Runas nele são desfeitas, e voltam a ficar disponíveis para você usá-las novamente.
+
+- **Aplicar Runa** (Ativa | Custo de Ações: Uma Ação | Alcance: Toque | Alvo: um equipamento): você coloca uma Runa em um equipamento.
+- **Remover Runa** (Ativa | Custo de Ações: Uma Ação | Alcance: Ilimitado | Alvo: um equipamento com uma Runa): você retira uma Runa que colocou em um equipamento, mesmo à distância. A Runa é removida, e ela fica disponível para uso instantaneamente. Um Anão não pode remover uma Runa colocada por outro Anão.
+- **Runa de Diamante** (Passiva | Alvo: Armaduras): concede Resistência a Dano Físico ao usuário da Armadura com a Runa. Você adiciona metade do seu BP como Resistência, e a partir do Nível 10, adiciona ele todo.
+- **Runa de Ouro** (Ativa | Custo de Ações: Ação Livre | Alvo: Armas | Duração: um Ataque | Limite de Usos: uma vez por Encontro): o usuário da Runa pode escolher trocar o tipo de dano da Arma para um dos três tipos de Dano Elemental em um único Ataque. A troca deve ser feita antes do Ataque. O Ataque com o tipo de dano trocado também recebe um bônus no BD: você adiciona metade do seu BP, e a partir do Nível 10, adiciona ele todo.
+- **Runa de Esmeralda** (Passiva | Alvo: equipamentos): ao finalizar um Encontro, quem estiver carregando o equipamento recebe uma recuperação de Mana. O Grau dela depende do seu Nível, e não do Nível de quem carrega o equipamento, de acordo com a tabela abaixo. Ela conta como uma instância de restauração de Mana.
+
+|Nível|Grau|Dado|
+|---|---|---|
+|1-2|1|1d4|
+|3-4|2|1d6|
+|5-6|3|1d8|
+|7-8|4|1d10|
+|9-10|5|1d12|
+|11+|6|2d6|
