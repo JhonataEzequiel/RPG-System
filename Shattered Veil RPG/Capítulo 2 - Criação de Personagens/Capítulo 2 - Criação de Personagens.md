@@ -14,7 +14,17 @@ Você pode optar por tirar Pontos de Atributo de um ou mais Atributos, deixando-
 
 ## Dado de Vida e Dado de Mana
 
-Você terá acesso a um Dado de Vida e um de Mana. Eles servirão para ditar como seus PVs Máximos serão determinados, além dos PVs recuperados por cada hora de Descanso. Ambos possuirão cinco possíveis graus: d4, d6, d8, d10, d12. Você inicia no primeiro grau em ambos, e pode aumentá-los de acordo com as regras da seção "Origem", que estará mais a frente neste capítulo.
+Você terá acesso a um Dado de Vida e um de Mana. Eles servirão para ditar como seus PVs Máximos e PMs Máximos serão determinados, além dos PVs e PMs recuperados por cada hora de Descanso. Ambos possuirão cinco possíveis graus:
+
+|Grau do Dado (Vida ou Mana)|Média|
+|---|---|
+|1d4|2.5|
+|1d6|3.5|
+|1d8|4.5|
+|1d10|5.5|
+|1d12|6.5|
+
+Você inicia no primeiro grau em ambos, e pode aumentá-los de acordo com as regras da seção "Origem", que estará mais a frente neste capítulo.
 
 ## Proficiências
 

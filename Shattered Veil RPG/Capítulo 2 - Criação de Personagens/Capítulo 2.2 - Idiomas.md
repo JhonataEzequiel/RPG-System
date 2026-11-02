@@ -1,12 +1,14 @@
+Existem incontáveis povos e culturas em um cenário de fantasia, e o que mais define a cultura desses povos são os seus Idiomas. Você saberá naturalmente alguns, a depender da sua Raça. Confira o Capítulo 3 - Raças para mais detalhes. Por padrão, todos falam o Idioma Comum, que representa uma linguagem compreendida pela maioria dos habitantes do cenário. Os outros Idiomas mais falados são:
 
-Seu personagem, por padrão, fala "Comum", o idioma central mais falado por todas as Raças. Existem outros Idiomas que irão depender do cenário da Campanha, e de quem o fala. Alguns exemplos são:
+|Idioma|Quem o Fala|
+|---|---|
+|Feérico|Fadas|
+|Florês|Plantas|
+|Demoníaco|Ínferos|
+|Dracônico|Dracônicos|
+|Celestial|Celestiais|
+|Élfico|Elfos e Sideria|
+|Anão|Anãos|
+|Orquídeo|Orcs e Goblinóides|
 
-Feérico: falado por Fadas e seres mágicos.
-Demoníaco: falado por seres ínferos.
-Dracônico: falado por seres dracônicos, como Wyverns e Dragões.
-Celestial: falado por Anjos e seres celestes num geral.
-Élfico: falado por Elfos e Sideriums.
-Anão: falado pelo povo Anão.
-Orquídeo: falado por Orcs e Goblinóides. 
-
-Para adquirir novos idiomas além dos que você possui naturalmente, você precisará ser perito na Perícia "Linguística".
+Para adquirir novos Idiomas além dos que você possui naturalmente pela Raça, você precisará ser Perito na Perícia "Erudição". Sendo Perito, você conhece um Idioma adicional para cada ponto no seu Modificador de Arcano (veja o Capítulo 1.15 - Perícias).

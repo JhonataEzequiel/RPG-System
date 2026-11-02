@@ -1,39 +1,44 @@
-# Evoluindo Além do Nível 1
+## Modos de Evolução
 
-## Calculando Pontos de Experiência (XP)
+A quantidade de XP necessária para subir de NV depende do modo de evolução escolhido pelo Mestre para a Campanha.
 
-Os Pontos de Experiência de um jogador ditarão se ele é capaz de subir de Nível ou não. Existem 3 modos de jogo que o mestre deverá optar, e que determinará a velocidade que os jogadores aumentam de nível. O mestre também pode arbitrariamente escolher uma outra quantidade de XP para os jogadores evoluírem de Nível.
+|Modo|XP Para Evoluir|
+|---|---|
+|Rápido|1000|
+|Moderado|1500|
+|Lento|2000|
 
-| Modo     | XP Para Evoluir |
-| -------- | --------------- |
-| Rápido   | 800             |
-| Moderado | 1100            |
-| Lento    | 1400            |
+## XP por Desafio
 
-O XP de um desafio genérico que não seja um combate será calculado da seguinte forma:
+Valores sugeridos para desafios que não são monstros. O Mestre escolhe o valor dentro da faixa, de acordo com a dificuldade real do desafio para o grupo.
 
-| Nível de Desafio | Descrição                                                                                                                                                                                                                                         | Pontos de XP |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
-| Muito Fácil      | Atividade que não precise necessariamente testar as habilidades dos jogadores, ou que esteja muito acima dela. Normalmente coisas simples, ou coisas que antes eram difíceis e agora, depois de evoluídos, não apresentam mais tanta dificuldade. | 20 à 30      |
-| Fácil            | Atividade que exige um pouco de aptidão dos personagens, mas não o suficiente para ser considerado um problema com certa complexidade.                                                                                                            | 30 à 50      |
-| Moderado         | Atividade adequada para o nível atual dos jogadores. Tem certa complexidade e dificuldade, mas é algo que devem ser capazes de superar sem muito esforço.                                                                                         | 50 à 70      |
-| Difícil          | Atividade que teste firmemente as habilidades dos personagens, tem algum tipo de risco maior, ou é pensada apenas para níveis maiores, ainda que possa ser realizada em um nível mais baixo.                                                      | 70 à 90      |
-| Muito Difícil    | Atividade que, além de testar a aptidão dos personagens, também oferece um risco grande à eles, chegando a ser um caso extremo.                                                                                                                   | 90 à 150     |
+|Nível de Desafio|XP|
+|---|---|
+|Muito Fácil|10 a 25|
+|Fácil|30 a 60|
+|Moderado|75 a 150|
+|Difícil|175 a 300|
+|Muito Difícil|350 a 600|
 
-De maneira análoga, utilizando o nível médio do grupo, calculado da seguinte maneira:
+## XP por Monstro
 
-$NívelMédio=SomaDosNíveisIndividuaisDosPersonagens/4$
+A dificuldade de um monstro é definida pela diferença entre o seu NV e o NV do grupo. Um monstro de mesmo NV que o grupo é um desafio Moderado.
 
-E o nível do Encontro, calculado usando:
+|NV do Monstro em Relação ao Grupo|Desafio|XP|
+|---|---|---|
+|2 ou mais Níveis abaixo|Muito Fácil|20|
+|1 Nível abaixo|Fácil|50|
+|Igual|Moderado|100|
+|1 Nível acima|Difícil|250|
+|2 Níveis acima|Muito Difícil|500|
 
-$NívelEncontro=SomaDosNíveisDosMonstros$
+### Além do Muito Difícil
 
-Arredondando o nível médio para baixo, teremos as seguintes recompensas em XP:
+Para cada Nível acima do segundo, o monstro concede 250 XP adicionais aos 500 XP do Muito Difícil.
 
-| Nível de Desafio | Descrição                                                  | Pontos de XP                           |
-| ---------------- | ---------------------------------------------------------- | -------------------------------------- |
-| Muito Fácil      | Nível do encontro menor ou igual à nível médio do grupo -2 | 0 à 40                                 |
-| Fácil            | Nível do encontro igual à nível médio do grupo -1          | 40 à 60                                |
-| Moderado         | Nível do encontro igual ao nível médio do grupo            | 60 à 80                                |
-| Difícil          | Nível do encontro igual à nível médio do grupo +1          | 80 à 100                               |
-| Muito Difícil    | Nível do encontro maior ou igual à nível médio do grupo +2 | 100 até um limite definido pelo mestre |
+|NV do Monstro em Relação ao Grupo|XP|
+|---|---|
+|3 Níveis acima|750|
+|4 Níveis acima|1000|
+|5 Níveis acima|1250|
+|6 Níveis acima|1500|

@@ -254,10 +254,6 @@
 
 **Descanso**: pausa para recuperar PVs e PMs.
 
-**Dado de Vida**: dado definido na criação, de d4 a d12, rolado no Descanso para recuperar PVs.
-
-**Dado de Mana**: dado definido na criação, de d4 a d12, rolado no Descanso para recuperar PMs.
-
 **Condição**: estado que afeta uma criatura.
 
 **Condição Negativa**: Condição que prejudica quem a possui.
@@ -272,7 +268,7 @@
 
 **Encantado**: impedido de ser hostil a quem o Encantou.
 
-**Exausto**: cansaço acumulado, em seis Valores. Um Descanso de 8 horas reduz um Valor.
+**Exausto**: cansaço acumulado, em seis Valores. Aumenta a cada 24 horas sem Descansar, e um Descanso de 8 horas reduz um Valor.
 
 **Valor de Exaustão**: nível de cansaço da Condição Exausto.
 
@@ -318,8 +314,40 @@
 
 **Perito**: quem é Proficiente em uma Perícia.
 
+**Natureza**: sobrevivência e conhecimento sobre o mundo natural.
+
+**Percepção**: uso dos sentidos para notar o que está ao seu redor.
+
+**Atletismo**: capacidade de fazer força, como erguer, empurrar e escalar.
+
+**Subterfúgio**: agilidade para se esconder, roubar e escapar de armadilhas.
+
+**Erudição**: conhecimento sobre fenômenos mágicos e Idiomas.
+
+**Investigação**: busca e análise de pistas em um cenário.
+
+**Intuição**: percepção das intenções de outros personagens.
+
+**Influência**: capacidade de intimidar, persuadir, barganhar, atuar e se disfarçar.
+
+**Música**: capacidade de cantar ou tocar um Instrumento Musical.
+
 **Percepção Passiva**: o que você percebe sem tentar.
+
+**Limitação Inicial**: retirar pontos de Atributos na criação para usá-los depois.
+
+**Dado de Vida**: dado definido na criação, de d4 a d12. Define os PVs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PVs.
+
+**Dado de Mana**: dado definido na criação, de d4 a d12. Define os PMs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PMs.
 
 **Pontos de Origem**: pontos gastos na criação do personagem.
 
-**Limitação Inicial**: retirar pontos de Atributos na criação para usá-los depois.
+**Marco de Campanha**: momento decisivo concluído pelos PDJs, que leva o Mestre a conceder Níveis.
+
+**Modo de Evolução**: ritmo de evolução da Campanha (Rápido, Moderado ou Lento). Define a XP necessária por Nível.
+
+**Pontos Retroativos**: PVs e PMs ganhos ao aumentar o Modificador de Con ou Sab, para cada Nível abaixo do atual.
+
+**Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Erudição.
+
+**Idioma Comum**: Idioma falado por todos e compreendido pela maioria dos habitantes.

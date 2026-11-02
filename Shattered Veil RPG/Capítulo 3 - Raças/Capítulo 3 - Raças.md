@@ -1,5 +1,5 @@
 
-Cada Raça possui Habilidades únicas, além de um deslocamento e tamanho característicos, sendo esses os diferenciais entre elas. Todas as Raças falam Comum.
+Cada Raça possui Habilidades únicas, além de um deslocamento e tamanho característicos, sendo esses os diferenciais entre elas. As Habilidades que cada Raça possui são chamadas de Habilidades de Raça, e são exclusivas de cada uma delas. Todas as Raças falam Comum.
 
 | Raça              | Deslocamento em metros            | Tamanho | Idiomas Adicionais |
 | ----------------- | --------------------------------- | ------- | ------------------ |
@@ -8,10 +8,9 @@ Cada Raça possui Habilidades únicas, além de um deslocamento e tamanho caract
 | Alto Elfo         | 9                                 | Médio   | Élfico             |
 | Elfo da Floresta  | 9                                 | Médio   | Élfico             |
 | Elfo Negro        | 12                                | Médio   | Élfico             |
-| Fjer              | 9, 12 Voando                      | Médio   | -                  |
 | Gama              | 9                                 | Médio   | -                  |
-| Gnomo Feérico     | 9                                 | Pequeno | -                  |
-| Gnomo da Natureza | 9                                 | Pequeno | -                  |
+| Gnomo Feérico     | 9                                 | Pequeno | Feérico            |
+| Gnomo da Natureza | 9                                 | Pequeno | Florês             |
 | Halfling          | 9                                 | Pequeno | -                  |
 | Humano            | 9                                 | Médio   | -                  |
 | Okuri             | 9                                 | Médio   | -                  |

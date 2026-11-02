@@ -24,7 +24,7 @@ Você não pode realizar nenhuma ação hostil contra quem o Encantou ou contra 
 
 ### Exausto
 
-O Valor de Exaustão vai de 1 a 6, e cada um aplica uma penalidade diferente. Os efeitos são cumulativos: cada Valor inclui os efeitos dos anteriores. Normalmente se está Exausto após passar longos períodos sem Descansar, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada 24 horas sem um Descanso, o Valor de Exaustão aumenta em um. A cada Descanso de pelo menos 8 horas, ele diminui em um.
+O Valor de Exaustão vai de 1 a 6, e cada um aplica uma penalidade diferente. Os efeitos são cumulativos: cada Valor inclui os efeitos dos anteriores. Normalmente se está Exausto após passar longos períodos sem Descansar, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada 24 horas sem Descansar, o Valor de Exaustão aumenta em um. A cada Descanso de pelo menos 8 horas, ele diminui em um. Descansos mais curtos ainda recuperam PVs e PMs, mas não reduzem o Valor de Exaustão.
 
 |Valor de Exaustão|Efeito|
 |---|---|
