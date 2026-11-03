@@ -1,4 +1,3 @@
-
 Os Sideria são Elfos que vieram do espaço a muito tempo atrás. Eles refletem sua ancestralidade espacial através de sua aparência. Existem 2 tipos de Sideria, os Noturnos e os Diurnos. O singular é Siderium, e o plural é Sideria.
 
 ## Diurnos

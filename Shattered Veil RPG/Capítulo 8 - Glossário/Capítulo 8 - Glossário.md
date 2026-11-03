@@ -106,7 +106,7 @@
 
 **Salvaguarda**: Teste para resistir a um efeito.
 
-**Encontro**: combate envolvendo os PDJs. Termina quando a situação conflituosa com combate se encerra.
+**Encontro**: combate envolvendo os PDJs.
 
 **Aliado**: quem luta ao seu lado.
 
@@ -234,7 +234,7 @@
 
 **Esgueirar**: passar por um espaço de um Tamanho menor que o seu, com o Deslocamento reduzido pela metade.
 
-**Pular**: Movimentação de saltar, gastando Deslocamento. Não custa Ação.
+**Pular**: Movimentação de saltar, gastando Deslocamento. Custa uma Ação e ignora Terreno Difícil.
 
 **Queda Livre**: queda que pode causar dano de Impacto após os 5 primeiros metros.
 
@@ -320,25 +320,17 @@
 
 **Atletismo**: capacidade de fazer força, como erguer, empurrar e escalar.
 
-**Ladroagem**: tudo o que é típico de um ladrão, como furtar, desarmar armadilhas e realizar movimentos complicados com o corpo.
+**Subterfúgio**: agilidade para se esconder, roubar e escapar de armadilhas.
 
-**Furtividade**: capacidade de se esconder e ganhar a Condição Furtivo.
-
-**Erudição**: conhecimento teórico sobre fenômenos mágicos e sobre o cenário.
-
-**Linguística**: compreensão e domínio de Idiomas.
+**Erudição**: conhecimento sobre fenômenos mágicos e Idiomas.
 
 **Investigação**: busca e análise de pistas em um cenário.
 
 **Intuição**: percepção das intenções de outros personagens.
 
-**Intimidação**: capacidade de coagir os outros por medo.
+**Influência**: capacidade de intimidar, persuadir, barganhar, atuar e se disfarçar.
 
-**Atuação**: capacidade de se disfarçar e de interpretar outra pessoa.
-
-**Persuasão**: capacidade de barganhar e persuadir.
-
-**Enganação**: capacidade de mentir e enganar.
+**Música**: capacidade de cantar ou tocar um Instrumento Musical.
 
 **Percepção Passiva**: o que você percebe sem tentar.
 
@@ -356,26 +348,10 @@
 
 **Pontos Retroativos**: PVs e PMs ganhos ao aumentar o Modificador de Con ou Sab, para cada Nível abaixo do atual.
 
-**Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Linguística.
+**Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Erudição.
 
 **Idioma Comum**: Idioma falado por todos e compreendido pela maioria dos habitantes.
 
 **Raça**: origem do personagem, que define seu Deslocamento, Tamanho, Habilidades de Raça e Idiomas naturais.
 
 **Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita e não segue regras de limite.
-
-**Runas Mágicas**: Habilidade de Raça dos Anãos que imbui equipamentos com o poder de minerais. Cada Anão usa até 3 Runas diferentes, no máximo uma por equipamento.
-
-**Aplicar Runa**: colocar uma Runa em um equipamento ao alcance do toque, ou removê-la à distância. Custa uma Ação.
-
-**Runa de Diamante**: Runa de Armadura que concede Resistência a Dano Físico igual ao BP.
-
-**Runa de Ouro**: Runa de Arma que, uma vez por Encontro, troca o tipo de dano de um Ataque para um Dano Elemental e concede +5 no BD nele.
-
-**Runa de Esmeralda**: Runa de equipamento que restaura Mana ao fim de um Encontro, com Grau crescente conforme o Nível.
-
-**Queda de Gato**: Habilidade de Raça dos Cait-Sith. Reduz pela metade o dano de Queda Livre.
-
-**Roubo de Vida**: Habilidade de Raça dos Cait-Sith. Recupera PVs ao causar dano, uma vez no seu Turno, com Grau crescente conforme o Nível.
-
-**Garras Felinas**: Habilidade de Raça dos Cait-Sith. Permite que Ataques Desarmados causem Dano Cortante.

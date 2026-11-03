@@ -1,65 +1,45 @@
+Esse capítulo é dedicado para destrinchar todas as principais regras de equipamentos, além de conter uma lista vasta de opções básicas para sua aventura.
 
-## Requisitos
+## Capacidade de Carga
 
-Certos itens possuirão pré-requisitos de Atributos para serem utilizados. Caso não os possua, não poderá fazer uso deles. Alguns itens também especificam efeitos adversos ao os utilizar sem dispor dos Atributos adequados, como as Armaduras e Armas. Em outros casos, o item ainda pode ser equipado ou segurado, mas não tem nenhum efeito adicional.
+O valor que mede o quanto você pode carregar é chamado de Capacidade de Carga. Quanto maior sua Capacidade de Carga, mais Peso você consegue carregar. Cada item pesa zero ou mais unidades de Peso.
 
-## Escalas
-
-Boa parte das Armaduras e Armas possuem Escalas, que variam de D até S. As Escalas concedem bônus diferentes em certos Níveis de Atributo. Estes são chamados de Bônus de Escalas. Um Bônus de Escala de um certo Nível de Atributo é cumulativo com os anteriores. Ou seja, você soma os dois. Por exemplo, caso você esteja equipado com uma Armadura com Escala S em Força, e tenha 7 de Força, você receberá o Bônus de Escala concedido pelos Níveis de Atributo 1, 3, 5, e 7, mas não receberá o que for concedido no Nível 10.
-
-As Escalas só estão ativas ao equipar um item que as tenha, e caso você atenda aos Requisitos de Atributo daquele item. Um item não pode ter mais do que duas Escalas diferentes ao mesmo tempo. Cada Escala ocupa um espaço.
+Sua Capacidade de Carga é calculada como: 15 + For + BP.
 
 ## Armaduras
 
-Armaduras possuem pré-requisitos de Atributo (de 0 a 10). Sem atendê-los, a Armadura conta apenas como peso extra — efeitos negativos ainda se aplicam, mas a CA e quaisquer efeitos positivos não.
+Armaduras são proteções vestidas em volta do seu corpo. Elas concederão um bônus de CA, e poderão possuir penalidades e outros efeitos. Existirão 3 tipos de Armaduras: Armaduras Rígidas, Ágeis, e Híbridas.
 
-Armaduras também escalam com Atributos (D a S), concedendo bônus crescentes conforme o Nível do Atributo. Bônus de Escala só estão ativos com a Armadura equipada. Armaduras que escalam com múltiplos Atributos concedem os bônus de cada um separadamente.
+Armaduras possuirão requisitos. Caso você não atenda aos requisitos de uma Armadura, você não terá nenhum benefício dela, e quaisquer penalidades ainda se aplicarão. Armaduras Rígidas tem requisitos em Força, as Ágeis, em Destreza, e as Híbridas, em ambos.
 
-**Classificação:** Armaduras com penalidade de Deslocamento são pesadas. As que concedem CA sem penalidade são leves. As demais são roupas. Exceções serão descritas no item.
+## Roupas
 
-| Escala | Nível 1                                     | Nível 3                                     | Nível 5                                     | Nível 7                                     | Nível 10 |
-| ------ | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | ------------------------------------------- | -------- |
-| S      | +1 de Resistência a Dano Físico e Elemental | +2 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +4 de Resistência a Dano Físico e Elemental | +3 de CA |
-| A      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +3 de Resistência a Dano Físico e Elemental | +2 de CA |
-| B      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico e Elemental | +2 de Resistência a Dano Físico e Elemental | +2 de CA |
-| C      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +2 de Resistência a Dano Físico e Elemental | +1 de CA |
-| D      | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de Resistência a Dano Físico             | +1 de CA |
+Vestimentas normais não são consideradas Armaduras, e nem tem peso. Você pode se vestir como quiser sem isso ter impacto mecânico.
 
 ## Armas
 
-Armas possuem pré-requisitos também, assim como as Armaduras. Sem atender aos requisitos, o dano é sempre 1 de um dos tipos de dano da Arma e cada Ataque custa três Ações — Ataques de Oportunidade também ficam indisponíveis. Armas com múltiplos tipos de dano permitem escolher qual tipo receberá os Bônus de Escala.
+Armas possuem pré-requisitos também, assim como as Armaduras. Sem atender aos requisitos, o dano é sempre 1 de Impacto e cada Ataque custa três Ações — Ataques de Oportunidade também ficam indisponíveis. Cada Arma equipada poderá ocupar uma ou duas mãos. Você dever ter a quantidade de mãos necessárias livres para equipar a Arma.
 
-O bônus para acertar um Ataque é igual ao bônus de dano do Atributo da Arma. Sendo proficiente no tipo de Arma, adicione também o Bônus de Proficiência para acertar. O bônus de dano da Arma servirá como bônus para acertar apenas se estiver descrito na Arma. Ou seja, caso você consiga outros bônus de dano em outros locais, como através de Habilidades ou Magias, estes não entrarão no cálculo para acertar o Ataque. Exemplo: caso uma Arma cause 1d6 + For de dano, você rolará um Teste (1d20) como Ataque, adicionará For como bônus a este Teste e, caso seja Proficiente naquele tipo de Arma, adicionará também o seu Bônus de Proficiência. Outros bônus de acerto advindos de outras fontes também se aplicam.
+Armas possuirão um bônus específico delas. O bônus diz respeito ao Atributo cujo Modificador será usado como adicional no seu BA e BD. Até dois Atributos podem servir como bônus, a depender da Arma, mas não mais do que isso.
 
-Algumas Armas podem aumentar o alcance padrão de Ataques Corpo a Corpo (alvos adjacentes), e caso o façam, isso estará descrito na Arma em si na coluna "Aumento de Alcance" nas tabelas do Capítulo 4.2 - Lista de Armas. O aumento de alcance da Arma se somará aos 1.5m do padrão
+Existem quatro tipos de Armas, eles são subdivididos em duas categorias de Ataque (Corpo-a-Corpo e à Distância). Os quatro tipos são: Leves, Comuns, Empunhadura Dupla, e à Distância.
 
-As Armas listadas no Capítulo 4.2 - Lista de Armas são apenas a unidade, ou seja, mesmo Armas de Punho como a "Luva de Pugilista" será apenas uma única luva.
+Algumas Armas podem aumentar o alcance padrão de Ataques Corpo-a-Corpo, como descrito no Capítulo 1.6 - Combate e, caso o façam, isso estará descrito na Arma em si na coluna "Alcance" nas tabelas do Capítulo 4.2 - Lista de Armas.
+
+Alguns dos tipos permitem que você Ataque com duas Armas ao mesmo tempo, equipando uma em cada mão. Ao fazer isso, o BA utilizado neste Ataque será o menor entre os bônus de cada Arma, caso sejam diferentes. Atacar com duas Armas ao mesmo tempo tem um custo de Ações maior que varia de acordo com o tipo de Arma.
 
 **Tipos de Arma:**
 
-- **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações e causa o dano de ambas. Atacar com apenas uma custa uma Ação.
-- **Comuns:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações, com -3 para acertar. Atacar com apenas uma custa uma Ação.
+- **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações e causa o dano de ambas.
+- **Comuns:** Pode-se usar uma em cada mão. Atacar com as duas custa três Ações.
 - **Empunhadura Dupla:** Exigem duas mãos. Não podem ser usadas em uma mão só, nem duas ao mesmo tempo.
-- **Punho:** Beneficiam-se de Habilidades de Ataques Desarmados, mas ambas as mãos devem estar ocupadas apenas com Armas de Punho para isso. Não se beneficiam de Habilidades específicas de Armas, mas sim de Habilidades que modificam Ataques em geral.
-- **Armas à Distância:** O alcance máximo está na tabela de cada Arma. Atacar além dele impõe Desvantagem, e -1 para cada 9m além do alcance. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior, mas não possuem Escalas ou bônus de Atributo. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, seguindo as regras de Armas Comuns.
+- **Armas à Distância:** O alcance está na tabela de cada Arma. Atacar além dele impõe Desvantagem, e -1 para cada 9 metros além do alcance. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior e uma chance de acerto maior, mas não tem bônus. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, e Atacar com duas custa três Ações.
 
-**Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos, aumentando o dano em 1d4 de um dos tipos possíveis de serem causados pela Arma, à sua escolha.
-
-| Escala | Nível 1    | Nível 3    | Nível 5    | Nível 7    | Nível 10                 |
-| ------ | ---------- | ---------- | ---------- | ---------- | ------------------------ |
-| S      | +5 de dano | +5 de dano | +5 de dano | +5 de dano | +5 para acertar o Ataque |
-| A      | +4 de dano | +4 de dano | +4 de dano | +4 de dano | +4 para acertar o Ataque |
-| B      | +3 de dano | +3 de dano | +3 de dano | +3 de dano | +3 para acertar o Ataque |
-| C      | +2 de dano | +2 de dano | +2 de dano | +2 de dano | +2 para acertar o Ataque |
-| D      | +1 de dano | +1 de dano | +1 de dano | +1 de dano | +1 para acertar o Ataque |
+**Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos. Ao fazer isso, adicione seu Modificador de dano ao BD, caso ele ainda não esteja adicionado, ou duplique-o, caso já esteja.
 
 ## Escudos
 
-Escudos seguem as mesmas regras de Escala das Armaduras, mas adicionam apenas metade do valor de CA ao atingir o Nível de Atributo 10, arredondando para cima. Os Bônus de Escala só estão ativos com o Escudo equipado. Escudos não têm penalidades. Ao não atender aos requisitos de um Escudo, você não recebe nenhum Bônus de Escalas, nem poderá utilizar Habilidades que interajam com seu Escudo, servindo apenas como peso extra. O Escudo deverá ocupar uma das mãos.
-
-## Peso dos Equipamentos
-
-O peso total carregado é a soma de todos os itens equipados e transportados. Se você ultrapassar a Capacidade de Carga, você terá a Condição Exaustão 2. Ao se livrar da carga extra, a Condição é retirada imediatamente.
+Escudos ocupam uma das mãos. Você pode levantar o Escudo com uma Reação ao receber um Ataque. Ao levantar, ficará com ele levantado até o início do seu próximo Turno, recebendo +2 de CA enquanto ele estiver levantado.
 
 ## Munições
 

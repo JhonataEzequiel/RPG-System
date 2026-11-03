@@ -44,7 +44,7 @@ Você pode Pular uma distância igual à soma dos seus Modificadores de Força e
 
 Ao Pular verticalmente, a distância do pulo é igual à metade da distância do pulo normal, menos 1,5 metros.
 
-A distância pulada, seja horizontal ou vertical, é descontada do seu Deslocamento, ou seja, Pular 1,5 metros diminui 1,5 metros do seu Deslocamento restante na Rodada. Não é possível Pular sem estar com os pés no chão. Pular é uma forma de Movimentação, e não custa Ações.
+A distância pulada, seja horizontal ou vertical, é descontada do seu Deslocamento, ou seja, Pular 1,5 metros diminui 1,5 metros do seu Deslocamento restante na Rodada. Por exemplo, com 9 metros de Deslocamento, caso você Pule 4,5 metros, só poderá Andar mais 4,5 metros. Pular ignora Terreno Difícil: como ele reduz o seu Deslocamento pela metade, a distância pulada nele é descontada pela metade. Não é possível Pular sem estar com os pés no chão. Pular é uma forma de Movimentação, mas custa uma Ação.
 
 ## Queda Livre
 
