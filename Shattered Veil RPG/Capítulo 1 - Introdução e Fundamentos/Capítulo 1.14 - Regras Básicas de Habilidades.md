@@ -5,3 +5,5 @@ No geral, Habilidades podem ser passivas ou ativas. As passivas concedem efeitos
 O custo de uma Habilidade irá variar entre 1 e 3. Quanto mais cara uma Habilidade, mais valiosa e útil ela será. As Habilidades terão pré-requisitos de Atributos que podem variar entre nenhum, e vários Atributos em seus diversos valores. Por exemplo, uma Habilidade pode ter custo 3 e não pedir nenhum valor de Atributo como requisito, enquanto outra pode ter custo 1 e pedir o valor 2 em dois Atributos diferentes.
 
 Caso Habilidades concedam aumentos no seu BA para Ataques ou na sua CA, a soma desses aumentos não poderá ultrapassar o valor 8 para BA, e 3 para CA. Aumentos de BA em Testes que não sejam Ataques não possuem limite.
+
+As Habilidades de Raça são uma exceção a esses limites: seus aumentos de BA e de CA não contam para a soma descrita acima e não são restringidos por ela.

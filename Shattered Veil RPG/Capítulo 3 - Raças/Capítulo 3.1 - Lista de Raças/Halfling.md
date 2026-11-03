@@ -1,25 +1,31 @@
-Os Halflings são conhecidos pela hospitalidade, lábia, e capacidade de se mover silenciosamente por seus tamanhos diminutos. Nem todos os pequeninos seguem esses estereótipos, mas é uma generalização coerente com o estilo de vida deles. Usualmente, são caseiros e não gostam de se meter em aventuras, mas alguns decidem se aventurar e engajar em perigosos percursos.
+Os Halflings, um povo pequenino, são conhecidos pela hospitalidade, lábia, e agilidade. Nem todos os Halflings seguem esses estereótipos, mas é uma generalização coerente com o estilo de vida deles. Usualmente, são caseiros e não gostam de se meter em aventuras, mas alguns decidem se engajar em percursos perigosos. Existem várias Procedências de Halflings, e as mais famosas são os Pés Sorrateiros, os Pés Aconchegantes, e os Pés Andarilhos. As Procedências se diferenciam por poucos detalhes, e os Halflings são bem parecidos no geral, então elas não são consideradas sub-raças. A diferença vem mais da maneira como vivem do que de seus aspectos físicos e de suas capacidades. As Habilidades de cada Procedência são Habilidades de Raça.
+
+## Halfling de Pés Sorrateiros
+
+Os Halflings de Pés Sorrateiros são os mais ágeis do seu povo, e têm facilidade para escalar e para escapar de situações perigosas. Eles são conhecidos por entrar e sair de locais com desenvoltura. Por serem tão diminutos, são particularmente difíceis de acertar, deixando os inimigos enraivecidos por errarem tanto.
 
 ### Habilidades de Raça
 
-#### Linhagem Halfling
+**Agilidade nos Pés** (Passiva): seu Deslocamento Vertical é igual ao seu Deslocamento Terrestre.
 
-Como Halfling, você deverá escolher um aspecto da sua linhagem para seguir. Este aspecto afeta como você interage com o ambiente ao seu redor.
+**Desvio Rápido** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: igual ao seu BP | Duração: até o início do seu próximo Turno): esta Habilidade substitui o Desviar. Ataques direcionados a você têm -5 de BA, em vez de -3. Você ainda encerra seu Turno ao usá-la. Caso você não tenha PMs suficientes, pode usar o Desviar normalmente.
 
-##### Pés Sorrateiros
+## Halfling de Pés Aconchegantes
 
-**Agilidade nos Pés** (Passiva): você pode escalar utilizando seu Deslocamento total em vez de metade dele.
+Os Halflings de Pés Aconchegantes valorizam o lar e o descanso acima de tudo, e evitam confrontos desnecessários sempre que possível. Eles são cuidadosos, e gostam de se preparar para todos os imprevistos.
 
-**Desvio Rápido** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 6 PMs): essa Habilidade substitui a ação de Desviar. Com ela, Ataques direcionados a você enquanto você Desvia têm -5 para acertar em vez de -3. Você ainda encerra seu Turno quando Desvia, e a duração continua igual. Caso sua Mana acabe, você pode usar Desviar normalmente.
+### Habilidades de Raça
 
-##### Pés Aconchegantes
+**Caseiro** (Passiva): ao final de todo Descanso de, no mínimo, oito horas, você adiciona quatro vezes o seu BP como PVs Temporários. O tempo extra da Habilidade Preparação conta para essas oito horas, mas o BP dobrado por ela não é considerado nesse cálculo.
 
-**Caseiro** (Passiva): toda vez que tiver um Descanso de, no mínimo, oito horas, você adiciona quatro vezes o seu BP como PVs Temporários.
+**Preparação** (Passiva | Duração: até o início do seu próximo Encontro): sempre que fizer um Descanso, você pode estendê-lo por mais duas horas. Caso faça isso, seu BP dobra pela duração desta Habilidade. O aumento não se acumula em Descansos consecutivos: seu BP é dobrado uma única vez.
 
-**Preparação** (Passiva): sempre que fizer um Descanso, você pode estendê-lo por mais duas horas. Caso faça isso, seu BP dobrará até o início do seu próximo Encontro. O aumento no BP dessa Habilidade não conta para a Habilidade "Caseiro".
+## Halfling de Pés Andarilhos
 
-##### Pés Andarilhos
+Os Halflings de Pés Andarilhos vivem na estrada, viajando pelo mundo e fazendo negócios por onde passam. Eles lutam por uma vida próspera, e a maioria é conhecida por sua honestidade e carinho para com os outros. Alguns, no entanto, podem se desviar desse caminho, se aproveitando da boa fama da Raça.
+
+### Habilidades de Raça
 
 **Vagante** (Passiva): você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma Condição Negativa.
 
-**Mercador** (Passiva): ao vender ou comprar 5 itens, você aumenta seu BP em 1. Você pode fazer isso até 3 vezes. O valor mínimo do primeiro item deve ser de 50 PO, e aumenta em 50 PO a cada item. Caso você venda um item e o compre novamente, ou vice-versa, este item contará apenas uma vez. O aumento é permanente.
+**Mercador** (Passiva): ao vender ou comprar 5 itens, você aumenta seu BP em 1. Você pode fazer isso até 3 vezes. O valor mínimo do primeiro item deve ser de 50 PO, e aumenta em 50 PO a cada item, ao longo de todos os 15 itens. O valor de um item é o que foi efetivamente pago ou recebido por ele, e uma quantidade de itens iguais conta como um item só. Um item só conta para essa Habilidade caso você o negocie com um PDM com quem ainda não negociou nenhum item contado por ela. O aumento no BP é permanente.

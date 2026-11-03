@@ -116,9 +116,9 @@
 
 **Turno**: momento em que um personagem age.
 
-**Rodada**: soma dos Turnos de todos os personagens.
-
 **Limite de Ações**: três Ações por Turno.
+
+**Rodada**: soma dos Turnos de todos os personagens.
 
 **Magia**: desdobramento da realidade causado pela mente.
 
@@ -320,17 +320,25 @@
 
 **Atletismo**: capacidade de fazer força, como erguer, empurrar e escalar.
 
-**Subterfúgio**: agilidade para se esconder, roubar e escapar de armadilhas.
+**Ladroagem**: furtar, desarmar armadilhas e realizar movimentos complicados com o corpo.
 
-**Erudição**: conhecimento sobre fenômenos mágicos e Idiomas.
+**Furtividade**: capacidade de se esconder e ganhar a Condição Furtivo.
+
+**Erudição**: conhecimento sobre fenômenos mágicos, itens e criaturas mágicas, e fatos sobre o cenário.
+
+**Linguística**: compreensão e domínio de Idiomas. Concede Idiomas adicionais a quem é Perito.
 
 **Investigação**: busca e análise de pistas em um cenário.
 
 **Intuição**: percepção das intenções de outros personagens.
 
-**Influência**: capacidade de intimidar, persuadir, barganhar, atuar e se disfarçar.
+**Intimidação**: coagir os outros por meio de ameaças e demonstrações de força.
 
-**Música**: capacidade de cantar ou tocar um Instrumento Musical.
+**Atuação**: interpretar um papel, se disfarçar e imitar trejeitos e vozes.
+
+**Persuasão**: convencer por meio do diálogo, barganhar e negociar.
+
+**Enganação**: mentir e enganar com sucesso.
 
 **Percepção Passiva**: o que você percebe sem tentar.
 
@@ -340,7 +348,7 @@
 
 **Dado de Mana**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Define os PMs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PMs.
 
-**Pontos de Origem**: pontos gastos na criação do personagem.
+**Pontos de Origem**: 7 pontos gastos na criação do personagem para aumentar o Grau dos Dados de Vida e de Mana, adquirir Proficiências, ou trocar por PHs.
 
 **Marco de Campanha**: momento decisivo concluído pelos PDJs, que leva o Mestre a conceder Níveis.
 
@@ -348,10 +356,12 @@
 
 **Pontos Retroativos**: PVs e PMs ganhos ao aumentar o Modificador de Con ou Sab, para cada Nível abaixo do atual.
 
-**Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Erudição.
+**Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Linguística.
 
 **Idioma Comum**: Idioma falado por todos e compreendido pela maioria dos habitantes.
 
 **Raça**: origem do personagem, que define seu Deslocamento, Tamanho, Habilidades de Raça e Idiomas naturais.
 
-**Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita e não segue regras de limite.
+**Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita, não segue regras de limite e não conta para os limites de BA e CA de Habilidades.
+
+**Procedência**: escolha oferecida por algumas Raças, como Halfling e Revenã, ligada a de onde o personagem veio. Não é uma sub-raça.
