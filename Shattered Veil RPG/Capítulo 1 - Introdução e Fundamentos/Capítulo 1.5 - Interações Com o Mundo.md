@@ -1,4 +1,4 @@
-Durante a Campanha criada pelo Mestre, você poderá interagir de diversas maneiras com o mundo, desde diálogos até lutas grandiosas, alterando até mesmo os planos iniciais que o Mestre tinha para uma sessão ou até mesmo para a Campanha inteira. As suas interações serão de menor ou maior grau, contabilizadas a partir de Ações, Ações Livres, Reações, e Movimentação.
+Durante a Campanha criada pelo Mestre, você poderá interagir de diversas maneiras com o mundo, desde diálogos até lutas grandiosas, alterando até mesmo os planos iniciais que o Mestre tinha para uma sessão ou até mesmo para a Campanha inteira. As suas interações serão de menor ou maior grau, contabilizadas a partir de Ações, Ações Livres, Ações Bônus, Reações, e Movimentação.
 
 ## Ação
 
@@ -6,13 +6,15 @@ Medida de esforço necessário para realizar uma determinada atividade que exija
 
 ## Ação Livre
 
-Atividades que exigem pouquíssimo esforço utilizam uma Ação Livre ao invés de uma Ação. Alguns exemplos de Ações Livres são: falar, gesticular. Você pode realizar qualquer Ação Livre fora de seu Turno.
+Atividades que exigem pouquíssimo esforço utilizam uma Ação Livre ao invés de uma Ação. Alguns exemplos de Ações Livres são: falar, gesticular, e interagir com um Objeto de maneira simples, como abrir uma porta ou puxar uma alavanca. Você pode realizar qualquer Ação Livre fora de seu Turno.
+
+## Ação Bônus
+
+Tipo de ação menor dedicado para atividades complementares de complexidade e esforço maiores que uma Ação Livre, e menores que uma Ação. A primeira Ação Bônus no seu Turno é grátis, e cada Ação Bônus a partir de então requer uma Ação para ser executada. Você só pode usar Ações Bônus no seu Turno.
 
 ## Reação
 
-Reações são ações que precisam que um critério seja atendido para poderem ser utilizadas. Elas só podem ser utilizadas fora do seu Turno.
-
-Cada Reação utilizada custa uma Ação do próximo Turno que você tiver. Isso inclui o Turno da Rodada atual, caso você utilize Reações antes de ele chegar. Você não pode utilizar uma Reação caso isso fosse deixar o seu próximo Turno sem nenhuma Ação.
+Reações são ações que precisam que um critério seja atendido para poderem ser utilizadas. Elas só podem ser utilizadas fora do seu Turno. Você tem uma Reação por Rodada, recuperada no início de cada Rodada. Usar uma Reação não consome Ações nem Ações Bônus.
 
 ## Movimentação
 
@@ -26,13 +28,13 @@ Na maioria das vezes que você quiser fazer algo será necessário rolar dados. 
 
 Muitas regras pedem a rolagem de dados, como as de dano e cura, e o dado a ser rolado é definido por um Grau de Dado (Grau). Por exemplo, uma Arma pode causar dano de Grau 3, e uma Magia de cura pode curar Grau 2. A média desses dados também será disponibilizada para consultas rápidas.
 
-|Grau|Dado|Média|Grau|Dado|Média|
-|---|---|---|---|---|---|
-|1|1d4|2,5|6|2d6|7|
-|2|1d6|3,5|7|2d8|9|
-|3|1d8|4,5|8|2d10|11|
-|4|1d10|5,5|9|2d12|13|
-|5|1d12|6,5|10|3d10|16,5|
+| Grau | Dado | Média | Grau | Dado | Média |
+| ---- | ---- | ----- | ---- | ---- | ----- |
+| 1    | 1d4  | 2,5   | 6    | 2d6  | 7     |
+| 2    | 1d6  | 3,5   | 7    | 2d8  | 9     |
+| 3    | 1d8  | 4,5   | 8    | 2d10 | 11    |
+| 4    | 1d10 | 5,5   | 9    | 2d12 | 13    |
+| 5    | 1d12 | 6,5   | 10   | 3d10 | 16,5  |
 
 Um Grau só pode ir até o 10, e não pode passar disso. Caso um efeito proporcione um aumento permanente ou temporário do Grau, ele deve respeitar esse limite. Efeitos acima desse limite são desconsiderados.
 
@@ -42,15 +44,7 @@ Um Teste é uma rolagem de um d20. Esse Teste terá uma dificuldade que precisar
 
 ## Bônus de Proficiência (BP)
 
-O Bônus de Proficiência dita o quão bom você é em uma determinada tarefa. Esse bônus aumenta com o Nível, e independe dos Atributos. Você pode adquirir Proficiências em diversas áreas, e as regras para isso são detalhadas em capítulos futuros. O Bônus de Proficiência começa em 2, e aumenta em 1 a cada 4 Níveis, seguindo a tabela abaixo:
-
-|Nível|BP|
-|---|---|
-|1-4|+2|
-|5-8|+3|
-|9-12|+4|
-|13-16|+5|
-|17-20|+6|
+O Bônus de Proficiência dita o quão bom você é em uma determinada tarefa. Esse bônus aumenta com o Nível, e independe dos Atributos. Você pode adquirir Proficiências em diversas áreas, e as regras para isso são detalhadas em capítulos futuros. O Bônus de Proficiência é sempre o seu Nível + 2.
 
 ## Bônus de Acerto (BA)
 

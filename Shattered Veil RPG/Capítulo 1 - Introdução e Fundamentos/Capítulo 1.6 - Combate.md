@@ -70,9 +70,7 @@ Atacar múltiplas vezes seguidas diminui o seu Bônus de Acerto. Cada Ataque no 
 
 ## Ataques de Oportunidade
 
-Caso um inimigo esteja no alcance de seus Ataques Corpo a Corpo, e ele saia do alcance, você poderá executar um Ataque como uma Reação. Esse Ataque é chamado de Ataque de Oportunidade.
-
-Esse Ataque é uma exceção ao custo das Reações: um Ataque de Oportunidade não custa uma Ação do seu próximo Turno. Você só pode realizar um Ataque de Oportunidade por Rodada.
+Caso um inimigo esteja no alcance de seus Ataques Corpo a Corpo, e ele saia do alcance, você poderá executar um Ataque como uma Reação. Esse Ataque é chamado de Ataque de Oportunidade, e consome a sua Reação da Rodada, como qualquer outra Reação.
 
 ## Fórmula de Dano
 
@@ -94,7 +92,7 @@ Por exemplo, com dois pontos na Margem de Ameaça, seus Ataques serão Ataques C
 
 ## Armas e Objetos Equipados
 
-Alguns itens necessitam que você os segure em uma das mãos para que possam ser usados. Você pode segurar uma quantidade de itens igual à sua quantidade de mãos. Você pode soltar um item segurado com uma Ação Livre, e gastará uma Ação para apanhá-lo do chão. Para trocar um item equipado por outro que você possua, você gastará uma Ação. Por padrão, uma criatura possui duas mãos, e todas as opções de criaturas que você pode escolher para jogar também possuem duas mãos. É comum que apenas alguns PDMs possuam mais de duas.
+Alguns itens necessitam que você os segure em uma das mãos para que possam ser usados. Você pode segurar uma quantidade de itens igual à sua quantidade de mãos. Você pode soltar um item segurado com uma Ação Livre, e gastará uma Ação Bônus para apanhá-lo do chão. Para trocar um item equipado por outro que você possua, você gastará uma Ação Bônus. Por padrão, uma criatura possui duas mãos, e todas as opções de criaturas que você pode escolher para jogar também possuem duas mãos. É comum que apenas alguns PDMs possuam mais de duas.
 
 ## Desarme
 
@@ -102,7 +100,7 @@ Caso uma criatura seja desarmada, ela perderá o acesso à sua Arma. A depender 
 
 ## Ataques Desarmados
 
-Os Ataques Desarmados causam, por padrão, Dano de Grau 1 (1d4) + For ou Des de Dano de Impacto (explicado no Capítulo 1.7 - Tipos de Dano).
+Os Ataques Desarmados causam, por padrão, Dano de Grau 1 + For ou Des de Dano de Impacto (explicado no Capítulo 1.7 - Tipos de Dano).
 
 ## Desviar
 
@@ -116,7 +114,7 @@ Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa po
 
 Arremessar um item com o intuito de ferir uma criatura é um Ataque Físico à Distância. Você precisa superar a CA do alvo como em qualquer outro Ataque, utilizando seu Modificador de Destreza no BA. Itens arremessáveis contam como Armas à Distância para critérios de Proficiência. Ou seja, se você é Proficiente em Armas à Distância, adiciona seu BP ao BA de Ataques com eles.
 
-O BD de um Ataque com um item arremessável é definido pelo próprio item. Por padrão, o dano é de Grau 1 (1d4), sem BD.
+O BD de um Ataque com um item arremessável é definido pelo próprio item. Por padrão, o dano é de Grau 1, sem BD.
 
 O alcance de um arremesso é de 1,5 metros para cada ponto no seu Modificador de Força ou no de Destreza, com mínimo de 1,5 metros. Não é possível Arremessar um item além desse alcance.
 

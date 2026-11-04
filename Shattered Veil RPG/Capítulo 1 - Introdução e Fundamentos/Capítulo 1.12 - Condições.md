@@ -12,7 +12,7 @@ Você tem Desvantagem em Ataques, e seu Deslocamento é cortado pela metade. Ess
 
 ### Caído
 
-A única forma de locomoção possível é Esgueirar, mesmo em espaços amplos, como se estivesse rastejando. Você tem Desvantagem em Ataques. Quaisquer Ataques direcionados a você têm Vantagem. Você pode se levantar com uma Ação.
+A única forma de locomoção possível é Esgueirar, mesmo em espaços amplos, como se estivesse rastejando. Você tem Desvantagem em Ataques. Quaisquer Ataques direcionados a você têm Vantagem. Você pode se levantar com uma Ação Bônus.
 
 ### Debilitado
 
@@ -24,7 +24,7 @@ Você não pode realizar nenhuma ação hostil contra quem o Encantou ou contra 
 
 ### Exausto
 
-O Valor de Exaustão vai de 1 a 6, e cada um aplica uma penalidade diferente. Os efeitos são cumulativos: cada Valor inclui os efeitos dos anteriores. Normalmente se está Exausto após passar longos períodos sem Descansar, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada 24 horas sem Descansar, o Valor de Exaustão aumenta em um. A cada Descanso de pelo menos 8 horas, ele diminui em um. Descansos mais curtos ainda recuperam PVs e PMs, mas não reduzem o Valor de Exaustão.
+O Valor de Exaustão vai de 1 a 6, e cada um aplica uma penalidade diferente. Os efeitos são cumulativos: cada Valor inclui os efeitos dos anteriores. Normalmente se está Exausto após passar longos períodos sem Descansar, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada 24 horas sem ter um Descanso Longo, o Valor de Exaustão aumenta em um. A cada Descanso Longo tido, ele diminui em um. Descansos Curtos ainda podem recuperar PVs e PMs, mas não reduzem o Valor de Exaustão.
 
 |Valor de Exaustão|Efeito|
 |---|---|
@@ -43,23 +43,23 @@ Você deixa de estar Furtivo ao realizar um Ataque, conjurar uma Magia, fazer um
 
 ### Incapacitado
 
-Você não pode realizar nenhum tipo de Ação, Ação Livre, ou Reação. Seu Deslocamento também é reduzido a zero. Você falha automaticamente em Salvaguardas de Força e Destreza.
+Você não pode realizar nenhum tipo de Ação, Ação Livre, Ação Bônus, ou Reação. Seu Deslocamento também é reduzido a zero. Você falha automaticamente em Salvaguardas de Força e Destreza.
 
 ### Invisível
 
-Você não pode ser identificado pela visão. Você deixa de estar Invisível ao fazer qualquer Ação ou Reação.
+Você não pode ser identificado pela visão. Você deixa de estar Invisível ao fazer qualquer Ação, Ação Bônus ou Reação.
 
 ### Morrendo
 
 Você está Incapacitado e só pode sair desta Condição caso seja estabilizado de alguma forma. A única forma de ficar Morrendo é seus PVs chegarem a 0.
 
-Para se estabilizar, você precisa receber três instâncias de cura. Cada hora descansada conta como uma instância de cura.
+Para se estabilizar, você precisa receber três instâncias de cura. Cada hora de Descanso Curto conta como uma instância de cura, e um Descanso Longo conta como uma só.
 
-Ao receber uma instância de cura, você volta a si e consegue se mover, mas só pode Andar. Ao receber duas, você pode fazer Ações Livres, e uma Ação é restaurada, ou seja, você pode usá-la no seu Turno, ou como Reação. Isso é uma exceção às regras de Incapacitado. As curas restauram seus PVs normalmente, mas as demais restrições desta Condição continuam até que você se estabilize.
+Ao receber uma instância de cura, você volta a si e consegue se mover, mas só pode Andar. Ao receber duas, você pode fazer Ações Livres, usar uma Ação no seu Turno, e usar a sua Reação da Rodada. Isso é uma exceção às regras de Incapacitado, e as Ações Bônus continuam impedidas. As curas restauram seus PVs normalmente, mas as demais restrições desta Condição continuam até que você se estabilize.
 
 Ao sofrer dano enquanto estiver Morrendo, uma instância de cura que você tenha recebido é anulada, e o dano também diminui os PVs que você recuperou até então. Caso não tenha recebido nenhuma, o dano é contabilizado, e ao sofrer três instâncias de dano você morre.
 
-**Ferimentos Profundos**: Caso você seja estabilizado, você terá um Ferimento Profundo. Ao receber três Ferimentos Profundos, você morre sem ficar Morrendo. Você pode se livrar dos seus Ferimentos Profundos naturalmente ao ter um Descanso de 24 horas para cada um.
+**Ferimentos Profundos**: Caso você seja estabilizado, você terá um Ferimento Profundo. Ao receber três Ferimentos Profundos, você morre sem ficar Morrendo. Cada Descanso Longo remove um dos seus Ferimentos Profundos.
 
 ### Morto
 

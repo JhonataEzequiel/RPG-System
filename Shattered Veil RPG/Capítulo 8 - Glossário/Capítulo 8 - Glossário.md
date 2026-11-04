@@ -78,7 +78,9 @@
 
 **Ação Livre**: atividade de esforço mínimo, fora do limite de Ações.
 
-**Reação**: ação que exige um critério e só pode ser usada fora do seu Turno. Custa uma Ação do próximo Turno.
+**Ação Bônus**: ação menor. A primeira por Turno é grátis, e as seguintes custam uma Ação. Só pode ser usada no seu Turno.
+
+**Reação**: ação que exige um critério e só pode ser usada fora do seu Turno. Uma por Rodada, recuperada no início da Rodada. Não consome Ações nem Ações Bônus.
 
 **Movimentação**: capacidade de se mover pelo mundo.
 
@@ -142,7 +144,7 @@
 
 **Penalidade de Ataques**: perda cumulativa de BA ao atacar várias vezes, de -5 por Ataque além do primeiro.
 
-**Ataques de Oportunidade**: Reação gratuita, uma por Rodada, contra quem sai do seu alcance.
+**Ataques de Oportunidade**: Ataque feito como Reação contra quem sai do seu alcance.
 
 **BD**: Bônus de Dano.
 
@@ -252,7 +254,11 @@
 
 **Pontos de Atuação**: recompensa por boa interpretação. Dão Vantagem.
 
-**Descanso**: pausa para recuperar PVs e PMs.
+**Descanso**: pausa de pelo menos uma hora, fora de combate, para recuperar PVs e PMs. Pode ser Curto ou Longo.
+
+**Descanso Curto**: de 1 a 7 horas. A cada hora completa, permite gastar até cinco Dados de Vida e cinco Dados de Mana, rolando ou usando a média.
+
+**Descanso Longo**: de pelo menos 8 horas. Recupera metade dos PVs e PMs Máximos e metade dos Dados de Vida e de Mana, mais um de cada. Reduz a Exaustão e remove um Ferimento Profundo. Um por 24 horas.
 
 **Condição**: estado que afeta uma criatura.
 
@@ -262,25 +268,25 @@
 
 **Amedrontado**: temeroso de uma fonte específica.
 
-**Caído**: no chão, vulnerável.
+**Caído**: no chão, vulnerável. Levantar-se custa uma Ação Bônus.
 
 **Debilitado**: sem um ou mais sentidos.
 
 **Encantado**: impedido de ser hostil a quem o Encantou.
 
-**Exausto**: cansaço acumulado, em seis Valores. Aumenta a cada 24 horas sem Descansar, e um Descanso de 8 horas reduz um Valor.
+**Exausto**: cansaço acumulado, em seis Valores. Aumenta a cada 24 horas sem um Descanso Longo, e cada Descanso Longo reduz um Valor.
 
 **Valor de Exaustão**: nível de cansaço da Condição Exausto.
 
 **Furtivo**: escondido, com Vantagem em Ataques.
 
-**Incapacitado**: sem poder agir.
+**Incapacitado**: sem poder agir. Impede Ações, Ações Livres, Ações Bônus e Reações.
 
 **Invisível**: não pode ser visto.
 
 **Morrendo**: com 0 PVs, incapacitado até ser estabilizado.
 
-**Ferimentos Profundos**: sequelas de quem foi estabilizado.
+**Ferimentos Profundos**: sequelas de quem foi estabilizado. Cada Descanso Longo remove um.
 
 **Morto**: sem vida. Vira um Objeto.
 
@@ -306,9 +312,9 @@
 
 **Arquétipo**: grupo de Habilidades organizadas por tema.
 
-**Habilidade Passiva**: Habilidade ativada sem custar Ação, Ação Livre ou Reação.
+**Habilidade Passiva**: Habilidade ativada sem custar Ação, Ação Livre, Ação Bônus ou Reação.
 
-**Habilidade Ativa**: Habilidade que custa Ação, Ação Livre ou Reação.
+**Habilidade Ativa**: Habilidade que custa Ação, Ação Livre, Ação Bônus ou Reação.
 
 **Perícia**: competência básica atrelada a um Atributo.
 
@@ -322,7 +328,7 @@
 
 **Ladroagem**: furtar, desarmar armadilhas e realizar movimentos complicados com o corpo.
 
-**Furtividade**: capacidade de se esconder e ganhar a Condição Furtivo.
+**Furtividade**: capacidade de se esconder e ganhar a Condição Furtivo. Custa uma Ação Bônus.
 
 **Erudição**: conhecimento sobre fenômenos mágicos, itens e criaturas mágicas, e fatos sobre o cenário.
 
@@ -344,9 +350,9 @@
 
 **Limitação Inicial**: retirar pontos de Atributos na criação para usá-los depois.
 
-**Dado de Vida**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Define os PVs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PVs.
+**Dado de Vida**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Um por Nível, formando uma reserva. Define os PVs Máximos iniciais e os ganhos por Nível, e é gasto em Descansos Curtos para recuperar PVs.
 
-**Dado de Mana**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Define os PMs Máximos iniciais e os ganhos por Nível, e é rolado no Descanso para recuperar PMs.
+**Dado de Mana**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Um por Nível, formando uma reserva. Define os PMs Máximos iniciais e os ganhos por Nível, e é gasto em Descansos Curtos para recuperar PMs.
 
 **Pontos de Origem**: 7 pontos gastos na criação do personagem para aumentar o Grau dos Dados de Vida e de Mana, adquirir Proficiências, ou trocar por PHs.
 
@@ -364,4 +370,4 @@
 
 **Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita, não segue regras de limite e não conta para os limites de BA e CA de Habilidades.
 
-**Procedência**: escolha oferecida por algumas Raças, como Halfling e Revenã, ligada a de onde o personagem veio. Não é uma sub-raça.
+**Procedência**: escolha oferecida por algumas Raças, como Halfling, Revenã e Siderium, ligada a de onde o personagem veio. Não é uma sub-raça.

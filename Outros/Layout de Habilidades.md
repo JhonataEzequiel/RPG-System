@@ -39,13 +39,13 @@ Nas Habilidades de vários efeitos, cada efeito é um item da lista, com a sua p
 
 |Campo|Aplica-se a|Preenchimento|
 |---|---|---|
-|Ativa ou Passiva|Todo efeito|Sempre o primeiro item. Efeitos ativos custam uma Ação, uma Ação Livre ou uma Reação, e os passivos não custam nada.|
-|Custo de Ações|Ativa|Uma Ação, Duas Ações, Três Ações, Ação Livre ou Reação.|
+|Ativa ou Passiva|Todo efeito|Sempre o primeiro item. Efeitos ativos custam uma Ação, uma Ação Livre, uma Ação Bônus ou uma Reação, e os passivos não custam nada.|
+|Custo de Ações|Ativa|Uma Ação, Duas Ações, Três Ações, Ação Livre, Ação Bônus ou Reação.|
 |Custo de Mana|Ativa|A quantidade de PMs.|
 |Alcance|Todo efeito|Toque, uma distância em metros ou Ilimitado.|
 |Alvo|Todo efeito|Quem ou o que é afetado: você, uma criatura, um Objeto, uma Área (formato e tamanho) etc.|
 |Duração|Todo efeito|Instantânea, uma quantidade de Rodadas, um Encontro, uma quantidade de horas ou de dias etc.|
-|Limite de Usos|Todo efeito|Quantas vezes o efeito pode ser usado e a cada quanto tempo, como uma vez por Encontro ou por Descanso.|
+|Limite de Usos|Todo efeito|Quantas vezes o efeito pode ser usado e a cada quanto tempo, como uma vez por Encontro, por Descanso, por Descanso Curto ou por Descanso Longo.|
 
 ## Regras de Escrita
 
@@ -60,6 +60,6 @@ Nas Habilidades de vários efeitos, cada efeito é um item da lista, com a sua p
 
 Opcionalmente, cada Arquétipo pode começar com uma tabela para consulta rápida.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Nome da Habilidade|X|Y|Z|
+| Habilidade         | Custo de PHs | Requisitos de Atributos | Requisitos de Habilidades |
+| ------------------ | ------------ | ----------------------- | ------------------------- |
+| Nome da Habilidade | X            | Y                       | Z                         |

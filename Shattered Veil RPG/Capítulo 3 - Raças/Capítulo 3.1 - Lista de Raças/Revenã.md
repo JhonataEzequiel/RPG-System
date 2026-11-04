@@ -12,7 +12,7 @@ Como Revenã, você escolhe uma Procedência: Zumbi ou Esqueleto. Ambas comparti
 
 **Natureza Sombria** (Passiva): você tem Fraqueza 5 a Dano Luminoso. Você não pode ter nenhuma Resistência nem Imunidade a Dano Luminoso.
 
-**Pária** (Passiva): você tem Desvantagem em Testes de Persuasão e Enganação caso não esteja disfarçado, e +3 no BA de Testes de Intimidação. Para se disfarçar, faça um Teste de Atuação de CD 12 ao finalizar um Descanso. A CD pode variar, a depender das circunstâncias, e você também pode realizar esse Teste em outros momentos, caso o Mestre permita.
+**Pária** (Passiva): você tem Desvantagem em Testes de Persuasão e Enganação caso não esteja disfarçado, e +3 no BA de Testes de Intimidação. Para se disfarçar, faça um Teste de Atuação de CD 15 ao finalizar um Descanso. A CD pode variar, a depender das circunstâncias, e você também pode realizar esse Teste em outros momentos, caso o Mestre permita.
 
 ## Revenã Zumbi
 
@@ -30,13 +30,13 @@ Os Revenãs Esqueletos são mortos reduzidos aos ossos, capazes de separar os pr
 
 ### Habilidades de Raça
 
-**Ossudo** (Passiva): você é Imune a Dano Sanguíneo e a Dano Venenoso. Você possui Resistência a Dano Ígneo e a Dano Perfurante iguais ao seu BP. Por último, você possui Fraqueza 5 a Dano de Impacto.
+**Ossudo** (Passiva): você é Imune a Dano Sanguíneo e a Dano Venenoso. Você possui Resistência a Dano Ígneo e a Dano Perfurante iguais a um Modificador de algum Atributo, à sua escolha. Por último, você possui Fraqueza 5 a Dano de Impacto.
 
 #### Desencaixar
 
 Você pode separar do corpo os seus quatro membros: os dois braços e as duas pernas. Um membro desencaixado ainda é considerado parte do seu corpo até que ultrapasse uma distância máxima de 120 metros em relação ao seu corpo. Você controla a parte removida livremente. Caso ela seja afastada ainda mais, você perde o controle dela, e ela deixa de fazer parte do seu corpo e se torna um Objeto. Partes desencaixadas só podem realizar Ações Livres, e têm um Deslocamento de 9 metros. Elas se movem e agem apenas durante o seu Turno, em paralelo a você, e não podem agir fora dele. Caso uma parte desencaixada receba dano, você não o recebe, mas perde o controle dela, e ela deixa de fazer parte do seu corpo e se torna um Objeto.
 
-- **Desencaixar Membro** (Ativa | Custo de Ações: Uma Ação | Alvo: um dos seus braços ou pernas): você remove o membro do seu corpo. Ao desencaixar uma de suas pernas, você perde metade do seu Deslocamento. Ao desencaixar as duas, perde todo o Deslocamento. Deslocamento Aquático não é afetado. Ao desencaixar um braço, você deixa cair qualquer item que estiver segurando com ele.
-- **Reencaixar Membro** (Ativa | Custo de Ações: Uma Ação | Alvo: um membro seu adjacente a você): você recoloca o membro no seu corpo, sem precisar receber uma instância de cura. Isso vale para membros desencaixados e para qualquer membro perdido por desmembramento.
+- **Desencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um dos seus braços ou pernas): você remove o membro do seu corpo. Ao desencaixar uma de suas pernas, você perde metade do seu Deslocamento. Ao desencaixar as duas, perde todo o Deslocamento. Deslocamento Aquático não é afetado. Ao desencaixar um braço, você deixa cair qualquer item que estiver segurando com ele.
+- **Reencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um membro seu adjacente a você): você recoloca o membro no seu corpo, sem precisar receber uma instância de cura. Isso vale para membros desencaixados e para qualquer membro perdido por desmembramento.
 
-**Cálcio** (Passiva): ao receber uma instância de cura, você recupera quaisquer membros perdidos. Além disso, você pode escolher recuperar um membro que você desencaixou. Neste caso, perde o controle do membro desencaixado, e recebe um novo. Sempre que receber uma instância de cura que não venha de uma Poção, ela recebe um aumento igual ao seu BP. Esse aumento não se aplica à cura de Descansos. Ao tomar uma Poção, você a derrama em seus ossos, que a absorvem, curando sempre o máximo possível da Poção, caso seja de restauração. Para mais detalhes, confira o Capítulo 4.8 - Itens Consumíveis.
+**Cálcio** (Passiva): ao receber uma instância de cura, você recupera quaisquer membros perdidos. Além disso, você pode escolher recuperar um membro que você desencaixou. Neste caso, perde o controle do membro desencaixado, e recebe um novo. Sempre que receber uma instância de cura que não venha de uma Poção, você se cura em um adicional igual a um Modificador de algum Atributo, à sua escolha. Esse aumento não se aplica à cura de Descansos. Ao tomar uma Poção, você a derrama em seus ossos, que a absorvem, curando sempre o máximo possível da Poção, caso seja de restauração. Para mais detalhes, confira o Capítulo 4.8 - Itens Consumíveis.

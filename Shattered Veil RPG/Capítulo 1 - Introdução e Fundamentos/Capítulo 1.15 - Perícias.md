@@ -1,4 +1,4 @@
-Perícias são competências básicas em que um personagem se destaca. Cada Perícia é atrelada a um Atributo e é utilizada principalmente em Testes, que determinam a taxa de sucesso de alguém naquela competência. Elas são mais comuns fora de combate, e realizar um Teste de Perícia em combate custa uma Ação.
+Perícias são competências básicas em que um personagem se destaca. Cada Perícia é atrelada a um Atributo e é utilizada principalmente em Testes, que determinam a taxa de sucesso de alguém naquela competência. Elas são mais comuns fora de combate, e realizar um Teste de Perícia em combate custa uma Ação Bônus.
 
 Por padrão, o BA de um Teste de Perícia é o Modificador do Atributo ao qual ela pertence, e ele é somado mesmo quando negativo. Quem é Proficiente em uma Perícia é chamado de Perito, e adiciona também seu BP ao BA. O BA de uma Perícia herda o nome dela. Por exemplo, o BA dos Testes de Percepção é chamado de Percepção.
 
@@ -28,7 +28,7 @@ Segue uma lista com todas as Perícias, e a qual Atributo estão atreladas:
 ## Destreza
 
 1. **Ladroagem**: reúne tudo aquilo que é típico de um ladrão. É usada quando você deseja furtar algo de alguém, se livrar de uma armadilha sem ativá-la, ou realizar um movimento complicado com o corpo, como pular de um local perigoso para outro.
-2. **Furtividade**: determina a sua capacidade de se esconder. Você pode realizar Testes de Furtividade para se esconder, ganhando a Condição Furtivo. Você não pode estar sendo visto pela criatura à qual deseja se esconder antes de realizar o Teste de Furtividade. Para realizar um Teste de Furtividade é necessária uma Ação.
+2. **Furtividade**: determina a sua capacidade de se esconder. Você pode realizar Testes de Furtividade para se esconder, ganhando a Condição Furtivo. Você não pode estar sendo visto pela criatura à qual deseja se esconder antes de realizar o Teste de Furtividade. Para realizar um Teste de Furtividade é necessária uma Ação Bônus.
 
 ## Arcano
 

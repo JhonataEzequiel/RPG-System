@@ -38,6 +38,8 @@ Você pode optar por adicionar novos pontos de duas maneiras: rolando os dados, 
 
 Você não adiciona Modificadores negativos. O ganho de PVs ou PMs só é feito ao terminar de alocar seus novos Pontos de Atributo, caso deseje alocá-los em Constituição ou Sabedoria. Ou seja, o Modificador já atualizado é o que será somado ao dado.
 
+Ao evoluir de Nível, você também ganha um Dado de Vida e um Dado de Mana, que passam a fazer parte da sua reserva máxima de dados (veja o Capítulo 1.11 - Descansos).
+
 ## Pontos Retroativos
 
 Ao aumentar seu Modificador de Constituição ou Sabedoria, adicione 1 PV Máximo ou 1 PM Máximo, respectivamente, para cada ponto aumentado no Modificador e para cada Nível abaixo do seu Nível atual. Por exemplo, caso você evolua sua Constituição de 9 para 10 no Nível 14, seu Modificador sobe de +4 para +5, e você adiciona +13 aos seus PVs Máximos. Se o seu Modificador subisse dois pontos, seriam +26.
