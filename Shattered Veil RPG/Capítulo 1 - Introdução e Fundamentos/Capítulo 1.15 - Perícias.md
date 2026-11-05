@@ -27,8 +27,9 @@ Segue uma lista com todas as Perícias, e a qual Atributo estão atreladas:
 
 ## Destreza
 
-1. **Ladroagem**: reúne tudo aquilo que é típico de um ladrão. É usada quando você deseja furtar algo de alguém, se livrar de uma armadilha sem ativá-la, ou realizar um movimento complicado com o corpo, como pular de um local perigoso para outro.
+1. **Ladroagem**: reúne tudo aquilo que é típico de um ladrão. É usada quando você deseja furtar algo de alguém, se livrar de uma armadilha sem ativá-la.
 2. **Furtividade**: determina a sua capacidade de se esconder. Você pode realizar Testes de Furtividade para se esconder, ganhando a Condição Furtivo. Você não pode estar sendo visto pela criatura à qual deseja se esconder antes de realizar o Teste de Furtividade. Para realizar um Teste de Furtividade é necessária uma Ação Bônus.
+3. **Acrobacia**: determina a sua capacidade acrobática, como a de saltar entre vãos perigosos, ou se manter de pé em um local de difícil travessia.
 
 ## Arcano
 

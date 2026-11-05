@@ -61,3 +61,7 @@ Como regra geral, uma bolsa pequena de moedas, costumeiramente encontradas em av
 ## Itens Consumíveis
 
 Alguns itens são consumíveis, e podem ser utilizados apenas uma vez cada. Poções, Venenos, Resinas, dentre outros, são considerados Itens Consumíveis. As regras de Itens Consumíveis estarão no Capítulo 4.6 - Itens Consumíveis.
+
+## Itens Especiais
+
+Por último, existirão os Itens Especiais. Tratam-se de itens cujo poder e raridade são maiores que itens comuns. Podem ser frutos de magos poderosos, ou de ferreiros e alquimistas de grande prestígio. Contém efeitos únicos. Neste Guia do Jogador, apenas uma pequena quantidade de Itens Especiais estarão disponíveis. O Guia do Mestre conterá mais itens. A lista deste guia está no Capítulo 4.10 - Itens Especiais.

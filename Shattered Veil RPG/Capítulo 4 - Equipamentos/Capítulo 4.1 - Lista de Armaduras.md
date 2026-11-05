@@ -4,19 +4,18 @@
 | Armadura            | Preço | CA  | Requisitos | Penalidades | Efeitos Adicionais                     | Peso |
 | ------------------- | ----- | --- | ---------- | ----------- | -------------------------------------- | ---- |
 | Nenhuma Armadura    | 0     | +0  | -          | 0           | -                                      | 0    |
-| Roupa de Explorador | 1pp   | +0  | -          | 0           | -                                      | 0    |
-| Túnica de Mago      | 3po   | +0  | -          | 0           | +1d4 Pontos de Mana Máximos            | 0    |
-| Túnica de Monge     | 3po   | +0  | -          | 0           | Ataques Desarmados aumentam em um Grau | 0    |
+| Roupa de Explorador | 1 PP  | +0  | -          | 0           | -                                      | 0    |
+| Túnica de Mago      | 3 PO  | +0  | -          | 0           | +1d4 Pontos de Mana Máximos            | 0    |
+| Túnica de Monge     | 3 PO  | +0  | -          | 0           | Ataques Desarmados aumentam em um Grau | 0    |
 ## Armaduras Ágeis
 
-| Armadura                   | Preço | CA  | Requisitos    | Penalidades | Efeitos Adicionais          | Peso |
-| -------------------------- | ----- | --- | ------------- | ----------- | --------------------------- | ---- |
-| Armadura Acolchoada        | 2pp   | +1  | 1 de Destreza | 0           | -                           | 4 kg |
-| Couro                      | 1po   | +1  | 0             | 0           | -                           | 4 kg |
-| Couro Batido               | 3po   | +2  | 1 de Destreza | 0           | -                           | 5 kg |
-| Couro de Elite             | 4po   | +2  | 1 de Destreza | 0           | -                           | 6 kg |
-| Armadura de Pele Camuflada | 5po   | +1  | 1 de Destreza | 0           | +2 em Testes de Furtividade | 5 kg |
-| Armadura Nobre             | 25po  | +3  | 3 de Destreza | 0           | +2 em Testes de Conversação | 5 kg |
+| Armadura                   | Preço | CA  | Requisitos    | Penalidades | Efeitos Adicionais                 | Peso |
+| -------------------------- | ----- | --- | ------------- | ----------- | ---------------------------------- | ---- |
+| Couro                      | 1 PO  | +1  | 1 de Destreza | 0           | -                                  | 3    |
+| Couro Batido               | 3 PO  | +2  | 1 de Destreza | 0           | -                                  | 4    |
+| Couro de Elite             | 4 PO  | +2  | 1 de Destreza | 0           | -                                  | 5    |
+| Armadura de Pele Camuflada | 5 PO  | +1  | 1 de Destreza | 0           | +3 em Testes de Furtividade        | 3    |
+| Armadura Nobre             | 25 PO | +3  | 3 de Destreza | 0           | +3 em todas as Perícias de Carisma | 5    |
 ## Armaduras Pesadas
 
 | Armadura                 | Preço | CA  | Requisitos | Escalas    | Penalidades           | Efeitos Adicionais | Peso  |
