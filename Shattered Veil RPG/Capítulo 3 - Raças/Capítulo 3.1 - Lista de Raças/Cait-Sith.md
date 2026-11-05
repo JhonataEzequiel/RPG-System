@@ -8,12 +8,11 @@ Tudo é feito de energia, em um grau maior ou menor. Quando um corpo qualquer so
 
 **Roubo de Vida** (Passiva | Limite de Usos: uma vez por Turno): ao causar uma instância de dano a um inimigo, com exceção de Dano Contínuo, você recebe uma recuperação de PVs cujo valor depende do seu Nível, de acordo com a tabela abaixo. Ela conta como uma instância de cura.
 
-|Nível|Grau|Dado|
-|---|---|---|
-|1-4|-|1 PV|
-|5-8|1|1d4|
-|9-12|2|1d6|
-|13-16|4|1d10|
-|17-20|5|1d12|
+| Nível | Grau | Dado |
+| ----- | ---- | ---- |
+| 1-4   | -    | 1 PV |
+| 5-12  | 1    | 1d4  |
+| 13-17 | 2    | 1d6  |
+| 18-20 | 3    | 1d8  |
 
 **Garras Felinas** (Passiva): você pode escolher causar Dano Cortante, em vez de Dano de Impacto, com cada Ataque Desarmado.

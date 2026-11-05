@@ -22,7 +22,9 @@ Os Revenãs Zumbis são cadáveres reanimados que mantêm a carne, ainda que apo
 
 **Incansável** (Passiva): você é Imune a qualquer instância de Exaustão, podendo escolher por quais será afetado, se desejar. A exceção é a Exaustão ocasionada por estar sobrecarregado (exceder a Capacidade de Carga). Para mais detalhes, confira o Capítulo 4 - Equipamentos. Além disso, caso esteja Morrendo, você ainda pode agir e se mover normalmente, mesmo sem uma instância de cura. Os demais efeitos das Condições Morrendo e Incapacitado continuam valendo, como as falhas automáticas em Salvaguardas de Força e Destreza, e as regras de instâncias de dano e de cura.
 
-**Regeneração dos Mortos** (Passiva): você se cura em Grau 3 ao final de cada Encontro. Você não recebe a cura caso esteja Morrendo.
+**Regeneração dos Mortos** (Passiva): você se cura em Grau 6 ao final de cada Encontro. Você não recebe a cura caso esteja Morrendo.
+
+**Praga** (Passiva): seus Ataques transmitem energia sombria. Você causa um adicional de dano igual a um Modificador, à sua escolha. O dano adicional é Dano Sombrio. Você pode escolher não utilizar essa Habilidade sempre que quiser.
 
 ## Revenã Esqueleto
 
@@ -40,3 +42,5 @@ Você pode separar do corpo os seus quatro membros: os dois braços e as duas pe
 - **Reencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um membro seu adjacente a você): você recoloca o membro no seu corpo, sem precisar receber uma instância de cura. Isso vale para membros desencaixados e para qualquer membro perdido por desmembramento.
 
 **Cálcio** (Passiva): ao receber uma instância de cura, você recupera quaisquer membros perdidos. Além disso, você pode escolher recuperar um membro que você desencaixou. Neste caso, perde o controle do membro desencaixado, e recebe um novo. Sempre que receber uma instância de cura que não venha de uma Poção, você se cura em um adicional igual a um Modificador de algum Atributo, à sua escolha. Esse aumento não se aplica à cura de Descansos. Ao tomar uma Poção, você a derrama em seus ossos, que a absorvem, curando sempre o máximo possível da Poção, caso seja de restauração. Para mais detalhes, confira o Capítulo 4.8 - Itens Consumíveis.
+
+**Se Juntar** (Passiva | Limites de Uso: uma vez por Descanso Longo): ao cair a 0 PVs, seus ossos se separam, caem no chão, e se juntam novamente, fazendo você retornar com Grau 5 de PVs, e isso conta como uma instância de cura.

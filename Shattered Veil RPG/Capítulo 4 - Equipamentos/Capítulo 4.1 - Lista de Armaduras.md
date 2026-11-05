@@ -1,22 +1,22 @@
 
 ## Roupas
 
-| Armadura            | Preço | CA  | Requisitos | Escalas                   | Penalidades | Efeitos Adicionais          | Peso |
-| ------------------- | ----- | --- | ---------- | ------------------------- | ----------- | --------------------------- | ---- |
-| Nenhuma Armadura    | 0     | +0  | -          | 0                         | 0           | -                           | 0 kg |
-| Roupa de Explorador | 1pp   | +0  | -          | D em Destreza             | 0           | -                           | 2 kg |
-| Túnica de Mago      | 3po   | +0  | -          | C em Sabedoria            | 0           | +1d4 Pontos de Mana Máximos | 2 kg |
-| Túnica de Monge     | 3po   | +0  | -          | C em Força, C em Destreza | 0           | -                           | 2 kg |
-## Armaduras Leves
+| Armadura            | Preço | CA  | Requisitos | Penalidades | Efeitos Adicionais                     | Peso |
+| ------------------- | ----- | --- | ---------- | ----------- | -------------------------------------- | ---- |
+| Nenhuma Armadura    | 0     | +0  | -          | 0           | -                                      | 0    |
+| Roupa de Explorador | 1pp   | +0  | -          | 0           | -                                      | 0    |
+| Túnica de Mago      | 3po   | +0  | -          | 0           | +1d4 Pontos de Mana Máximos            | 0    |
+| Túnica de Monge     | 3po   | +0  | -          | 0           | Ataques Desarmados aumentam em um Grau | 0    |
+## Armaduras Ágeis
 
-| Armadura                   | Preço | CA  | Requisitos    | Escalas       | Penalidades | Efeitos Adicionais          | Peso |
-| -------------------------- | ----- | --- | ------------- | ------------- | ----------- | --------------------------- | ---- |
-| Armadura Acolchoada        | 2pp   | +1  | 1 de Força    | D em Força    | 0           | -                           | 4 kg |
-| Couro                      | 1po   | +1  | 0             | D em Destreza | 0           | -                           | 4 kg |
-| Couro Batido               | 3po   | +2  | 1 de Destreza | D em Destreza | 0           | -                           | 5 kg |
-| Couro de Elite             | 4po   | +2  | 1 de Destreza | C em Destreza | 0           | -                           | 6 kg |
-| Armadura de Pele Camuflada | 5po   | +1  | 1 de Destreza | C em Destreza | 0           | +2 em Testes de Furtividade | 5 kg |
-| Armadura Nobre             | 25po  | +3  | 3 de Carisma  | B em Carisma  | 0           | +2 em Testes de Conversação | 5 kg |
+| Armadura                   | Preço | CA  | Requisitos    | Penalidades | Efeitos Adicionais          | Peso |
+| -------------------------- | ----- | --- | ------------- | ----------- | --------------------------- | ---- |
+| Armadura Acolchoada        | 2pp   | +1  | 1 de Destreza | 0           | -                           | 4 kg |
+| Couro                      | 1po   | +1  | 0             | 0           | -                           | 4 kg |
+| Couro Batido               | 3po   | +2  | 1 de Destreza | 0           | -                           | 5 kg |
+| Couro de Elite             | 4po   | +2  | 1 de Destreza | 0           | -                           | 6 kg |
+| Armadura de Pele Camuflada | 5po   | +1  | 1 de Destreza | 0           | +2 em Testes de Furtividade | 5 kg |
+| Armadura Nobre             | 25po  | +3  | 3 de Destreza | 0           | +2 em Testes de Conversação | 5 kg |
 ## Armaduras Pesadas
 
 | Armadura                 | Preço | CA  | Requisitos | Escalas    | Penalidades           | Efeitos Adicionais | Peso  |

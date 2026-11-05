@@ -4,7 +4,7 @@ Esse capítulo é dedicado para destrinchar todas as principais regras de equipa
 
 O valor que mede o quanto você pode carregar é chamado de Capacidade de Carga. Quanto maior sua Capacidade de Carga, mais Peso você consegue carregar. Cada item pesa zero ou mais unidades de Peso.
 
-Sua Capacidade de Carga é calculada como: 15 + For + BP.
+Sua Capacidade de Carga é calculada como: 15 + For + Con.
 
 ## Armaduras
 
@@ -26,20 +26,20 @@ Existem quatro tipos de Armas, eles são subdivididos em duas categorias de Ataq
 
 Algumas Armas podem aumentar o alcance padrão de Ataques Corpo-a-Corpo, como descrito no Capítulo 1.6 - Combate e, caso o façam, isso estará descrito na Arma em si na coluna "Alcance" nas tabelas do Capítulo 4.2 - Lista de Armas.
 
-Alguns dos tipos permitem que você Ataque com duas Armas ao mesmo tempo, equipando uma em cada mão. Ao fazer isso, o BA utilizado neste Ataque será o menor entre os bônus de cada Arma, caso sejam diferentes. Atacar com duas Armas ao mesmo tempo tem um custo de Ações maior que varia de acordo com o tipo de Arma.
+Alguns dos tipos permitem que você Ataque com duas Armas ao mesmo tempo, equipando uma em cada mão. Ao fazer isso, o BA utilizado neste Ataque será o menor entre os bônus de cada Arma, caso sejam diferentes. Atacar com duas Armas ao mesmo tempo tem um custo de Ações maior que varia de acordo com o tipo de Arma, e causa o dano de ambas as Armas somado.
 
 **Tipos de Arma:**
 
-- **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações e causa o dano de ambas.
+- **Leves:** Pode-se usar uma em cada mão. Atacar com as duas custa duas Ações.
 - **Comuns:** Pode-se usar uma em cada mão. Atacar com as duas custa três Ações.
-- **Empunhadura Dupla:** Exigem duas mãos. Não podem ser usadas em uma mão só, nem duas ao mesmo tempo.
-- **Armas à Distância:** O alcance está na tabela de cada Arma. Atacar além dele impõe Desvantagem, e -1 para cada 9 metros além do alcance. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior e uma chance de acerto maior, mas não tem bônus. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, e Atacar com duas custa três Ações.
+- **Empunhadura Dupla:** Exigem duas mãos. Não podem ser usadas em uma mão só, nem duas Armas ao mesmo tempo.
+- **Armas à Distância:** O alcance está na tabela de cada Arma. Atacar além dele impõe Desvantagem, e -1 no BA para cada 9 metros além do alcance. Arcos funcionam sem precisar recarregar. Bestas e Armas de Fogo precisam recarregar (uma Ação) entre disparos, têm dano bruto maior e uma chance de acerto maior, mas não tem bônus. Bestas recarregam a cada disparo; Armas de Fogo, após uma quantidade específica de tiros. Quando especificado, é possível usar duas Armas à Distância ao mesmo tempo, e Atacar com duas custa três Ações.
 
-**Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos. Ao fazer isso, adicione seu Modificador de dano ao BD, caso ele ainda não esteja adicionado, ou duplique-o, caso já esteja.
+**Empunhar com duas mãos:** Armas Comuns e Leves podem ser empunhadas com duas mãos. Ao fazer isso, adicione um Modificador à sua escolha ao BD que ainda não esteja sendo usado pela Arma.
 
 ## Escudos
 
-Escudos ocupam uma das mãos. Você pode levantar o Escudo com uma Reação ao receber um Ataque. Ao levantar, ficará com ele levantado até o início do seu próximo Turno, recebendo +2 de CA enquanto ele estiver levantado.
+Escudos ocupam uma das mãos e concedem Resistência a Dano Físico. A depender do Escudo, a Resistência concedida pode variar.
 
 ## Munições
 
@@ -47,8 +47,17 @@ Armas que disparam projéteis consomem uma unidade de munição por Ataque. Apó
 
 ## Moedas
 
-Moedas ditam a economia do jogo e servem como tesouro básico. Preços variam por local e raridade do item.
+Moedas ditam a economia do jogo e servem como tesouro básico. Preços variam por local e raridade do item. Há 4 tipos de moedas, sendo a principal PO (Peças de Ouro). As demais são múltiplos de PO, conforme mostra a tabela a seguir:
 
-## Itens Aplicáveis
+| Moeda                 | PC   | PP   | PO    | PL     |
+| --------------------- | ---- | ---- | ----- | ------ |
+| Peças de Cobre (PC)   | 1    | 1/10 | 1/100 | 1/1000 |
+| Peças de Prata (PP)   | 10   | 1    | 1/10  | 1/100  |
+| Peças de Ouro (PO)    | 100  | 10   | 1     | 1/10   |
+| Peças de Platina (PL) | 1000 | 100  | 10    | 1      |
 
-Existem alguns itens que podem ser aplicados a outros, e são consumidos no processo. Os efeitos são diversos, assim como peso, preço, e outras características.
+Como regra geral, uma bolsa pequena de moedas, costumeiramente encontradas em aventuras, pesa meia unidade de Peso. Para critérios de simplificação, adota-se 3 unidades de Peso para cada 100 moedas de qualquer tipo. Seu Mestre pode optar por não contabilizar as moedas para o cálculo da Carga de Peso, ou considerar um número alto, como 5000 moedas num total, como sendo um máximo que um aventureiro pode carregar ao mesmo tempo.
+
+## Itens Consumíveis
+
+Alguns itens são consumíveis, e podem ser utilizados apenas uma vez cada. Poções, Venenos, Resinas, dentre outros, são considerados Itens Consumíveis. As regras de Itens Consumíveis estarão no Capítulo 4.6 - Itens Consumíveis.

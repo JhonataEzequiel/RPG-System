@@ -26,14 +26,14 @@ Você não pode realizar nenhuma ação hostil contra quem o Encantou ou contra 
 
 O Valor de Exaustão vai de 1 a 6, e cada um aplica uma penalidade diferente. Os efeitos são cumulativos: cada Valor inclui os efeitos dos anteriores. Normalmente se está Exausto após passar longos períodos sem Descansar, mas alguns Monstros ou Magias podem infligir essa Condição de outras formas. A cada 24 horas sem ter um Descanso Longo, o Valor de Exaustão aumenta em um. A cada Descanso Longo tido, ele diminui em um. Descansos Curtos ainda podem recuperar PVs e PMs, mas não reduzem o Valor de Exaustão.
 
-|Valor de Exaustão|Efeito|
-|---|---|
-|1|Desvantagem em quaisquer Testes|
-|2|Deslocamento reduzido pela metade|
-|3|-10 no BA de todos os Testes|
-|4|PVs Máximos reduzidos pela metade|
-|5|Deslocamento reduzido para 0|
-|6|Morte|
+| Valor de Exaustão | Efeito                            |
+| ----------------- | --------------------------------- |
+| 1                 | Desvantagem em quaisquer Testes   |
+| 2                 | Deslocamento reduzido pela metade |
+| 3                 | -10 no BA de todos os Testes      |
+| 4                 | PVs Máximos reduzidos pela metade |
+| 5                 | Deslocamento reduzido para 0      |
+| 6                 | Morte                             |
 
 ### Furtivo
 

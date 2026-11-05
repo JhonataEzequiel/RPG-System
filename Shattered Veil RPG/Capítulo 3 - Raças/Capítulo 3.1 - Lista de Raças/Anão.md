@@ -8,8 +8,8 @@ Anãos possuem a capacidade de imbuir equipamentos de acordo com as suas proprie
 
 - **Aplicar Runa** (Ativa | Custo de Ações: Ação Bônus | Alcance: Toque | Alvo: um equipamento): você coloca uma Runa em um equipamento.
 - **Remover Runa** (Ativa | Custo de Ações: Ação Bônus | Alcance: Ilimitado | Alvo: um equipamento com uma Runa): você retira uma Runa que colocou em um equipamento, mesmo à distância. A Runa é removida, e ela fica disponível para uso instantaneamente. Um Anão não pode remover uma Runa colocada por outro Anão.
-- **Runa de Diamante** (Passiva | Alvo: Armaduras): concede Resistência a Dano Físico ao usuário da Armadura com a Runa. Você adiciona metade de um Modificador qualquer, à sua escolha, +1 como Resistência a Dano Físico.
-- **Runa de Ouro** (Ativa | Custo de Ações: Ação Livre | Alvo: Armas | Duração: um Ataque | Limite de Usos: uma vez por Encontro): o usuário da Runa pode escolher trocar o tipo de dano da Arma para um dos três tipos de Dano Elemental em um único Ataque. A troca deve ser feita antes do Ataque. O Ataque com o tipo de dano trocado também recebe um bônus no BD: você adiciona um Modificador seu que ainda não esteja contabilizado no dano, à sua escolha.
+- **Runa de Diamante** (Passiva | Alvo: Armaduras): concede Resistência a Dano Físico ao usuário da Armadura com a Runa. Você adiciona um Modificador + 1 qualquer, à sua escolha, como Resistência a Dano Físico.
+- **Runa de Ouro** (Ativa | Custo de Ações: Ação Livre | Alvo: Armas | Duração: um Ataque | Limite de Usos: uma vez por Encontro): o usuário da Runa pode escolher trocar o tipo de dano da Arma para um dos três tipos de Dano Elemental em um único Ataque. A troca deve ser feita antes do Ataque. O Ataque com o tipo de dano trocado também recebe um bônus no BD: você adiciona um Modificador seu que ainda não esteja contabilizado no dano, à sua escolha. Além disso, adicione também metade do seu BP.
 - **Runa de Esmeralda** (Passiva | Alvo: equipamentos): ao finalizar um Encontro, quem estiver carregando o equipamento recebe uma recuperação de Mana. O Grau dela depende do seu Nível, e não do Nível de quem carrega o equipamento, de acordo com a tabela abaixo. Ela conta como uma instância de restauração de Mana.
 
 | Nível | Grau | Dado |
@@ -19,4 +19,6 @@ Anãos possuem a capacidade de imbuir equipamentos de acordo com as suas proprie
 | 5-6   | 3    | 1d8  |
 | 7-8   | 4    | 1d10 |
 | 9-10  | 5    | 1d12 |
-| 11+   | 6    | 2d6  |
+| 11-12 | 6    | 2d6  |
+| 13-14 | 7    | 2d8  |
+| 15+   | 8    | 2d10 |

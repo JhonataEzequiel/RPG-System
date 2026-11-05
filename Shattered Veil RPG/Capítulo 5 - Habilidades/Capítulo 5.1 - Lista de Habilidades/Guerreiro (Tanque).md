@@ -249,4 +249,4 @@ Caso a Habilidade "Último Suspiro" esteja ativa, você pode escolher se sacrifi
 
 **Requisitos**: 10 de Constituição.
 
-Você se torna Imune ao dano adicional de Ataques Críticos.
+Você se torna Imune a Ataques Críticos.

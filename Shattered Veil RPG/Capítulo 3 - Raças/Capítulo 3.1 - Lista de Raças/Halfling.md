@@ -6,9 +6,9 @@ Os Halflings de Pés Sorrateiros são os mais ágeis do seu povo, e têm facilid
 
 ### Habilidades de Raça
 
-**Agilidade nos Pés** (Passiva): seu Deslocamento Vertical é igual ao seu Deslocamento Terrestre.
+**Agilidade nos Pés** (Passiva): seu Deslocamento Vertical é igual ao seu Deslocamento Terrestre. Você também tem +1 de CA permanentemente.
 
-**Desvio Rápido** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: metade do seu BP | Duração: até o início do seu próximo Turno): esta Habilidade substitui o Desviar. Ataques direcionados a você têm -5 de BA, em vez de -3. Você ainda encerra seu Turno ao usá-la. Caso você não tenha PMs suficientes, pode usar o Desviar normalmente.
+**Desvio Rápido** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: metade do seu BP | Duração: até o início do seu próximo Turno): esta Habilidade substitui o Desviar. Ataques direcionados a você têm -5 de BA, em vez de -3. Você ainda encerra seu Turno ao usá-la. Caso você não tenha PMs suficientes, pode usar o Desviar normalmente.
 
 ## Halfling de Pés Aconchegantes
 
@@ -16,9 +16,9 @@ Os Halflings de Pés Aconchegantes valorizam o lar e o descanso acima de tudo, e
 
 ### Habilidades de Raça
 
-**Caseiro** (Passiva): ao final de todo Descanso Longo, você adiciona o seu BP como PVs Temporários. O BP aumentado pela Habilidade Preparação não é considerado nesse cálculo.
+**Caseiro** (Passiva): ao final de todo Descanso Longo, você adiciona o dobro do seu BP como PVs Temporários. O BP aumentado pela Habilidade Preparação não é considerado nesse cálculo.
 
-**Preparação** (Passiva | Duração: até o início do seu próximo Encontro): sempre que fizer um Descanso Longo, você pode estendê-lo por mais duas horas. Caso faça isso, aumente seu BP em +3 pela duração desta Habilidade. O aumento não se acumula em Descansos Longos consecutivos: seu BP é aumentado uma única vez. Esta Habilidade não funciona em Descansos Curtos.
+**Preparação** (Passiva | Duração: até o fim do seu próximo Encontro): sempre que fizer um Descanso Longo, você pode estendê-lo por mais duas horas. Caso faça isso, aumente seu BP em +3 pela duração desta Habilidade. O aumento não se acumula em Descansos Longos consecutivos: seu BP é aumentado uma única vez.
 
 ## Halfling de Pés Andarilhos
 

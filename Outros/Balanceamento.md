@@ -132,11 +132,11 @@ Isso faz com que as Habilidades e Outros possam causar alguns pontos de dano a m
 
 ## PVs e PMs Máximos do Monstro
 
-PV de um monstro no NV 960 = 720, em média, como discutido. Os PMs ficam para depois.
+PV de um monstro no NV 20 = 960, em média, como discutido. Os PMs ficam para depois.
 
 **Proposta**
 
-Criar um jeito de calcular e chegar nesses 720. Um ideal seria o seguinte: a depender do tamanho do monstro, ele ganha um dado de vida diferente. Ele soma o modificador de constituição ao HP caso seja positivo. Monstros de nível alto, como dragões, teriam bastante constituição, acima de 10 (provavelmente). Considerando o valor médio entre 0 e 20, temos 10 de Constituição. Use isso como parâmetro para o cálculo. Preencha a tabela a seguir:
+Criar um jeito de calcular e chegar nesses 960. Um ideal seria o seguinte: a depender do tamanho do monstro, ele ganha um dado de vida diferente. Ele soma o modificador de constituição ao HP caso seja positivo. Monstros de nível alto, como dragões, teriam bastante constituição, acima de 10 (provavelmente). Considerando o valor médio entre 0 e 20, temos 10 de Constituição. Use isso como parâmetro para o cálculo. Preencha a tabela a seguir:
 
 |Tamanho|Dado de Vida|Média + Con|PVs no Nível 20|
 |---|---|---|---|
@@ -155,7 +155,7 @@ Criar um jeito de calcular e chegar nesses 720. Um ideal seria o seguinte: a dep
 |15|584|735|58,4|
 |20|774|980|77,4|
 
-Temos +100 de PVs só do modificador no NV 20. O resto seriam os dados. Um monstro de tamanho médio deveria chegar a 720, então dado de vida vezes 20 daria 620.
+Temos +100 de PVs só do modificador no NV 20. O resto seriam os dados. Um monstro de tamanho médio deveria chegar a 960, então dado de vida vezes 20 daria 860.
 
 Monstros com mais PVs do que isso poderiam ter menos PVs efetivos, como CA mais baixa, algumas vulnerabilidades, etc. Monstros com PVs mais altos teriam CA mais alta, resistências, buffs, etc.
 
@@ -176,10 +176,10 @@ Para dar mais folga, o Mestre pode aumentar a fração recuperada no Descanso Lo
 
 Como tabela de referência e não de regra, uma sugestão seria “Grau recomendado de Armas por Nível”, com a fórmula 5 + Nível/4 e teto 10:
 
-|Nível|1-3|4-7|8-11|12-15|16-19|20|
-|---|---|---|---|---|---|---|
-|Grau recomendado|5|6|7|8|9|10|
-|Pedras para chegar lá, partindo do Grau 1|4|6|8|11|14|20|
+| Nível                                     | 1-3 | 4-7 | 8-11 | 12-15 | 16-19 | 20  |
+| ----------------------------------------- | --- | --- | ---- | ----- | ----- | --- |
+| Grau recomendado                          | 5   | 6   | 7    | 8     | 9     | 10  |
+| Pedras para chegar lá, partindo do Grau 1 | 4   | 6   | 8    | 11    | 14    | 20  |
 
 ### Pedras com o novo custo
 
