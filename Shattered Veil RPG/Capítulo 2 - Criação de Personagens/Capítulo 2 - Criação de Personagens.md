@@ -30,7 +30,7 @@ Os Dados de Vida e de Mana são contabilizáveis. Você ganha um a cada Nível, 
 
 ## Proficiências
 
-Você poderá ser Proficiente em um ou mais tipos de Armadura e de Arma, Magias no geral, Salvaguardas, e Perícias (se tornando Perito). Você poderá escolher suas Proficiências na seção "Origem".
+Você poderá ser Proficiente em um ou mais tipos de Armadura e de Arma, Escudos, Magias no geral, Salvaguardas, e Perícias (se tornando Perito). Você poderá escolher suas Proficiências na seção "Origem".
 
 ## Escolha de Habilidades
 
@@ -48,4 +48,4 @@ Uma vez escolhido o Dado de Vida, seus PVs Máximos iniciais serão o maior valo
 
 ## Equipamento Inicial
 
-Você começará com 25 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos. Lá também estarão as explicações de como as moedas do jogo funcionam.
+Você começará com 50 Peças de Ouro que poderá gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos. Lá também estarão as explicações de como as moedas do jogo funcionam.

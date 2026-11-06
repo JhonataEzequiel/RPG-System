@@ -35,6 +35,8 @@ Ao possuir uma Fraqueza a um tipo de dano e receber uma instância de dano desse
 
 Fraquezas e Resistências têm efeito antes de receber o dano. Ou seja, você deve levá-las em consideração antes de calcular quantos PVs foram perdidos.
 
+Fraquezas e Resistências de fontes diferentes se acumulam: os valores de Resistência ao mesmo tipo de dano são somados entre si, assim como os de Fraqueza. Caso você tenha Fraqueza e Resistência ao mesmo tipo de dano, ambas valem, e o efeito final é a diferença entre os dois valores.
+
 ## Imunidades
 
 Ser Imune a um determinado tipo de dano ou efeito faz com que você não mais seja afetado por ele. Em casos raros, Imunidades são ignoradas, e isso estará explícito na descrição do efeito em questão.

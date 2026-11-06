@@ -10,7 +10,7 @@ Atividades que exigem pouquíssimo esforço utilizam uma Ação Livre ao invés 
 
 ## Ação Bônus
 
-Tipo de ação menor dedicado para atividades complementares de complexidade e esforço maiores que uma Ação Livre, e menores que uma Ação. A primeira Ação Bônus no seu Turno é grátis, e cada Ação Bônus a partir de então requer uma Ação para ser executada. Você só pode usar Ações Bônus no seu Turno.
+Tipo de ação menor dedicado para atividades complementares de complexidade e esforço maiores que uma Ação Livre, e menores que uma Ação. Todo Turno possui um espaço de Ação Bônus, além das três Ações. Usar uma Ação Bônus nesse espaço não consome nenhuma das suas Ações. Caso queira usar mais de uma Ação Bônus no mesmo Turno, cada uma a partir da segunda custa uma Ação. Você só pode usar Ações Bônus no seu Turno.
 
 ## Reação
 
@@ -28,13 +28,13 @@ Na maioria das vezes que você quiser fazer algo será necessário rolar dados. 
 
 Muitas regras pedem a rolagem de dados, como as de dano e cura, e o dado a ser rolado é definido por um Grau de Dado (Grau). Por exemplo, uma Arma pode causar dano de Grau 3, e uma Magia de cura pode curar Grau 2. A média desses dados também será disponibilizada para consultas rápidas.
 
-| Grau | Dado | Média | Grau | Dado | Média |
-| ---- | ---- | ----- | ---- | ---- | ----- |
-| 1    | 1d4  | 2,5   | 6    | 2d6  | 7     |
-| 2    | 1d6  | 3,5   | 7    | 2d8  | 9     |
-| 3    | 1d8  | 4,5   | 8    | 2d10 | 11    |
-| 4    | 1d10 | 5,5   | 9    | 2d12 | 13    |
-| 5    | 1d12 | 6,5   | 10   | 3d10 | 16,5  |
+|Grau|Dado|Média|Grau|Dado|Média|
+|---|---|---|---|---|---|
+|1|1d4|2,5|6|2d6|7|
+|2|1d6|3,5|7|2d8|9|
+|3|1d8|4,5|8|2d10|11|
+|4|1d10|5,5|9|2d12|13|
+|5|1d12|6,5|10|3d10|16,5|
 
 Um Grau só pode ir até o 10, e não pode passar disso. Caso um efeito proporcione um aumento permanente ou temporário do Grau, ele deve respeitar esse limite. Efeitos acima desse limite são desconsiderados.
 

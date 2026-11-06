@@ -78,7 +78,7 @@
 
 **Ação Livre**: atividade de esforço mínimo, fora do limite de Ações.
 
-**Ação Bônus**: ação menor. A primeira por Turno é grátis, e as seguintes custam uma Ação. Só pode ser usada no seu Turno.
+**Ação Bônus**: ação menor. Todo Turno tem um espaço de Ação Bônus, além das três Ações, e cada Ação Bônus a partir da segunda custa uma Ação. Só pode ser usada no seu Turno.
 
 **Reação**: ação que exige um critério e só pode ser usada fora do seu Turno. Uma por Rodada, recuperada no início da Rodada. Não consome Ações nem Ações Bônus.
 
@@ -206,9 +206,9 @@
 
 **Dano Sanguíneo**: dano pela manipulação do sangue.
 
-**Fraqueza**: aumenta o dano recebido de um tipo.
+**Fraqueza**: aumenta o dano recebido de um tipo. Fraquezas de fontes diferentes se acumulam.
 
-**Resistência**: diminui o dano recebido de um tipo.
+**Resistência**: diminui o dano recebido de um tipo. Resistências de fontes diferentes se acumulam.
 
 **Imunidade**: impede ser afetado.
 
@@ -371,3 +371,53 @@
 **Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita, não segue regras de limite e não conta para os limites de BA e CA de Habilidades.
 
 **Procedência**: escolha oferecida por algumas Raças, como Halfling, Revenã e Siderium, ligada a de onde o personagem veio. Não é uma sub-raça.
+
+**Capacidade de Carga**: quanto Peso você consegue carregar. Igual a 15 + For + Con.
+
+**Peso**: unidade que mede o quanto um item pesa. Cada item pesa zero ou mais unidades.
+
+**Sobrecarga**: carregar mais Peso que a Capacidade de Carga. Causa Exaustão, que é removida ao remover o Peso extra.
+
+**Armadura**: proteção vestida em volta do corpo, que concede um bônus de CA. Possui requisitos.
+
+**Armadura Rígida**: Armadura com requisitos em Força. Dá Vantagem contra Empurrar e +4 de BA em Salvaguardas de Constituição, mas impõe Desvantagem em Furtividade e uma penalidade no Deslocamento. Dá Vantagem contra Empurrar e +4 de BA em Salvaguardas de Constituição, mas impõe Desvantagem em Furtividade e uma penalidade no Deslocamento.
+
+**Armadura Ágil**: Armadura com requisitos em Destreza. Dá +3 de BA em Salvaguardas de Destreza e +4 em Salvaguardas de Constituição. Sua CA máxima é +7. Dá +3 de BA em Salvaguardas de Destreza e +4 em Salvaguardas de Constituição. Sua CA máxima é +7.
+
+**Armadura Híbrida**: Armadura com requisitos em Força e em Destreza. Dá +2 de BA em Salvaguardas de Força e Resistência a Ataques Críticos igual à metade do BP. Sua CA máxima é +9. Dá +2 de BA em Salvaguardas de Força e Resistência a Ataques Críticos igual à metade do BP. Sua CA máxima é +9.
+
+**Roupas**: vestimentas normais. Não são Armaduras, não concedem CA e não têm peso. Algumas Roupas especiais têm efeitos adicionais.
+
+**Arma**: equipamento usado para Atacar. Possui requisitos e um bônus de até dois Atributos.
+
+**Armas Leves**: tipo de Arma que permite usar uma em cada mão. Atacar com as duas custa uma Ação e uma Ação Bônus.
+
+**Armas Comuns**: tipo de Arma que permite usar uma em cada mão. Atacar com as duas custa duas Ações e aumenta em 2 a Margem de Ameaça do Ataque.
+
+**Armas de Empunhadura Dupla**: tipo de Arma que exige duas mãos e adiciona o valor completo dos Atributos de bônus ao BD.
+
+**Armas à Distância**: tipo de Arma que dispara projéteis, com alcance e quantidade de mãos próprios. Inclui Arcos, Bestas e Armas de Fogo.
+
+**Empunhar com duas mãos**: empunhar uma Arma Comum ou Leve com as duas mãos para somar o Modificador de Força ao BD novamente.
+
+**Escudo**: equipamento que ocupa uma mão e concede Resistência a Dano Físico. Exige Proficiência em Escudos.
+
+**Munição**: projétil consumido por Ataque de Armas que disparam projéteis. Metade é recuperada após o Encontro, exceto a de Armas de Fogo.
+
+**Moedas**: dinheiro do jogo, em quatro tipos.
+
+**PC**: Peças de Cobre. 1/100 de PO.
+
+**PP**: Peças de Prata. 1/10 de PO.
+
+**PO**: Peças de Ouro. Moeda principal.
+
+**PL**: Peças de Platina. Vale 10 PO.
+
+**Itens Consumíveis**: itens que só podem ser usados uma vez, como Poções, Venenos e Resinas.
+
+**Itens Arremessáveis**: itens que causam dano ao serem arremessados. São Ataques à Distância, e não Armas à Distância.
+
+**Pedras de Aprimoramento**: materiais que aumentam o Grau de dano de Armas e a CA de Armaduras.
+
+**Itens Especiais**: itens de poder e raridade maiores que os comuns, com efeitos únicos.

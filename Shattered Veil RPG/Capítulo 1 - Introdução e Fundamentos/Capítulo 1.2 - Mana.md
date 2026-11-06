@@ -1,4 +1,3 @@
-
 Determina o vigor mental de um personagem de maneira quantificável. Não se trata apenas de um medidor mágico, mas sim de quanto a sua mente consegue suportar ao se esforçar.
 
 A Mana funciona de maneira análoga aos PVs. Os Pontos de Mana (PMs) também se subdividem em três tipos: PMs Máximos, PMs Atuais, e PMs Temporários. Se os PVs representam a condição física, os PMs representam a condição mental de alguém.
