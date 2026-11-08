@@ -1,38 +1,37 @@
 ## Roupas
 
-|Armadura|Preço|CA|Requisitos|Penalidades|Efeitos Adicionais|Peso|
-|---|---|---|---|---|---|---|
-|Roupa Comum|1 PO|+0|-|-|-|0|
-|Túnica de Mago|1 PO|+0|-|-|+1d4 Pontos de Mana Máximos|0|
-|Túnica de Monge|3 PO|+0|-|-|Ataques Desarmados aumentam em um Grau|0|
+| Armadura        | Preço | CA  | Requisitos  | Penalidades | Efeitos Adicionais                             | Peso |
+| --------------- | ----- | --- | ----------- | ----------- | ---------------------------------------------- | ---- |
+| Roupa Comum     | 1 PC  | +0  | -           | -           | -                                              | 0    |
+| Túnica de Mago  |       | +0  | 1 de Arcano | -           | Grau 1 de PMs Temporários                      | 0    |
+| Túnica de Monge |       | +0  | 1 de Força  | -           | O dano de Ataques Desarmados aumenta em 1 Grau | 0    |
 
-## Armaduras Ágeis
+## Armaduras Leves
 
-|Armadura|Preço|CA|Requisitos|Penalidades|Efeitos Adicionais|Peso|
-|---|---|---|---|---|---|---|
-|Couro|1 PL 4 PO 2 PP|+1|1 de Destreza|-|-|2|
-|Armadura de Pele Camuflada|1 PL 5 PO 9 PP|+1|1 de Destreza|-|+3 em Testes de Furtividade|3|
-|Couro Batido|2 PL 1 PO 3 PP|+2|2 de Destreza|-|-|4|
-|Couro de Elite|2 PL 2 PO 8 PP|+2|1 de Destreza|-|-|2|
-|Armadura Nobre|3 PL 6 PO 7 PP|+3|3 de Destreza|-|+3 em todas as Perícias de Carisma|4|
+| Armadura                      | Preço | CA  | Requisitos                | Penalidades | Efeitos Adicionais | Peso |
+| ----------------------------- | ----- | --- | ------------------------- | ----------- | ------------------ | ---- |
+| Armadura de Tecido Acolchoado |       | +1  | -                         | -           | -                  | 3    |
+| Gambeson                      |       | +2  | 1 de Destreza, 1 de Força | -           | -                  | 4    |
+| Couro Curtido                 |       | +2  | 2 de Destreza             | -           | -                  | 4    |
+| Armadura de Peles             |       | +3  | 2 de Destreza             | -           | -                  | 5    |
+| Couro Fervido                 |       | +4  | 3 de Destreza             | -           | -                  | 5    |
 
-## Armaduras Rígidas
+## Armaduras Médias
 
-|Armadura|Preço|CA|Requisitos|Penalidades|Efeitos Adicionais|Peso|
-|---|---|---|---|---|---|---|
-|Camisão de Malha|1 PL 4 PO 8 PP|+2|2 de Força|-1,5 m de Deslocamento|-|5|
-|Cota de Malha|2 PL 7 PO 5 PP|+4|4 de Força|-1,5 m de Deslocamento|-|8|
-|Meia Armadura de Aço|2 PL 7 PO 7 PP|+5|7 de Força|-3 m de Deslocamento|-|10|
-|Peitoral de Aço|2 PL 7 PO 8 PP|+4|5 de Força|-1,5 m de Deslocamento|-|6|
-|Cota de Talas|2 PL 9 PO 6 PP|+5|6 de Força|-3 m de Deslocamento|-|9|
-|Armadura Completa de Aço|3 PL 2 PO|+6|8 de Força|-3 m de Deslocamento|-|12|
+| Armadura                   | Preço | CA  | Requisitos                | Penalidades                | Efeitos Adicionais | Peso |
+| -------------------------- | ----- | --- | ------------------------- | -------------------------- | ------------------ | ---- |
+| Cota de Anéis              |       | +4  | 1 de Destreza, 2 de Força | Desvantagem em Furtividade | -                  | 5    |
+| Cota de Malha              |       | +5  | 1 de Destreza, 3 de Força | Desvantagem em Furtividade | -                  | 5    |
+| Armadura Lamelar           |       | +5  | 2 de Destreza, 2 de Força | Desvantagem em Furtividade | -                  | 6    |
+| Brigantina                 |       | +6  | 3 de Destreza, 2 de Força | Desvantagem em Furtividade | -                  | 6    |
+| Armadura Parcial de Placas |       | +6  | 2 de Destreza, 3 de Força | Desvantagem em Furtividade | -                  | 7    |
 
-## Armaduras Híbridas
+## Armaduras Pesadas
 
-| Armadura                      | Preço          | CA  | Requisitos                 | Penalidades | Efeitos Adicionais | Peso |
-| ----------------------------- | -------------- | --- | -------------------------- | ----------- | ------------------ | ---- |
-| Gibão de Peles                | 2 PL 4 PO 8 PP | +3  | 2 de Força e 2 de Destreza | -           | -                  | 5    |
-| Brigantina                    | 3 PL           | +4  | 3 de Força e 3 de Destreza | -           | -                  | 7    |
-| Cota de Escamas               | 3 PL 5 PO 4 PP | +5  | 4 de Força e 4 de Destreza | -           | -                  | 8    |
-| Armadura de Lamelas           | 4 PL 1 PP      | +6  | 6 de Força e 4 de Destreza | -           | -                  | 9    |
-| Armadura de Escamas de Dragão | 4 PL 3 PO 3 PP | +7  | 7 de Força e 6 de Destreza | -           | -                  | 10   |
+| Armadura                           | Preço | CA  | Requisitos | Penalidades                                             | Efeitos Adicionais | Peso |
+| ---------------------------------- | ----- | --- | ---------- | ------------------------------------------------------- | ------------------ | ---- |
+| Armadura de Tiras                  |       | +6  | 2 de Força | Desvantagem em Furtividade. -1,5 metros de Deslocamento | -                  | 7    |
+| Peitoral de Aço                    |       | +6  | 3 de Força | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 7    |
+| Armadura Completa de Placas        |       | +7  | 3 de Força | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 8    |
+| Armadura Completa de Aço           |       | +8  | 3 de Força | Desvantagem em Furtividade, -3 metros de Deslocamento   | -                  | 10   |
+| Armadura Gótica Completa de Placas |       | +8  | 3 de Força | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 12   |

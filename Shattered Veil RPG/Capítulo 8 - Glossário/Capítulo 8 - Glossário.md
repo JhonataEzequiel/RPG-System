@@ -74,17 +74,17 @@
 
 **Escolha de Modificador**: como ler "e" e "ou" entre Modificadores.
 
-**Ação**: esforço necessário para uma atividade. Três por Turno.
+**Ação**: esforço necessário para uma atividade.
 
-**Ação Livre**: atividade de esforço mínimo, fora do limite de Ações.
+**Ação Livre**: atividade de esforço mínimo.
 
-**Ação Bônus**: ação menor. Todo Turno tem um espaço de Ação Bônus, além das três Ações, e cada Ação Bônus a partir da segunda custa uma Ação. Só pode ser usada no seu Turno.
+**Ação Bônus**: ação menor, usada apenas no seu Turno.
 
-**Reação**: ação que exige um critério e só pode ser usada fora do seu Turno. Uma por Rodada, recuperada no início da Rodada. Não consome Ações nem Ações Bônus.
+**Reação**: ação que exige um critério, usada fora do seu Turno.
 
 **Movimentação**: capacidade de se mover pelo mundo.
 
-**Grau de Dado (Grau)**: define o dado rolado por uma regra, como dano e cura, de 1 (1d4) a 10 (3d10).
+**Grau de Dado (Grau)**: define o dado rolado por uma regra, de 1 a 10.
 
 **Teste**: rolagem de d20 contra uma dificuldade.
 
@@ -92,7 +92,7 @@
 
 **BP**: Bônus de Proficiência.
 
-**Proficiência**: habilidade que permite somar o BP.
+**Proficiência**: permite somar o BP.
 
 **BA**: Bônus de Acerto. Somado ao d20 em um Teste.
 
@@ -124,7 +124,7 @@
 
 **Magia**: desdobramento da realidade causado pela mente.
 
-**Ataque**: tentativa de acertar um alvo único e causar dano. Custa uma Ação.
+**Ataque**: tentativa de acertar um alvo único e causar dano.
 
 **CA**: Coeficiente de Armadura. CD para acertar um Ataque.
 
@@ -142,15 +142,15 @@
 
 **Alcance de Ataques**: distância máxima de um Ataque.
 
-**Penalidade de Ataques**: perda cumulativa de BA ao atacar várias vezes, de -5 por Ataque além do primeiro.
+**Penalidade de Ataques**: perda cumulativa de BA ao atacar várias vezes no Turno.
 
 **Ataques de Oportunidade**: Ataque feito como Reação contra quem sai do seu alcance.
 
 **BD**: Bônus de Dano.
 
-**Ataque Crítico**: Ataque com Sucesso Crítico ou resultado natural na Margem de Ameaça. Sempre acerta. Dano ampliado.
+**Ataque Crítico**: Ataque que sempre acerta e tem dano ampliado.
 
-**Margem de Ameaça**: resultados naturais abaixo de 20 que também causam Ataque Crítico. Sempre acertam.
+**Margem de Ameaça**: resultados naturais abaixo de 20 que também causam Ataque Crítico.
 
 **Desarme**: perda do acesso à Arma.
 
@@ -206,9 +206,9 @@
 
 **Dano Sanguíneo**: dano pela manipulação do sangue.
 
-**Fraqueza**: aumenta o dano recebido de um tipo. Fraquezas de fontes diferentes se acumulam.
+**Fraqueza**: aumenta o dano recebido de um tipo.
 
-**Resistência**: diminui o dano recebido de um tipo. Resistências de fontes diferentes se acumulam.
+**Resistência**: diminui o dano recebido de um tipo.
 
 **Imunidade**: impede ser afetado.
 
@@ -228,17 +228,17 @@
 
 **Terreno Difícil**: reduz o Deslocamento pela metade.
 
-**Andar**: principal forma de Movimentação, gastando Deslocamento. Não custa Ação.
+**Andar**: principal forma de Movimentação.
 
 **Correr**: dobra o Deslocamento.
 
 **Desengajar**: dobra o Deslocamento e evita Ataques de Oportunidade.
 
-**Esgueirar**: passar por um espaço de um Tamanho menor que o seu, com o Deslocamento reduzido pela metade.
+**Esgueirar**: passar por um espaço menor que o seu Tamanho.
 
-**Pular**: Movimentação de saltar, gastando Deslocamento. Custa uma Ação e ignora Terreno Difícil.
+**Pular**: saltar, gastando Deslocamento.
 
-**Queda Livre**: queda que pode causar dano de Impacto após os 5 primeiros metros.
+**Queda Livre**: queda que pode causar dano de Impacto.
 
 **Objeto**: entidade sem vontade nem ação própria.
 
@@ -252,13 +252,13 @@
 
 **Visão na Penumbra**: ignora a Penumbra em um Cone.
 
-**Pontos de Atuação**: recompensa por boa interpretação. Dão Vantagem.
+**Pontos de Atuação**: recompensa por boa interpretação.
 
-**Descanso**: pausa de pelo menos uma hora, fora de combate, para recuperar PVs e PMs. Pode ser Curto ou Longo.
+**Descanso**: pausa de pelo menos uma hora, fora de combate. Pode ser Curto ou Longo.
 
-**Descanso Curto**: de 1 a 7 horas. A cada hora completa, permite gastar até cinco Dados de Vida e cinco Dados de Mana, rolando ou usando a média.
+**Descanso Curto**: Descanso de 1 a 7 horas.
 
-**Descanso Longo**: de pelo menos 8 horas. Recupera metade dos PVs e PMs Máximos e metade dos Dados de Vida e de Mana, mais um de cada. Reduz a Exaustão e remove um Ferimento Profundo. Um por 24 horas.
+**Descanso Longo**: Descanso de pelo menos 8 horas.
 
 **Condição**: estado que afeta uma criatura.
 
@@ -268,25 +268,25 @@
 
 **Amedrontado**: temeroso de uma fonte específica.
 
-**Caído**: no chão, vulnerável. Levantar-se custa uma Ação Bônus.
+**Caído**: no chão, vulnerável.
 
 **Debilitado**: sem um ou mais sentidos.
 
 **Encantado**: impedido de ser hostil a quem o Encantou.
 
-**Exausto**: cansaço acumulado, em seis Valores. Aumenta a cada 24 horas sem um Descanso Longo, e cada Descanso Longo reduz um Valor.
+**Exausto**: cansaço acumulado, em seis Valores.
 
 **Valor de Exaustão**: nível de cansaço da Condição Exausto.
 
 **Furtivo**: escondido, com Vantagem em Ataques.
 
-**Incapacitado**: sem poder agir. Impede Ações, Ações Livres, Ações Bônus e Reações.
+**Incapacitado**: sem poder agir.
 
 **Invisível**: não pode ser visto.
 
-**Morrendo**: com 0 PVs, incapacitado até ser estabilizado.
+**Morrendo**: com 0 PVs, Incapacitado até ser estabilizado.
 
-**Ferimentos Profundos**: sequelas de quem foi estabilizado. Cada Descanso Longo remove um.
+**Ferimentos Profundos**: sequelas de quem foi estabilizado.
 
 **Morto**: sem vida. Vira um Objeto.
 
@@ -326,13 +326,13 @@
 
 **Atletismo**: capacidade de fazer força, como erguer, empurrar e escalar.
 
-**Ladroagem**: furtar, desarmar armadilhas e realizar movimentos complicados com o corpo.
+**Ladroagem**: furtar e desarmar armadilhas.
 
-**Furtividade**: capacidade de se esconder e ganhar a Condição Furtivo. Custa uma Ação Bônus.
+**Furtividade**: capacidade de se esconder.
 
-**Erudição**: conhecimento sobre fenômenos mágicos, itens e criaturas mágicas, e fatos sobre o cenário.
+**Erudição**: conhecimento sobre fenômenos mágicos e fatos do cenário.
 
-**Linguística**: compreensão e domínio de Idiomas. Concede Idiomas adicionais a quem é Perito.
+**Linguística**: compreensão e domínio de Idiomas.
 
 **Investigação**: busca e análise de pistas em um cenário.
 
@@ -350,59 +350,67 @@
 
 **Limitação Inicial**: retirar pontos de Atributos na criação para usá-los depois.
 
-**Dado de Vida**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Um por Nível, formando uma reserva. Define os PVs Máximos iniciais e os ganhos por Nível, e é gasto em Descansos Curtos para recuperar PVs.
+**Dado de Vida**: dado usado para os PVs Máximos e para recuperar PVs.
 
-**Dado de Mana**: dado definido na criação, de Grau 1 a 5 (d4 a d12). Um por Nível, formando uma reserva. Define os PMs Máximos iniciais e os ganhos por Nível, e é gasto em Descansos Curtos para recuperar PMs.
+**Dado de Mana**: dado usado para os PMs Máximos e para recuperar PMs.
 
-**Pontos de Origem**: 7 pontos gastos na criação do personagem para aumentar o Grau dos Dados de Vida e de Mana, adquirir Proficiências, ou trocar por PHs.
+**Pontos de Origem**: pontos gastos na criação para definir a origem do personagem.
 
-**Marco de Campanha**: momento decisivo concluído pelos PDJs, que leva o Mestre a conceder Níveis.
+**Marco de Campanha**: momento decisivo que leva o Mestre a conceder Níveis.
 
-**Modo de Evolução**: ritmo de evolução da Campanha (Rápido, Moderado ou Lento). Define a XP necessária por Nível.
+**Modo de Evolução**: ritmo de evolução da Campanha: Rápido, Moderado ou Lento.
 
-**Pontos Retroativos**: PVs e PMs ganhos ao aumentar o Modificador de Con ou Sab, para cada Nível abaixo do atual.
+**Pontos Retroativos**: PVs e PMs extras ao aumentar o Modificador de Con ou Sab.
 
-**Idioma**: língua falada por um povo. Alguns são naturais da Raça, e novos exigem ser Perito em Linguística.
+**Idioma**: língua falada por um povo.
 
 **Idioma Comum**: Idioma falado por todos e compreendido pela maioria dos habitantes.
 
-**Raça**: origem do personagem, que define seu Deslocamento, Tamanho, Habilidades de Raça e Idiomas naturais.
+**Raça**: origem do personagem.
 
-**Habilidade de Raça**: Habilidade exclusiva de uma Raça. É gratuita, não segue regras de limite e não conta para os limites de BA e CA de Habilidades.
+**Habilidade de Raça**: Habilidade exclusiva e gratuita de uma Raça.
 
-**Procedência**: escolha oferecida por algumas Raças, como Halfling, Revenã e Siderium, ligada a de onde o personagem veio. Não é uma sub-raça.
+**Procedência**: escolha de origem oferecida por algumas Raças.
 
-**Capacidade de Carga**: quanto Peso você consegue carregar. Igual a 15 + For + Con.
+**Capacidade de Carga**: quanto Peso você consegue carregar.
 
-**Peso**: unidade que mede o quanto um item pesa. Cada item pesa zero ou mais unidades.
+**Peso**: unidade que mede o quanto um item pesa.
 
-**Sobrecarga**: carregar mais Peso que a Capacidade de Carga. Causa Exaustão, que é removida ao remover o Peso extra.
+**Sobrecarga**: carregar mais Peso que a Capacidade de Carga.
 
-**Armadura**: proteção vestida em volta do corpo, que concede um bônus de CA. Possui requisitos.
+**Armadura**: proteção vestida em volta do corpo, que concede um bônus de CA.
 
-**Armadura Rígida**: Armadura com requisitos em Força. Dá Vantagem contra Empurrar e +4 de BA em Salvaguardas de Constituição, mas impõe Desvantagem em Furtividade e uma penalidade no Deslocamento. Dá Vantagem contra Empurrar e +4 de BA em Salvaguardas de Constituição, mas impõe Desvantagem em Furtividade e uma penalidade no Deslocamento.
+**Armadura Leve**: tipo de Armadura com o menor bônus de CA.
 
-**Armadura Ágil**: Armadura com requisitos em Destreza. Dá +3 de BA em Salvaguardas de Destreza e +4 em Salvaguardas de Constituição. Sua CA máxima é +7. Dá +3 de BA em Salvaguardas de Destreza e +4 em Salvaguardas de Constituição. Sua CA máxima é +7.
+**Armadura Média**: tipo de Armadura com bônus de CA intermediário.
 
-**Armadura Híbrida**: Armadura com requisitos em Força e em Destreza. Dá +2 de BA em Salvaguardas de Força e Resistência a Ataques Críticos igual à metade do BP. Sua CA máxima é +9. Dá +2 de BA em Salvaguardas de Força e Resistência a Ataques Críticos igual à metade do BP. Sua CA máxima é +9.
+**Armadura Pesada**: tipo de Armadura com o maior bônus de CA.
 
-**Roupas**: vestimentas normais. Não são Armaduras, não concedem CA e não têm peso. Algumas Roupas especiais têm efeitos adicionais.
+**Roupas**: vestimentas normais, sem CA nem Peso.
 
-**Arma**: equipamento usado para Atacar. Possui requisitos e um bônus de até dois Atributos.
+**Arma**: equipamento usado para Atacar.
 
-**Armas Leves**: tipo de Arma que permite usar uma em cada mão. Atacar com as duas custa uma Ação e uma Ação Bônus.
+**BA da Arma**: BA de um Ataque com uma Arma.
 
-**Armas Comuns**: tipo de Arma que permite usar uma em cada mão. Atacar com as duas custa duas Ações e aumenta em 2 a Margem de Ameaça do Ataque.
+**Armas Leves**: tipo de Arma que permite usar uma em cada mão.
 
-**Armas de Empunhadura Dupla**: tipo de Arma que exige duas mãos e adiciona o valor completo dos Atributos de bônus ao BD.
+**Armas Comuns**: tipo de Arma que permite usar uma em cada mão.
 
-**Armas à Distância**: tipo de Arma que dispara projéteis, com alcance e quantidade de mãos próprios. Inclui Arcos, Bestas e Armas de Fogo.
+**Armas de Empunhadura Dupla**: tipo de Arma que exige duas mãos.
 
-**Empunhar com duas mãos**: empunhar uma Arma Comum ou Leve com as duas mãos para somar o Modificador de Força ao BD novamente.
+**Armas à Distância**: tipo de Arma que dispara projéteis.
 
-**Escudo**: equipamento que ocupa uma mão e concede Resistência a Dano Físico. Exige Proficiência em Escudos.
+**Arcos**: Armas à Distância que não precisam recarregar.
 
-**Munição**: projétil consumido por Ataque de Armas que disparam projéteis. Metade é recuperada após o Encontro, exceto a de Armas de Fogo.
+**Bestas**: Armas à Distância que recarregam a cada disparo.
+
+**Armas de Fogo**: Armas à Distância que recarregam após vários disparos.
+
+**Empunhar com Duas Mãos**: usar uma Arma Comum ou Leve com as duas mãos.
+
+**Escudo**: equipamento que ocupa uma mão e concede Resistência a Dano Físico.
+
+**Munição**: projétil consumido pelos Ataques de Armas à Distância.
 
 **Moedas**: dinheiro do jogo, em quatro tipos.
 
@@ -414,10 +422,10 @@
 
 **PL**: Peças de Platina. Vale 10 PO.
 
-**Itens Consumíveis**: itens que só podem ser usados uma vez, como Poções, Venenos e Resinas.
+**Itens Consumíveis**: itens que só podem ser usados uma vez.
 
-**Itens Arremessáveis**: itens que causam dano ao serem arremessados. São Ataques à Distância, e não Armas à Distância.
+**Itens Arremessáveis**: Itens Consumíveis feitos para serem Arremessados.
 
-**Pedras de Aprimoramento**: materiais que aumentam o Grau de dano de Armas e a CA de Armaduras.
+**Pedras de Aprimoramento**: materiais que aprimoram Armas e Armaduras.
 
-**Itens Especiais**: itens de poder e raridade maiores que os comuns, com efeitos únicos.
+**Itens Especiais**: itens de poder e raridade maiores que os comuns.

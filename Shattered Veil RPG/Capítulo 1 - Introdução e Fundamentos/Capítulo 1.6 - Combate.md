@@ -40,8 +40,8 @@ Valor que define a CD do Teste necessário para que um Ataque acerte. A CA é ca
 
 **CA = 10 + Des ou For + BP + Outros**
 
-- **BP**: o seu Bônus de Proficiência, adicionado apenas se você estiver usando uma armadura na qual seja Proficiente. Caso contrário, vale 0.
-- **Outros**: a soma de quaisquer outros bônus ou penalidades que você tenha na CA, como o bônus da própria armadura.
+- **BP**: o seu Bônus de Proficiência, adicionado apenas se você estiver usando uma Armadura na qual seja Proficiente. Caso contrário, vale 0.
+- **Outros**: a soma de quaisquer outros bônus ou penalidades que você tenha na CA, como o bônus da própria Armadura.
 
 Você pode optar por não adicionar seu Modificador de Força ou de Destreza, se assim desejar.
 
@@ -112,15 +112,15 @@ Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa po
 
 ## Arremessar
 
-Arremessar um item com o intuito de ferir uma criatura é um Ataque Físico à Distância. Você precisa superar a CA do alvo como em qualquer outro Ataque, utilizando seu Modificador de Destreza no BA. Itens arremessáveis contam como Armas à Distância para critérios de Proficiência. Ou seja, se você é Proficiente em Armas à Distância, adiciona seu BP ao BA de Ataques com eles.
+Qualquer item pode ser Arremessado. Arremessar um item com o intuito de ferir uma criatura é um Ataque Físico à Distância. Você precisa superar a CA do alvo como em qualquer outro Ataque, utilizando seu Modificador de Destreza no BA. Os Itens Arremessáveis (veja o Capítulo 4 - Equipamentos) contam como Armas à Distância para critérios de Proficiência. Ou seja, se você é Proficiente em Armas à Distância, adiciona seu BP ao BA de Ataques com eles.
 
-O BD de um Ataque com um item arremessável é definido pelo próprio item. Por padrão, o dano é de Grau 1, sem BD.
+O BD de um Ataque com um item arremessado é definido pelo próprio item. Por padrão, o dano é de Grau 1, sem BD. Os Itens Arremessáveis possuem regras próprias de dano e de efeitos, descritas em cada item.
 
 O alcance de um arremesso é de 1,5 metros para cada ponto no seu Modificador de Força ou no de Destreza, com mínimo de 1,5 metros. Não é possível Arremessar um item além desse alcance.
 
 Arremessar custa uma Ação, causando dano ou não.
 
-Itens arremessáveis não precisam estar equipados, mas você precisa ter ao menos uma mão desocupada para Arremessá-los. Para Arremessar outros tipos de item, como Armas ou Escudos, você precisa tê-los equipados, e o arremesso é feito com a mão que os segura. O item arremessado deixa de estar equipado e cai no local do impacto.
+Itens Arremessáveis não precisam estar equipados, mas você precisa ter ao menos uma mão desocupada para Arremessá-los. Para Arremessar outros tipos de item, como Armas ou Escudos, você precisa tê-los equipados, e o arremesso é feito com a mão que os segura. O item arremessado deixa de estar equipado e cai no local do impacto, a não ser que as regras do próprio item digam o contrário.
 
 ## Áreas de Efeito
 
