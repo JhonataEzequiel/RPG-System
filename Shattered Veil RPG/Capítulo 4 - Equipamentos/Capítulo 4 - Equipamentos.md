@@ -106,7 +106,7 @@ Recarregar custa uma Ação, e o custo é o mesmo ao recarregar uma ou duas Arma
 
 ### Empunhar com Duas Mãos
 
-Armas Comuns e Leves podem ser empunhadas com duas mãos. Ao fazer isso, você adiciona seu Modificador de Força ao BD. Caso a Arma já tenha Força como bônus, o Modificador é somado novamente, ou seja, ele é contado em dobro. Esta regra vale apenas para Armas Comuns e Leves.
+Armas Comuns e Leves podem ser empunhadas com duas mãos. Ao fazer isso, seu valor de Força conta em dobro para os requisitos de Força da Arma, e você soma seu Modificador de Força ao BD (se a Arma já tem Força como bônus, ele é somado uma segunda vez). O BA não muda. Se o seu valor de Força for negativo, esta regra não tem efeito. Armas de Empunhadura Dupla seguem o efeito padrão.
 
 ## Escudos
 
