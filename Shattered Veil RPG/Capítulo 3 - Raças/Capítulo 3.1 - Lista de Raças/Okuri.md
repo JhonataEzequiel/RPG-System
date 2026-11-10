@@ -1,4 +1,4 @@
-Os Okuri são um povo de "Homens-Cão". Eles têm uma aparência diversa, assumindo a forma de chacais, cães domésticos, lobos, e outros tipos de caninos. Alguns misturam características de cães diversos, como o formato de um lobo e a pelagem de um cachorro. Os Okuri aproveitam os momentos em que alguém comete um deslize para afugentá-lo. Também são capazes de entrar em contato com o mundo espiritual, mudando a aparência e o corpo temporariamente.
+Os Okuri são um povo de "Homens-Cão". Eles têm uma aparência diversa, assumindo a forma de chacais, cães domésticos, lobos e outros tipos de caninos. Alguns misturam características de cães diversos, como o formato de um lobo e a pelagem de um cachorro. Os Okuri aproveitam os momentos em que alguém comete um deslize para afugentá-lo. Também são capazes de entrar em contato com o mundo espiritual, mudando a aparência e o corpo temporariamente.
 
 ### Habilidades de Raça
 

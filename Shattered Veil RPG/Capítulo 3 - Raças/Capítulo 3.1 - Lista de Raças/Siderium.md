@@ -14,7 +14,7 @@ Os Diurnos possuem pele branca ou amarelada, emitindo um leve brilho, e cabelos 
 
 **Aurora** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Duração: Instantânea): você gasta a sua carga de Aurora e recupera todos os seus PVs e PMs instantaneamente. Você só pode usar esta Habilidade se tiver uma carga.
 
-**Filho da Luz** (Passiva): Sempre que receber PVs Temporários, você receberá um adicional de Grau 5.
+**Filho da Luz** (Passiva): sempre que receber PVs Temporários, você recebe um adicional de Grau 5.
 
 ## Siderium Noturno
 
@@ -24,11 +24,11 @@ Os Noturnos refletem o céu noturno através de sua pele, que tem uma coloraçã
 
 **Contemplar as Estrelas** (Passiva): ao ter um Descanso, Curto ou Longo, você rola 1d4 e recebe um dos efeitos a seguir, a depender do resultado. Descansos de múltiplas horas contam apenas uma vez.
 
-| Resultado | Efeito                                                          |
-| --------- | --------------------------------------------------------------- |
-| 1         | Você adiciona seu BP ao total de PMs recuperados pelo Descanso  |
-| 2         | Você adiciona seu BP ao total de PVs recuperados pelo Descanso  |
-| 3         | Após o fim do Descanso, você recebe seu BP como PVs Temporários |
-| 4         | Após o fim do Descanso, você recebe seu BP como PMs Temporários |
+|Resultado|Efeito|
+|---|---|
+|1|Você adiciona seu BP ao total de PMs recuperados pelo Descanso|
+|2|Você adiciona seu BP ao total de PVs recuperados pelo Descanso|
+|3|Após o fim do Descanso, você recebe seu BP como PVs Temporários|
+|4|Após o fim do Descanso, você recebe seu BP como PMs Temporários|
 
-**Brilho Estelar** (Ativa | Custo de Ações: Ação Bônus | Limite de Usos: uma vez por Descanso Curto ou Longo): você repete o último resultado de Contemplar as Estrelas, recuperando PVs ou PMs, ou recebendo PVs ou PMs Temporários.
+**Brilho Estelar** (Ativa | Custo de Ações: Ação Bônus | Limite de Usos: uma vez por Descanso Curto ou Longo): você repete o último resultado de Contemplar as Estrelas, recuperando PVs ou PMs ou recebendo PVs ou PMs Temporários.

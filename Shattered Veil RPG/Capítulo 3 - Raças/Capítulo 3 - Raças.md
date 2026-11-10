@@ -4,7 +4,7 @@ As Habilidades de Raça são gratuitas e não seguem nenhuma regra de limite. El
 
 Algumas Raças deixam você escolher uma Procedência diferente. Não se trata de uma sub-raça, mas sim de onde seu personagem veio. Os Halflings, os Revenãs e os Sideria são as Raças com essa opção.
 
-As escolhas ligadas à Raça, como a Procedência de um Halfling, são sempre feitas durante a criação do PDJ, e são permanentes.
+As escolhas ligadas à Raça, como a Procedência de um Halfling, são sempre feitas durante a criação do PDJ e são permanentes.
 
 | Raça              | Deslocamento em metros | Tamanho | Idiomas Naturais |
 | ----------------- | ---------------------- | ------- | ---------------- |

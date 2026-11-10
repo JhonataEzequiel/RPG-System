@@ -10,7 +10,7 @@ Os Altos Elfos têm facilidade em aprender sobre temas diversos. São uma Raça 
 
 ## Elfo da Floresta
 
-Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, normalmente sendo vistos como cuidadores da natureza. Costumam morar em grandes selvas, pântanos, florestas tropicais, e qualquer recinto com uma conexão direta com o verde.
+Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, normalmente sendo vistos como cuidadores da natureza. Costumam morar em grandes selvas, pântanos, florestas tropicais e qualquer recinto com uma conexão direta com o verde.
 
 ### Habilidades de Raça
 

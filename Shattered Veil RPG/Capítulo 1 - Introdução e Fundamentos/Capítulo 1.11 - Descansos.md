@@ -1,4 +1,4 @@
-Em um mundo cheio de perigos, é necessário parar para recarregar as energias de vez em quando. Você e seu grupo farão Descansos ao longo da jornada.
+Em um mundo cheio de perigos, é necessário parar para recarregar as energias de vez em quando. Você e seu grupo fazem Descansos ao longo da jornada.
 
 Um Descanso é um período de pelo menos uma hora, fora de combate, dedicado a atividades leves, como dormir, comer, conversar ou ler. Combate ou qualquer esforço intenso o interrompe. Horas incompletas são descartadas, ou seja, um Descanso de uma hora e meia conta como uma hora. Existem dois tipos de Descanso: Descanso Curto e Descanso Longo.
 

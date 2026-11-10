@@ -2,7 +2,7 @@ Existem dois tipos de Gnomos, os Feéricos e os da Natureza. Além de suas compe
 
 ## Gnomo Feérico
 
-Os Gnomos Feéricos são encontrados em florestas encantadas, terras de fadas, e em locais com uma presença forte de influência mágica. Muitos permanecem em seus lares por toda a vida, enquanto outros preferem se aventurar.
+Os Gnomos Feéricos são encontrados em florestas encantadas, terras de fadas e em locais com uma presença forte de influência mágica. Muitos permanecem em seus lares por toda a vida, enquanto outros preferem se aventurar.
 
 ### Habilidades de Raça
 
@@ -22,7 +22,7 @@ O Gnomo da Natureza pode se comunicar com os espíritos ao seu redor, sendo capa
 
 #### Espíritos da Floresta
 
-- **Alternar Forma** (Ativa | Custo de Ações: Ação Bônus): você ativa uma forma à sua escolha, ou passa para a outra se já estiver em uma.
+- **Alternar Forma** (Ativa | Custo de Ações: Ação Bônus): você ativa uma forma à sua escolha ou passa para a outra se já estiver em uma.
 - **Desativar Formas** (Ativa | Custo de Ações: Ação Livre): você desativa ambas as formas, voltando a um estado neutro onde nenhuma das duas está ativada.
-- **Primeira Forma** (Passiva | Duração: até você alternar ou desativar a forma): cascas de árvore crescem em seu corpo, deixando-o mais resistente e parrudo. Você tem +2 no BA de Salvaguardas de Constituição e Força. Você adiciona um Modificador extra, ainda não contabilizado no dano, ao BD de Ataques Corpo a Corpo. Você escolhe qual Modificador adicionar. Você tem +2 de Resistência a Dano Físico.
-- **Segunda Forma** (Passiva | Duração: até você alternar ou desativar a forma): você absorve energia da natureza ao seu redor, fazendo seu corpo ficar mais esguio e leve, e emanar uma pequena aura pálida. Você tem +4,5 metros de Deslocamento, e sua Margem de Ameaça é aumentada em 1.
+- **Primeira Forma** (Passiva | Duração: até você alternar ou desativar a forma): cascas de árvore crescem em seu corpo, deixando-o mais resistente e parrudo. Você tem +2 no BA de Salvaguardas de Constituição e Força. Você adiciona um Modificador, à sua escolha, ao BD de Ataques Corpo a Corpo. Você tem +2 de Resistência a Dano Físico.
+- **Segunda Forma** (Passiva | Duração: até você alternar ou desativar a forma): você absorve energia da natureza ao seu redor, fazendo seu corpo ficar mais esguio e leve e emanar uma pequena aura pálida. Você tem +4,5 metros de Deslocamento, e sua Margem de Ameaça é aumentada em 1.

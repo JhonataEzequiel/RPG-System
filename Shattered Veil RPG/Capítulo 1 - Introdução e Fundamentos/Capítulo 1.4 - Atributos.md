@@ -1,10 +1,10 @@
-Os Atributos são estatísticas que representam suas capacidades básicas de agência no mundo. Cada um representa uma característica diferente, e ditam a taxa de sucesso de suas diversas ações possíveis. A quantidade de Atributos no total é 7, sendo eles: Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo, e Carisma. Você receberá Pontos de Atributo (PAs) ao longo dos Níveis. Esses pontos servem para aumentar o valor de um Atributo, respeitando o seu limite.
+Os Atributos são estatísticas que representam suas capacidades básicas de agência no mundo. Cada um representa uma característica diferente e dita a taxa de sucesso de suas diversas ações possíveis. A quantidade de Atributos no total é 7, sendo eles: Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma. Você recebe Pontos de Atributo (PAs) ao longo dos Níveis. Esses pontos servem para aumentar o valor de um Atributo, respeitando o seu limite.
 
 ## Limite de Atributo
 
-Cada Atributo terá um valor que pode variar de -10 até 20. Normalmente, valores extremos só são comuns em Monstros e outros PDMs. Seus Atributos provavelmente ficarão entre 0 e 10. O valor máximo que um Atributo pode assumir naturalmente em PDJs é 10, mas é possível romper esse limite através de certas escolhas que você poderá realizar mais para frente, se desejar.
+Cada Atributo tem um valor que pode variar de -10 até 20. Normalmente, valores extremos só são comuns em Monstros e outros PDMs. Seus Atributos provavelmente ficam entre 0 e 10. O valor máximo que um Atributo pode assumir naturalmente em PDJs é 10, mas é possível romper esse limite através de certas escolhas que você pode realizar mais para frente, se desejar.
 
-Por padrão, o valor máximo que um Atributo pode assumir vai depender também do seu Nível, sendo 10 o teto superior. Esse valor máximo sobe conforme você avança de Nível, e é chamado de Limite de Atributo (LA). A tabela a seguir mostra qual o valor do seu Limite de Atributo em um determinado Nível:
+Por padrão, o valor máximo que um Atributo pode assumir vai depender também do seu Nível, sendo 10 o teto superior. Esse valor máximo sobe conforme você avança de Nível e é chamado de Limite de Atributo (LA). A tabela a seguir mostra qual o valor do seu Limite de Atributo em um determinado Nível:
 
 |Nível|Limite de Atributo|
 |---|---|
@@ -23,7 +23,7 @@ Caso prefira uma fórmula, o LA é dado pelo seu Nível dividido por 2, acrescid
 
 ### Constituição
 
-Determina a tenacidade física. É o Atributo utilizado para calcular seus PVs Máximos, e também o que melhorará sua resistência a efeitos diversos.
+Determina a tenacidade física. É o Atributo utilizado para calcular seus PVs Máximos e também o que melhora sua resistência a efeitos diversos.
 
 ### Sabedoria
 
@@ -39,7 +39,7 @@ Determina a agilidade e reflexos de um personagem.
 
 ### Arcano
 
-Representa a capacidade de raciocínio lógico, memória, aprendizado teórico, e conexão com a magia arcana.
+Representa a capacidade de raciocínio lógico, memória, aprendizado teórico e conexão com a magia arcana.
 
 ### Vínculo
 
@@ -47,11 +47,11 @@ Determina o grau de conexão com o divino e o oculto.
 
 ### Carisma
 
-Este Atributo é responsável por ditar o quão bem alguém é em inteligência interpessoal, e o quão bem é visto pelos outros indivíduos.
+Este Atributo é responsável por ditar o quão bem alguém é em inteligência interpessoal e o quão bem é visto pelos outros indivíduos.
 
 ## Modificadores
 
-O Modificador de um determinado Atributo é o valor desse Atributo dividido por dois, arredondado para baixo. Modificadores serão usados em diversas regras do sistema. A tabela a seguir serve de guia para consulta rápida:
+O Modificador de um determinado Atributo é o valor desse Atributo dividido por dois, arredondado para baixo. Modificadores são usados em diversas regras do sistema. A tabela a seguir serve de guia para consulta rápida:
 
 |Valor do Atributo|Modificador|Valor do Atributo|Modificador|Valor do Atributo|Modificador|
 |---|---|---|---|---|---|
@@ -74,4 +74,4 @@ O Modificador é sempre denotado pela sigla do Atributo, sendo elas:
 |Vínculo|Vin|
 |Carisma|Car|
 
-**Escolha de Modificador**: dependendo de como você monta seu personagem, algumas regras oferecerão mais de um Modificador como bônus. Às vezes você deve usar todos, denotado por "Modificador 1 + Modificador 2". Quando precisar escolher entre eles, a expressão será "Modificador 1 ou Modificador 2". Por exemplo, "For + Des" e "For ou Des".
+**Escolha de Modificador**: dependendo de como você monta seu personagem, algumas regras oferecem mais de um Modificador como bônus. Às vezes você deve usar todos, denotado por "Modificador 1 + Modificador 2". Quando precisar escolher entre eles, a expressão é "Modificador 1 ou Modificador 2". Por exemplo, "For + Des" e "For ou Des".
