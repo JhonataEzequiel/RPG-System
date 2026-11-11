@@ -32,43 +32,43 @@ Algumas Armas podem aumentar o alcance padrão de Ataques Corpo a Corpo, como de
 
 As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arma seja capaz de causar mais de um tipo de dano, você pode escolher qual deles recebe o aumento de BD proporcionado pelos bônus de Escalas.
 
-|Escala|Valor de Atributo 2|Valor de Atributo 4|Valor de Atributo 6|Valor de Atributo 8|Valor de Atributo 10|Total|
-|---|---|---|---|---|---|---|
-|S|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+25 no BD, +5 de BA|
-|A|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+20 no BD, +5 de BA|
-|B|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+15 no BD, +5 de BA|
-|C|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+10 no BD, +5 de BA|
-|D|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+5 no BD, +5 de BA|
+| Escala | Valor de Atributo 2 | Valor de Atributo 4 | Valor de Atributo 6 | Valor de Atributo 8 | Valor de Atributo 10 | Total               |
+| ------ | ------------------- | ------------------- | ------------------- | ------------------- | -------------------- | ------------------- |
+| S      | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA   | +25 no BD, +5 de BA |
+| A      | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA   | +20 no BD, +5 de BA |
+| B      | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA   | +15 no BD, +5 de BA |
+| C      | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA   | +10 no BD, +5 de BA |
+| D      | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA   | +5 no BD, +5 de BA  |
 
 ## Lista de Armas
 
-|Arma|Preço|Dano|Tipo de Dano|Escalas|Requisitos|Característica Única|Aumento de Alcance|Peso|
-|---|---|---|---|---|---|---|---|---|
-|Manopla de Ferro||Grau 1|Impacto|D em Força|2 de Força|-|-|1|
-|Soco Inglês||Grau 1|Impacto|D em Força|1 de Força|-|-|1|
-|Katar||Grau 1|Perfurante|D em Força|1 de Força|-|-|1|
-|Adaga||Grau 1|Perfurante|D em Destreza|-|-|-|1|
-|Espada Curta||Grau 2|Cortante|D em Força e D em Destreza|1 de Força, 1 de Destreza|-|-|2|
-|Clava||Grau 2|Impacto|D em Força|1 de Força|-|-|2|
-|Cajado||Grau 1|Impacto|D em Força|-|-|-|1|
-|Rapieira||Grau 2|Perfurante|D em Destreza|2 de Destreza|-|-|1|
-|Maça||Grau 3|Impacto|D em Força|2 de Força|-|-|3|
-|Maça-Estrela||Grau 3|Perfurante|D em Força|2 de Força|-|-|3|
-|Chicote||Grau 3|Impacto|C em Destreza|1 de Destreza|-|-|2|
-|Cimitarra||Grau 3|Cortante|D em Destreza|2 de Destreza|-|-|2|
-|Espada Longa||Grau 3|Cortante|C em Força e D em Destreza|1 de Força, 1 de Destreza|-|+1,5 metros|3|
-|Machado de Batalha||Grau 3|Cortante|C em Força|3 de Força|-|-|4|
-|Katana||Grau 3|Cortante|D em Força e C em Destreza|2 de Força, 1 de Destreza|-|-|3|
-|Lança||Grau 3|Perfurante|C em Destreza|3 de Destreza|-|+3 metros|3|
-|Alabarda||Grau 4|Cortante|C em Força|4 de Força|-|+1,5 metros|5|
-|Glaive||Grau 4|Cortante|C em Destreza|3 de Destreza|-|+1,5 metros|4|
-|Clava Pesada||Grau 4|Impacto|D em Força|4 de Força|-|-|8|
-|Clava Imensa||Grau 5|Impacto|C em Força|5 de Força|-|-|10|
-|Claymore||Grau 5|Cortante|C em Força e C em Destreza|5 de Força, 3 de Destreza|-|-|6|
-|Espada Colossal||Grau 5|Cortante|C em Força|6 de Força|-|+1,5 metros|10|
-|Lança de Cavalaria||Grau 5|Perfurante|C em Força|4 de Força|-|+3 metros|6|
-|Martelo de Guerra||Grau 5|Impacto|C em Força|5 de Força|-|-|7|
-|Lâmina Gêmea||Grau 1|Cortante|D em Destreza|3 de Destreza|Causa um adicional de dano igual a metade do dano do Ataque. O dano adicional leva Ataques Críticos em consideração.|-|5|
+| Arma               | Preço | Dano   | Tipo de Dano | Escalas                    | Requisitos                | Característica Única                                                                                                 | Aumento de Alcance | Peso |
+| ------------------ | ----- | ------ | ------------ | -------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
+| Manopla de Ferro   |       | Grau 1 | Impacto      | D em Força                 | 2 de Força                | -                                                                                                                    | -                  | 1    |
+| Soco Inglês        |       | Grau 1 | Impacto      | D em Força                 | 1 de Força                | -                                                                                                                    | -                  | 1    |
+| Katar              |       | Grau 1 | Perfurante   | D em Força                 | 1 de Força                | -                                                                                                                    | -                  | 1    |
+| Adaga              |       | Grau 1 | Perfurante   | D em Destreza              | -                         | -                                                                                                                    | -                  | 1    |
+| Espada Curta       |       | Grau 2 | Cortante     | D em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                                                                                    | -                  | 2    |
+| Clava              |       | Grau 2 | Impacto      | D em Força                 | 1 de Força                | -                                                                                                                    | -                  | 2    |
+| Cajado             |       | Grau 1 | Impacto      | D em Força                 | -                         | -                                                                                                                    | -                  | 1    |
+| Rapieira           |       | Grau 2 | Perfurante   | D em Destreza              | 2 de Destreza             | -                                                                                                                    | -                  | 1    |
+| Maça               |       | Grau 3 | Impacto      | D em Força                 | 2 de Força                | -                                                                                                                    | -                  | 3    |
+| Maça-Estrela       |       | Grau 3 | Perfurante   | D em Força                 | 2 de Força                | -                                                                                                                    | -                  | 3    |
+| Chicote            |       | Grau 3 | Impacto      | C em Destreza              | 1 de Destreza             | -                                                                                                                    | -                  | 2    |
+| Cimitarra          |       | Grau 3 | Cortante     | D em Destreza              | 2 de Destreza             | -                                                                                                                    | -                  | 2    |
+| Espada Longa       |       | Grau 3 | Cortante     | C em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                                                                                    | +1,5 metros        | 3    |
+| Machado de Batalha |       | Grau 3 | Cortante     | C em Força                 | 3 de Força                | -                                                                                                                    | -                  | 4    |
+| Katana             |       | Grau 3 | Cortante     | D em Força e C em Destreza | 2 de Força, 1 de Destreza | -                                                                                                                    | -                  | 3    |
+| Lança              |       | Grau 3 | Perfurante   | C em Destreza              | 3 de Destreza             | -                                                                                                                    | +3 metros          | 3    |
+| Alabarda           |       | Grau 4 | Cortante     | C em Força                 | 4 de Força                | -                                                                                                                    | +1,5 metros        | 5    |
+| Glaive             |       | Grau 4 | Cortante     | C em Destreza              | 3 de Destreza             | -                                                                                                                    | +1,5 metros        | 4    |
+| Clava Pesada       |       | Grau 4 | Impacto      | D em Força                 | 4 de Força                | -                                                                                                                    | -                  | 8    |
+| Clava Imensa       |       | Grau 5 | Impacto      | C em Força                 | 5 de Força                | -                                                                                                                    | -                  | 10   |
+| Claymore           |       | Grau 5 | Cortante     | C em Força e C em Destreza | 5 de Força, 3 de Destreza | -                                                                                                                    | -                  | 6    |
+| Espada Colossal    |       | Grau 5 | Cortante     | C em Força                 | 6 de Força                | -                                                                                                                    | +1,5 metros        | 10   |
+| Lança de Cavalaria |       | Grau 5 | Perfurante   | C em Força                 | 4 de Força                | -                                                                                                                    | +3 metros          | 6    |
+| Martelo de Guerra  |       | Grau 5 | Impacto      | C em Força                 | 5 de Força                | -                                                                                                                    | -                  | 7    |
+| Lâmina Gêmea       |       | Grau 1 | Cortante     | D em Destreza              | 3 de Destreza             | Causa um adicional de dano igual a metade do dano do Ataque. O dano adicional leva Ataques Críticos em consideração. | -                  | 5    |
 
 ## Armas à Distância
 
@@ -90,18 +90,18 @@ Podem disparar uma quantidade de vezes, definida em cada Arma, antes de precisar
 
 ### Lista de Armas à Distância
 
-|Arma|Preço|Dano|Tipo de Dano|Escalas|Requisitos|Característica Única|Alcance|Peso|
-|---|---|---|---|---|---|---|---|---|
-|Arco Curto||Grau 1|Perfurante|D em Destreza|1 de Destreza|-|18 metros|1|
-|Arco Curto Composto||Grau 2|Perfurante|C em Destreza|2 de Destreza|-|24 metros|2|
-|Arco Longo||Grau 2|Perfurante|D em Força e D em Destreza|1 de Força, 1 de Destreza|-|24 metros|2|
-|Arco Longo Composto||Grau 3|Perfurante|C em Força e C em Destreza|2 de Força, 2 de Destreza|-|30 metros|3|
-|Besta Leve||Grau 4|Perfurante|-|-|Recarrega a cada tiro|24 metros|2|
-|Besta Pesada||Grau 4|Perfurante|-|-|Recarrega a cada tiro|36 metros|4|
-|Pistola||Grau 5|Perfurante|-|3 de Destreza|Recarrega a cada 10 tiros, ocupa apenas uma mão.|24 metros|2|
-|Escopeta||Grau 6|Perfurante|-|3 de Força, 3 de Destreza|Recarrega a cada 2 tiros|18 metros|4|
-|Canhão de Mão||Grau 7|Perfurante|-|6 de Força, 3 de Destreza|Recarrega a cada tiro|12 metros|10|
-|Rifle de Precisão||Grau 8|Perfurante|-|6 de Força, 3 de Destreza|Recarrega a cada tiro|48 metros|9|
+| Arma                | Preço | Dano   | Tipo de Dano | Escalas                    | Requisitos                | Característica Única                             | Alcance   | Peso |
+| ------------------- | ----- | ------ | ------------ | -------------------------- | ------------------------- | ------------------------------------------------ | --------- | ---- |
+| Arco Curto          |       | Grau 1 | Perfurante   | D em Destreza              | 1 de Destreza             | -                                                | 18 metros | 1    |
+| Arco Curto Composto |       | Grau 2 | Perfurante   | C em Destreza              | 2 de Destreza             | -                                                | 24 metros | 2    |
+| Arco Longo          |       | Grau 2 | Perfurante   | D em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                | 24 metros | 2    |
+| Arco Longo Composto |       | Grau 3 | Perfurante   | C em Força e C em Destreza | 2 de Força, 2 de Destreza | -                                                | 30 metros | 3    |
+| Besta Leve          |       | Grau 4 | Perfurante   | -                          | -                         | Recarrega a cada tiro                            | 24 metros | 2    |
+| Besta Pesada        |       | Grau 4 | Perfurante   | -                          | -                         | Recarrega a cada tiro                            | 36 metros | 4    |
+| Pistola             |       | Grau 5 | Perfurante   | -                          | 3 de Destreza             | Recarrega a cada 10 tiros, ocupa apenas uma mão. | 24 metros | 2    |
+| Escopeta            |       | Grau 6 | Perfurante   | -                          | 3 de Força, 3 de Destreza | Recarrega a cada 2 tiros                         | 18 metros | 4    |
+| Canhão de Mão       |       | Grau 7 | Perfurante   | -                          | 6 de Força, 3 de Destreza | Recarrega a cada tiro                            | 12 metros | 10   |
+| Rifle de Precisão   |       | Grau 8 | Perfurante   | -                          | 6 de Força, 3 de Destreza | Recarrega a cada tiro                            | 48 metros | 9    |
 
 ## Munições
 

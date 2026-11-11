@@ -40,7 +40,9 @@ Você tem 2 PHs para escolher qualquer Habilidade do Capítulo 5 - Habilidades. 
 
 Você faz algumas escolhas atreladas à origem de seu personagem. No total são 7 Pontos de Origem que você pode gastar. Dentre as opções de gasto estão: aumentar o Grau dos seus Dados de Vida ou do de Mana, adquirir novas Proficiências e obter PHs adicionais.
 
-Cada Ponto de Origem gasto aumenta em um o Grau de um dos dois dados, até o máximo de Grau 5. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Por fim, você também pode trocar Pontos de Origem por Pontos de Habilidade, na proporção de 1 para 1, e adquirir novas Habilidades com eles. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar.
+Cada Ponto de Origem gasto aumenta em um o Grau de um dos dois dados, até o máximo de Grau 5. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Por fim, você também pode trocar Pontos de Origem por Pontos de Habilidade, na proporção de 1 para 1, e adquirir novas Habilidades com eles. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar. 
+
+Por último, você pode escolher ser capaz de utilizar Magias. Essa escolha também requer 1 Ponto de Origem. Para poder realizá-la, seu valor de sabedoria deve ser igual ou superior a 1. Você pode adquirir essa capacidade em Níveis futuros pelo preço de 1 PH, mas uma vez escolhido utilizar Magia, você não poderá mais desfazer essa escolha. Confira a seção "Iniciado em Magia" mais à frente para mais detalhes.
 
 ## PVs e PMs Máximos
 
@@ -49,3 +51,7 @@ Uma vez escolhido o Dado de Vida, seus PVs Máximos iniciais são o maior valor 
 ## Equipamento Inicial
 
 Você começa com 150 Peças de Ouro que pode gastar da maneira que quiser com qualquer item listado no Capítulo 4 - Equipamentos. Lá também estarão as explicações de como as moedas do jogo funcionam.
+
+## Iniciado em Magia
+
+Você conhecerá uma quantidade de Magias que aumentará conforme seu valor de Sabedoria. A quantidade de Magias que você conhece é sempre o dobro do seu valor de Sabedoria. Você escolhe suas Magias iniciais no NV 1, e escolhe novas Magias quando subir de Nível, caso aumente seu valor de Sabedoria. Por último, você pode trocar uma quantidade de Magias escolhidas iguais ao seu Modificador de Sabedoria ao ter um Descanso Longo, se assim desejar.
