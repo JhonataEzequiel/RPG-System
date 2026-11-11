@@ -1,5 +1,7 @@
 Qualquer item que é gasto após o uso é chamado de Item Consumível. Eles são subdivididos entre Resinas, Itens Arremessáveis, Poções, e Venenos. Utilizar um Item Consumível requer uma quantidade de Ações ou Ações Bônus que dependerá do item. Qualquer Item Consumível pesa 0.5 unidades de Peso.
 
+Caso queira construir seu personagem envolta desses itens, confira o Arquétipo do Alquimista, disponível no Capítulo 5.1 - Lista de Habilidades. Esse Arquétipo providenciará diversas maneiras diferentes de se utilizar os Itens Consumíveis, além de formas de criá-los.
+
 ## Resinas
 
 Resinas são itens que podem ser aplicados em alguns equipamentos, concedendo uma característica adicional aos mesmos. Todas as Resinas tem duração de 3 Rodadas, e necessitam de uma Ação Bônus para serem aplicadas.
@@ -18,7 +20,7 @@ Resinas são itens que podem ser aplicados em alguns equipamentos, concedendo um
 
 ## Itens Arremessáveis
 
-Existem alguns Itens Arremessáveis capazes de causar dano ou efeito negativo a um inimigo. Os itens a seguir não possuem Escalas. Caso queira construir seu personagem envolta desses itens, confira o Arquétipo do Alquimista, disponível no Capítulo 5.1 - Lista de Habilidades. Esse Arquétipo providenciará diversas maneiras diferentes de se utilizar esses itens. A tabela a seguir detalha os Itens Arremessáveis:
+Existem alguns Itens Arremessáveis capazes de causar dano ou efeito negativo a um inimigo. Os itens a seguir não possuem Escalas como as Armas, mas você adiciona seu BP ao BA. A tabela a seguir detalha os Itens Arremessáveis:
 
 | Item                  | Funcionalidade                                                                                                                                                         | Preço |
 | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- |
