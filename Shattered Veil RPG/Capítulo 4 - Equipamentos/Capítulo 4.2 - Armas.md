@@ -1,9 +1,5 @@
 Armas possuem requisitos, assim como as Armaduras. Sem atender aos requisitos, o Ataque com a Arma não tem nenhum BA, o dano é sempre 1 de Dano de Impacto, cada Ataque custa três Ações e você não recebe nenhum bônus de Escalas. Ataques de Oportunidade também ficam indisponíveis.
 
-Ao equipar uma Arma em duas mãos, você dobrará a sua Força. Isso se aplica tanto às Escalas — ou seja, você poderá atingir patamares mais altos das Escalas mais cedo — quanto aos requisitos — ou seja, você talvez possa utilizar uma Arma que exige mais Força do que você tem atualmente ao empunhá-la em duas mãos. Para esses efeitos, a Força dobrada é limitada a 10. O valor que ultrapassar 10 após a dobra é chamado de Força excedente e não conta para Escalas nem para requisitos. Em vez disso, ele é somado ao BD de Ataques com a Arma. Por exemplo, com 8 de Força, você tem 16 ao empunhar uma Arma em duas mãos: 10 valem para Escalas e requisitos, e os 6 pontos excedentes somam +6 ao BD.
-
-Ter mais de 10 de Força é raro, pois só é possível através de certas Habilidades ou ao ir além do Nível 20 (veja o Capítulo 2.1 - Evoluindo de Nível). Nesses casos, o valor acima de 10 também conta como Força excedente. Por exemplo, com 12 de Força, você tem 24 ao empunhar uma Arma em duas mãos: 10 valem para Escalas e requisitos, e os 14 pontos excedentes somam +14 ao BD.
-
 Você pode ser Proficiente em Armas Corpo a Corpo e também em Armas à Distância. Caso você não seja Proficiente no tipo da Arma que está usando, ainda recebe o bônus do item, mas não adiciona o seu BP ao BA.
 
 ## BA da Arma
@@ -18,9 +14,17 @@ O BA de um Ataque com uma Arma é dado por:
 - **BP**: o seu Bônus de Proficiência, adicionado apenas se você for Proficiente no tipo da Arma. Caso contrário, vale 0.
 - **Outros**: a soma de quaisquer outros bônus ou penalidades que você tenha no Ataque.
 
+## Equipar uma Arma em Duas Mãos
+
+Ao equipar uma Arma em duas mãos, você dobrará a sua Força. Isso se aplica tanto às Escalas — ou seja, você poderá atingir patamares mais altos das Escalas mais cedo — quanto aos requisitos — ou seja, você talvez possa utilizar uma Arma que exige mais Força do que você tem atualmente ao empunhá-la em duas mãos. Para esses efeitos, a Força dobrada é limitada a 10. 
+
+O valor que ultrapassar 10 após a dobra é chamado de Força excedente e não conta para Escalas nem para requisitos. Em vez disso, ele é somado ao BD e ao BA de Ataques com a Arma, sem limites para o BD, mas com um limite de +5 para o BA. Por exemplo, com 8 de Força, você tem 16 ao empunhar uma Arma em duas mãos: 10 valem para Escalas e requisitos, e os 6 pontos excedentes somam +6 ao BD e +5 ao BA.
+
+Ter mais de 10 de Força é raro, pois só é possível através de certas Habilidades ou ao ir além do Nível 20 (veja o Capítulo 2.1 - Evoluindo de Nível). Nesses casos, o valor acima de 10 também conta como Força excedente. Por exemplo, com 12 de Força, você tem 24 ao empunhar uma Arma em duas mãos: 10 valem para Escalas e requisitos, e os 14 pontos excedentes somam +14 ao BD e +5 ao BA.
+
 ## Duas Armas ao Mesmo Tempo
 
-Você pode Atacar com duas Armas ao mesmo tempo, equipando uma em cada mão. Isso é um único Ataque. O BA utilizado neste Ataque é o menor entre os BAs das duas Armas, e isso inclui o bônus concedido por Escalas.
+Você pode Atacar com duas Armas ao mesmo tempo, equipando uma em cada mão. Isso é um único Ataque. O BA utilizado neste Ataque é a soma do BA da primeira Arma com metade do da segunda. Por exemplo, se a primeira Arma tem +4 de BA e a segunda tem +2, o BA final será +5.
 
 O dano de cada Arma é rolado separadamente: o Grau da Arma 1 mais o BD dela e o Grau da Arma 2 mais o BD dela. Os resultados de ambas são somados. Em um Ataque Crítico, essa soma é dobrada. Atacar com duas Armas ao mesmo tempo tem um custo de duas Ações.
 

@@ -1,8 +1,8 @@
-Esse é um rascunho do balanceamento. Ele será dividido em algumas seções. Foi reescrito para as regras atuais do sistema (Escalas de Armas e de Armaduras, Capítulos 4.1 a 4.3), e o dano dos jogadores agora inclui +75 de BD vindo de Escalas.
+Esse é um rascunho do balanceamento. Ele será dividido em algumas seções.
 
 ## Proposta Principal
 
-Um monstro de NV X é um desafio mediano para um grupo de NV médio X. Deverá levar 4 Rodadas para ser derrotado. O sistema será balanceado pensando em 4 Encontros antes de um Descanso. O quanto de tempo descansado depende do Mestre, que pode escolher ser mais ou menos carrasco.
+Um monstro de NV X é um desafio mediano para um grupo de NV médio X. Deverá levar 4 Rodadas para ser derrotado. O sistema será balanceado pensando em 4 Encontros antes de um Descanso Longo. A quantidade de Descansos Curtos fica a critério do Mestre.
 
 Esse monstro deverá drenar 20% dos recursos dos jogadores no Encontro. Vamos focar em 10% dos PVs Máximos do grupo por Rodada. Se for muito baixo, essa porcentagem pode ser ajustada, assim como se for muito alto.
 
@@ -33,23 +33,21 @@ A CA é calculada como (Capítulo 1.6):
 
 **CA = 10 + BP + Escalas + Outros**
 
-Onde Escalas são os bônus das Escalas da Armadura, e Outros inclui o bônus da própria Armadura e as Habilidades. O Modificador de Atributo não entra mais na CA: o Atributo entra pelas Escalas, que concedem +1 de CA a cada valor par do Atributo, até o 10. Uma Armadura tem até duas Escalas, então elas concedem até +10 de CA. O bônus da própria Armadura vai até +8 na lista atual (Capítulo 4.1). Habilidades concedem até +3 (Capítulo 1.14). Considerando que o PDJ é Proficiente na Armadura, no NV 20:
+Onde Escalas são os bônus das Escalas da Armadura, e Outros inclui o bônus da própria Armadura e as Habilidades. O Atributo entra pelas Escalas, que concedem +1 de CA a cada valor par do Atributo, até o 10. Uma Armadura tem até duas Escalas, então elas concedem até +10 de CA. O bônus da própria Armadura vai até +8 na lista atual, no entanto o limite será +10. Habilidades concedem até +3 (Capítulo 1.14). Considerando que o PDJ é Proficiente na Armadura, no NV 20:
 
-**CA = 10 + 22 + 10 + 8 + 3 = 53**
+**CA = 10 + 22 + 10 + 10 + 3 = 55**
 
-Esse é o valor máximo de uma build otimizada. No rascunho anterior era 50, porque se considerava que a Armadura concedia no máximo +10 de CA no total. Com as Escalas, uma Armadura Pesada chega a +18. Para 65% de chance de acerto dos monstros contra esse valor, o BA deles precisaria ser 45.
+Esse é o valor máximo de uma build otimizada para defesa. Com as Escalas, uma Armadura Pesada chega a +20. Para 65% de chance de acerto dos monstros contra esse valor, o BA deles precisaria ser 47.
 
-Roupas, como a Túnica de Mago, não concedem CA nem BP, e impedem o uso de Armaduras. A Escala da Roupa ainda vale: a Túnica de Mago (D em Arcano) concede +5 de CA com 10 em Arcano. Isso deixa o mago com CA 10 + 5 + 3 = 18, longe do valor típico.
+Roupas com efeitos especiais, como a Túnica de Mago, não concedem CA nem BP, e impedem o uso de Armaduras. A Escala da Roupa ainda vale: a Túnica de Mago (D em Arcano) concede +5 de CA com 10 em Arcano. Isso deixa o mago com CA 10 + 5 + 3 = 18, longe do valor típico. Outros tipos de personagens similares precisam de roupas parecidas, por isso tem várias vestimentas com Escalas diversas.
 
-Portanto, o mago precisa de um jeito de conseguir a parte da CA que vem do BP e do equipamento (≈ 29 pontos).
+Portanto, o mago precisa de um jeito de conseguir a parte da CA que vem do BP e do equipamento (55 pontos). A quantidade será 10 pontos inferior a de uma build otimizada. Assim, o conjurador fica mais frágil que um tanque. Ele pode aumentar a CA através de outras Magias menores que concedem CA temporariamente. No entanto, haverá uma Magia principal para as classes mágicas chamada Armadura Arcana. 
 
-**Proposta**
-
-Uma magia chamada "Armadura Arcana". Enquanto ativa, ela soma o BP e metade do Nível à CA do mago, que continua somando as Escalas da Roupa e outros bônus. A CA fica 10 + BP + metade do Nível + Escalas + Outros. No NV 20, com Túnica de Mago e 10 em Arcano, isso dá 10 + 22 + 10 + 5 = 47, igual à CA típica (veja "Cenário Típico"). Com +3 de Habilidades, chega a 50, três abaixo do máximo de um marcial. Isso é de propósito: o conjurador puro fica mais fácil de acertar do que um marcial. A parte "metade do Nível" pode ser ajustada se for preciso aproximar mais os dois.
+Enquanto ativa, ela soma o BP à CA do mago, que continua somando as Escalas da Roupa e outros bônus. A CA fica 10 + BP + Escalas + Outros. No NV 20, com Túnica de Mago e 10 em Arcano, e com uma Escala extra em Sabedoria, conseguida através de uma túnica mais forte, isso dá 10 + 22 + 10 + 3 = 45, igual à CA típica (veja "Cenário Típico").
 
 ## BA Média dos Jogadores
 
-Assumindo que a CA de um monstro de NV X é igual à CA típica de um PDJ de NV X (veja "Cenário Típico"), então a CA de um monstro no NV 20 = 47. A BA típica dos jogadores deve ser 39 e a máxima, 42.
+Assumindo que a CA de um monstro de NV X com CA máxima é igual à CA máxima de um PDJ, ou seja, 55, a BA para 65% de um personagem focado em ofensiva deve ser de 55-8=47.
 
 **BA da Arma = Escalas + BP + Outros**
 
@@ -57,28 +55,24 @@ As Escalas de uma Arma concedem +1 de BA a cada valor par do Atributo, até o 10
 
 **BA = 22 + 10 + 10 = 42**
 
-Isso é o que antes era uma proposta, e agora é regra: Armas com bônus em até dois Atributos e teto de +10 de BA para Habilidades. O valor máximo de 42 continua igual ao do rascunho anterior.
-
-Boa parte das Habilidades pode conceder um bônus pequeno de BA em Ataques junto do seu efeito principal. Por exemplo, uma Habilidade simples de custo 1 concede +1 de BA. Assim, a precisão vem de Habilidades úteis, e não de um imposto de PHs. Builds baseadas em CD, e não em Ataques, precisarão de um bônus equivalente, a definir.
+No entanto, um PDJ pode escolher utilizar duas Armas ao mesmo tempo ou equipar uma Arma em duas mãos, aumentando o BA até um máximo de +5. Isso faz com que a BA atinja o valor otimizado de 47, que seria de um personagem focado em ofensivas.
 
 ## Cenário Típico
 
-Os valores acima são os máximos, de builds otimizadas. É bom ter noção deles, mas a maioria dos personagens não chega lá. Para calibrar os monstros, vamos usar um cenário típico. O BA típico fica 3 pontos abaixo do máximo (39). A CA típica fica 6 abaixo do novo máximo (47), pois chegar aos 53 exige uma Armadura Pesada com duas Escalas em 10, o que gasta 20 PAs em dois Atributos. Uma Armadura Leve com uma Escala em 10 chega a 10 + 22 + 5 + 4 + 3 = 44, e uma Pesada com Escalas em 10 e 8 chega a 10 + 22 + 9 + 8 + 3 = 52. A média fica perto de 47. Assim, sobra margem para quem investir em builds mais ofensivas, mais defensivas, ou em ambas.
+Os valores acima são os máximos, de builds otimizadas. É bom ter noção deles, mas a maioria dos personagens não chega lá. Para calibrar os monstros, vamos usar um cenário típico.
 
-No NV 20, um monstro típico tem **CA 47 e BA 39**, e um PDJ típico tem os mesmos valores. A diferença entre BA e CA continua sendo 8, então ambos os lados acertam 65% das vezes. Os valores são do NV 20. Nos demais Níveis, o BP soma 1 por Nível, e a diferença entre BA e CA se mantém.
+Uma Armadura barata (+4 de CA) com uma Escala em 10 chega a 10 + 22 + 5 + 4 + 3 = 44, e uma boa (+10 de CA) com Escalas em 10 e 10 chega a 10 + 22 + 10 + 10 + 3 = 55. A média fica em 49,5 (usaremos 50). Assim, sobra margem para quem investir em builds mais ofensivas, mais defensivas, ou em ambas.
 
-|Build|BA|CA|Acerta o Monstro|É acertado|
-|---|---|---|---|---|
-|Típico|39|47|65%|65%|
-|Ofensivo|42|44|80%|80%|
-|Defensivo|36|50|50%|50%|
-|Combado|42|50|80%|50%|
-|Máximo|42|53|80%|35%|
+O cenário típico de NV 20 é dado pro **CA 50 e BA 42**. Esse 42 vem de uma Arma com duas Escalas.
 
-- **Especializar-se vale ±3 pontos**, o que dá ±15 pontos percentuais de acerto, ou cerca de ±23% de dano causado e recebido. É uma troca clara, sem ser dominante.
-- **O Combado é a recompensa de quem investe em tudo**: causa cerca de 23% mais dano e recebe cerca de 23% menos que o típico. Ele paga isso com PHs (BA) e com ouro (CA).
-- **O teto de +10 em BA não precisa ser gasto por todos.** O típico fica em 39, e o máximo só é alcançado por quem otimiza.
-- **O teto de CA ficou mais alto que o de BA.** O Máximo (CA 53) fica 6 acima do típico e é acertado só 35% das vezes, 30 pontos percentuais abaixo do típico. O BA máximo fica 3 acima do típico e vale 15. Se isso for demais, vale reduzir o bônus das Armaduras Pesadas ou o das Escalas de Armadura.
+No NV 20, um monstro típico tem **CA 50 e BA 42**, e um PDJ típico tem os mesmos valores. A diferença entre BA e CA continua sendo 8, então ambos os lados acertam 65% das vezes. Os valores são do NV 20. Nos demais Níveis, o BP soma 1 por Nível, e a diferença entre BA e CA se mantém.
+
+| Build do PDJ | BA  | CA  | Acerta o Monstro Típico | É acertado |
+| ------------ | --- | --- | ----------------------- | ---------- |
+| Típico       | 42  | 50  | 65%                     | 65%        |
+| Ofensivo     | 47  | 44  | 85%                     | 90%        |
+| Defensivo    | 42  | 55  | 65%                     | 35%        |
+| Maximizado   | 47  | 55  | 85%                     | 35%        |
 
 ### Diferença de Nível
 
@@ -86,7 +80,7 @@ Cada Nível de diferença vale 1 de BA e 1 de CA, ou 5 pontos percentuais. Um mo
 
 ## PVs e PMs Máximos dos Jogadores
 
-Assumindo NV 20, os jogadores chegariam a, em média, 193,5 PVs Máximos, caso aumentem a Constituição até o limite do Atributo e escolham d8 (Grau 3) como Dado de Vida. A conta é (8 + 5) no Nível 1, mais 19 Níveis de (4,5 + 5). Os Pontos Retroativos (Capítulo 2.1) fazem o Modificador final valer em todos os Níveis. Ainda que não aumentem a Constituição ao máximo, eles provavelmente vão escolher um Dado de Vida maior nesse caso. Mesmo que optem por uma build frágil, é uma escolha que deve ser respeitada, e será levada em conta aqui.
+Assumindo NV 20, os jogadores chegariam a, em média, 193,5 PVs Máximos, caso aumentem a Constituição até o limite do Atributo e escolham d8 (Grau 3) como Dado de Vida. A conta é (8 + 5) no Nível 1, mais 19 Níveis de (4,5 + 5). Os Pontos Retroativos (Capítulo 2.1) fazem o Modificador final valer em todos os Níveis. Ainda que não aumentem a Constituição ao máximo, eles provavelmente vão escolher um Dado de Vida maior nesse caso. Mesmo que optem por uma build frágil, é uma escolha que deve ser respeitada.
 
 4 jogadores terão, em média, por volta de 774 PVs Máximos.
 
@@ -96,7 +90,13 @@ Esses dois valores não podem existir ao mesmo tempo sem que a build do personag
 
 ## Dano dos Monstros
 
-Um monstro deve causar 10% de 774 toda Rodada no NV 20. Isso dá 77,4 de dano, ou 77. Esse valor é o dano **líquido**, depois das Resistências dos jogadores. As Armaduras agora concedem Resistência a Dano Físico pelas Escalas (até +25 por Escala S), então o Guia dos Monstros deve somar a Resistência típica ao dano bruto dos Ataques.
+Um monstro de NV 20 deve causar 10% de 774 toda Rodada no NV 20. Isso dá 77,4 de dano, ou 77. Esse valor é o dano **líquido**, depois das Resistências dos jogadores.
+
+Uma Armadura com 2 Escalas S e 10 em dois Atributos concede +50 de Resistência a Dano Físico. Ou seja, o dano de um monstro de NV 20 deverá ser, pelo menos 77 + X.
+
+Ataques em área precisam causar entre 275 e 280 de dano por Rodada considerando 4 jogadores. E Ataques de alvo único precisam causar entre 125 a 130 de dano, considerando que a Rodada inteira foi gastar apenas com Ataques de alvo único.
+
+O Dano Mágico terá suas próprias formas de resistência que serão diferentes das concedidas por Armaduras básicas. No fim, será mais ou menos a mesma coisa. Isso premia tanques que procurem itens especiais que concedam Resistência a Dano Mágico, ou maneiras de alterar os equipamentos que já possuem para garantir um pouco dessa Resistência. Ter um usuário de Magias no time se torna essencial caso o tanque não vá atrás dessa Resistência de outras formas. Um usuário de Magias (mago, clérigo, bardo, ou algo do gênero) pode conceder resistência mágica ao time através das Magias dele.
 
 ## Dano dos Jogadores
 
@@ -106,7 +106,7 @@ Assumindo que buildaram direito, escolhendo os Atributos corretos para seus pers
 
 **BD (Armas) = Escalas + Habilidades + Outros**
 
-O Modificador do Atributo deixou de entrar no BD de Armas: o Atributo entra pelas Escalas (Capítulo 1.6). Assumindo Grau 10, e que no NV 20 um jogador causa **75 de dano adicional por conta das Escalas**, temos:
+O Modificador do Atributo deixou de entrar no BD de Armas: o Atributo entra pelas Escalas (Capítulo 1.6). Assumindo Grau 10, e que no NV 20 um jogador causa **75 de dano adicional por conta das Escalas** (duas Armas ao mesmo tempo, ou uma Arma em duas mãos), temos:
 
 **Dano = 3d10 + 75 + Habilidades + Outros**
 
@@ -116,17 +116,29 @@ Por enquanto, isso dá, em média:
 
 **Dano = 91,5 + Habilidades + Outros**
 
-Levando em conta 3 Ataques por Rodada e 65% de chance de acerto, temos 1,95 acertos por Rodada, o que dá 178,4 de dano por Rodada. Isso desconsiderando as penalidades de Ataque (-5 cumulativo). Atacar com duas Armas ao mesmo tempo custa duas Ações, então os 3 Ataques são uma simplificação.
+Haverá uma Habilidade que elimina as penalidades de Ataque. Ela custará 3 PHs, e terá como requisito 5 de Destreza ou de Força, e eliminará apenas a primeira penalidade. O jogador pode gastar +1 PH para eliminar a segunda com requisito de ter 10 de Destreza ou Força.
 
-**Proposta**
+Supondo +25 de Habilidades e +5 de Outros em um personagem ofensivo, temos:
 
-Habilidades que eliminem as penalidades de Ataque.
+**Dano = 91.5 + 25 + 5 = 121.5**
 
-Para chegar a um número bonito e fechado, o dano-alvo por jogador é 187,5 por Rodada. Isso dá cerca de 96,2 de dano por Ataque, ou seja, 4,6 por acerto vindos de Habilidades e Outros (cerca de 9 por Rodada). Com 4 jogadores, isso dá 750 de dano por Rodada. Para 4 Rodadas, 3.000.
+Levando em conta 3 Ataques por Rodada e 65% de chance de acerto, temos 1,95 acertos por Rodada, o que dá cerca de 237 de dano por Rodada. Isso desconsiderando as penalidades de Ataque por conta das Habilidades. Atacar com duas Armas ao mesmo tempo custa duas Ações, então os 3 Ataques são uma simplificação.
 
-Isso faz com que as Habilidades e Outros possam causar alguns pontos de dano a mais por Rodada. No caso, entre 8 e 20 seria uma boa faixa. Permitiria builds mais focadas em ofensiva.
+Supondo +10 de Habilidades e +0 de Outros em um personagem defensivo, temos:
 
-Um jogador causando 187,5 de dano por Rodada tira quase todos os 193,5 PVs de outro jogador em uma Rodada. Duelos entre PDJs deixam de durar 4 Rodadas e passam a durar cerca de 1. Isso não afeta o balanceamento contra monstros, mas o Mestre deve estar ciente.
+**Dano = 91.5 + 10 = 101.5**
+
+Com 1,95 acertos por rodada, temos: 198 de dano por Rodada.
+
+Fazendo a média do ofensivo com o defensivo, temos: 217.5 de dano por Rodada.
+
+Com 4 jogadores, isso dá 870 de dano por Rodada. Para 4 Rodadas, 3.480. Isso sem considerar Resistências que o monstro possa possuir, apenas dano líquido.
+
+Uma faixa entre 0 e 25 seria bom para as Habilidades, deixando +5 como média de bônus temporários, como Magias de aliados.
+
+Um jogador causando 217.5 de dano por Rodada tira quase todos os 193,5 PVs de outro jogador em uma Rodada, caso ele não possua nenhuma Resistência. Duelos entre PDJs deixam de durar 4 Rodadas e passam a durar cerca de 1. Isso não afeta o balanceamento contra monstros, mas o Mestre deve estar ciente.
+
+Já para um duelo aonde se tenha Resistência, ele durará entre duas e 4 Rodadas, a depender de curas, buffs, e debuffs. Esse é o cenário ideal.
 
 ## PVs e PMs Máximos do Monstro
 
