@@ -45,18 +45,18 @@ Como regra geral, 100 moedas de qualquer tipo pesam 1 unidade de Peso. Seu Mestr
 
 ## Itens Consumíveis
 
-Alguns itens são consumíveis e podem ser utilizados apenas uma vez cada. Poções, Venenos, Resinas, Itens Arremessáveis, dentre outros, são considerados Itens Consumíveis. As regras de Itens Consumíveis estarão no Capítulo 4.6 - Itens Consumíveis.
+Alguns itens são consumíveis e podem ser utilizados apenas uma vez cada. Poções, Venenos, Resinas, Itens Arremessáveis, dentre outros, são considerados Itens Consumíveis. As regras de Itens Consumíveis estarão no Capítulo 4.5 - Itens Consumíveis.
 
 ### Itens Arremessáveis
 
 Alguns Itens Consumíveis são feitos para serem Arremessados (veja o Capítulo 1.6 - Combate). Arremessar um Item Arremessável que cause dano é um Ataque à Distância, e não um Ataque com Arma à Distância. No entanto, para critérios de Proficiência, ele conta como uma Arma à Distância: caso você seja Proficiente em Armas à Distância, adiciona seu BP ao BA desse Ataque.
 
-Cada Item Arremessável possui regras próprias, como dano, alcance e efeitos, descritas no Capítulo 4.6 - Itens Consumíveis.
+Cada Item Arremessável possui regras próprias, como dano, alcance e efeitos, descritas no Capítulo 4.5 - Itens Consumíveis.
 
 ## Aprimoramento de Equipamentos
 
-É possível evoluir e modificar Armas, Armaduras e Escudos. Tais itens são refinados por um ferreiro ou encontrados já refinados como tesouro durante as suas aventuras. As modificações são feitas nas Escalas, alterando-as, assim como os Atributos referentes a elas. Também é possível mudar algumas outras propriedades do item. Para mais detalhes, consulte o Capítulo 4.9 - Aprimoramento.
+É possível evoluir e modificar Armas, Armaduras e Escudos. Tais itens são refinados por um ferreiro ou encontrados já refinados como tesouro durante as suas aventuras. As modificações são feitas nas Escalas, alterando-as, assim como os Atributos referentes a elas. Também é possível mudar algumas outras propriedades do item. Para mais detalhes, consulte o Capítulo 4.6 - Aprimoramento.
 
 ## Itens Especiais
 
-Por último, existem os Itens Especiais. Trata-se de itens cujo poder e raridade são maiores que os de itens comuns. Podem ser frutos de magos poderosos ou de ferreiros e alquimistas de grande prestígio. Contêm efeitos únicos. Neste Guia do Jogador, apenas uma pequena quantidade de Itens Especiais está disponível. O Guia do Mestre conterá mais itens. A lista deste guia está no Capítulo 4.10 - Itens Especiais.
+Por último, existem os Itens Especiais. Trata-se de itens cujo poder e raridade são maiores que os de itens comuns. Podem ser frutos de magos poderosos ou de ferreiros e alquimistas de grande prestígio. Contêm efeitos únicos. Neste Guia do Jogador, apenas uma pequena quantidade de Itens Especiais está disponível. O Guia do Mestre conterá mais itens. A lista deste guia está no Capítulo 4.7 - Itens Especiais.

@@ -1,4 +1,4 @@
-Escudos ocupam uma das mãos. Cada Escudo pode possuir, por padrão, uma de três Habilidades únicas de Escudo, detalhadas na próxima seção. Um Escudo pode ser melhorado seguindo as regras do Capítulo 4.9 - Aprimoramento. Ele começa como um Escudo normal e pode chegar até um Escudo +10. Por padrão, um Escudo concede uma quantidade de Resistência a Dano Físico e Dano Mágico de maneira passiva, e esse valor aumenta em um para cada vez que for melhorado.
+Escudos ocupam uma das mãos. Cada Escudo pode possuir, por padrão, uma de três Habilidades únicas de Escudo, detalhadas na próxima seção. Um Escudo pode ser melhorado seguindo as regras do Capítulo 4.6 - Aprimoramento. Ele começa como um Escudo normal e pode chegar até um Escudo +10. Por padrão, um Escudo concede uma quantidade de Resistência a Dano Físico e Dano Mágico de maneira passiva, e esse valor aumenta em um para cada vez que for melhorado.
 
 Escudos também possuem requisitos. Ao não atender aos requisitos de um Escudo, você não pode usar nenhuma das Habilidades que necessitem de um Escudo equipado como requisito.
 
