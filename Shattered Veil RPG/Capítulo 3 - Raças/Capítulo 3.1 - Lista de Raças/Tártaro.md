@@ -2,7 +2,7 @@ Os Tártaros são um povo de tartarugas. A cor da pele de réptil deles varia mu
 
 Eles valorizam seus cascos, sendo uma marca de orgulho de sua Raça, pois demonstra o quão focados eles são a ponto de carregar algo tão pesado. Lendas entre os Tártaros falam sobre aventureiros poderosos que se acostumaram tanto com seus cascos que se movem em velocidade máxima mesmo com ele.
 
-Os cascos dos Tártaros são diferentes de tartarugas comuns, parecendo mais com exoesqueletos do que com esqueletos de verdade. Eles grudam na pele naturalmente e podem se soltar com algum esforço individual. Assim, um Tártaro ainda consegue usar armaduras, desde que ao menos uma pequena parte de pele seja exposta para que o casco seja acoplado.
+Os cascos dos Tártaros são diferentes dos cascos de tartarugas comuns, parecendo mais com exoesqueletos do que com esqueletos de verdade. Eles grudam na pele naturalmente e podem se soltar com algum esforço individual. Assim, um Tártaro ainda consegue usar armaduras, desde que ao menos uma pequena parte de pele seja exposta para que o casco seja acoplado.
 
 ### Habilidades de Raça
 

@@ -91,7 +91,7 @@ Por exemplo, com dois pontos na Margem de Ameaça, seus Ataques são Ataques Cr�
 
 ## Armas e Objetos Equipados
 
-Alguns itens necessitam que você os segure em uma das mãos para que possam ser usados. Você pode segurar uma quantidade de itens igual à sua quantidade de mãos. Você pode soltar um item segurado com uma Ação Livre e gasta uma Ação Bônus para apanhá-lo do chão. Para trocar um item equipado por outro que você possua, você gasta uma Ação Bônus. Por padrão, uma criatura possui duas mãos, e todas as opções de criaturas que você pode escolher para jogar também possuem duas mãos. É comum que apenas alguns PDMs possuam mais de duas.
+Alguns itens necessitam que você os segure em uma das mãos para que possam ser usados. Você pode segurar uma quantidade de itens igual à sua quantidade de mãos. Você pode soltar um item segurado com uma Ação Livre e gastar uma Ação Bônus para apanhá-lo do chão. Para trocar um item equipado por outro que você possua, você gasta uma Ação Bônus. Por padrão, uma criatura possui duas mãos, e todas as opções de criaturas que você pode escolher para jogar também possuem duas mãos. É comum que apenas alguns PDMs possuam mais de duas.
 
 ## Desarme
 

@@ -22,7 +22,7 @@ Você pode se mover pelo mundo. As regras de movimentação têm um capítulo se
 
 ## Funcionamento dos Dados
 
-Na maioria das vezes que você quiser fazer algo é necessário rolar dados. O resultado de uma rolagem de dados determina o quão bem-sucedida foi a sua tentativa. Existem diversas maneiras diferentes de se usar os dados. Além disso, qual dado deve ser usado pode variar de acordo com o que se deseja fazer.
+Na maioria das vezes que você quiser fazer algo, é necessário rolar dados. O resultado de uma rolagem de dados determina o quão bem-sucedida foi a sua tentativa. Existem diversas maneiras diferentes de se usar os dados. Além disso, qual dado deve ser usado pode variar de acordo com o que se deseja fazer.
 
 ## Grau de Dado (Grau)
 
