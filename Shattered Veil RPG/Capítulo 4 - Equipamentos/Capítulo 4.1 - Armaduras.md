@@ -28,20 +28,20 @@ Vestimentas normais não são consideradas Armaduras, não concedem CA nem têm 
 
 ## Lista de Armaduras
 
-| Armadura                           | Preço | CA  | Escalas                       | Requisitos                | Penalidades                                             | Efeitos Adicionais | Peso |
-| ---------------------------------- | ----- | --- | ----------------------------- | ------------------------- | ------------------------------------------------------- | ------------------ | ---- |
-| Armadura de Tecido Acolchoado      |       | +1  | D em Força                    | -                         | -                                                       | -                  | 3    |
-| Gambeson                           |       | +2  | D em Força, D em Destreza     | 1 de Destreza, 1 de Força | -                                                       | -                  | 4    |
-| Couro Curtido                      |       | +2  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
-| Armadura de Peles                  |       | +3  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 5    |
-| Couro Fervido                      |       | +4  | D em Destreza                 | 3 de Destreza             | -                                                       | -                  | 5    |
-| Cota de Anéis                      |       | +5  | D em Força, D em Destreza     | 1 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 5    |
-| Cota de Malha                      |       | +5  | C em Força, D em Destreza     | 1 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 5    |
-| Armadura Lamelar                   |       | +5  | C em Força, C em Destreza     | 2 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
-| Brigantina                         |       | +6  | C em Destreza, D em Força     | 3 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
-| Armadura Parcial de Placas         |       | +6  | C em Força, D em Destreza     | 2 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 7    |
-| Armadura de Tiras                  |       | +7  | D em Força, D em Constituição | 2 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 7    |
-| Peitoral de Aço                    |       | +7  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 7    |
-| Armadura Completa de Placas        |       | +7  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 8    |
-| Armadura Completa de Aço           |       | +8  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -3 metros de Deslocamento   | -                  | 10   |
-| Armadura Gótica Completa de Placas |       | +8  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 12   |
+| Armadura                      | Preço | CA  | Escalas                       | Requisitos                | Penalidades                                             | Efeitos Adicionais | Peso |
+| ----------------------------- | ----- | --- | ----------------------------- | ------------------------- | ------------------------------------------------------- | ------------------ | ---- |
+| Armadura de Tecido Acolchoado |       | +1  | D em Força                    | -                         | -                                                       | -                  | 3    |
+| Gambeson                      |       | +2  | D em Força, D em Destreza     | 1 de Destreza, 1 de Força | -                                                       | -                  | 4    |
+| Couro Curtido                 |       | +2  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
+| Armadura de Peles             |       | +3  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
+| Couro Fervido                 |       | +4  | D em Destreza                 | 3 de Destreza             | -                                                       | -                  | 5    |
+| Cota de Anéis                 |       | +5  | D em Força, D em Destreza     | 1 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 5    |
+| Cota de Malha                 |       | +5  | C em Força, D em Destreza     | 1 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 5    |
+| Armadura Lamelar              |       | +5  | C em Força, C em Destreza     | 2 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
+| Brigantina                    |       | +6  | C em Destreza, D em Força     | 3 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
+| Armadura Parcial de Placas    |       | +6  | C em Força, D em Destreza     | 2 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 7    |
+| Armadura de Tiras             |       | +7  | D em Força, D em Constituição | 2 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 7    |
+| Peitoral de Aço               |       | +7  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 8    |
+| Catafractário                 |       | +7  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 10   |
+| Armadura Completa de Aço      |       | +8  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -3 metros de Deslocamento   | -                  | 12   |
+| Armadura Completa de Placas   |       | +8  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 15   |

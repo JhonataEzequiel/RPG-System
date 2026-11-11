@@ -32,14 +32,15 @@ Existem muitas regras neste sistema, assim como qualquer outro, que visam ditar 
 
 O livro é subdividido em capítulos. Cada capítulo trata de algum aspecto relevante para o sistema e, em ordem, lhe explica todas as regras e como interagir com o sistema. Cada capítulo também tem subcapítulos, responsáveis por destrinchar o sistema tópico a tópico.
 
-- **Capítulo 1 - Introdução e Fundamentos**: Aqui estão listadas as regras mais básicas e a explicação de termos comuns utilizados por todo o sistema.
-- **Capítulo 2 - Criação de Personagens**: Aqui estão listadas todas as regras relacionadas com a criação de personagens. Você encontra também algumas dicas de como montar o seu personagem.
-- **Capítulo 3 - Raças**: O sistema possui várias ideias de Raças, cada uma com Habilidades únicas. As Habilidades são pensadas para que não atrapalhem seu personagem, independentemente das escolhas que você fizer na construção do mesmo.
-- **Capítulo 4 - Equipamentos**: Aqui estão listadas as regras de Equipamentos, assim como uma lista básica contendo diversas opções de itens.
-- **Capítulo 5 - Habilidades**: O coração do sistema. Você encontra a principal parte da construção do seu personagem aqui. As Habilidades são escolhidas por você, podendo mesclar quaisquer Habilidades que quiser, montando um personagem único.
-- **Capítulo 6 - Magias**: Aqui você encontra as regras para conjuração de Magias e também uma lista contendo todas elas separadas por seus custos de Mana e também por Atributo necessário para conjurá-las, além de suas descrições e requisitos.
-- **Capítulo 7 - Transformações**: Algumas mecânicas opcionais caso queira jogar como uma criatura de natureza diferente.
-- **Capítulo 8 - Glossário**: Os termos-chave originais das siglas e formas resumidas e uma curta explicação de cada. Também contém explicações gerais úteis para uma pesquisa rápida.
+- **Capítulo 1 - Introdução e Fundamentos**: aqui estão listadas as regras mais básicas e a explicação de termos comuns utilizados por todo o sistema.
+- **Capítulo 2 - Criação de Personagens**: aqui estão listadas todas as regras relacionadas com a criação de personagens. Você encontra também algumas dicas de como montar o seu personagem.
+- **Capítulo 3 - Raças**: o sistema possui várias ideias de Raças, cada uma com Habilidades únicas. As Habilidades são pensadas para que não atrapalhem seu personagem, independentemente das escolhas que você fizer na construção do mesmo.
+- **Capítulo 4 - Equipamentos**: aqui estão listadas as regras de Equipamentos, assim como uma lista básica contendo diversas opções de itens.
+- **Capítulo 5 - Habilidades**: o coração do sistema. Você encontra a principal parte da construção do seu personagem aqui. As Habilidades são escolhidas por você, podendo mesclar quaisquer Habilidades que quiser, montando um personagem único.
+- **Capítulo 6 - Magias**: aqui você encontra as regras para conjuração de Magias e também uma lista contendo todas elas separadas por seus custos de Mana e também por Atributo necessário para conjurá-las, além de suas descrições e requisitos.
+- **Capítulo 7 - Exploração**: mecânicas e regras que ditam como a exploração do cenário deve ser feita.
+- **Capítulo 8 - Transformações**: algumas mecânicas opcionais caso queira jogar como uma criatura de natureza diferente.
+- **Capítulo 9 - Glossário**: os termos-chave originais das siglas e formas resumidas e uma curta explicação de cada. Também contém explicações gerais úteis para uma pesquisa rápida.
 
 ### Nomenclatura Básica
 
