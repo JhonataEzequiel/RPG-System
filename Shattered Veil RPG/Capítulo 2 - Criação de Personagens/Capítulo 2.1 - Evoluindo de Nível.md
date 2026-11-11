@@ -54,4 +54,4 @@ Você pode trocar seus Pontos de Habilidade por novas Perícias, se tornando Per
 
 ## Além do Nível 20
 
-Caso o Mestre permita, é possível ir além do Nível 20. Neste caso, cada Nível subsequente lhe concede um Ponto de Atributo e um Ponto de Habilidade. A partir de então, você pode ultrapassar +3 de CA concedido por Habilidades. O novo teto é +6. Você continua adicionando PVs e PMs como normalmente fazia, e seu Bônus de Proficiência sobe naturalmente conforme seu Nível avança.
+Caso o Mestre permita, é possível ir além do Nível 20. Neste caso, cada Nível subsequente lhe concede um Ponto de Atributo e um Ponto de Habilidade. A partir de então, você pode ultrapassar +3 de CA concedido por Habilidades. O novo teto é +6. Você continua adicionando PVs e PMs como normalmente fazia, e seu Bônus de Proficiência sobe naturalmente conforme seu Nível avança. O LA também aumenta para 20, ou seja, você pode aumentar um Atributo para além do valor 10.
