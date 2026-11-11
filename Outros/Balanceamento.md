@@ -130,7 +130,7 @@ Supondo +10 de Habilidades e +0 de Outros em um personagem defensivo, temos:
 
 Com 1,95 acertos por rodada, temos: 198 de dano por Rodada.
 
-Fazendo a média do ofensivo com o defensivo, temos: 217.5 de dano por Rodada.
+Fazendo a média do ofensivo com o defensivo, temos: 217.5 de dano por Rodada, e 111,5 por Ataque.
 
 Com 4 jogadores, isso dá 870 de dano por Rodada. Para 4 Rodadas, 3.480. Isso sem considerar Resistências que o monstro possa possuir, apenas dano líquido.
 
@@ -142,47 +142,15 @@ Já para um duelo aonde se tenha Resistência, ele durará entre duas e 4 Rodada
 
 ## PVs e PMs Máximos do Monstro
 
-PV de um monstro no NV 20 = 3.000, em média, como discutido (era 960 antes das Escalas). Os PMs ficam para depois.
+Por padrão, vamos considerar um monstro sem nenhuma Resistência a nenhum tipo de dano. Portanto, os PVs médios de um monstro de NV 20 deverão ser iguais a 4x o dano por Rodada de 4 PDJs de NV 20, para que durem 4 Rodadas. 4x4x217.5 = 3480. Usaremos 3500 como base.
 
-**Proposta**
+Sobre os PMs, eles podem seguir a mesma quantidade média de um PDJ, sendo 193,5 no NV 20.
 
-O monstro continua com um Dado de Vida que depende do tamanho, para que o Mestre possa rolar os dados e criar variedade. O monstro ganha o dado a cada Nível e soma o Modificador de Constituição aos PVs, caso seja positivo. Monstros de Nível alto, como dragões, teriam bastante Constituição, acima de 10 (provavelmente). Considerando o valor médio entre 0 e 20, temos 10 de Constituição, ou seja, +5 de Modificador. Use isso como parâmetro para o cálculo. Cada tamanho acima soma 6d10:
+Pendente: forma de calcular esse PVs. Provavelmente será uma curva não-linear, mas é bom avaliar.
 
-|Tamanho|Dado de Vida|Média + Con|PVs no Nível 20|
-|---|---|---|---|
-|Minúsculo|14d10|77 + 5|1.640|
-|Pequeno|20d10|110 + 5|2.300|
-|Médio|26d10|143 + 5|2.960|
-|Grande|32d10|176 + 5|3.620|
-|Enorme|38d10|209 + 5|4.280|
-|Colossal|44d10|242 + 5|4.940|
+## Cura
 
-Os PVs de um monstro são o Nível vezes (média do Dado de Vida + Con). O Médio dá 2.960, dentro de 1,5% dos 3.000 do alvo. Rolar os dados de todos os Níveis é opcional: usar a média é o padrão, e rolar os dados dá a variedade. Um monstro Médio de NV 20 tem 520 d10 no total.
-
-|Nível|PVs do grupo|PVs do monstro Médio|Dano do monstro por Rodada|Dano do grupo por Rodada (estimado)|Rodadas para derrotar|
-|---|---|---|---|---|---|
-|1|36|150|3,6|82|1,8|
-|5|144|750|14,4|210|3,6|
-|10|354|1.500|35,4|381|3,9|
-|15|584|2.250|58,4|552|4,1|
-|20|774|3.000|77,4|750|4,0|
-
-Temos +100 de PVs só do Modificador no NV 20. O resto são os dados: 143 por Nível, ou 2.860 no total. A coluna "Dano do grupo por Rodada" usa o modelo grosseiro de BD das Escalas ≈ 3,75 por Nível (75 no NV 20), o Grau recomendado de Armas por Nível (ver "Dica para o Guia do Mestre") e +0,455 por Nível das Habilidades e Outros. Nos Níveis 10 a 20, os PVs de 150 por Nível dão cerca de 4 Rodadas. No Nível 5 dão cerca de 3,6. No Nível 1, o Grau da Arma pesa mais que as Escalas, e a luta dura menos de 2 Rodadas. Se quiser corrigir, dê mais um d10 por Nível aos monstros de Nível 1 a 4.
-
-Monstros com mais PVs do que isso poderiam ter menos PVs efetivos, como CA mais baixa, algumas vulnerabilidades, etc. Monstros com PVs mais altos teriam CA mais alta, Resistências, buffs, etc.
-
-### Cura e recursos
-
-Como os 20% são de recursos, os 10% de PVs por Rodada ficam coerentes. No Nível 20, o monstro causa 77 de dano por Rodada, ou 309,6 por Encontro. Dividido igualmente, isso dá 77,4 por jogador, e em 4 Encontros são 309,6 de dano contra 193,5 PVs de cada um.
-
-Com o sistema de Descansos Curtos e Longos (Capítulo 1.11), a recuperação de um jogador de Nível 20 com d8 funciona assim:
-
-- **Descanso Curto de 1 hora:** gasta até 5 Dados de Vida, o que dá cerca de 22,5 PVs. A reserva é de 20 dados no Nível 20.
-- **Descanso Longo:** recupera metade dos PVs Máximos (cerca de 96) e metade dos dados mais um (11 dados, ou cerca de 49,5 PVs em Descansos Curtos futuros). Isso dá cerca de 145 PVs por dia no longo prazo.
-
-Um dia de 4 Encontros pesados cobra 309,6 PVs de cada jogador, contra 193,5 PVs iniciais mais 145 de recuperação diária. O primeiro dia de aventura é sustentável, mas o ritmo contínuo não é: a reserva de dados cai para cerca de 11 por dia, e o déficit precisa ser coberto por poções e magias de cura. Assim, 4 Encontros é um dia de pico, e o ritmo sustentável sem curas externas é de cerca de 2 Encontros por dia.
-
-Para dar mais folga, o Mestre pode aumentar a fração recuperada no Descanso Longo (por exemplo, para 2/3 dos PVs e PMs Máximos). Essa fração é o botão de dificuldade da Campanha.
+Uma instância de cura que cure Y deve custar 1.5xY em dano. Ou seja, o custo necessário para causar Y como dano será menor que o custo para curar. Supondo que Y necessite de X PMs para ser causado como instância de dano, então Y necessitaria de 1.5\*X para causar a mesma quantidade como cura.
 
 ### Dica para o Guia do Mestre
 
@@ -193,9 +161,7 @@ Como tabela de referência e não de regra, uma sugestão seria "Grau recomendad
 |Grau recomendado|5|6|7|8|9|10|
 |Pedras para chegar lá, partindo do Grau 1|4|6|8|11|14|20|
 
-### Pedras com o novo custo
-
-Mantida do rascunho anterior. Confirmar com o Capítulo 4.9 - Aprimoramento, que também deve cobrir a melhoria das Escalas, já que os 75 de BD dependem de Escalas S.
+### Pedras de Aprimoramento
 
 |Subida|Pedras|Ganho de média|Ganho por pedra|Acumulado desde o Grau 1|
 |---|---|---|---|---|
@@ -207,12 +173,12 @@ Mantida do rascunho anterior. Confirmar com o Capítulo 4.9 - Aprimoramento, que
 
 ## Resumo dos valores usados pelos outros documentos
 
-|Valor|NV 20|
-|---|---|
-|PVs Máximos de um PDJ / do grupo|193,5 / 774|
-|Dano do monstro por Rodada (grupo) / por Encontro|77,4 / 309,6|
-|Dano por Ataque de um PDJ / por Rodada|96,2 / 187,5|
-|PVs do monstro Médio|3.000|
-|Fator cura:dano (PVs do monstro ÷ dano por Encontro)|≈ 9,7|
-|CA típica / máxima|47 / 53|
-|BA típico / máximo|39 / 42|
+| Valor                                          | NV 20         |
+| ---------------------------------------------- | ------------- |
+| PVs Máximos de um PDJ / do grupo               | 193,5 / 774   |
+| Dano do monstro por Rodada em área/ alvo único | 280 / 130     |
+| Dano por Ataque de um PDJ por Ataue/ Rodada    | 111,5 / 217,5 |
+| PVs do monstro Médio                           | 3.500         |
+| Fator cura:dano                                | 1\|1,5        |
+| CA típica / máxima                             | 50 / 55       |
+| BA típico / máximo                             | 42 / 47       |
