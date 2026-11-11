@@ -1,121 +1,77 @@
-Este documento calcula, em moedas, quanto valem os efeitos de Armas, Armaduras, Escudos, e outros itens. Ele usa os mesmos valores em pontos de `Custos de Mana.md` e de `Custo de PHs.md` (pt por Encontro, cenário típico do Nível 20), e acrescenta a conversão para moedas, o preço de cada efeito e os descontos por Peso, requisitos e penalidades. No fim (§9), estão os preços de todos os itens das listas dos Capítulos 4.1 a 4.3, que estavam sem preço.
+Este documento calcula, em moedas, quanto valem os efeitos de Armas, Armaduras, Escudos, e outros itens.
 
-**O que mudou em relação ao rascunho anterior.** As Armas e Armaduras agora têm Escalas (Capítulo 4), então o valor do item vem do Grau ou do bônus de CA mais o valor das Escalas, e não mais de "um bônus" ou "dois bônus" de Modificador. O dano do grupo subiu (ver `Balanceamento.md`), então +1 de BA e +1 de CA passaram de 17,9 e 18,5 para 57,7 pt por Encontro, enquanto os valores de dado (Graus) continuam os mesmos. O Escudo agora concede Resistência a Dano Físico e Mágico e traz uma Habilidade. O equipamento inicial passou de 50 PO para 150 PO (Capítulo 2).
+## 1. Custo Base
 
-Todos os preços seguem a regra de exibição descrita em §1: até 9 PP ficam como estão, e acima disso aparecem apenas em PO, arredondados para cima. A partir de 100 PO, passam a usar PL.
+A moeda base usada será 1 PO. 1 PC é um item sem efeito mecânico algum, como a vestimenta básica.
 
-## 1. Conversão: pontos em moedas
+Como base, 1 PO equivale a +1 de CA e triplica a cada valor de CA adicional até um máximo de +5. A partir dai, o preço de +6 é 150 PO e aumenta em 150 PO a cada valor até um máximo de +10. 1 PO também equivale a +1 de BA, e segue a mesma fórmula até +10. 
 
-**1 pt por Encontro = 19 PC.** Equivale a **1 PO ≈ 5,3 pt**.
+A partir de +10, o preço deixa de aumentar e segue o valor máximo para cada BA ou CA adicional.
 
-Esse é o **botão principal** do documento. Ele foi escolhido para que os 150 PO iniciais (Capítulo 2) comprem uma Arma de Grau 4 com uma Escala D e uma Armadura Leve de +4 de CA com Escala D, com requisitos e Peso típicos (ver §7). Esse conjunto custa 146 PO. Se o preço geral estiver alto ou baixo, basta mudar este número: todo o resto escala junto.
+| BA e CA | Preço | BA e CA | Preço  |
+| ------- | ----- | ------- | ------ |
+| +1      | 1 PO  | +6      | 150 PO |
+| +2      | 3 PO  | +7      | 300 PO |
+| +3      | 9 PO  | +8      | 450 PO |
+| +4      | 27 PO | +9      | 600 PO |
+| +5      | 81 PO | +10     | 750 PO |
 
-Os cálculos são feitos em pt, com o valor exato. Só o preço exibido é arredondado, seguindo esta regra: se o preço for menor ou igual a 9 PP, ele fica como está. Se for maior, é representado apenas em PO, arredondando para cima. Por exemplo, 2 PL, 3 PO, 4 PP e 3 PC (23,43 PO) vira 24 PO.
+Escalas não contam para esses números. Por enquanto, apenas Armaduras contribuem permanentemente para a CA, e nada contribui permanentemente para o BA, mas esses números estão ai como prevenção, caso um item assim exista.
 
-Há uma ressalva: preços a partir de 100 PO passam a contar em PL (1 PL = 10 PO). Nesse caso, um valor secundário em PO continua sendo mostrado até 20 PL. Acima disso, o preço aparece só em PL, arredondando para cima. Por exemplos:
+## 2. Efeitos Permanentes Concedidos por Itens
 
-- 103 PO, 4 PP e 3 PC → 104 PO → 10 PL e 4 PO.
-- 203 PO e 4 PP → 204 PO → 20 PL e 4 PO.
-- 204 PO, 9 PP e 1 PC → 205 PO → 20 PL e 5 PO.
-
-Como o arredondamento é para cima, somar os preços exibidos pode passar um pouco do valor exato, e as colunas de pt continuam sendo a referência.
-
-|pt|PC|Moedas|
-|---|---|---|
-|1|19|1 PP e 9 PC|
-|2|38|3 PP e 8 PC|
-|5|95|9 PP e 5 PC|
-|10|190|19 PP|
-|20|380|38 PP|
-|50|950|10 PO|
-|100|1900|19 PO|
-
-## 2. Valores usados (pt por Encontro)
-
-|Efeito|pt por Encontro|Origem|
-|---|---|---|
-|Acertos por Encontro|7,8|1,95 acertos por Rodada × 4 Rodadas|
-|+1 de BA em Ataques|57,7|`Custo de PHs.md`, Tabela 1|
-|+1 de BD|7,8|`Custo de PHs.md`, Tabela 1|
-|+1 de CA|57,7|`Custo de PHs.md`, Tabela 1|
-|+1 de Resistência (todo dano)|18,9|`Custo de PHs.md`, Tabela 1|
-|+1 de Resistência a Dano Físico (70% do dano)|13,2|Resistência × 0,70|
-|+1 de Resistência a Dano Físico e Mágico (95% do dano)|18,0|Resistência × 0,95|
-|+1,5 m de alcance corpo a corpo|25,0|`Custo de PHs.md`, Tabela 1|
-|+1,5 m de alcance de Ataque à distância|6,3|`Custo de PHs.md`, Tabela 1 (alcance de Ataque Mágico)|
-|+1,5 m de Deslocamento|20,8|`Custo de PHs.md`, Tabela 1|
-|1 PA fora do plano do build|19,6|`Custos de Mana.md`, §9|
+| Efeito                                                                                                                  | Preço  | Justificativa e Acréscimos                                        |
+| ----------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------- |
+| +1 de BD                                                                                                                | 2 PO   | Parece ok                                                         |
+| 1 de Cura                                                                                                               | 3 PO   | 1,5x do de BD                                                     |
+| +1 de Resistência a um tipo de dano                                                                                     | 5 PO   | Efeito contrário ao dano, segue o mesmo preço.                    |
+| +1,5 m de alcance corpo a corpo                                                                                         | 10 PO  | O preço triplica a cada iteração, ou seja, +4,5 m custaria 90 PO. |
+| +1,5 m de alcance de Ataque à distância (até 9 m é gratuito para Armas à Distância, e depois de 48 m também é gratuito) | 1 PO   | Preço parece justo num geral                                      |
+| +1,5 m de Deslocamento                                                                                                  | 250 PO | Preço linear                                                      |
 
 ## 3. Valor das Armas
 
 ### 3.1 Grau
 
-O dano de um Grau vale a média do dado vezes 7,8 acertos por Encontro. É o preço **bruto**, antes de descontos. Esses valores não mudaram, pois dependem só do dado.
+O preço do Grau vai ser relacionado ao preço base do dano (1 de dano = 1 de BD nesse caso) acrescidos de uma taxa arbitrária em cima do preço.
 
-|Grau|Dado|Média|pt|Preço|Diferença para o Grau anterior|
-|---|---|---|---|---|---|
-|1|1d4|2,5|19,5|37 PP|-|
-|2|1d6|3,5|27,3|51 PP e 9 PC|14 PP e 8 PC|
-|3|1d8|4,5|35,1|66 PP e 7 PC|14 PP e 8 PC|
-|4|1d10|5,5|42,9|81 PP e 5 PC|14 PP e 8 PC|
-|5|1d12|6,5|50,7|10 PO|14 PP e 8 PC|
-|6|2d6|7,0|54,6|11 PO|7 PP e 4 PC|
-|7|2d8|9,0|70,2|14 PO|29 PP e 6 PC|
-|8|2d10|11,0|85,8|17 PO|29 PP e 6 PC|
-|9|2d12|13,0|101,4|20 PO|29 PP e 6 PC|
-|10|3d10|16,5|128,7|25 PO|51 PP e 9 PC|
+| Grau | Dado | Média | Preço | Taxa | Preço Final |
+| ---- | ---- | ----- | ----- | ---- | ----------- |
+| 1    | 1d4  | 2,5   | 5 PO  | 1x   | 5 PO        |
+| 2    | 1d6  | 3,5   | 7 PO  | 1x   | 7 PO        |
+| 3    | 1d8  | 4,5   | 9 PO  | 1x   | 9 PO        |
+| 4    | 1d10 | 5,5   | 11 PO | 1x   | 11 PO       |
+| 5    | 1d12 | 6,5   | 13 PO | 1x   | 13 PO       |
+| 6    | 2d6  | 7,0   | 14 PO | 2x   | 28 PO       |
+| 7    | 2d8  | 9,0   | 18 PO | 5x   | 90 PO       |
+| 8    | 2d10 | 11,0  | 22 PO | 5x   | 110 PO      |
+| 9    | 2d12 | 13,0  | 26 PO | 10x  | 260 PO      |
+| 10   | 3d10 | 16,5  | 33 PO | 15x  | 495 PO      |
 
-**Cada +1 de média de dano vale 7,8 pt, ou 14 PP e 8 PC.** Isso é útil para o Capítulo 4.9: nas Pedras de Aprimoramento, as subidas com "ganho por pedra" igual a 1 (Graus 1 a 5 e 6→7) valem esse preço por Pedra. Já 5→6, 7→8, 8→9 e 9→10 rendem menos de 1 de média por Pedra, então, com preço fixo por Pedra, ficam mais caras do que o valor que entregam.
+### 3.1.1 Aprimorar o Grau de uma Arma
 
-### 3.2 Escalas de Arma
+O preço das pedras de aprimoramento acompanhará a evolução da Arma. Uma quantidade X de pedras será necessária por nível, acompanhando o desenvolvimento das Armas.
 
-Uma Arma tem até duas Escalas (Capítulo 4.2). Cada Escala concede, a cada valor par do Atributo até o 10, **+1 de BA e um BD igual à letra** (D = 1, C = 2, B = 3, A = 4, S = 5). Um passo de uma Escala vale então **57,7 pt (BA) mais 7,8 pt por ponto de BD da letra**. O BA domina o valor: uma Escala S vale só ≈ 48% a mais por passo que uma Escala D.
+Pendente: preço das pedras de aprimoramento, e preço dos serviços do ferreiro para aprimorar.
 
-Quantos passos o dono da Arma realmente usa depende do Atributo dele. Foi adotado um **valor efetivo de 8 no Atributo da primeira Escala** (4 passos), a média entre um build alinhado (10) e um desalinhado (6), e **de 6 na segunda** (3 passos), a média entre um build alinhado (8) e um desalinhado (4). Isso equivale aos Modificadores efetivos de +4 e +3 do rascunho anterior. A Escala de maior letra conta como a primeira.
+### 3.2 Escalas de Armas e Armaduras
 
-|Escala|pt por passo (+1 de BA e BD da letra)|1ª Escala (4 passos): pt|Preço|2ª Escala (3 passos): pt|Preço|
-|---|---|---|---|---|---|
-|D|65,5|262,0|50 PO|196,5|38 PO|
-|C|73,3|293,2|56 PO|219,9|42 PO|
-|B|81,1|324,4|62 PO|243,3|47 PO|
-|A|88,9|355,6|68 PO|266,7|51 PO|
-|S|96,7|386,8|74 PO|290,1|56 PO|
+Considera-se um Atributo em 10 para elas. Quaisquer bônus de Escala custarão metade do que deveriam custar novamente por conta da necessidade de utilizar PAs e esperar estar em um nível adequado para chegar nos patamares adequados. BAs e CAs de Escalas são gratuitos, custando apenas os PAs necessários para cada patamar.
 
-**Preço bruto de uma Arma = preço do Grau + preço das Escalas + alcance (§3.3) + efeitos adicionais (§8).** Em Armas à Distância que recarregam, o preço do Grau é multiplicado antes pelo fator de recarga (§8.2).
+Além dos bônus padrão, será aplicado uma taxa em relação ao preço base cobrado. A taxa sobe conforme a Escala aumenta, e diz respeito apenas a uma Arma ou Armadura encontrada naturalmente com essas Escalas, não uma Arma ou Armadura que foi melhorada aos poucos.
 
-Para o Capítulo 4.9, subir uma letra de uma Escala é uma melhoria de +1 de BD por passo (as Escalas de Arma não mudam o BA ao subir de letra):
+| Escala | Preço Base | Taxa | Preço final |
+| ------ | ---------- | ---- | ----------- |
+| D      | 5 PO       | 1x   | 5 PO        |
+| C      | 10 PO      | 2x   | 20 PO       |
+| B      | 15 PO      | 5x   | 75 PO       |
+| A      | 20 PO      | 15x  | 300 PO      |
+| S      | 25 PO      | 100x | 2500 PO     |
+### 3.2.1 Aprimorar ou Mudar Escalas
 
-|Melhoria (Capítulo 4.9)|1ª Escala (pt)|Preço|2ª Escala (pt)|Preço|
-|---|---|---|---|---|
-|Subir uma letra em Escala de Arma|31,2|59 PP e 3 PC|23,4|44 PP e 5 PC|
-|Subir uma letra em Escala de Armadura|52,9|11 PO|39,7|75 PP e 4 PC|
+As Pedras de Infusão existirão para trocar ou mudar as Escalas. Cada pedra terá uma função diferente.
 
-Empunhar uma Arma em duas mãos (Força dobrada, com Força excedente somando ao BD) e usar duas Armas ao mesmo tempo **não têm preço**: são escolhas de quem empunha, e custam a outra mão. Já Armas sem Escalas (Bestas e Armas de Fogo) simplesmente não somam o valor das Escalas, então ficam mais baratas.
-
-### 3.3 Alcance
-
-**Corpo a corpo**: cada +1,5 m acima do padrão de 1,5 m vale **25,0 pt, ou 47 PP e 5 PC**. O valor é linear.
-
-|Alcance adicional|pt|Preço|
-|---|---|---|
-|+1.5 m|25,0|47 PP e 5 PC|
-|+3 m|50,0|10 PO|
-|+4.5 m|75,0|15 PO|
-|+6 m|100,0|19 PO|
-
-**À distância**: o alcance base é de **9 m**, e só o que passa disso é cobrado. Cada +1,5 m acima de 9 m vale **6,3 pt, ou 11 PP e 9 PC**. O alcance é cobrado **até 48 m (26 passos de 1,5 m acima de 9 m)**. O que passar disso é considerado bônus e não entra no preço.
-
-|Alcance|pt|Preço|
-|---|---|---|
-|9 m ou menos|0,0|0|
-|12 m|12,5|23 PP e 8 PC|
-|18 m|37,5|71 PP e 2 PC|
-|24 m|62,5|12 PO|
-|30 m|87,5|17 PO|
-|36 m|112,5|22 PO|
-|42 m|137,5|27 PO|
-|48 m|162,5|31 PO|
-|48 m ou mais|162,5|31 PO|
+Pendente: preço das pedras de infusão, e preço dos serviços do ferreiro.
 
 ## 4. Valor das Armaduras e dos Escudos
 
@@ -351,113 +307,3 @@ O ganho é a diferença de média entre os dois Graus vezes 7,8 acertos por Enco
 |9 → 10|+3,5|27,3|51 PP e 9 PC|41 PP e 5 PC|20 PP e 7 PC|
 
 O Grau não passa de 10 (Capítulo 1.5), então não há preço a partir do Grau 10.
-
-## 9. Preços das listas atuais
-
-Os preços saem das fórmulas acima, com Escalas de passos efetivos 4 e 3 e a conversão de 1 pt = 19 PC. Os Pesos, requisitos e penalidades são os das listas dos Capítulos 4.1 a 4.3.
-
-### 9.1 Armas Corpo a Corpo
-
-|Arma|Preço bruto (pt)|Descontos (pt)|Preço (pt)|Preço|
-|---|---|---|---|---|
-|Manopla de Ferro|281,5|9,5|271,9|52 PO|
-|Soco Inglês|281,5|6,7|274,7|53 PO|
-|Katar|281,5|6,7|274,7|53 PO|
-|Adaga|281,5|3,9|277,5|53 PO|
-|Espada Curta|485,7|13,5|472,3|90 PO|
-|Clava|289,3|10,7|278,6|53 PO|
-|Cajado|281,5|3,9|277,5|53 PO|
-|Rapieira|289,3|9,5|279,7|54 PO|
-|Maça|297,1|17,4|279,7|54 PO|
-|Maça-Estrela|297,1|17,4|279,7|54 PO|
-|Chicote|328,3|10,7|317,6|61 PO|
-|Cimitarra|297,1|13,5|283,6|54 PO|
-|Espada Longa|549,7|17,4|532,3|10 PL e 2 PO|
-|Machado de Batalha|328,3|25,5|302,7|58 PO|
-|Katana|524,7|20,2|504,5|96 PO|
-|Lança|378,3|21,6|356,7|68 PO|
-|Alabarda|361,1|33,7|327,4|63 PO|
-|Glaive|361,1|25,5|335,5|64 PO|
-|Clava Pesada|304,9|45,5|259,4|50 PO|
-|Clava Imensa|343,9|58,9|284,9|55 PO|
-|Claymore|563,7|53,0|510,7|98 PO|
-|Espada Colossal|368,9|64,6|304,3|58 PO|
-|Lança de Cavalaria|393,9|37,6|356,3|68 PO|
-|Martelo de Guerra|343,9|47,2|296,7|57 PO|
-|Lâmina Gêmea|685,3|29,5|655,9|12 PL e 5 PO|
-
-### 9.2 Armas à Distância
-
-|Arma|Preço bruto (pt)|Descontos (pt)|Preço (pt)|Preço|
-|---|---|---|---|---|
-|Arco Curto|319,0|6,7|312,2|60 PO|
-|Arco Curto Composto|383,0|13,5|369,5|71 PO|
-|Arco Longo|548,2|13,5|534,8|10 PL e 2 PO|
-|Arco Longo Composto|635,6|23,0|612,6|11 PL e 7 PO|
-|Besta Leve|84,0|7,9|76,1|15 PO|
-|Besta Pesada|134,0|15,7|118,2|23 PO|
-|Pistola|106,6|17,7|88,9|17 PO|
-|Escopeta|65,5|35,4|30,2|57 PP e 3 PC|
-|Canhão de Mão|47,6|74,4|11,9|22 PP e 6 PC|
-|Rifle de Precisão|205,4|70,5|134,9|26 PO|
-
-### 9.3 Armaduras
-
-|Armadura|Preço bruto (pt)|Descontos (pt)|Preço (pt)|Preço|
-|---|---|---|---|---|
-|Armadura de Tecido Acolchoado|341,4|11,8|329,6|63 PO|
-|Gambeson|611,8|21,3|590,5|11 PL e 3 PO|
-|Couro Curtido|399,1|21,3|377,7|72 PO|
-|Armadura de Peles|456,8|25,3|431,5|82 PO|
-|Couro Fervido|514,4|29,5|485,0|93 PO|
-|Cota de Anéis|784,9|38,4|746,5|14 PL e 2 PO|
-|Cota de Malha|837,8|42,6|795,2|15 PL e 2 PO|
-|Armadura Lamelar|877,5|45,1|832,4|15 PL e 9 PO|
-|Brigantina|895,5|49,3|846,2|16 PL e 1 PO|
-|Armadura Parcial de Placas|895,5|53,3|842,2|16 PL e 1 PO|
-|Armadura de Tiras|900,3|64,3|836,0|15 PL e 9 PO|
-|Peitoral de Aço|992,9|68,5|924,4|17 PL e 6 PO|
-|Armadura Completa de Placas|953,2|72,4|880,8|16 PL e 8 PO|
-|Armadura Completa de Aço|1010,9|101,1|909,8|17 PL e 3 PO|
-|Armadura Gótica Completa de Placas|1050,6|88,1|962,4|18 PL e 3 PO|
-
-### 9.4 Roupas
-
-A Roupa Comum custa 1 PC. As Roupas com Escalas valem como uma Armadura de +0 de CA, sem BP.
-
-|Roupa|Preço bruto (pt)|Descontos (pt)|Preço (pt)|Preço|
-|---|---|---|---|---|
-|Túnica de Mago|285,6|2,8|282,8|54 PO|
-|Túnica de Monge|286,8|2,8|284,0|54 PO|
-
-### 9.5 Escudos
-
-|Escudo|Habilidade|Preço bruto (pt)|Descontos (pt)|Preço (pt)|Preço|
-|---|---|---|---|---|---|
-|Broquel|Aparar|106,7|6,7|100,0|19 PO|
-|Targe|Aparar|106,7|6,7|100,0|19 PO|
-|Hoplon|Golpe de Escudo|92,1|17,4|74,7|15 PO|
-|Escudo Gota|Golpe de Escudo|92,1|17,4|74,7|15 PO|
-|Scutum|Parede de Escudo|60,6|39,9|20,8|39 PP e 5 PC|
-|Escudo Torre de Ferro|Parede de Escudo|78,6|51,9|26,7|50 PP e 7 PC|
-
-### 9.6 Munições
-
-As Munições mantêm o preço da lista (10 Flechas, 10 Virotes e 10 Balas por 1 PP cada).
-
-## 10. Observações e pontos em aberto
-
-1. **Todos os valores partem do Nível 20.** +1 de BA e +1 de CA valem proporcionalmente menos nos Níveis baixos (`Custos de Mana.md` §6), então Armaduras são relativamente caras no começo. O preço não varia com o Nível, e o equipamento inicial é o que sustenta a calibração.
-2. **Escalas de letra S, A e B não existem nas listas.** As Armas e Armaduras listadas só têm Escalas C e D. As letras maiores vêm do Aprimoramento (Capítulo 4.9), e os 75 de BD do `Balanceamento.md` dependem delas.
-3. **Valor efetivo dos Atributos das Escalas (8 e 6).** Se preferir cobrar mais da primeira Escala, suba o valor efetivo. Com 10 nas duas, uma Espada Longa já custaria bem mais.
-4. **O Ataque Desarmado não foi usado como base.** O Capítulo 1.6 só diz que ele é Dano de Impacto de Grau 1. Se ele somar o Modificador de For ou Des no BA e no BD, a primeira Escala D de uma Arma deixaria de ser uma vantagem e poderia ser gratuita, como no rascunho anterior.
-5. **Escudo:** 70% do dano como Físico, 25% como Mágico e a estimativa das Habilidades são premissas. Ocupar uma das mãos (perder o Ataque com duas Armas) não foi descontado.
-6. **Peso:** usa o Nível 10 como referência. Nos Níveis baixos a Capacidade de Carga aperta mais e o Peso valeria mais.
-7. **Alcance à distância** usa o valor de alcance de Ataque Mágico (baixa confiança). O alcance base é de 9 m, e só o que passa disso é cobrado.
-8. **Furtividade:** conta só o uso em combate. O valor em exploração não foi incluído.
-9. **Piso de 25%** do preço bruto é um chute informado, para não zerar o preço de itens com muitos requisitos.
-10. **Bestas e Armas de Fogo não têm Escalas**, então o BA delas é só o BP mais Habilidades, e o BD é só o Grau. O preço baixo reflete isso. Elas só competem com Armas de Escala por meio de Habilidades (Arquétipo Bucaneiro).
-11. **Armaduras valem muito mais que Armas de Grau.** Um passo de Escala vale 57,7 pt de CA, e uma Armadura Pesada chega a ≈ 183 PO. Isso vem do teto de CA mais alto (ver `Balanceamento.md`).
-12. **Escudos pesados caem no piso de 25%.** O Scutum e o Escudo Torre de Ferro têm muito Peso e requisito, então os descontos passam do preço bruto e o piso vale. Vale aumentar o valor da Parede de Escudo ou reduzir o desconto de Peso para Escudos.
-13. **Lâmina Gêmea** é um valor fora da curva (§8.1) e merece revisão do efeito ou do preço.
-14. **Ainda sem preço:** a Margem de Ameaça das Armas Comuns e os Itens Consumíveis.
