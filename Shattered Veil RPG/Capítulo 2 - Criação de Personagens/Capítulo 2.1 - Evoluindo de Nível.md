@@ -16,6 +16,10 @@ Você recebe XP concedida pelo Mestre ao eliminar Monstros e superar obstáculos
 
 Os valores da tabela indicam a XP necessária para subir cada Nível, e não um total acumulado. Uma vez atingida a quantidade requisitada, seu Nível aumenta, e você ganha as recompensas cabíveis por isso, descritas no restante deste capítulo. A XP sobressalente conta para o próximo Nível. As recompensas por subir de Nível só têm efeito após qualquer Descanso.
 
+### Aprendendo com os Erros
+
+Sempre que tiver uma Falha Crítica você recebe 100 de XP.
+
 ## Pontos de Atributo e Habilidade
 
 Você recebe Pontos de Atributo e Pontos de Habilidade para utilizar da maneira que quiser. A tabela a seguir indica quantos pontos de cada tipo você ganha:

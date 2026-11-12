@@ -49,7 +49,7 @@ Alguns itens são consumíveis e podem ser utilizados apenas uma vez cada. Poç�
 
 ### Itens Arremessáveis
 
-Alguns Itens Consumíveis são feitos para serem Arremessados (veja o Capítulo 1.6 - Combate). Arremessar um Item Arremessável que cause dano é um Ataque à Distância, e não um Ataque com Arma à Distância. No entanto, para critérios de Proficiência, ele conta como uma Arma à Distância: caso você seja Proficiente em Armas à Distância, adiciona seu BP ao BA desse Ataque.
+Alguns Itens Consumíveis são feitos para serem Arremessados (veja o Capítulo 1.6 - Combate). Arremessar um Item Arremessável que cause dano a um alvo único é um Ataque à Distância, e não um Ataque com Arma à Distância. No entanto, para critérios de Proficiência, ele conta como uma Arma à Distância: caso você seja Proficiente em Armas à Distância, adiciona seu BP ao BA desse Ataque. Já os Itens Arremessáveis que afetam uma Área não são Ataques: as criaturas na Área fazem uma Salvaguarda de Destreza, descrita no próprio item. Arremessá-los ainda custa uma Ação.
 
 Cada Item Arremessável possui regras próprias, como dano, alcance e efeitos, descritas no Capítulo 4.5 - Itens Consumíveis.
 

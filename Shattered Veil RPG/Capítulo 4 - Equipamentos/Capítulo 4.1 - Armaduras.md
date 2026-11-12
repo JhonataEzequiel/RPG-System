@@ -20,30 +20,30 @@ As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Segue a tabela
 
 Vestimentas normais não são consideradas Armaduras, não concedem CA nem têm peso. Você pode se vestir como quiser sem isso ter impacto mecânico, mas algumas Roupas especiais possuem efeitos adicionais, listadas na tabela a seguir. Qualquer Roupa com efeito adicional impede o uso de Armaduras enquanto você a estiver vestindo. Não há como ser Proficiente no uso de Roupas, mas as que tiverem Escalas recebem seus bônus normalmente.
 
-| Armadura            | Preço | CA  | Escalas        | Requisitos   | Penalidades | Efeitos Adicionais                                                                                                 | Peso |
-| ------------------- | ----- | --- | -------------- | ------------ | ----------- | ------------------------------------------------------------------------------------------------------------------ | ---- |
-| Roupa Comum         | 1 PC  | +0  | -              | -            | -           | -                                                                                                                  | 0    |
-| Túnica de Mago      |       | +0  | D em Arcano    | 1 de Arcano  | -           | Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso. | 0    |
-| Túnica de Monge     |       | +0  | D em Sabedoria | 1 de Força   | -           | O dano de Ataques Desarmados aumenta em 1 Grau                                                                     | 0    |
-| Vestimenta de Bardo |       | +0  | D em Carisma   | 1 de Carisma | -           | Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso. |      |
-| Manto Clerical      |       | +0  | D em Vínculo   | 1 de Vínculo | -           | Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso. |      |
+|Armadura|Preço|CA|Escalas|Requisitos|Penalidades|Efeitos Adicionais|Peso|
+|---|---|---|---|---|---|---|---|
+|Roupa Comum|1 PC|+0|-|-|-|-|0|
+|Túnica de Monge|9 PO|+0|D em Sabedoria|1 de Força|-|O dano de Ataques Desarmados aumenta em 1 Grau|0|
+|Túnica de Mago|18 PO|+0|D em Arcano|1 de Arcano|-|Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso.|0|
+|Vestimenta de Bardo|18 PO|+0|D em Carisma|1 de Carisma|-|Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso.||
+|Manto Clerical|18 PO|+0|D em Vínculo|1 de Vínculo|-|Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso.||
 
 ## Lista de Armaduras
 
-| Armadura                      | Preço | CA  | Escalas                       | Requisitos                | Penalidades                                             | Efeitos Adicionais | Peso |
-| ----------------------------- | ----- | --- | ----------------------------- | ------------------------- | ------------------------------------------------------- | ------------------ | ---- |
-| Armadura de Tecido Acolchoado |       | +1  | D em Força                    | -                         | -                                                       | -                  | 3    |
-| Gambeson                      |       | +2  | D em Força, D em Destreza     | 1 de Destreza, 1 de Força | -                                                       | -                  | 4    |
-| Couro Curtido                 |       | +2  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
-| Armadura de Peles             |       | +3  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
-| Couro Fervido                 |       | +4  | D em Destreza                 | 3 de Destreza             | -                                                       | -                  | 5    |
-| Cota de Anéis                 |       | +5  | D em Força, D em Destreza     | 1 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 5    |
-| Cota de Malha                 |       | +5  | C em Força, D em Destreza     | 1 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 5    |
-| Armadura Lamelar              |       | +5  | C em Força, C em Destreza     | 2 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
-| Brigantina                    |       | +6  | C em Destreza, D em Força     | 3 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
-| Armadura Parcial de Placas    |       | +6  | C em Força, D em Destreza     | 2 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 7    |
-| Armadura de Tiras             |       | +7  | D em Força, D em Constituição | 2 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 7    |
-| Peitoral de Aço               |       | +7  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 8    |
-| Catafractário                 |       | +7  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 10   |
-| Armadura Completa de Aço      |       | +8  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -3 metros de Deslocamento   | -                  | 12   |
-| Armadura Completa de Placas   |       | +8  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 15   |
+| Armadura                      | Preço      | CA  | Escalas                       | Requisitos                | Penalidades                                             | Efeitos Adicionais | Peso |
+| ----------------------------- | ---------- | --- | ----------------------------- | ------------------------- | ------------------------------------------------------- | ------------------ | ---- |
+| Armadura de Tecido Acolchoado | 8 PO       | +1  | D em Força                    | -                         | -                                                       | -                  | 3    |
+| Couro Curtido                 | 9 PO       | +2  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
+| Armadura de Peles             | 14 PO      | +3  | D em Destreza                 | 2 de Destreza             | -                                                       | -                  | 4    |
+| Gambeson                      | 17 PO      | +2  | D em Força, D em Destreza     | 1 de Destreza, 1 de Força | -                                                       | -                  | 4    |
+| Couro Fervido                 | 28 PO      | +4  | D em Destreza                 | 3 de Destreza             | -                                                       | -                  | 5    |
+| Cota de Anéis                 | 44 PO      | +5  | D em Força, D em Destreza     | 1 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 5    |
+| Cota de Malha                 | 54 PO      | +5  | C em Força, D em Destreza     | 1 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 5    |
+| Armadura Lamelar              | 65 PO      | +5  | C em Força, C em Destreza     | 2 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
+| Armadura de Tiras             | 67 PO      | +7  | D em Força, D em Constituição | 2 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 7    |
+| Armadura Parcial de Placas    | 71 PO      | +6  | C em Força, D em Destreza     | 2 de Destreza, 3 de Força | Desvantagem em Furtividade                              | -                  | 7    |
+| Brigantina                    | 72 PO      | +6  | C em Destreza, D em Força     | 3 de Destreza, 2 de Força | Desvantagem em Furtividade                              | -                  | 6    |
+| Catafractário                 | 74 PO      | +7  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 10   |
+| Peitoral de Aço               | 84 PO      | +7  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 8    |
+| Armadura Completa de Aço      | 10 PL 4 PO | +8  | C em Força, D em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 12   |
+| Armadura Completa de Placas   | 11 PL 2 PO | +8  | C em Força, C em Constituição | 3 de Força                | Desvantagem em Furtividade, -1,5 metros de Deslocamento | -                  | 15   |

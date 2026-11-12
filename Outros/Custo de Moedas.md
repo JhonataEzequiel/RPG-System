@@ -1,52 +1,135 @@
 Este documento calcula, em moedas, quanto valem os efeitos de Armas, Armaduras, Escudos, e outros itens.
 
+**Arredondamento dos Preços (Regra de Ouro)**: Ao finalizar o cálculo dos preços, é prudente arredondar o resultado. Caso o preço seja menor que 1 PO, ponha-o em PP e PC. Por exemplo, 9 PP 3 PC. Caso o preço seja maior ou igual a 1 PO e menor que 99 PO, utilize apenas PO. Caso o preço seja maior ou igual a 100 PO, coloque em PL e PO. Por exemplo, 205 PO viram 20 PL 5 PO. Por fim, sempre arredonde baseando-se na matemática básica, não na regra de arredondamento do Cap.1.
+
 ## 1. Custo Base
 
-A moeda base usada será 1 PO. 1 PC é um item sem efeito mecânico algum, como a vestimenta básica.
+A moeda base usada será 1 PO. Um item de 1 PC não tem efeito mecânico algum, como a vestimenta básica. Os preços de BA e CA são iguais e arbitrários, visando um jogo mais barato nos Níveis baixos e mais caro nos Níveis altos.
 
-Como base, 1 PO equivale a +1 de CA e triplica a cada valor de CA adicional até um máximo de +5. A partir dai, o preço de +6 é 150 PO e aumenta em 150 PO a cada valor até um máximo de +10. 1 PO também equivale a +1 de BA, e segue a mesma fórmula até +10. 
+|BA e CA|Preço|BA e CA|Preço|
+|---|---|---|---|
+|+1|1 PO|+6|75 PO|
+|+2|5 PO|+7|100 PO|
+|+3|10 PO|+8|150 PO|
+|+4|25 PO|+9|300 PO|
+|+5|50 PO|+10|750 PO|
 
-A partir de +10, o preço deixa de aumentar e segue o valor máximo para cada BA ou CA adicional.
+Escalas não contam para esses números. Por enquanto, apenas Armaduras contribuem permanentemente para a CA, e nada contribui permanentemente para o BA, mas esses números estão aí como prevenção, caso um item assim exista.
 
-| BA e CA | Preço | BA e CA | Preço  |
-| ------- | ----- | ------- | ------ |
-| +1      | 1 PO  | +6      | 150 PO |
-| +2      | 3 PO  | +7      | 300 PO |
-| +3      | 9 PO  | +8      | 450 PO |
-| +4      | 27 PO | +9      | 600 PO |
-| +5      | 81 PO | +10     | 750 PO |
+### 1.1 Descontos
 
-Escalas não contam para esses números. Por enquanto, apenas Armaduras contribuem permanentemente para a CA, e nada contribui permanentemente para o BA, mas esses números estão ai como prevenção, caso um item assim exista.
+Alguns efeitos ruins conferem descontos aos itens:
 
-## 2. Efeitos Permanentes Concedidos por Itens
+|Efeito|Desconto|
+|---|---|
+|Desvantagem em uma Perícia|reduz 1/4 do custo total|
+|-1,5 metros de Deslocamento|reduz 1/8 do custo total|
+|Requer uma Ação e não é um Ataque/Arma|reduz 1/4 do custo total|
+|Requer uma Reação e não é um Ataque/Arma|reduz 1/4 do custo total|
+|Requer uma Ação Bônus e não é um Ataque/Arma|reduz 1/8 do custo total|
+|Requer uma Salvaguarda para ter efeito e não é um Ataque/Arma|reduz 1/8 do custo total|
+|Uma vez por Descanso Curto/por qualquer Descanso|reduz 1/16 do custo total|
+|Uma vez por Descanso Longo|reduz 1/8 do custo total|
+|Uma vez por Encontro|reduz 1/8 do custo total|
+|Uma vez por Alvo|reduz 1/8 do custo total|
 
-| Efeito                                                                                                                  | Preço  | Justificativa e Acréscimos                                        |
-| ----------------------------------------------------------------------------------------------------------------------- | ------ | ----------------------------------------------------------------- |
-| +1 de BD                                                                                                                | 2 PO   | Parece ok                                                         |
-| 1 de Cura                                                                                                               | 3 PO   | 1,5x do de BD                                                     |
-| +1 de Resistência a um tipo de dano                                                                                     | 5 PO   | Efeito contrário ao dano, segue o mesmo preço.                    |
-| +1,5 m de alcance corpo a corpo                                                                                         | 10 PO  | O preço triplica a cada iteração, ou seja, +4,5 m custaria 90 PO. |
-| +1,5 m de alcance de Ataque à distância (até 9 m é gratuito para Armas à Distância, e depois de 48 m também é gratuito) | 1 PO   | Preço parece justo num geral                                      |
-| +1,5 m de Deslocamento                                                                                                  | 250 PO | Preço linear                                                      |
+Sempre aplique os descontos percentuais acima antes dos descontos fixos que vêm a seguir. Caso um Desconto apareça mais de uma vez, por exemplo, -3 metros de Deslocamento, o equivalente é o Desconto de -1,5 metros aplicado duas vezes, ou seja, 1/4. Divide-se o denominador por 2 a cada repetição, até o máximo de 1/2 do custo total reduzido.
+
+### 1.1.1 Requisitos
+
+Quanto maior o requisito, menor o custo. Um requisito de valor X desconta X PO do item.
+
+### 1.1.2 Peso
+
+Quanto maior o Peso, menor o custo. Cada unidade de Peso reduz o valor do item em 5 PP.
+
+## 2. Efeitos Concedidos por Itens
+
+### 2.1 Efeitos Permanentes (Passivas)
+
+|Efeito|Preço|Justificativa e Acréscimos|
+|---|---|---|
+|+1 de BD|2 PO|Parece ok|
+|+1 de Resistência a um tipo de dano|3 PO|Efeito contrário ao dano. O custo é superior ao dano por ter um impacto maior, já que não precisa "acertar" um Teste para que a resistência seja aplicada.|
+|+1,5 m de alcance corpo a corpo|10 PO|O preço triplica a cada iteração, ou seja, +4,5 m custaria 90 PO.|
+|+1,5 m de alcance de Ataque à distância (até 9 m é gratuito para Armas à Distância, e depois de 48 m também é gratuito)|1 PO|O preço parece justo, no geral|
+|+1,5 m de Deslocamento|250 PO|Preço linear|
+
+### 2.2 Efeitos Instantâneos
+
+Efeitos que duram apenas um instante, por exemplo, no momento em que se consome uma poção. Itens consumíveis também entram aqui. Basicamente, são efeitos que ocorrem uma única vez e não perduram, portanto, são mais baratos. Causar 1 de dano, por exemplo, é diferente de ter +1 de BD.
+
+|Efeito|Preço|Justificativa e Acréscimos|
+|---|---|---|
+|1 de Cura (alvo único)|2 PO|2x dano em alvo único|
+|1 PM restaurado|5 PO|Mana tem mais implicações do que apenas 1 PV|
+|1 de Dano causado (alvo único)|1 PO|Preço base|
+|1 de Dano causado (por 1,5 metros de área)|1 PO 5 PP|1,5x o dano em alvo único|
+
+Caso um item conceda graus de cura, dano, ou restauração de PMs:
+
+|Grau|Média|Preço de Cura|Preço de Dano|Preço de PMs restaurados|
+|---|---|---|---|---|
+|1|2,5|5 PO|2 PO 5 PP|12 PO 5 PP|
+|2|3,5|7 PO|3 PO 5 PP|17 PO 5 PP|
+|3|4,5|9 PO|4 PO 5 PP|22 PO 5 PP|
+|4|5,5|11 PO|5 PO 5 PP|27 PO 5 PP|
+|5|6,5|13 PO|6 PO 5 PP|32 PO 5 PP|
+|6|7,0|14 PO|7 PO|35 PO|
+|7|9,0|18 PO|9 PO|45 PO|
+|8|11,0|22 PO|11 PO|55 PO|
+|9|13,0|26 PO|13 PO|65 PO|
+|10|16,5|33 PO|16 PO 5 PP|82 PO 5 PP|
+
+Aumentar em 1,5 m o raio da Área dos danos em área causados por um item multiplica o preço base por 1,5. Por exemplo: 3 metros de raio seria 1,5x o preço de 1,5 metros (2,25x o preço do alvo único), e 4,5 metros seria 2,25x o preço de 1,5 metros (3,375x o do alvo único). Para precificar um dano em área, multiplique o Preço de Dano da tabela acima por esse fator. Itens arremessados que causam dano em área exigem uma Salvaguarda de Destreza em vez de um Ataque, então os descontos de Ação e de Salvaguarda se aplicam a eles.
+
+### 2.3 Efeitos Duradouros, mas Não Permanentes
+
+Os efeitos são uma fração dos efeitos permanentes, por motivos óbvios. Quando existe um preço permanente correspondente, ele é o teto: um efeito temporário nunca custa mais que o permanente. A exceção são o BA e a CA, explicados a seguir.
+
+BA e CA valem mais à medida que são acumulados, então o preço em 4 Rodadas é equivalente ao de um bônus de +4, em vez de +1. O aumento de Deslocamento também custará menos, 50 PO para 4 Rodadas.
+
+Dano Contínuo é particularmente mais forte que dano normal. Uma vez atingido por Dano Contínuo, você continua recebendo dano. Ou seja, as instâncias se aplicam sem o alvo poder resistir com uma Salvaguarda ou com a CA. Dano que deixa de ser causado quando a criatura sai de uma área não é Dano Contínuo (veja a seção 2.4). Regeneração é similar, já que o efeito é passivo, não requerendo Ação, Ação Bônus, Reação ou sequer Ação Livre.
+
+|Efeito|Preço por 1 Rodada|Preço por 2 Rodadas|Preço por 3 Rodadas|Preço por 4 Rodadas|Preço por 1 Encontro|Preço por 1 hora|Preço por mais de uma hora|
+|---|---|---|---|---|---|---|---|
+|1 de Dano Contínuo|1 PO|3 PO|6 PO|12 PO|24 PO|144 PO|250 PO|
+|1 de Regeneração|1 PO 5 PP|5 PO|9 PO|18 PO|36 PO|216 PO|375 PO|
+|+1 no BD|5 PP|7 PP|9 PP|1 PO 5 PP|2 PO|2 PO|2 PO|
+|+1 no BA|5 PO|10 PO|20 PO|25 PO|40 PO|240 PO|500 PO|
+|+1 na CA|5 PO|10 PO|20 PO|25 PO|40 PO|240 PO|500 PO|
+|+1 de Resistência|5 PP|8 PP|1 PO|1 PO 5 PP|3 PO|3 PO|3 PO|
+|Aumenta em 1 o valor de um Atributo|1 PO|2 PO|3 PO|4 PO|5 PO|30 PO|50 PO|
+|+1,5 metros de Deslocamento|10 PO|20 PO|35 PO|50 PO|75 PO|250 PO|250 PO|
+|Recebe uma Condição positiva|10 PO|15 PO|20 PO|25 PO|40 PO|240 PO|500 PO|
+|Outros efeitos menores|4 PP|6 PP|8 PP|1 PO|1 PO 6 PP|9 PO 6 PP|20 PO|
+
+Outros efeitos menores são efeitos situacionais ou de utilidade, sem impacto direto no combate e que não são Condições, como respirar debaixo d'água, escalar paredes ou enxergar no escuro. A linha tem 1/25 dos valores da linha de Condição positiva.
+
+### 2.4 Dano Persistente em Área
+
+Dano causado no início de cada Turno apenas enquanto a criatura permanecer na área. Não é Dano Contínuo, pois basta sair da área para que ele deixe de ser causado. Cada instância é cobrada como dano instantâneo em área, uma por Rodada de duração, sem acréscimo. Para a duração de 1 Encontro, contam-se 8 instâncias, a mesma proporção da tabela de Dano Contínuo, em que 1 Encontro custa o dobro de 4 Rodadas.
+
+Justificativa: em durações curtas, o Dano Contínuo custa cerca do dobro do dano instantâneo por instância, por não poder ser evitado. O Dano Persistente pode ser evitado saindo da área, e isso anula esse acréscimo.
 
 ## 3. Valor das Armas
 
 ### 3.1 Grau
 
-O preço do Grau vai ser relacionado ao preço base do dano (1 de dano = 1 de BD nesse caso) acrescidos de uma taxa arbitrária em cima do preço.
+O preço do Grau será relacionado ao preço do BD permanente (2 PO por ponto da média do dado, como em +1 de BD), acrescido de uma taxa arbitrária sobre o preço.
 
-| Grau | Dado | Média | Preço | Taxa | Preço Final |
-| ---- | ---- | ----- | ----- | ---- | ----------- |
-| 1    | 1d4  | 2,5   | 5 PO  | 1x   | 5 PO        |
-| 2    | 1d6  | 3,5   | 7 PO  | 1x   | 7 PO        |
-| 3    | 1d8  | 4,5   | 9 PO  | 1x   | 9 PO        |
-| 4    | 1d10 | 5,5   | 11 PO | 1x   | 11 PO       |
-| 5    | 1d12 | 6,5   | 13 PO | 1x   | 13 PO       |
-| 6    | 2d6  | 7,0   | 14 PO | 2x   | 28 PO       |
-| 7    | 2d8  | 9,0   | 18 PO | 5x   | 90 PO       |
-| 8    | 2d10 | 11,0  | 22 PO | 5x   | 110 PO      |
-| 9    | 2d12 | 13,0  | 26 PO | 10x  | 260 PO      |
-| 10   | 3d10 | 16,5  | 33 PO | 15x  | 495 PO      |
+|Grau|Dado|Média|Preço|Taxa|Preço Final|
+|---|---|---|---|---|---|
+|1|1d4|2,5|5 PO|1x|5 PO|
+|2|1d6|3,5|7 PO|1x|7 PO|
+|3|1d8|4,5|9 PO|1x|9 PO|
+|4|1d10|5,5|11 PO|1x|11 PO|
+|5|1d12|6,5|13 PO|1x|13 PO|
+|6|2d6|7,0|14 PO|2x|28 PO|
+|7|2d8|9,0|18 PO|3x|54 PO|
+|8|2d10|11,0|22 PO|4x|88 PO|
+|9|2d12|13,0|26 PO|5x|130 PO|
+|10|3d10|16,5|33 PO|10x|330 PO|
 
 ### 3.1.1 Aprimorar o Grau de uma Arma
 
@@ -56,254 +139,58 @@ Pendente: preço das pedras de aprimoramento, e preço dos serviços do ferreiro
 
 ### 3.2 Escalas de Armas e Armaduras
 
-Considera-se um Atributo em 10 para elas. Quaisquer bônus de Escala custarão metade do que deveriam custar novamente por conta da necessidade de utilizar PAs e esperar estar em um nível adequado para chegar nos patamares adequados. BAs e CAs de Escalas são gratuitos, custando apenas os PAs necessários para cada patamar.
+Considera-se um Atributo em 10 para elas. Quaisquer bônus de Escala custarão metade do que deveriam custar, por conta da necessidade de gastar PAs e de esperar até estar em um Nível adequado para chegar aos patamares desejados. BAs e CAs de Escalas são gratuitos, custando apenas os PAs necessários para cada patamar.
 
-Além dos bônus padrão, será aplicado uma taxa em relação ao preço base cobrado. A taxa sobe conforme a Escala aumenta, e diz respeito apenas a uma Arma ou Armadura encontrada naturalmente com essas Escalas, não uma Arma ou Armadura que foi melhorada aos poucos.
+Além dos bônus padrão, será aplicada uma taxa sobre o preço base cobrado. A taxa sobe conforme a Escala aumenta e diz respeito apenas a uma Arma ou Armadura encontrada naturalmente com essas Escalas, e não a uma Arma ou Armadura que foi melhorada aos poucos.
 
-| Escala | Preço Base | Taxa | Preço final |
-| ------ | ---------- | ---- | ----------- |
-| D      | 5 PO       | 1x   | 5 PO        |
-| C      | 10 PO      | 2x   | 20 PO       |
-| B      | 15 PO      | 5x   | 75 PO       |
-| A      | 20 PO      | 15x  | 300 PO      |
-| S      | 25 PO      | 100x | 2500 PO     |
+|Escala de Arma|Preço Base|Taxa|Preço final|
+|---|---|---|---|
+|D|5 PO|1x|5 PO|
+|C|10 PO|2x|20 PO|
+|B|15 PO|5x|75 PO|
+|A|20 PO|15x|300 PO|
+|S|25 PO|100x|2500 PO|
+
+O preço das Escalas de Armadura será arredondado para cima.
+
+|Escala de Armadura|Preço Base|Taxa|Preço final|
+|---|---|---|---|
+|D|8 PO|1x|8 PO|
+|C|15 PO|1,5x|23 PO|
+|B|23 PO|5x|115 PO|
+|A|30 PO|15x|450 PO|
+|S|38 PO|75x|2850 PO|
+
 ### 3.2.1 Aprimorar ou Mudar Escalas
 
 As Pedras de Infusão existirão para trocar ou mudar as Escalas. Cada pedra terá uma função diferente.
 
 Pendente: preço das pedras de infusão, e preço dos serviços do ferreiro.
 
-## 4. Valor das Armaduras e dos Escudos
+## 4. Habilidades de Escudos
 
-### 4.1 +1 de CA
+Um Escudo concede **Resistência a Dano Físico e Mágico**. Ou seja, o preço de cada +1 de Resistência será dobrado (6 PO cada ponto de Resistência).
 
-Cada +1 de CA vale **57,7 pt, ou 11 PO**. O valor é linear. A tabela vale também para o Capítulo 4.9, já que as Pedras podem aumentar a CA.
+Cada Escudo traz uma Habilidade. Os valores abaixo são estimativas. Aparar adiciona +3 de CA efetiva (+15% de chance do Ataque errar), mas apenas por um instante. Golpe de Escudo custa uma Ação e rende o dano mais o -3 de BA do alvo por um Turno, com 65% de falha na Salvaguarda. Parede de Escudo rende +1 de Resistência na próxima instância.
 
-|CA concedida|pt|Preço bruto|
+|Habilidade de Escudo|Preço|Justificativa|
 |---|---|---|
-|+1|57,7|11 PO|
-|+2|115,4|22 PO|
-|+3|173,1|33 PO|
-|+4 (teto da Leve)|230,8|44 PO|
-|+5|288,5|55 PO|
-|+6 (teto da Média)|346,2|66 PO|
-|+7|403,8|77 PO|
-|+8 (teto da Pesada)|461,5|88 PO|
-|+9|519,2|99 PO|
-|+10|576,9|11 PL|
-
-### 4.2 Escalas de Armadura
-
-Uma Armadura (ou Roupa) tem até duas Escalas. Cada Escala concede, a cada valor par do Atributo até o 10, **+1 de CA e Resistência a Dano Físico igual à letra**. Foi assumido que **70%** do dano recebido é Dano Físico, então +1 de Resistência a Dano Físico vale 13,2 pt. Os passos efetivos são os mesmos da §3.2: 4 na primeira Escala e 3 na segunda.
-
-|Escala|pt por passo (+1 de CA e Resistência da letra)|1ª Escala (4 passos): pt|Preço|2ª Escala (3 passos): pt|Preço|
-|---|---|---|---|---|---|
-|D|70,9|283,7|54 PO|212,8|41 PO|
-|C|84,1|336,6|64 PO|252,4|48 PO|
-|B|97,4|389,5|75 PO|292,1|56 PO|
-|A|110,6|442,4|85 PO|331,8|64 PO|
-|S|123,8|495,3|95 PO|371,5|71 PO|
-
-### 4.3 Escudos
-
-Um Escudo concede **Resistência a Dano Físico e Mágico** (Capítulo 4.3). Foi assumido que **70%** do dano é Físico, **25%** é Mágico e **5%** é Ácido ou Venenoso, então o Escudo cobre 95% do dano. Cada +1 de Resistência vale **18,0 pt, ou 34 PP e 1 PC**.
-
-|Resistência|pt|Preço bruto|
-|---|---|---|
-|+1|18,0|34 PP e 1 PC|
-|+2|35,9|68 PP e 2 PC|
-|+3|53,9|11 PO|
-|+4|71,8|14 PO|
-|+5|89,8|18 PO|
-|+6|107,7|21 PO|
-|+7|125,7|24 PO|
-|+8|143,6|28 PO|
-|+9|161,6|31 PO|
-|+10|179,5|35 PO|
-
-Cada Escudo traz uma Habilidade. Os valores abaixo são estimativas. Aparar anula um acerto em ≈ 23% dos casos (-3 de BA sobre os 13 resultados que acertam), e um acerto vale ≈ 39,7 de dano. Golpe de Escudo custa uma Ação e rende o dano mais o -3 de BA do alvo por um Turno, com 65% de falha na Salvaguarda. Parede de Escudo rende +1 de Resistência na próxima instância.
-
-|Habilidade de Escudo|pt|Preço|
-|---|---|---|
-|Aparar (1 uso por Encontro)|88,8|17 PO|
-|Golpe de Escudo (1 uso por alvo, já descontada a Ação)|56,2|11 PO|
-|Parede de Escudo|6,8|12 PP e 9 PC|
+|Aparar (1 uso por Encontro)|6 PO 3 PP|Bruto de 10 PO: +3 de CA contra um Ataque custaria isso se fosse permanente. Descontos de Reação (1/4) e de uma vez por Encontro (1/8) reduzem 3/8: 6 PO 2,5 PP, arredondado para 6 PO 3 PP.|
+|Golpe de Escudo (1 uso por alvo, já descontada a Ação)|9 PO 8 PP|Bruto de 19 PO 5 PP: Grau 3 de dano instantâneo (4 PO 5 PP) mais -3 no BA por 1 Rodada (15 PO, ou seja, 5 PO por ponto). Descontos de Ação (1/4), Salvaguarda (1/8) e uma vez por alvo (1/8) reduzem metade: 9 PO 7,5 PP, arredondado para 9 PO 8 PP.|
+|Parede de Escudo|7 PO 9 PP|Bruto de 9 PO: Imunidade a Empurrão fica entre 5 e 10 PO, ficaremos com 7 PO; 1 de Resistência custa 1 PO 5 PP por 4 Rodadas, ficaremos com 2 PO. O desconto de Ação Bônus (1/8) dá 7 PO 8,75 PP, arredondado para 7 PO 9 PP.|
 
 O Escudo também ocupa uma das mãos, o que não foi descontado.
 
-## 5. Descontos
+## 5. Preço final
 
-Os descontos são **subtraídos** do preço bruto, em pt (e depois convertidos).
+Para impedir preços muito baixos ou negativos, o preço final **nunca fica abaixo de 25% do preço bruto**. Ou seja, descontos só funcionam até certo ponto.
 
-### 5.1 Requisitos
+A fórmula é:
 
-Os requisitos são valores de Atributo. Eles usam o mesmo cálculo de `Custo de PHs.md` §4.1: o requisito é o custo de oportunidade dos PAs que o PDJ precisa gastar naquele Atributo, e esse custo vira desconto. Cada PA forçado vale 19,6 pt.
+**Preço Final = max((Preço Bruto - Descontos em Porcentagem) - Descontos Fixos, 25% do Preço Bruto)**
 
-**Um requisito**
+## 6. Outras Observações
 
-|Valor do requisito|Desconto (pt)|Desconto|**+1 de requisito** (pt)|**+1 de requisito**|
-|---|---|---|---|---|
-|1|2,8|5 PP e 3 PC|2,8|5 PP e 3 PC|
-|2|5,6|10 PP e 7 PC|2,8|5 PP e 3 PC|
-|3|9,8|18 PP e 7 PC|4,2|8 PP|
-|4|14,0|26 PP e 7 PC|4,2|8 PP|
-|5|19,6|37 PP e 3 PC|5,6|10 PP e 7 PC|
-|6|25,3|48 PP|5,6|10 PP e 7 PC|
-|7|32,3|61 PP e 3 PC|7,0|13 PP e 3 PC|
-|8|39,3|74 PP e 7 PC|7,0|13 PP e 3 PC|
-|9|47,7|10 PO|8,4|16 PP|
-|10|56,1|11 PO|8,4|16 PP|
+A Lâmina Gêmea possui um efeito particularmente forte de repetir metade do dano do Ataque após acertar. Só isso já aumentaria o custo dela em 1,5x.
 
-Na média, **+1 de requisito vale 5,9 pt, ou 11 PP e 3 PC**. O primeiro ponto vale pouco, e o último, bastante.
-
-**Vários requisitos (cada um é um Atributo diferente)**: some o desconto de cada requisito na tabela acima e acrescente **9,8 pt (18 PP e 7 PC) por PA de déficit**. O déficit compara os requisitos, do maior para o menor, com o build típico de 30 PAs (10, 8, 6, 4, 2, 0, 0), e é a soma de `max(0, requisito − valor do build)`.
-
-|Requisitos|Desconto (pt)|Desconto|
-|---|---|---|
-|3 e 1|12,6|24 PP|
-|4 e 4|28,1|53 PP e 3 PC|
-|5 e 5|39,3|74 PP e 7 PC|
-|6 e 6|50,5|10 PO|
-|8 e 8|78,6|15 PO|
-|10 e 10|131,9|26 PO|
-|5 e 5 e 5|58,9|12 PO|
-|8 e 8 e 8|137,5|27 PO|
-
-### 5.2 Peso
-
-Cada unidade de Peso ocupa a Capacidade de Carga (10 + For × NV). Como +1 de Modificador de For dá +NV de Capacidade e custa 2 PAs, no **Nível 10** (meio da campanha) 1 Peso equivale a 0,2 PA, ou **3,9 pt**.
-
-**Cada unidade de Peso desconta 3,9 pt, ou 7 PP e 5 PC.**
-
-|Peso|Desconto (pt)|Desconto|
-|---|---|---|
-|1|3,9|7 PP e 5 PC|
-|2|7,9|14 PP e 9 PC|
-|3|11,8|22 PP e 4 PC|
-|4|15,7|29 PP e 9 PC|
-|5|19,6|37 PP e 3 PC|
-|10|39,3|74 PP e 7 PC|
-|15|58,9|12 PO|
-|20|78,6|15 PO|
-
-### 5.3 Penalidades
-
-**Desvantagem em Furtividade** (Armaduras Médias e Pesadas): uma Desvantagem equivale a ≈ -3,3 no Teste. Foi assumido um Teste de Furtividade por Encontro (o esconder inicial). Cada ponto de BA em Perícia vale 3,1 pt por uso (5 pontos percentuais de uma Ação), então 3,3 × 3,1 = 10,3 pt.
-
-**Desconto: 10,3 pt, ou 19 PP e 6 PC.**
-
-**Penalidade de Deslocamento** (Armaduras Pesadas): -1,5 m de Deslocamento é o oposto de +1,5 m, que vale 20,8 pt por Encontro.
-
-**Desconto: 20,8 pt, ou 39 PP e 6 PC, a cada -1,5 m.** O valor é linear.
-
-|Penalidade|Desconto (pt)|Desconto|
-|---|---|---|
-|-1.5 m|20,8|39 PP e 6 PC|
-|-3 m|41,7|79 PP e 2 PC|
-|-4.5 m|62,5|12 PO|
-|-6 m|83,3|16 PO|
-
-## 6. Preço final
-
-**Preço = preço bruto − Peso − requisitos − penalidades**
-
-Para impedir preços muito baixos ou negativos, o preço final **nunca fica abaixo de 25% do preço bruto**.
-
-## 7. Exemplos
-
-|Item|Preço bruto (pt)|Descontos (pt)|Preço (pt)|Preço|
-|---|---|---|---|---|
-|Espada Longa|549,7|17,4|532,3|10 PL e 2 PO|
-|Katana|524,7|20,2|504,5|96 PO|
-|Claymore|563,7|53,0|510,7|98 PO|
-|Lâmina Gêmea|685,3|29,5|655,9|12 PL e 5 PO|
-|Arco Longo Composto|635,6|23,0|612,6|11 PL e 7 PO|
-|Besta Pesada|134,0|15,7|118,2|23 PO|
-|Couro Fervido|514,4|29,5|485,0|93 PO|
-|Brigantina|895,5|49,3|846,2|16 PL e 1 PO|
-|Armadura Gótica Completa de Placas|1050,6|88,1|962,4|18 PL e 3 PO|
-|Broquel|106,7|6,7|100,0|19 PO|
-|Escudo Torre de Ferro|78,6|51,9|26,7|50 PP e 7 PC|
-
-O conjunto de calibração, uma Arma de Grau 4 com uma Escala D (requisito 3 de For, Peso 3, 283,3 pt) e uma Armadura Leve de +4 de CA com Escala D (requisito 3 de Des, Peso 5, 485,0 pt), soma **768,2 pt, ou 146 PO**, dentro dos 150 PO iniciais.
-
-## 8. Efeitos adicionais
-
-### 8.1 Dano adicional igual à metade do dano do Ataque
-
-O adicional é calculado **depois de todos os cálculos** do dano, então vale 50% do dano por acerto. No cenário típico do Nível 20, o dano por acerto é ≈ 96,2 (`Custos de Mana.md` §2), ou seja, o adicional é de ≈ 48,1 por acerto. Como a Lâmina Gêmea diz que o adicional leva Ataques Críticos em consideração, ele também é ampliado pelo crítico, o que soma ≈ 7,7%.
-
-**pt = 0,5 × dano por acerto × 7,8 acertos por Encontro × 1,077 = 403,9 pt (77 PO).**
-
-O preço usa o dano típico do Nível 20, e não o da própria Lâmina Gêmea (Grau 1 e Escala D), porque o dano dela cresce com o Aprimoramento. Por isso, ela é a Arma mais cara da lista. Se o efeito não vale em todo acerto, use as frequências de `Custo de PHs.md` §2.1: uma vez por Rodada (×4), só em Ataque Crítico (×0,2) ou uma vez por Encontro (×1).
-
-Alerta: o efeito sempre ligado custa mais que uma Escala C inteira e escala com o dano do PDJ, ampliando todos os outros bônus. Vale limitar a frequência.
-
-### 8.2 Recarregar a cada X tiros
-
-**Valor real.** Um Encontro tem 12 Ações (3 por Rodada × 4). Recarregar custa uma Ação, e a Arma começa carregada. Os tiros que cabem em um Encontro são **13X ÷ (X + 1)**, com máximo de 12. Uma Besta (X = 1) dispara ≈ 6,5 vezes (54% do máximo), e uma Arma que não recarrega em um Encontro (X ≥ 12, como os Arcos) dispara 12.
-
-**Fator de recarga.** O preço do Grau é multiplicado por:
-
-**f(X) = 0,5 + 0,5 × ((X − 1) ÷ 11)^1,5**, com f = 1 para X ≥ 12.
-
-Os extremos vêm do valor real (Besta ≈ 50%, sem recarga = 100%). O expoente 1,5 faz o preço **subir mais a cada tiro adicional**. Para um aumento mais suave, use o expoente 1 (linear). Para um mais íngreme, 2.
-
-|X (tiros por recarga)|Fator|Preço do Grau 5|
-|---|---|---|
-|1 (Besta)|0,500|48 PP e 2 PC|
-|2|0,514|49 PP e 5 PC|
-|3|0,539|51 PP e 9 PC|
-|4|0,571|55 PP|
-|5|0,610|58 PP e 7 PC|
-|6|0,653|62 PP e 9 PC|
-|7|0,701|67 PP e 6 PC|
-|8|0,754|72 PP e 6 PC|
-|9|0,810|78 PP|
-|10|0,870|83 PP e 8 PC|
-|11|0,933|89 PP e 9 PC|
-|12 ou mais (Arco)|1,000|10 PO|
-
-- O fator vale só para o preço do **Grau**. Alcance, Escalas e requisitos seguem as outras seções.
-- Com duas Armas à Distância ao mesmo tempo, cada Ataque gasta um tiro de cada Arma, então X conta Ataques.
-- **Conflito com o valor real:** pelo cálculo de Ações, os primeiros tiros valem mais que os últimos (X = 2 já chegaria a 0,72, e X = 10 a 0,98). A curva crescente é uma escolha de design, e não sai da economia de Ações.
-
-### 8.3 Ganhar PVs ou PMs Temporários
-
-Foi considerado "ganhar PVs ou PMs Temporários do Grau indicado", recebidos pelo item e válidos até o fim do Encontro. Para efeitos de **uma vez por Descanso Longo**, multiplique o preço por **0,25** (4 Encontros por dia, `Balanceamento.md`). Os valores saem de `Custos de Mana.md` §5.3 (PV Temporário com o fator 9,7 de cura e PM Temporário a 3,125 pt por PM). A diferença entre duas linhas seguidas é o preço de **aumentar em +1 Grau** um efeito que já existe.
-
-|Grau|PV Temp. (uma vez por Encontro)|PM Temp. (uma vez por Encontro)|PV Temp. (por Rodada, dura 1 Rodada)|PM Temp. (por Rodada, dura 1 Rodada)|
-|---|---|---|---|---|
-|1 (1d4)|45 PP e 3 PC|14 PP e 5 PC|17 PO|48 PP e 6 PC|
-|2 (1d6)|63 PP|20 PP|22 PO|63 PP|
-|3 (1d8)|80 PP e 5 PC|25 PP e 5 PC|27 PO|75 PP e 2 PC|
-|4 (1d10)|10 PO|30 PP e 9 PC|31 PO|85 PP e 5 PC|
-|5 (1d12)|12 PO|36 PP e 1 PC|35 PO|10 PO|
-|6 (2d6)|13 PO|38 PP e 7 PC|37 PO|10 PO|
-|7 (2d8)|16 PO|48 PP e 7 PC|44 PO|12 PO|
-|8 (2d10)|19 PO|58 PP e 4 PC|49 PO|12 PO|
-|9 (2d12)|23 PO|67 PP e 6 PC|53 PO|13 PO|
-|10 (3d10)|28 PO|82 PP e 9 PC|59 PO|14 PO|
-
-O PV Temporário vale ≈ 3× o PM Temporário do mesmo Grau. A Túnica de Mago (Grau 1 de PMs Temporários por Descanso) usa essa tabela com o fator 0,25.
-
-### 8.4 Aumentar em 1 o Grau de um tipo de Ataque
-
-O ganho é a diferença de média entre os dois Graus vezes 7,8 acertos por Encontro. É a mesma diferença da tabela do §3.1. Em seguida aplica-se um **fator de uso**, porque o aumento só vale para os Ataques daquele tipo (`Custo de PHs.md` §2.1):
-
-- **×0,8**: o tipo é o Ataque principal do build (Armas Leves, Comuns, de Empunhadura Dupla ou à Distância).
-- **×0,4**: o tipo é secundário ou situacional (Ataques Desarmados, Arremessar). A Túnica de Monge usa esse fator.
-
-|Grau inicial → final|Ganho de média|pt (100%)|Preço (100%)|Preço ×0,8|Preço ×0,4|
-|---|---|---|---|---|---|
-|1 → 2|+1,0|7,8|14 PP e 8 PC|11 PP e 9 PC|5 PP e 9 PC|
-|2 → 3|+1,0|7,8|14 PP e 8 PC|11 PP e 9 PC|5 PP e 9 PC|
-|3 → 4|+1,0|7,8|14 PP e 8 PC|11 PP e 9 PC|5 PP e 9 PC|
-|4 → 5|+1,0|7,8|14 PP e 8 PC|11 PP e 9 PC|5 PP e 9 PC|
-|5 → 6|+0,5|3,9|7 PP e 4 PC|5 PP e 9 PC|3 PP|
-|6 → 7|+2,0|15,6|29 PP e 6 PC|23 PP e 7 PC|11 PP e 9 PC|
-|7 → 8|+2,0|15,6|29 PP e 6 PC|23 PP e 7 PC|11 PP e 9 PC|
-|8 → 9|+2,0|15,6|29 PP e 6 PC|23 PP e 7 PC|11 PP e 9 PC|
-|9 → 10|+3,5|27,3|51 PP e 9 PC|41 PP e 5 PC|20 PP e 7 PC|
-
-O Grau não passa de 10 (Capítulo 1.5), então não há preço a partir do Grau 10.
+Para efeitos particularmente poderosos, desconsideram-se os descontos de Peso e de requisitos. A Lâmina Gêmea é um desses efeitos.

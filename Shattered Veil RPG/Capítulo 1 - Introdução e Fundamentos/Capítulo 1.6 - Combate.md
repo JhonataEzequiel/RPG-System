@@ -113,7 +113,7 @@ Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa po
 
 Qualquer item pode ser Arremessado. Arremessar um item com o intuito de ferir uma criatura é um Ataque Físico à Distância. Você precisa superar a CA do alvo como em qualquer outro Ataque. Os Itens Arremessáveis (veja o Capítulo 4 - Equipamentos) contam como Armas à Distância para critérios de Proficiência. Ou seja, se você é Proficiente em Armas à Distância, adiciona seu BP ao BA de Ataques com eles. Por padrão, não possuem nenhum tipo de Escalas (confira o Capítulo 4 - Equipamentos para mais informações sobre Escalas).
 
-O BD de um Ataque com um item arremessado é definido pelo próprio item. Por padrão, o dano é de Grau 1, sem BD. Os Itens Arremessáveis possuem regras próprias de dano e de efeitos, descritas em cada item.
+O BD de um Ataque com um item arremessado é definido pelo próprio item. Por padrão, o dano é de Grau 1, sem BD. Os Itens Arremessáveis possuem regras próprias de dano e de efeitos, descritas em cada item. Aqueles que afetam uma Área não são Ataques: em vez de superar a CA, as criaturas na Área fazem uma Salvaguarda de Destreza, e Arremessá-los custa uma Ação do mesmo jeito.
 
 O alcance de um arremesso é de 1,5 metros para cada ponto no seu Modificador de Força ou no de Destreza, com mínimo de 1,5 metros. Não é possível Arremessar um item além desse alcance.
 

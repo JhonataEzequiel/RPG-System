@@ -4,11 +4,11 @@ Um Grimório tem uma capacidade limitada de Magias que podem ser escritas nele, 
 
 Para utilizar uma Magia em um Grimório você deverá mantê-lo aberto e ir passando pelas páginas que contém a Magia. Isso requer que você o segure com uma mão. A quantidade de Magias que cada Grimório pode comportar é dada pela tabela a seguir, e qualquer Grimório pesa apenas uma unidade de Peso.
 
-| Item              | Quantidade de Magias Adicionais | Custo |
-| ----------------- | ------------------------------- | ----- |
-| Grimório Simples  | 6                               |       |
-| Grimório Avançado | 8                               |       |
-| Grimório Arcano   | 10                              |       |
+| Item              | Quantidade de Magias Adicionais | Preço  |
+| ----------------- | ------------------------------- | ------ |
+| Grimório Simples  | 5                               | 25 PO  |
+| Grimório Avançado | 10                              | 100 PO |
+| Grimório Arcano   | 15                              | 200 PO |
 
 É necessário que você passe um tempo anotando uma Magia no Grimório para poder utilizá-la. Para isso, você precisa de algo capaz de escrever nele, como uma Pena e Tinta, disponíveis no Capítulo 4.8 - Outros Itens. O tempo varia de acordo com o custo inicial da Magia (confira o Capítulo 6 - Magias para mais detalhes). Você pode anotar uma Magia enquanto estiver tendo um Descanso Longo, e isso não aumenta a quantidade de tempo necessária para Descansar. No entanto, você só pode fazer isso com Magias cujo custo inicial é 5 ou menor.
 

@@ -150,7 +150,7 @@ Pendente: forma de calcular esse PVs. Provavelmente será uma curva não-linear,
 
 ## Cura
 
-Uma instância de cura que cure Y deve custar 1.5xY em dano. Ou seja, o custo necessário para causar Y como dano será menor que o custo para curar. Supondo que Y necessite de X PMs para ser causado como instância de dano, então Y necessitaria de 1.5\*X para causar a mesma quantidade como cura.
+Uma instância de cura que cure Y deve custar 2x o custo de Y em dano. Ou seja, o custo necessário para causar Y como dano será metade em relação ao custo para curar. Supondo que Y necessite de X PMs para ser causado como instância de dano, então Y necessitaria de 2\*X para causar a mesma quantidade como cura.
 
 ### Dica para o Guia do Mestre
 
