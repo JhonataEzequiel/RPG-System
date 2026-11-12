@@ -30,7 +30,7 @@ Os Dados de Vida e de Mana são contabilizáveis. Você ganha um a cada Nível, 
 
 ## Proficiências
 
-Você pode ser Proficiente em Armaduras, Armas Corpo a Corpo, Armas à Distância, Escudos, Magias no geral, Salvaguardas e Perícias (se tornando Perito). Você pode escolher suas Proficiências na seção "Origem".
+Você pode ser Proficiente em Armaduras, Armas Corpo a Corpo, Armas à Distância, Magias no geral, Salvaguardas e Perícias (se tornando Perito). Você pode escolher suas Proficiências na seção "Origem".
 
 ## Escolha de Habilidades
 
