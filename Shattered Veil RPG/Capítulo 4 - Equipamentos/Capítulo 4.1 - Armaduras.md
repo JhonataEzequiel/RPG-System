@@ -8,13 +8,13 @@ Você pode ser Proficiente no uso de Armaduras. Caso você não seja Proficiente
 
 As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Segue a tabela com o bônus concedido por cada Escala:
 
-|Escala|Valor de Atributo 2|Valor de Atributo 4|Valor de Atributo 6|Valor de Atributo 8|Valor de Atributo 10|Total|
-|---|---|---|---|---|---|---|
-|S|+5 de Resistência a Dano Físico, +1 de CA|+5 de Resistência a Dano Físico, +1 de CA|+5 de Resistência a Dano Físico, +1 de CA|+5 de Resistência a Dano Físico, +1 de CA|+5 de Resistência a Dano Físico, +1 de CA|+25 de Resistência a Dano Físico, +5 de CA|
-|A|+4 de Resistência a Dano Físico, +1 de CA|+4 de Resistência a Dano Físico, +1 de CA|+4 de Resistência a Dano Físico, +1 de CA|+4 de Resistência a Dano Físico, +1 de CA|+4 de Resistência a Dano Físico, +1 de CA|+20 de Resistência a Dano Físico, +5 de CA|
-|B|+3 de Resistência a Dano Físico, +1 de CA|+3 de Resistência a Dano Físico, +1 de CA|+3 de Resistência a Dano Físico, +1 de CA|+3 de Resistência a Dano Físico, +1 de CA|+3 de Resistência a Dano Físico, +1 de CA|+15 de Resistência a Dano Físico, +5 de CA|
-|C|+2 de Resistência a Dano Físico, +1 de CA|+2 de Resistência a Dano Físico, +1 de CA|+2 de Resistência a Dano Físico, +1 de CA|+2 de Resistência a Dano Físico, +1 de CA|+2 de Resistência a Dano Físico, +1 de CA|+10 de Resistência a Dano Físico, +5 de CA|
-|D|+1 de Resistência a Dano Físico, +1 de CA|+1 de Resistência a Dano Físico, +1 de CA|+1 de Resistência a Dano Físico, +1 de CA|+1 de Resistência a Dano Físico, +1 de CA|+1 de Resistência a Dano Físico, +1 de CA|+5 de Resistência a Dano Físico, +5 de CA|
+| Escala | Valor de Atributo 2                       | Valor de Atributo 4                       | Valor de Atributo 6                       | Valor de Atributo 8                       | Valor de Atributo 10                      | Total                                      |
+| ------ | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ----------------------------------------- | ------------------------------------------ |
+| S      | +5 de Resistência a Dano Físico, +1 de CA | +5 de Resistência a Dano Físico, +1 de CA | +5 de Resistência a Dano Físico, +1 de CA | +5 de Resistência a Dano Físico, +1 de CA | +5 de Resistência a Dano Físico, +1 de CA | +25 de Resistência a Dano Físico, +5 de CA |
+| A      | +4 de Resistência a Dano Físico, +1 de CA | +4 de Resistência a Dano Físico, +1 de CA | +4 de Resistência a Dano Físico, +1 de CA | +4 de Resistência a Dano Físico, +1 de CA | +4 de Resistência a Dano Físico, +1 de CA | +20 de Resistência a Dano Físico, +5 de CA |
+| B      | +3 de Resistência a Dano Físico, +1 de CA | +3 de Resistência a Dano Físico, +1 de CA | +3 de Resistência a Dano Físico, +1 de CA | +3 de Resistência a Dano Físico, +1 de CA | +3 de Resistência a Dano Físico, +1 de CA | +15 de Resistência a Dano Físico, +5 de CA |
+| C      | +2 de Resistência a Dano Físico, +1 de CA | +2 de Resistência a Dano Físico, +1 de CA | +2 de Resistência a Dano Físico, +1 de CA | +2 de Resistência a Dano Físico, +1 de CA | +2 de Resistência a Dano Físico, +1 de CA | +10 de Resistência a Dano Físico, +5 de CA |
+| D      | +1 de Resistência a Dano Físico, +1 de CA | +1 de Resistência a Dano Físico, +1 de CA | +1 de Resistência a Dano Físico, +1 de CA | +1 de Resistência a Dano Físico, +1 de CA | +1 de Resistência a Dano Físico, +1 de CA | +5 de Resistência a Dano Físico, +5 de CA  |
 
 ## Roupas
 

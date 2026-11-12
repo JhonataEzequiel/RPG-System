@@ -55,7 +55,7 @@ Cada Item Arremessável possui regras próprias, como dano, alcance e efeitos, d
 
 ## Aprimoramento de Equipamentos
 
-É possível evoluir e modificar Armas, Armaduras e Escudos. Tais itens são refinados por um ferreiro ou encontrados já refinados como tesouro durante as suas aventuras. As modificações são feitas nas Escalas, alterando-as, assim como os Atributos referentes a elas. Também é possível mudar algumas outras propriedades do item. Para mais detalhes, consulte o Capítulo 4.6 - Aprimoramento.
+É possível evoluir e modificar Armas, Armaduras e Escudos. Tais itens são refinados por um ferreiro ou encontrados já refinados como tesouro durante as suas aventuras. As modificações são feitas nas Escalas, alterando-as, assim como os Atributos referentes a elas. Também é possível mudar algumas outras propriedades do item. Para mais detalhes, consulte o Capítulo 4.6 - Aprimoramento e Infusões.
 
 ## Itens Especiais
 

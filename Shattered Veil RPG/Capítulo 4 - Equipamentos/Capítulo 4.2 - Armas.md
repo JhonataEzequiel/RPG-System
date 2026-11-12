@@ -36,13 +36,13 @@ Algumas Armas podem aumentar o alcance padrão de Ataques Corpo a Corpo, como de
 
 As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arma seja capaz de causar mais de um tipo de dano, você pode escolher qual deles recebe o aumento de BD proporcionado pelos bônus de Escalas.
 
-|Escala|Valor de Atributo 2|Valor de Atributo 4|Valor de Atributo 6|Valor de Atributo 8|Valor de Atributo 10|Total|
-|---|---|---|---|---|---|---|
-|S|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+25 no BD, +5 de BA|
-|A|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+20 no BD, +5 de BA|
-|B|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+15 no BD, +5 de BA|
-|C|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+10 no BD, +5 de BA|
-|D|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+5 no BD, +5 de BA|
+| Escala | Valor de Atributo 2 | Valor de Atributo 4 | Valor de Atributo 6 | Valor de Atributo 8 | Valor de Atributo 10 | Total               |
+| ------ | ------------------- | ------------------- | ------------------- | ------------------- | -------------------- | ------------------- |
+| S      | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA   | +25 no BD, +5 de BA |
+| A      | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA   | +20 no BD, +5 de BA |
+| B      | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA   | +15 no BD, +5 de BA |
+| C      | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA   | +10 no BD, +5 de BA |
+| D      | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA   | +5 no BD, +5 de BA  |
 
 ## Lista de Armas
 
