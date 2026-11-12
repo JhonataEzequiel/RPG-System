@@ -95,18 +95,18 @@ Podem disparar uma quantidade de vezes, definida em cada Arma, antes de precisar
 
 ### Lista de Armas à Distância
 
-|Arma|Preço|Dano|Tipo de Dano|Escalas|Requisitos|Característica Única|Alcance|Peso|
-|---|---|---|---|---|---|---|---|---|
-|Arco Curto|15 PO|Grau 1|Perfurante|D em Destreza|1 de Destreza|-|18 metros|1|
-|Pistola|19 PO|Grau 5|Perfurante|-|3 de Destreza|Recarrega a cada 10 tiros, ocupa apenas uma mão.|24 metros|2|
-|Besta Leve|20 PO|Grau 4|Perfurante|-|-|Recarrega a cada tiro|24 metros|2|
-|Arco Longo|24 PO|Grau 2|Perfurante|D em Força e D em Destreza|1 de Força, 1 de Destreza|-|24 metros|2|
-|Escopeta|26 PO|Grau 6|Perfurante|-|3 de Força, 3 de Destreza|Recarrega a cada 2 tiros|18 metros|4|
-|Besta Pesada|27 PO|Grau 4|Perfurante|-|-|Recarrega a cada tiro|36 metros|4|
-|Arco Curto Composto|34 PO|Grau 2|Perfurante|C em Destreza|2 de Destreza|-|24 metros|2|
-|Canhão de Mão|42 PO|Grau 7|Perfurante|-|6 de Força, 3 de Destreza|Recarrega a cada tiro|12 metros|10|
-|Arco Longo Composto|58 PO|Grau 3|Perfurante|C em Força e C em Destreza|2 de Força, 2 de Destreza|-|30 metros|3|
-|Rifle de Precisão|10 PL 1 PO|Grau 8|Perfurante|-|6 de Força, 3 de Destreza|Recarrega a cada tiro|48 metros|9|
+| Arma                | Preço      | Dano   | Tipo de Dano | Escalas                    | Requisitos                | Característica Única                             | Alcance   | Peso |
+| ------------------- | ---------- | ------ | ------------ | -------------------------- | ------------------------- | ------------------------------------------------ | --------- | ---- |
+| Arco Curto          | 15 PO      | Grau 1 | Perfurante   | D em Destreza              | 1 de Destreza             | -                                                | 18 metros | 1    |
+| Pistola             | 19 PO      | Grau 5 | Perfurante   | -                          | 3 de Destreza             | Recarrega a cada 10 tiros, ocupa apenas uma mão. | 24 metros | 2    |
+| Besta Leve          | 20 PO      | Grau 4 | Perfurante   | -                          | -                         | Recarrega a cada tiro                            | 24 metros | 2    |
+| Arco Longo          | 24 PO      | Grau 2 | Perfurante   | D em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                | 24 metros | 2    |
+| Escopeta            | 26 PO      | Grau 6 | Perfurante   | -                          | 3 de Força, 3 de Destreza | Recarrega a cada 2 tiros                         | 18 metros | 4    |
+| Besta Pesada        | 27 PO      | Grau 4 | Perfurante   | -                          | -                         | Recarrega a cada tiro                            | 36 metros | 4    |
+| Arco Curto Composto | 34 PO      | Grau 2 | Perfurante   | C em Destreza              | 2 de Destreza             | -                                                | 24 metros | 2    |
+| Canhão de Mão       | 42 PO      | Grau 7 | Perfurante   | -                          | 6 de Força, 3 de Destreza | Recarrega a cada tiro, ocupa apenas uma mão.     | 12 metros | 10   |
+| Arco Longo Composto | 58 PO      | Grau 3 | Perfurante   | C em Força e C em Destreza | 2 de Força, 2 de Destreza | -                                                | 30 metros | 3    |
+| Rifle de Precisão   | 10 PL 1 PO | Grau 8 | Perfurante   | -                          | 6 de Força, 3 de Destreza | Recarrega a cada tiro                            | 48 metros | 9    |
 
 ## Munições
 

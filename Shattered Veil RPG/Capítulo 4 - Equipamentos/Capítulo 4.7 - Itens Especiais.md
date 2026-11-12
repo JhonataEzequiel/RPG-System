@@ -1,19 +1,20 @@
 
-Alguns itens são particularmente únicos e raros, ou possuem propriedades mágicas intrínsecas. Neste caso, cada um deles terá uma descrição mais detalhada que irá além de sua tabela básica de atributos. Este espaço é reservado para detalhar tais itens. Os Itens Mágicos podem ir de Grau 1 até o Grau 3. Quanto maior o Grau, mais poderosos são, ou seus efeitos são mais raros e únicos.
+Alguns itens são particularmente únicos e raros, ou possuem propriedades mágicas intrínsecas. Este espaço é reservado para detalhar tais itens. Os Itens Especiais podem ir de Grau 1 até o Grau 3. Quanto maior o Grau, mais poderosos são.
 
 # Grau 1
 
 ## Joia de Resistência
 
-Bijuteria qualquer, como um anel ou colar, que possui em sua confecção ou adorno uma pedra preciosa, e Mana infundida em sua criação. Dependendo da pedra utilizada, concede Resistência mágica a um tipo de dano mágico em específico. O preço do item em si pode variar bastante, dependendo da raridade e do exemplar da pedra preciosa utilizada. Por exemplo, se for utilizado um diamante particularmente raro, a joia pode custar muito mais caro. Seu efeito mágico, no entanto, não muda. Custam entre 30pl até 10000pl. Em média, custam 35pl. O peso da bijuteria pode variar entre 0.1 kg até 3 kg, a depender do que foi utilizado além da joia núcleo.
+Bijuteria qualquer, como um anel ou colar, que possui em sua confecção ou adorno uma pedra preciosa, e Mana infundida em sua criação. Dependendo da pedra utilizada, concede Resistência a um tipo de Dano Mágico em específico. O preço do item em si pode variar bastante, dependendo da raridade e do exemplar da pedra preciosa utilizada. Por exemplo, se for utilizado um diamante particularmente raro, a joia pode custar muito mais caro. Seu efeito mágico, no entanto, não muda. Custam entre 30 PL até 10000 PL. O preço padrão normalmente cobrado pelas bijuterias mais comuns com esse efeito é 35 PL. O peso da bijuteria pode variar entre 0 até 3, a depender do que foi utilizado além da joia núcleo. Normalmente, o peso é 0.
 
-| Pedra Preciosa | Efeito                            |
-| -------------- | --------------------------------- |
-| Rubi           | 10 de Resistência a Dano de Fogo  |
-| Safira         | 10 de Resistência a Dano de Raio  |
-| Diamante       | 10 de Resistência a Dano de Gelo  |
-| Ônix           | 10 de Resistência a Dano Sombrio  |
-| Topázio Branco | 10 de Resistência a Dano Radiante |
+| Pedra Preciosa | Efeito                             |
+| -------------- | ---------------------------------- |
+| Rubi           | 10 de Resistência a Dano Ígneo     |
+| Safira         | 10 de Resistência a Dano Elétrico  |
+| Diamante       | 10 de Resistência a Dano Gélido    |
+| Ônix           | 10 de Resistência a Dano Sombrio   |
+| Topázio Branco | 10 de Resistência a Dano Luminoso  |
+| Hematita       | 10 de Resistência a Dano Sanguíneo |
 
 ## Poção de Restauração Completa
 
