@@ -94,12 +94,12 @@ Itens listados no Capítulo 4.7 - Itens Especiais podem ignorar a regra de duas 
 
 O preço de uma Pedra de Infusão comum (Pesada, Afiada, Mágica, Transcendente, Charmosa, Vital e Sábia) é de 50 PO. As Pedras Mundana, de Qualidade, Bruta, e Branca custam 100 PO. O preço para Infundir depende do grau que a Escala terá após a Infusão.
 
-| Grau Resultante | Preço da Pedra de Infusão Comum | Preço de Pedras Exclusivas | Preço para Infundir | Preço Final |
-| --------------- | ------------------------------- | -------------------------- | ------------------- | ----------- |
-| C               | 50 PO                           | 100 PO                     |                     |             |
-| B               | 50 PO                           | 100 PO                     |                     |             |
-| A               | 50 PO                           | 100 PO                     |                     |             |
-| S               | 50 PO                           | 100 PO                     |                     |             |
+| Grau Resultante | Preço da Pedra de Infusão Comum | Preço de Pedras Exclusivas | Preço para Infundir | Preço Final Comum | Preço Final Exclusivas |
+| --------------- | ------------------------------- | -------------------------- | ------------------- | ----------------- | ---------------------- |
+| C               | 50 PO                           | 100 PO                     | 20 PO               | 70 PO             | 120 PO                 |
+| B               | 50 PO                           | 100 PO                     | 70 PO               | 120 PO            | 170 PO                 |
+| A               | 50 PO                           | 100 PO                     | 300 PO              | 350 PO            | 400 PO                 |
+| S               | 50 PO                           | 100 PO                     | 2400 PO             | 2450 PO           | 2500 PO                |
 
 As Pedras Mundana e de Qualidade concedem duas Escalas em uma única infusão, portanto o preço para infundir com elas é maior. A Pedra Bruta não tem Escalas, e possui uma tabela própria, detalhada mais a frente. Para remover as Infusões de um item com a Pedra Branca, o preço é de 100 PO.
 
@@ -141,7 +141,7 @@ A Pedra Bruta remove o aspecto mágico e especializado do item, o deixando bruto
 
 | Arma (BD) | Armadura (CA) | Preço para Infundir |
 | --------- | ------------- | ------------------- |
-| +BP       | +NV/4         |                     |
+| +BP       | +NV/4         | 150 PO              |
 
 O bônus de dano de uma Arma é de um dos tipos de Dano Físico que ela pode causar, à sua escolha. Além disso, qualquer dano mágico presente no dano original da Arma é substituído por um dos três tipos de Dano Físico (Cortante, Perfurante, ou de Impacto), à sua escolha.
 

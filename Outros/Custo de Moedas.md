@@ -47,24 +47,29 @@ Quanto maior o Peso, menor o custo. Cada unidade de Peso reduz o valor do item e
 
 ### 2.1 Efeitos Permanentes (Passivas)
 
-|Efeito|Preço|Justificativa e Acréscimos|
-|---|---|---|
-|+1 de BD|2 PO|Parece ok|
-|+1 de Resistência a um tipo de dano|3 PO|Efeito contrário ao dano. O custo é superior ao dano por ter um impacto maior, já que não precisa "acertar" um Teste para que a resistência seja aplicada.|
-|+1,5 m de alcance corpo a corpo|10 PO|O preço triplica a cada iteração, ou seja, +4,5 m custaria 90 PO.|
-|+1,5 m de alcance de Ataque à distância (até 9 m é gratuito para Armas à Distância, e depois de 48 m também é gratuito)|1 PO|O preço parece justo, no geral|
-|+1,5 m de Deslocamento|250 PO|Preço linear|
+| Efeito                                                                                                                  | Preço  | Justificativa e Acréscimos                                                                                                                                     |
+| ----------------------------------------------------------------------------------------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| +1 de BD                                                                                                                | 2 PO   | Parece ok                                                                                                                                                      |
+| +1 de Resistência a um tipo de dano                                                                                     | 3 PO   | Efeito contrário ao dano. O custo é superior ao dano por ter um impacto maior, já que não precisa "acertar" um Teste para que a resistência seja aplicada.     |
+| +1,5 m de alcance corpo a corpo                                                                                         | 10 PO  | O preço triplica a cada iteração, ou seja, +4,5 m custaria 90 PO.                                                                                              |
+| +1,5 m de alcance de Ataque à distância (até 9 m é gratuito para Armas à Distância, e depois de 48 m também é gratuito) | 1 PO   | O preço parece justo, no geral                                                                                                                                 |
+| +1,5 m de Deslocamento                                                                                                  | 250 PO | Preço linear                                                                                                                                                   |
+| +1 em um Teste de Perícia                                                                                               | 16 PO  | Preço cúbico com início em 2, ou seja, o X inicial é 2, que é elevado ao cubo. Para cada +1, aumenta-se o X em 1. Por exemplo, +2 seria 3 ao cubo que é 27 PO. |
 
 ### 2.2 Efeitos Instantâneos
 
 Efeitos que duram apenas um instante, por exemplo, no momento em que se consome uma poção. Itens consumíveis também entram aqui. Basicamente, são efeitos que ocorrem uma única vez e não perduram, portanto, são mais baratos. Causar 1 de dano, por exemplo, é diferente de ter +1 de BD.
 
-|Efeito|Preço|Justificativa e Acréscimos|
-|---|---|---|
-|1 de Cura (alvo único)|2 PO|2x dano em alvo único|
-|1 PM restaurado|5 PO|Mana tem mais implicações do que apenas 1 PV|
-|1 de Dano causado (alvo único)|1 PO|Preço base|
-|1 de Dano causado (por 1,5 metros de área)|1 PO 5 PP|1,5x o dano em alvo único|
+| Efeito                                     | Preço     | Justificativa e Acréscimos                                |
+| ------------------------------------------ | --------- | --------------------------------------------------------- |
+| 1 de Cura (alvo único)                     | 2 PO      | 2x dano em alvo único                                     |
+| 1 PM restaurado                            | 5 PO      | Mana tem mais implicações do que apenas 1 PV              |
+| 1 de Dano causado (alvo único)             | 1 PO      | Preço base                                                |
+| 1 de Dano causado (por 1,5 metros de área) | 1 PO 5 PP | 1,5x o dano em alvo único                                 |
+| 1 de Regeneração de PV                     | 375 PO    | mesmo preço de um efeito desses que dure mais de uma hora |
+| 1 de Regeneração de PM                     | 938 PO    | 2.5x regeneração de PV                                    |
+| 1 de PV  Temporário                        | 188 PO    | mesmo preço de um efeito desses que dure mais de uma hora |
+| 1 de PM  Temporário                        | 470 PO    | 2.5x PV Temporário                                        |
 
 Caso um item conceda graus de cura, dano, ou restauração de PMs:
 
@@ -91,20 +96,27 @@ BA e CA valem mais à medida que são acumulados, então o preço em 4 Rodadas �
 
 Dano Contínuo é particularmente mais forte que dano normal. Uma vez atingido por Dano Contínuo, você continua recebendo dano. Ou seja, as instâncias se aplicam sem o alvo poder resistir com uma Salvaguarda ou com a CA. Dano que deixa de ser causado quando a criatura sai de uma área não é Dano Contínuo (veja a seção 2.4). Regeneração é similar, já que o efeito é passivo, não requerendo Ação, Ação Bônus, Reação ou sequer Ação Livre.
 
-|Efeito|Preço por 1 Rodada|Preço por 2 Rodadas|Preço por 3 Rodadas|Preço por 4 Rodadas|Preço por 1 Encontro|Preço por 1 hora|Preço por mais de uma hora|
-|---|---|---|---|---|---|---|---|
-|1 de Dano Contínuo|1 PO|3 PO|6 PO|12 PO|24 PO|144 PO|250 PO|
-|1 de Regeneração|1 PO 5 PP|5 PO|9 PO|18 PO|36 PO|216 PO|375 PO|
-|+1 no BD|5 PP|7 PP|9 PP|1 PO 5 PP|2 PO|2 PO|2 PO|
-|+1 no BA|5 PO|10 PO|20 PO|25 PO|40 PO|240 PO|500 PO|
-|+1 na CA|5 PO|10 PO|20 PO|25 PO|40 PO|240 PO|500 PO|
-|+1 de Resistência|5 PP|8 PP|1 PO|1 PO 5 PP|3 PO|3 PO|3 PO|
-|Aumenta em 1 o valor de um Atributo|1 PO|2 PO|3 PO|4 PO|5 PO|30 PO|50 PO|
-|+1,5 metros de Deslocamento|10 PO|20 PO|35 PO|50 PO|75 PO|250 PO|250 PO|
-|Recebe uma Condição positiva|10 PO|15 PO|20 PO|25 PO|40 PO|240 PO|500 PO|
-|Outros efeitos menores|4 PP|6 PP|8 PP|1 PO|1 PO 6 PP|9 PO 6 PP|20 PO|
+| Efeito                              | Preço por 1 Rodada | Preço por 2 Rodadas | Preço por 3 Rodadas | Preço por 4 Rodadas | Preço por 1 Encontro | Preço por 1 hora | Preço por mais de uma hora |
+| ----------------------------------- | ------------------ | ------------------- | ------------------- | ------------------- | -------------------- | ---------------- | -------------------------- |
+| 1 de Dano Contínuo                  | 1 PO               | 3 PO                | 6 PO                | 12 PO               | 24 PO                | 144 PO           | 250 PO                     |
+| 1 de Regeneração de PV              | 1 PO 5 PP          | 5 PO                | 9 PO                | 18 PO               | 36 PO                | 216 PO           | 375 PO                     |
+| 1 de Regeneração de PM              | 3 PO 8 PP          | 12 PO 5 pp          | 22 PO 5 PP          | 45 PO               | 90 PO                | 540 PO           | 938 PO                     |
+| 1 de PV  Temporário                 | 7 PP               | 3 PO                | 5 PO                | 9 PO                | 18 PO                | 108 PO           | 188 PO                     |
+| 1 de PM  Temporário                 | 1 PO 8 PP          | 8 PO                | 12 PO 5 PP          | 22 PO 5 PP          | 45 PO                | 270 PO           | 470 PO                     |
+| +1 no BD                            | 5 PP               | 7 PP                | 9 PP                | 1 PO 5 PP           | 2 PO                 | 2 PO             | 2 PO                       |
+| +1 no BA                            | 5 PO               | 10 PO               | 20 PO               | 25 PO               | 40 PO                | 240 PO           | 500 PO                     |
+| +1 na CA                            | 5 PO               | 10 PO               | 20 PO               | 25 PO               | 40 PO                | 240 PO           | 500 PO                     |
+| +1 de Resistência                   | 5 PP               | 8 PP                | 1 PO                | 1 PO 5 PP           | 3 PO                 | 3 PO             | 3 PO                       |
+| Aumenta em 1 o valor de um Atributo | 1 PO               | 2 PO                | 3 PO                | 4 PO                | 5 PO                 | 30 PO            | 50 PO                      |
+| +1,5 metros de Deslocamento         | 10 PO              | 20 PO               | 35 PO               | 50 PO               | 75 PO                | 250 PO           | 250 PO                     |
+| Recebe uma Condição positiva        | 10 PO              | 15 PO               | 20 PO               | 25 PO               | 40 PO                | 240 PO           | 500 PO                     |
+| Outros efeitos menores              | 4 PP               | 6 PP                | 8 PP                | 1 PO                | 1 PO 6 PP            | 9 PO 6 PP        | 20 PO                      |
 
 Outros efeitos menores são efeitos situacionais ou de utilidade, sem impacto direto no combate e que não são Condições, como respirar debaixo d'água, escalar paredes ou enxergar no escuro. A linha tem 1/25 dos valores da linha de Condição positiva.
+
+Considere PVs Temporários como tendo metade do preço da Regeneração. Isso se dá pelo fato de não contarem como instância de cura, ou seja, não diminuem o poder da Condição Morrendo, nem se beneficiam de Habilidades e efeitos que melhorem as curas.
+
+PMs Temporários são 2.5x mais caros que PVs Temporários, assim como regeneração de PM é 2.5x mais cara que regeneração de PV.
 
 ### 2.4 Dano Persistente em Área
 
@@ -118,24 +130,61 @@ Justificativa: em durações curtas, o Dano Contínuo custa cerca do dobro do da
 
 O preço do Grau será relacionado ao preço do BD permanente (2 PO por ponto da média do dado, como em +1 de BD), acrescido de uma taxa arbitrária sobre o preço.
 
-|Grau|Dado|Média|Preço|Taxa|Preço Final|
-|---|---|---|---|---|---|
-|1|1d4|2,5|5 PO|1x|5 PO|
-|2|1d6|3,5|7 PO|1x|7 PO|
-|3|1d8|4,5|9 PO|1x|9 PO|
-|4|1d10|5,5|11 PO|1x|11 PO|
-|5|1d12|6,5|13 PO|1x|13 PO|
-|6|2d6|7,0|14 PO|2x|28 PO|
-|7|2d8|9,0|18 PO|3x|54 PO|
-|8|2d10|11,0|22 PO|4x|88 PO|
-|9|2d12|13,0|26 PO|5x|130 PO|
-|10|3d10|16,5|33 PO|10x|330 PO|
+| Grau | Dado | Média | Preço | Taxa | Preço Final |
+| ---- | ---- | ----- | ----- | ---- | ----------- |
+| 1    | 1d4  | 2,5   | 5 PO  | 1x   | 5 PO        |
+| 2    | 1d6  | 3,5   | 7 PO  | 1x   | 7 PO        |
+| 3    | 1d8  | 4,5   | 9 PO  | 1x   | 9 PO        |
+| 4    | 1d10 | 5,5   | 11 PO | 1x   | 11 PO       |
+| 5    | 1d12 | 6,5   | 13 PO | 1x   | 13 PO       |
+| 6    | 2d6  | 7,0   | 14 PO | 2x   | 28 PO       |
+| 7    | 2d8  | 9,0   | 18 PO | 3x   | 54 PO       |
+| 8    | 2d10 | 11,0  | 22 PO | 4x   | 88 PO       |
+| 9    | 2d12 | 13,0  | 26 PO | 5x   | 130 PO      |
+| 10   | 3d10 | 16,5  | 33 PO | 10x  | 330 PO      |
 
 ### 3.1.1 Aprimorar o Grau de uma Arma
 
-O preço das pedras de aprimoramento acompanhará a evolução da Arma. Uma quantidade X de pedras será necessária por nível, acompanhando o desenvolvimento das Armas.
+O preço final de cada melhoria é mostrado pelas tabelas a seguir, cobrindo Armas, Armaduras, e Escudos, nessa ordem. O tempo para realizar uma melhoria, independente do patamar, é de 8 horas.
 
-Pendente: preço das pedras de aprimoramento, e preço dos serviços do ferreiro para aprimorar.
+| Para chegar ao Grau (Armas) | Pedras | Custo das Pedras | Taxa do Ferreiro | Preço do Passo | Total Acumulado |
+| --------------------------- | ------ | ---------------- | ---------------- | -------------- | --------------- |
+| 1                           | 0      | 0                | 0                | 0              | 0               |
+| 2                           | 1      | 10 PO            | 10 PO            | 20 PO          | 20 PO           |
+| 3                           | 1      | 10 PO            | 10 PO            | 20 PO          | 40 PO           |
+| 4                           | 1      | 10 PO            | 10 PO            | 20 PO          | 60 PO           |
+| 5                           | 2      | 20 PO            | 20 PO            | 40 PO          | 100 PO          |
+| 6                           | 2      | 20 PO            | 20 PO            | 40 PO          | 140 PO          |
+| 7                           | 2      | 20 PO            | 20 PO            | 40 PO          | 180 PO          |
+| 8                           | 3      | 30 PO            | 30 PO            | 60 PO          | 240 PO          |
+| 9                           | 3      | 30 PO            | 30 PO            | 60 PO          | 300 PO          |
+| 10                          | 5      | 50 PO            | 50 PO            | 100 PO         | 400 PO          |
+
+| Para chegar ao CA (Armaduras) | Pedras | Custo das Pedras | Taxa do Ferreiro | Preço do Passo | Total Acumulado |
+| ----------------------------- | ------ | ---------------- | ---------------- | -------------- | --------------- |
+| +1                            | 0      | 0                | 0                | 0              | 0               |
+| +2                            | 1      | 10 PO            | 30 PO            | 40 PO          | 40 PO           |
+| +3                            | 1      | 10 PO            | 30 PO            | 40 PO          | 80 PO           |
+| +4                            | 1      | 10 PO            | 30 PO            | 40 PO          | 120 PO          |
+| +5                            | 2      | 20 PO            | 60 PO            | 80 PO          | 200 PO          |
+| +6                            | 2      | 20 PO            | 60 PO            | 80 PO          | 280 PO          |
+| +7                            | 2      | 20 PO            | 60 PO            | 80 PO          | 360 PO          |
+| +8                            | 3      | 30 PO            | 90 PO            | 120 PO         | 480 PO          |
+| +9                            | 3      | 30 PO            | 90 PO            | 120 PO         | 600 PO          |
+| +10                           | 5      | 50 PO            | 150 PO           | 200 PO         | 800 PO          |
+
+| Para chegar à Resistência (Escudos) | Pedras | Custo das Pedras | Taxa do Ferreiro | Preço do Passo | Total Acumulado |
+| ----------------------------------- | ------ | ---------------- | ---------------- | -------------- | --------------- |
+| +1                                  | 0      | 0                | 0                | 0              | 0               |
+| +2                                  | 1      | 10 PO            | 5 PO             | 15 PO          | 15 PO           |
+| +3                                  | 1      | 10 PO            | 5 PO             | 15 PO          | 30 PO           |
+| +4                                  | 1      | 10 PO            | 5 PO             | 15 PO          | 45 PO           |
+| +5                                  | 2      | 20 PO            | 10 PO            | 30 PO          | 75 PO           |
+| +6                                  | 2      | 20 PO            | 10 PO            | 30 PO          | 105 PO          |
+| +7                                  | 2      | 20 PO            | 10 PO            | 30 PO          | 135 PO          |
+| +8                                  | 3      | 30 PO            | 15 PO            | 45 PO          | 180 PO          |
+| +9                                  | 3      | 30 PO            | 15 PO            | 45 PO          | 225 PO          |
+| +10                                 | 5      | 50 PO            | 25 PO            | 75 PO          | 300 PO          |
 
 ### 3.2 Escalas de Armas e Armaduras
 
@@ -163,9 +212,27 @@ O preço das Escalas de Armadura será arredondado para cima.
 
 ### 3.2.1 Aprimorar ou Mudar Escalas
 
-As Pedras de Infusão existirão para trocar ou mudar as Escalas. Cada pedra terá uma função diferente.
+O preço de uma Pedra de Infusão comum (Pesada, Afiada, Mágica, Transcendente, Charmosa, Vital e Sábia) é de 50 PO. As Pedras Mundana, de Qualidade, Bruta, e Branca custam 100 PO. O preço para Infundir depende do grau que a Escala terá após a Infusão.
 
-Pendente: preço das pedras de infusão, e preço dos serviços do ferreiro.
+| Grau Resultante | Preço da Pedra de Infusão Comum | Preço de Pedras Exclusivas | Preço para Infundir | Preço Final Comum | Preço Final Exclusivas |
+| --------------- | ------------------------------- | -------------------------- | ------------------- | ----------------- | ---------------------- |
+| C               | 50 PO                           | 100 PO                     | 20 PO               | 70 PO             | 120 PO                 |
+| B               | 50 PO                           | 100 PO                     | 70 PO               | 120 PO            | 170 PO                 |
+| A               | 50 PO                           | 100 PO                     | 300 PO              | 350 PO            | 400 PO                 |
+| S               | 50 PO                           | 100 PO                     | 2400 PO             | 2450 PO           | 2500 PO                |
+
+| Tipo de Pedra     | Total da Escala D até a S |
+| ----------------- | ------------------------- |
+| Pedras Exclusivas | 3190                      |
+| Pedras            | 2990                      |
+
+Para remover as Infusões de um item com a Pedra Branca, o preço é de 100 PO.
+
+#### 3.2.1.1 Pedra Bruta
+
+| Arma (BD) | Armadura (CA) | Preço para Infundir |
+| --------- | ------------- | ------------------- |
+| +BP       | +NV/4         | 150 PO              |
 
 ## 4. Habilidades de Escudos
 

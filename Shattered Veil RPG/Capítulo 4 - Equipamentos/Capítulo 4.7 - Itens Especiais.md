@@ -22,67 +22,57 @@ Restaura completamente os PVs ou PMs (dependendo do tipo) quando consumida. Um e
 
 ## Semente Milagreira
 
-Pequena semente que, quando ingerida, diminui o custo de Magias sagradas em 2 pontos. Essa diminuição de custo atua somente nas três próximas Magias conjuradas por aquele que a ingeriu.
+Pequena semente que, quando ingerida, diminui o custo de Magias Sagradas em 2 PMs. Essa diminuição de custo atua somente nas três próximas Magias conjuradas por aquele que a ingeriu. Para ingerir a semente é necessária uma Ação Bônus.
 
-Dizem que, há muito tempo, essas raras sementes brotaram de árvores agora extintas. Devido às mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 500pl. Pesa apenas 0.1 kg.
+Dizem que, há muito tempo, essas raras sementes brotaram de árvores agora extintas. Devido às mudanças no ambiente, elas não conseguem mais florescer. São extremamente raras. Quando vendidas, o preço pode ultrapassar 500 PL. Pesa 0.
 
 ## Manto Mágico
 
 Capa que se usa por cima da roupa para proteção. Ela não aumenta a CA, mas possui escala em Sabedoria.
 
-| Armadura              | Preço | CA  | Requisitos     | Escalas        | Penalidades | Peso |
-| --------------------- | ----- | --- | -------------- | -------------- | ----------- | ---- |
-| Manto Mágico          | 120po | +0  | 2 de Sabedoria | A em Sabedoria | 0           | 1 kg |
-| Manto Mágico Especial | 300po | +0  | 5 de Sabedoria | S em Sabedoria | 0           | 1 kg |
+| Armadura              | Preço   | CA  | Requisitos     | Escalas        | Penalidades | Peso |
+| --------------------- | ------- | --- | -------------- | -------------- | ----------- | ---- |
+| Manto Mágico          | 448  PO | +0  | 2 de Sabedoria | A em Sabedoria | 0           | 0    |
+| Manto Mágico Especial | 2845 PO | +0  | 5 de Sabedoria | S em Sabedoria | 0           | 0    |
 
 ## Manto de Monge
 
 Capa que se usa por cima da roupa para proteção. Ela não aumenta a CA, mas possui Escala em Força e Destreza.
 
-| Armadura                | Preço | CA  | Requisitos             | Escalas                   | Penalidades | Peso |
-| ----------------------- | ----- | --- | ---------------------- | ------------------------- | ----------- | ---- |
-| Manto de Monge          | 200po | +0  | 2 de Força ou Destreza | A em Força, A em Destreza | 0           | 1 kg |
-| Manto de Monge Especial | 600po | +0  | 5 de Força ou Destreza | S em Força, S em Destreza | 0           | 1 kg |
+| Armadura                | Preço   | CA  | Requisitos             | Escalas                     | Penalidades | Peso |
+| ----------------------- | ------- | --- | ---------------------- | --------------------------- | ----------- | ---- |
+| Manto de Monge          | 448  PO | +0  | 2 de Força ou Destreza | A em Força ou A em Destreza | 0           | 1 kg |
+| Manto de Monge Especial | 2845 PO | +0  | 5 de Força ou Destreza | S em Força ou S em Destreza | 0           | 1 kg |
 
 ## Armadura de Adamantina
 
-Qualquer uma das Armaduras Pesadas pode ser feita de Adamantina, um mineral particularmente resiliente. Armaduras de Adamantina anulam o dano adicional de Acertos Críticos de quem te Atacar. Custam dez vezes o preço de sua contraparte comum.
+Qualquer uma das Armaduras com peso maior que 7 pode ser feita de Adamantina, um mineral particularmente resiliente. Armaduras de Adamantina anulam o dano adicional de Acertos Críticos de quem te Atacar. Custam cinco vezes o preço de sua contraparte comum.
 
-É possível que uma Armadura Mágica de qualquer Grau seja feita de Adamantina. Neste caso, permanecerá o maior Grau, e essa Armadura terá os efeitos da Armadura de Adamantina adicionados a ela.
+É possível que uma Armadura Especial de qualquer Grau seja feita de Adamantina. Neste caso, permanecerá o maior Grau, e essa Armadura terá os efeitos da Armadura de Adamantina adicionados a ela.
 
 ## Munição Melhorada
 
-Algumas Munições são particularmente mais poderosas devido ao seu processo de fabricação. Elas possuem um poder de perfuração maior. Cada uma delas melhora suas chances de perfurar a Armadura de um alvo. O preço é igual para flechas, virotes, ou balas. Uma Munição +1 pode, por exemplo, ser um virote +1.
+Algumas Munições são particularmente mais poderosas devido ao seu processo de fabricação. Elas possuem um poder de perfuração maior. Cada uma delas melhora suas chances de perfurar a Armadura de um alvo. O preço é igual para Flechas, Virotes, ou Balas. Uma Munição +1 pode, por exemplo, ser um Virote +1. O peso também é igual.
 
-| Munição        | Efeito                            | Preço | Peso   |
-| -------------- | --------------------------------- | ----- | ------ |
-| 10 Munições +1 | Adiciona +1 para acertar o Ataque | 5po   | 0.5 kg |
-| 10 Munições +2 | Adiciona +2 para acertar o Ataque | 15po  | 0.5 kg |
-| 10 Munições +3 | Adiciona +3 para acertar o Ataque | 35po  | 0.5 kg |
+| Munição        | Efeito   | Preço |
+| -------------- | -------- | ----- |
+| 10 Munições +1 | +1 no BA | 5 PO  |
+| 10 Munições +2 | +2 no BA | 10 PO |
+| 10 Munições +3 | +3 no BA | 15 PO |
 
 ## Itens Arremessáveis Melhorados
 
-Alguns Itens Arremessáveis são mais poderosos do que o normal. Eles custam dez vezes mais do que as versões comuns deles. Uma Bomba Incendiária Melhorada, por exemplo, custaria 6po ao invés de 6pp. Apenas Itens Arremessáveis que causem dano tem uma versão melhorada. O dano causado pelas versões melhoradas é o dobro das suas versões comuns.
+Alguns Itens Arremessáveis são mais poderosos do que o normal. Eles custam 10 PO a mais do que as versões comuns deles. Uma Bomba Incendiária Melhorada, por exemplo, custaria 16 PO ao invés de 6 PO. Apenas Itens Arremessáveis que causem dano tem uma versão melhorada. O Grau das versões melhoradas é aumentado em 2 em relação às versões comuns.
 
 ## Resinas Melhoradas
 
-As Resinas Melhoradas são versões superiores as Resinas comuns. Elas possuem efeitos melhores em relação às suas versões comuns.
-
-| Nome                                 | Funcionalidade                                                                                                                                                                                                                                                                         | Preço | Peso   |
-| ------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----- | ------ |
-| Resina de Pinho Ardente Melhorada    | Adiciona 4d8 de Dano de Fogo a uma Arma por 1 Encontro.                                                                                                                                                                                                                                | 10po  | 0.1 kg |
-| Resina de Pinho Congelante Melhorada | Adiciona 4d8 de Dano de Gelo a uma Arma por 1 Encontro.                                                                                                                                                                                                                                | 10po  | 0.1 kg |
-| Resina de Pinho Elétrico Melhorada   | Adiciona 4d8 de Dano de Raio a uma Arma por 1 Encontro.                                                                                                                                                                                                                                | 10po  | 0.1 kg |
-| Resina de Pinho Radiante Melhorada   | Adiciona 4d8 de Dano Sagrado a uma Arma por 1 Encontro.                                                                                                                                                                                                                                | 10po  | 0.1 kg |
-| Resina de Pinho Sombrio Melhorada    | Adiciona 4d8 de Dano Sombrio a uma Arma por 1 Encontro.                                                                                                                                                                                                                                | 10po  | 0.1 kg |
-| Resina de Pinho Puro Melhorada       | Adiciona 4d8 ao Dano Físico de uma Arma, caso ela cause algum tipo de Dano Físico, de acordo com o tipo de dano causado, por 1 Encontro.                                                                                                                                               | 10po  | 0.1 kg |
-| Resina Sangrenta Melhorada           | Ao acertar dois Ataques com uma arma com o efeito dessa resina, força o alvo a passar por uma Salvaguarda de Constituição CD 20 + seu Bônus de Proficiência. Se falhar, tem a Condição Sangrando 2. O Nível de Sangrando aumenta em 1 a cada dois Ataques adicionais. Dura 1 Encontro. | 20po  | 0.1 kg |
-| Resina Venenosa Melhorada            | Adiciona 3d6 de Dano Venenoso Contínuo a uma Arma, caso você acerte um Ataque com ela, e o alvo falhe numa Salvaguarda de Constituição CD 15 + seu Bônus de Proficiência. 1 Encontro.                                                                                                  | 20po  | 0.1 kg |
-| Resina de Escudo Melhorada           | Aumenta a Escala de um Escudo em 2 graus para um Atributo qualquer, à sua escolha, por 1 Encontro.                                                                                                                                                                                     | 10po  | 0.1 kg |
+As Resinas Melhoradas são versões superiores as Resinas comuns. Elas possuem efeitos melhores em relação às suas versões comuns. O Grau de dano de uma Resina Melhorada é aumentado em 2 em relação às versões comuns. Para a Resina de Escudo, a CA concedida aumenta em 2. O preço das Resinas de dano é aumentado em 10 PO em relação às versões comuns, e a de Escudo é aumentada em 40 PO.
 
 ## Arma Melhorada
 
-As Armas melhoradas são Armas comuns que tem mais chances de passar pela Armadura de um oponente. Elas são mais afiadas e letais. Elas vão de +1 até +3. Uma Arma +1 concede +1 para acertar o Ataque, uma Arma +2 concede +2, e uma Arma +3 concede +3. O preço de uma Arma +1 é duas vezes o preço de uma Arma comum, o de uma Arma +2 é três vezes, e o de uma Arma +3 é quatro vezes. O preço mínimo de uma Arma Melhorada qualquer é de 200po.
+As Armas melhoradas são Armas comuns que tem mais chances de passar pela Armadura de um oponente. Elas são mais afiadas e letais. Elas vão de +1 até +3. Uma Arma +1 concede +1 para acertar o Ataque, uma Arma +2 concede +2, e uma Arma +3 concede +3. O preço de uma Arma +1 é duas vezes o preço de uma Arma comum, o de uma Arma +2 é três vezes, e o de uma Arma +3 é quatro vezes. 
+
+O preço mínimo de uma Arma Melhorada +1 é 100 PO, +2 é 200 PO, e +3 é 300 PO.
 
 ## Armadura Melhorada
 
@@ -90,100 +80,90 @@ As Armaduras melhoradas são Armaduras comuns que tem mais proteção. Elas são
 
 ## Varinhas e Cajados Mágicos
 
-Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas particularmente úteis para Magos. As Escalas de Varinhas e Cajados tem bônus diferentes do que a de Armas comuns. 
+Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas particularmente úteis para Magos. As Escalas de Varinhas e Cajados tem bônus diferentes do que a de Armas comuns. O BA concedido normalmente por uma Escala só funciona para Magias conjuradas com a Varinha ou Cajado Mágico, assim como o BD adicional. O tipo do dano adicional é de um dos tipos capazes de serem causados pela Magia.
 
-| Escala | Nível 1    | Nível 3    | Nível 5                      | Nível 7                      | Nível 10                     |
-| ------ | ---------- | ---------- | ---------------------------- | ---------------------------- | ---------------------------- |
-| S      | +5 de Mana | +5 de Mana | +5 de dano em Magias de dano | +5 de dano em Magias de dano | +5 de cura em Magias de cura |
-| A      | +4 de Mana | +4 de Mana | +4 de dano em Magias de dano | +4 de dano em Magias de dano | +4 de cura em Magias de cura |
-| B      | +3 de Mana | +3 de Mana | +3 de dano em Magias de dano | +3 de dano em Magias de dano | +3 de cura em Magias de cura |
-| C      | +2 de Mana | +2 de Mana | +2 de dano em Magias de dano | +2 de dano em Magias de dano | +2 de cura em Magias de cura |
-| D      | +1 de Mana | +1 de Mana | +1 de dano em Magias de dano | +1 de dano em Magias de dano | +1 de cura em Magias de cura |
+Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Arcano, Vínculo, e Carisma. É possível equipar até dois ao mesmo tempo. Você também pode Atacar Corpo-a-Corpo com esses itens, dando bofetadas nos alvos. O Grau da tabela refere-se ao dano causado por esse Ataque.
 
-A Mana adicional é considerada Pontos de Mana Temporários, e você os recupera ao ter um Descanso Longo.
-
-Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Inteligência, Fé, e Carisma. É possível equipar até dois ao mesmo tempo, mesmo que você tenha mais do que duas mãos disponíveis de algum jeito, recebendo os efeitos de ambos ao conjurar uma Magia.
-
-| Varinha ou Cajado Mágico | Preço  | Dano | Requisitos                        | Escalas                           | Tipo  | Aumento de Alcance | Peso |
-| ------------------------ | ------ | ---- | --------------------------------- | --------------------------------- | ----- | ------------------ | ---- |
-| Simples                  | 10po   | -    | 2 de Inteligência, Carisma, ou Fé | D em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Arcana(o)                | 35po   | -    | 3 de Inteligência, Carisma, ou Fé | C em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Mística(o)               | 200po  | -    | 3 de Inteligência, Carisma, ou Fé | B em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Poderosa(o)              | 655po  | -    | 3 de Inteligência, Carisma, ou Fé | A em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
-| Suprema(o)               | 1250po | -    | 3 de Inteligência, Carisma, ou Fé | S em Inteligência, Carisma, ou Fé | Comum | 0                  | 1 kg |
+| Varinha ou Cajado Mágico | Preço   | Dano              | Requisitos                         | Escalas                           | Aumento de Alcance | Peso |
+| ------------------------ | ------- | ----------------- | ---------------------------------- | --------------------------------- | ------------------ | ---- |
+| Simples                  | 3 PO    | Grau 1 de Impacto | 1 de Inteligência, Carisma, ou Fé  | D em Inteligência, Carisma, ou Fé | 0                  | 1    |
+| Arcana(o)                | 20 PO   | Grau 1 de Impacto | 3 de Inteligência, Carisma, ou Fé  | C em Inteligência, Carisma, ou Fé | 0                  | 1    |
+| Mística(o)               | 75 PO   | Grau 1 de Impacto | 5 de Inteligência, Carisma, ou Fé  | B em Inteligência, Carisma, ou Fé | 0                  | 1    |
+| Poderosa(o)              | 300 PO  | Grau 1 de Impacto | 7 de Inteligência, Carisma, ou Fé  | A em Inteligência, Carisma, ou Fé | 0                  | 1    |
+| Suprema(o)               | 2500 PO | Grau 1 de Impacto | 10 de Inteligência, Carisma, ou Fé | S em Inteligência, Carisma, ou Fé | 0                  | 1    |
 
 É possível também que uma mesma Varinha ou Cajado Mágico possa ter Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Inteligência e B em Fé. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico".
 
-## Pergaminhos de Magias
+## Botas Silenciosas
 
-Um Pergaminho de Magia possui uma Magia guardada nele. Qualquer um pode conjurar aquela Magia sem gastar Mana, e sem atender aos requisitos. O preço de um é 200 vezes o custo da Magia em PO.
+Essas botas não emitem sons, e são como uma Armadura comum, não acrescentando ao peso da sua Armadura atual. Concedem +5 em Testes de Furtividade. Custam 350 PO.
+
+## Braceletes de Gladiador
+
+Concedem +4 na CA desde que não esteja usando Armadura ou Escudo. Custam 100 PO, e pesam uma unidade de Peso.
 
 # Grau 2
 
 ## Veneno do Sapo Dourado
 
-Toxina extremamente poderosa extraída de sapos raros que vivem em regiões tropicais. Funciona como um Veneno de contato, mas a CD para resistir é 22, e causa 12d6 de Dano Venenoso contínuo. O preço sugerido é entre 500pl e 1000pl. Quanto mais distante estiver de uma região tropical, mais caro o preço, se este veneno estiver disponível.
+Toxina extremamente poderosa extraída de sapos raros que vivem em regiões tropicais. Funciona como um Veneno de Contato, mas a CD para resistir é 20 + BP, e causa Grau 10 de Dano Venenoso Contínuo por 1 Encontro. O preço sugerido é entre 500 PO e 600 PO. Quanto mais distante estiver de uma região tropical, mais caro o preço, se este veneno estiver disponível.
 
 ## Cachimbo do Gnômio
 
-Famoso entre tribos de Gnomos, apenas os melhores manuseadores de ervas podem criá-lo. Aquele que tragar do Cachimbo do Gnômio ficará Imune a Exaustão, Encantamento e Dano Psíquico por uma semana. O custo varia entre 300pl e 350pl.
+Famoso entre tribos de Gnomos, apenas os melhores manuseadores de ervas podem criá-lo. Aquele que tragar do Cachimbo do Gnômio ficará Imune a Exaustão e Dano Psíquico por uma semana. O custo varia entre 300 PL e 350 PL.
 
 ## Anéis Mágicos
 
-Alguns anéis proporcionam efeitos diversos ao serem utilizados. Você pode ter um anel por dedo da mão.
+Alguns anéis proporcionam efeitos diversos ao serem utilizados. Você pode ter um anel por dedo da mão. Qualquer anel tem Peso 0.
 
-| Anel                               | Efeito                                                                                                                                                                       | Preço  | Peso   |
-| ---------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------ | ------ |
-| Anel da Vida                       | Você tem 5d8 Pontos de Vida Temporários ao usar esse anel, caso sua Constituição seja inferior a 5. Você recupera esses Pontos de Vida Temporários ao ter um Descanso Curto. | 300pl  | 0.1 kg |
-| Anel da Mana                       | Você tem 2d8 Pontos de Mana Temporários ao usar esse anel, caso sua Sabedoria seja inferior a 5. Você recupera esses Pontos de Mana Temporários ao ter um Descanso Curto.    | 1000pl | 0.1 kg |
-| Anel da Sobrecarga                 | Dobra sua Capacidade de Carga.                                                                                                                                               | 225pl  | 0.1 kg |
-| Anel da Soberania                  | Seu Bônus de Proficiência em Perícias de Carisma é dobrado                                                                                                                   | 325pl  | 0.1 kg |
-| Anel de Regeneração (Mana ou Vida) | Recupera quatro Pontos de Vida ou 1 de Mana ao final de cada um dos seus Turnos, a depender do anel.                                                                         | 800pl  | 0.1 kg |
+| Anel                               | Efeito                                                                                                                                                        | Preço                           |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Anel da Vida                       | Você tem Grau 10 de PVs Temporários ao usar esse anel, caso sua Constituição seja inferior a 5. Você recupera os PVs Temporários perdidos ao ter um Descanso. | 200                             |
+| Anel da Mana                       | Você tem Grau 10 PMs Temporários ao usar esse anel, caso sua Sabedoria seja inferior a 5. Você recupera os PMs Temporários gastos ao ter um Descanso Curto.   | 500                             |
+| Anel da Sobrecarga                 | Dobra sua Capacidade de Carga.                                                                                                                                | 15                              |
+| Anel da Soberania                  | Seu Bônus de Proficiência em Perícias de Carisma é dobrado                                                                                                    | 4                               |
+| Anel de Regeneração (Mana ou Vida) | Recupera Grau 1 de PVs ou PMs ao final de cada um dos seus Turnos, a depender do anel.                                                                    940 PO (Vida) e 2345 PO (Mana) da) e  |
+
+## Pergaminhos de Magias
+
+Um Pergaminho de Magia possui uma Magia guardada nele. Qualquer um pode conjurar aquela Magia sem gastar Mana, e sem atender aos requisitos. O preço de um é 100 vezes o custo final da Magia em PO, dependendo das modificações aplicadas a ela (Confira o Capítulo 6 - Magias).
 
 ## Escudo Animado
 
-Encantamento que pode ser colocado em qualquer Escudo. Com uma Ação Bônus você aciona o Escudo, fazendo com que ele flutue ao seu redor, liberando um espaço nas suas mãos para equipar outros itens. Todos os benefícios do Escudo permanecem ativos, e você pode continuar utilizando Habilidades que precisem de um Escudo normalmente. Custa 750pl.
-
-## Botas Silenciosas
-
-Essas botas não emitem sons, e são como uma Armadura comum, não acrescentando ao peso da sua Armadura atual. Concedem +5 em Testes de Furtividade. Custam 750pl.
-
-## Braceletes de Gladiador
-
-Concedem +4 na CA desde que não esteja usando Armadura ou Escudo. Custam 750pl, e pesam 0.2 kg.
+Encantamento que pode ser colocado em qualquer Escudo. Com uma Ação Bônus você aciona o Escudo, fazendo com que ele flutue ao seu redor, liberando um espaço nas suas mãos para equipar outros itens. Todos os benefícios do Escudo permanecem ativos, e você pode continuar utilizando Habilidades que precisem de um Escudo normalmente. Custa 750 PL.
 
 # Grau 3
 
 ## Espada da Luz do Luar
 
-Espada grande que emana uma luz verde-azulada. É composta em sua maior parte por uma energia mágica, mas possui uma lâmina por baixo de toda essa energia.
+Espada grande que emana uma luz verde-azulada. É composta em sua maior parte por uma energia mágica, mas possui uma lâmina por baixo de toda essa energia. Ela possui uma Habilidade única. Esse item não pode ser comprado, e deve ser uma recompensa de uma aventura épica.
 
-**Feixes de Luz** (Duas Ações): Todas as criaturas no alcance de 18m em cone terão que passar por um Teste de Resistência de Destreza CD 13 + Int para desviar do Ataque. Caso contrário, um feixe de luz que sai ao balançar a espada os atinge, causando 4d8 + Int de algum Dano Mágico que não seja Sombrio, à sua escolha.
+**Feixes de Luz** (Ativa | Custo em Ações: duas Ações): Todas as criaturas no alcance de 18 metros em cone terão que passar por uma Salvaguarda de Destreza CD 15 + Arc + BP para desviar do Ataque. Caso contrário, um feixe de luz que sai ao balançar a espada os atinge, causando Grau 10 + Arc de algum Dano Mágico que não seja Sombrio, à sua escolha.
 
-| Arma                  | Preço      | Dano                                                                  | Requisitos         | Escalas           | Tipo              | Aumento de Alcance | Peso   |
-| --------------------- | ---------- | --------------------------------------------------------------------- | ------------------ | ----------------- | ----------------- | ------------------ | ------ |
-| Espada da Luz do Luar | Indefinido | 6d8 + Inteligência de Dano Mágico (o tipo de dano fica à sua escolha) | 10 de Inteligência | S em Inteligência | Empunhadura Dupla | 0                  | 1.5 kg |
+| Arma                  | Preço      | Dano                                                                 | Requisitos   | Escalas     | Aumento de Alcance | Peso |
+| --------------------- | ---------- | -------------------------------------------------------------------- | ------------ | ----------- | ------------------ | ---- |
+| Espada da Luz do Luar | Indefinido | 3 Graus 10 (9d10) de Dano Mágico (o tipo de dano fica à sua escolha) | 10 de Arcano | S em Arcano | 0                  | 2    |
 
 ## Fissura
 
-Reza a lenda que quem possui essa espada lendária adquire o direito de se tornar rei de uma nação. Além de causar dano como qualquer outra arma, ela causa dano adicional a qualquer criatura que não seja uma das raças jogáveis. O dano adicional é Cortante, de 4d4.
+Reza a lenda que quem possui essa espada lendária adquire o direito de se tornar rei de uma nação. Além de causar dano como qualquer outra arma, ela causa dano adicional a qualquer criatura que não seja uma das raças jogáveis. O dano adicional é Cortante, de Grau 10. Não pode ser comprada, sendo um tesouro de valor inestimável.
 
-| Arma    | Preço      | Dano                                    | Requisitos                   | Escalas                   | Tipo  | Aumento de Alcance | Peso |
-| ------- | ---------- | --------------------------------------- | ---------------------------- | ------------------------- | ----- | ------------------ | ---- |
-| Fissura | Indefinido | 4d4 + Força + Destreza de Dano Cortante | 10 de Força e 10 de Destreza | S em Força, S em Destreza | Comum | 0                  | 2 kg |
+| Arma    | Preço      | Dano                     | Requisitos                   | Escalas                   | Aumento de Alcance | Peso |
+| ------- | ---------- | ------------------------ | ---------------------------- | ------------------------- | ------------------ | ---- |
+| Fissura | Indefinido | Grau 10 de Dano Cortante | 10 de Força e 10 de Destreza | S em Força, S em Destreza | 0                  | 5    |
 
 ## Armadura de Tetranita
 
 Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetranita é um mineral que contém as propriedades dos quatro elementos, das quatro estações, e dos quatro pontos cardiais. O material se pode moldar conforme a necessidade do usuário, e somente os melhores ferreiros conseguem manuseá-lo para tal.
 
-| Armadura              | Preço      | CA  | Requisitos | Escalas                                    | Penalidades | Efeitos Adicionais | Peso  |
-| --------------------- | ---------- | --- | ---------- | ------------------------------------------ | ----------- | ------------------ | ----- |
-| Armadura de Tetranita | Indefinido | +8  | -          | S em dois Atributos, à escolha do ferreiro | -           | -                  | 20 kg |
+| Armadura              | Preço      | CA  | Requisitos | Escalas                                    | Penalidades | Efeitos Adicionais | Peso |
+| --------------------- | ---------- | --- | ---------- | ------------------------------------------ | ----------- | ------------------ | ---- |
+| Armadura de Tetranita | Indefinido | +10 | -          | S em dois Atributos, à escolha do ferreiro | -           | -                  | 20   |
 
 ## Capa dos Ventos
 
-Essa capa controla os espíritos do vento ao redor, utilizando-os ao seu favor. Ao equipar, você precisará entrar em contato com os espíritos, que fará necessário que você tenha um Descanso Longo com ela vestida, a Capa dos Ventos terá efeito. Enquanto não fizer isso, ela serve apenas como peso extra. Uma vez sintonizado com os espíritos do vento, não precisará repetir o processo caso retire a capa e a vista de novo.
+Essa capa controla os espíritos do vento ao redor, utilizando-os ao seu favor. Ao equipar, você precisará entrar em contato com os espíritos, que fará necessário que você tenha um Descanso Longo com ela vestida. Enquanto não fizer isso, ela serve apenas como peso extra. Uma vez sintonizado com os espíritos do vento, não precisará repetir o processo caso retire a capa e a vista de novo.
 
-| Armadura        | Preço  | CA  | Requisitos | Escalas       | Penalidades | Efeitos Adicionais                                                                                                                                                                                                                                                                                       | Peso |
-| --------------- | ------ | --- | ---------- | ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Capa dos Ventos | 5000pl | +1  | -          | S em Destreza | -           | Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica, a partir daí começará a contar para seu Deslocamento. | 1 kg |
+| Armadura        | Preço   | CA  | Requisitos     | Escalas       | Penalidades | Efeitos Adicionais                                                                                                                                                                                                                                                                                       | Peso |
+| --------------- | ------- | --- | -------------- | ------------- | ----------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Capa dos Ventos | 5000 PL | +5  | 10 de Destreza | S em Destreza | -           | Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica, a partir daí começará a contar para seu Deslocamento. | 1    |
