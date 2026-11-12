@@ -1,4 +1,3 @@
-
 Alguns itens são particularmente únicos e raros, ou possuem propriedades mágicas intrínsecas. Este espaço é reservado para detalhar tais itens. Os Itens Especiais podem ir de Grau 1 até o Grau 3. Quanto maior o Grau, mais poderosos são.
 
 # Grau 1

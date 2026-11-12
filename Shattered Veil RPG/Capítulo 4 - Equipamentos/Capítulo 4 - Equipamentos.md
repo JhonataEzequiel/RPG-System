@@ -6,9 +6,9 @@ O valor que mede o quanto você pode carregar é chamado de Capacidade de Carga.
 
 A Capacidade de Carga é dada por:
 
-**Capacidade de Carga = 10 + For × NV**
+**Capacidade de Carga = 10 + For × BP**
 
-Onde For é o seu Modificador de Força e NV é o seu Nível atual. Um Modificador de Força negativo é contado como 0. O cálculo sempre usa o Modificador e o Nível que você possui no momento.
+Onde For é o seu Modificador de Força. Um Modificador de Força negativo é contado como 0. O cálculo sempre usa o Modificador e o BP que você possui no momento.
 
 ### Sobrecarga
 
