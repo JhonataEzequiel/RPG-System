@@ -18,7 +18,7 @@ Bijuteria qualquer, como um anel ou colar, que possui em sua confecção ou ador
 
 ## Poção de Restauração Completa
 
-Restaura completamente os Pontos de Vida ou Mana (dependendo do tipo) quando consumida. Um exemplar custa cerca de 100pl. Tem o mesmo peso de uma Poção normal.
+Restaura completamente os PVs ou PMs (dependendo do tipo) quando consumida. Um exemplar custa cerca de 100 PL. Tem o mesmo peso de uma Poção normal.
 
 ## Semente Milagreira
 
