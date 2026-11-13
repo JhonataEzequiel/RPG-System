@@ -12,8 +12,6 @@ A dificuldade de um Teste de Perícia deve variar de acordo com o que o jogador 
 |Difícil|16-19|
 |Muito Difícil|20+|
 
-Um PDJ pode ajudar outro em um Teste de Perícia, desde que ambos não estejam ocupados com outras coisas. Quem recebe a ajuda é quem rola o Teste e o faz com Vantagem. A cada ajudante adicional, o BA do Teste aumenta em 1.
-
 Segue uma lista com todas as Perícias e a qual Atributo estão atreladas:
 
 ## Sabedoria
