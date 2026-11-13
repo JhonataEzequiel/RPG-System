@@ -88,4 +88,4 @@ A CD padrão de uma Salvaguarda causada por você é dada pela seguinte fórmula
 
 **CD = 8 + BP + Modificador de um Atributo**
 
-O Modificador é específico do efeito. Para Magias e Habilidades, o Modificador utilizado será um dos presentes como requisitos. Caso uma Habilidade não possua requisitos e ainda sim possa causar uma Salvaguarda, o Modificador utilizado ficará à sua escolha.
+O Modificador é específico do efeito. Para Magias e Habilidades, o Modificador utilizado será um dos presentes como requisitos, à sua escolha. Caso uma Habilidade não possua requisitos e ainda sim possa causar uma Salvaguarda, o Modificador utilizado ficará à sua escolha entre qualquer um dos sete Atributos.

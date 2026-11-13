@@ -4,6 +4,8 @@ Uma vez iniciado, você poderá conjurar qualquer Magia que conheça do Capítul
 
 Dentre todas as possibilidades que as Magias oferecem, vale destacar duas importantes: Magias de Dano e Magias de Cura. As Magias de Dano são todas aquelas que causam dano de maneira direta ou indireta. As Magias de Cura são análogas, mas causam uma instância de cura. Uma Magia que cause Dano Contínuo também é considerada uma Magia de Dano. De maneira análoga, uma Magia que cause Regeneração é considerada uma Magia de Cura.
 
+Sem PMs suficientes você não poderá conjurar Magias.
+
 ## Categorias de Magias
 
 Existem seis categorias diferentes de Magias: Elementais, Ilusórias, Imaculadas, Sagradas, Sanguíneas e Sombrias. Cada categoria tem requisitos de Atributo diferentes.
@@ -16,8 +18,6 @@ Existem seis categorias diferentes de Magias: Elementais, Ilusórias, Imaculadas
 |Sagradas|Vínculo ou Carisma|
 |Sanguíneas|Arcano e Vínculo|
 |Sombrias|Arcano e Vínculo|
-
-Confira o Capítulo 1.5 - Interações Com o Mundo. Lá você verá a regra para a dificuldade da CD de suas Magias.
 
 ### Elementais
 
@@ -57,6 +57,22 @@ Além dos requisitos e da categoria, cada Magia terá propriedades distintas que
 - **Tempo de Conjuração**: pode ser Ação Livre, Ação Bônus, uma quantidade específica de Ações, Reação ou alguns minutos.
 - **Descrição**: o que a Magia faz e quais modificações exclusivas são possíveis, além de seus custos, se a Magia as tiver.
 
+## Ataques Mágicos, Salvaguardas, e Curas
+
+O BA de Ataques Mágicos segue a seguinte fórmula:
+
+**BA = BP + Vin ou Arc ou Car (a depender da categoria de Magia) + Sab + outros**
+
+O Modificador escolhido deverá ser um dos tipos cuja a categoria de Magia tem como requisitos. O BD será calculado de acordo com a seguinte fórmula:
+
+**BD = Vin ou Arc ou Car + Sab + Outros**
+
+Semelhante ao BA, escolha um dos Modificadores que servem como requisito para a categoria da Magia que você conjurou.
+
+As Salvaguardas seguem a regra do Capítulo 1.5 - Interações Com o Mundo. São semelhantes ao BA e BD, permitindo que escolha um Modificador de acordo com a categoria de Magia.
+
+Os efeitos de cura recebem um bônus análogo ao BD, chamado de Bônus de Cura (BC). Ao curar alguém, você irá somar o BC a quantidade de PVs restaurados. O cálculo do BC é idêntico ao do BD.
+
 ## Metamagia
 
 Uma vez que atenda aos requisitos necessários para se tornar um conjurador de uma Magia específica, você poderá alterá-la de diversas formas. Você terá quatro tipos de modificações: as básicas, as médias, as avançadas e as exclusivas. As básicas custam 1 PM adicional; as médias, 2 PMs; as avançadas, 3 PMs. Algumas dessas três são impossíveis de serem aplicadas a algumas Magias. Por exemplo, não se pode aumentar o Grau de cura de uma Magia que só causa dano. Essas três são genéricas, podendo ser aplicadas a qualquer Magia elegível. As exclusivas dependerão da Magia em si e estarão listadas na descrição dela, caso ela as possua.
@@ -64,6 +80,8 @@ Uma vez que atenda aos requisitos necessários para se tornar um conjurador de u
 O custo inicial de uma Magia é o custo que ela tem sem nenhuma Metamagia aplicada, seja ela genérica ou exclusiva. O custo final de uma Magia é definido como o valor final de PMs a ser gasto uma vez que todas as Metamagias desejadas forem aplicadas.
 
 A Metamagia é uma alteração direta nas características básicas da Mana necessária para conjurar uma Magia. Algumas criaturas conseguem impedir modificações em demasia devido ao poder massivo que possuem, e a maneira com que interagem com a Mana. Em Encontros com Criaturas Lendárias (confira o Capítulo 7.3 - Criaturas), você só poderá aplicar até 5 efeitos metamágicos (Metamagias) em uma mesma Magia. Não há limites para outros Encontros.
+
+Sem PMs suficientes é impossível aplicar qualquer efeito metamágico.
 
 ### Metamagia Básica
 
