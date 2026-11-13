@@ -6,9 +6,9 @@ O valor que mede o quanto você pode carregar é chamado de Capacidade de Carga.
 
 A Capacidade de Carga é dada por:
 
-**Capacidade de Carga = 10 + For × BP**
+**Capacidade de Carga = 10 + For × NV**
 
-Onde For é o seu Modificador de Força. Um Modificador de Força negativo é contado como 0. O cálculo sempre usa o Modificador e o BP que você possui no momento.
+Onde For é o seu Modificador de Força e NV é o seu Nível atual. Um Modificador de Força negativo é contado como 0. O cálculo sempre usa o Modificador e o Nível que você possui no momento.
 
 ### Sobrecarga
 
@@ -43,9 +43,13 @@ Moedas ditam a economia do jogo e servem como tesouro básico. Preços variam po
 
 Como regra geral, 100 moedas de qualquer tipo pesam 1 unidade de Peso. Seu Mestre pode optar por não contabilizar as moedas para o cálculo da Capacidade de Carga, ou considerar um número alto, como 1000 moedas no total, como sendo o máximo que um aventureiro pode carregar ao mesmo tempo.
 
+## Grimórios
+
+Um Grimório aumenta a quantidade de Magias que você pode conhecer. Você passa uma Magia conhecida para um Grimório, que fica guardada nele, liberando espaço na sua mente para aprender uma nova. Confira o Capítulo 4.4 - Grimórios.
+
 ## Itens Consumíveis
 
-Alguns itens são consumíveis e podem ser utilizados apenas uma vez cada. Poções, Venenos, Resinas, Itens Arremessáveis, dentre outros, são considerados Itens Consumíveis. As regras de Itens Consumíveis estarão no Capítulo 4.5 - Itens Consumíveis.
+Alguns itens são consumíveis e podem ser utilizados apenas uma vez cada. Poções, Venenos, Resinas, Itens Arremessáveis, dentre outros, são considerados Itens Consumíveis. As regras de Itens Consumíveis estão no Capítulo 4.5 - Itens Consumíveis.
 
 ### Itens Arremessáveis
 
@@ -55,8 +59,12 @@ Cada Item Arremessável possui regras próprias, como dano, alcance e efeitos, d
 
 ## Aprimoramento de Equipamentos
 
-É possível evoluir e modificar Armas, Armaduras e Escudos. Tais itens são refinados por um ferreiro ou encontrados já refinados como tesouro durante as suas aventuras. As modificações são feitas nas Escalas, alterando-as, assim como os Atributos referentes a elas. Também é possível mudar algumas outras propriedades do item. Para mais detalhes, consulte o Capítulo 4.6 - Aprimoramento e Infusões.
+É possível evoluir e modificar Armas, Armaduras e Escudos. Tais itens são refinados por um ferreiro ou encontrados já refinados como tesouro durante as suas aventuras. Algumas modificações são feitas nas Escalas, alterando-as, assim como os Atributos referentes a elas. Outras são feitas melhorando aspectos básicos dos itens, como a CA das Armaduras. Também é possível mudar algumas outras propriedades do item. Para mais detalhes, consulte o Capítulo 4.6 - Aprimoramento e Infusões.
 
 ## Itens Especiais
 
 Por último, existem os Itens Especiais. Trata-se de itens cujo poder e raridade são maiores que os de itens comuns. Podem ser frutos de magos poderosos ou de ferreiros e alquimistas de grande prestígio. Contêm efeitos únicos. Neste Guia do Jogador, apenas uma pequena quantidade de Itens Especiais está disponível. O Guia do Mestre conterá mais itens. A lista deste guia está no Capítulo 4.7 - Itens Especiais.
+
+## Outros Itens
+
+Demais itens que possam ter alguma utilidade mas que são considerados menos importantes estão no Capítulo 4.8 - Outros Itens.

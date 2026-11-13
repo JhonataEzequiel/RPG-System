@@ -18,15 +18,15 @@ As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Segue a tabela
 
 ## Roupas
 
-Vestimentas normais não são consideradas Armaduras, não concedem CA nem têm peso. Você pode se vestir como quiser sem isso ter impacto mecânico, mas algumas Roupas especiais possuem efeitos adicionais, listadas na tabela a seguir. Qualquer Roupa com efeito adicional impede o uso de Armaduras enquanto você a estiver vestindo. Não há como ser Proficiente no uso de Roupas, mas as que tiverem Escalas recebem seus bônus normalmente.
+Vestimentas normais não são consideradas Armaduras, não concedem CA base (Escalas ainda contam) nem têm peso. Você pode se vestir como quiser sem isso ter impacto mecânico, mas algumas Roupas especiais possuem efeitos adicionais, listadas na tabela a seguir. Qualquer Roupa com efeito adicional impede o uso de Armaduras enquanto você a estiver vestindo. Isso inclui Roupas que possuem Escalas ou Efeitos Adicionais. Não há como ser Proficiente no uso de Roupas, mas as que tiverem Escalas recebem seus bônus normalmente.
 
-|Armadura|Preço|CA|Escalas|Requisitos|Penalidades|Efeitos Adicionais|Peso|
-|---|---|---|---|---|---|---|---|
-|Roupa Comum|1 PC|+0|-|-|-|-|0|
-|Túnica de Monge|9 PO|+0|D em Sabedoria|1 de Força|-|O dano de Ataques Desarmados aumenta em 1 Grau|0|
-|Túnica de Mago|18 PO|+0|D em Arcano|1 de Arcano|-|Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso.|0|
-|Vestimenta de Bardo|18 PO|+0|D em Carisma|1 de Carisma|-|Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso.||
-|Manto Clerical|18 PO|+0|D em Vínculo|1 de Vínculo|-|Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso.||
+| Armadura            | Preço | CA  | Escalas        | Requisitos     | Penalidades | Efeitos Adicionais                                                                                                 | Peso |
+| ------------------- | ----- | --- | -------------- | -------------- | ----------- | ------------------------------------------------------------------------------------------------------------------ | ---- |
+| Roupa Comum         | 1 PC  | +0  | -              | -              | -           | -                                                                                                                  | 0    |
+| Túnica de Monge     | 9 PO  | +0  | D em Sabedoria | 1 de Sabedoria | -           | O dano de Ataques Desarmados aumenta em 1 Grau                                                                     | 0    |
+| Túnica de Mago      | 18 PO | +0  | D em Arcano    | 1 de Arcano    | -           | Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso. | 0    |
+| Vestimenta de Bardo | 18 PO | +0  | D em Carisma   | 1 de Carisma   | -           | Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso. | 0    |
+| Manto Clerical      | 18 PO | +0  | D em Vínculo   | 1 de Vínculo   | -           | Grau 1 de PMs Temporários. Você os obtém ao finalizar um Descanso, e os perde ao gastá-los ou iniciar um Descanso. | 0    |
 
 ## Lista de Armaduras
 

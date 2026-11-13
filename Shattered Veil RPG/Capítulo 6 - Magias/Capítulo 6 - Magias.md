@@ -1,38 +1,27 @@
+A capacidade de manipular a realidade através da força mental é chamada de Magia. Alguém capaz de conjurar uma Magia deve atender a certos requisitos, sendo o principal deles a sua iniciação. No Capítulo 2 - Criação de Personagens é detalhada a forma de se iniciar.
 
-Existem Magias e Arcanos Menores. Arcanos Menores não gastam Mana, já Magias, gastam. Cada Magia tem Requisitos especificados, podendo ser de Inteligência, Fé, ou Carisma. A quantidade de Mana gasta é igual a seu requisito, caso o requisito seja único. Se a Magia pedir mais de um Atributo para ser conjurada, o custo será a média dos requisitos arredondada para cima.
+Uma vez iniciado, você poderá conjurar qualquer Magia do Capítulo 6.1 - Lista de Magias, mas apenas caso tenha PMs o suficiente, e atenda aos requisitos individuais de cada Magia. As Magias serão separadas de acordo com seus requisitos, que podem ser em Arcano, Vínculo, ou Carisma. Caso uma Magia tiver mais de um requisito, ela estará localizada na parte que representar a média dos requisitos arredondada para cima. Por exemplo, se uma Magia requer 3 de Arcano e 2 de Vínculo, ela estará localizada juntamente às outras Magias de requisito 3. As Magias também serão separadas em seis categorias diferentes, explicadas mais à frente.
 
-Uma Magia pode mostrar vários requisitos, mas requerer apenas um. Neste caso, o conectivo "ou" será utilizado para denotar que apenas um dos requisitos será necessário. Exemplo: "5 de Inteligência, Fé, ou Carisma".
+Dentre todas as possibilidades que Magias oferecem, vale destacar duas importantes: Magias de Dano, e Magias de Cura. As Magias de Dano são todas aquelas que causam dano de maneira direta ou indireta. As Magias de Cura são análogas, mas causam uma instância de cura. Uma Magia que cause Dano Contínuo também é considerada uma Magia de Dano, de maneira análoga, uma Magia que cause Regeneração é considerada uma Magia de Cura.
 
-Magias com alcance "Toque" podem ser utilizadas tanto em você, quanto em alvos adjacentes. Basta que você toque em si mesmo e conjure a Magia. Algumas Magias também terão um alcance igual ao seu Deslocamento. Neste caso, estará especificado no alcance apenas como "Deslocamento" ou algo como "9m + Deslocamento", caso o alcance for um pouco maior. Outrossim, algumas Magias podem afetar uma área específica, como uma área circular. Caso você esteja nessa área, você também será afetado por padrão. Por fim, você também pode se acertar com Magias de alvo único, se assim desejar.
+## Metamagia
 
-As Magias podem ter como tempo necessário para conjurar tanto uma quantidade de Ações (mais comum), quanto uma unidade de tempo específica, sejam minutos, horas, ou algo similar. Elas também podem ser de Concentração, o que significa que ficarão ativas enquanto você quiser mantê-las, ou até alguém quebrar a sua Concentração. A quebra de Concentração pode ocorrer caso você sofra uma quantidade de dano igual ou maior do que metade dos seus Pontos de Vida Atuais, ou alguém te force a passar em uma Salvaguarda qualquer e você falhe. Se qualquer processo de conjuração for interrompido antes da hora, você gastará os Pontos de Mana normalmente.
+Uma vez que atenda aos requisitos necessários para se tornar um conjurador de uma Magia em específico, você poderá alterá-la de diversas formas. Você terá quatro tipos de modificações, as básicas, medianas, avançadas, e exclusivas. As básicas custam 1 PM adicional; as médias, 2 PMs; as avançadas, 3 PMs. As exclusivas dependerão da Magia em si, e estarão listadas abaixo da Magia, caso ela possua.
 
-Para conjurar uma Magia não é necessário estar com as mãos livres, bastando que você faça algum gesto ou fale uma palavra mágica para servir como gatilho para a conjuração.
+### Metamagia Básica
 
-Caso não seja especificado, a quantidade máxima de vezes que uma Magia pode ter o seu poder aumentado através de pontos adicionais de Mana será de 5 vezes.
+- **Aumento de Grau**: você aumenta o Grau de dano ou de cura de uma Magia.
+- **Aumento de BD**: você adiciona +2 ao BD de uma Magia.
+- **Aumento de Alcance de Ataques Mágicos**: você adiciona +1,5 metros de alcance aos seus Ataques Mágicos. Caso seja um Ataque Corpo-a-Corpo, ele se torna à Distância com 1,5 metros de alcance.
+- **Aumento de Área**: você aumenta a área de efeito de uma Magia com algum efeito em área em 1,5 metros.
+- **Aumento de Dano Contínuo**: você adiciona +1 ao Dano Contínuo de uma Magia que cause Dano Contínuo.
 
-## Categorias de Magias
+### Metamagia Média
 
-### Elementais
+- **Aumento direto de Cura**: você adiciona +2 de cura à uma Magia.
+- **Aumento de Regeneração**: você adiciona +1 à Regeneração de uma Magia que cause Regeneração.
 
-Magias Elementais controlam os mais diferentes elementos da natureza, e normalmente são Magias de ataque. É possível também que existam algumas Magias de suporte ou controle de grupo. Geralmente tem como Requisito apenas Inteligência, mas podem existir exceções.
+### Metamagia Avançada
 
-### Ilusão
-
-Magias de Ilusão afetam a mente de um ou mais alvos. Os efeitos são diversos, desde fazer um alvo alucinar, até fazer com que múltiplos alvos vejam algo que não está de fato lá. Pode causar dano psíquico e debilitar inimigos de maneiras diversas. Os Requisitos podem variar entre Inteligência, ou Carisma, dependendo da Magia.
-
-### Imaculadas
-
-Magias Imaculadas são as com mais variações em seus efeitos. Num geral, não tem um tema em específico. Podem ter como Requisitos qualquer um dos atributos entre Inteligência, Carisma, e Fé, e qualquer combinação entre eles.
-
-### Sagradas
-
-Magias Sagradas são representações de partes superiores da realidade, normalmente derivando de poderes divinos ou da natureza. Variam entre Magias de suporte, ataque, controle de grupo, e outros elementos diversos. Na grande maioria das vezes tem como requisito ou Fé ou Carisma.
-
-### Sangue
-
-Magias de Sangue utilizam ou do seu sangue, ou do sangue de algum alvo, ou das duas coisas para ter efeitos diversos, variando de Magias de ataque, controle de grupo, ou de suporte. Tem como Requisitos tanto Fé quanto Inteligência. Caso você tenha Pontos de Vida Temporários eles não poderão ser usados para conjurar Magias de Sangue, apenas os seus Pontos de Vida normais. No entanto, você não perderá os Pontos de Vida Temporários quando conjurar uma Magia de Sangue.
-
-### Sortilégios
-
-Sortilégios representam a parte obscura da realidade, sendo caracterizadas principalmente pelo oculto. Magias de ataque causam Dano de Sortilégio, e as vezes outros tipos de dano, como Dano Ácido ou Venenoso. As demais tem efeitos únicos, variando bastante. Tem como Requisitos tanto Inteligência quanto Fé.
+- **Aumento de CA**: você adiciona +1 de CA à Magias que concedem CA.
+- **Aumento de BA**: você adiciona +1 de BA à Magias que concedem BA.

@@ -4,7 +4,7 @@ Escudos também possuem requisitos. Ao não atender aos requisitos de um Escudo,
 
 ## Habilidades Padrão dos Escudos
 
-**Aparar** (Ativa | Custo de Ações: Reação | Limite de Usos: uma vez por Encontro): ao sofrer um Ataque você aplica uma penalidade nele. Você pode efetuar essa Reação depois de já saber o resultado do Teste de Ataque, mas deve efetuá-la antes de saber o dano. A penalidade colocada é de -3. Ao melhorar seu Escudo, a quantidade de vezes que se pode Aparar por Encontro aumenta. Essa quantidade é metade do patamar do Escudo, ou seja, um Escudo +4 pode Aparar 3 vezes, uma por padrão, e duas pelas melhorias.
+**Aparar** (Ativa | Custo de Ações: Reação | Limite de Usos: uma vez por Encontro): ao sofrer um Ataque você aplica uma penalidade nele. Você pode efetuar essa Reação depois de já saber o resultado do Teste de Ataque, mas deve efetuá-la antes de saber o dano. A penalidade colocada é de -3. Ao melhorar seu Escudo, a quantidade de vezes que se pode Aparar por Encontro aumenta. Essa quantidade é 1 + metade do patamar do Escudo, ou seja, um Escudo +4 pode Aparar 3 vezes, uma por padrão, e duas pelas melhorias.
 
 **Golpe de Escudo** (Ativa | Custo de Ações: uma Ação | Limite de Usos: uma vez por alvo): você golpeia um alvo adjacente. Ele é forçado a passar por uma Salvaguarda de Força CD 8 + BP + For ou Des. Em caso de falha, ele tem -3 no BA para acertar Ataques até o fim do Turno dele e sofre Grau 3 + For ou Des de Dano de Impacto. O Grau de dano aumenta em 1 para cada patamar do Escudo, até um limite de +5 (ou seja, Grau 8 com um Escudo +5).
 

@@ -34,7 +34,7 @@ Uma Magia é um desdobramento da realidade causado pela mente do usuário. Um us
 
 Um Ataque é definido como uma tentativa de uma criatura de acertar um alvo único e causar dano. Essa tentativa requer um Teste, e cada Ataque custa uma Ação.
 
-## Coeficiente de Armadura (CA)
+## Classe de Armadura (CA)
 
 Valor que define a CD do Teste necessário para que um Ataque acerte. A CA é calculada através de uma soma básica de diversos elementos. O valor base de uma CA é 10. Após isso, acrescenta-se o seu Bônus de Proficiência, caso esteja usando uma Armadura na qual seja Proficiente, os valores concedidos pelas Escalas da Armadura (confira o Capítulo 4.1 - Armaduras) e outras fontes, como efeitos temporários e outros equipamentos. A fórmula é a seguinte:
 

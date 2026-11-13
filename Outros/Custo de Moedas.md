@@ -1,4 +1,4 @@
-Este documento calcula, em moedas, quanto valem os efeitos de Armas, Armaduras, Escudos, e outros itens.
+Este documento calcula, em moedas, quanto valem os efeitos de Armas, Armaduras, Escudos, e outros itens. O principal intuito dele não é providenciar um balanceamento 100% correto, sempre sendo seguido à risca, mas sim uma ideia de como cada efeito contribui para o todo.
 
 **Arredondamento dos Preços (Regra de Ouro)**: Ao finalizar o cálculo dos preços, é prudente arredondar o resultado. Caso o preço seja menor que 1 PO, ponha-o em PP e PC. Por exemplo, 9 PP 3 PC. Caso o preço seja maior ou igual a 1 PO e menor que 99 PO, utilize apenas PO. Caso o preço seja maior ou igual a 100 PO, coloque em PL e PO. Por exemplo, 205 PO viram 20 PL 5 PO. Por fim, sempre arredonde baseando-se na matemática básica, não na regra de arredondamento do Cap.1.
 
@@ -55,6 +55,8 @@ Quanto maior o Peso, menor o custo. Cada unidade de Peso reduz o valor do item e
 | +1,5 m de alcance de Ataque à distância (até 9 m é gratuito para Armas à Distância, e depois de 48 m também é gratuito) | 1 PO   | O preço parece justo, no geral                                                                                                                                 |
 | +1,5 m de Deslocamento                                                                                                  | 250 PO | Preço linear                                                                                                                                                   |
 | +1 em um Teste de Perícia                                                                                               | 16 PO  | Preço cúbico com início em 2, ou seja, o X inicial é 2, que é elevado ao cubo. Para cada +1, aumenta-se o X em 1. Por exemplo, +2 seria 3 ao cubo que é 27 PO. |
+| 1 de Regeneração de PV                                                                                                  | 375 PO | mesmo preço de um efeito desses que dure mais de uma hora                                                                                                      |
+| 1 de Regeneração de PM                                                                                                  | 938 PO | 2.5x regeneração de PV                                                                                                                                         |
 
 ### 2.2 Efeitos Instantâneos
 
@@ -66,25 +68,23 @@ Efeitos que duram apenas um instante, por exemplo, no momento em que se consome 
 | 1 PM restaurado                            | 5 PO      | Mana tem mais implicações do que apenas 1 PV              |
 | 1 de Dano causado (alvo único)             | 1 PO      | Preço base                                                |
 | 1 de Dano causado (por 1,5 metros de área) | 1 PO 5 PP | 1,5x o dano em alvo único                                 |
-| 1 de Regeneração de PV                     | 375 PO    | mesmo preço de um efeito desses que dure mais de uma hora |
-| 1 de Regeneração de PM                     | 938 PO    | 2.5x regeneração de PV                                    |
 | 1 de PV  Temporário                        | 188 PO    | mesmo preço de um efeito desses que dure mais de uma hora |
 | 1 de PM  Temporário                        | 470 PO    | 2.5x PV Temporário                                        |
 
 Caso um item conceda graus de cura, dano, ou restauração de PMs:
 
-|Grau|Média|Preço de Cura|Preço de Dano|Preço de PMs restaurados|
-|---|---|---|---|---|
-|1|2,5|5 PO|2 PO 5 PP|12 PO 5 PP|
-|2|3,5|7 PO|3 PO 5 PP|17 PO 5 PP|
-|3|4,5|9 PO|4 PO 5 PP|22 PO 5 PP|
-|4|5,5|11 PO|5 PO 5 PP|27 PO 5 PP|
-|5|6,5|13 PO|6 PO 5 PP|32 PO 5 PP|
-|6|7,0|14 PO|7 PO|35 PO|
-|7|9,0|18 PO|9 PO|45 PO|
-|8|11,0|22 PO|11 PO|55 PO|
-|9|13,0|26 PO|13 PO|65 PO|
-|10|16,5|33 PO|16 PO 5 PP|82 PO 5 PP|
+| Grau | Média | Preço de Cura | Preço de Dano | Preço de PMs restaurados |
+| ---- | ----- | ------------- | ------------- | ------------------------ |
+| 1    | 2,5   | 5 PO          | 2 PO 5 PP     | 12 PO 5 PP               |
+| 2    | 3,5   | 7 PO          | 3 PO 5 PP     | 17 PO 5 PP               |
+| 3    | 4,5   | 9 PO          | 4 PO 5 PP     | 22 PO 5 PP               |
+| 4    | 5,5   | 11 PO         | 5 PO 5 PP     | 27 PO 5 PP               |
+| 5    | 6,5   | 13 PO         | 6 PO 5 PP     | 32 PO 5 PP               |
+| 6    | 7,0   | 14 PO         | 7 PO          | 35 PO                    |
+| 7    | 9,0   | 18 PO         | 9 PO          | 45 PO                    |
+| 8    | 11,0  | 22 PO         | 11 PO         | 55 PO                    |
+| 9    | 13,0  | 26 PO         | 13 PO         | 65 PO                    |
+| 10   | 16,5  | 33 PO         | 16 PO 5 PP    | 82 PO 5 PP               |
 
 Aumentar em 1,5 m o raio da Área dos danos em área causados por um item multiplica o preço base por 1,5. Por exemplo: 3 metros de raio seria 1,5x o preço de 1,5 metros (2,25x o preço do alvo único), e 4,5 metros seria 2,25x o preço de 1,5 metros (3,375x o do alvo único). Para precificar um dano em área, multiplique o Preço de Dano da tabela acima por esse fator. Itens arremessados que causam dano em área exigem uma Salvaguarda de Destreza em vez de um Ataque, então os descontos de Ação e de Salvaguarda se aplicam a eles.
 

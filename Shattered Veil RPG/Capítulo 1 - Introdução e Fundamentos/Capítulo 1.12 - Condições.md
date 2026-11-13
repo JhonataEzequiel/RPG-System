@@ -71,4 +71,4 @@ Você é transformado, juntamente com qualquer objeto que esteja vestindo ou car
 
 Você está Incapacitado. Você tem Resistência 20 a todos os tipos de dano, exceto Dano de Impacto, ao qual tem Fraqueza 5. Você é Imune a Dano Sanguíneo e Dano Venenoso.
 
-Você é Imune a doenças, mas Venenos e doenças que já estão em seu corpo são apenas suspensos, não neutralizados. Mais detalhes sobre Venenos serão apresentados no Capítulo 4.6 - Itens Consumíveis.
+Você é Imune a doenças, mas Venenos e doenças que já estão em seu corpo são apenas suspensos, não neutralizados. Mais detalhes sobre Venenos serão apresentados no Capítulo 4.5 - Itens Consumíveis.

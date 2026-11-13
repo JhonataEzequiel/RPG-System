@@ -83,3 +83,9 @@ Um Teste genérico de um Atributo recebe seu nome. Por exemplo, um Teste de Dest
 ## Salvaguardas
 
 Salvaguardas são Testes feitos com o intuito de resistir ou evitar um efeito, seja totalmente ou parcialmente. Elas são separadas pelos sete Atributos. Uma Salvaguarda de Destreza, por exemplo, usaria o seu Modificador de Destreza no BA.
+
+A CD padrão de uma Salvaguarda causada por você é dada pela seguinte fórmula:
+
+**CD = 8 + BP + Modificador de um Atributo**
+
+O Modificador é específico do efeito. Para Magias e Habilidades, o Modificador utilizado será um dos presentes como requisitos. Caso uma Habilidade não possua requisitos e ainda sim possa causar uma Salvaguarda, o Modificador utilizado ficará à sua escolha.

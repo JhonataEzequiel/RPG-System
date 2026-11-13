@@ -48,3 +48,7 @@ Caso você não seja Imune a um tipo de dano, o mínimo de dano recebido é 1, a
 Alguns efeitos causam dano que persiste por um tempo especificado. Esse dano é chamado de "Dano Contínuo". Ao ser vítima de algum efeito que cause Dano Contínuo, você recebe uma instância do dano de imediato e outra no início de cada um dos seus Turnos até a duração acabar.
 
 Dano Contínuo não é um tipo de dano, mas uma forma de se aplicar dano. Ele pode ser de qualquer um dos tipos.
+
+### Regeneração
+
+Trata-se de curas que ocorrem ao final de cada um de seus Turnos por algum período de tempo. É semelhante ao Dano Contínuo, mas para as curas, com a diferença que este ocorre ao final do seu Turno, não no início dele.

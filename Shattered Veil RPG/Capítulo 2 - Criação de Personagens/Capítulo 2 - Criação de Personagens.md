@@ -54,4 +54,6 @@ Você começa com 150 Peças de Ouro que pode gastar da maneira que quiser com q
 
 ## Iniciado em Magia
 
+Como iniciado em Magia, você poderá conjurar Magias. A fonte de seus poderes mágicos pode ser diversa. Você pode ser um Mago que passou anos estudando; alguém que acordou um dia sabendo usar Magias; ou receber seus poderes de uma entidade externa, seja por um contrato, ou por devoção.
+
 Você conhecerá uma quantidade de Magias que aumentará conforme seu valor de Sabedoria. A quantidade de Magias que você conhece é sempre o dobro do seu valor de Sabedoria. Você escolhe suas Magias iniciais no NV 1, e escolhe novas Magias quando subir de Nível, caso aumente seu valor de Sabedoria. Por último, você pode trocar uma quantidade de Magias escolhidas iguais ao seu Modificador de Sabedoria ao ter um Descanso Longo, se assim desejar.

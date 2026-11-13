@@ -36,13 +36,13 @@ Algumas Armas podem aumentar o alcance padrão de Ataques Corpo a Corpo, como de
 
 As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arma seja capaz de causar mais de um tipo de dano, você pode escolher qual deles recebe o aumento de BD proporcionado pelos bônus de Escalas.
 
-| Escala | Valor de Atributo 2 | Valor de Atributo 4 | Valor de Atributo 6 | Valor de Atributo 8 | Valor de Atributo 10 | Total               |
-| ------ | ------------------- | ------------------- | ------------------- | ------------------- | -------------------- | ------------------- |
-| S      | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA  | +5 no BD, +1 de BA   | +25 no BD, +5 de BA |
-| A      | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA  | +4 no BD, +1 de BA   | +20 no BD, +5 de BA |
-| B      | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA  | +3 no BD, +1 de BA   | +15 no BD, +5 de BA |
-| C      | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA  | +2 no BD, +1 de BA   | +10 no BD, +5 de BA |
-| D      | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA  | +1 no BD, +1 de BA   | +5 no BD, +5 de BA  |
+|Escala|Valor de Atributo 2|Valor de Atributo 4|Valor de Atributo 6|Valor de Atributo 8|Valor de Atributo 10|Total|
+|---|---|---|---|---|---|---|
+|S|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+5 no BD, +1 de BA|+25 no BD, +5 de BA|
+|A|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+4 no BD, +1 de BA|+20 no BD, +5 de BA|
+|B|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+3 no BD, +1 de BA|+15 no BD, +5 de BA|
+|C|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+2 no BD, +1 de BA|+10 no BD, +5 de BA|
+|D|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+1 no BD, +1 de BA|+5 no BD, +5 de BA|
 
 ## Lista de Armas
 
@@ -60,7 +60,7 @@ As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arm
 |Maça|11 PO|Grau 3|Impacto|D em Força|2 de Força|-|-|3|
 |Maça-Estrela|11 PO|Grau 3|Perfurante|D em Força|2 de Força|-|-|3|
 |Espada Curta|14 PO|Grau 2|Cortante|D em Força e D em Destreza|1 de Força, 1 de Destreza|-|-|2|
-|Lâmina Gêmea|15 PO|Grau 1|Cortante|D em Destreza|3 de Destreza|Causa um adicional de dano igual a metade do dano do Ataque. O dano adicional leva Ataques Críticos em consideração.|-|5|
+|Lâmina Gêmea|15 PO|Grau 1|Cortante|D em Destreza|3 de Destreza|Causa um adicional de dano igual à metade do dano do Ataque. O dano adicional leva Ataques Críticos em consideração.|-|5|
 |Clava Imensa|23 PO|Grau 5|Impacto|C em Força|5 de Força|-|-|10|
 |Machado de Batalha|24 PO|Grau 3|Cortante|C em Força|3 de Força|-|-|4|
 |Martelo de Guerra|25 PO|Grau 5|Impacto|C em Força|5 de Força|-|-|7|
@@ -79,7 +79,7 @@ As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arm
 
 O alcance de cada Arma está na sua tabela e varia de uma Arma para outra. Atacar além dele impõe Desvantagem e -1 no BA para cada 9 metros além do alcance, sem limite de distância.
 
-Existem três tipos de Armas à Distância: Arcos, Bestas e Armas de Fogo. Bestas e Armas de Fogo precisam recarregar. Recarregar custa uma Ação, e o custo é o mesmo ao recarregar uma ou duas Armas ao mesmo tempo. O Arquétipo "Bucaneiro" tem Habilidades que tornam essas Armas opções interessantes.
+Existem três tipos de Armas à Distância: Arcos, Bestas e Armas de Fogo. Bestas e Armas de Fogo precisam recarregar. Recarregar custa uma Ação, e o custo é o mesmo ao recarregar uma ou duas Armas ao mesmo tempo. O Arquétipo "Bucaneiro" tem Habilidades que tornam essas Armas opções interessantes, confira-o no Capítulo 5.1 - Lista de Habilidades.
 
 ### Arcos
 
@@ -87,26 +87,26 @@ Não precisam recarregar. Os Arcos necessitam de duas mãos para serem usados. P
 
 ### Bestas
 
-Precisam recarregar a cada disparo. As Bestas necessitam de apenas uma mão para serem usadas. Não possuem requisitos nem Escalas. Equipá-las com as duas mãos aumenta o BA em 1.
+Precisam recarregar a cada disparo. As Bestas necessitam de apenas uma mão para serem usadas. Não possuem requisitos nem Escalas. Equipá-las com as duas mãos aumenta o BA em 1 e também dobra sua Força.
 
 ### Armas de Fogo
 
-Podem disparar uma quantidade de vezes, definida em cada Arma, antes de precisar recarregar. Algumas precisam de apenas uma mão, enquanto outras precisam de duas. Isso está especificado em cada Arma. Equipar com as duas mãos uma Arma de Fogo que precisa de apenas uma aumenta do BA em 1. Não possuem Escalas, mas possuem requisitos.
+Podem disparar uma quantidade de vezes, definida em cada Arma, antes de precisar recarregar. Algumas precisam de apenas uma mão, enquanto outras precisam de duas. Isso está especificado em cada Arma. Equipar com as duas mãos uma Arma de Fogo que precisa de apenas uma aumenta o BA em 1 e também dobra sua Força. Não possuem Escalas, mas possuem requisitos.
 
 ### Lista de Armas à Distância
 
-| Arma                | Preço      | Dano   | Tipo de Dano | Escalas                    | Requisitos                | Característica Única                             | Alcance   | Peso |
-| ------------------- | ---------- | ------ | ------------ | -------------------------- | ------------------------- | ------------------------------------------------ | --------- | ---- |
-| Arco Curto          | 15 PO      | Grau 1 | Perfurante   | D em Destreza              | 1 de Destreza             | -                                                | 18 metros | 1    |
-| Pistola             | 19 PO      | Grau 5 | Perfurante   | -                          | 3 de Destreza             | Recarrega a cada 10 tiros, ocupa apenas uma mão. | 24 metros | 2    |
-| Besta Leve          | 20 PO      | Grau 4 | Perfurante   | -                          | -                         | Recarrega a cada tiro                            | 24 metros | 2    |
-| Arco Longo          | 24 PO      | Grau 2 | Perfurante   | D em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                | 24 metros | 2    |
-| Escopeta            | 26 PO      | Grau 6 | Perfurante   | -                          | 3 de Força, 3 de Destreza | Recarrega a cada 2 tiros                         | 18 metros | 4    |
-| Besta Pesada        | 27 PO      | Grau 4 | Perfurante   | -                          | -                         | Recarrega a cada tiro                            | 36 metros | 4    |
-| Arco Curto Composto | 34 PO      | Grau 2 | Perfurante   | C em Destreza              | 2 de Destreza             | -                                                | 24 metros | 2    |
-| Canhão de Mão       | 42 PO      | Grau 7 | Perfurante   | -                          | 6 de Força, 3 de Destreza | Recarrega a cada tiro, ocupa apenas uma mão.     | 12 metros | 10   |
-| Arco Longo Composto | 58 PO      | Grau 3 | Perfurante   | C em Força e C em Destreza | 2 de Força, 2 de Destreza | -                                                | 30 metros | 3    |
-| Rifle de Precisão   | 10 PL 1 PO | Grau 8 | Perfurante   | -                          | 6 de Força, 3 de Destreza | Recarrega a cada tiro                            | 48 metros | 9    |
+|Arma|Preço|Dano|Tipo de Dano|Escalas|Requisitos|Característica Única|Alcance|Peso|
+|---|---|---|---|---|---|---|---|---|
+|Arco Curto|15 PO|Grau 1|Perfurante|D em Destreza|1 de Destreza|-|18 metros|1|
+|Pistola|19 PO|Grau 5|Perfurante|-|3 de Destreza|Recarrega a cada 10 tiros, ocupa apenas uma mão.|24 metros|2|
+|Besta Leve|20 PO|Grau 4|Perfurante|-|-|Recarrega a cada tiro|24 metros|2|
+|Arco Longo|24 PO|Grau 2|Perfurante|D em Força e D em Destreza|1 de Força, 1 de Destreza|-|24 metros|2|
+|Escopeta|26 PO|Grau 6|Perfurante|-|3 de Força, 3 de Destreza|Recarrega a cada 2 tiros|18 metros|4|
+|Besta Pesada|27 PO|Grau 4|Perfurante|-|-|Recarrega a cada tiro|36 metros|4|
+|Arco Curto Composto|34 PO|Grau 2|Perfurante|C em Destreza|2 de Destreza|-|24 metros|2|
+|Canhão de Mão|42 PO|Grau 7|Perfurante|-|6 de Força, 3 de Destreza|Recarrega a cada tiro, ocupa apenas uma mão.|12 metros|10|
+|Arco Longo Composto|58 PO|Grau 3|Perfurante|C em Força e C em Destreza|2 de Força, 2 de Destreza|-|30 metros|3|
+|Rifle de Precisão|10 PL 1 PO|Grau 8|Perfurante|-|6 de Força, 3 de Destreza|Recarrega a cada tiro|48 metros|9|
 
 ## Munições
 
