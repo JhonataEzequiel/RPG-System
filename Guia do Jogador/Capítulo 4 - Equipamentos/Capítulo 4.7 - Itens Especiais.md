@@ -38,10 +38,10 @@ Capa que se usa por cima da roupa para proteção. Ela não aumenta a CA, mas po
 
 Capa que se usa por cima da roupa para proteção. Ela não aumenta a CA, mas possui Escala em Força ou Destreza.
 
-| Armadura                | Preço   | CA  | Requisitos             | Escalas                     | Penalidades | Peso |
-| ----------------------- | ------- | --- | ---------------------- | --------------------------- | ----------- | ---- |
-| Manto de Monge          | 448 PO  | +0  | 2 de Força ou Destreza | A em Força ou A em Destreza | 0           | 0    |
-| Manto de Monge Especial | 2845 PO | +0  | 5 de Força ou Destreza | S em Força ou S em Destreza | 0           | 0    |
+|Armadura|Preço|CA|Requisitos|Escalas|Penalidades|Peso|
+|---|---|---|---|---|---|---|
+|Manto de Monge|448 PO|+0|2 de Força ou Destreza|A em Força ou A em Destreza|0|0|
+|Manto de Monge Especial|2845 PO|+0|5 de Força ou Destreza|S em Força ou S em Destreza|0|0|
 
 ## Armadura de Adamantina
 
@@ -65,13 +65,13 @@ Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Arcano, Vín
 
 |Varinha ou Cajado Mágico|Preço|Dano|Requisitos|Escalas|Aumento de Alcance|Peso|
 |---|---|---|---|---|---|---|
-|Simples|3 PO|Grau 1 de Impacto|1 de Inteligência, Carisma ou Fé|D em Inteligência, Carisma ou Fé|0|1|
-|Arcana(o)|20 PO|Grau 1 de Impacto|3 de Inteligência, Carisma ou Fé|C em Inteligência, Carisma ou Fé|0|1|
-|Mística(o)|75 PO|Grau 1 de Impacto|5 de Inteligência, Carisma ou Fé|B em Inteligência, Carisma ou Fé|0|1|
-|Poderosa(o)|300 PO|Grau 1 de Impacto|7 de Inteligência, Carisma ou Fé|A em Inteligência, Carisma ou Fé|0|1|
-|Suprema(o)|2500 PO|Grau 1 de Impacto|10 de Inteligência, Carisma ou Fé|S em Inteligência, Carisma ou Fé|0|1|
+|Simples|3 PO|Grau 1 de Impacto|1 de Arcano, Vínculo ou Carisma|D em Arcano, Vínculo ou Carisma|0|1|
+|Arcana(o)|20 PO|Grau 1 de Impacto|3 de Arcano, Vínculo ou Carisma|C em Arcano, Vínculo ou Carisma|0|1|
+|Mística(o)|75 PO|Grau 1 de Impacto|5 de Arcano, Vínculo ou Carisma|B em Arcano, Vínculo ou Carisma|0|1|
+|Poderosa(o)|300 PO|Grau 1 de Impacto|7 de Arcano, Vínculo ou Carisma|A em Arcano, Vínculo ou Carisma|0|1|
+|Suprema(o)|2500 PO|Grau 1 de Impacto|10 de Arcano, Vínculo ou Carisma|S em Arcano, Vínculo ou Carisma|0|1|
 
-É possível também que uma mesma Varinha ou Cajado Mágico tenha Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Inteligência e B em Fé. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico".
+É possível também que uma mesma Varinha ou Cajado Mágico tenha Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Arcano e B em Vínculo. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico".
 
 ## Botas Silenciosas
 
@@ -95,13 +95,13 @@ Famoso entre tribos de Gnomos, apenas os melhores manuseadores de ervas podem cr
 
 Alguns anéis proporcionam efeitos diversos ao serem utilizados. Você pode ter um anel por dedo da mão. Qualquer anel tem Peso 0.
 
-| Anel                               | Efeito                                                                                                                                                         | Preço                          |
-| ---------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ |
-| Anel da Vida                       | Você tem Grau 10 de PVs Temporários ao usar esse anel, caso sua Constituição seja inferior a 5. Você recupera os PVs Temporários perdidos ao ter um Descanso.  | 200 PO                         |
-| Anel da Mana                       | Você tem Grau 10 de PMs Temporários ao usar esse anel, caso sua Sabedoria seja inferior a 5. Você recupera os PMs Temporários gastos ao ter um Descanso Curto. | 500 PO                         |
-| Anel da Sobrecarga                 | Dobra sua Capacidade de Carga.                                                                                                                                 | 150 PO                         |
-| Anel da Soberania                  | Seu Bônus de Proficiência em Perícias de Carisma é dobrado.                                                                                                    | 4000 PL                        |
-| Anel de Regeneração (Mana ou Vida) | Recupera Grau 1 de PVs ou PMs ao final de cada um dos seus Turnos, a depender do anel.                                                                         | 940 PO (Vida) e 2345 PO (Mana) |
+|Anel|Efeito|Preço|
+|---|---|---|
+|Anel da Vida|Você tem Grau 10 de PVs Temporários ao usar esse anel, caso sua Constituição seja inferior a 5. Você recupera os PVs Temporários perdidos ao ter um Descanso.|200 PO|
+|Anel da Mana|Você tem Grau 10 de PMs Temporários ao usar esse anel, caso sua Sabedoria seja inferior a 5. Você recupera os PMs Temporários gastos ao ter um Descanso Curto.|500 PO|
+|Anel da Sobrecarga|Dobra sua Capacidade de Carga.|150 PO|
+|Anel da Soberania|Seu Bônus de Proficiência em Perícias de Carisma é dobrado.|4000 PL|
+|Anel de Regeneração (Mana ou Vida)|Recupera Grau 1 de PVs ou PMs ao final de cada um dos seus Turnos, a depender do anel.|940 PO (Vida) e 2345 PO (Mana)|
 
 ## Pergaminhos de Magias
 
@@ -143,6 +143,6 @@ Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetr
 
 Essa capa controla os espíritos do vento ao redor, utilizando-os ao seu favor. Ao equipar, você precisará entrar em contato com os espíritos, o que tornará necessário que você tenha um Descanso Longo com ela vestida. Enquanto não fizer isso, ela serve apenas como peso extra. Uma vez sintonizado com os espíritos do vento, não precisará repetir o processo caso retire a capa e a vista de novo.
 
-| Armadura        | Preço   | CA  | Requisitos     | Escalas       | Penalidades | Efeitos Adicionais                                                                                                                                                                                                                                                                                                    | Peso |
-| --------------- | ------- | --- | -------------- | ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
-| Capa dos Ventos | 5000 PL | +5  | 10 de Destreza | S em Destreza | -           | Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica; a partir do próximo pulo, começará a contar para seu Deslocamento. | 1    |
+|Armadura|Preço|CA|Requisitos|Escalas|Penalidades|Efeitos Adicionais|Peso|
+|---|---|---|---|---|---|---|---|
+|Capa dos Ventos|5000 PL|+5|10 de Destreza|S em Destreza|-|Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica; a partir do próximo pulo, começará a contar para seu Deslocamento.|1|

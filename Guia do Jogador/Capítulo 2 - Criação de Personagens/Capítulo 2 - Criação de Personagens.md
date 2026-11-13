@@ -38,9 +38,9 @@ Você tem 2 PHs para escolher qualquer Habilidade do Capítulo 5 - Habilidades. 
 
 ## Origem
 
-Você faz algumas escolhas atreladas à origem de seu personagem. No total são 7 Pontos de Origem que você pode gastar. Dentre as opções de gasto estão: aumentar o Grau dos seus Dados de Vida ou do de Mana, adquirir novas Proficiências e obter PHs adicionais.
+Você faz algumas escolhas atreladas à origem de seu personagem. No total são 7 Pontos de Origem que você pode gastar. Dentre as opções de gasto estão: aumentar o Grau dos seus Dados de Vida ou do de Mana, adquirir novas Proficiências, obter PHs adicionais, ou obter PAs adicionais.
 
-Cada Ponto de Origem gasto aumenta em um o Grau de um dos dois dados, até o máximo de Grau 5. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Por fim, você também pode trocar Pontos de Origem por Pontos de Habilidade, na proporção de 1 para 1, e adquirir novas Habilidades com eles. Você pode guardar esses PHs para utilizar em Níveis futuros, se assim desejar. 
+Cada Ponto de Origem gasto aumenta em um o Grau de um dos dois dados, até o máximo de Grau 5. Ao escolher uma Proficiência você também gasta 1 Ponto de Origem. Você também pode trocar Pontos de Origem por Pontos de Habilidade ou Pontos de Atributo, na proporção de 1 para 1, e adquirir novas Habilidades e valores de Atributo com eles. Você pode guardar esses PHs e PAs para utilizar em Níveis futuros, se assim desejar.
 
 Por último, você pode escolher ser capaz de utilizar Magias. Essa escolha também requer 1 Ponto de Origem. Para poder realizá-la, seu valor de sabedoria deve ser igual ou superior a 1. Você pode adquirir essa capacidade em Níveis futuros pelo preço de 1 PH, mas uma vez escolhido utilizar Magia, você não poderá mais desfazer essa escolha. Confira a seção "Iniciado em Magia" mais à frente para mais detalhes.
 
