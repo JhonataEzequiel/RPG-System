@@ -10,12 +10,4 @@ Para utilizar uma Magia em um Grimório você deverá mantê-lo aberto e ir pass
 |Grimório Avançado|10|100 PO|
 |Grimório Arcano|15|200 PO|
 
-É necessário que você passe um tempo anotando uma Magia no Grimório para poder utilizá-la. Para isso, você precisa de algo capaz de escrever nele, como uma Pena de Escrita e o Frasco de Tinta, disponíveis no Capítulo 4.8 - Outros Itens. O tempo varia de acordo com o custo inicial da Magia (confira o Capítulo 6 - Magias para mais detalhes). Você pode anotar uma Magia enquanto estiver tendo um Descanso Longo, e isso não aumenta a quantidade de tempo necessária para Descansar. No entanto, você só pode fazer isso com Magias cujo custo inicial é 5 ou menor.
-
-| Custo Inicial da Magia | Tempo Necessário para Anotar |
-| ---------------------- | ---------------------------- |
-| 1-2                    | 20 minutos                   |
-| 3-4                    | 30 minutos                   |
-| 5-6                    | 1 hora                       |
-| 7-8                    | 4 horas                      |
-| 9-10                   | 8 horas                      |
+É necessário que você passe um tempo anotando uma Magia no Grimório para poder utilizá-la. Para isso, você precisa de algo capaz de escrever nele, como uma Pena de Escrita e o Frasco de Tinta, disponíveis no Capítulo 4.8 - Outros Itens. O tempo para anotar uma Magia qualquer é de 1 hora. Você pode anotar uma Magia enquanto estiver tendo um Descanso Longo, e isso não aumenta a quantidade de tempo necessária para Descansar.

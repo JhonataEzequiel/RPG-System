@@ -4,7 +4,7 @@ Uma vez iniciado, você poderá conjurar qualquer Magia que conheça do Capítul
 
 Dentre todas as possibilidades que as Magias oferecem, vale destacar duas importantes: Magias de Dano e Magias de Cura. As Magias de Dano são todas aquelas que causam dano de maneira direta ou indireta. As Magias de Cura são análogas, mas causam uma instância de cura. Uma Magia que cause Dano Contínuo também é considerada uma Magia de Dano. De maneira análoga, uma Magia que cause Regeneração é considerada uma Magia de Cura.
 
-Sem PMs suficientes você não poderá conjurar Magias.
+Sem PMs suficientes você não poderá conjurar Magias. Magias não tem nenhum limite de uso além deste.
 
 ## Categorias de Magias
 
@@ -47,7 +47,7 @@ Todo tipo de bruxaria e necromancia se encontra aqui. Criaturas das trevas costu
 
 Além dos requisitos e da categoria, cada Magia terá propriedades distintas que as diferenciarão das demais.
 
-- **Custo de Mana**: a quantidade de PMs necessária para conjurar a Magia. Esse é o custo inicial dela (veja "Metamagia", mais à frente).
+- **Custo de Mana**: a quantidade de PMs necessária para conjurar a Magia. Esse é o custo base dela (veja "Metamagia", mais à frente).
 - **Duração**: varia entre instantânea, 1 Rodada, 2 Rodadas, 3 Rodadas, 4 Rodadas, 1 Encontro ou uma quantidade específica de minutos ou horas.
 - **Alcance**: varia entre toque ou uma quantidade de metros múltipla de 1,5.
 - **Alvos**: define quantas criaturas a Magia afeta e de que maneira. Existem três possibilidades:
@@ -56,28 +56,39 @@ Além dos requisitos e da categoria, cada Magia terá propriedades distintas que
     - **Múltiplos Alvos**: a Magia afeta uma quantidade X de alvos ao mesmo tempo, e você seleciona a dedo quais serão afetados. É isso que a diferencia de uma Magia em Área.
 - **Tempo de Conjuração**: pode ser Ação Livre, Ação Bônus, uma quantidade específica de Ações, Reação ou alguns minutos.
 - **Descrição**: o que a Magia faz e quais modificações exclusivas são possíveis, além de seus custos, se a Magia as tiver.
+- **Servos Invocados**: algumas Magias permitem que você conjure, invoque, ou reviva criaturas que estarão sob o seu controle. Servos invocados duram 1 Encontro, e agem imediatamente após o seu Turno. A quantidade de Ações varia. Eles não tem Ação Bônus, nem Reação.
 
-## Ataques Mágicos, Salvaguardas, e Curas
+## Catalisadores de Magias
 
-O BA de Ataques Mágicos segue a seguinte fórmula:
+Além dos Cajados e Varinhas disponíveis no Capítulo 4.2 - Armas, você pode utilizar suas mãos como catalizadores de Magia. Os conjuradores que optam por esse caminho precisam de treinamento específico. Esse treinamento exige materiais para os experimentos mágicos e tempo. Com treinamento, sua Escala com as mãos aumentará, e terá os mesmos efeitos e custos de um Cajado ou Varinha. O tempo para aumentar a Escala das suas mãos aumenta conforme a Escala:
 
-**BA = BP + Vin ou Arc ou Car (a depender da categoria de Magia) + Sab + outros**
+| Escala   | Tempo de Treino | Custo em Materiais |
+| -------- | --------------- | ------------------ |
+| D        | 8 horas         | 5 PO               |
+| D para C | 24 horas        | 20 PO              |
+| C para B | 48 horas        | 75 PO              |
+| B para A | 72 horas        | 300 PO             |
+| A para S | uma semana      | 2500 PO            |
 
-O Modificador escolhido deverá ser um dos tipos cuja a categoria de Magia tem como requisitos. O BD será calculado de acordo com a seguinte fórmula:
+Para conjurar uma Magia utilizando suas mãos, ao menos uma delas deve estar livre no momento da conjuração, e você precisará ter ao menos a Escala D já treinada. Assim como os Cajados e Varinhas, você pode ter duas Escalas em diferentes Atributos ao mesmo tempo, caso opte por treinar ainda mais. 
 
-**BD = Vin ou Arc ou Car + Sab + Outros**
+## Salvaguardas
 
-Semelhante ao BA, escolha um dos Modificadores que servem como requisito para a categoria da Magia que você conjurou.
+Caso uma Magia faça com que um alvo tenha que passar por uma Salvaguarda qualquer, a CD será a como descrita no Capítulo 1.5 - Interações com o Mundo.
 
-As Salvaguardas seguem a regra do Capítulo 1.5 - Interações Com o Mundo. São semelhantes ao BA e BD, permitindo que escolha um Modificador de acordo com a categoria de Magia.
+## Curas
 
-Os efeitos de cura recebem um bônus análogo ao BD, chamado de Bônus de Cura (BC). Ao curar alguém, você irá somar o BC a quantidade de PVs restaurados. O cálculo do BC é idêntico ao do BD.
+Magias de Cura podem ter um bônus de acordo com certas características que varia caso a caso. Uma Magia pode, por exemplo, adicionar seu Modificador de Vínculo como bônus em uma Magia de Cura, ou adicionar o seu BP. Não há um bônus fixo para essas Magias.
+
+## BD nas Magias
+
+Uma Magia de Dano pode ou não utilizar o BD. Caso utilize, isso estará especificado, como neste exemplo: "Causa Grau 3 + BD de Dano Ígneo". Caso não estiver explícito, a Magia não utilizará o BD.
 
 ## Metamagia
 
 Uma vez que atenda aos requisitos necessários para se tornar um conjurador de uma Magia específica, você poderá alterá-la de diversas formas. Você terá quatro tipos de modificações: as básicas, as médias, as avançadas e as exclusivas. As básicas custam 1 PM adicional; as médias, 2 PMs; as avançadas, 3 PMs. Algumas dessas três são impossíveis de serem aplicadas a algumas Magias. Por exemplo, não se pode aumentar o Grau de cura de uma Magia que só causa dano. Essas três são genéricas, podendo ser aplicadas a qualquer Magia elegível. As exclusivas dependerão da Magia em si e estarão listadas na descrição dela, caso ela as possua.
 
-O custo inicial de uma Magia é o custo que ela tem sem nenhuma Metamagia aplicada, seja ela genérica ou exclusiva. O custo final de uma Magia é definido como o valor final de PMs a ser gasto uma vez que todas as Metamagias desejadas forem aplicadas.
+O custo base de uma Magia é o custo que ela tem sem nenhuma Metamagia aplicada, seja ela genérica ou exclusiva. O custo final de uma Magia é definido como o valor final de PMs a ser gasto uma vez que todas as Metamagias desejadas forem aplicadas.
 
 A Metamagia é uma alteração direta nas características básicas da Mana necessária para conjurar uma Magia. Algumas criaturas conseguem impedir modificações em demasia devido ao poder massivo que possuem, e a maneira com que interagem com a Mana. Em Encontros com Criaturas Lendárias (confira o Capítulo 7.3 - Criaturas), você só poderá aplicar até 5 efeitos metamágicos (Metamagias) em uma mesma Magia. Não há limites para outros Encontros.
 
@@ -88,8 +99,8 @@ Sem PMs suficientes é impossível aplicar qualquer efeito metamágico.
 - **Aumento de Grau de Dano**: você aumenta o Grau de dano de uma Magia de Dano em 1, respeitando o limite de Grau 10 (veja o Capítulo 1.5 - Interações Com o Mundo).
 - **Aumento de BD**: você adiciona +2 ao BD de uma Magia de Dano.
 - **Aumento de Alcance de Ataques Mágicos**: você adiciona +1,5 metros de alcance aos seus Ataques Mágicos, sejam eles Corpo a Corpo ou à Distância. Um Ataque Mágico Corpo a Corpo que receba esse aumento se torna um Ataque à Distância com 3 metros de alcance (os 1,5 metros padrão mais os 1,5 metros adicionais).
-- **Aumento de Área**: você aumenta a Área de Efeito de uma Magia com algum efeito em área em 1,5 metros. O aumento se adapta ao formato da Área: o comprimento de um Cone ou de uma Linha, o lado de um Cubo, ou o raio de uma Esfera ou de um Cilindro.
 - **Aumento de Dano Contínuo**: você adiciona +1 fixo ao Dano Contínuo de uma Magia que cause Dano Contínuo. O aumento vale para o dano como um todo, ou seja, para cada instância de Dano Contínuo, e não para o Grau.
+- **Aumento de PV de Servos**: algumas Magias permitem você invocar criaturas e as controlar. Você aumenta o PV máximo delas em +5.
 
 ### Metamagia Média
 
@@ -102,3 +113,4 @@ Sem PMs suficientes é impossível aplicar qualquer efeito metamágico.
 
 - **Aumento de CA**: você adiciona +1 de CA a Magias que concedem CA.
 - **Aumento de BA**: você adiciona +1 de BA a Magias que concedem BA.
+- **Aumento de Área**: você aumenta a Área de Efeito de uma Magia com algum efeito em área em 1,5 metros. O aumento se adapta ao formato da Área: o comprimento de um Cone ou de uma Linha, o lado de um Cubo, ou o raio de uma Esfera ou de um Cilindro.

@@ -46,34 +46,33 @@ As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arm
 
 ## Lista de Armas
 
-|Arma|Preço|Dano|Tipo de Dano|Escalas|Requisitos|Característica Única|Aumento de Alcance|Peso|
-|---|---|---|---|---|---|---|---|---|
-|Manopla de Ferro|8 PO|Grau 1|Impacto|D em Força|2 de Força|-|-|1|
-|Clava Pesada|8 PO|Grau 4|Impacto|D em Força|4 de Força|-|-|8|
-|Soco Inglês|9 PO|Grau 1|Impacto|D em Força|1 de Força|-|-|1|
-|Katar|9 PO|Grau 1|Perfurante|D em Força|1 de Força|-|-|1|
-|Adaga|10 PO|Grau 1|Perfurante|D em Destreza|-|-|-|1|
-|Cajado|10 PO|Grau 1|Impacto|D em Força|-|-|-|1|
-|Rapieira|10 PO|Grau 2|Perfurante|D em Destreza|2 de Destreza|-|-|1|
-|Clava|10 PO|Grau 2|Impacto|D em Força|1 de Força|-|-|2|
-|Cimitarra|11 PO|Grau 3|Cortante|D em Destreza|2 de Destreza|-|-|2|
-|Maça|11 PO|Grau 3|Impacto|D em Força|2 de Força|-|-|3|
-|Maça-Estrela|11 PO|Grau 3|Perfurante|D em Força|2 de Força|-|-|3|
-|Espada Curta|14 PO|Grau 2|Cortante|D em Força e D em Destreza|1 de Força, 1 de Destreza|-|-|2|
-|Lâmina Gêmea|15 PO|Grau 1|Cortante|D em Destreza|3 de Destreza|Causa um adicional de dano igual à metade do dano do Ataque. O dano adicional leva Ataques Críticos em consideração.|-|5|
-|Clava Imensa|23 PO|Grau 5|Impacto|C em Força|5 de Força|-|-|10|
-|Machado de Batalha|24 PO|Grau 3|Cortante|C em Força|3 de Força|-|-|4|
-|Martelo de Guerra|25 PO|Grau 5|Impacto|C em Força|5 de Força|-|-|7|
-|Chicote|27 PO|Grau 3|Impacto|C em Destreza|1 de Destreza|-|-|2|
-|Katana|30 PO|Grau 3|Cortante|D em Força e C em Destreza|2 de Força, 1 de Destreza|-|-|3|
-|Espada Colossal|32 PO|Grau 5|Cortante|C em Força|6 de Força|-|+1,5 metros|10|
-|Lança|35 PO|Grau 3|Perfurante|C em Destreza|3 de Destreza|-|+1,5 metros|3|
-|Alabarda|35 PO|Grau 4|Cortante|C em Força|4 de Força|-|+1,5 metros|5|
-|Glaive|36 PO|Grau 4|Cortante|C em Destreza|3 de Destreza|-|+1,5 metros|4|
-|Espada Longa|41 PO|Grau 3|Cortante|C em Força e D em Destreza|1 de Força, 1 de Destreza|-|+1,5 metros|3|
-|Claymore|42 PO|Grau 5|Cortante|C em Força e C em Destreza|5 de Força, 3 de Destreza|-|-|6|
-|Pique|54 PO|Grau 3|Perfurante|C em Destreza|3 de Destreza|-|+3 metros|5|
-|Lança de Cavalaria|56 PO|Grau 5|Perfurante|C em Força|4 de Força|-|+3 metros|6|
+| Arma               | Preço | Dano   | Tipo de Dano | Escalas                    | Requisitos                | Característica Única                                                                                                 | Aumento de Alcance | Peso |
+| ------------------ | ----- | ------ | ------------ | -------------------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------ | ---- |
+| Manopla de Ferro   | 8 PO  | Grau 1 | Impacto      | D em Força                 | 2 de Força                | -                                                                                                                    | -                  | 1    |
+| Clava Pesada       | 8 PO  | Grau 4 | Impacto      | D em Força                 | 4 de Força                | -                                                                                                                    | -                  | 8    |
+| Soco Inglês        | 9 PO  | Grau 1 | Impacto      | D em Força                 | 1 de Força                | -                                                                                                                    | -                  | 1    |
+| Katar              | 9 PO  | Grau 1 | Perfurante   | D em Força                 | 1 de Força                | -                                                                                                                    | -                  | 1    |
+| Adaga              | 10 PO | Grau 1 | Perfurante   | D em Destreza              | -                         | -                                                                                                                    | -                  | 1    |
+| Rapieira           | 10 PO | Grau 2 | Perfurante   | D em Destreza              | 2 de Destreza             | -                                                                                                                    | -                  | 1    |
+| Clava              | 10 PO | Grau 2 | Impacto      | D em Força                 | 1 de Força                | -                                                                                                                    | -                  | 2    |
+| Cimitarra          | 11 PO | Grau 3 | Cortante     | D em Destreza              | 2 de Destreza             | -                                                                                                                    | -                  | 2    |
+| Maça               | 11 PO | Grau 3 | Impacto      | D em Força                 | 2 de Força                | -                                                                                                                    | -                  | 3    |
+| Maça-Estrela       | 11 PO | Grau 3 | Perfurante   | D em Força                 | 2 de Força                | -                                                                                                                    | -                  | 3    |
+| Espada Curta       | 14 PO | Grau 2 | Cortante     | D em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                                                                                    | -                  | 2    |
+| Lâmina Gêmea       | 15 PO | Grau 1 | Cortante     | D em Destreza              | 3 de Destreza             | Causa um adicional de dano igual à metade do dano do Ataque. O dano adicional leva Ataques Críticos em consideração. | -                  | 5    |
+| Clava Imensa       | 23 PO | Grau 5 | Impacto      | C em Força                 | 5 de Força                | -                                                                                                                    | -                  | 10   |
+| Machado de Batalha | 24 PO | Grau 3 | Cortante     | C em Força                 | 3 de Força                | -                                                                                                                    | -                  | 4    |
+| Martelo de Guerra  | 25 PO | Grau 5 | Impacto      | C em Força                 | 5 de Força                | -                                                                                                                    | -                  | 7    |
+| Chicote            | 27 PO | Grau 3 | Impacto      | C em Destreza              | 1 de Destreza             | -                                                                                                                    | -                  | 2    |
+| Katana             | 30 PO | Grau 3 | Cortante     | D em Força e C em Destreza | 2 de Força, 1 de Destreza | -                                                                                                                    | -                  | 3    |
+| Espada Colossal    | 32 PO | Grau 5 | Cortante     | C em Força                 | 6 de Força                | -                                                                                                                    | +1,5 metros        | 10   |
+| Lança              | 35 PO | Grau 3 | Perfurante   | C em Destreza              | 3 de Destreza             | -                                                                                                                    | +1,5 metros        | 3    |
+| Alabarda           | 35 PO | Grau 4 | Cortante     | C em Força                 | 4 de Força                | -                                                                                                                    | +1,5 metros        | 5    |
+| Glaive             | 36 PO | Grau 4 | Cortante     | C em Destreza              | 3 de Destreza             | -                                                                                                                    | +1,5 metros        | 4    |
+| Espada Longa       | 41 PO | Grau 3 | Cortante     | C em Força e D em Destreza | 1 de Força, 1 de Destreza | -                                                                                                                    | +1,5 metros        | 3    |
+| Claymore           | 42 PO | Grau 5 | Cortante     | C em Força e C em Destreza | 5 de Força, 3 de Destreza | -                                                                                                                    | -                  | 6    |
+| Pique              | 54 PO | Grau 3 | Perfurante   | C em Destreza              | 3 de Destreza             | -                                                                                                                    | +3 metros          | 5    |
+| Lança de Cavalaria | 56 PO | Grau 5 | Perfurante   | C em Força                 | 4 de Força                | -                                                                                                                    | +3 metros          | 6    |
 
 ## Armas à Distância
 
@@ -119,3 +118,19 @@ Armas que disparam projéteis consomem uma unidade de munição por Arma a cada 
 |10 Balas|1 PP|0|
 
 Alternativamente, o Mestre pode escolher que munições tenham Peso. Nesse caso, seria uma unidade de Peso a cada 10 munições.
+
+## Varinhas e Cajados
+
+Por padrão, Varinhas e Cajados concedem Escalas de Armas particularmente úteis para conjuradores. Você deve ser iniciado em Magia, de acordo com as regras do Capítulo 2 - Criação de Personagens para utilizar esses itens. As Escalas de Varinhas e Cajados têm bônus diferentes dos das Armas comuns. O BA concedido normalmente por uma Escala só funciona para Magias conjuradas com a Varinha ou Cajado, assim como o BD adicional. O tipo do dano adicional é de um dos tipos capazes de serem causados pela Magia.
+
+Varinhas e Cajados concedem Escala em algum Atributo entre Sabedoria, Arcano, Vínculo ou Carisma. Ao equipar dois desses objetos ao mesmo tempo, você receberá os efeitos apenas do mais forte. Você também pode Atacar Corpo-a-Corpo com esses itens, dando bofetadas nos alvos. O Grau da tabela refere-se ao dano causado por esse Ataque. Esse Ataque não se beneficia de qualquer bônus de Escala.
+
+| Varinha ou Cajado Mágico | Preço   | Dano              | Requisitos                       | Escalas                                    | Aumento de Alcance | Peso |
+| ------------------------ | ------- | ----------------- | -------------------------------- | ------------------------------------------ | ------------------ | ---- |
+| Simples                  | 3 PO    | Grau 1 de Impacto | 1 de Arcano, Vínculo ou Carisma  | D em Sabedoria, Arcano, Vínculo ou Carisma | 0                  | 1    |
+| Arcana(o)                | 20 PO   | Grau 1 de Impacto | 3 de Arcano, Vínculo ou Carisma  | C em Sabedoria, Arcano, Vínculo ou Carisma | 0                  | 1    |
+| Mística(o)               | 75 PO   | Grau 1 de Impacto | 5 de Arcano, Vínculo ou Carisma  | B em Sabedoria, Arcano, Vínculo ou Carisma | 0                  | 1    |
+| Poderosa(o)              | 300 PO  | Grau 1 de Impacto | 7 de Arcano, Vínculo ou Carisma  | A em Sabedoria, Arcano, Vínculo ou Carisma | 0                  | 1    |
+| Suprema(o)               | 2500 PO | Grau 1 de Impacto | 10 de Arcano, Vínculo ou Carisma | S em Sabedoria, Arcano, Vínculo ou Carisma | 0                  | 1    |
+
+Você pode comprar uma mesma Varinha ou Cajado que tenha Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Arcano e B em Vínculo. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Místico".

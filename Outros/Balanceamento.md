@@ -168,6 +168,6 @@ Como tabela de referência e não de regra, uma sugestão seria "Grau recomendad
 | Dano do monstro por Rodada em área/ alvo único | 280 / 130     |
 | Dano por Ataque de um PDJ por Ataue/ Rodada    | 111,5 / 217,5 |
 | PVs do monstro Médio                           | 3.500         |
-| Fator cura:dano                                | 1\|1,5        |
+| Fator cura:dano                                | 1\|2          |
 | CA típica / máxima                             | 50 / 55       |
 | BA típico / máximo                             | 42 / 47       |

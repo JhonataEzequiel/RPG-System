@@ -52,3 +52,7 @@ Dano Contínuo não é um tipo de dano, mas uma forma de se aplicar dano. Ele po
 ### Regeneração
 
 Trata-se de curas que ocorrem ao final de cada um de seus Turnos por algum período de tempo. É semelhante ao Dano Contínuo, mas para as curas, com a diferença que este ocorre ao final do seu Turno, não no início dele.
+
+## Dano Persistente em Área
+
+Ocorre quando um efeito que causa dano fica preso a uma determinada área. Ao sair dessa área, você não sofre mais dano. Se permanecer nela, sofre dano ao final de cada um de seus Turnos.

@@ -57,22 +57,6 @@ Alguns Itens Arremessáveis são mais poderosos do que o normal. Eles custam 10 
 
 As Resinas Melhoradas são versões superiores às Resinas comuns. Elas possuem efeitos melhores em relação às suas versões comuns. O Grau de dano de uma Resina Melhorada é aumentado em 2 em relação às versões comuns. Para a Resina de Escudo, a CA concedida aumenta em 2. O preço das Resinas de dano é aumentado em 10 PO em relação às versões comuns, e a de Escudo é aumentada em 40 PO.
 
-## Varinhas e Cajados Mágicos
-
-Por padrão, Varinhas e Cajados Mágicos concedem Escalas de Armas particularmente úteis para Magos. As Escalas de Varinhas e Cajados têm bônus diferentes dos das Armas comuns. O BA concedido normalmente por uma Escala só funciona para Magias conjuradas com a Varinha ou Cajado Mágico, assim como o BD adicional. O tipo do dano adicional é de um dos tipos capazes de serem causados pela Magia.
-
-Varinhas e Cajados Mágicos concedem Escala em algum Atributo entre Arcano, Vínculo e Carisma. É possível equipar até dois ao mesmo tempo. Você também pode Atacar Corpo a Corpo com esses itens, dando bofetadas nos alvos. O Grau da tabela refere-se ao dano causado por esse Ataque.
-
-|Varinha ou Cajado Mágico|Preço|Dano|Requisitos|Escalas|Aumento de Alcance|Peso|
-|---|---|---|---|---|---|---|
-|Simples|3 PO|Grau 1 de Impacto|1 de Arcano, Vínculo ou Carisma|D em Arcano, Vínculo ou Carisma|0|1|
-|Arcana(o)|20 PO|Grau 1 de Impacto|3 de Arcano, Vínculo ou Carisma|C em Arcano, Vínculo ou Carisma|0|1|
-|Mística(o)|75 PO|Grau 1 de Impacto|5 de Arcano, Vínculo ou Carisma|B em Arcano, Vínculo ou Carisma|0|1|
-|Poderosa(o)|300 PO|Grau 1 de Impacto|7 de Arcano, Vínculo ou Carisma|A em Arcano, Vínculo ou Carisma|0|1|
-|Suprema(o)|2500 PO|Grau 1 de Impacto|10 de Arcano, Vínculo ou Carisma|S em Arcano, Vínculo ou Carisma|0|1|
-
-É possível também que uma mesma Varinha ou Cajado Mágico tenha Escalas em diferentes Atributos ao mesmo tempo. Por exemplo, Escala D em Arcano e B em Vínculo. Nesse caso, os custos serão somados, e ele receberá a nomenclatura do mais poderoso, que no exemplo em questão seria algo como "Varinha Mística" ou "Cajado Mágico Místico".
-
 ## Botas Silenciosas
 
 Essas botas não emitem sons, e não acrescentando ao peso da sua Armadura atual, podendo ser usadas em conjunto sem diminuir sua CA. Concedem +5 em Testes de Furtividade. Custam 350 PO.
