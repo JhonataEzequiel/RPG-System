@@ -32,7 +32,7 @@ Os Revenãs Esqueletos são mortos reduzidos aos ossos, capazes de separar os pr
 
 ### Habilidades de Raça
 
-**Ossudo** (Passiva): você é Imune a Dano Sanguíneo e a Dano Venenoso. Você possui Resistência a Dano Ígneo e a Dano Perfurante iguais a um Modificador de algum Atributo, à sua escolha. Por último, você possui Fraqueza 5 a Dano de Impacto.
+**Ossudo** (Passiva): você é Imune a Dano Sanguíneo e tem 5 de Resistência a Dano Venenoso. O Dano Venenoso corrói seus ossos, por isso ainda é efetivo. Você possui Resistência a Dano Perfurante iguais a um Modificador de algum Atributo, à sua escolha. Uma vez feita essa escolha, você não poderá desfazer. Por último, você possui 10 de Fraqueza a Dano de Impacto.
 
 #### Desencaixar
 
