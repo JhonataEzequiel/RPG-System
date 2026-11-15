@@ -4,15 +4,21 @@ Tudo é feito de energia, em um grau maior ou menor. Quando um corpo qualquer so
 
 ### Habilidades de Raça
 
-**Queda de Gato** (Passiva): você recebe metade da instância de dano ocasionada por Queda Livre.
+#### Queda de Gato
 
-**Roubo de Vida** (Passiva | Limite de Usos: uma vez por Turno): ao causar uma instância de dano a um inimigo, com exceção de Dano Contínuo, você recebe uma recuperação de PVs cujo valor depende do seu Nível, de acordo com a tabela abaixo. Ela conta como uma instância de cura.
+- **Queda de Gato** (Passiva): você recebe metade da instância de dano ocasionada por Queda Livre.
 
-| Nível | Grau | Dado |
-| ----- | ---- | ---- |
-| 1-4   | -    | 1 PV |
-| 5-12  | 1    | 1d4  |
-| 13-17 | 2    | 1d6  |
-| 18-20 | 3    | 1d8  |
+#### Roubo de Vida
 
-**Garras Felinas** (Passiva): você pode escolher causar Dano Cortante, em vez de Dano de Impacto, com cada Ataque Desarmado.
+- **Roubo de Vida** (Passiva | Limite de Usos: uma vez por Turno): ao causar uma instância de dano a um inimigo, com exceção de Dano Contínuo, você recebe uma recuperação de PVs cujo valor depende do seu Nível, de acordo com a tabela abaixo. Ela conta como uma instância de cura.
+
+|Nível|Grau|Dado|
+|---|---|---|
+|1-4|-|1 PV|
+|5-12|1|1d4|
+|13-17|2|1d6|
+|18-20|3|1d8|
+
+#### Garras Felinas
+
+- **Garras Felinas** (Passiva): você pode escolher causar Dano Cortante, em vez de Dano de Impacto, com cada Ataque Desarmado.

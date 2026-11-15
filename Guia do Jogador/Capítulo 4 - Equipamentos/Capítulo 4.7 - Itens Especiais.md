@@ -73,7 +73,7 @@ Toxina extremamente poderosa extraída de sapos raros que vivem em regiões trop
 
 ## Cachimbo do Gnômio
 
-Famoso entre tribos de Gnomos, apenas os melhores manuseadores de ervas podem criá-lo. Aquele que tragar do Cachimbo do Gnômio ficará Imune a Exaustão e Dano Psíquico por uma semana. O custo varia entre 300 PL e 350 PL.
+Famoso entre tribos de Gnomos, apenas os melhores manuseadores de ervas podem criá-lo. Aquele que tragar do Cachimbo do Gnômio ficará Imune à Condição Exausto e Dano Psíquico por uma semana. O custo varia entre 300 PL e 350 PL.
 
 ## Anéis Mágicos
 

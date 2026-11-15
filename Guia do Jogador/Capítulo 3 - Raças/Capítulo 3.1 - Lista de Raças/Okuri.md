@@ -2,9 +2,13 @@ Os Okuri são um povo de "Homens-Cão". Eles têm uma aparência diversa, assumi
 
 ### Habilidades de Raça
 
-**Faro Aguçado** (Passiva): você tem +2 no BA de Testes de Percepção.
+#### Faro Aguçado
 
-**Seguidor** (Ativa | Custo de Ações: Reação | Alcance: igual ao seu Deslocamento): você fica sempre atento aos seus arredores. Sempre que uma criatura dentro do alcance falhar em uma Salvaguarda, você pode fazer um Ataque de Oportunidade contra um alvo que também esteja dentro do alcance. Se quem falhou foi um aliado, o alvo é a criatura que causou a Salvaguarda. Se foi um inimigo, o alvo é o próprio inimigo. Você anda até o alvo e o Ataca, terminando o Ataque de Oportunidade adjacente a ele. Esse movimento não gasta o seu Deslocamento da Rodada e não provoca Ataques de Oportunidade. Este Ataque de Oportunidade consome a sua Reação da Rodada, como qualquer outro.
+- **Faro Aguçado** (Passiva): você tem +2 no BA de Testes de Percepção.
+
+#### Seguidor
+
+- **Seguidor** (Ativa | Custo de Ações: Reação | Alcance: igual ao seu Deslocamento): você fica sempre atento aos seus arredores. Sempre que uma criatura dentro do alcance falhar em uma Salvaguarda, você pode fazer um Ataque de Oportunidade contra um alvo que também esteja dentro do alcance. Se quem falhou foi um aliado, o alvo é a criatura que causou a Salvaguarda. Se foi um inimigo, o alvo é o próprio inimigo. Você anda até o alvo e o Ataca, terminando o Ataque de Oportunidade adjacente a ele. Esse movimento não gasta o seu Deslocamento da Rodada e não provoca Ataques de Oportunidade. Este Ataque de Oportunidade consome a sua Reação da Rodada, como qualquer outro.
 
 #### Forma Espectral
 

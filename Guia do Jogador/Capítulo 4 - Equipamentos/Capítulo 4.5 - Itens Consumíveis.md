@@ -1,6 +1,6 @@
 Qualquer item que é gasto após o uso é chamado de Item Consumível. Eles são subdivididos entre Resinas, Itens Arremessáveis, Poções e Venenos. Utilizar um Item Consumível requer uma quantidade de Ações ou Ações Bônus que dependerá do item. Qualquer Item Consumível pesa 0,5 unidade de Peso.
 
-Caso queira construir seu personagem em volta desses itens, confira o Arquétipo do Alquimista, disponível no Capítulo 5.1 - Lista de Habilidades. Esse Arquétipo fornecerá diversas maneiras diferentes de se utilizar os Itens Consumíveis, além de formas de criá-los.
+Caso queira construir seu personagem em volta desses itens, confira o Arquétipo do Alquimista, disponível no Capítulo 5.1 - Arquétipos. Esse Arquétipo fornecerá diversas maneiras diferentes de se utilizar os Itens Consumíveis, além de formas de criá-los.
 
 ## Resinas
 

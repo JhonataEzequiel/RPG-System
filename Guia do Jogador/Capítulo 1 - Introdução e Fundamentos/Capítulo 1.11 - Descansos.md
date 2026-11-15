@@ -2,7 +2,7 @@ Em um mundo cheio de perigos, é necessário parar para recarregar as energias d
 
 Um Descanso é um período de pelo menos uma hora, fora de combate, dedicado a atividades leves, como dormir, comer, conversar ou ler. Combate ou qualquer esforço intenso o interrompe. Horas incompletas são descartadas, ou seja, um Descanso de uma hora e meia conta como uma hora. Existem dois tipos de Descanso: Descanso Curto e Descanso Longo.
 
-Habilidades que dizem "uma vez por Descanso" são recarregadas tanto em um Descanso Curto quanto em um Descanso Longo. Habilidades que citam um tipo específico de Descanso só são recarregadas nele.
+Habilidades que dizem "uma vez por Descanso" são recarregadas tanto em um Descanso Curto quanto em um Descanso Longo. Habilidades que citam especificamente o Descanso Longo só são recarregadas nele.
 
 ## Descanso Curto
 

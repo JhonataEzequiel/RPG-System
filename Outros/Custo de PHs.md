@@ -127,7 +127,7 @@ O preço da Margem de Ameaça considera Ataques com Arma e Ataques Mágicos.
 
 Efeitos utilitários menores são efeitos situacionais, sem impacto direto no combate e que não são Condições, como respirar debaixo d'água, escalar paredes ou falar com animais.
 
-Os limites de CA (+3) e de BA (+10) do Capítulo 1.14 não alteram os preços.
+Os limites de CA (+3) e de BA (+10) do Capítulo 5 não alteram os preços.
 
 #### Equivalências
 

@@ -33,7 +33,7 @@ A CA é calculada como (Capítulo 1.6):
 
 **CA = 10 + BP + Escalas + Outros**
 
-Onde Escalas são os bônus das Escalas da Armadura, e Outros inclui o bônus da própria Armadura e as Habilidades. O Atributo entra pelas Escalas, que concedem +1 de CA a cada valor par do Atributo, até o 10. Uma Armadura tem até duas Escalas, então elas concedem até +10 de CA. O bônus da própria Armadura vai até +8 na lista atual, no entanto o limite será +10. Habilidades concedem até +3 (Capítulo 1.14). Considerando que o PDJ é Proficiente na Armadura, no NV 20:
+Onde Escalas são os bônus das Escalas da Armadura, e Outros inclui o bônus da própria Armadura e as Habilidades. O Atributo entra pelas Escalas, que concedem +1 de CA a cada valor par do Atributo, até o 10. Uma Armadura tem até duas Escalas, então elas concedem até +10 de CA. O bônus da própria Armadura vai até +8 na lista atual, no entanto o limite será +10. Habilidades concedem até +3 (Capítulo 5). Considerando que o PDJ é Proficiente na Armadura, no NV 20:
 
 **CA = 10 + 22 + 10 + 10 + 3 = 55**
 
@@ -51,7 +51,7 @@ Assumindo que a CA de um monstro de NV X com CA máxima é igual à CA máxima d
 
 **BA da Arma = Escalas + BP + Outros**
 
-As Escalas de uma Arma concedem +1 de BA a cada valor par do Atributo, até o 10, e uma Arma tem até duas Escalas, então elas concedem até +10 de BA. Habilidades concedem até +10 de BA em Ataques, e depois disso cada dois pontos valem um (Capítulo 1.14). Assim:
+As Escalas de uma Arma concedem +1 de BA a cada valor par do Atributo, até o 10, e uma Arma tem até duas Escalas, então elas concedem até +10 de BA. Habilidades concedem até +10 de BA em Ataques, e depois disso cada dois pontos valem um (Capítulo 5). Assim:
 
 **BA = 22 + 10 + 10 = 42**
 

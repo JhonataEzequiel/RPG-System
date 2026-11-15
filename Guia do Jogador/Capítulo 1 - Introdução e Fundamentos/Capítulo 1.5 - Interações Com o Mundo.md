@@ -14,7 +14,7 @@ Tipo de ação menor dedicado para atividades complementares de complexidade e e
 
 ## Reação
 
-Reações são ações que precisam que um critério seja atendido para poderem ser utilizadas. Elas só podem ser utilizadas fora do seu Turno. Você tem uma Reação por Rodada, recuperada no início de cada Rodada. Usar uma Reação não consome Ações nem Ações Bônus.
+Reações são ações que precisam que um gatilho seja atendido para poderem ser utilizadas. Elas podem ser utilizadas a qualquer momento, inclusive durante o seu Turno, desde que o gatilho ocorra. Você tem uma Reação por Rodada, recuperada no início de cada Rodada. Usar uma Reação não consome Ações nem Ações Bônus.
 
 ## Movimentação
 

@@ -1,6 +1,6 @@
 Cada Raça possui um Deslocamento e um Tamanho característicos, além de Habilidades exclusivas, sendo esses os diferenciais entre elas. As Habilidades que cada Raça possui são chamadas de Habilidades de Raça. Todas as Raças falam o Idioma Comum.
 
-As Habilidades de Raça são gratuitas e não seguem nenhuma regra de limite. Elas seguem as demais regras de Habilidades, como as de Habilidades passivas e ativas (veja o Capítulo 1.14 - Regras Básicas de Habilidades).
+As Habilidades de Raça são gratuitas e não seguem nenhuma regra de limite. Elas seguem as demais regras de Habilidades, como as de Habilidades passivas e ativas (veja o Capítulo 5 - Habilidades).
 
 Algumas Raças deixam você escolher uma Procedência diferente. Não se trata de uma sub-raça, mas sim de onde seu personagem veio. Os Halflings, os Revenãs e os Sideria são as Raças com essa opção.
 

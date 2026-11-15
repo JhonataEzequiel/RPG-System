@@ -12,13 +12,13 @@ Anãos possuem a capacidade de imbuir equipamentos de acordo com as suas proprie
 - **Runa de Ouro** (Ativa | Custo de Ações: Ação Livre | Alvo: Armas | Duração: um Ataque | Limite de Usos: uma vez por Encontro): o usuário da Runa pode escolher trocar o tipo de dano da Arma para um dos três tipos de Dano Elemental em um único Ataque. A troca deve ser feita antes do Ataque. O Ataque com o tipo de dano trocado também recebe um bônus no BD: você adiciona um Modificador seu, à sua escolha. Além disso, adicione também metade do seu BP.
 - **Runa de Esmeralda** (Passiva | Alvo: equipamentos): ao finalizar um Encontro, quem estiver carregando o equipamento recebe uma recuperação de Mana. O Grau dela depende do seu Nível, e não do Nível de quem carrega o equipamento, de acordo com a tabela abaixo. Ela conta como uma instância de restauração de Mana.
 
-|Nível|Grau|Dado|
-|---|---|---|
-|1-2|1|1d4|
-|3-4|2|1d6|
-|5-6|3|1d8|
-|7-8|4|1d10|
-|9-10|5|1d12|
-|11-12|6|2d6|
-|13-14|7|2d8|
-|15+|8|2d10|
+| Nível | Grau | Dado |
+| ----- | ---- | ---- |
+| 1-2   | 1    | 1d4  |
+| 3-4   | 2    | 1d6  |
+| 5-6   | 3    | 1d8  |
+| 7-8   | 4    | 1d10 |
+| 9-10  | 5    | 1d12 |
+| 11-12 | 6    | 2d6  |
+| 13-14 | 7    | 2d8  |
+| 15+   | 8    | 2d10 |

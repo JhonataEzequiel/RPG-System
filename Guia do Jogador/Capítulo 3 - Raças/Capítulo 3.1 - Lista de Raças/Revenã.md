@@ -8,11 +8,17 @@ Como Revenã, você escolhe uma Procedência: Zumbi ou Esqueleto. Ambas comparti
 
 ### Habilidades de Raça
 
-**Corpo Decaído** (Passiva): toda vez que você sobe de Nível, o ganho de PVs Máximos é reduzido em 1, podendo chegar a 0.
+#### Corpo Decaído
 
-**Natureza Sombria** (Passiva): você tem Fraqueza 5 a Dano Luminoso. Você não pode ter nenhuma Resistência nem Imunidade a Dano Luminoso.
+- **Corpo Decaído** (Passiva): toda vez que você sobe de Nível, o ganho de PVs Máximos é reduzido em 1, podendo chegar a 0.
 
-**Pária** (Passiva): você tem Desvantagem em Testes de Persuasão e Enganação caso não esteja disfarçado, e +3 no BA de Testes de Intimidação. Para se disfarçar, faça um Teste de Atuação de CD 15 ao finalizar um Descanso. A CD pode variar, a depender das circunstâncias, e você também pode realizar esse Teste em outros momentos, caso o Mestre permita.
+#### Natureza Sombria
+
+- **Natureza Sombria** (Passiva): você tem Fraqueza 5 a Dano Luminoso. Você não pode ter nenhuma Resistência nem Imunidade a Dano Luminoso.
+
+#### Pária
+
+- **Pária** (Passiva): você tem Desvantagem em Testes de Persuasão e Enganação caso não esteja disfarçado, e +3 no BA de Testes de Intimidação. Para se disfarçar, faça um Teste de Atuação de CD 15 ao finalizar um Descanso. A CD pode variar, a depender das circunstâncias, e você também pode realizar esse Teste em outros momentos, caso o Mestre permita.
 
 ## Revenã Zumbi
 
@@ -20,11 +26,17 @@ Os Revenãs Zumbis são cadáveres reanimados que mantêm a carne, ainda que apo
 
 ### Habilidades de Raça
 
-**Incansável** (Passiva): você é Imune a qualquer instância de Exaustão, podendo escolher por quais é afetado, se desejar. A exceção é a Exaustão ocasionada por estar sobrecarregado (exceder a Capacidade de Carga). Para mais detalhes, confira o Capítulo 4 - Equipamentos. Além disso, caso esteja Morrendo, você ainda pode agir e se mover normalmente, mesmo sem uma instância de cura. Os demais efeitos das Condições Morrendo e Incapacitado continuam valendo, como as falhas automáticas em Salvaguardas de Força e Destreza e as regras de instâncias de dano e de cura.
+#### Incansável
 
-**Regeneração dos Mortos** (Passiva): você se cura em Grau 6 ao final de cada Encontro. Você não recebe a cura caso esteja Morrendo.
+- **Incansável** (Passiva): você é Imune a qualquer instância de Exaustão, podendo escolher por quais é afetado, se desejar. A exceção é a Exaustão ocasionada por estar sobrecarregado (exceder a Capacidade de Carga). Para mais detalhes, confira o Capítulo 4 - Equipamentos. Além disso, caso esteja Morrendo, você ainda pode agir e se mover normalmente, mesmo sem uma instância de cura. Os demais efeitos das Condições Morrendo e Incapacitado continuam valendo, como as falhas automáticas em Salvaguardas de Força e Destreza e as regras de instâncias de dano e de cura.
 
-**Praga** (Passiva): seus Ataques transmitem energia sombria. Você causa um adicional de dano igual a um Modificador, à sua escolha. O dano adicional é Dano Sombrio. Você pode escolher não utilizar essa Habilidade sempre que quiser.
+#### Regeneração dos Mortos
+
+- **Regeneração dos Mortos** (Passiva): você se cura em Grau 6 ao final de cada Encontro. Você não recebe a cura caso esteja Morrendo.
+
+#### Praga
+
+- **Praga** (Passiva): seus Ataques transmitem energia sombria. Você causa um adicional de dano igual a um Modificador, à sua escolha. O dano adicional é Dano Sombrio. Você pode escolher não utilizar essa Habilidade sempre que quiser.
 
 ## Revenã Esqueleto
 
@@ -32,7 +44,9 @@ Os Revenãs Esqueletos são mortos reduzidos aos ossos, capazes de separar os pr
 
 ### Habilidades de Raça
 
-**Ossudo** (Passiva): você é Imune a Dano Sanguíneo e tem 5 de Resistência a Dano Venenoso. O Dano Venenoso corrói seus ossos, por isso ainda é efetivo. Você possui Resistência a Dano Perfurante iguais a um Modificador de algum Atributo, à sua escolha. Uma vez feita essa escolha, você não poderá desfazer. Por último, você possui 10 de Fraqueza a Dano de Impacto.
+#### Ossudo
+
+- **Ossudo** (Passiva): você é Imune a Dano Sanguíneo e a Dano Venenoso. Você possui Resistência a Dano Ígneo e a Dano Perfurante iguais a um Modificador de algum Atributo, à sua escolha. Por último, você possui Fraqueza 5 a Dano de Impacto.
 
 #### Desencaixar
 
@@ -41,6 +55,10 @@ Você pode separar do corpo os seus quatro membros: os dois braços e as duas pe
 - **Desencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um dos seus braços ou pernas): você remove o membro do seu corpo. Ao desencaixar uma de suas pernas, você perde metade do seu Deslocamento. Ao desencaixar as duas, perde todo o Deslocamento. Deslocamento Aquático não é afetado. Ao desencaixar um braço, você deixa cair qualquer item que estiver segurando com ele.
 - **Reencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um membro seu adjacente a você): você recoloca o membro no seu corpo, sem precisar receber uma instância de cura. Isso vale para membros desencaixados e para qualquer membro perdido por desmembramento.
 
-**Cálcio** (Passiva): ao receber uma instância de cura, você recupera quaisquer membros perdidos. Além disso, você pode escolher recuperar um membro que você desencaixou. Neste caso, perde o controle do membro desencaixado e recebe um novo. Sempre que receber uma instância de cura que não venha de uma Poção, você se cura em um adicional igual a um Modificador de algum Atributo, à sua escolha. Esse aumento não se aplica à cura de Descansos. Ao tomar uma Poção, você a derrama em seus ossos, que a absorvem, curando sempre o máximo possível da Poção, caso seja de restauração. Para mais detalhes, confira o Capítulo 4.6 - Itens Consumíveis.
+#### Cálcio
 
-**Se Juntar** (Passiva | Limite de Usos: uma vez por Descanso Longo): ao cair a 0 PVs, seus ossos se separam, caem no chão e se juntam novamente, fazendo você retornar com Grau 5 de PVs, e isso conta como uma instância de cura.
+- **Cálcio** (Passiva): ao receber uma instância de cura, você recupera quaisquer membros perdidos. Além disso, você pode escolher recuperar um membro que você desencaixou. Neste caso, perde o controle do membro desencaixado e recebe um novo. Sempre que receber uma instância de cura que não venha de uma Poção, você se cura em um adicional igual a um Modificador de algum Atributo, à sua escolha. Esse aumento não se aplica à cura de Descansos. Ao tomar uma Poção, você a derrama em seus ossos, que a absorvem, curando sempre o máximo possível da Poção, caso seja de restauração. Para mais detalhes, confira o Capítulo 4.5 - Itens Consumíveis.
+
+#### Se Juntar
+
+- **Se Juntar** (Passiva | Limite de Usos: uma vez por Descanso Longo): ao cair a 0 PVs, seus ossos se separam, caem no chão e se juntam novamente, fazendo você retornar com Grau 5 de PVs, e isso conta como uma instância de cura.

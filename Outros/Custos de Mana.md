@@ -119,28 +119,28 @@ Servos invocados sempre duram 1 Encontro e sempre agem logo após o mestre deles
 
 ### 2.2 Efeitos Temporários
 
-|Efeito|1 Rodada|2 Rodadas|3 Rodadas|4 Rodadas|1 Encontro|
-|---|---|---|---|---|---|
-|+1 de BD|0,1 PM|0,15 PM|0,2 PM|0,25 PM|0,5 PM|
-|+1 de Resistência (por tipo de dano)|0,1 PM|0,15 PM|0,2 PM|0,25 PM|0,5 PM|
-|+1 de Fraqueza aplicada (por tipo de dano)|0,1 PM|0,15 PM|0,2 PM|0,25 PM|0,5 PM|
-|+1,5 metros de Alcance Corpo a Corpo|2 PM|2,5 PM|3 PM|4 PM|5 PM|
-|+1,5 metros de Alcance de Ataques Mágicos|2 PM|2,5 PM|3 PM|4 PM|5 PM|
-|+1,5 metros de Deslocamento / -1,5 metros no alvo|1 PM|2 PM|2,5 PM|3 PM|4 PM|
-|Deslocamento do alvo reduzido pela metade|3 PM|6 PM|8 PM|9 PM|12 PM|
-|Deslocamento de Voo (1,5 metros)|1 PM|2,5 PM|3 PM|3,5 PM|5 PM|
-|+1 em Teste de Perícia|0,25 PM|0,3 PM|0,35 PM|0,4 PM|0,5 PM|
-|+1 em um Atributo|0,5 PM|0,9 PM|1,3 PM|1,6 PM|2,5 PM|
-|+1 de BA / retirar 1 de BA do alvo|1 PM|1,5 PM|2 PM|3 PM|3 PM|
-|+1 de CA / retirar 1 de CA do alvo|1 PM|1,5 PM|2 PM|3 PM|3 PM|
-|+1 na Margem de Ameaça|0,3 PM|0,45 PM|0,6 PM|0,75 PM|1,5 PM|
-|1 PV Temporário|0,3 PM|0,35 PM|0,4 PM|0,45 PM|0,5 PM|
-|1 PM Temporário|0,75 PM|0,9 PM|1 PM|1,1 PM|1,25 PM|
-|1 de Regeneração de PV|0,5 PM|1,1 PM|1,8 PM|2,5 PM|6 PM|
-|1 de Regeneração de PM|1,5 PM|3,3 PM|5,4 PM|7,5 PM|18 PM|
-|1 de Dano Contínuo|0,25 PM|0,55 PM|0,9 PM|1,25 PM|3 PM|
-|1 de Dano Persistente em Área (multiplica pela Área)|0,25 PM|0,5 PM|0,75 PM|1 PM|2 PM|
-|Efeito utilitário menor|0,25 PM|0,4 PM|0,5 PM|0,6 PM|1 PM|
+| Efeito                                               | 1 Rodada | 2 Rodadas | 3 Rodadas | 4 Rodadas | 1 Encontro |
+| ---------------------------------------------------- | -------- | --------- | --------- | --------- | ---------- |
+| +1 de BD                                             | 0,1 PM   | 0,15 PM   | 0,2 PM    | 0,25 PM   | 0,5 PM     |
+| +1 de Resistência (por tipo de dano)                 | 0,1 PM   | 0,15 PM   | 0,2 PM    | 0,25 PM   | 0,5 PM     |
+| +1 de Fraqueza aplicada (por tipo de dano)           | 0,1 PM   | 0,15 PM   | 0,2 PM    | 0,25 PM   | 0,5 PM     |
+| +1,5 metros de Alcance Corpo a Corpo                 | 2 PM     | 2,5 PM    | 3 PM      | 4 PM      | 5 PM       |
+| +1,5 metros de Alcance de Ataques Mágicos            | 2 PM     | 2,5 PM    | 3 PM      | 4 PM      | 5 PM       |
+| +1,5 metros de Deslocamento / -1,5 metros no alvo    | 1 PM     | 2 PM      | 2,5 PM    | 3 PM      | 4 PM       |
+| Deslocamento do alvo reduzido pela metade            | 3 PM     | 6 PM      | 8 PM      | 9 PM      | 12 PM      |
+| Deslocamento de Voo (1,5 metros)                     | 1 PM     | 2,5 PM    | 3 PM      | 3,5 PM    | 5 PM       |
+| +1 em Teste de Perícia                               | 0,25 PM  | 0,3 PM    | 0,35 PM   | 0,4 PM    | 0,5 PM     |
+| +1 em um Atributo                                    | 0,5 PM   | 0,9 PM    | 1,3 PM    | 1,6 PM    | 2,5 PM     |
+| +1 de BA / retirar 1 de BA do alvo                   | 1 PM     | 1,5 PM    | 2 PM      | 3 PM      | 3 PM       |
+| +1 de CA / retirar 1 de CA do alvo                   | 1 PM     | 1,5 PM    | 2 PM      | 3 PM      | 3 PM       |
+| +1 na Margem de Ameaça                               | 0,3 PM   | 0,45 PM   | 0,6 PM    | 0,75 PM   | 1,5 PM     |
+| 1 PV Temporário                                      | 0,3 PM   | 0,35 PM   | 0,4 PM    | 0,45 PM   | 0,5 PM     |
+| 1 PM Temporário                                      | 0,75 PM  | 0,9 PM    | 1 PM      | 1,1 PM    | 1,25 PM    |
+| 1 de Regeneração de PV                               | 0,5 PM   | 1,1 PM    | 1,8 PM    | 2,5 PM    | 6 PM       |
+| 1 de Regeneração de PM                               | 1,5 PM   | 3,3 PM    | 5,4 PM    | 7,5 PM    | 18 PM      |
+| 1 de Dano Contínuo                                   | 0,25 PM  | 0,55 PM   | 0,9 PM    | 1,25 PM   | 3 PM       |
+| 1 de Dano Persistente em Área (multiplica pela Área) | 0,25 PM  | 0,5 PM    | 0,75 PM   | 1 PM      | 2 PM       |
+| Efeito utilitário menor                              | 0,25 PM  | 0,4 PM    | 0,5 PM    | 0,6 PM    | 1 PM       |
 
 Efeitos utilitários menores são efeitos situacionais, sem impacto direto no combate e que não são Condições, como respirar debaixo d'água, escalar paredes ou enxergar no escuro.
 

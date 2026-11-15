@@ -78,7 +78,7 @@ As regras gerais de Escalas estão no Capítulo 4 - Equipamentos. Caso a sua Arm
 
 O alcance de cada Arma está na sua tabela e varia de uma Arma para outra. Atacar além dele impõe Desvantagem e -1 no BA para cada 9 metros além do alcance, sem limite de distância.
 
-Existem três tipos de Armas à Distância: Arcos, Bestas e Armas de Fogo. Bestas e Armas de Fogo precisam recarregar. Recarregar custa uma Ação, e o custo é o mesmo ao recarregar uma ou duas Armas ao mesmo tempo. O Arquétipo "Bucaneiro" tem Habilidades que tornam essas Armas opções interessantes, confira-o no Capítulo 5.1 - Lista de Habilidades.
+Existem três tipos de Armas à Distância: Arcos, Bestas e Armas de Fogo. Bestas e Armas de Fogo precisam recarregar. Recarregar custa uma Ação, e o custo é o mesmo ao recarregar uma ou duas Armas ao mesmo tempo. O Arquétipo "Bucaneiro" tem Habilidades que tornam essas Armas opções interessantes, confira-o no Capítulo 5.1 - Arquétipos
 
 ### Arcos
 
