@@ -34,14 +34,16 @@ Cada efeito é um item da lista, com a sua própria linha de parênteses. Os cam
 |Ativa ou Passiva|Todo efeito|Sempre o primeiro item. Efeitos ativos custam uma Ação, uma Ação Livre, uma Ação Bônus ou uma Reação, e os passivos não custam nada.|
 |Custo de Ações|Ativa|Uma Ação, Duas Ações, Três Ações, Ação Livre, Ação Bônus ou Reação.|
 |Custo de Mana|Ativa|A quantidade de PMs.|
-|Alcance|Todo efeito|Toque, uma distância em metros ou Ilimitado.|
-|Alvo|Todo efeito|Quem ou o que é afetado: você, uma criatura, um Objeto, uma Área (formato e tamanho) etc.|
+|Alcance|Todo efeito|Apenas a distância até a qual o efeito pode ser usado: Toque, uma distância em metros, Deslocamento ou Ilimitado.|
+|Alvo|Todo efeito|Apenas quem ou o que é afetado: você, uma criatura, múltiplas criaturas, um Objeto, uma Área (formato e tamanho) etc. Não indica distância.|
 |Duração|Todo efeito|Instantânea, uma quantidade de Rodadas, um Encontro, uma quantidade de horas ou de dias etc.|
 |Limite de Usos|Todo efeito|Quantas vezes o efeito pode ser usado e a cada quanto tempo, como uma vez por Encontro, por Descanso, por Descanso Curto ou por Descanso Longo.|
 
 ## Regras de Escrita
 
 - Campos que não se aplicam a um efeito são omitidos.
+- Alcance e Alvo são campos separados. O Alcance traz apenas a distância, e o Alvo traz apenas quem ou o que é afetado, sem mencionar o alcance. Por exemplo, "Alcance: 9 metros | Alvo: múltiplas criaturas", e não "Alvo: criaturas no alcance".
+- Quando o alcance for o Deslocamento, escreve-se apenas "Deslocamento", e não "igual ao seu Deslocamento". A definição está no Capítulo 5 - Habilidades.
 - A descrição geral é omitida quando não há regras que valham para todos os efeitos.
 - Uma Habilidade com um único efeito também usa a lista, com um só item. Esse efeito tem o mesmo nome da Habilidade, a não ser que ele tenha um nome próprio.
 - Efeitos com custos, alcances ou durações diferentes são itens separados da lista, cada um com a sua linha de parênteses.

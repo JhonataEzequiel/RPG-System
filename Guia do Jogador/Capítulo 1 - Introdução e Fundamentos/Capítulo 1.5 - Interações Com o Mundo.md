@@ -60,9 +60,9 @@ O BA é calculado da seguinte maneira:
 
 ## Críticos
 
-**Sucesso Crítico**: Ao tirar 20 natural em um Teste (o número do d20 antes de aplicar os bônus), você tem um Sucesso Crítico. Você sempre é bem-sucedido no Teste, independentemente da CD, ainda que ela seja maior que a soma total com seus bônus. Um efeito benéfico adicional também acompanha um Sucesso Crítico e varia de regra para regra.
+**Sucesso Crítico**: ao tirar 20 natural em um Teste (o número do d20 antes de aplicar os bônus), você tem um Sucesso Crítico. Você sempre é bem-sucedido no Teste, independentemente da CD, ainda que ela seja maior que a soma total com seus bônus. Um efeito benéfico adicional também acompanha um Sucesso Crítico e varia de regra para regra.
 
-**Falha Crítica**: De maneira análoga, se tirar 1 natural, você tem uma Falha Crítica. Você sempre falha nesse Teste, mesmo que, em teoria, tivesse sido bem-sucedido ao somar os bônus. Um efeito negativo adicional também acompanha uma Falha Crítica e varia de regra para regra.
+**Falha Crítica**: de maneira análoga, se tirar 1 natural, você tem uma Falha Crítica. Você sempre falha nesse Teste, mesmo que, em teoria, tivesse sido bem-sucedido ao somar os bônus. Um efeito negativo adicional também acompanha uma Falha Crítica e varia de regra para regra.
 
 Para efeitos críticos não cobertos pelas regras, o resultado fica a critério do Mestre. Por exemplo, tirar uma Falha Crítica num Teste ao tentar abrir uma porta emperrada pode fazer com que a porta entorte e se torne ainda mais difícil de ser aberta.
 

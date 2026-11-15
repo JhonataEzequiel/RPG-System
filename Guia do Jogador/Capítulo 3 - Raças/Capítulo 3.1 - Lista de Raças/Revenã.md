@@ -53,7 +53,7 @@ Os Revenãs Esqueletos são mortos reduzidos aos ossos, capazes de separar os pr
 Você pode separar do corpo os seus quatro membros: os dois braços e as duas pernas. Um membro desencaixado ainda é considerado parte do seu corpo até que ultrapasse uma distância máxima de 120 metros em relação ao seu corpo. Você controla a parte removida livremente. Caso ela seja afastada ainda mais, você perde o controle dela, e ela deixa de fazer parte do seu corpo e se torna um Objeto. Partes desencaixadas só podem realizar Ações Livres e têm um Deslocamento de 9 metros. Elas se movem e agem apenas durante o seu Turno, em paralelo a você, e não podem agir fora dele. Caso uma parte desencaixada receba dano, você não o recebe, mas perde o controle dela, e ela deixa de fazer parte do seu corpo e se torna um Objeto.
 
 - **Desencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um dos seus braços ou pernas): você remove o membro do seu corpo. Ao desencaixar uma de suas pernas, você perde metade do seu Deslocamento. Ao desencaixar as duas, perde todo o Deslocamento. Deslocamento Aquático não é afetado. Ao desencaixar um braço, você deixa cair qualquer item que estiver segurando com ele.
-- **Reencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alvo: um membro seu adjacente a você): você recoloca o membro no seu corpo, sem precisar receber uma instância de cura. Isso vale para membros desencaixados e para qualquer membro perdido por desmembramento.
+- **Reencaixar Membro** (Ativa | Custo de Ações: Ação Bônus | Alcance: 1,5 metros | Alvo: um membro seu): você recoloca o membro no seu corpo, sem precisar receber uma instância de cura. Isso vale para membros desencaixados e para qualquer membro perdido por desmembramento.
 
 #### Cálcio
 

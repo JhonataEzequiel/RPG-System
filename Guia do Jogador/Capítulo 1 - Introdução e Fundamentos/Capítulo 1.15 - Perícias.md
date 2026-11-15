@@ -37,7 +37,7 @@ Segue uma lista com todas as Perícias e a qual Atributo estão atreladas:
 
 ## Vínculo
 
-1. **Intuição**: Você pode tentar descobrir se outro personagem quer o bem ou o mal em uma determinada ação. Também consegue intuir as reais intenções de alguém.
+1. **Intuição**: você pode tentar descobrir se outro personagem quer o bem ou o mal em uma determinada ação. Também consegue intuir as reais intenções de alguém.
 
 ## Carisma
 

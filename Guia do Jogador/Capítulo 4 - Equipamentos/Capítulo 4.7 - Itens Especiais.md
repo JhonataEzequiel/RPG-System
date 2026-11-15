@@ -101,7 +101,7 @@ Encantamento que pode ser colocado em qualquer Escudo. Com uma Ação Bônus voc
 
 Espada grande que emana uma luz verde-azulada. É composta em sua maior parte por uma energia mágica, mas possui uma lâmina por baixo de toda essa energia. Ela possui uma Habilidade única. Esse item não pode ser comprado, e deve ser uma recompensa de uma aventura épica.
 
-**Feixes de Luz** (Ativa | Custo de Ações: duas Ações): Todas as criaturas no alcance de 18 metros em cone terão que passar por uma Salvaguarda de Destreza CD 15 + Arc + BP para desviar do Ataque. Caso contrário, um feixe de luz que sai ao balançar a espada os atinge, causando Grau 10 + Arc de algum Dano Mágico que não seja Sombrio, à sua escolha.
+**Feixes de Luz** (Ativa | Custo de Ações: Duas Ações): todas as criaturas no alcance de 18 metros em cone terão que passar por uma Salvaguarda de Destreza CD 15 + Arc + BP para desviar do Ataque. Caso contrário, um feixe de luz que sai ao balançar a espada os atinge, causando Grau 10 + Arc de algum Dano Mágico que não seja Sombrio, à sua escolha.
 
 |Arma|Preço|Dano|Requisitos|Escalas|Aumento de Alcance|Peso|
 |---|---|---|---|---|---|---|
@@ -127,6 +127,6 @@ Dito como material lendário, seu preço é incalculável. Lendas dizem que Tetr
 
 Essa capa controla os espíritos do vento ao redor, utilizando-os ao seu favor. Ao equipar, você precisará entrar em contato com os espíritos, o que tornará necessário que você tenha um Descanso Longo com ela vestida. Enquanto não fizer isso, ela serve apenas como peso extra. Uma vez sintonizado com os espíritos do vento, não precisará repetir o processo caso retire a capa e a vista de novo.
 
-|Armadura|Preço|CA|Requisitos|Escalas|Penalidades|Efeitos Adicionais|Peso|
-|---|---|---|---|---|---|---|---|
-|Capa dos Ventos|5000 PL|+5|10 de Destreza|S em Destreza|-|Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica; a partir do próximo pulo, começará a contar para seu Deslocamento.|1|
+| Armadura        | Preço   | CA  | Requisitos     | Escalas       | Penalidades | Efeitos Adicionais                                                                                                                                                                                                                                                                                                    | Peso |
+| --------------- | ------- | --- | -------------- | ------------- | ----------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---- |
+| Capa dos Ventos | 5000 PL | +5  | 10 de Destreza | S em Destreza | -           | Imune a Dano de Queda e a Ataques a Distância que causem apenas Dano Físico, pois a capa repele os projéteis. Sua distância de pulo também é duplicada, e não conta mais para o seu Deslocamento. Você pode pular uma vez com essa característica; a partir do próximo pulo, começará a contar para seu Deslocamento. | 1    |

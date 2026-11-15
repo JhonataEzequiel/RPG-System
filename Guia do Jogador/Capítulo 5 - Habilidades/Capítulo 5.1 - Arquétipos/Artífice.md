@@ -1,4 +1,4 @@
-O Arquétipo do Artífice contém Habilidades relacionadas à criação de bugigangas e itens mecânicos.
+O Arquétipo do Artífice contém Habilidades relacionadas à criação de bugigangas e itens mecânicos. 
 
 |Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
 |---|---|---|---|
@@ -40,7 +40,7 @@ As gaiolas precisam de energia para funcionar, e se alimentam da luz do sol para
 Qualquer coisa que seja considerada um Objeto pode ser guardada na gaiola. O tempo necessário para fabricar uma gaiola é de 20 minutos. Cada gaiola pesa 0,5 e é de Tamanho Minúsculo.
 
 - **Guardar Item** (Ativa | Custo de Ações: Ação Bônus | Alvo: um item de até Tamanho Grande): a gaiola encolhe o item, que fica dentro dela como se estivesse em miniatura.
-- **Liberar Item** (Ativa | Custo de Ações: Ação Bônus | Alcance: igual ao seu Deslocamento): com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do alcance.
+- **Liberar Item** (Ativa | Custo de Ações: Ação Bônus | Alcance: Deslocamento): com uma palavra mágica à sua escolha, o item é liberado em um local desocupado dentro do alcance.
 
 ### Autômatos Medianos
 

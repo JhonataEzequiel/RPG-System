@@ -1,24 +1,24 @@
 O Arquétipo do Velocista contém Habilidades relacionadas ao uso e ao aumento de velocidade.
 
-| Habilidade            | Custo de PHs | Requisitos de Atributos     | Requisitos de Habilidades                                        |
-| --------------------- | ------------ | --------------------------- | ---------------------------------------------------------------- |
-| Leve Como uma Pena    | 1            | -                           | -                                                                |
-| Escalador             | 1            | 5 de Destreza ou Força      | -                                                                |
-| Coração Forte         | 1            | -                           | -                                                                |
-| Sonido                | 1            | 4 de Destreza               | -                                                                |
-| Pulo Duplo            | 1            | 2 de Destreza e 1 de Arcano | -                                                                |
-| Adrenalina            | 1            | -                           | -                                                                |
-| Folha na Água         | 2            | 7 de Destreza               | -                                                                |
-| Investida             | 2            | 5 de Destreza               | -                                                                |
-| Velocidade de Gato    | 2            | 8 de Destreza               | -                                                                |
-| Desvanecer-se         | 2            | 6 de Destreza               | -                                                                |
-| Desfoque              | 2            | 6 de Destreza               | -                                                                |
-| Guepardo              | 3            | -                           | "Leve Como uma Pena" de Custo 1, "Velocidade de Gato" de Custo 2 |
-| Aumento de Velocidade | 3            | 9 de Destreza               | -                                                                |
-| Intocável             | 3            | 10 de Destreza              | -                                                                |
-| Blitzkrieg            | 3            | 10 de Destreza              | -                                                                |
-| Relâmpago de Plasma   | 3            | -                           | -                                                                |
-| Monarca do Movimento  | 3            | 10 de Destreza              | -                                                                |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Leve Como uma Pena|1|-|-|
+|Escalador|1|5 de Destreza ou Força|-|
+|Coração Forte|1|-|-|
+|Sonido|1|4 de Destreza|-|
+|Pulo Duplo|1|2 de Destreza e 1 de Arcano|-|
+|Adrenalina|1|-|-|
+|Folha na Água|2|7 de Destreza|-|
+|Investida|2|5 de Destreza|-|
+|Velocidade de Gato|2|8 de Destreza|-|
+|Desvanecer-se|2|6 de Destreza|-|
+|Desfoque|2|6 de Destreza|-|
+|Guepardo|3|-|"Leve Como uma Pena" de Custo 1, "Velocidade de Gato" de Custo 2|
+|Aumento de Velocidade|3|9 de Destreza|-|
+|Intocável|3|10 de Destreza|-|
+|Blitzkrieg|3|10 de Destreza|-|
+|Relâmpago de Plasma|3|-|-|
+|Monarca do Movimento|3|10 de Destreza|-|
 
 ### Leve Como uma Pena
 
@@ -45,7 +45,7 @@ Explorar o mundo com pouca bagagem é algo que você preza. Esta Habilidade só 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Destreza
 
 - **Sonido** (Passiva): ao Correr, seu Deslocamento aumenta em 9 metros. Os 9 metros são somados apenas após dobrar o Deslocamento por Correr.
-- **Distorção Veloz** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 10 PMs | Alvo: você): você Corre sem precisar gastar as duas Ações, gastando apenas a Ação Bônus desta Habilidade. Você não pode Correr normalmente no mesmo Turno em que usar essa Habilidade.
+- **Distorção Veloz** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 10 PMs | Alvo: você): você Corre sem precisar gastar as duas Ações, gastando apenas a Ação Bônus desta Habilidade.
 
 ### Pulo Duplo
 
@@ -69,7 +69,7 @@ Explorar o mundo com pouca bagagem é algo que você preza. Esta Habilidade só 
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Destreza
 
-- **Investida** (Ativa | Custo de Ações: Duas Ações | Alcance: igual ao seu Deslocamento | Alvo: um inimigo que você possa ver | Duração: até o início do seu próximo Turno): você avança contra o alvo, dobrando o seu Deslocamento para isso, e o Ataca com Vantagem. Você também tem +2 de CA contra Ataques à Distância pela duração. Você ainda pode ser alvo de Ataques de Oportunidade.
+- **Investida** (Ativa | Custo de Ações: Duas Ações | Alcance: Deslocamento | Alvo: um inimigo que você possa ver | Duração: até o início do seu próximo Turno): você avança contra o alvo, dobrando o seu Deslocamento para isso, e o Ataca com Vantagem. Você também tem +2 de CA contra Ataques à Distância pela duração. Você ainda pode ser alvo de Ataques de Oportunidade.
     
     Se você estiver Furtivo, já tem Vantagem para acertar Ataques. Neste caso, em vez de receber Vantagem por meio desta Habilidade, você tem +5 no BA do Ataque e +5 de dano caso acerte. Isso só tem efeito se a Vantagem prévia advir da Condição Furtivo.
     
@@ -120,7 +120,7 @@ Esta Habilidade só tem efeito enquanto você não estiver usando nenhuma Armadu
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Destreza
 
-- **Blitzkrieg** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 25 PMs | Alcance: igual ao seu Deslocamento | Alvo: uma criatura | Duração: 4 Rodadas): você escolhe um alvo dentro do alcance. Caso você esteja Furtivo ou com pelo menos 2 aliados adjacentes ao alvo, role um Teste de Investigação ou de Percepção para identificar algum ponto cego do alvo. A CD é a CA do alvo. O Teste faz parte das Três Ações desta Habilidade e não custa uma Ação Bônus. Se for bem-sucedido, você se move rapidamente em direção ao alvo, o Ataca e volta ao seu ponto de origem. Esse Ataque é considerado um Ataque Crítico. O alvo tem a Condição Caído até o fim da duração ou até se levantar. Ele também tem a Condição Debilitado em todos os sentidos e Desvantagem para acertar Ataques. Esta Habilidade não provoca Ataques de Oportunidade e ignora Terreno Difícil.
+- **Blitzkrieg** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 25 PMs | Alcance: Deslocamento | Alvo: uma criatura | Duração: 4 Rodadas): você escolhe um alvo dentro do alcance. Caso você esteja Furtivo ou com pelo menos 2 aliados adjacentes ao alvo, role um Teste de Investigação ou de Percepção para identificar algum ponto cego do alvo. A CD é a CA do alvo. O Teste faz parte das Três Ações desta Habilidade e não custa uma Ação Bônus. Se for bem-sucedido, você se move rapidamente em direção ao alvo, o Ataca e volta ao seu ponto de origem. Esse Ataque é considerado um Ataque Crítico. O alvo tem a Condição Caído até o fim da duração ou até se levantar. Ele também tem a Condição Debilitado em todos os sentidos e Desvantagem para acertar Ataques. Esta Habilidade não provoca Ataques de Oportunidade e ignora Terreno Difícil.
     
     Caso você falhe em identificar o ponto cego do alvo, perde as três Ações, mas não gasta a Mana.
     
@@ -131,7 +131,7 @@ Esta Habilidade só tem efeito enquanto você não estiver usando nenhuma Armadu
 
 Você só pode usar esta Habilidade se o seu Deslocamento restante no Turno for de pelo menos 48 metros no momento da ativação.
 
-- **Relâmpago de Plasma** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 20 PMs | Alcance: igual ao seu Deslocamento | Alvo: todos os inimigos no alcance): você se move tão rápido, e golpeia os inimigos com tanta ferocidade, que seus golpes parecem feixes de luz. Você ataca todos os alvos ao mesmo tempo, causando o dano de três Ataques Corpo a Corpo em cada um deles. Você retorna à sua posição inicial ao fim do seu Turno, e esta Habilidade não provoca Ataques de Oportunidade. Ela sempre acerta.
+- **Relâmpago de Plasma** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 20 PMs | Alcance: Deslocamento | Alvo: todos os inimigos): você se move tão rápido, e golpeia os inimigos com tanta ferocidade, que seus golpes parecem feixes de luz. Você ataca todos os alvos ao mesmo tempo, causando o dano de três Ataques Corpo a Corpo em cada um deles. Você retorna à sua posição inicial ao fim do seu Turno, e esta Habilidade não provoca Ataques de Oportunidade. Ela sempre acerta.
 
 ### Monarca do Movimento
 

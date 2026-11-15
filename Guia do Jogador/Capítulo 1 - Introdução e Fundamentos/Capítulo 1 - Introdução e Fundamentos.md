@@ -8,17 +8,17 @@ RPG, do inglês, _Role Playing Game_, significa "jogo de interpretação de pap�
 
 ### O Que É Necessário Para Jogar Este Jogo?
 
-**Mestre**: O Mestre é a pessoa que narra a aventura. Ele é responsável por conectar a trama e dizer o resultado das decisões dos jogadores. Sempre que uma determinada ação tomada por um personagem do jogador acontecer, o Mestre a descreve, assim como suas consequências. Ele também é responsável pela história de fundo e por outros personagens não controlados pelos jogadores, os Personagens do Mestre (PDMs).
+**Mestre**: o Mestre é a pessoa que narra a aventura. Ele é responsável por conectar a trama e dizer o resultado das decisões dos jogadores. Sempre que uma determinada ação tomada por um personagem do jogador acontecer, o Mestre a descreve, assim como suas consequências. Ele também é responsável pela história de fundo e por outros personagens não controlados pelos jogadores, os Personagens do Mestre (PDMs).
 
-**Jogadores**: Os jogadores são os responsáveis por controlar os protagonistas da história. Eles criam personagens neste novo mundo e interagem com todo o cenário criado e interpretado pelo Mestre. Esses personagens são chamados de Personagens dos Jogadores (PDJs). As ações dos PDJs impactam diretamente o andar da carruagem, podendo afetar planos futuros do Mestre ou mudar completamente a ideia inicial da Campanha. Ou os jogadores podem apenas se divertir no mundo que o Mestre trouxe à tona.
+**Jogadores**: os jogadores são os responsáveis por controlar os protagonistas da história. Eles criam personagens neste novo mundo e interagem com todo o cenário criado e interpretado pelo Mestre. Esses personagens são chamados de Personagens dos Jogadores (PDJs). As ações dos PDJs impactam diretamente o andar da carruagem, podendo afetar planos futuros do Mestre ou mudar completamente a ideia inicial da Campanha. Ou os jogadores podem apenas se divertir no mundo que o Mestre trouxe à tona.
 
-**Dados**: Um conjunto de dados típicos utilizados para jogar RPG é composto por um dado de quatro lados (1d4), um dado comum de seis lados (1d6), um de oito lados (1d8), um de dez lados (1d10), um de doze lados (1d12), um de vinte lados (1d20) e, às vezes, um de cem lados (1d100). Você precisa ter um conjunto desses em mãos ou pelo menos ter acesso a algum meio digital para rolar estes dados, como um aplicativo ou um site em específico.
+**Dados**: um conjunto de dados típicos utilizados para jogar RPG é composto por um dado de quatro lados (1d4), um dado comum de seis lados (1d6), um de oito lados (1d8), um de dez lados (1d10), um de doze lados (1d12), um de vinte lados (1d20) e, às vezes, um de cem lados (1d100). Você precisa ter um conjunto desses em mãos ou pelo menos ter acesso a algum meio digital para rolar estes dados, como um aplicativo ou um site em específico.
 
-**Livros Extras**: Além deste livro, que contém o básico para jogar, existem alguns outros como o Guia dos Monstros ou o Guia do Mestre, feitos como extras para adicionar mais opções à sua aventura. Eles não são estritamente necessários, mas podem adicionar horas a mais de diversão à Mesa.
+**Livros Extras**: além deste livro, que contém o básico para jogar, existem alguns outros como o Guia dos Monstros ou o Guia do Mestre, feitos como extras para adicionar mais opções à sua aventura. Eles não são estritamente necessários, mas podem adicionar horas a mais de diversão à Mesa.
 
-**Ficha de Personagem**: É aconselhável que você anote as características básicas do seu personagem. Um modelo de Ficha é disponibilizado neste livro, mas você pode utilizar outro ou montar o seu próprio se assim desejar.
+**Ficha de Personagem**: é aconselhável que você anote as características básicas do seu personagem. Um modelo de Ficha é disponibilizado neste livro, mas você pode utilizar outro ou montar o seu próprio se assim desejar.
 
-**Recursos do Mestre**: O Mestre pode fazer uso de alguns outros recursos que podem auxiliar na narração. Dentre eles, o Escudo do Mestre, as Miniaturas e o Grid de batalha se destacam. O Escudo é uma proteção que fica à frente do Mestre na Mesa e impede que os jogadores vejam o que o Mestre está planejando. As miniaturas são bonecos que representam os personagens dos jogadores e os PDMs. O Grid pode ser qualquer coisa marcada com pequenos quadrados de 2,5 centímetros de lado. Cada quadradinho normalmente equivale a 1,5 metros no mundo do jogo.
+**Recursos do Mestre**: o Mestre pode fazer uso de alguns outros recursos que podem auxiliar na narração. Dentre eles, o Escudo do Mestre, as Miniaturas e o Grid de batalha se destacam. O Escudo é uma proteção que fica à frente do Mestre na Mesa e impede que os jogadores vejam o que o Mestre está planejando. As miniaturas são bonecos que representam os personagens dos jogadores e os PDMs. O Grid pode ser qualquer coisa marcada com pequenos quadrados de 2,5 centímetros de lado. Cada quadradinho normalmente equivale a 1,5 metros no mundo do jogo.
 
 ### Qual a Motivação Para o Shattered Veil Existir?
 
@@ -52,7 +52,7 @@ Você já viu um exemplo antes, quando os PDMs (Personagens do Mestre) e os PDJs
 
 Você é introduzido a conceitos básicos do sistema antes de ser introduzido às regras mais complexas. Muitos dos conceitos mais complexos são criados visando dar ao jogador mais opções para exercer sua criatividade.
 
-**Regra de Arredondamento**: Sempre que precisar arredondar um número quebrado, arredonde para baixo. Caso existam exceções, elas estão explícitas na descrição da regra em específico.
+**Regra de Arredondamento**: sempre que precisar arredondar um número quebrado, arredonde para baixo. Caso existam exceções, elas estão explícitas na descrição da regra em específico.
 
 ### Efeitos
 

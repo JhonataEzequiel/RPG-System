@@ -59,7 +59,7 @@ Ao receber uma instância de cura, você volta a si e consegue se mover, mas só
 
 Ao sofrer dano enquanto estiver Morrendo, uma instância de cura que você tenha recebido é anulada, e o dano também diminui os PVs que você recuperou até então. Caso não tenha recebido nenhuma, o dano é contabilizado, e ao sofrer três instâncias de dano você morre.
 
-**Ferimentos Profundos**: Caso você seja estabilizado, você tem um Ferimento Profundo. Ao receber três Ferimentos Profundos, você morre sem ficar Morrendo. Cada Descanso Longo remove um dos seus Ferimentos Profundos.
+**Ferimentos Profundos**: caso você seja estabilizado, você tem um Ferimento Profundo. Ao receber três Ferimentos Profundos, você morre sem ficar Morrendo. Cada Descanso Longo remove um dos seus Ferimentos Profundos.
 
 ### Morto
 

@@ -47,7 +47,7 @@ Você só pode adquirir esta Habilidade no Nível 1.
 **Custo de PHs**: 1 | **Requisitos de Habilidades**: "Força Intimidadora" de Custo 1
 
 - **Cheiro do Medo** (Passiva): sempre que uma criatura tiver a Condição Amedrontado, você anula completamente as Penalidades de Ataque contra ela.
-- **Rugido Atormentador** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 6 PMs | Alcance: 9 metros | Alvo: criaturas no alcance | Duração: 2 Rodadas): você pode bradar em alta voz, rugindo e intimidando qualquer criatura no alcance que falhar em uma Salvaguarda de Sabedoria. A criatura que falhar tem a Condição Amedrontado. Os alvos podem repetir a Salvaguarda no início de cada um de seus Turnos, visando se livrar da Condição, em troca de uma Ação.
+- **Rugido Atormentador** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 6 PMs | Alcance: 9 metros | Alvo: múltiplas criaturas | Duração: 2 Rodadas): você pode bradar em alta voz, rugindo e intimidando qualquer criatura no alcance que falhar em uma Salvaguarda de Sabedoria. A criatura que falhar tem a Condição Amedrontado. Os alvos podem repetir a Salvaguarda no início de cada um de seus Turnos, visando se livrar da Condição, em troca de uma Ação.
 
 ### Rachadura Celestial
 
@@ -85,7 +85,7 @@ Você só pode adquirir esta Habilidade no Nível 1.
 
 ### Canhão de Vidro
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: Máximo de 5 de Constituição
+**Custo de PHs**: 1 | **Requisitos de Atributos**: máximo de 5 de Constituição
 
 - **Canhão de Vidro** (Passiva): você não pode mais usar qualquer Armadura, nem receber qualquer bônus de CA vindo de Magias. Você recebe +7 na sua Margem de Ameaça.
     
@@ -138,7 +138,7 @@ Você precisa ser Perito em Atletismo para adquirir esta Habilidade.
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 6 de Constituição e 2 de Força ou de Destreza
 
-- **Sem Controle** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 2 PMs | Alcance: 18 metros | Alvo: você e as criaturas em uma área esférica com raio igual ao alcance | Duração: 1 Rodada): você brada um grito de guerra, fazendo com que você e quaisquer criaturas na área que falhem em uma Salvaguarda de Arcano só possam realizar Ataques ou usar formas de Movimentação durante a Rodada. Você não precisa realizar a Salvaguarda. Essa Habilidade deve ser usada no início de uma Rodada e ignora a Iniciativa. Ela afeta aliados também. Você não tem uma Ação Bônus no seu Turno durante essa Rodada.
+- **Sem Controle** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 2 PMs | Alcance: 18 metros | Alvo: você e múltiplas criaturas | Duração: 1 Rodada): você brada um grito de guerra, fazendo com que você e quaisquer criaturas no alcance que falhem em uma Salvaguarda de Arcano só possam realizar Ataques ou usar formas de Movimentação durante a Rodada. Você não precisa realizar a Salvaguarda. Essa Habilidade deve ser usada no início de uma Rodada e ignora a Iniciativa. Ela afeta aliados também. Você não tem uma Ação Bônus no seu Turno durante essa Rodada.
 
 ### Força Salvadora
 
@@ -157,7 +157,7 @@ Você precisa ser Perito em Atletismo para adquirir esta Habilidade.
 
 **Custo de PHs**: 3 | **Requisitos de Habilidades**: "Fúria" de Custo 1
 
-- **Engodo da Ira** (Ativa | Custo de Ações: Ação Livre | Alcance: igual ao seu Deslocamento | Alvo: uma criatura): você concede a um alvo dentro do alcance os efeitos de Fúria. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também recebe os efeitos dela. Você pode fazer isso apenas no início do Turno do alvo escolhido.
+- **Engodo da Ira** (Ativa | Custo de Ações: Ação Livre | Alcance: Deslocamento | Alvo: uma criatura): você concede a um alvo dentro do alcance os efeitos de Fúria. Você gasta uma Carga de Fúria para isso. Caso você tenha a Habilidade "Fúria Aprimorada" de Custo 3, o alvo também recebe os efeitos dela. Você pode fazer isso apenas no início do Turno do alvo escolhido.
 
 ### Crítico Garantido
 

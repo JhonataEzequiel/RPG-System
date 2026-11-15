@@ -20,7 +20,7 @@ Iniciativa é o valor resultante de um Teste de Destreza no início do Encontro.
 
 Cada PDJ e PDM tem um Turno em que pode decidir o que vai fazer durante uma Rodada. Um Turno dura em média 10 segundos no mundo do jogo, mas você pode levar o tempo que quiser para escolher como vai agir.
 
-- **Limite de Ações**: Cada PDJ e PDM pode usar um total de três Ações diferentes em seu Turno, com exceção, é claro, das Ações Livres, que podem ser usadas independentemente desse limite.
+- **Limite de Ações**: cada PDJ e PDM pode usar um total de três Ações diferentes em seu Turno, com exceção, é claro, das Ações Livres, que podem ser usadas independentemente desse limite.
 
 Uma Rodada é a junção dos Turnos de todos os PDJs e PDMs presentes em um Encontro. Quando o último PDJ ou PDM terminar seu Turno, seguindo a ordem de Iniciativa, a Rodada acaba e outra começa. Dentro da mística do jogo, todos os Turnos acontecem ao mesmo tempo. Isso significa que a Rodada também tem duração média de 10 segundos. Um minuto, portanto, equivale a 6 Rodadas.
 
@@ -52,8 +52,8 @@ Uma criatura é considerada adjacente à outra caso esteja em até 1,5 metros de
 
 Existem dois tipos de Ataque: os Ataques Mágicos e os Ataques Físicos. Ambos são subdivididos em duas categorias cada: Ataques Corpo a Corpo e Ataques à Distância. Os Ataques Mágicos são aqueles advindos de Magias de alvo único, enquanto os Ataques Físicos são causados por Armas físicas.
 
-- **Ataque Corpo a Corpo**: O atacante faz contato direto com o oponente, ou seja, o atacante vai até o oponente e tenta aplicar o dano.
-- **Ataque à Distância**: O atacante dispara um projétil e não faz contato direto com o oponente.
+- **Ataque Corpo a Corpo**: o atacante faz contato direto com o oponente, ou seja, o atacante vai até o oponente e tenta aplicar o dano.
+- **Ataque à Distância**: o atacante dispara um projétil e não faz contato direto com o oponente.
 
 **Magias em Área**: Magias que causem dano em área não são consideradas Ataques Mágicos e podem pedir por uma Salvaguarda para terem seus efeitos mitigados. Por exemplo, uma Magia que cause uma explosão pode pedir uma Salvaguarda de Destreza para desviar dela.
 
@@ -77,7 +77,7 @@ Ao causar uma instância de dano, ela tem um componente aleatório e também um 
 
 **Dano = Grau + BD**
 
-Onde Grau é o dado correspondente ao Grau do dano. Dependendo da Arma ou Magia de Dano que você utilizar, o Grau varia. O BD também varia de acordo com a instância de dano. Em Ataques com Armas, o BD vem das Escalas da Arma, acrescido de outros bônus que você ganha através de outras regras (veja o Capítulo 4.2 - Armas). Danos vindos de outras fontes que não sejam equipamentos, como Magias e Habilidades, podem ter um cálculo diferente de BD, normalmente sendo um Modificador, acrescido de outros bônus menores que você ganha através de outras regras.
+Onde Grau é o dado correspondente ao Grau do dano. Dependendo da Arma ou Magia de Dano que você utilizar, o Grau varia. O BD também varia de acordo com a instância de dano. Em Ataques com Armas, o BD vem das Escalas da Arma, acrescido de outros bônus que você ganha através de outras regras (veja o Capítulo 4.2 - Armas). Danos vindos de outras fontes que não sejam equipamentos, como Habilidades, podem ter um cálculo diferente de BD, normalmente sendo um Modificador, acrescido de outros bônus menores que você ganha através de outras regras.
 
 ## Ataques Críticos
 

@@ -1,135 +1,91 @@
-
 O Arquétipo do Bruxo governa o oculto e seus poderes perigosos e desconhecidos.
 
-## Fogo Fátuo (Custo 1)
+| Habilidade            | Custo de PHs | Requisitos de Atributos      | Requisitos de Habilidades   |
+| --------------------- | ------------ | ---------------------------- | --------------------------- |
+| Domínio               | 1            | 1 de Arcano e 1 de Vínculo   | -                           |
+| Cemitério             | 1            | 1 de Arcano e 1 de Vínculo   | -                           |
+| Desordem Estrutural   | 1            | 3 de Arcano e 3 de Vínculo   | -                           |
+| Amor ao Pecado        | 1            | 1 de Arcano e 3 de Vínculo   | -                           |
+| Mente Vazia           | 1            | no máximo 0 de Sabedoria     | -                           |
+| Contrato Fechado      | 1            | -                            | "Mente Vazia" de Custo 1    |
+| Impulso Sinistro      | 2            | 3 de Arcano e 3 de Vínculo   | -                           |
+| Culto ao Desconhecido | 3            | 7 de Arcano e 6 de Vínculo   | -                           |
+| Dia das Bruxas        | 3            | 10 de Arcano e 10 de Vínculo | -                           |
+| Anjo Caído            | 3            | 5 de Arcano e 10 de Vínculo  | "Amor ao Pecado" de Custo 1 |
 
-**Requisitos**: 3 de Inteligência. 3 de Fé.
+### Domínio
 
-Sempre que você causar Dano de Sortilégio com uma Magia, pode transformar esse dano em Dano de Fogo.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano e 1 de Vínculo
 
-## Domínio (Custo 1)
+- **Domínio** (Passiva): toda vez que você conjurar uma Magia Sombria que não tenha custo base 0, adicione Grau 1 de Dano Sombrio às que causem dano.
 
-**Requisitos**: 1 de Inteligência, 1 de Fé.
+### Cemitério
 
-Todas as vezes que você conjurar um Sortilégio que não seja um Arcano Menor, adicione 1d4 de Dano Sombrio aos seus Sortilégios que causem dano, o que não inclui Arcanos Menores. Esse bônus acaba ao realizar um Descanso Curto ou Longo. O limite é de 3d4 adicionais.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano e 1 de Vínculo
 
-## Cemitério (Custo 1)
+- **Cemitério** (Passiva | Alcance: 36 metros | Alvo: um aliado vivo): para cada cadáver reanimado dentro do seu Deslocamento, os Ataques do alvo causam um adicional de 1d4 de Dano Sombrio, até um limite de 8d4.
 
-**Requisitos**: 1 de Inteligência, 1 de Fé.
-**Alcance**: 36m.
+### Desordem Estrutural
 
-Para cada cadáver reanimado dentro do alcance do seu Deslocamento aumente o dano dos Ataques de um aliado vivo no alcance da Habilidade em 1d4 de Dano Sombrio. O limite do aumento é 8d4.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano e 3 de Vínculo
 
-## Desordem Estrutural (Custo 1)
+- **Desordem Estrutural** (Ativa | Custo de Ações: Duas Ações | Alcance: 4,5 metros | Alvo: todas as criaturas | Duração: 4 Rodadas): você emana uma aura de terror e desordem. Aliados têm +2 de CA, enquanto inimigos têm +1. Opcionalmente, todo o dano causado por ambos os lados recebe um adicional de Grau 4 de Dano Sombrio.
 
-**Requisitos**: 3 de Inteligência, 3 de Fé.
-**Alcance**: Metade do Deslocamento.
-**Custo**: Duas Ações.
-**Duração**: 4 Rodadas.
+### Amor ao Pecado
 
-Você emana uma aura de terror e desordem no alcance desta Habilidade. Aliados terão +2 de CA, enquanto os inimigos terão +1. Opcionalmente, todo o dano causado por ambas as partes é aumentado em 1d10 de Dano Sombrio.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano e 3 de Vínculo
 
-## Amor ao Pecado (Custo 1)
+- **Amor ao Pecado** (Passiva): você passa a ter Fraqueza 8 a Dano Luminoso, em troca de Resistência 15 a Dano Sombrio.
 
-**Requisitos**: 1 de Inteligência, 3 de Fé.
+### Mente Vazia
 
-Você agora possui 8 Pontos de Vulnerabilidade a Dano Radiante, em troca de possuir 15 Pontos de Resistência a Dano Sombrio.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: no máximo 0 de Sabedoria
 
-## Mente Vazia (Custo 1)
+Você só pode adquirir esta Habilidade caso o seu valor de Sabedoria seja 0 ou inferior no momento da aquisição. Você pode aumentá-lo a partir do próximo Nível após adquiri-la.
 
-**Requisitos**: No momento em que adquirir essa Habilidade sua Sabedoria não pode ser maior que 0. Você pode aumentar sua Sabedoria a partir do próximo Nível após pegar essa Habilidade.
+- **Mente Vazia** (Passiva): sempre que conjurar uma Magia de Dano que não seja Sombria, ela causa um adicional de Grau 3 de Dano Sombrio.
 
-Sempre que conjurar qualquer Magia de dano que não seja um Sortilégio, cause um adicional de 1d6 de Dano Sombrio.
+### Contrato Fechado
 
-## Contrato Fechado (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Habilidades**: "Mente Vazia" de Custo 1
 
-**Requisitos**: Habilidade "Mente Vazia" de Custo 1.
+- **Contrato Fechado** (Passiva): ao aumentar seus PMs Máximos ao subir de Nível, você passa a adicionar o seu valor total de Sabedoria, em vez do Modificador. Em troca, você não recupera mais PMs com Descansos. O contrato não afeta Níveis anteriores, ou seja, ele só entra em vigor a partir do momento em que você o aceita.
+    
+    Quem ou o que é responsável por falar com você e oferecer esse contrato é um mistério. O Mestre pode usar esse personagem para oferecer outros contratos diferentes ou para ter relevância na Campanha, se assim desejar.
+    
 
-Ao aumentar sua Mana Máxima quando subir de Nível, você agora adiciona seu valor total de Sabedoria ao invés do Modificador. Em troca, não recuperará mais Mana ou Vida com Descansos. O contrato não tem efeito em Níveis anteriores. Ou seja, somente a partir do momento que você aceitar é que ele entrará em vigor.
+### Impulso Sinistro
 
-Quem ou o quê é responsável por falar com você e oferecer esse contrato é um mistério. O mestre pode usar esse personagem para oferecer outros contratos diferentes, ou ter relevância na campanha, se assim desejar.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Arcano e 3 de Vínculo
 
-## Tristeza Profunda (Custo 1)
+- **Impulso Sinistro** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 5 | Alcance: Deslocamento | Alvo: um aliado e uma criatura hostil, à sua escolha | Duração: 4 Rodadas): você conecta o aliado à criatura hostil, fazendo um poder necrótico fluir entre ambos. No final do seu Turno, as Condições Negativas de ambos são removidas, e eles têm +3 de BA no próximo Ataque. Por último, ambos têm Fraqueza 7 a qualquer Dano Mágico, ainda que sejam inicialmente Imunes.
 
-**Requisitos**: 1 de Inteligência, 1 de Fé.
-**Alcance**: Deslocamento.
-**Custo**: Reação.
-**Duração**: 2 Rodadas.
+### Culto ao Desconhecido
 
-Ao receber Dano Sombrio, causado por outra fonte ou por você mesmo, você acumula Pontos de Dor. Quando tiver 3 Pontos de Dor, você poderá gastá-los para liberar toda a energia sombria que se acumulou no seu interior com a sua Reação, e forçar todas as criaturas no alcance a passar por um Teste de Resistência de Carisma CD 8 + Int + Fth. Em caso de falha, as criaturas tem a Condição Amedrontado até o final da duração. Em caso de sucesso, o Deslocamento delas é diminuído em 1.5m até o final da duração. Essa Habilidade não diferencia aliados de inimigos.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Arcano e 6 de Vínculo
 
-## Impulso Sinistro (Custo 2)
+- **Culto ao Desconhecido** (Ativa): você reza a uma entidade cósmica com a qual poucas pessoas podem se comunicar. A reza dura 10 minutos, e esta Habilidade só pode ser usada fora de combate. O Mestre rola 1d4 em segredo para determinar o efeito:
+    1. A entidade responde na noite do mesmo dia, através de um sonho. Você faz uma Salvaguarda de Sabedoria autoimposta.
+        - **Sucesso**: você ganha conhecimento detalhado sobre um assunto à sua escolha.
+        - **Falha**: você sofre Grau 7 de Dano Psíquico.
+    2. A entidade faz morada em sua mente, usando sua força mental para lhe conceder mais chances de vitória. Até ter um Descanso Longo, você tem +5 em qualquer rolagem de dados que fizer e ignora Falhas Críticas, que se tornam falhas normais. Toda vez que você fizer um Teste, sofre Grau 5 de Dano Psíquico. O Dano Psíquico recebido é totalmente curado com um Descanso Curto.
+    3. A entidade se manifesta em você. Criaturas que fizerem contato visual com você devem passar em uma Salvaguarda de Sabedoria, feita uma única vez, ou sofrer Grau 8 de Dano Psíquico no final de cada Turno delas até o fim do Encontro. Sempre que um inimigo sofrer esse dano, você se cura em metade do valor. Caso elas parem de fazer contato visual, deixam de sofrer o dano, mas têm -5 no BA de qualquer Ataque. Caso não tenham feito contato visual desde o início, têm -3 no BA de qualquer Ataque.
+    4. Você é levado ao plano da entidade e recebe um influxo de conhecimento. Você faz uma Salvaguarda de Sabedoria autoimposta.
+        - **Sucesso**: você escolhe uma Magia para aprender. Ela não custa nada até o fim do próximo Encontro, ignora os requisitos e pode ser usada como Ação Bônus. Você também tem Vantagem em Testes de Sabedoria e Arcano até o fim do Encontro.
+        - **Falha**: você sofre duas instâncias de Grau 10 de Dano Psíquico e fica Amedrontado até o fim do próximo Encontro.
 
-**Requisitos**: 3 de Fé, 3 de Inteligência.
-**Custo**: Uma Ação, 2 de Mana.
-**Duração**: 2 Rodadas.
+### Dia das Bruxas
 
-Você conecta um aliado seu a uma criatura alvo hostil à sua escolha, fazendo um poder necrótico fluir entre ambos. No final do seu Turno as Condições negativas de ambas as criaturas são curadas e elas terão +3 para acertar o próximo Ataque. No entanto, ambas terão 7 Pontos de Vulnerabilidade a qualquer Dano Mágico, ainda que sejam inicialmente Imunes.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Vínculo
 
-## Culto ao Desconhecido (Custo 3)
+- **Dia das Bruxas** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 10 | Duração: 1 Encontro): o céu toma uma coloração escura, como em tempos de tempestade, e todos em um raio de 120 metros conseguem ver isso. Suas próximas 3 Magias Sombrias conjuradas dentro da duração desta Habilidade não custam PMs. Alternativamente, você dobra todas as estatísticas de um servo conjurado ou reanimado, o que inclui PVs, PMs, Atributos, Salvaguardas e CA. Caso algum Atributo seja negativo, o valor dele é invertido. Por exemplo, -4 passa a ser 4.
+    
+    Após a duração, seu Valor de Exaustão aumenta em 2. Esse aumento só se acumula caso você use a Habilidade novamente. Cada vez que você conjurar uma Magia Sombria com os benefícios desta Habilidade, recebe Fraqueza 10 a Dano Físico, que dura até você ter um Descanso Longo. As Fraquezas se acumulam entre si.
+    
 
-**Requisitos**: 6 de Fé, 7 de Inteligência.
+### Anjo Caído
 
-Você entoa um cântico de louvor a uma entidade cósmica desconhecida. Esta Habilidade só pode ser usada fora de combate. O Mestre rola 1d4 em segredo para determinar o efeito:
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 5 de Arcano e 10 de Vínculo | **Requisitos de Habilidades**: "Amor ao Pecado" de Custo 1
 
-1. A entidade responde na noite do mesmo dia através de um sonho. Faça um Teste de Resistência de Sabedoria CD 15.
-	- **Sucesso:** Você ganha conhecimento detalhado sobre um assunto à sua escolha.
-	- **Falha:** Sofre 3d6 de Dano Psíquico.
-
-2. A entidade faz morada em sua mente, utilizando sua força mental para conceder-lhe mais chances de vitória. Até ter um Descanso Longo, você ganha +2d8 em todas as rolagens que fizer, e ignora Erros Críticos, tornando-se erros normais. Toda vez que fizer um Teste, sofre 2d8 de Dano Psíquico. O efeito termina após um Descanso Longo. O Dano Psíquico recebido é curado totalmente com um Descanso Curto.
-
-3. A entidade se manifesta em você. Criaturas que fizerem contato visual devem passar em um Teste de Resistência de Sabedoria CD 16 ou sofrer 3d6 de Dano Psíquico no final de cada Turno delas até o fim do Encontro. Sempre que um inimigo sofrer esse dano, você se cura pela metade do valor.
-
-4. Você é levado ao plano da entidade e recebe um influxo de conhecimento. Faça um Teste de Resistência de Sabedoria CD 22:
-	- **Sucesso:** Escolha uma Magia para aprender. Ela não custará nada até o fim do próximo Encontro, ignorará Requisitos, e pode ser usada como Ação Bônus. Você tem Vantagem em Testes de Sabedoria e Inteligência até o fim do Encontro.
-	- **Falha:** Sofre 4d8 de Dano Psíquico e fica Amedrontado até o fim do próximo Encontro.
-
-## Devorador de Almas (Custo 3)
-
-**Requisitos**: 3 de Inteligência, 6 de Fé.
-
-**Colhedor** (Uma Ação, 5 de Mana): Quando uma criatura viva morrer ao seu redor, um pedaço de sua essência vital fica visível apenas para você. Você pode capturar essa energia e devorá-la, recebendo um aumento permanente de dano em seus Sortilégios que causem Dano Sombrio. Esse aumento só é aplicado caso a Magia cause Dano Sombrio, e quaisquer outros tipos de dano são ignorados. Apenas uma Magia sofre este aumento de dano, e você pode escolhê-la ao ter um Descanso Curto ou Longo. Uma vez escolhida, sempre que conjurar ela, ela terá o aumento de dano.
-
-O que você colhe não é a alma de fato da criatura, pois isso a impediria de seguir o ciclo natural, mas sim parte da essência vital dela, como uma fonte de energia que a estava mantendo viva, e se separou do corpo. Você pode pensar nisso como sendo apenas parte da alma, não ela por completo. Para critérios de simplificação, serão chamadas apenas de "almas".
-
-| Quantidade de Almas Coletadas | Aumento de Dano |
-| ----------------------------- | --------------- |
-| 1-10                          | 1d6             |
-| 11-25                         | 2d6             |
-| 26-50                         | 3d6             |
-| 51-75                         | 4d6             |
-| 76-99                         | 5d6             |
-| 100                           | 6d6             |
-
-## Deus da Morte (Custo 3)
-
-**Requisitos**: Habilidade "Devorador de Almas" de Custo 3. 6 de Inteligência, 10 de Fé.
-
-Essa Habilidade terá efeito apenas quando 100 almas sejam colhidas pela Habilidade "Devorador de Almas". O limite anterior é removido de apenas um Sortilégio e é expandido para três por Descanso Longo ou Curto. 
-
-## Caos (Custo 3)
-
-**Requisitos**: Habilidade "Fogo Fátuo" de Custo 1. 10 de Inteligência, 10 de Fé.
-**Custo**: Reação, 5 de Mana.
-
-Ao conjurar qualquer Magia de Custo 10 que cause dano, você pode optar por triplicar a área de efeito (caso seja uma Magia em área), ou escolher dois alvos adicionais, se for de alvo único. No entanto, o dano causado por aqueles dentro da área adicional, ou pelos alvos adicionais sempre será de Dano de Fogo. As chamas criadas terão uma cor mais amarelada que o padrão.
-
-Você pode usar essa Habilidade três vezes por Descanso Curto ou Longo.
-
-## Dia das Bruxas (Custo 3)
-
-**Requisitos**: 10 de Inteligência, 10 de Fé.
-**Custo**: Três Ações. 10 de Mana.
-**Duração**: 1 Encontro.
-
-O céu toma uma coloração escura como em tempos de tempestade. Todos num raio de 120m conseguem ver isso. Seus próximos 3 Sortilégios conjurados dentro da duração desta Habilidade não custam Mana para serem conjurados. Alternativamente, dobre todas as estatísticas de um lacaio conjurado ou reanimado. Isso inclui Pontos de Vida e Mana, Atributos, Salvaguardas, e CA. Caso algum Atributo seja negativo, o valor dele é invertido. Por exemplo, de -4 passaria a ser 4.
-
-Após a duração, você avançará 2 Níveis de Exaustão. Cada vez que Conjurar um Sortilégio com essa Habilidade você recebe 7 Pontos de Vulnerabilidade a Dano Físico.
-
-## Anjo Caído (Custo 3)
-
-**Requisitos**: Habilidade "Amor ao Pecado" de Custo 1. 10 de Fé, 5 de Inteligência.
-
-Você não sofre mais dano de queda. Antes de cair, fracas asas surgem em suas costas feitas a partir de Mana, e amortecem sua queda. A Mana é absorvida novamente após isso.
-
-**Pecado Original** (Reação, 6 de Mana): Ao cair de uma altura superior a 18m, você pousa e cria raízes no chão, que se espalham. Fazendo isso, você se joga no chão, sofrendo 6 de Dano Verdadeiro. As raízes são escuras e sombrias, emanando uma aura negra. Todas as criaturas inimigas num raio igual ao seu Deslocamento centrado em você devem passar por uma Salvaguarda de Sabedoria CD 10 + Int + Fth. Em caso de fracasso, elas têm a Condição Agarrado. Elas podem repetir o Teste no início de cada Turno delas e, caso falhem duas vezes neste Teste, tem também a Condição Encantado. Em caso de sucesso, sofrem 3d8 de Dano Sombrio. As Condições Negativas infligidas duram 6 Rodadas. Essa Habilidade só pode ser usada uma vez por Encontro.
+- **Anjo Caído** (Passiva): você ainda pode sofrer dano de Queda Livre, mas não pode mais morrer por ele. De maneira inconsciente, a sua própria mente utiliza Mana para impedir a morte por uma queda. Isso não tem gasto de PMs e é apenas uma justificativa narrativa.
+- **Pecado Original** (Passiva): sempre que enfrentar uma Criatura Lendária, adicione +5 ao seu BP. Confira o Capítulo 7.3 - Criaturas para mais detalhes.

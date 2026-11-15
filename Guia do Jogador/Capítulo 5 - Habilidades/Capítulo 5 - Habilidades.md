@@ -7,9 +7,10 @@ No geral, Habilidades podem ser passivas ou ativas. As passivas concedem efeitos
 ## Custos e Requisitos
 
 O custo de uma Habilidade varia entre 1 e 3 Pontos de Habilidade. Quanto mais cara uma Habilidade, mais valiosa e útil ela é. As Habilidades têm requisitos, que podem variar entre nenhum e uma série de tipos diferentes. Você só pode adquirir uma Habilidade caso atenda aos requisitos. Dentre os tipos de requisitos, temos:
+
 - **Requisitos de Atributos**: você precisa ter o valor de Atributo requerido pela Habilidade ou maior. Uma mesma Habilidade pode requerer múltiplos Atributos.
 - **Requisitos de Nível**: você precisa estar no Nível de personagem exigido ou maior.
-- **Requisitos de Itens**: é necessário que você tenha um ou mais itens específicos.
+- **Requisitos de Itens**: é necessário que você tenha um ou mais itens específicos. Esse requisito não vale apenas para adquirir a Habilidade, mas também para usá-la e para que os seus efeitos passivos permaneçam. Se o item precisar ser equipado, ele deve estar equipado. Caso contrário, você precisa estar com ele. Sem o item, você não pode usar a Habilidade nem receber seus efeitos passivos.
 - **Requisitos de Habilidades**: você precisa ter adquirido previamente uma ou mais Habilidades.
 - **Outros**: algumas Habilidades possuem requisitos muito específicos que não se encaixam em nenhuma categoria.
 
@@ -24,13 +25,14 @@ As Habilidades de Raça são uma exceção a esses limites: seus aumentos de BA 
 Existem propriedades obrigatórias, compartilhadas por todas as Habilidades, e algumas que dependem da Habilidade em si.
 
 As propriedades compartilhadas são:
+
 - **Custo de PHs**: quantidade de PHs necessários para adquirir a Habilidade.
 - **Requisitos**: requerimentos a serem cumpridos para adquirir a Habilidade.
 - **Tipo de Habilidade**: ativa ou passiva.
 - **Custo de Ações**: se for ativa, pode custar uma Ação Livre, uma Ação Bônus, uma ou mais Ações, ou uma Reação.
 - **Custo de Mana**: quantidade de PMs necessários para utilizar a Habilidade.
-- **Alcance**: alcance da Habilidade, se cabível.
-- **Alvo ou Alvos**: criatura ou Objeto ao qual a Habilidade é direcionada, além do tamanho e tipo de área, caso seja uma Habilidade em área.
+- **Alcance**: distância até a qual a Habilidade pode ser usada, se cabível. Pode ser Toque, uma distância em metros, Deslocamento ou Ilimitado. Quando for Deslocamento, o alcance é igual ao seu Deslocamento, em metros.
+- **Alvo ou Alvos**: criatura ou Objeto ao qual a Habilidade é direcionada, além do tamanho e tipo de área, caso seja uma Habilidade em área. O Alvo não indica distância: ela fica no Alcance.
 - **Duração**: quantidade de tempo que a Habilidade tem efeito.
 - **Limite de Usos**: quantidade de vezes que se pode utilizar a Habilidade.
 - **Descrição**: efeito da Habilidade, assim como informações adicionais.

@@ -1,26 +1,26 @@
 O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consumíveis, sobre o Dano Ácido e sobre o Dano Venenoso.
 
-| Habilidade             | Custo de PHs | Requisitos de Atributos | Requisitos de Habilidades                                        |
-| ---------------------- | ------------ | ----------------------- | ---------------------------------------------------------------- |
-| Artesão de Consumíveis | 1            | 2 de Arcano             | -                                                                |
-| Derreter               | 1            | 2 de Arcano             | -                                                                |
-| Lança Granadas         | 1            | 3 de Destreza ou Força  | -                                                                |
-| Causticomancia         | 1            | 3 de Arcano             | -                                                                |
-| Bomba Benéfica         | 1            | 3 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Calcinação             | 1            | 2 de Arcano             | -                                                                |
-| Dissolução             | 1            | 3 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Mestre em Explosões    | 2            | -                       | "Lança Granadas" de Custo 1, "Artesão de Consumíveis" de Custo 1 |
-| Corroer Defesas        | 2            | 4 de Arcano             | -                                                                |
-| Químico Destruidor     | 2            | 4 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Peçonha Instantânea    | 2            | -                       | -                                                                |
-| Alquimista Supremo     | 3            | 5 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Alquimista Mágico      | 3            | 10 de Arcano            | "Artesão de Consumíveis" de Custo 1                              |
-| Mestre Botânico        | 3            | -                       | "Alquimista Supremo" de Custo 3                                  |
-| Chuva de Bênçãos       | 3            | -                       | "Bomba Benéfica" de Custo 1                                      |
-| Podridão               | 3            | -                       | "Alquimista Supremo" de Custo 3                                  |
-| Enxofre                | 3            | 8 de Arcano             | "Corroer Defesas" de Custo 2                                     |
-| Químico Radioativo     | 3            | 10 de Arcano            | "Químico Destruidor" de Custo 2                                  |
-| Transmutar             | 3            | -                       | "Alquimista Supremo" de Custo 3                                  |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Artesão de Consumíveis|1|2 de Arcano|-|
+|Derreter|1|2 de Arcano|-|
+|Lança Granadas|1|3 de Destreza ou Força|-|
+|Causticomancia|1|3 de Arcano|-|
+|Bomba Benéfica|1|3 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Calcinação|1|2 de Arcano|-|
+|Dissolução|1|3 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Mestre em Explosões|2|-|"Lança Granadas" de Custo 1, "Artesão de Consumíveis" de Custo 1|
+|Corroer Defesas|2|4 de Arcano|-|
+|Químico Destruidor|2|4 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Peçonha Instantânea|2|-|-|
+|Alquimista Supremo|3|5 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Alquimista Mágico|3|10 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Mestre Botânico|3|-|"Alquimista Supremo" de Custo 3|
+|Chuva de Bênçãos|3|-|"Bomba Benéfica" de Custo 1|
+|Podridão|3|-|"Alquimista Supremo" de Custo 3|
+|Enxofre|3|8 de Arcano|"Corroer Defesas" de Custo 2|
+|Químico Radioativo|3|10 de Arcano|"Químico Destruidor" de Custo 2|
+|Transmutar|3|-|"Alquimista Supremo" de Custo 3|
 
 ### Artesão de Consumíveis
 
@@ -69,7 +69,7 @@ O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consum�
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano | **Requisitos de Habilidades**: "Artesão de Consumíveis" de Custo 1
 
-Você precisa ter um Almofariz para adquirir esta Habilidade.
+Você precisa ter um Almofariz.
 
 - **Dissolução** (Passiva): você agora pode misturar duas Resinas em uma só enquanto estiver fora de combate. Você leva 10 minutos para fazer isso, e a Resina resultante tem o efeito das duas anteriores e o peso de apenas uma. Você não gasta recursos adicionais para isso. Você poderá misturar uma terceira Resina junto às outras duas assim que seu Arcano atingir o valor 10.
 
