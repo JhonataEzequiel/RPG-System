@@ -45,7 +45,7 @@ Explorar o mundo com pouca bagagem é algo que você preza. Esta Habilidade só 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Destreza
 
 - **Sonido** (Passiva): ao Correr, seu Deslocamento aumenta em 9 metros. Os 9 metros são somados apenas após dobrar o Deslocamento por Correr.
-- **Distorção Veloz** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 10 PMs | Alvo: você): você Corre sem precisar gastar as duas Ações, gastando apenas a Ação Bônus desta Habilidade.
+- **Distorção Veloz** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 10 PMs | Alvo: você): você Corre sem precisar gastar as duas Ações, gastando apenas a Ação Bônus desta Habilidade. Você não pode Correr normalmente no mesmo Turno em que usar essa Habilidade.
 
 ### Pulo Duplo
 
