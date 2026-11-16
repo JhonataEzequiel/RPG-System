@@ -121,6 +121,10 @@ Arremessar custa uma Ação, causando dano ou não.
 
 Itens Arremessáveis não precisam estar equipados, mas você precisa ter ao menos uma mão desocupada para Arremessá-los. Para Arremessar outros tipos de item, como Armas ou Escudos, você precisa tê-los equipados, e o arremesso é feito com a mão que os segura. O item arremessado deixa de estar equipado e cai no local do impacto, a não ser que as regras do próprio item digam o contrário.
 
+## Flanquear
+
+Caso um aliado seu esteja adjacente a uma criatura, você terá +3 no BA de Ataques contra ela caso Ataque fora de seu campo de visão.
+
 ## Áreas de Efeito
 
 Magias e outros efeitos podem afetar todas as criaturas dentro de uma região do espaço, chamada de Área de Efeito. Toda Área de Efeito possui um Ponto de Origem, o local de onde o efeito se propaga, e um formato. Os formatos são cinco: Cone, Cubo, Cilindro, Linha e Esfera. A descrição do efeito indica o formato, seu tamanho e, quando necessário, a direção em que ele se propaga.
