@@ -49,21 +49,21 @@ Você concentra seu Ki na palma das mãos, fecha os olhos, e solta uma luz cegan
 
 Caso você e um outro aliado possuam essa Habilidade, os dois poderão unir seus corpos e multiplicar suas forças, criando uma nova pessoa que herdará características suas e de seu aliado.
 
-**Gestos de Equilíbrio**: Escolham um gesto que você e seu aliado farão. Este gesto terá uma condição de falha, como caso um dos dois erre o ângulo, os movimentos, ou caso os dois fiquem dessincronizados em algum momento. Os dois terão que passar por um Teste de Resistência de Destreza CD 16 para se fundir. Caso falhem, a fusão ainda ocorrerá, mas será considerada um completo fracasso. Em caso de sucesso, os Atributos de ambos aumentarão, e também ganharão outros bônus.
+**Gestos de Equilíbrio**: Escolham um gesto que você e seu aliado farão. Este gesto terá uma condição de falha, como caso um dos dois erre o ângulo, os movimentos, ou caso os dois fiquem dessincronizados em algum momento. Os dois terão que passar por um Teste de Resistência de Destreza CD 16 para se fundir. O único bônus permitido nessa Salvaguarda é o Modificador de Destreza. Caso falhem, a fusão ainda ocorrerá, mas será considerada um completo fracasso. Em caso de sucesso, os Atributos de ambos aumentarão, e também ganharão outros bônus.
 
 **Fundir** (Duas Ações): A duração da fusão será idêntica em caso de sucesso ou fracasso, sendo de 1 Encontro. 
 
 Em caso de fracasso na fusão, as seguintes coisas acontecerão com o personagem resultante:
 - O Deslocamento será de 3m.
 - A CA será de 3.
-- Os Atributos resultantes serão os mais baixos de cada um, com -5 em cada. Ou seja, se alguém tiver 10 de Força e outro tiver 5, a Força será 0. O mínimo de Inteligência será -2.
+- Os Atributos resultantes serão os mais baixos de cada um, com -5 em cada. Ou seja, se alguém tiver 10 de Força e outro tiver 5, a Força será 0.
 - A aparência resultante será uma fraca e patética, e fica a critério do mestre. Ela deve unir características de ambos os personagens originais.
 
 Em caso de sucesso, as seguintes coisas acontecerão com o personagem resultante:
 - O Deslocamento dos dois será somado.
 - A CA dos dois será somada.
 - Os Atributos resultantes serão os mais altos de cada um, dobrados. Ou seja, caso alguém tenha 10 de Força e outro tenha 5, a Força será 20.
-- Imunidade a qualquer Condição negativa.
+- Imunidade a qualquer Condição Negativa.
 - A aparência resultante ressaltará os pontos positivos de cada um dos personagens que se fundiram, ficando a critério do mestre.
 - Terá duas Ações Bônus e seis Ações normais no Turno, além de duas Reações na Rodada.
 - Terá todas as Habilidades e Magias de ambos os personagens, além das Habilidades de Raça de cada um.
