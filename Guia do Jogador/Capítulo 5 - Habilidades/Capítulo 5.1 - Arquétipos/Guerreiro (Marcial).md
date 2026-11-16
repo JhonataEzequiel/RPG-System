@@ -1,145 +1,160 @@
+O Arquétipo do Guerreiro Marcial contém Habilidades relacionadas ao combate físico em geral.
 
-O Arquétipo do Guerreiro Marcial contém Habilidades relacionadas ao combate físico num geral.
+| Habilidade              | Custo de PHs | Requisitos de Atributos              | Requisitos de Habilidades |
+| ----------------------- | ------------ | ------------------------------------ | ------------------------- |
+| Riposta                 | 1            | 2 de Destreza                        | -                         |
+| Ataque Carregado        | 1            | -                                    | -                         |
+| Ataque Extra Aprimorado | 1            | 10 de Força ou de Destreza           | "Ataque Extra" de Custo 3 |
+| Dualidade Militar       | 1            | 4 de Força e 4 de Destreza           | -                         |
+| Dança Combatente        | 1            | 2 de Força ou de Destreza            | -                         |
+| Pressa de Batalha       | 1            | 2 de Força ou de Destreza            | -                         |
+| Mente Calma             | 1            | 3 de Sabedoria                       | -                         |
+| Ataque Afortunado       | 1            | 3 de Força ou de Destreza            | "Sorte" de Custo 1        |
+| Inércia                 | 1            | 5 de Força, Constituição ou Destreza | -                         |
+| Foco de Ataque          | 1            | 2 de Força ou de Destreza            | -                         |
+| Infiltrador             | 1            | 4 de Força ou de Destreza            | -                         |
+| Golpe Duplo             | 2            | 4 de Força ou de Destreza            | -                         |
+| Dilacerar               | 2            | 4 de Força                           | -                         |
+| Nove Vidas              | 2            | 5 de Destreza                        | -                         |
+| Risco e Recompensa      | 2            | -                                    | -                         |
+| Rajada de Estocadas     | 2            | 3 de Força ou de Destreza            | -                         |
+| Estilo de Luta          | 2            | 3 de Força e 3 de Destreza           | -                         |
+| Golpe Triplo            | 2            | -                                    | "Golpe Duplo" de Custo 2  |
+| Ataque Extra            | 3            | 5 de Força ou de Destreza            | -                         |
+| Flanco Tático           | 3            | 5 de Força ou de Destreza            | -                         |
+| Show do Imperador       | 3            | -                                    | -                         |
 
-## Riposta (Custo 1)
+### Riposta
 
-**Requisitos**: 2 de Destreza.
-**Duração**: 1 Rodada.
-**Custo**: Duas Ações, 1 de Mana.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Destreza
 
-Você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você encerra seu Turno para ser capaz de usar três Reações nessa Rodada. Os inimigos tem -5 para te acertar enquanto esta Habilidade estiver ativa. Caso errem, você tem um Ataque de Oportunidade com Vantagem. Você não sofre Penalidades de Ataque enquanto a Habilidade durar.
+- **Riposta** (Ativa | Custo de Ações: Três Ações | Alvo: você | Duração: 1 Rodada): você se põe em uma postura preparada para realizar contra-ataques, sendo capaz de desviar e atacar o inimigo ao mesmo tempo. Você encerra seu Turno para poder usar três Reações nesta Rodada. Os inimigos têm -5 no BA de Ataques contra você enquanto esta Habilidade estiver ativa. Caso falhem em um Ataque, você pode realizar um Ataque de Oportunidade com Vantagem.
 
-## Ataque Carregado (Custo 1)
+### Ataque Carregado
 
-**Custo**: Três Ações, 1 de Mana.
+**Custo de PHs**: 1
 
-Você carrega seu próximo Ataque corpo a corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe num Teste de Resistência Constituição CD 12 + For. Você rola um Ataque, e se acertar, role o dano normal e adicione 2d4 + seu Nível a mais ao dano. O tipo de dano desse adicional será igual a um dos tipos de dano que você causa com seus Ataques, à sua escolha.
+- **Ataque Carregado** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 5 PMs | Alvo: uma criatura): você carrega seu próximo Ataque Corpo a Corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe em uma Salvaguarda de Constituição. Você realiza o Ataque e, se acertar, rola o dano normal e adiciona Grau 5 + seu Nível a mais ao dano. O alvo faz a Salvaguarda apenas se o Ataque acertar.
 
-## Ataque Extra (Custo 1)
+### Ataque Extra Aprimorado
 
-**Requisitos**: 3 de Força ou 3 de Destreza.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Força ou de Destreza | **Requisitos de Habilidades**: "Ataque Extra" de Custo 3
 
-Você pode realizar dois Ataques seguidos sem se preocupar com a primeira Penalidade de Ataques. Ou seja, o segundo Ataque não receberá a penalidade de -5 para atacar. Por conseguinte, o terceiro Ataque terá uma penalidade de -5, e não de -10.
+- **Ataque Extra Aprimorado** (Passiva): você não sofre mais Penalidades de Ataque.
 
-## Dualidade Militar (Custo 1)
+### Dualidade Militar
 
-**Requisitos**: 4 de Força, 4 de Destreza.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Força e 4 de Destreza
 
-Caso você esteja utilizando uma Arma Comum em cada mão, você pode optar por anular as penalidades que ocorrem ao Atacar com as duas ao mesmo tempo.
+- **Dualidade Militar** (Passiva): caso você esteja utilizando uma Arma em cada mão, você pode realizar Ataques de Oportunidade com as duas ao mesmo tempo.
 
-## Dança Combatente (Custo 1)
+### Dança Combatente
 
-**Requisitos**: 2 de Força ou 2 de Destreza.
-**Duração**: 1 Encontro.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força ou de Destreza
 
-Ao derrotar um inimigo em um Encontro, adicione 1d4 de Dano Físico entre Cortante, Perfurante, ou de Impacto a todos os seus Ataques pelo resto do Encontro, de acordo com o tipo causado pela sua Arma. Esse bônus é cumulativo até um máximo de 4d4.
+- **Dança Combatente** (Passiva | Duração: 1 Encontro): ao derrotar um inimigo em um Encontro, adicione Grau 1 de Dano Físico (Cortante, Perfurante ou de Impacto) a todos os seus Ataques pelo resto do Encontro, de acordo com o tipo causado pela sua Arma. Caso ela não cause nenhum desses tipos, esta Habilidade não tem efeito. Esse bônus é cumulativo até um máximo de 4 vezes.
 
-## Pressa de Batalha (Custo 1)
+### Pressa de Batalha
 
-**Requisitos**: 2 de Força ou 2 de Destreza.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força ou de Destreza
 
-Você se enfurece um pouquinho cada vez que erra, o que o faz causar mais dano nos próximos ataques. Sempre que errar um Ataque adicione +1 a todo Dano Físico que causar. Esse bônus é perdido ao receber uma instância de cura qualquer. O limite de bônus acumulado é de +10. O bônus não acumula quando fora de combate, mas também não é perdido. O bônus só é perdido quando você se curar, o que inclui Descansos. 
+- **Pressa de Batalha** (Passiva): você se enfurece um pouquinho cada vez que falha, o que o faz causar mais dano nos próximos Ataques. Sempre que falhar em um Ataque, adicione +1 ao BD de todo Dano Físico que causar. O limite de bônus acumulado é +10. O bônus não acumula fora de combate, mas também não é perdido. Ele só é perdido ao receber uma instância de cura qualquer, o que inclui Descansos.
 
-Caso você acumule +7 de bônus em um único Encontro, em três Encontros diferentes, você ganhará um novo efeito ao ter um Descanso Curto ou Longo. Você agora terá +3 de Dano Físico adicional em seus Ataques permanentemente, mas você perde o efeito anterior de acumular Dano Físico com erros.
+### Mente Calma
 
-## Mente Calma (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Sabedoria
 
-**Requisitos**: 3 de Sabedoria.
-**Duração**: 1 Encontro.
-**Custo**: Duas Ações.
+- **Mente Calma** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 2 PMs | Alvo: você | Duração: 1 Encontro): você se concentra, aumentando seus reflexos e ferocidade por um tempo. Você se cura da Condição Amedrontado, sua CA aumenta em 1 ponto, e você tem +1 no BA de Ataques. Esses bônus se acumulam a cada novo uso da Habilidade.
 
-Você se concentra, aumentando seus reflexos e ferocidade por um tempo. Você se cura da Condição Amedrontado, sua CA aumenta em 1 ponto, e você tem +1 para acertar Ataques. Esse bônus é cumulativo. Você pode optar por gastar 1 Ponto de Mana e uma Ação ao invés de duas Ações para usar essa Habilidade.
+### Ataque Afortunado
 
-## Ataque Afortunado (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Força ou de Destreza | **Requisitos de Habilidades**: "Sorte" de Custo 1
 
-**Requisitos**: Habilidade de Afortunado "Sorte" de Custo 1. 3 de Força, 3 de Destreza.
-**Custo**: Reação, 5 de Mana.
+- **Ataque Afortunado** (Ativa | Custo de Ações: Reação | Custo de Mana: 5 PMs | Alcance: Deslocamento | Alvo: uma criatura que esteja realizando um Ataque): você gasta um dos seus usos de Rolar Novamente, da Habilidade "Sorte", para garantir que o Ataque do alvo seja um Ataque Crítico. Você também pode ser o alvo desta Habilidade.
 
-Você gasta um de seus usos do Modificador de Sorte para garantir um Crítico em um Ataque de um alvo no alcance do seu Deslocamento. Você também pode ser alvo dessa Habilidade, perdendo sua Reação para utilizá-la.
+### Inércia
 
-## Inércia (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Força, Constituição ou Destreza
 
-**Requisitos**: 5 em Força, Destreza, ou Constituição.
+- **Inércia** (Passiva): você agora não pode realizar mais do que um Ataque por Turno. Além disso, você não pode usar Habilidades que causem dano e tenham como custo duas ou três Ações. Em troca, seus Ataques causam um adicional de Grau 5 de dano. Isso só funciona para Ataques Físicos.
 
-Você agora não pode realizar mais do que um Ataque por Turno. Além disso, você não poderá usar Habilidades de Ataque que tenham como Custo duas ou três Ações. Em troca, seus Ataques agora causam o dano de dois Ataques.
+### Foco de Ataque
 
-## Foco de Ataque (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força ou de Destreza
 
-**Requisitos**: 2 de Força ou 2 de Destreza.
+- **Foco de Ataque** (Ativa | Custo de Ações: Uma Ação ou Duas Ações | Alvo: você | Duração: até o fim do seu Turno): você sacrifica uma de suas Ações neste Turno para ganhar +3 no BA de Ataques. Alternativamente, você pode sacrificar a Ação para causar um adicional de Grau 6 de dano no próximo Ataque. Você também pode sacrificar duas Ações para obter ambos os bônus.
 
-Você pode sacrificar uma de suas Ações neste Turno para ganhar +3 para acertar Ataques. Alternativamente você pode sacrificar a Ação para ter 2d6 de dano de um dos tipos causados pela Arma, à sua escolha, no próximo Ataque. Você também pode sacrificar duas Ações para obter ambos os bônus.
+### Infiltrador
 
-## Infiltrador (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Força ou de Destreza
 
-**Requisitos**: 3 de Destreza.
+- **Infiltrador** (Passiva): seus Ataques ignoram metade das Resistências a Dano Físico do alvo no primeiro dos seus Turnos em um Encontro.
 
-Seus Ataques ignoram Resistências a Dano Físico no primeiro de seus Turnos em um Encontro.
+### Golpe Duplo
 
-## Golpe Duplo (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Força ou de Destreza
 
-**Requisitos**: 4 de Destreza ou 4 de Força.
-**Custo**: Ação Livre.
+- **Golpe Duplo** (Ativa | Custo de Ações: Ação Livre): você ataca novamente logo após realizar um Ataque, causando Grau 1 de dano, sem precisar acertar e sem gastar Ações. Esse segundo Ataque conta como um Ataque normal, sendo afetado por efeitos que afetem os Ataques, assim como por quaisquer bônus disponíveis, com exceção das Escalas, mas não conta para a Penalidade de Ataque.
 
-Você ataca novamente imediatamente após realizar um Ataque, causando 1d4 de dano de um dos tipos possíveis que sua Arma pode causar, à sua escolha, sem precisar acertar, e sem gastar Ações. Esse segundo Ataque conta como um Ataque normal, sendo afetado por efeitos que afetem os Ataques, assim como quaisquer bônus disponíveis, mas não conta para a Penalidade de Ataques.
+### Dilacerar
 
-## Dilacerar (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Força
 
-**Requisitos**: 4 de Força.
-**Custo**: Reação, 2 de Mana.
+- **Dilacerar** (Ativa | Custo de Ações: Reação | Custo de Mana: 3 PMs | Alvo: uma criatura): ao acertar três Ataques em um único alvo em um só Turno, você pode forçá-lo a passar por uma Salvaguarda de Constituição. Os ferimentos acumulados pelos Ataques vão debilitando o alvo até que ele comece a sangrar, recebendo a Condição Sangramento em caso de falha. Ao utilizar esta Habilidade novamente em um mesmo alvo, o Valor de Sangramento aumenta em 1.
 
-Ao acertar três Ataques em um único alvo em um só Turno, você pode forçar o alvo a passar por um Teste de Resistência de Constituição CD 12 + For. O dano residual dos ataques se acumulam, e o alvo tem a Condição Sangrando 1 em caso de falha. Ao utilizar essa Habilidade novamente num mesmo alvo, o Nível do Sangramento aumenta em 1.
+### Nove Vidas
 
-## Nove Vidas (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Destreza
 
-**Requisitos**: 5 de Destreza.
-**Custo**: Ação Bônus.
+- **Nove Vidas** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Duração: até o fim do seu próximo Turno): até o fim do seu próximo Turno, você não pode utilizar Reações, formas de Movimentação nem Ações Livres, e sua CA diminui em 3 pontos. Em troca, você tem mais três Ações neste Turno. Você também se concentra e recupera o fôlego durante o combate, curando-se em Grau 3 + Con.
 
-Até o início do seu próximo Turno você não pode se utilizar de Reações, Ações de Movimento, e Ações Livres, e sua CA diminui em 2 pontos. Fazendo isso, você terá mais três Ações neste Turno. Ademais, você se concentra e recupera o fôlego durante o combate, curando-se em 1d6 + Con.
+### Risco e Recompensa
 
-Você pode, alternativamente, só se curar ao invés de utilizar essa Habilidade por completo. Fazendo isso você encerra seu Turno, mas não sofre mais restrições de quais ações você pode ou não fazer. A cura também aumenta para 3d4 + Con.
+**Custo de PHs**: 2
 
-## Risco e Recompensa (Custo 2)
+- **Risco e Recompensa** (Passiva): caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha Penalidade de Ataque, você tem -10 no BA do seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione +3 ao BD de todos os seus Ataques permanentemente. Esse bônus se acumula a cada vez, com um limite de +9. Após atingir esse limite, você passa a ter +1 permanente no BA de Ataques.
 
-Caso você acerte dois Ataques em um Turno em que pelo menos um deles tenha penalidades para acertar, terá -10 para acertar seu próximo Ataque contra qualquer alvo no mesmo Encontro. Se você acertar esse Ataque, adicione 1d6 permanente a todo Ataque que você causar, com um limite de 3d6 de dano adicional. Após atingir esse limite, você terá +1 para acertar Ataques. O tipo de dano é igual a um dos tipos da Arma que você utilizar.
+### Rajada de Estocadas
 
-## Rajada de Estocadas (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Força ou de Destreza
 
-**Requisitos:** Sua Arma é capaz de causar Dano Perfurante.
-**Custo:** Duas Ações, 1 de Mana.
+Você precisa estar com uma Arma capaz de causar Dano Perfurante.
 
-Esta Ação sempre acerta. Você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu Bônus de Proficiência ao dano, sendo o dano adicionado um dos tipos capazes de serem causados pela sua Arma. O alvo ficará Caído caso falhe num Teste de Resistência de Constituição CD 15 + um Modificador à sua Escolha entre Força e Destreza.
+- **Rajada de Estocadas** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 3 PMs | Alvo: uma criatura): você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu BP ao dano. Esta Habilidade sempre acerta. O alvo fica Caído caso falhe em uma Salvaguarda de Constituição.
 
-## Estilo de Luta (Custo 2)
+### Estilo de Luta
 
-**Requisitos**: 3 de Força e 3 de Destreza.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Força e 3 de Destreza
 
-Escolha dentre um dos seguintes estilos de luta. Você pode trocar o estilo com um Descanso Longo.
+Escolha um dos seguintes estilos de luta. Essa escolha é permanente.
 
-**Duelista de Escudo:** Caso você esteja com uma Arma Comum ou Leve em uma mão, e um Escudo na outra mão, você agora poderá Aparar.
+- **Duelista de Escudo** (Passiva): caso você esteja com uma Arma em uma mão e um Escudo na outra, seu Escudo concede +1 de CA.
+- **Leveza** (Passiva): caso utilize duas Armas ao mesmo tempo, e ambas tenham Peso inferior a 2, você adiciona +5 ao BD ao Atacar com as duas.
+- **Empunhadura Única** (Passiva): ao empunhar uma Arma com duas mãos, você aumenta sua Margem de Ameaça em 2 em Ataques de Oportunidade.
+- **Posição de Poder** (Passiva): caso utilize duas Armas ao mesmo tempo, você adiciona metade do Peso total delas ao dano.
 
-- **Aparar** (Reação): Você levanta seu escudo na hora em que um Ataque iria te acertar, e impõe Desvantagem nele. Caso o Ataque erre, você pode realizar um Ataque. Se acertar, você causa 1d8 de dano extra de um dos tipos que seu Ataque seja capaz de causar. Se você tirar um Acerto Crítico no Ataque ou a criatura que te atacou inicialmente tirar um Erro Crítico, você não gasta sua Reação nesta Rodada.
+### Golpe Triplo
 
-**Leveza**: Você pode utilizar Armas Comuns como se fossem Armas Leves, ou seja, não terá mais a penalidade de -3 para Atacar com duas Armas Comuns ao mesmo tempo. Você também se beneficiará de quaisquer Habilidades e efeitos exclusivos de Armas Leves, mantendo também os de Armas Comuns.
+**Custo de PHs**: 2 | **Requisitos de Habilidades**: "Golpe Duplo" de Custo 2
 
-**Empunhadura Única**: O bônus de dano ao utilizar uma Arma Comum ou Leve em duas mãos aumenta de 1d4 para 2d8.
+- **Golpe Triplo** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 5 PMs): você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque realizado por Golpe Duplo.
 
-**Posição de Poder**: Armas de Empunhadura Dupla agora podem ser utilizadas como Armas Comuns, ou seja, poderá utilizar duas Armas de Empunhadura Dupla ao mesmo tempo com a penalidade de -3 para acertar. Você também se beneficiará de quaisquer Habilidades e efeitos exclusivos de Armas Comuns, mantendo também os de Armas de Empunhadura Dupla.
+### Ataque Extra
 
-## Golpe Triplo (Custo 2)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 5 de Força ou de Destreza
 
-**Requisitos:** Habilidade "Golpe Duplo" de Custo 2.
-**Custo**: Ação Livre, 3 de Mana.
+- **Ataque Extra** (Passiva): você pode realizar dois Ataques seguidos sem se preocupar com a primeira Penalidade de Ataque. Ou seja, o segundo Ataque não recebe a penalidade de -5 no BA. Por conseguinte, o terceiro Ataque recebe uma penalidade de -5, e não de -10.
 
-Você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque ocasionado pelo Golpe Duplo.
+### Flanco Tático
 
-## Ataque Extra Aprimorado (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 5 de Força ou de Destreza
 
-**Requisitos:** Habilidade "Ataque Extra" de Custo 1. 8 de Força ou 8 de Destreza.
+- **Flanco Tático** (Passiva): você causa um adicional de Grau 10 de dano ao realizar um Ataque Crítico enquanto estiver flanqueando. Esse bônus não é dobrado.
 
-Você não sofre mais Penalidades de Ataques, e sua Potência Crítica é aumentada em 1 ponto.
+### Show do Imperador
 
-## Show do Imperador (Custo 3)
+**Custo de PHs**: 3
 
-Para cada Encontro que sobreviver com mais do que 1 Ponto de Vida, e sem ser vítima de nenhuma Condição negativa, você ganha 1 Ponto do Imperador. Cada Ponto do Imperador será convertido em dano adicional de um dos tipos capazes de serem causados pela sua Arma. 
-
-Ao ser vítima de uma Condição negativa, você perde metade dos seus Pontos de Imperador. Ao ser Nocauteado, você perde todos os pontos. Se você derrotar a criatura que te Nocauteou ou lhe deu a Condição negativa ainda no mesmo Encontro, você recupera todos os pontos perdidos. Você deve causar o golpe final para recuperar seus pontos. O limite de Pontos do Imperador é 30.
+- **Show do Imperador** (Passiva): para cada Encontro que sobreviver com mais de 1 PV e sem ser vítima de nenhuma Condição Negativa, você ganha 1 Ponto do Imperador. Cada Ponto do Imperador é convertido em 1 de dano adicional.
+    
+    Ao ser vítima de uma Condição Negativa, você perde metade dos seus Pontos do Imperador. Ao ficar Morrendo, você perde todos os pontos. Se você derrotar a criatura que o deixou com 0 PVs, ou que lhe causou a Condição Negativa, ainda no mesmo Encontro, você recupera todos os pontos perdidos. Você deve causar o golpe final para recuperar seus pontos. O limite de Pontos do Imperador é 20.

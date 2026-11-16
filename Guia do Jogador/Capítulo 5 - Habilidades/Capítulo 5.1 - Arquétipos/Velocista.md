@@ -114,7 +114,7 @@ Esta Habilidade só tem efeito enquanto você não estiver usando nenhuma Armadu
     - Seu Deslocamento aumenta em 6 metros.
     - Todos os Ataques contra você têm Desvantagem para acertar.
     - Você tem Vantagem em Salvaguardas de Destreza contra Magias.
-    - Ao realizar um Ataque Crítico, você adiciona o seu Modificador de Destreza ao dano. O tipo do dano adicional é um dos tipos capazes de serem causados pela sua Arma, à sua escolha.
+    - Ao realizar um Ataque Crítico, você adiciona o seu Modificador de Destreza ao dano.
 
 ### Blitzkrieg
 

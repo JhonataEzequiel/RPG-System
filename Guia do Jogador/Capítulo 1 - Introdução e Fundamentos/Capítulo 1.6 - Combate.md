@@ -79,6 +79,12 @@ Ao causar uma instância de dano, ela tem um componente aleatório e também um 
 
 Onde Grau é o dado correspondente ao Grau do dano. Dependendo da Arma ou Magia de Dano que você utilizar, o Grau varia. O BD também varia de acordo com a instância de dano. Em Ataques com Armas, o BD vem das Escalas da Arma, acrescido de outros bônus que você ganha através de outras regras (veja o Capítulo 4.2 - Armas). Danos vindos de outras fontes que não sejam equipamentos, como Habilidades, podem ter um cálculo diferente de BD, normalmente sendo um Modificador, acrescido de outros bônus menores que você ganha através de outras regras.
 
+### Dano Adicional
+
+Sempre que um efeito conceder dano adicional a uma instância de dano, seja um valor fixo, um Grau, um Modificador ou um aumento no BD, e não especificar o tipo, você escolhe um dos tipos capazes de serem causados pela fonte do dano principal, como a Arma, a Magia ou o Item Arremessável utilizados. A escolha é feita a cada instância de dano.
+
+Caso o efeito especifique o tipo, restrinja as opções ou diga a quem cabe a escolha, o que ele determina prevalece. Se o dano adicional for Dano Contínuo, o tipo escolhido vale para todas as instâncias dele. Esta regra não se aplica aos bônus de Escalas, cujo tipo segue o Capítulo 4.6 - Aprimoramento e Infusões, nem a dano calculado como fração do dano principal, que mantém o tipo do dano de origem.
+
 ## Ataques Críticos
 
 Caso você obtenha um Sucesso Crítico em um Ataque, ou um resultado natural dentro da sua Margem de Ameaça, ele é considerado um Ataque Crítico e sempre acerta, independentemente da CA do alvo. Ao obter um Ataque Crítico, você pode escolher entre dobrar o dano causado, incluindo o BD, ou rolar os dados novamente e somar os dois resultados, adicionando o BD novamente. Você pode escolher após ver o resultado dos dados.
@@ -123,7 +129,14 @@ Itens Arremessáveis não precisam estar equipados, mas você precisa ter ao men
 
 ## Flanquear
 
-Caso um aliado seu esteja adjacente a uma criatura, você terá +3 no BA de Ataques contra ela caso Ataque fora de seu campo de visão.
+Caso um aliado seu esteja adjacente a uma criatura, você tem +3 no BA de Ataques contra ela se a Atacar fora do campo de visão dela.
+
+## Cobertura
+
+Você pode se proteger atrás de elementos do cenário, ganhando alguns benefícios. Há dois tipos de Cobertura, a Parcial e a Total:
+
+- **Cobertura Parcial**: você está atrás de alguma estrutura que, por padrão, não cobre totalmente o seu corpo, sendo necessário que você se Esgueire para que ela o cubra por completo, tornando-se uma Cobertura Total. Inimigos do outro lado da Cobertura Parcial têm Desvantagem para acertar você.
+- **Cobertura Total**: você está totalmente coberto atrás de uma estrutura e não pode ser detectado pela visão. Qualquer um que queira Atacar você precisa destruir a Cobertura primeiro, ou as tentativas de Ataque falham.
 
 ## Áreas de Efeito
 

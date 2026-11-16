@@ -10,6 +10,10 @@ Seu Deslocamento é reduzido a zero, e você só tem 2 Ações por Turno.
 
 Você tem Desvantagem em Ataques, e seu Deslocamento é cortado pela metade. Esses efeitos só valem em relação à fonte do seu amedrontamento.
 
+### Atordoado
+
+Você tem -3 em todos os BAs até o fim do seu próximo Turno. A duração pode ser maior, a depender do que o deixou Atordoado, sendo especificada caso a caso.
+
 ### Caído
 
 A única forma de locomoção possível é Esgueirar, mesmo em espaços amplos, como se estivesse rastejando. Você tem Desvantagem em Ataques. Quaisquer Ataques direcionados a você têm Vantagem. Você pode se levantar com uma Ação Bônus.
@@ -21,6 +25,10 @@ Você perde um ou mais de seus sentidos e falha em quaisquer Testes relacionados
 ### Encantado
 
 Você não pode realizar nenhuma ação hostil contra quem o Encantou ou contra seus aliados. Quem o Encantou tem Vantagem em Ataques contra você. Ao sofrer dano de quem o Encantou, o Encantamento é quebrado.
+
+### Envenenado
+
+Você está atualmente sofrendo de Dano Venenoso Contínuo.
 
 ### Exausto
 
@@ -72,3 +80,7 @@ Você é transformado, juntamente com qualquer objeto que esteja vestindo ou car
 Você está Incapacitado. Você tem Resistência 20 a todos os tipos de dano, exceto Dano de Impacto, ao qual tem Fraqueza 5. Você é Imune a Dano Sanguíneo e Dano Venenoso.
 
 Você é Imune a doenças, mas Venenos e doenças que já estão em seu corpo são apenas suspensos, não neutralizados. Mais detalhes sobre Venenos serão apresentados no Capítulo 4.5 - Itens Consumíveis.
+
+### Sangramento
+
+Você sofre Grau 2 de Dano Sanguíneo Contínuo. Essa Condição possui Valores, assim como a Exaustão. Ao aumentar o seu Valor de Sangramento, você sofre uma instância adicional de Grau 2 de Dano Sanguíneo Contínuo. Receber uma instância de cura reduz o Valor de Sangramento em 2.

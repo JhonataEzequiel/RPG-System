@@ -63,8 +63,6 @@ Você só pode adquirir esta Habilidade no Nível 1.
     
     Quanto mais criaturas forem derrotadas com Ataques Corpo a Corpo em Encontros, mais a tatuagem vai se expandindo. Desde que você tenha usado ao menos um Ataque Corpo a Corpo em um inimigo e ele tenha sido derrotado, ele já é contabilizado. A tatuagem vai aumentar seu BD dos Ataques Corpo a Corpo conforme ela se expande. O bônus no BD é +1 a cada 3 inimigos derrotados, com um limite de +10, em que a tatuagem se expande totalmente e toma conta do seu braço inteiro.
     
-    O tipo de dano do bônus é igual a um dos tipos capazes de serem causados pela sua Arma.
-    
 
 ### Fúria
 
@@ -175,7 +173,7 @@ Você precisa ser Perito em Atletismo para adquirir esta Habilidade.
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 8 de Força
 
-- **Potência Pura** (Passiva): se qualquer Habilidade de Ataque sua tiver um efeito secundário, como Amedrontar um inimigo ou derrubá-lo, você ignora esse efeito em troca de causar mais dano. Essa Habilidade não se aplica a efeitos secundários que causem mais dano. O dano adicional é BP + Grau 6. O dano adicional é de um dos tipos que sua Arma é capaz de causar, à sua escolha.
+- **Potência Pura** (Passiva): se qualquer Habilidade de Ataque sua tiver um efeito secundário, como Amedrontar um inimigo ou derrubá-lo, você ignora esse efeito em troca de causar mais dano. Essa Habilidade não se aplica a efeitos secundários que causem mais dano. O dano adicional é BP + Grau 6.
 
 ### Diamante
 

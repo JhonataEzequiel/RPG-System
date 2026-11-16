@@ -34,7 +34,7 @@ Você só pode adquirir esta Habilidade no Nível 14. Você não pode ter outro 
 
 **Custo de PHs**: 1
 
-- **Armamento Único** (Passiva): escolha uma Arma Corpo a Corpo ou à Distância. Itens Arremessáveis não podem ser escolhidos, e a escolha não pode ser trocada depois. Você só pode causar dano por meio dela e de Habilidades que a utilizem, como as que peçam um Ataque. Você ainda recebe bônus de outras fontes para aumentar o dano da sua Arma. Em troca, você causa um adicional de Grau 5 de dano de um dos tipos que a Arma é capaz de causar, à sua escolha.
+- **Armamento Único** (Passiva): escolha uma Arma Corpo a Corpo ou à Distância. Itens Arremessáveis não podem ser escolhidos, e a escolha não pode ser trocada depois. Você só pode causar dano por meio dela e de Habilidades que a utilizem, como as que peçam um Ataque. Você ainda recebe bônus de outras fontes para aumentar o dano da sua Arma. Em troca, você causa um adicional de Grau 5 de dano.
 
 ### Minhas Regras
 

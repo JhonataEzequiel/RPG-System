@@ -1,26 +1,26 @@
 O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consumíveis, sobre o Dano Ácido e sobre o Dano Venenoso.
 
-| Habilidade             | Custo de PHs | Requisitos de Atributos | Requisitos de Habilidades                                        |
-| ---------------------- | ------------ | ----------------------- | ---------------------------------------------------------------- |
-| Artesão de Consumíveis | 1            | 2 de Arcano             | -                                                                |
-| Derreter               | 1            | 2 de Arcano             | -                                                                |
-| Lança Granadas         | 1            | 3 de Destreza ou Força  | -                                                                |
-| Causticomancia         | 1            | 3 de Arcano             | -                                                                |
-| Bomba Benéfica         | 1            | 3 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Calcinação             | 1            | 2 de Arcano             | -                                                                |
-| Dissolução             | 1            | 3 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Mestre em Explosões    | 2            | -                       | "Lança Granadas" de Custo 1, "Artesão de Consumíveis" de Custo 1 |
-| Corroer Defesas        | 2            | 4 de Arcano             | -                                                                |
-| Químico Destruidor     | 2            | 4 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Peçonha Instantânea    | 2            | -                       | -                                                                |
-| Alquimista Supremo     | 3            | 5 de Arcano             | "Artesão de Consumíveis" de Custo 1                              |
-| Alquimista Mágico      | 3            | 10 de Arcano            | "Artesão de Consumíveis" de Custo 1                              |
-| Mestre Botânico        | 3            | -                       | "Alquimista Supremo" de Custo 3                                  |
-| Chuva de Bênçãos       | 3            | -                       | "Bomba Benéfica" de Custo 1                                      |
-| Podridão               | 3            | -                       | "Alquimista Supremo" de Custo 3                                  |
-| Enxofre                | 3            | 8 de Arcano             | "Corroer Defesas" de Custo 2                                     |
-| Químico Radioativo     | 3            | 10 de Arcano            | "Químico Destruidor" de Custo 2                                  |
-| Transmutar             | 3            | -                       | "Alquimista Supremo" de Custo 3                                  |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Artesão de Consumíveis|1|2 de Arcano|-|
+|Derreter|1|2 de Arcano|-|
+|Lança Granadas|1|3 de Destreza ou Força|-|
+|Causticomancia|1|3 de Arcano|-|
+|Bomba Benéfica|1|3 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Calcinação|1|2 de Arcano|-|
+|Dissolução|1|3 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Mestre em Explosões|2|-|"Lança Granadas" de Custo 1, "Artesão de Consumíveis" de Custo 1|
+|Corroer Defesas|2|4 de Arcano|-|
+|Químico Destruidor|2|4 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Peçonha Instantânea|2|-|-|
+|Alquimista Supremo|3|5 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Alquimista Mágico|3|10 de Arcano|"Artesão de Consumíveis" de Custo 1|
+|Mestre Botânico|3|-|"Alquimista Supremo" de Custo 3|
+|Chuva de Bênçãos|3|-|"Bomba Benéfica" de Custo 1|
+|Podridão|3|-|"Alquimista Supremo" de Custo 3|
+|Enxofre|3|8 de Arcano|"Corroer Defesas" de Custo 2|
+|Químico Radioativo|3|10 de Arcano|"Químico Destruidor" de Custo 2|
+|Transmutar|3|-|"Alquimista Supremo" de Custo 3|
 
 ### Artesão de Consumíveis
 
@@ -41,9 +41,9 @@ O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consum�
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Destreza ou Força
 
-- **Lança Granadas** (Passiva): você agora escolhe se quer utilizar ambos os Modificadores de Força e de Destreza para calcular a distância de arremesso. Além disso, você pode adicionar o Modificador de Força, o de Destreza ou ambos ao BD de Itens Arremessáveis. Esse BD é de um dos tipos de dano capazes de serem causados pelo item.
+- **Lança Granadas** (Passiva): você agora escolhe se quer utilizar ambos os Modificadores de Força e de Destreza para calcular a distância de arremesso. Além disso, você pode adicionar o Modificador de Força, o de Destreza ou ambos ao BD de Itens Arremessáveis.
     
-    Ao atingir o valor de Atributo 8 em Força ou em Destreza, o dano de Itens Arremessáveis aumenta em um Grau do mesmo tipo escolhido anteriormente para o BD. Ao evoluir os dois Atributos para o valor 8, você aumenta o Grau duas vezes, em vez de uma.
+    Ao atingir o valor de Atributo 8 em Força ou em Destreza, o dano de Itens Arremessáveis aumenta em um Grau do mesmo tipo escolhido para o BD daquela instância de dano. Ao evoluir os dois Atributos para o valor 8, você aumenta o Grau duas vezes, em vez de uma.
     
 
 ### Causticomancia
@@ -77,7 +77,7 @@ Você precisa ter um Almofariz.
 
 **Custo de PHs**: 2 | **Requisitos de Habilidades**: "Lança Granadas" de Custo 1, "Artesão de Consumíveis" de Custo 1
 
-- **Mestre em Explosões** (Passiva): seus Itens Arremessáveis que causam dano agora possuem Escalas similares às das Armas, recebendo os mesmos benefícios que elas. O dano adicional das Escalas será um dos tipos capazes de serem causados pelo Item Arremessável em questão.
+- **Mestre em Explosões** (Passiva): seus Itens Arremessáveis que causam dano agora possuem Escalas similares às das Armas, recebendo os mesmos benefícios que elas. O dano adicional das Escalas será um dos tipos capazes de serem causados pelo Item Arremessável em questão, conforme o Capítulo 4.6 - Aprimoramento e Infusões.
     
     De início, você adquire uma Escala D em Arcano. Ela evolui conforme você fabrica Itens Arremessáveis. Com 10 itens, você terá Escala C. Com mais 20 itens, Escala B. Com outros 50 itens, Escala A. E com outros 100 itens, Escala S.
     
@@ -105,7 +105,7 @@ Você precisa ter um Almofariz.
 
 **Custo de PHs**: 2
 
-- **Peçonha Instantânea** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 10 PMs | Alvo: uma criatura que esteja sofrendo Dano Venenoso Contínuo): você Ataca o alvo e, caso acerte, faz com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez e encerrando o Dano Venenoso Contínuo. Além do dano do seu Ataque, o alvo recebe três instâncias de Grau 10 de Dano Venenoso. Para esta Habilidade ter efeito, a duração restante do Veneno tem que ser de pelo menos 2 Rodadas. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por esta Habilidade.
+- **Peçonha Instantânea** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 10 PMs | Alvo: uma criatura que esteja Envenenada): você Ataca o alvo e, caso acerte, faz com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez e encerrando o Dano Venenoso Contínuo. Além do dano do seu Ataque, o alvo recebe três instâncias de Grau 10 de Dano Venenoso. Para esta Habilidade ter efeito, a duração restante do Veneno tem que ser de pelo menos 2 Rodadas. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por esta Habilidade.
 
 ### Alquimista Supremo
 

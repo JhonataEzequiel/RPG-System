@@ -163,6 +163,6 @@ Caso a Arma à Distância atualmente equipada precise de recarga, ela deve estar
 
 Você precisa ser Proficiente em Armas à Distância.
 
-- **Morte Branca** (Passiva): se você estiver a pelo menos 90 metros de distância de uma criatura e realizar um Ataque à Distância, você causa Grau 10 a mais de dano, de um dos tipos capazes de serem causados pela sua Arma. A cada 30 metros além desses 90, você adiciona Grau 5 de Dano Perfurante ao Ataque. Se você estiver Furtivo antes de Atacar a uma distância mínima de 90 metros e acertar o alvo com pelo menos 3 pontos a mais em relação à CA dele, você não deixa de estar Furtivo.
+- **Morte Branca** (Passiva): se você estiver a pelo menos 90 metros de distância de uma criatura e realizar um Ataque à Distância, você causa Grau 10 a mais de dano. A cada 30 metros além desses 90, você adiciona Grau 5 de Dano Perfurante ao Ataque. Se você estiver Furtivo antes de Atacar a uma distância mínima de 90 metros e acertar o alvo com pelo menos 3 pontos a mais em relação à CA dele, você não deixa de estar Furtivo.
     
     Para outros Ataques à Distância, os de distância inferior a 90 metros, duplique o seu BA para acertar.

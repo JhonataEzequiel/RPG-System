@@ -20,6 +20,10 @@ Caso Habilidades concedam aumentos na sua CA, esses aumentos funcionam normalmen
 
 As Habilidades de Raça são uma exceção a esses limites: seus aumentos de BA e de CA não contam para a soma descrita acima e não são restringidos por ela.
 
+## Dano Adicional
+
+Habilidades que concedam dano adicional seguem a regra de Dano Adicional do Capítulo 1.6 - Combate. Quando a descrição não menciona o tipo desse dano, você o escolhe conforme essa regra. A descrição de uma Habilidade só trata do tipo quando o efeito o especifica, restringe as opções ou diz a quem cabe a escolha.
+
 ## Propriedades das Habilidades
 
 Existem propriedades obrigatórias, compartilhadas por todas as Habilidades, e algumas que dependem da Habilidade em si.
