@@ -1,77 +1,88 @@
+O Arquétipo do Eletromante contém Habilidades relacionadas ao controle da eletricidade e a Magias que causem Dano Elétrico.
 
-O Arquétipo do Eletromante contém Habilidades relacionadas ao controle da eletricidade, e de Magias que causem Dano de Raio.
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Conduzir|1|1 de Arcano|-|
+|Bobina|1|3 de Sabedoria e 3 de Arcano|-|
+|Campo Elétrico|1|4 de Arcano|-|
+|Apressado|1|2 de Arcano|-|
+|Nuvem Carregada|1|1 de Arcano|-|
+|Nuvem de Tempestade|1|2 de Arcano|"Nuvem Carregada" de Custo 1|
+|Corrente Alternada e Contínua|2|5 de Arcano|-|
+|Conversão Elétrica|3|10 de Arcano|-|
+|Hertz|3|10 de Arcano|"Conduzir" de Custo 1, "Apressado" de Custo 1|
 
-## Conduzir (Custo 1)
+### Conduzir
 
-**Requisitos**: 1 de Inteligência.
-**Custo**: Reação, 1 de Mana.
-**Duração**: 3 Rodadas.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano
 
-Logo após causar Dano de Raio em uma criatura alvo no alcance do seu Deslocamento você conduz parte da eletricidade para si mesmo, te energizando e aumentando seu Deslocamento em 3m, até um limite de 9m adicionais.
+- **Conduzir** (Ativa | Custo de Ações: Reação | Custo de Mana: 1 PM | Alcance: Deslocamento | Alvo: você | Duração: 1 Encontro): logo após causar Dano Elétrico a uma criatura no alcance, você conduz parte da eletricidade para si mesmo, energizando-se. Seu Deslocamento aumenta em 1,5 metro, até um limite de 4,5 metros adicionais.
 
-## Bobina (Custo 1)
+### Bobina
 
-**Requisitos**: 3 de Sabedoria, 3 de Inteligência.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Sabedoria e 3 de Arcano
 
-Você absorve eletricidade de alguma fonte, como uma Magia conjurada por você ou outra pessoa, ou de geradores naturais, se você conseguir algum. Fazendo isso, seu corpo começa a produzir uma tensão altíssima com a corrente absorvida. Você pode descarregar essa corrente no início do seu Próximo Turno como uma Ação Bônus, causando o seu Bônus de Proficiência + Int + Sab como Dano de Raio a uma criatura no alcance do seu Deslocamento. Alternativamente, você pode manter essa corrente dentro de você, concedendo 10 Pontos de Resistência a Dano de Raio.
+Seu corpo produz uma tensão altíssima com a corrente que você absorve. Ao absorvê-la, você escolhe entre descarregá-la ou retê-la.
 
-## Campo Elétrico (Custo 1)
+- **Absorver Corrente** (Ativa | Custo de Ações: Reação | Alvo: uma fonte de eletricidade): você absorve eletricidade de alguma fonte, como uma Magia conjurada por você ou por outra pessoa, ou de geradores naturais, caso encontre algum.
+- **Descarregar Corrente** (Ativa | Custo de Ações: Ação Bônus | Alcance: Deslocamento | Alvo: uma criatura | Duração: Instantânea): você descarrega a corrente absorvida no início do seu próximo Turno, causando Grau 5 de Dano Elétrico.
+- **Reter Corrente** (Passiva | Alvo: você): alternativamente, você pode manter a corrente dentro de si, recebendo +10 de Resistência a Dano Elétrico.
 
-**Requisitos**: 4 de Inteligência.
-**Custo**: Uma Ação, 2 de Mana.
-**Duração**: 2 Rodadas.
+### Campo Elétrico
 
-Seu próprio corpo começa a produzir eletricidade. Ela não afeta itens de metais que você carrega, nem seu próprio corpo. No entanto, ela atrai as Armas de metal dos inimigos, os concedendo +1 para acertar um Ataque. Em troca, se ele errar o Ataque, a Arma dele ficará presa em um local encostado no seu corpo, como tocando a lateral da sua perna. Ele precisará passar por uma Salvaguarda de Força para retirar a Arma CD 13 + Int. Em caso de falha, a Arma fica acoplada ao seu corpo até o fim da duração da Habilidade, e não poderá mais ser usada até que seja apanhada por alguém. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o final do próximo Turno dela, e não recebe mais o bônus de +1 desta Habilidade.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Arcano
 
-## Apressado (Custo 1)
+- **Campo Elétrico** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 2 PMs | Alvo: inimigos com Armas de metal | Duração: 2 Rodadas): seu próprio corpo começa a produzir eletricidade, que não afeta os itens de metal que você carrega nem o seu corpo. Ela atrai as Armas de metal dos inimigos, como espadas de ferro ou aço, concedendo a eles +1 no BA de Ataques contra você.
+    
+    Em troca, se o inimigo falhar no Ataque, a Arma dele fica presa em um ponto encostado no seu corpo, como a lateral da sua perna. Ele precisa passar por uma Salvaguarda de Força para retirá-la.
+    
+    Em caso de falha, a Arma fica acoplada ao seu corpo até o fim da duração e não pode mais ser usada até que seja apanhada por alguém. Em caso de sucesso, a Arma é retirada, mas a criatura tem Desvantagem para acertar Ataques até o fim do próximo Turno dela e deixa de receber o bônus de +1 e de ser afetada por esta Habilidade.
+    
 
-**Requisitos**: 2 de Inteligência.
-**Custo**: Uma Ação, 1 de Mana.
-**Duração**: 1 Encontro.
+### Apressado
 
-Você faz eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1.5m para cada ponto no seu Bônus de Proficiência. Ao final do Encontro, caso você não tenha sido Nocauteado, a eletricidade é reabsorvida por você, e você recupera 1 Ponto de Mana. Só pode usar uma vez por Descanso Curto ou Longo.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Arcano
 
-## Nuvem Carregada (Custo 1)
+- **Apressado** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Alvo: você | Duração: 1 Encontro | Limite de Usos: uma vez por Descanso): você faz a eletricidade correr pelo seu corpo, aumentando seu Deslocamento em 1,5 metro para cada ponto no seu Modificador de Arcano. Ao final do Encontro, caso você não tenha caído a 0 PVs, a eletricidade é reabsorvida, e você recupera 1 PM.
 
-**Requisitos**: 1 de Inteligência.
-**Custo**: Reação.
-**Duração**: 1 Encontro.
+### Nuvem Carregada
 
-Ao conjurar uma Magia Elemental que cause Dano Elétrico em um alvo único, você poderá criar uma pequena nuvem que sobrevoa a cabeça da criatura. A nuvem é escura, como se estivesse prestes a iniciar uma pequena chuva. Você aumenta o dano das Magias Elementais que causem Dano Elétrico em 1d6 de Dano Elétrico. Você pode usar essa Habilidade uma vez por Descanso Curto.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano
 
-## Nuvem de Tempestade (Custo 1)
+- **Nuvem Carregada** (Ativa | Custo de Ações: Reação | Custo de Mana: 2 PMs | Alvo: uma criatura | Duração: 1 Encontro | Limite de Usos: uma vez por Descanso Curto): ao conjurar uma Magia Elemental que cause Dano Elétrico a um alvo único, você pode criar uma pequena nuvem que sobrevoa a cabeça da criatura. A nuvem é escura, como se estivesse prestes a iniciar uma pequena chuva. Pela duração, você adiciona Grau 2 de Dano Elétrico às suas Magias Elementais que causem Dano Elétrico.
 
-**Requisitos**: Habilidade "Nuvem Carregada" de Custo 1. 2 de Inteligência.
+### Nuvem de Tempestade
 
-Sua Nuvem Carregada agora pode ser usada uma quantidade de vezes igual a seu Bônus de Proficiência por Descanso Curto. Você só pode ter uma Nuvem Carregada ativa por vez. O dano também aumenta para 1d8, substituindo o 1d6 anterior.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Arcano | **Requisitos de Habilidades**: "Nuvem Carregada" de Custo 1
 
-## Corrente Alternada e Contínua (Custo 2)
+- **Nuvem de Tempestade** (Passiva): você pode usar a Nuvem Carregada três vezes por Descanso Curto, mas só pode ter uma Nuvem Carregada ativa por vez. O dano adicional dela também aumenta para Grau 3, substituindo o Grau 2 anterior.
 
-**Requisitos**: 5 de Inteligência.
-**Custo**: Uma Ação, 1 de Mana.
-**Duração**: 1 Encontro.
+### Corrente Alternada e Contínua
 
-Você se concentra, mudando o foco das suas Magias Elementais que causem Dano de raio. Você pode escolher entre uma das duas correntes abaixo:
-- **Corrente Alternada**: O Alcance aumenta em uma quantidade de metros iguais ao seu Deslocamento + Int (cada ponto no Modificador de Inteligência aumenta em 1.5m de distância).
-- **Corrente Contínua**: Parte da eletricidade flui para fora, como excesso. Você pode escolher um alvo adicional para suas Magias de alvo único, causando 1d6 + Int como Dano de Raio.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Arcano
 
-## Conversão Elétrica (Custo 3)
+Você muda o foco das suas Magias Elementais que causem Dano Elétrico, escolhendo uma das duas correntes a seguir ao ativar a Habilidade.
 
-**Requisitos**: 10 de Inteligência.
-**Custo**: Duas Ações, 6 de Mana.
-**Duração**: 1 Encontro.
+- **Escolher Corrente** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Alvo: você | Duração: 1 Encontro): você se concentra e escolhe entre a Corrente Alternada e a Corrente Contínua.
+- **Corrente Alternada** (Passiva | Duração: 1 Encontro): o alcance das suas Magias Elementais que causem Dano Elétrico aumenta em uma quantidade de metros igual ao seu Deslocamento, acrescida de 1,5 metro para cada ponto no seu Modificador de Arcano.
+- **Corrente Contínua** (Passiva | Duração: 1 Encontro): parte da eletricidade flui para fora, como excesso. Você pode escolher um alvo adicional para as suas Magias de alvo único, que causa Grau 2 + Arc de Dano Elétrico a ele.
 
-Você sacrifica um Item Mágico ou Único de Grau 1 ou maior, o transformando em eletricidade, que é absorvida pelo seu corpo. Você recebe os seguintes benefícios:
-- Seu Deslocamento aumenta em 10.5m;
-- Todo Ataque Corpo a Corpo feito contra você reflete 1d8 de dano no atacante como Dano de Raio;
-- Você tem Vantagem em Salvaguardas de Destreza;
-- Você tem +10 em quaisquer Testes de Destreza, incluindo Ataques que utilizem Destreza como bônus, Salvaguardas, Perícias, e quaisquer outros;
-- Você se torna Imune a Dano de Raio.
+### Conversão Elétrica
 
-## Hertz (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano
 
-**Requisitos**: Habilidade "Conduzir" de Custo 1. Habilidade "Apressado" de Custo 1. 10 de Inteligência.
+- **Conversão Elétrica** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 6 PMs | Alvo: você | Duração: 1 Encontro): você sacrifica um Item Especial de Patamar 1 ou maior, transformando-o em eletricidade, que é absorvida pelo seu corpo. Você recebe os seguintes benefícios:
+    - Seu Deslocamento aumenta em 10,5 metros;
+    - Todo Ataque Corpo a Corpo feito contra você reflete Grau 3 de Dano Elétrico no atacante;
+    - Você tem Vantagem em Salvaguardas de Destreza;
+    - Você tem +10 no BA de quaisquer Testes de Destreza, incluindo Ataques que utilizem Destreza, Salvaguardas, Perícias e quaisquer outros;
+    - Você se torna Imune a Dano Elétrico.
 
-Você agora pode conceder frações do seu Deslocamento a um aliado no início de cada um de seus Turnos como uma Ação Livre. Cada fração equivale a 1.5m de Deslocamento. Você pode conceder quantas frações quiser, até um máximo igual ao seu Deslocamento total dividido por 1.5m. Por exemplo, se você tiver 9m de Deslocamento, pode conceder até 6 frações, totalizando até 9m ao aliado.
+### Hertz
 
-Caso você retenha pelo menos uma fração do seu Deslocamento, seus movimentos começam a parecer travados — como se em uma instância de tempo você estivesse em um lugar, e no próximo já estivesse em uma posição diferente, sem os estágios intermediários. Isso confunde os inimigos que tentam te acertar, concedendo +1 de CA e +1 em Salvaguardas de Destreza até o início do seu próximo Turno. Caso você ceda todas as frações do seu Deslocamento, esse bônus não se aplica.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano | **Requisitos de Habilidades**: "Conduzir" de Custo 1, "Apressado" de Custo 1
+
+Cada fração de Deslocamento equivale a 1,5 metro. Uma fração concedida diminui o seu Deslocamento.
+
+- **Conceder Deslocamento** (Ativa | Custo de Ações: Ação Livre | Alvo: um aliado | Duração: 1 Encontro): no início de cada um dos seus Turnos, você pode conceder frações do seu Deslocamento ao aliado, em quantas quiser, até um máximo igual ao seu Deslocamento total dividido por 1,5 metro. Por exemplo, se você tiver 9 metros de Deslocamento, pode conceder até 6 frações, totalizando até 9 metros ao aliado.
+- **Movimentos Travados** (Passiva | Alvo: você | Duração: 1 Encontro): caso você retenha pelo menos uma fração do seu Deslocamento, seus movimentos começam a parecer travados, como se em um instante você estivesse em um lugar e, no seguinte, já estivesse em outro, sem os estágios intermediários. Isso confunde os inimigos que tentam acertá-lo, concedendo +1 de CA e +1 no BA de Salvaguardas de Destreza até o início do seu próximo Turno. Caso você ceda todas as frações do seu Deslocamento, esse bônus não se aplica.
