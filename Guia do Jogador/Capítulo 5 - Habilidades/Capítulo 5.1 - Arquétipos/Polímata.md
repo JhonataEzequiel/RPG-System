@@ -13,6 +13,12 @@ Você tem +50po disponíveis para adquirir seu Equipamento Inicial. Você pode e
 
 Ganhe mais 1 Ponto de Atributo para alocar como quiser, além de 1d6 nos seus Pontos de Vida Máximos. Caso seus Pontos de Mana Máximos sejam 1, você recebe mais 1 Ponto de Mana.
 
+## Engrenagem (Custo 1)
+
+**Requisitos**: 3 de Inteligência.
+
+Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No terceiro Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do quarto em diante, adicione o Atributo inteiro ao invés do Modificador.
+
 ## Contrário (Custo 1)
 
 Você prefere situações aonde o desafio é maior e, por isso, se dá bem nelas. No entanto, quanto mais fácil um desafio, mais difícil ele será para você. Sempre que receber um bônus positivo em Testes, como +1, ou Vantagem, ele será negativo, se tornando -1, ou Desvantagem. Analogamente, sempre que receber um bônus negativo, ele se tornará positivo. Bônus de Atributos ou de Proficiência, assim como as Escalas de itens e outros bônus de itens, como o +3 em Testes de Medicina concedidos pelo Kit de Primeiros Socorros, não entram no cálculo desta Habilidade. No entanto, bônus concedidos, sejam por meio de Condições, outras Habilidades, Magias, e quaisquer efeitos situacionais, estarão sujeitos a essa Habilidade.

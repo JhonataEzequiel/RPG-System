@@ -12,6 +12,7 @@ O Arquétipo do Bruxo governa o oculto e seus poderes perigosos e desconhecidos.
 | Culto ao Desconhecido | 3            | 7 de Arcano e 6 de Vínculo   | -                           |
 | Dia das Bruxas        | 3            | 10 de Arcano e 10 de Vínculo | -                           |
 | Anjo Caído            | 3            | 5 de Arcano e 10 de Vínculo  | "Amor ao Pecado" de Custo 1 |
+| Fênix da Morte        | 3            | 10 de Arcano e 10 de Vínculo | -                           |
 
 ### Domínio
 
@@ -89,3 +90,9 @@ Você só pode adquirir esta Habilidade caso o seu valor de Sabedoria seja 0 ou 
 
 - **Anjo Caído** (Passiva): você ainda pode sofrer dano de Queda Livre, mas não pode mais morrer por ele. De maneira inconsciente, a sua própria mente utiliza Mana para impedir a morte por uma queda. Isso não tem gasto de PMs e é apenas uma justificativa narrativa.
 - **Pecado Original** (Passiva): sempre que enfrentar uma Criatura Lendária, adicione +5 ao seu BP. Confira o Capítulo 7.3 - Criaturas para mais detalhes.
+
+### Fênix da Morte
+
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Vínculo
+
+- **Fênix da Morte** (Ativa | Custo de Ações: Ação Livre | Duração: 4 Rodadas | Limite de Usos: uma vez por Descanso Longo): você causa o dobro de dano com todas as suas Magias Sombrias que causem dano. Ao final da duração você terá a Condição Morrendo, e ao invés de apenas um Ferimento Profundo ser adicionado, dois serão.

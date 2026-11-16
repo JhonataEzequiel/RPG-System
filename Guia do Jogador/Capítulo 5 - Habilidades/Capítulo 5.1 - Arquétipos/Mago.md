@@ -1,198 +1,203 @@
+O Arquétipo do Mago contém Habilidades que beneficiam usuários de Magias de forma geral.
 
-O Arquétipo do Mago conterá Habilidades que beneficiarão usuários de Magias de forma geral.
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Historiador Curioso|1|1 de Arcano|-|
+|Recuperação Arcana|1|3 de Arcano e 2 de Sabedoria|-|
+|Oportunista Mágico|1|-|-|
+|Magia Simples|1|3 de Arcano e 3 de Sabedoria|-|
+|Experiência Metamágica|1|4 de Arcano|-|
+|Companheiro Grimório|1|3 de Arcano|-|
+|Assinatura de Mana|1|1 de Carisma, Arcano ou Vínculo|-|
+|Fluir da Mana|1|1 de Sabedoria|-|
+|Conhecedor Arcano|1|4 de Arcano|-|
+|Transferência Arcana|1|2 de Sabedoria|-|
+|Base Três|1|2 de Sabedoria|-|
+|Truque de Mágica|1|10 de Arcano|"Base Três" de Custo 1|
+|Arcano Aprimorado|2|6 de Sabedoria|-|
+|Troca Equivalente|2|5 de Sabedoria|-|
+|Visão Além do Alcance|2|6 de Sabedoria|-|
+|Mente Focada|2|1 de Sabedoria e 4 de Arcano|-|
+|Preparação Arcana|2|5 de Sabedoria|-|
+|Canção da Mana|2|9 de Sabedoria|"Fluir da Mana" de Custo 1|
+|Bibliotecário|3|10 de Arcano|-|
+|Mente Incansável|3|6 de Sabedoria|-|
+|Foco Vocal|3|8 de Arcano e 2 de Sabedoria|-|
+|Mestre das Magias|3|7 de Sabedoria e 7 de Arcano, Vínculo ou Carisma|-|
+|Noite Estrelada|3|10 de Arcano e 10 de Sabedoria|-|
 
-## Historiador Curioso (Custo 1)
+### Historiador Curioso
 
-**Requisitos**: 1 de Inteligência. Ser Perito em História.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano
 
-Sempre que estiver em um local nunca antes visitado, você terá Vantagem no primeiro Teste de História que realizar. Além disso, você terá +2 de Percepção em locais escuros e cavernosos, como masmorras e ruínas.
+Você precisa ser Perito em Erudição para adquirir esta Habilidade.
 
-## Recuperação Arcana (Custo 1)
+- **Historiador Curioso** (Passiva): sempre que estiver em um local nunca antes visitado, você tem Vantagem no primeiro Teste de Erudição que realizar. Além disso, você tem +2 no BA de Percepção em locais escuros e cavernosos, como masmorras e ruínas.
 
-**Requisitos**: 3 de Inteligência, 2 de Sabedoria.
+### Recuperação Arcana
 
-Ao encerrar um combate, você recupera 1d4 da Mana gasta automaticamente.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano e 2 de Sabedoria
 
-## Oportunista Mágico (Custo 1)
+- **Recuperação Arcana** (Passiva): ao finalizar um Encontro, você recupera Grau 1 de PMs automaticamente.
 
-Ao ter um Ataque de Oportunidade você pode escolher conjurar um Arcano Menor que causa dano em um alvo único no lugar. Este Arcano Menor se beneficiará de efeitos que aumentem o dano de seus Ataques de Oportunidade.
+### Oportunista Mágico
 
-## Magia Simples (Custo 1)
+**Custo de PHs**: 1
 
-**Requisitos**: 3 de Inteligência, 2 de Sabedoria.
+- **Oportunista Mágico** (Passiva): ao realizar um Ataque de Oportunidade, você pode escolher conjurar, no lugar dele, uma Magia de Dano de custo base 0 que cause dano a um alvo único. Essa Magia se beneficia de efeitos que aumentem o dano dos seus Ataques de Oportunidade.
 
-Você conhece 1 Arcano Menor para cada ponto no seu Bônus de Proficiência.
+### Magia Simples
 
-## Especialista em Arcanos Menores (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano e 3 de Sabedoria
 
-**Requisitos**: 4 de Inteligência.
+- **Magia Simples** (Passiva): nos Níveis 5, 10, 15 e 20, você aprende uma Magia adicional, totalizando 4 Magias Conhecidas a mais.
 
-Seus Arcanos Menores que causam dano, agora causam 1d8 a mais de dano. O tipo de dano adicional é um dos tipos capazes de serem causados pelo Arcano Menor, à sua escolha.
+### Experiência Metamágica
 
-## Companheiro Grimório (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Arcano
 
-**Requisitos**: 3 de Inteligência.
+- **Experiência Metamágica** (Passiva): a primeira Metamagia que você aplicar em um Encontro é gratuita.
 
-A cada três Magias que você anotar no seu Grimório, adicione 1d4 Pontos de Mana enquanto estiver com o Grimório equipado.
+### Companheiro Grimório
 
-## Foco Arcano (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano
 
-**Requisitos**: 1 de Sabedoria.
+Você precisa ter um Grimório.
 
-Você escolhe uma Arma ou objeto que você possua. Esse objeto agora aumenta a força de suas Magias. Você aumenta a CD para evitar os efeitos negativos de suas Magias em 1 ponto. Caso a magia cause exclusivamente dano ou cura, sem pedir por uma Salvaguarda, você aumenta esse valor em 1d4. Caso a Magia cause múltiplos tipos de dano, você escolhe um dos tipos para receber o aumento.
+- **Companheiro Grimório** (Passiva | Duração: até o fim do Encontro | Limite de Usos: uma vez por Encontro): ao equipar um Grimório, o que normalmente ocorre no início de um Encontro, você recebe Grau 1 de PMs Temporários a cada três Magias anotadas nele. Os PMs Temporários se esvaem quando o Encontro é finalizado.
 
-Você deve estar com o item equipado antes de conjurar a Magia para se beneficiar desses bônus, e ele ocupa uma de suas mãos, a não ser que seja uma Arma de Empunhadura Dupla, pois ocupará as duas por padrão.
+### Assinatura de Mana
 
-## Assinatura de Mana (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Carisma, Arcano ou Vínculo
 
-**Requisitos**: 1 de Carisma, Inteligência, ou Fé.
+Caso a descrição de uma Magia mencione especificamente que seus aliados também são afetados por ela, ou que você também é, os efeitos desta Habilidade são anulados para essa Magia.
 
-Toda vez que uma Magia com efeito em área que você conjurou poderia te atingir, ela não mais o fará. Você se torna Imune a quaisquer efeitos de Magia conjurados por você que você quiser se tornar Imune. Além disso, pode gastar 1 Ponto de Mana adicional quando conjurar a Magia para tornar todos os seus aliados Imunes também. Caso uma Magia especificamente mencione que seus aliados também serão afetados, ou que você também será, o efeito desta Habilidade é anulado para a Magia em si.
+- **Assinatura de Mana** (Passiva): toda vez que uma Magia com efeito em Área conjurada por você poderia atingi-lo, ela não o atinge mais. Além disso, você é Imune aos efeitos de qualquer Magia conjurada por você, se assim desejar.
+- **Imunidade Mágica** (Ativa | Custo de Mana: 3 PMs adicionais | Alvo: seus aliados): você adquire uma nova Metamagia, a Imunidade Mágica. Ao conjurar uma Magia com ela, você também torna seus aliados Imunes aos efeitos dessa Magia.
 
-## Fluir da Mana (Custo 1)
+### Fluir da Mana
 
-**Requisitos**: 1 de Sabedoria.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Sabedoria
 
-Quando tiver um Descanso Curto e for recuperar Mana, adicione seu Modificador de Inteligência, Fé, ou Carisma à rolagem. Você agora conhece uma Magia adicional.
+- **Fluir da Mana** (Passiva): a cada hora completa de Descanso Curto em que você recuperar PMs, você recupera Grau 2 de PMs a mais.
 
-## Conhecedor Arcano (Custo 1)
+### Conhecedor Arcano
 
-**Requisitos**: Você deve possuir um Grimório. 4 de Inteligência.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Arcano
 
-Você é dedicado ao estudo do arcano, e por isso sua capacidade mental é aprimorada. Você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas farão parte das suas Magias Conhecidas, acrescentando o número de Magias Conhecidas em 2. 
+Você precisa ter um Grimório.
 
-As Magias escolhidas são apagadas do Grimório, abrindo margem para novas. O seu Grimório deve possuir ao menos 4 Magias anotadas para você poder utilizar essa Habilidade. Você pode pegar essa Habilidade mais de uma vez.
+- **Conhecedor Arcano** (Passiva): você é dedicado ao estudo do arcano, e por isso a sua capacidade mental é aprimorada. Ao adquirir esta Habilidade, você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas passam a fazer parte das suas Magias Conhecidas, aumentando o número delas em 2, e não podem ser trocadas depois.
+    
+    As Magias escolhidas são apagadas do Grimório, abrindo espaço para novas. O Grimório deve ter ao menos 4 Magias anotadas para você poder utilizar esta Habilidade. Você pode adquirir esta Habilidade mais de uma vez, e a escolha é feita a cada aquisição.
+    
 
-## Escolher Novamente (Custo 1)
+### Transferência Arcana
 
-Você pode trocar uma Magia das suas Magias Conhecidas. Essa Habilidade pode ser pega mais de uma vez. Cada vez que pegar essa Habilidade a quantidade de Magias que você poderá trocar aumentará em 2.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Sabedoria
 
-## Transferência Arcana (Custo 1)
+- **Transferência Arcana** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: metade dos seus PMs Atuais | Alcance: Deslocamento | Alvo: uma criatura): você extrai uma pequena esfera de Mana do seu corpo, composta por metade dos seus PMs Atuais. Ela é azulada e intangível, mas segue o movimento das suas mãos. Ao encostar a esfera no alvo, ele a absorve, recebendo a Mana extraída. A Mana recebida não pode aumentar os PMs Máximos do alvo, nem temporariamente.
 
-**Requisitos**: 2 de Sabedoria.
-**Custo**: Uma Ação, metade da sua Mana Atual.
+### Base Três
 
-Você consegue extrair uma pequena esfera de Mana do seu corpo, composta por metade da sua Mana atual. Ela é azulada, e não é tangível, mas segue o movimento de suas mãos. Ao encostar essa esfera em uma criatura alvo no alcance do seu Deslocamento ela a absorve, recebendo a Mana extraída.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Sabedoria
 
-## Conjuração Ritual (Custo 1)
+- **Base Três** (Passiva): você pode conjurar Magias de custo final 3 ou inferior sem gastar PMs.
 
-**Requisitos**: 2 de Sabedoria.
+### Truque de Mágica
 
-Você pode conjurar Magias até custo 6 sem gastar Mana. Para isso você terá que fazer um ritual sem ser interrompido por 10 minutos antes de conjurar a Magia. A Magia em si não pode ter como tempo de conjuração um tempo maior que três Ações.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Arcano | **Requisitos de Habilidades**: "Base Três" de Custo 1
 
-## Truque de Mágica (Custo 1)
+- **Truque de Mágica** (Ativa | Custo de Ações: Ação Livre | Limite de Usos: uma vez por Encontro): você conjura uma Magia de custo final 3 ou inferior como uma Ação Livre, caso o tempo de conjuração dela seja de Ações ou Ação Bônus.
 
-**Requisitos**: Habilidade "Especialista em Arcanos Menores" de Custo 1. 10 de Inteligência.
+### Arcano Aprimorado
 
-Uma vez por Encontro, você pode utilizar um Arcano Menor que cause dano com uma Ação Livre.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 6 de Sabedoria
 
-## Magia do Coração (Custo 1)
+- **Arcano Aprimorado** (Passiva): ao adquirir esta Habilidade, escolha uma Magia da sua lista de Magias Conhecidas. A escolha não pode ser trocada depois. Essa Magia custa 1 PM a menos para ser conjurada. A Magia escolhida não pode ser de custo base 7 ou superior. Você adiciona +1 na CD para evitar os efeitos negativos da Magia escolhida, caso ela possua alguma Salvaguarda para tal.
 
-**Requisitos**: Habilidade "Fluir da Mana" de Custo 1.
+### Troca Equivalente
 
-A Magia adicional concedida por Fluir da Mana agora poderá ser uma Magia de custo 2 ou inferior a qual você não cumpre os requisitos de Atributo. Alternativamente, você conhece dois Arcanos Menores adicionais, e ignora os requisitos de Atributo deles.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Sabedoria
 
-## Engrenagem (Custo 1)
+Você deve fazer as suas escolhas no momento em que adquirir esta Habilidade, e elas são irreversíveis. Os PMs trocados são perdidos de maneira permanente dos seus PMs Máximos. A tabela a seguir indica quantos PMs Máximos são necessários para obter uma Magia Conhecida adicional, de acordo com o custo base dela.
 
-**Requisitos**: 3 de Inteligência.
+|PMs Necessários|Custo Base da Magia|
+|---|---|
+|2|1|
+|5|2-3|
+|7|4-5|
+|10|6-7|
+|15|8-9|
+|20|10|
 
-Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No terceiro Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do quarto em diante, adicione o Atributo inteiro ao invés do Modificador.
+- **Troca Equivalente** (Passiva): você pode trocar, de maneira permanente, PMs Máximos por Magias Conhecidas adicionais, de acordo com a tabela. Essas Magias custam 3 PMs a menos do que o normal.
+- **Reduzir Requisitos** (Passiva): alternativamente, você pode reduzir os requisitos de uma Magia. Para cada PM Máximo trocado, você reduz em 1 ponto o requisito de algum Atributo dela. Isso permite que você conheça novas Magias cujos requisitos foram reduzidos o suficiente. Você não precisa conhecer uma Magia a priori para reduzir os requisitos dela.
 
-## Arcano Aprimorado (Custo 2)
+### Visão Além do Alcance
 
-**Requisitos**: 6 de Sabedoria.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 6 de Sabedoria
 
-Escolha uma Magia da sua lista de Magias Conhecidas. Esta Magia custará 1 Ponto de Mana a menos para ser utilizada. A Magia escolhida não pode ser de custo 7 ou superior. Você adiciona +1 na CD para evitar efeitos negativos da Magia escolhida, caso ela possua algum Teste do tipo.
+- **Visão Além do Alcance** (Passiva): você foi capaz de treinar seus olhos para enxergar muito além do comum. Magias de custo base 1 ou inferior não têm mais requisitos de Atributos.
 
-## Troca Equivalente (Custo 2)
+### Mente Focada
 
-**Requisitos**: 5 de Sabedoria.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 1 de Sabedoria e 4 de Arcano
 
-Você pode, de maneira permanente, trocar Pontos de Mana por Magias Conhecidas adicionais. Essas magias custarão 2 a menos do que o normal.
+- **Mente Focada** (Passiva): você só pode recuperar Mana com Descansos Longos, abdicando de quaisquer outros meios, incluindo Poções e outras Habilidades. Em troca, o custo final de Magias de custo base 5 ou inferior é reduzido em 5 PMs, com um mínimo de 0. Como o custo final inclui as Metamagias aplicadas, isso permite utilizá-las nessas Magias sem gastar PMs adicionais, até esse limite.
 
-| Pontos de Mana Necessários | Nível da Magia |
-| -------------------------- | -------------- |
-| 2                          | 1              |
-| 4                          | 2-3            |
-| 6                          | 4-5            |
-| 8                          | 6-7            |
-| 12                         | 8-9            |
-| 15                         | 10             |
-Alternativamente você pode reduzir os Requisitos de uma Magia. Para cada Ponto de Mana gasto, você reduz o requisito em 1 ponto de algum Atributo. Isso permite que você conheça novas Magias as quais você reduziu os requisitos o suficiente. Você não precisa conhecer uma Magia a priori para reduzir os requisitos dela.
+### Preparação Arcana
 
-Você deve efetuar suas escolhas no momento em que adquirir esta Habilidade, e elas são irreversíveis. Essa Habilidade pode ser pega múltiplas vezes.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Sabedoria
 
-## Visão Além do Alcance (Custo 2)
+- **Preparação Arcana** (Passiva): ao iniciar um Encontro, você pode conjurar uma única Magia de custo base 0, desde que o tempo de conjuração dela seja de Ações ou Ação Bônus, ignorando a ordem de Iniciativa. Você deve fazer isso antes de qualquer integrante do Encontro iniciar o próprio Turno.
 
-**Requisitos**: 6 de Sabedoria.
+### Canção da Mana
 
-Você foi capaz de treinar seus olhos para enxergar muito além do comum. Magias de custo 1 não tem mais pré-requisitos de Atributos.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 9 de Sabedoria | **Requisitos de Habilidades**: "Fluir da Mana" de Custo 1
 
-## Mente Focada (Custo 2)
+- **Canção da Mana** (Passiva): a cada hora completa de Descanso Curto, você passa a recuperar o maior valor entre metade dos seus PMs Máximos e o que recuperaria normalmente.
 
-**Requisitos**: 1 de Sabedoria. 4 de Inteligência.
+### Bibliotecário
 
-Você só pode recuperar Mana com Descansos Longos, abdicando de quaisquer outros meios, incluindo Poções ou outras Habilidades. Em troca, Magias de custo 1 e 2 são consideradas Arcanos Menores, e não custam mais Mana.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano
 
-## Preparação Arcana (Custo 2)
+Você precisa ter um Grimório.
 
-**Requisitos**: 5 de Sabedoria.
+- **Bibliotecário** (Passiva): seus Grimórios passam a flutuar ao seu redor quando você precisa utilizar uma Magia contida neles, não exigindo mais que você os segure e liberando a mão que antes seria ocupada. Você pode ter até 3 Grimórios ao mesmo tempo por meio desta Habilidade. Você não pode segurar Grimórios adicionais, mesmo que suas mãos estejam livres, sendo o limite total de 3.
+    
+    Caso você tenha a Habilidade "Companheiro Grimório" de Custo 1, o bônus dela é válido para apenas um dos seus Grimórios.
+    
 
-Ao entrar em combate você pode utilizar qualquer Arcano Menor que quiser, ignorando a ordem de Iniciativa. Você deve fazer isso antes de qualquer integrante do combate iniciar seu Turno.
+### Mente Incansável
 
-## Canção da Mana (Custo 2)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 6 de Sabedoria
 
-**Requisitos:** Habilidade "Fluir da Mana" de Custo 1. 9 de Sabedoria.
+- **Mente Incansável** (Passiva | Duração: até o próximo Descanso Longo): ao ter um Descanso Longo, escolha uma Habilidade cujo Limite de Usos seja uma vez por Descanso Longo. Essa Habilidade pode ser utilizada duas vezes até o próximo Descanso Longo.
 
-Descansos Curtos agora recuperam toda a sua Mana. Além disso, você conhece uma quantidade de Magias adicionais igual ao seu Modificador de Sabedoria.
+### Foco Vocal
 
-## Supressão Mental (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 8 de Arcano e 2 de Sabedoria
 
-**Requisitos**: 3 de Sabedoria, 5 de Inteligência.
+- **Foco Vocal** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 1 PM): sempre que você falar o nome de uma Magia antes de conjurá-la, adicione +1 na CD para evitar quaisquer efeitos negativos dela. Esse valor aumenta em +2 caso você conjure apenas essa Magia durante o seu Turno e não faça mais nada, o que inclui não utilizar quaisquer Ações ou Ações Bônus restantes. Você ainda pode utilizar Reações na Rodada, assim como formas de Movimentação.
 
-Você tem 4d8 a mais de Mana permanentemente. No entanto, Magias da Lista de Magias que custem 7 ou mais custam o dobro. Ainda que você tenha diminuído o custo delas anteriormente, elas custarão o dobro do novo custo. Por exemplo, se uma Magia originalmente custava 8, você diminuiu o custo dela para 6, agora ela custará 12. Diminuição de custo de Magias é possível através de outras Habilidades. Se você diminuir o custo de uma Magia após o custo dela ter sido dobrado, você não diminuirá o custo duas vezes.
+### Mestre das Magias
 
-## Bibliotecário (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Sabedoria e 7 de Arcano, Vínculo ou Carisma
 
-**Requisitos**: 10 de Inteligência.
+- **Mestre das Magias** (Passiva): ao conjurar 10 Magias de uma mesma categoria sem alternar, ou seja, sem utilizar outra categoria, você diminui permanentemente em 2 PMs o custo final das Magias daquela categoria. Comece a contar a partir do momento em que adquirir esta Habilidade.
+    
+    Você pode adquirir esta Habilidade múltiplas vezes, e cada aquisição permite diminuir o custo final de uma categoria de Magia diferente. Você só pode diminuir em 2 PMs o custo final de cada categoria, e os efeitos de categorias diferentes são cumulativos.
+    
 
-Seus Grimórios agora flutuam ao seu redor quando você precisar utilizar uma Magia contida neles, não mais necessitando que você os segure, assim liberando a mão que antes seria ocupada. Você pode ter até 3 Grimórios ao mesmo tempo através dessa Habilidade. Não poderá segurar Grimórios adicionais mesmo que suas mãos estejam livres, sendo o limite total de 3.
+### Noite Estrelada
 
-## Mente Incansável (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Sabedoria
 
-**Requisitos**: 6 de Sabedoria.
+Você precisa ter ao menos uma mão livre no momento de ativação desta Habilidade.
 
-Quando você tiver um Descanso Longo, escolha uma Habilidade, Magia, ou efeito que só possa ser utilizado uma vez por Descanso Longo. Essa escolha poderá ser utilizada duas vezes até o próximo Descanso Longo. Além disso, adicione 1d6 + Sab de pontos de Mana permanentemente.
-
-## Foco Vocal (Custo 3)
-
-**Requisitos**: 8 de Inteligência, 2 de Sabedoria.
-
-Sempre que você falar o nome de uma Magia antes de utilizá-la, adicione +1 na CD para evitar quaisquer efeitos negativos da Magia. Esse valor aumenta em +2 caso você conjure apenas esta Magia durante seu Turno, e não faça mais nada. Isto inclui não utilizar quaisquer Ações ou Ações Bônus restantes nele. Você ainda poderá utilizar Reações neste Rodada, assim como Ações de Movimento.
-
-## Ritual Supremo (Custo 3)
-
-**Requisitos**: Habilidade "Conjuração Ritual" de Custo 1. 5 de Sabedoria.
-
-Você agora pode conjurar Magias como ritual independentemente do Custo, mas elas ainda tem que ter como tempo de conjuração 3 Ações ou menos.
-
-## Mestre das Magias (Custo 3)
-
-**Requisitos**: 7 de Sabedoria. 7 de Inteligência, Fé, ou Carisma.
-
-Ao conjurar 10 Magias de uma mesma categoria sem alternar, ou seja, sem utilizar outra categoria, você diminui permanentemente o custo de Mana das magias daquela categoria em 1 ponto. Comece a contar a partir do momento que você adquirir essa Habilidade. 
-
-Essa Habilidade pode ser pega múltiplas vezes, e seus efeitos são cumulativos. Você só pode diminuir os custos em 1 para cada categoria de Magia.
-
-## Noite Estrelada (Custo 3)
-
-**Requisitos**: 10 de Inteligência. 10 de Sabedoria. Ao menos uma mão livre no momento de ativação dessa Habilidade.
-**Custo**: Três Ações, toda a sua Mana com um mínimo de 15 pontos.
-**Alcance**: 18m.
-**Duração**: 1 Encontro.
-
-Você desenha no ar utilizando um de seus dedos e toda a sua reserva de Mana. O desenho pode ser visto a olho nu, independente da aptidão mágica dos que estiverem a sua volta. Após um tempo, a aparência do céu é trocada, refletindo uma pintura de uma noite cheia de estrelas brilhantes, em um tom melancólico. Todos no alcance o enxergam assim, mas os de fora veem um céu normal. 
-
-O custo de Mana de qualquer coisa é reduzido pela metade, arredondando para cima. Habilidades, Magias, Habilidades de Raça, etc. Tudo é afetado para todos os participantes do Encontro (caso esteja em batalha), ou para os que estiverem no alcance (caso esteja fora de batalha). 
-
-O custo de Mana continua o mesmo para você, que é o único que não é afetado por essa Habilidade. Mesmo pintando, sua arte não alivia sua dor.
+- **Noite Estrelada** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 30 PMs | Alcance: 18 metros | Alvo: todas as criaturas, exceto você | Duração: 1 Encontro): você desenha no ar utilizando um de seus dedos e toda a sua reserva de Mana. O desenho pode ser visto a olho nu, independentemente da aptidão mágica dos que estiverem ao seu redor. Após um tempo, a aparência do céu é trocada, refletindo uma pintura de uma noite cheia de estrelas brilhantes, em um tom melancólico. Todos no alcance enxergam o céu assim, mas os de fora veem um céu normal.
+    
+    O custo de Mana de qualquer coisa é reduzido pela metade, arredondando para cima, o que inclui Habilidades, Magias, Habilidades de Raça etc. Todos os participantes do Encontro são afetados (caso você esteja em combate), ou todos os que estiverem no alcance (caso você esteja fora de combate).
+    
+    O custo de Mana continua o mesmo para você, que é o único que não é afetado por esta Habilidade. Mesmo pintando, sua arte não alivia sua dor.
