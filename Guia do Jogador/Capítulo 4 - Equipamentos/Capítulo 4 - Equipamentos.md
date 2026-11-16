@@ -22,7 +22,7 @@ Ao reduzir o Peso, os efeitos da sobrecarga deixam de valer na mesma medida. O D
 
 Armaduras e Armas — que têm suas regras explicadas no Capítulo 4.1 - Armaduras e no Capítulo 4.2 - Armas — possuem Escalas. Um mesmo item pode ter até duas Escalas. Cada Escala é referente a um Atributo, podendo ser qualquer um deles, a depender do item em si. Cada Escala lhe concede bônus que estão ativos enquanto estiver com o item que as tem equipado. Um mesmo item não pode ter duas Escalas em um mesmo Atributo.
 
-Uma Escala pode ser D, C, B, A ou S, em ordem crescente. Ou seja, uma Escala S é superior a uma Escala A, que é superior a uma B, e assim por diante. As Escalas concedem seus bônus em valores pares do Atributo ao qual estão interligadas, até o máximo de valor 10 do Atributo. Esses bônus são cumulativos entre si. Os valores que concedem bônus são: 2, 4, 6, 8 e 10.
+Uma Escala pode ser D, C, B, A ou S, em ordem crescente. Ou seja, uma Escala S é superior a uma Escala A, que é superior a uma B, e assim por diante. As Escalas concedem seus bônus em valores pares do Atributo ao qual estão interligadas, sem um valor Máximo de Atributo. Esses bônus são cumulativos entre si. Os valores que concedem bônus são: 2, 4, 6, 8 e 10.
 
 Exemplo: caso sua Arma possua uma Escala B em Força, e você tenha 6 de Força, você recebe o bônus de valor de Atributo 2 da Escala B, o de 4 e o de 6, mas não recebe os de 8 e 10.
 

@@ -16,7 +16,7 @@ O custo de uma Habilidade varia entre 1 e 3 Pontos de Habilidade. Quanto mais ca
 
 ## Limites de CA e BA
 
-Caso Habilidades concedam aumentos na sua CA, esses aumentos estão limitados a +3. Caso concedam ao BA de Ataques, você recebe esses pontos normalmente até +10. Após isso, cada dois pontos concedidos é equivalente a um. Ou seja, +2 vira +1. BAs de outros Testes não têm esse limite.
+Caso Habilidades concedam aumentos na sua CA, esses aumentos funcionam normalmente até +3. Caso concedam ao BA de Ataques, você recebe esses pontos normalmente até +10. Após isso, cada dois pontos concedidos é equivalente a um. Ou seja, +2 vira +1. BAs de outros Testes não têm esse limite.
 
 As Habilidades de Raça são uma exceção a esses limites: seus aumentos de BA e de CA não contam para a soma descrita acima e não são restringidos por ela.
 

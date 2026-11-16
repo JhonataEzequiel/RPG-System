@@ -3,7 +3,7 @@ O Arquétipo de Ladino diz respeito ao especialista em Furtividade e Ladroagem.
 
 ## Acrobata (Custo 1)
 
-Desde que você esteja usando uma Armadura Leve ou Roupas, ganha +4 em Testes de Acrobacia. Também pode usar Desengajar como uma Ação Bônus uma vez por Descanso Curto.
+Desde que você esteja usando uma Armadura que pese 3 ou menos ou Roupas, ganha +4 em Testes de Acrobacia. Também pode usar Desengajar como uma Ação Bônus uma vez por Descanso Curto.
 
 ## Mercado Negro (Custo 1)
 

@@ -1,16 +1,16 @@
 O Arquétipo do Ilusionista contém Habilidades que afetam diretamente o uso de Magias de Ilusão e de efeitos similares. Também faz referência a efeitos mentais, a Dano Psíquico e à comunicação entre as diferentes partes da psique.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Ventriloquia|1|3 de Carisma e 2 de Sabedoria|-|
-|Forçar Invisibilidade|1|2 de Carisma e 2 de Arcano|-|
-|Trapaceiro|1|1 de Carisma ou de Arcano|-|
-|Persona|1|2 de Carisma|-|
-|Sombra|2|3 de Carisma e 3 de Arcano|-|
-|Ego|2|3 de Carisma ou de Arcano|"Persona" de Custo 1|
-|Submundo|3|5 de Carisma ou de Arcano|-|
-|Herói|3|10 de Carisma|-|
-|Si-Mesmo|3|10 de Arcano ou de Carisma|"Herói" de Custo 3, "Submundo" de Custo 3|
+| Habilidade            | Custo de PHs | Requisitos de Atributos       | Requisitos de Habilidades                 |
+| --------------------- | ------------ | ----------------------------- | ----------------------------------------- |
+| Ventriloquia          | 1            | 3 de Carisma e 2 de Sabedoria | -                                         |
+| Forçar Invisibilidade | 1            | 2 de Carisma e 2 de Arcano    | -                                         |
+| Trapaceiro            | 1            | 1 de Carisma ou de Arcano     | -                                         |
+| Persona               | 1            | 2 de Carisma                  | -                                         |
+| Sombra                | 2            | 3 de Carisma e 3 de Arcano    | -                                         |
+| Ego                   | 2            | 3 de Carisma ou de Arcano     | "Persona" de Custo 1                      |
+| Submundo              | 3            | 5 de Carisma ou de Arcano     | -                                         |
+| Herói                 | 3            | 10 de Carisma                 | -                                         |
+| Si-Mesmo              | 3            | 10 de Arcano ou de Carisma    | "Herói" de Custo 3, "Submundo" de Custo 3 |
 
 ### Ventriloquia
 

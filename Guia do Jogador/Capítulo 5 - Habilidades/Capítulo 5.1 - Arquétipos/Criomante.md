@@ -1,72 +1,85 @@
+O Arquétipo do Criomante contém Habilidades relacionadas ao controle do gelo e a Magias que causem Dano Gélido.
 
-O Arquétipo do Criomante contém Habilidades relacionadas ao controle do gelo, e de Magias que causem Dano de Gelo.
+| Habilidade                     | Custo de PHs | Requisitos de Atributos         | Requisitos de Habilidades |
+| ------------------------------ | ------------ | ------------------------------- | ------------------------- |
+| Nevoeiro Congelante            | 1            | 3 de Arcano                     | -                         |
+| Habitante de Terras Congeladas | 1            | 3 de Arcano e 2 de Constituição | -                         |
+| Sopro de Gelo                  | 1            | 5 de Arcano                     | -                         |
+| Prisão Gélida                  | 1            | 1 de Arcano                     | -                         |
+| Sangue Frio                    | 1            | -                               | -                         |
+| Patinação no Gelo              | 1            | 3 de Arcano                     | -                         |
+| Era do Gelo                    | 2            | 7 de Arcano                     | -                         |
+| Friagem                        | 3            | 10 de Arcano                    | -                         |
+| Sono Criogênico                | 3            | 10 de Arcano                    | -                         |
 
-## Nevoeiro Congelante (Custo 1)
+### Nevoeiro Congelante
 
-**Requisitos**: 3 de Inteligência.
-**Custo**: Reação, 1 de Mana.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano
 
-Toda vez que conjurar uma Magia de área que cause Dano de Gelo, você aumenta o tamanho da área em 3m, de acordo com o tipo de área. Um nevoeiro surge ao fim da conjuração ao seu redor. Trata-se de uma névoa fina, mas muito fria. O próximo Ataque Corpo a Corpo efetuado contra você tem Desvantagem para acertar.
+- **Nevoeiro Congelante** (Ativa | Custo de Ações: Reação | Custo de Mana: 1 PM | Alvo: você): sempre que conjurar uma Magia em Área que cause Dano Gélido, você aumenta o tamanho da área em 1,5 metro, de acordo com o tipo de área. Um nevoeiro surge ao seu redor ao fim da conjuração. Trata-se de uma névoa fina, mas muito fria. O próximo Ataque Corpo a Corpo efetuado contra você tem Desvantagem para acertar.
 
-## Habitante de Terras Congeladas (Custo 1)
+### Habitante de Terras Congeladas
 
-**Requisitos**: 2 de Inteligência, 1 de Constituição.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano e 2 de Constituição
 
-Seu corpo se adapta o suficiente para sobreviver um pouco melhor que a maioria em locais frios e inóspitos devido a baixas temperaturas. Você tem Vantagem em Testes de Natureza nesses locais. Além disso, você recebe +2 de Resistência contra Dano de Gelo permanentemente nos Níveis 1, 5, 10, 15, e 20. Você também pode congelar objetos menores, como pedaços de carne, mantendo-os preservados com uma Ação Bônus.
+O seu corpo se adapta o suficiente para sobreviver um pouco melhor do que a maioria em locais frios e inóspitos, devido às baixas temperaturas.
 
-## Sopro de Gelo (Custo 1)
+- **Habitante de Terras Congeladas** (Passiva): você tem Vantagem em Testes de Natureza nesses locais. Além disso, você recebe +2 de Resistência a Dano Gélido permanentemente nos Níveis 1, 5, 10, 15 e 20. Caso você adquira essa Habilidade em um Nível acima do 1, você não recebe as resistências de maneira retroativa.
+- **Congelar Objeto** (Ativa | Custo de Ações: Ação Bônus | Alcance: Toque | Alvo: um Objeto pequeno): você congela um Objeto menor, como um pedaço de carne, mantendo-o preservado.
 
-**Requisitos**: 5 de Inteligência.
-**Custo**: Três Ações, 1 de Mana.
-**Duração**: 3 Rodadas.
+### Sopro de Gelo
 
-Você consegue soprar um vento congelante em uma área de cone de 4.5m de tamanho. Criaturas dentro dessa área devem passar por uma Salvaguarda de Destreza CD 10 + Int. Em caso de falha, recebem 2d8 + Int de Dano de Gelo. Em caso de sucesso, recebem metade do dano.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Arcano
 
-Ao usar essa Habilidade, você causará 1d10 a mais de Dano de Gelo com suas Magias que causem Dano de Gelo.
+- **Sopro de Gelo** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 1 PM | Alvo: criaturas em um Cone de 4,5 metros | Duração: 3 Rodadas): você sopra um vento congelante em um Cone de 4,5 metros de tamanho. As criaturas dentro da área precisam passar em uma Salvaguarda de Destreza. Em caso de falha, recebem Grau 6 + BP de Dano Gélido. Em caso de sucesso, recebem metade do dano.
+    
+    Pela duração, as suas Magias que causem Dano Gélido causam um adicional de Grau 4 de Dano Gélido.
+    
 
-## Prisão Gélida (Custo 1)
+### Prisão Gélida
 
-**Requisitos**: 1 de Inteligência.
-**Custo**: Reação.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano
 
-Você consegue somar seu Bônus de Proficiência a CD para evitar um efeito negativo de uma Magia que cause Dano de Gelo, uma vez por Descanso Curto. Em suma, ficará mais difícil para um inimigo resistir à sua Magia.
+- **Prisão Gélida** (Ativa | Custo de Ações: Reação | Limite de Usos: uma vez por Descanso Curto): ao conjurar uma Magia que cause Dano Gélido, você soma à CD para evitar um efeito negativo dela um Modificador de Atributo que ainda não tenha sido somado, à sua escolha. Em suma, fica mais difícil para um inimigo resistir à sua Magia.
 
-## Sangue Frio (Custo 1)
+### Sangue Frio
 
-Você se torna Imune à Condição Amedrontado e tem 5 Pontos de Resistência a Dano de Gelo, mas tem -3 em Salvaguardas de Constituição.
+**Custo de PHs**: 1
 
-## Patinação no Gelo (Custo 1)
+- **Sangue Frio** (Passiva): você se torna Imune à Condição Amedrontado e tem +5 de Resistência a Dano Gélido, mas tem -3 no BA de Salvaguardas de Constituição.
 
-**Requisitos**: 3 de Inteligência.
-**Custo**: Duas Ações.
-**Duração**: 1 Encontro.
+### Patinação no Gelo
 
-Você desliza sobre superfícies sólidas, aumentando seu Deslocamento em 3m, deixando um rastro de gelo por um breve período, que logo derrete. Você também tem +1 em Salvaguardas de Destreza.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano
 
-## Era do Gelo (Custo 2)
+- **Patinação no Gelo** (Ativa | Custo de Ações: Duas Ações | Alvo: você | Duração: 1 Encontro): você desliza sobre superfícies sólidas, aumentando o seu Deslocamento em 3 metros e deixando um rastro de gelo por um breve período, que logo derrete. Você também tem +1 no BA de Salvaguardas de Destreza.
 
-**Requisitos**: 7 de Inteligência.
+### Era do Gelo
 
-Ao alvejar uma criatura com duas Magias de custo 4 ou superior que causem Dano de Gelo, ela terá que passar por um Teste de Resistência de Força CD 10 + Int. Em caso de falha, reduz o Deslocamento da criatura a 0 até o final do próximo Turno dela. Em caso de sucesso, reduz pela metade.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 7 de Arcano
 
-## Friagem (Custo 3)
+- **Era do Gelo** (Passiva): ao alvejar uma criatura com duas Magias de custo base 5 ou superior que causem Dano Gélido, ela precisa passar em uma Salvaguarda de Força. Em caso de falha, o Deslocamento da criatura é reduzido a 0 até o fim do próximo Turno dela. Em caso de sucesso, é reduzido pela metade.
 
-**Requisitos**: 10 de Inteligência.
-**Custo**: Reação, 1 de Mana.
+### Friagem
 
-Ao conjurar uma Magia que cause Dano de Gelo de custo 6 ou superior, você adiciona um efeito adicional à Magia. Escolha uma criatura alvo das que foram afetadas por sua Magia. Essa criatura agora estará sob efeito de uma nova Condição: Friagem. 
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano
 
-Assim como Exaustão e Sangramento, Friagem possuirá níveis diferentes, com efeitos distintos. O alvo inicia com Friagem 1, e o nível da Condição aumenta em 1 a cada Turno. Ao receber Dano de Fogo, o nível de Friagem diminui em 1. Os efeitos são cumulativos.
-1. No Nível 1 de Friagem, todo Dano de Fogo causado pelo alvo através de Magias não surtirá mais efeito, ou seja, é anulado, independente do alvo dele, com exceção dele próprio.
-2. No Nível 2 de Friagem, o Deslocamento do alvo é diminuído em 3m sempre que Atacar, até um mínimo de 0.
-3. No Nível 3 de Friagem, o alvo tem -3 para acertar Ataques.
-4. No Nível 4 de Friagem, o alvo é congelado completamente, e tem a Condição Incapacitado até o final do próximo Turno dele. 
-Ao atingir o Nível máximo de Friagem, o alvo perde um Nível de Friagem ao final de cada um de seus Turnos. Você pode aplicar Friagem apenas uma vez por Descanso Curto.
+- **Friagem** (Ativa | Custo de Ações: Reação | Custo de Mana: 10 PMs | Alvo: uma criatura afetada pela sua Magia | Limite de Usos: uma vez por Descanso Curto): ao conjurar uma Magia que cause Dano Gélido de custo base 6 ou superior, você adiciona um efeito adicional a ela. Escolha uma criatura alvo dentre as que foram afetadas pela Magia. Essa criatura passa a ter uma nova Condição: Friagem.
+    
+    Assim como a Exaustão, a Friagem possui Valores diferentes, com efeitos distintos. O alvo inicia com Valor de Friagem 1, e o Valor da Condição aumenta em 1 a cada Turno do alvo. Ao receber Dano Ígneo, o Valor de Friagem diminui em 1. Os efeitos são cumulativos.
+    
+    1. No Valor 1, todo Dano Ígneo causado pelo alvo por meio de Magias é anulado, independentemente do alvo dele, com exceção dele próprio. Outras fontes de Dano Ígneo não são anuladas, apenas Magias;
+    2. No Valor 2, o Deslocamento do alvo é diminuído em 3 metros sempre que ele Atacar, até um mínimo de 0;
+    3. No Valor 3, o alvo tem -3 no BA de Ataques;
+    4. No Valor 4, o alvo é congelado completamente e tem a Condição Incapacitado até o fim do próximo Turno dele.
+    
+    Ao atingir o Valor máximo de Friagem, o alvo perde 1 Valor de Friagem ao final de cada um dos seus Turnos.
+    
 
-## Sono Criogênico (Custo 3)
+### Sono Criogênico
 
-**Requisitos**: 10 de Inteligência.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano
 
-Ao ter um Descanso Curto ou Longo, pode escolher dormir por um período em um sono criogênico auto induzido. Você se congela em uma posição, diminuindo sua temperatura drasticamente. Magicamente, suas funções fisiológicas não são afetadas. A recuperação também ocorre normalmente. 
-
-Você irá se manter congelado até o fim do próximo Encontro que tiver pós Descanso. Seu Deslocamento será diminuído pela metade, você terá Desvantagem para acertar Ataques, e terá -3 em Salvaguardas de Destreza. Em troca, você adiciona seu Modificador de Sabedoria e Inteligência a sua CA, e também fica imune a Condição de Sangramento ou Envenenado. Você também tem 10 pontos de Vulnerabilidade contra Dano de Fogo enquanto a Habilidade durar, além de 25 pontos de Resistência a Dano de Gelo.
+- **Sono Criogênico** (Passiva | Duração: até o fim do próximo Encontro após o Descanso): ao ter um Descanso Curto ou Longo, você pode escolher dormir por um período em um sono criogênico autoinduzido. Você se congela em uma posição, diminuindo drasticamente a sua temperatura. Magicamente, as suas funções fisiológicas não são afetadas, e a recuperação também ocorre normalmente.
+    
+    Você se mantém congelado até o fim do próximo Encontro que tiver após o Descanso. O seu Deslocamento é diminuído pela metade, você tem Desvantagem para acertar Ataques e -3 no BA de Salvaguardas de Destreza. Em troca, você adiciona os seus Modificadores de Sabedoria e de Arcano à CA e fica Imune à Condição Petrificado. Você também tem Fraqueza 10 a Dano Ígneo enquanto a Habilidade durar, além de +25 de Resistência a Dano Gélido.

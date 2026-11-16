@@ -1,64 +1,75 @@
+O Arquétipo do Druida representa o habitante e defensor das florestas e matas, que consegue invocar as forças da natureza para o seu auxílio.
 
-O Druida é o habitante e defensor das florestas e matas. Ele consegue invocar as forças da natureza para o seu auxílio.
+| Habilidade             | Custo de PHs | Requisitos de Atributos         | Requisitos de Habilidades           |
+| ---------------------- | ------------ | ------------------------------- | ----------------------------------- |
+| Sentir Fauna e Flora   | 1            | 1 de Sabedoria e 1 de Carisma   | -                                   |
+| Druídico               | 1            | 2 de Sabedoria e 1 de Carisma   | -                                   |
+| Força Animal           | 1            | 3 de Carisma                    | -                                   |
+| Vida em Abundância     | 1            | 3 de Sabedoria e 3 de Carisma   | -                                   |
+| Grande Sábio           | 2            | 6 de Sabedoria e 2 de Carisma   | -                                   |
+| Instrumento de Agência | 2            | 6 de Sabedoria e 4 de Carisma   | "Grande Sábio" de Custo 2           |
+| Ondas do Mar           | 3            | 8 de Sabedoria e 7 de Carisma   | "Instrumento de Agência" de Custo 2 |
+| Sutileza Selvagem      | 3            | 10 de Sabedoria e 10 de Carisma | "Ondas do Mar" de Custo 3           |
+| Murucututu             | 3            | 10 de Sabedoria e 10 de Carisma | -                                   |
 
-## Sentir Fauna e Flora (Custo 1)
+### Sentir Fauna e Flora
 
-**Requisitos**: Ser Perito em Natureza. 1 de Sabedoria, 1 de Carisma.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Sabedoria e 1 de Carisma
 
-Ao estar em contato com a natureza, em especial, fauna e flora abundantes, como em uma floresta, você pode realizar um Teste de Natureza. Você absorve um pouco da energia ao seu redor, concedendo o valor do Teste como Pontos de Vida Temporários.
+Você precisa ser Perito em Natureza.
 
-## Druídico (Custo 1)
+- **Sentir Fauna e Flora** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Limite de Usos: uma vez por Descanso Curto): ao estar em contato com a natureza, em especial com fauna e flora abundantes, como em uma floresta, você pode realizar um Teste de Natureza. Você absorve um pouco da energia ao seu redor, recebendo metade do resultado do Teste como PVs Temporários. Não há Falha Crítica nem Sucesso Crítico nesse Teste.
 
-**Requisitos**: 2 de Sabedoria, 1 de Carisma.
+### Druídico
 
-Você aprende um Idioma secreto dos Druidas, o Druídico. Com ele você pode dar simples comandos a plantas e animais que, desde que não os façam se machucar de alguma forma, os seguirão. Esse Idioma também serve como um código entre os Druidas, já que somente eles podem entender.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Sabedoria e 1 de Carisma
 
-## Força Animal (Custo 1)
+- **Druídico** (Passiva): você aprende o Idioma Druídico, uma língua secreta dos druidas, além dos Idiomas que você já conhece. Com ele, você pode dar comandos simples a plantas e animais, que os seguem, desde que não sejam levados a se machucar de alguma forma. Esse Idioma também serve como um código entre os druidas, já que somente eles são capazes de compreendê-lo.
 
-**Requisitos**: 3 de Carisma.
-**Custo**: Uma Ação.
-**Duração**: 4 Rodadas.
+### Força Animal
 
-Você convoca os espíritos da natureza, que te fortalecem com a força de diversos animais poderosos. Você tem +5 em Testes de Atletismo e +1 de Força.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Carisma
 
-## Vida em Abundância (Custo 1)
+Você convoca os espíritos da natureza, que o fortalecem com a força de diversos animais poderosos.
 
-**Requisitos**: 3 de Carisma, 3 de Sabedoria.
-**Custo**: Reação.
+- **Força Animal** (Ativa | Custo de Ações: Uma Ação | Alvo: você | Duração: 4 Rodadas | Limite de Usos: uma vez por Encontro): você tem +3 no BA de Testes de Atletismo e +1 no valor de Força.
 
-Você adiciona seu Bônus de Natureza como Pontos de Vida Temporários ao ser acertado por um Ataque. Quando chegar no Nível 10 de Carisma ou Sabedoria, adicione o dobro do Bônus. Os Pontos de Vida Temporários são perdidos imediatamente após o Ataque, servindo apenas para mitigá-lo.
+### Vida em Abundância
 
-## Grande Sábio (Custo 2)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Sabedoria e 3 de Carisma
 
-**Requisitos**: 6 de Sabedoria, 2 de Carisma.
+- **Vida em Abundância** (Ativa | Custo de Ações: Reação | Alvo: você | Limite de Usos: uma vez por Descanso): ao ser acertado por um Ataque, você recebe o seu BA de Natureza como PVs Temporários. Ao atingir o valor 10 em Carisma ou em Sabedoria, você passa a receber o dobro do BA de Natureza. Os PVs Temporários são perdidos imediatamente após o Ataque, servindo apenas para mitigá-lo.
 
-Você recebe uma das seguintes opções toda vez que tiver um Descanso Longo:
-- Os seus Ataques causam 1d8 de Dano de Fogo, Gelo, ou Elétrico, à sua escolha;
-- Seus Arcanos Menores que causam dano agora infligem 5 Pontos de Vulnerabilidade a Dano Físico, uma vez por alvo, até o fim do Encontro.
-Sua escolha dura até ter outro Descanso Longo. Você pode refazer a escolha ao ter um Descanso Longo.
+### Grande Sábio
 
-## Instrumento de Agência (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 6 de Sabedoria e 2 de Carisma
 
-**Requisitos**: Habilidade "Grande Sábio" de Custo 2. 6 de Sabedoria, 4 de Carisma.
+- **Grande Sábio** (Passiva | Duração: até o próximo Descanso Longo): ao ter um Descanso Longo, você escolhe uma das opções a seguir. A escolha dura até o próximo Descanso Longo, quando pode ser refeita.
+    - Os seus Ataques causam um adicional de Grau 3 de Dano Elemental, à sua escolha.
+    - As suas Magias de Dano de custo base 0 aplicam Fraqueza 5 a Dano Físico ao alvo, uma vez por alvo, até o fim do Encontro.
 
-Você agora tem ambos os bônus de Grande Sábio, não precisando escolher entre um dos dois. Você permanece com as demais características. O dano adicional a Ataques aumenta de 1d8 para 2d10, e a Vulnerabilidade infligida aumenta em 5 pontos.
+### Instrumento de Agência
 
-## Ondas do Mar (Custo 3)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 6 de Sabedoria e 4 de Carisma | **Requisitos de Habilidades**: "Grande Sábio" de Custo 2
 
-**Requisitos**: Habilidade "Instrumento de Agência" de Custo 2. 8 de Sabedoria, 7 de Carisma.
+- **Instrumento de Agência** (Passiva): você passa a receber ambos os bônus de Grande Sábio ao mesmo tempo, sem precisar escolher entre eles. As demais características da Habilidade permanecem, incluindo a escolha do tipo de Dano Elemental a cada Descanso Longo. O dano adicional dos Ataques aumenta de Grau 3 para Grau 5, e a Fraqueza aplicada pelas Magias aumenta em 3 pontos.
 
-Você agora pode respirar debaixo d'água. Seu Deslocamento Aquático aumenta em 9m, e você tem Vantagem em Testes de Perícia enquanto estiver embaixo d'água. Você também se torna Imune a Dano Venenoso, e tem 10 Pontos de Resistência contra Dano Ácido.
+### Ondas do Mar
 
-## Sutileza Selvagem (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 8 de Sabedoria e 7 de Carisma | **Requisitos de Habilidades**: "Instrumento de Agência" de Custo 2
 
-**Requisitos**: Habilidade "Ondas do Mar" de Custo 3. 10 de Sabedoria, 10 de Carisma.
+- **Ondas do Mar** (Passiva): você pode respirar debaixo d'água, e o seu Deslocamento Aquático aumenta em 9 metros. Você tem Vantagem no primeiro Teste de Perícia que realizar após um Descanso Longo, caso esteja debaixo d'água. Você também tem +5 de Resistência a Dano Ácido e a Dano Venenoso.
 
-Você agora calcula Iniciativa com seu Modificador de Carisma ao invés de Destreza, se assim desejar. A primeira vez no Encontro que conjurar uma Magia de custo 3 ou inferior ela não custará Mana. Você também adiciona seu Modificador de Carisma aos Testes de Percepção e Natureza quando estiver em contato com fauna e flora, como em uma floresta, mata, ou outro local similar. Por último, O seu dano adicional a Ataques garantido pela Habilidade Instrumento de Agência e Grande Sábio agora aumenta de 2d10 para 3d12, assim como os Pontos de Vulnerabilidade, que aumentam em 5.
+### Sutileza Selvagem
 
-## Murucututu (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria e 10 de Carisma | **Requisitos de Habilidades**: "Ondas do Mar" de Custo 3
 
-**Requisitos**: 10 de Sabedoria, 10 de Carisma. Ser Perito em Percepção.
+- **Sutileza Selvagem** (Passiva): você pode, se assim desejar, usar o seu Modificador de Carisma no lugar do de Destreza no Teste de Iniciativa. A primeira Magia de custo base 3 ou inferior que você conjurar em cada Encontro não custa PMs. Você também adiciona o seu Modificador de Carisma ao BA de Testes de Percepção e de Natureza enquanto estiver em contato com fauna e flora abundantes, como em uma floresta, uma mata ou outro local similar. Por último, o dano adicional dos Ataques concedido por Grande Sábio e Instrumento de Agência aumenta de Grau 5 para Grau 7.
 
-Você sempre é bem sucedido em Testes para escalar árvores e outras estruturas naturais. Sua percepção é bem mais aguçada do que a maioria das pessoas. 
+### Murucututu
 
-Você se torna Imune a Ataques de Oportunidade, e também consegue enxergar criaturas invisíveis. Sempre que você puder causar um Ataque de Oportunidade, você tem +3 para acertar. Outrossim, sua Potência Crítica aumenta em 1 ponto.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria e 10 de Carisma
+
+Você precisa ser Perito em Percepção.
+
+- **Murucututu** (Passiva): você sempre é bem-sucedido em Testes de Atletismo para escalar árvores e outras estruturas naturais. A sua percepção é muito mais aguçada do que a da maioria das pessoas: você não pode ser alvo de Ataques de Oportunidade e consegue enxergar criaturas com a Condição Invisível. Sempre que realizar um Ataque de Oportunidade, você tem +3 no BA. Além disso, a sua Margem de Ameaça aumenta em 1 ponto.
