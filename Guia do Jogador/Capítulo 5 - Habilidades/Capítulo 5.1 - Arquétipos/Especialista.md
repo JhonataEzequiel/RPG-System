@@ -1,59 +1,67 @@
-
 O Arquétipo do Especialista contém Habilidades características daqueles que decidem melhorar uma quantidade limitada de Atributos.
 
-## Divergente (Custo 1)
+| Habilidade      | Custo de PHs | Requisitos de Atributos                                                    | Requisitos de Habilidades |
+| --------------- | ------------ | -------------------------------------------------------------------------- | ------------------------- |
+| Divergente      | 1            | 5 de Sabedoria                                                             | -                         |
+| Arte Nobre      | 1            | 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma | -                         |
+| Armamento Único | 1            | -                                                                          | -                         |
+| Minhas Regras   | 2            | -                                                                          | -                         |
+| Esperteza       | 2            | -                                                                          | -                         |
+| Polivalente     | 3            | 10 de Sabedoria                                                            | "Divergente" de Custo 1   |
+| Impulso Inicial | 3            | 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma | -                         |
+| Adaptação       | 3            | 10 de Sabedoria e 10 de Constituição                                       | "Divergente" de Custo 1   |
 
-**Requisitos**: 5 de Sabedoria.
-**Custo**: Uma Ação, 2 de Mana.
-**Duração**: 1 Encontro.
+### Divergente
 
-Conhecer a si mesmo é tão importante quanto o seu oponente. Seu Nível de Sabedoria te proporciona a opção de trocar o Nível de um Atributo por outro. Você obtém +2 em Testes relacionados ao Atributo que originalmente tinha o menor valor. Você não pode trocar Atributos de mesmo valor. Só pode usar uma vez por Descanso Longo.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Sabedoria
 
-Por exemplo, se você tiver 6 Níveis em Destreza e 2 Níveis em Carisma, e desejar trocá-los para tentar intimidar um oponente, você terá +6 no Teste de Conversação para o intimidar.
+- **Divergente** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 2 PMs | Alvo: você | Duração: 1 Encontro | Limite de Usos: uma vez por Descanso Longo): conhecer a si mesmo é tão importante quanto conhecer o seu oponente. O seu valor de Sabedoria lhe proporciona a opção de trocar o valor de um Atributo por outro. Você obtém +2 em Testes relacionados ao Atributo que originalmente tinha o menor valor. Você não pode trocar Atributos de mesmo valor.
+    
+    Por exemplo, se você tiver 6 em Destreza e 2 em Carisma e desejar trocá-los para tentar intimidar um oponente, passará a ter 6 em Carisma, ou seja, Modificador +3, mais +2 da Habilidade, totalizando +5 no BA do Teste de Intimidação.
+    
 
-## Arte Nobre (Custo 1)
+### Arte Nobre
 
-**Requisitos**: 10 em qualquer Atributo. Essa Habilidade só pode ser pega no Nível 1.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma
 
-Seu Bônus de Proficiência é dobrado sempre que utilizá-lo de alguma forma. Caso você tenha uma limitação de -3 ou maior em um único Atributo, o Bônus de Proficiência será triplicado ao invés de dobrado.
+Você só pode adquirir esta Habilidade no Nível 14. Você não pode ter outro Atributo com valor 10 em nenhum momento, e esta Habilidade perde o efeito caso você aumente outro Atributo para o valor 10.
 
-## Liberdade de Escolha (Custo 1)
+- **Arte Nobre** (Passiva): você pode aumentar o Atributo de valor 10 além do LA, ultrapassando esse valor até o valor 20.
 
-**Requisitos**: Essa Habilidade só pode ser pega no Nível 1.
+### Armamento Único
 
-O seu máximo em limitações iniciais sai de -10 para -15, mas continua sendo contabilizado através de todas as limitações iniciais que possuir, assim como consta a regra no Capítulo 2 - Criação de Personagens.
+**Custo de PHs**: 1
 
-## Armamento Único (Custo 1)
+- **Armamento Único** (Passiva): escolha uma Arma. Você só pode causar dano por meio dela e de Habilidades que a utilizem, como Habilidades que peçam um Ataque. Você ainda recebe bônus de outras fontes para aumentar o dano da sua Arma. Em troca, você causa um adicional de Grau 5 de dano de um dos tipos que a sua Arma é capaz de causar, à sua escolha.
 
-Você só poderá ser Proficiente em um tipo de Arma ao mesmo tempo, mas recebe um bônus de +2 para aquele tipo de Arma e para o dano. O tipo de dano adicional é um dos tipos capazes de serem causados pela sua Arma. 
+### Minhas Regras
 
-Você também terá -2 para acertar um Ataque e no dano causado em Armas de outro tipo. Se a Arma tiver múltiplos tipos de dano, você escolhe qual dos dois será diminuído.
+**Custo de PHs**: 2
 
-## Minhas Regras (Custo 2)
+- **Minhas Regras** (Passiva): você ignora o LA.
 
-Você ignora o Limite Máximo de Nível de Atributo. Você também escolhe um Atributo para destravar sua evolução para além do Nível 10. Essa Habilidade pode ser pega múltiplas vezes.
+### Esperteza
 
-## Esperteza (Custo 2)
+**Custo de PHs**: 2
 
-Escolha uma característica na qual é Proficiente, como tipo de Arma ou Salvaguarda. Agora você usará o dobro do seu Bônus de Proficiência naquela característica. Essa Habilidade pode ser pega múltiplas vezes, mas ela não afeta uma mesma característica múltiplas vezes.
+- **Esperteza** (Passiva): escolha uma característica na qual você é Proficiente, como um tipo de Arma ou uma Salvaguarda. Você passa a ter +5 no seu BP nessa característica. Você pode adquirir esta Habilidade múltiplas vezes, mas ela não afeta uma mesma característica mais de uma vez.
 
-## Polivalente (Custo 3)
+### Polivalente
 
-**Requisitos:** Habilidade "Divergente" de Custo 1. 10 de Sabedoria.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria | **Requisitos de Habilidades**: "Divergente" de Custo 1
 
-**Suplementar** (Ação Bônus, 10 de Mana): Você atingiu um patamar além do comum em seu pensamento, tornando sua mente mais afiada que uma lâmina. Ganha +5 Níveis em todos os Atributos. Duração de um Encontro. Só pode ser usada uma vez por Descanso Longo.
+- **Polivalente** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 30 PMs | Alvo: você | Duração: 1 Encontro | Limite de Usos: uma vez por Descanso Longo): você atingiu um patamar além do comum em seu pensamento, tornando sua mente mais afiada que uma lâmina. Você recebe +5 em todos os valores de Atributo.
 
-## Impulso Inicial (Custo 3)
+### Impulso Inicial
 
-**Requisitos**: 10 em qualquer Atributo.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma
 
-Para essa Habilidade ter efeito, você precisa estar em um Encontro com pelo menos 3 inimigos.
+Para esta Habilidade ter efeito, você precisa estar em um Encontro com pelo menos 3 inimigos.
 
-Você começa o Encontro com uma Ação adicional nas primeiras três Rodadas. Após isso, um inimigo à escolha do mestre ganhará uma Ação adicional em algum momento do Encontro, durante o Turno da criatura escolhida. A sua Ação adicional não poderá ser usada para Atacar, conjurar Magias, ou usar outras Habilidades de Ataque, mas a concedida ao seu oponente, sim.
+- **Impulso Inicial** (Passiva | Duração: 1 Encontro): você começa o Encontro com uma Ação adicional nas primeiras três Rodadas. Após isso, um inimigo à escolha do Mestre recebe três Ações adicionais em algum momento do Encontro, durante o Turno da criatura escolhida.
 
-## Roda do Dharma (Custo 3)
+### Adaptação
 
-**Requisitos**: Habilidade "Divergente" de Custo 1. 10 de Sabedoria, 10 de Constituição.
-**Duração**: 1 Encontro.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria e 10 de Constituição | **Requisitos de Habilidades**: "Divergente" de Custo 1
 
-Ao receber um instância de dano em um Encontro, você ganha 2d4 de Resistência àquele tipo de dano. Esse efeito é cumulativo, e tem início a após o momento em que você receber a primeira instância de dano.
+- **Adaptação** (Passiva | Duração: até o fim do Encontro): ao receber uma instância de dano em um Encontro, você ganha Grau 2 de Resistência àquele tipo de dano até o fim do Encontro. Esse efeito é cumulativo e só passa a valer depois da primeira instância de dano recebida.

@@ -1,86 +1,125 @@
+O Arquétipo do Polímata diz respeito a Habilidades que não necessariamente pertencem a outros Arquétipos ou que têm usos diversos.
 
-O Arquétipo do Polímata diz respeito a Habilidades que não necessariamente pertencem a outros arquétipos, ou que tem usos diversos.
+| Habilidade             | Custo de PHs | Requisitos de Atributos           | Requisitos de Habilidades |
+| ---------------------- | ------------ | --------------------------------- | ------------------------- |
+| Riqueza Inicial        | 1            | -                                 | -                         |
+| Bom Início             | 1            | -                                 | -                         |
+| Engrenagem             | 1            | 3 de Arcano                       | -                         |
+| Contrário              | 1            | -                                 | -                         |
+| Habitante das Cavernas | 1            | -                                 | -                         |
+| Cópia Amistosa         | 1            | 2 de Carisma                      | -                         |
+| Esquecimento           | 1            | 4 de Sabedoria                    | -                         |
+| Pacifista              | 1            | -                                 | -                         |
+| Amostra Grátis         | 2            | -                                 | -                         |
+| Reserva Extra          | 2            | -                                 | -                         |
+| Canivete               | 2            | -                                 | -                         |
+| Eremita                | 3            | 7 de Constituição ou Sabedoria    | -                         |
+| Transcender a Matéria  | 3            | 10 de Sabedoria, Arcano e Vínculo | -                         |
+| Trocar de Lado         | 3            | 10 de Arcano                      | -                         |
 
-## Riqueza Inicial (Custo 1)
+### Riqueza Inicial
 
-**Requisitos**: Esta Habilidade só pode ser pega no Nível 1.
+**Custo de PHs**: 1
 
-Você tem +50po disponíveis para adquirir seu Equipamento Inicial. Você pode escolher essa Habilidade múltiplas vezes.
+Você só pode adquirir esta Habilidade no Nível 1.
 
-## Bom Início (Custo 1)
+- **Riqueza Inicial** (Passiva): você tem +150 PO disponíveis para adquirir o seu Equipamento Inicial. Você pode adquirir esta Habilidade múltiplas vezes.
 
-**Requisitos**: Esta Habilidade só pode ser escolhida no Nível 1.
+### Bom Início
 
-Ganhe mais 1 Ponto de Atributo para alocar como quiser, além de 1d6 nos seus Pontos de Vida Máximos. Caso seus Pontos de Mana Máximos sejam 1, você recebe mais 1 Ponto de Mana.
+**Custo de PHs**: 1
 
-## Engrenagem (Custo 1)
+Você só pode adquirir esta Habilidade no Nível 1.
 
-**Requisitos**: 3 de Inteligência.
+- **Bom Início** (Passiva): você recebe mais 1 Ponto de Atributo para alocar como quiser, respeitando o LA, além de Grau 2 de PVs Máximos.
 
-Você aprende rapidamente os movimentos de seus inimigos, agindo como uma máquina em combate. No terceiro Encontro após um Descanso Longo, adicione seu Modificador de Inteligência na Iniciativa. Do quarto em diante, adicione o Atributo inteiro ao invés do Modificador.
+### Engrenagem
 
-## Contrário (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano
 
-Você prefere situações aonde o desafio é maior e, por isso, se dá bem nelas. No entanto, quanto mais fácil um desafio, mais difícil ele será para você. Sempre que receber um bônus positivo em Testes, como +1, ou Vantagem, ele será negativo, se tornando -1, ou Desvantagem. Analogamente, sempre que receber um bônus negativo, ele se tornará positivo. Bônus de Atributos ou de Proficiência, assim como as Escalas de itens e outros bônus de itens, como o +3 em Testes de Medicina concedidos pelo Kit de Primeiros Socorros, não entram no cálculo desta Habilidade. No entanto, bônus concedidos, sejam por meio de Condições, outras Habilidades, Magias, e quaisquer efeitos situacionais, estarão sujeitos a essa Habilidade.
+- **Engrenagem** (Passiva): você aprende rapidamente os movimentos dos seus inimigos, agindo como uma máquina em combate. No terceiro Encontro após um Descanso Longo, você adiciona o seu Modificador de Arcano à Iniciativa. Do quarto Encontro em diante, adiciona o valor inteiro do Atributo, em vez do Modificador.
 
-## Habitante das Cavernas (Custo 1)
+### Contrário
 
-Você consegue se guiar bem em locais escuros e cavernosos. Adquire Visão na Penumbra no alcance do seu Deslocamento. Você pode escolher essa Habilidade duas vezes para adquirir Visão no Escuro no lugar, e o alcance também será dobrado.
+**Custo de PHs**: 1
 
-## Cópia Amistosa (Custo 1)
+- **Contrário** (Passiva): você prefere situações em que o desafio é maior e, por isso, se dá bem nelas. No entanto, quanto mais fácil um desafio, mais difícil ele é para você. Sempre que receber um bônus positivo em Testes, como +1 ou Vantagem, ele se torna negativo, passando a ser -1 ou Desvantagem. Analogamente, sempre que receber um bônus negativo, ele se torna positivo.
+    
+    O BP, as Escalas e os demais bônus de itens não entram no cálculo desta Habilidade. No entanto, bônus concedidos por Condições, outras Habilidades, Magias e quaisquer efeitos situacionais estão sujeitos a ela.
+    
 
-**Requisitos**: 2 de Carisma. Um aliado com o qual você tenha compartilhado ao menos três Descansos Longos.
+### Habitante das Cavernas
+
+**Custo de PHs**: 1
+
+- **Habitante das Cavernas** (Passiva | Alcance: Deslocamento): você se guia bem em locais escuros e cavernosos, adquirindo Visão na Penumbra. Você pode adquirir esta Habilidade uma segunda vez para ter Visão no Escuro no lugar da Visão na Penumbra, e o alcance também é dobrado.
+
+### Cópia Amistosa
+
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Carisma
 
 Você aprendeu uma maneira de transferir conhecimento apenas por ter uma aliança com alguém, criando um laço de amizade e aprendendo como aquela pessoa pensa.
 
-Você pode copiar uma Habilidade de um aliado seu. Ao ter um Descanso Longo, você terá uma cópia dessa Habilidade até o fim do próximo Encontro. Você ignora os Requisitos de Atributo dela, mas ainda terá que cumprir quaisquer outros.
+- **Cópia Amistosa** (Passiva | Alvo: uma Habilidade de um aliado | Duração: até o fim do próximo Encontro): você pode copiar uma Habilidade de um aliado com o qual tenha compartilhado ao menos três Descansos Longos. Esse requisito é necessário para realizar qualquer cópia. Você copia uma Habilidade por vez, e Habilidades de Raça não podem ser copiadas. Ao ter um Descanso Longo, você recebe uma cópia dessa Habilidade até o fim do próximo Encontro. Você ignora os requisitos de Atributos dela, mas ainda precisa cumprir quaisquer outros. A cópia não custa PHs, por ser temporária, mas você ainda gasta Mana para utilizá-la, se necessário.
 
-## Esquecimento (Custo 1)
+### Esquecimento
 
-**Requisitos**: 4 de Sabedoria.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Sabedoria
 
-Quando estiver fora de combate, escolha uma Habilidade ou Magia que não seja passiva, e que custe uma Ação Bônus ou Ação, e esqueça-a temporariamente. Ao fazer isso, você poderá utilizá-la como uma Reação ao final de qualquer um dos Turnos de um dos participantes de um Encontro, com exceção do seu Turno. Você poderá fazer isso uma vez por Descanso Longo, e não poderá utilizar a Habilidade ou Magia escolhida até que faça uso de sua Reação.
+- **Esquecimento** (Ativa | Custo de Ações: Reação | Limite de Usos: uma vez por Descanso Longo): fora de combate, você escolhe uma Habilidade ativa ou uma Magia que custe uma Ação Bônus ou uma Ação e a esquece temporariamente. Ao fazer isso, você pode utilizá-la como uma Reação ao final do Turno de qualquer participante de um Encontro, com exceção do seu. Você ainda paga o custo de Mana normalmente, se houver, e não pode utilizar a Habilidade ou Magia escolhida até usar essa Reação.
 
-## Pacifista (Custo 1)
+### Pacifista
 
-Você é fisicamente incapaz de causar danos a outras criaturas, diretamente ou indiretamente, seja por um voto pessoal, ou por alguma característica específica sua. Isso significa que se de alguma forma você causar danos a uma criatura, seja por um Ataque, Magia, e meios diretos similares, ou por meio indiretos, como controlando autômatos, esse dano será completamente anulado. Você hesitará no último segundo, incapaz de ferir qualquer ser que seja.
+**Custo de PHs**: 1
 
-Em troca, você é Proficiente em todas as Salvaguardas, e possui uma quantidade de Vantagens nas primeiras Salvaguardas que realizar após um Descanso Longo igual ao seu Bônus de Proficiência. Você também pode conceder uma ou mais dessas Vantagens a aliados, fazendo com que possam utilizá-las em qualquer Salvaguarda. Por fim, você tem 1d10 de Pontos de Mana Máximos adicionais.
+- **Pacifista** (Passiva): você é fisicamente incapaz de causar dano a outras criaturas, direta ou indiretamente, seja por um voto pessoal, seja por alguma característica específica sua. Isso significa que qualquer dano que você causar a uma criatura, seja por um Ataque, uma Magia ou meios diretos similares, ou por meios indiretos, como controlar autômatos, é completamente anulado. Você hesita no último segundo, incapaz de ferir qualquer ser.
+    
+    Em troca, você é Proficiente em todas as Salvaguardas e tem uma quantidade de Vantagens, igual à metade do seu BP, nas primeiras Salvaguardas que realizar após um Descanso Longo. Por fim, você tem Grau 4 de PMs Máximos adicionais.
+    
+- **Conceder Vantagens** (Ativa | Custo de Ações: Ação Livre | Alvo: um aliado): você concede uma ou mais das suas Vantagens ao alvo, fazendo com que ele possa utilizá-las em qualquer Salvaguarda.
+    
 
-## Amostra Grátis (Custo 2)
+### Amostra Grátis
 
-Todas as vezes que tiver um Descanso Longo, escolha uma coisa que não é Proficiente para ser, até ter outro Descanso Longo. Isso inclui Perícias, tipos de Arma, e Salvaguardas. Você não poderá repetir a sua escolha até escolher três outras coisas diferentes. 
+**Custo de PHs**: 2
 
-Por exemplo, caso opte por ser Proficiente em Salvaguardas de Inteligência, não poderá optar por isso novamente até que escolha outras três coisas diferentes desta Proficiência, o que inclui outras Salvaguardas.
+- **Amostra Grátis** (Passiva | Duração: até o próximo Descanso Longo): todas as vezes que tiver um Descanso Longo, escolha uma coisa na qual você não é Proficiente para ser Proficiente nela até o próximo Descanso Longo. Isso inclui Perícias, tipos de Arma e Salvaguardas. Você não pode repetir a sua escolha até escolher outras três coisas diferentes.
+    
+    Por exemplo, caso opte por ser Proficiente em Salvaguardas de Arcano, você não pode optar por isso novamente até escolher outras três coisas diferentes, o que inclui outras Salvaguardas.
+    
 
-## Reserva Extra (Custo 2)
+### Reserva Extra
 
-**Requisitos**: Você deve estar no Nível 10 ou superior.
+**Custo de PHs**: 2
 
-Escolha um Modificador entre Fth, Int, e Car. Para cada ponto nesse Modificador, aumente seus Pontos de Mana Máximos em 4. Sempre que aumentar seu Modificador escolhido, você recebe +4 de Mana.
+Você precisa estar no Nível 10 ou superior para adquirir esta Habilidade.
 
-## Canivete (Custo 2)
+- **Reserva Extra** (Passiva): escolha um Modificador entre Arc, Vin ou Car. Para cada ponto nesse Modificador, você aumenta os seus PMs Máximos em 4. Esse ganho não cessa: sempre que aumentar o Modificador escolhido ao evoluir seus Atributos, você recebe +4 de PMs Máximos.
 
-Você pode trocar um Ponto de Atributo para ter +1 em todos os Testes. Você pode fazer isso até um limite de 3 vezes, não precisando adquirir essa Habilidade outra vez para isso.
+### Canivete
 
-## Eremita (Custo 3)
+**Custo de PHs**: 2
 
-**Requisitos**: 7 de Constituição ou 7 de Sabedoria.
+- **Canivete** (Passiva): você pode trocar 1 Ponto de Atributo por +1 no BA de todos os Testes. Você pode fazer isso até 3 vezes, sem precisar adquirir esta Habilidade novamente. As trocas só podem ser feitas ao subir de Nível, e os PAs trocados não podem estar alocados.
 
-Sempre que não estiver em uma zona urbana você pode adicionar o seu Nível de Sabedoria ou Constituição a qualquer Salvaguarda ou Teste de Perícia. Essa Habilidade perde o efeito se você estiver com algum Nível de Exaustão.
+### Eremita
 
-## Transcender a Matéria (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Constituição ou Sabedoria
 
-**Requisitos**: 10 de Sabedoria, 10 de Fé, e 10 de Inteligência.
+- **Eremita** (Passiva): sempre que não estiver em uma zona urbana, você pode adicionar o seu valor de Sabedoria ou de Constituição ao BA de qualquer Salvaguarda ou Teste de Perícia. Esta Habilidade perde o efeito se você não estiver com todos os seus PVs.
 
-Seu corpo material perde boa parte de sua influência, se enfraquecendo, e tirando as limitações da sua mente e alma. Seus Pontos de Mana Máximos são dobrados. Você tem 10 Pontos de Vulnerabilidade a Dano Físico, Venenoso, e Ácido. Essa Vulnerabilidade é diminuída para 5 em caso de Dano Contínuo.
+### Transcender a Matéria
 
-## Trocar de Lado (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria, Arcano e Vínculo
 
-**Requisitos**: 10 de Inteligência.
-**Custo**: Ação Bônus.
-**Duração**: 1 Encontro.
+- **Transcender a Matéria** (Passiva): o seu corpo material perde boa parte da sua influência, enfraquecendo-se e removendo as limitações da sua mente e alma. Seus PMs Máximos são dobrados. Você tem Fraqueza 10 a Dano Físico, Dano Venenoso e Dano Ácido. Essa Fraqueza é diminuída em 5 em caso de Dano Contínuo.
 
-Você pode trocar seu Atributo de Inteligência temporariamente com qualquer outro Atributo que quiser. Você também ganha 30 Pontos de Vida temporários que se encerram ao fim do combate. Você pode reverter essa Habilidade com uma Ação Bônus, mas seus Pontos de Vida Temporários também serão perdidos. Uma vez revertida, você não ganhará mais Pontos de Vida Temporários por essa Habilidade até o Encontro finalizar.
+### Trocar de Lado
 
-A troca em si não vai impactar aspectos narrativos do seu personagem, como torná-lo menos capaz de exercer atividades básicas relacionadas a Inteligência. Por exemplo, um personagem com Inteligência especialmente baixa, como -7, teria problemas até para formar frases coerentes. Neste caso, você não passará por esse tipo de problema. É como se, temporariamente, você se focasse em apenas ser um combatente corpo a corpo, e esquecesse suas outras características.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano
+
+- **Trocar de Lado** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Duração: 1 Encontro): você troca temporariamente o seu valor de Arcano com o de qualquer outro Atributo, à sua escolha. Você também recebe 30 PVs Temporários, que se encerram ao fim do Encontro.
+    
+    A troca em si não impacta aspectos narrativos do seu personagem, como torná-lo menos capaz de exercer atividades básicas relacionadas ao Arcano. Por exemplo, um personagem com Arcano especialmente baixo, como -7, teria problemas até para formar frases coerentes. Neste caso, você não passa por esse tipo de problema. É como se, temporariamente, você se focasse em apenas ser um combatente corpo a corpo e esquecesse as suas outras características.
+    
+- **Reverter Trocar de Lado** (Ativa | Custo de Ações: Ação Bônus | Alvo: você): você reverte a troca, mas perde os PVs Temporários. Uma vez revertida, você não recebe mais PVs Temporários por esta Habilidade até o fim do Encontro.
