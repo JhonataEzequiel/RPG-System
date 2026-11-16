@@ -1,142 +1,168 @@
+O Arquétipo do Caçador representa o patrulheiro das florestas, especialista em observar os seus arredores. Normalmente, ele se utiliza de Ataques à Distância para abater os seus alvos, portanto as Habilidades que beneficiam exclusivamente esse tipo de ofensiva estão aqui.
 
-O Arquétipo do Caçador representa o patrulheiro das florestas. Ele é especialista em observar seus arredores. Normalmente, utiliza-se de Ataques a Distância para abater seus alvos, portanto Habilidades que beneficiem exclusivamente esse tipo de ofensiva estarão aqui.
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Presa Ato I|1|2 de Destreza|-|
+|Presa Ato II|1|3 de Destreza|"Presa Ato I" de Custo 1|
+|Disparo Poderoso|1|-|-|
+|Atirador Aéreo|1|-|-|
+|Sentidos Aguçados|1|2 de Sabedoria|-|
+|Descrição Avançada|1|2 de Sabedoria|-|
+|Mira Melhorada|1|3 de Destreza|-|
+|Sobrevivente Sadio|1|-|-|
+|Preparar Terreno|1|-|-|
+|Presa Ato III|2|3 de Sabedoria|"Presa Ato II" de Custo 1|
+|Dono da Floresta|2|-|"Preparar Terreno" de Custo 1|
+|Tambor Rápido|2|4 de Destreza|-|
+|Marca de Caçador|2|3 de Destreza e 1 de Sabedoria|-|
+|Centena de Alvos|2|5 de Destreza|-|
+|Presa Ato IV|3|6 de Destreza e 4 de Sabedoria|"Presa Ato III" de Custo 2|
+|Chuva de Flechas|3|10 de Destreza|"Tambor Rápido" de Custo 2|
+|Morte Branca|3|10 de Destreza|"Centena de Alvos" de Custo 2|
 
-## Presa Ato I (Custo 1)
+### Presa Ato I
 
-**Requisitos**: 2 de Destreza. Ser capaz de realizar um Ataque a Distância.
-**Custo**: Ação Bônus.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Destreza
 
-Você tem +2 de Destreza até o início do seu próximo Turno após realizar um Ataque a Distância. No entanto, você tem -2 em Destreza até o início do seu próximo Turno se realizar um Ataque Corpo a Corpo.
+Você precisa ser capaz de realizar um Ataque à Distância.
 
-## Presa Ato II (Custo 1)
+- **Presa Ato I** (Passiva | Duração: 1 Encontro): ao realizar um Ataque à Distância, adicione +2 ao seu valor de Destreza até o fim do Encontro. Ao realizar um Ataque Corpo a Corpo, você tem -2 no valor de Destreza até o fim do Encontro. Esses efeitos não se acumulam.
 
-**Requisitos**: Habilidade "Presa Ato I" de Custo 1. 3 de Destreza.
+### Presa Ato II
 
-Sempre que você tiver um Erro Crítico ou erro normal em um Ataque à Distância você agora acerta, mas causa apenas 1 de dano do tipo do Ataque. Os efeitos adicionais dos Erros Críticos nessas condições não te afetam mais.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Destreza | **Requisitos de Habilidades**: "Presa Ato I" de Custo 1
 
-## Disparo Poderoso (Custo 1)
+- **Presa Ato II** (Passiva): sempre que você tiver uma Falha Crítica ou uma falha normal em um Ataque à Distância, você acerta, mas causa apenas 1 de dano do tipo do Ataque. Os efeitos adicionais das Falhas Críticas nessas condições não afetam você.
 
-**Requisitos**: Ter uma Arma a Distância equipada.
-**Custo**: Duas Ações, 1 de Mana.
+### Disparo Poderoso
 
-Você se concentra, fazendo com que seu próximo disparo seja mais veloz e com poder de perfuração maior, adicionando parte de sua Mana para isso. Essa Habilidade causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante.
+**Custo de PHs**: 1
 
-O alvo atingido terá que realizar um Teste de Resistência Constituição CD 10 + Dex. Caso falhe, terá 5 de Vulnerabilidade a Dano Perfurante até o início do próximo Turno dele. Caso um alvo seja inicialmente Imune a Dano Perfurante ele não precisará passar pelo Teste de Resistência de Constituição, pois não poderá receber os 5 pontos de Vulnerabilidade. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
+Você precisa ter uma Arma à Distância equipada.
 
- Por fim, este Ataque não é afetado pelas Penalidades de Ataque. Você não pode mais Atacar neste Turno.
+Você se concentra, fazendo com que o seu próximo disparo seja mais veloz e tenha maior poder de perfuração, adicionando parte da sua Mana para isso.
 
-## Atirador Aéreo (Custo 1)
+- **Disparo Poderoso** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 1 PM | Alvo: uma criatura): você realiza um Ataque à Distância que causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante. O alvo atingido precisa passar em uma Salvaguarda de Constituição. Em caso de falha, ele tem Fraqueza 5 a Dano Perfurante até o início do próximo Turno dele. Caso o alvo seja inicialmente Imune a Dano Perfurante, ele não precisa passar pela Salvaguarda, pois não pode receber a Fraqueza. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
+    
+    Por fim, este Ataque não é afetado pelas Penalidades de Ataque, e você não pode mais Atacar neste Turno.
+    
 
-**Requisitos**: Ser capaz de voar.
+### Atirador Aéreo
 
-Os céus são sua casa, e você se sente mais confortável lutando de cima. Aumente sua Potência Crítica em 2 pontos caso você Ataque a Distância enquanto voa. Você não é mais capaz de ter um Acerto Crítico em um Ataque se não estiver voando.
+**Custo de PHs**: 1
 
-## Sentidos Aguçados (Custo 1)
+Você precisa ser capaz de voar.
 
-**Requisitos**: 2 de Sabedoria.
+Os céus são a sua casa, e você se sente mais confortável lutando de cima.
 
-Seus sentidos bem treinados garantem uma chance maior de serem bem sucedidos em se concentrar para detectar coisas ao seu redor, como Armadilhas e inimigos.
+- **Atirador Aéreo** (Passiva): aumente a sua Margem de Ameaça em 2 pontos caso você Ataque à Distância enquanto voa. Você não pode ter Ataques Críticos caso não esteja voando.
 
-Sempre que for realizar um Teste de Percepção e falhar, você poderá rolar novamente o Teste, se assim desejar. Você terá que utilizar o novo valor, ainda que seja menor. Você pode utilizar essa Habilidade apenas duas vezes até ter um Descanso Curto.
+### Sentidos Aguçados
 
-## Descrição Avançada (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Sabedoria
 
-**Requisitos**: 2 de Sabedoria.
+Os seus sentidos bem treinados garantem uma chance maior de sucesso ao se concentrar para detectar coisas ao seu redor, como Armadilhas e inimigos.
 
-Com uma pequena observação do ambiente, objeto, ou inimigo, você conseguirá extrair mais informações a respeito dele. Obtém +1 em Testes de História e Linguística.
+- **Sentidos Aguçados** (Passiva | Limite de Usos: duas vezes por Descanso Curto): ao falhar em um Teste de Percepção, você pode rolá-lo novamente, se assim desejar. Você deve utilizar o novo resultado, ainda que seja menor.
 
-**Revelar Fraquezas** (Uma Ação, 3 de Mana): Revela todas as Fraquezas que um alvo possua.
+### Descrição Avançada
 
-**Revelar Forças** (Uma Ação, 3 de Mana): Revela todas as Resistências e Invulnerabilidades que um alvo possua.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Sabedoria
 
-## Mira Melhorada (Custo 1)
+Com uma pequena observação do ambiente, de um objeto ou de um inimigo, você consegue extrair mais informações a respeito dele.
 
-**Requisitos**: 3 de Destreza.
+- **Descrição Avançada** (Passiva): você tem +1 no BA de Testes de Erudição e de Linguística.
+- **Revelar Fraquezas** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 3 PMs | Alcance: 90 metros | Alvo: uma criatura que você possa ver): você revela todas as Fraquezas do alvo.
+- **Revelar Forças** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 3 PMs | Alcance: 90 metros | Alvo: uma criatura que você possa ver): você revela todas as Resistências e Imunidades do alvo.
 
-Sua pontaria é incrementada devido a sua experiência com Armas à Distância. Aumente a distância dessas Armas em 18m.
+### Mira Melhorada
 
-## Sobrevivente Sadio (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Destreza
 
-Ao se alimentar, adicione +1d8 de Pontos de Vida Temporários até o fim do próximo Encontro. Você terá que consumir o equivalente a uma Ração de Viagem (disponível no Capítulo 4.12 - Outros Itens) para que essa Habilidade tenha efeito. Esse efeito é cumulativo até um máximo de 3d8. Uma vez atingido esse máximo, será necessário ter um Descanso Longo para ganhar novos Pontos de Vida Temporários.
+A sua pontaria é incrementada devido à sua experiência com Armas à Distância.
 
-## Preparar Terreno (Custo 1)
+- **Mira Melhorada** (Passiva): aumente o alcance das suas Armas à Distância em 18 metros.
 
-**Requisitos**: Ser Perito em Natureza ou Ser Perito em Ladroagem.
+### Sobrevivente Sadio
 
-Você pode preparar uma Armadilha realizando um Teste de Natureza ou Ladroagem. A Armadilha é feita baseando-se no ambiente em que você se encontra, utilizando, muitas das vezes, materiais encontrados lá. Você gasta 10 minutos para preparar cada Armadilha. O seu limite de Armadilhas montadas é igual ao seu Bônus de Proficiência por Descanso Longo. Ou seja, você poderá montar mais ao ter um Descanso Longo, e as suas já montadas não serão afetadas. O custo para montar uma Armadilha é gratuito. As Armadilhas são fixas no local de montagem, mas não somem com o tempo. Você sempre lembra aonde deixa suas Armadilhas.
+**Custo de PHs**: 1
 
-Escolha seu Bônus de Natureza ou o de Ladroagem. Uma vez feita a escolha, ela não poderá ser desfeita. A CD para uma criatura notar a sua Armadilha é de 10 + o bônus escolhido, e será contra a Percepção Passiva dela. A Armadilha pode ser de alguns tipos diferentes, dentre eles:
-- **Jaula**: Quando o gatilho é acionado, uma jaula ou buraco cavado no chão com grades que se fecham no teto é revelado, prendendo a criatura no local. Para escapar será necessário que ela destrua a jaula ou o teto do buraco, que terá como Pontos de Vida dez vezes o bônus escolhido para criar Armadilhas.
-- **Armadilhas de Dano Físico**: Espinhos que surgem ao pisar em uma placa de pressão; ácido que espirra no rosto da criatura que aciona a Armadilha; ou até mesmo uma flecha disparada automaticamente, são exemplos de Armadilhas capazes de causar Dano Físico, cujo tipo dependerá da Armadilha em questão, variando entre qualquer um dos tipos possíveis. O dano será 3d8 + o bônus escolhido.
-- **Outras Armadilhas de Dano**: Eletricidade, Fogo, ou Gelo criado a partir de uma Armadilha mágica também podem acabar funcionando. Para isso, você também precisará ser Perito em Arcanismo. O dano dessas Armadilhas dependerá do tipo de Armadilha, e causará 3d8 + Bônus de Arcanismo.
+- **Sobrevivente Sadio** (Passiva | Duração: até o fim do próximo Encontro): ao se alimentar, você recebe Grau 3 de PVs Temporários. Você precisa consumir uma refeição do Capítulo 7.5 - Refeições para que esta Habilidade tenha efeito. Esse efeito é cumulativo até um máximo de três instâncias. Uma vez atingido esse máximo, é necessário ter um Descanso Longo para receber novos PVs Temporários.
 
-## Presa Ato III (Custo 2)
+### Preparar Terreno
 
-**Requisitos**: Habilidade "Presa Ato II" de Custo 1. 3 de Sabedoria.
-**Custo**: Duas Ações.
-**Duração**: 3 Rodadas.
+**Custo de PHs**: 1
 
-Você pode acertar a si mesmo com um Ataque que seria considerado um Ataque a Distância. Fazendo isso, você toma 1d4 + Dex de dano do tipo da arma, e 1d4 de Dano Psíquico. No entanto você ganha 15 Pontos de Resistência a Dano Físico. Contra outros tipos de dano você ganha 5 de Resistência. 
+Você precisa ser Perito em Natureza ou em Ladroagem.
 
-Caso o inimigo erre um Ataque contra você enquanto esta Habilidade estiver ativa, você aumenta a Resistência a Dano Físico dessa Habilidade permanentemente em 1 ponto, com um máximo de 5 pontos adicionais.
+- **Preparar Terreno** (Passiva): você pode preparar uma Armadilha realizando um Teste de Natureza ou de Ladroagem. A Armadilha é feita com base no ambiente em que você se encontra, utilizando, muitas vezes, materiais encontrados ali. Você leva 10 minutos para preparar cada Armadilha. O seu limite de Armadilhas montadas é igual à metade do seu BP por Descanso Longo. Ou seja, você pode montar mais ao ter um Descanso Longo, e as que você já montou não são afetadas. O custo para montar uma Armadilha é gratuito. As Armadilhas ficam fixas no local de montagem, mas não somem com o tempo. Você sempre se lembra de onde deixa as suas Armadilhas.
+    
+    Escolha o seu BA de Natureza ou o de Ladroagem. Uma vez feita a escolha, ela não pode ser desfeita. A CD para uma criatura notar a sua Armadilha é de 10 + o BA escolhido, e a criatura a nota caso a sua Percepção Passiva seja igual ou superior a ela. A Armadilha pode ser de alguns tipos diferentes, dentre eles:
+    
+    - **Jaula**: quando o gatilho é acionado, uma jaula ou um buraco cavado no chão com grades que se fecham no teto é revelado, prendendo a criatura no local. Para escapar, ela precisa destruir a jaula ou o teto do buraco, que tem como PVs cinco vezes o BA escolhido para criar Armadilhas.
+    - **Armadilhas de Dano Físico**: espinhos que surgem ao pisar em uma placa de pressão, ácido que espirra no rosto da criatura que aciona a Armadilha ou até mesmo uma flecha disparada automaticamente são exemplos de Armadilhas capazes de causar Dano Físico, cujo tipo (Cortante, Perfurante ou de Impacto) depende da Armadilha em questão. Dano Ácido ou Venenoso também podem ser usados sem problema nessas Armadilhas. O dano é de Grau 5 + o BA escolhido.
+    - **Outras Armadilhas de Dano**: eletricidade, fogo ou gelo criados a partir de uma Armadilha mágica também podem funcionar. Para isso, você também precisa ser Perito em Erudição. O dano dessas Armadilhas depende do tipo de Armadilha e é de Grau 5 + o BA de Erudição.
 
-## Dono da Floresta (Custo 2)
+### Presa Ato III
 
-**Requisitos**: Habilidade "Preparar Terreno" de Custo 1.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Sabedoria | **Requisitos de Habilidades**: "Presa Ato II" de Custo 1
 
-Você agora pode criar Armadilhas Removíveis. Você implementa uma maneira de desativá-las para que sejam realocadas a outros locais. Essas Armadilhas possuem as mesmas características das outras (tipos, dano, etc.), mas consomem mais tempo para preparar (1 hora). As Armadilhas Removíveis contam para o seu limite de Armadilhas por Descanso Longo. Para remover uma Armadilha de um local é necessário 1 minuto. Para remontar a Armadilha Removível em um novo local serão necessários 30 minutos. Você pode levar consigo até duas Armadilhas Removíveis por vez, e cada uma pesa 10 kg.
+- **Presa Ato III** (Ativa | Custo de Ações: Duas Ações | Alvo: você | Duração: 3 Rodadas): você pode acertar a si mesmo com um Ataque que seria considerado um Ataque à Distância. Fazendo isso, você recebe Grau 1 + Des de dano do tipo da Arma e Grau 1 de Dano Psíquico. Em troca, você ganha +10 de Resistência a Dano Físico e +5 de Resistência aos outros tipos de dano.
+    
+    Caso um inimigo falhe em um Ataque contra você enquanto esta Habilidade estiver ativa, você aumenta em 1 ponto a Resistência a Dano Físico concedida por ela, com um máximo de +5 pontos adicionais. O aumento vale imediatamente e também permanentemente, para os próximos usos da Habilidade.
+    
 
-## Tambor Rápido (Custo 2)
+### Dono da Floresta
 
-**Requisitos**: 4 de Destreza.
-**Custo**: Ação Livre. 2 de Mana.
+**Custo de PHs**: 2 | **Requisitos de Habilidades**: "Preparar Terreno" de Custo 1
 
-Você recarrega uma Arma à Distância que tenha como ser recarregada.
+- **Dono da Floresta** (Passiva): você pode criar Armadilhas Removíveis. Você implementa uma maneira de desativá-las para que sejam realocadas para outros locais. Essas Armadilhas têm as mesmas características das outras (tipos, dano etc.), mas levam mais tempo para ser preparadas (1 hora). As Armadilhas Removíveis contam para o seu limite de Armadilhas por Descanso Longo. Para remover uma Armadilha de um local, é necessário 1 minuto. Para remontá-la em um novo local, são necessários 30 minutos. Você pode levar consigo até duas Armadilhas Removíveis por vez, e cada uma pesa 3 unidades de Peso.
 
-## Marca de Caçador (Custo 2)
+### Tambor Rápido
 
-**Requisitos**: 3 de Destreza, 1 de Sabedoria.
-**Duração**: 1 Hora, ou 1 Encontro.
-**Custo**: Ação Bônus, 1 de Mana.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Destreza
 
-Enquanto fora de combate, escolha uma criatura alvo que você possa ver. Você terá Vantagem em Testes de Furtividade contra aquela criatura, e também em Testes de Natureza para rastreá-la. 
+- **Tambor Rápido** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 3 PMs): você recarrega uma Arma à Distância que possa ser recarregada.
 
-Se você estiver em combate com a criatura, você recebe um bônus de +2 de Destreza enquanto o combate durar. Uma vez que o combate encerrar, a Habilidade perde o efeito.
+### Marca de Caçador
 
-## Centena de Alvos (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Destreza e 1 de Sabedoria
 
-**Requisitos**: 5 de Destreza.
+- **Marca de Caçador** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 5 PMs | Alvo: uma criatura que você possa ver | Duração: 1 hora ou 1 Encontro): fora de combate, você escolhe uma criatura alvo. Você tem Vantagem em Testes de Furtividade contra ela e em Testes de Natureza para rastreá-la.
+    
+    Se você estiver em combate com a criatura, recebe +2 no valor de Destreza enquanto o combate durar. Uma vez que o combate se encerra, a Habilidade perde o efeito.
+    
 
-Sua mira melhora a cada abate. Para cada criatura morta com um Ataque à Distância, adicione 1.5m ao alcance de suas Armas à Distância, com um limite de 150m adicionais.
+### Centena de Alvos
 
-## Presa Ato IV (Custo 3)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Destreza
 
-**Requisitos**: Habilidade "Presa Ato III" de Custo 2. 6 de Destreza, 4 de Sabedoria.
-**Custo**: Três Ações.
-**Alcance**: O alcance normal de seu Ataque a Distância + 48m.
-**Duração**: 1 Encontro.
+- **Centena de Alvos** (Passiva): a sua mira melhora a cada abate. Para cada criatura morta com um Ataque à Distância, adicione 1,5 metro ao alcance das suas Armas à Distância, com um limite de 150 metros adicionais.
 
-Você realiza um Ataque a Distância que sempre acerta o seu alvo. O alvo pode realizar um Teste de Resistência de Constituição CD 12 + Dex para diminuir o dano recebido pelo Ataque em 1d8. Ainda que o alvo seja Imune, ou de alguma maneira consiga escapar do Ataque, seu Ataque sempre irá acertar e causar dano. 
+### Presa Ato IV
 
-Você também consegue acertar um Ataque a Distância ainda que o alvo fuja para outro plano de existência, ou seja teletransportado para qualquer lugar. A partir do próximo Turno do alvo, ele recebe 1d4 de Dano Contínuo Verdadeiro, que aumenta em 1d4 por Rodada, por até 6 Rodadas. Esta Habilidade só pode ser usada uma vez por Descanso Longo.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 6 de Destreza e 4 de Sabedoria | **Requisitos de Habilidades**: "Presa Ato III" de Custo 2
 
-**Maior Resultado** (Passiva): Você sempre pode rolar novamente o dano de Ataques a Distância, escolhendo o maior valor entre eles. Isto não se aplica ao Dano Contínuo do uso principal da Presa Ato IV.
+O projétil parece ter vida própria, perseguindo o alvo mesmo que ele fuja.
 
-## Chuva de Flechas (Custo 3)
+- **Presa Ato IV** (Ativa | Custo de Ações: Três Ações | Alcance: o alcance normal do seu Ataque à Distância + 48 metros | Alvo: uma criatura | Duração: 1 Encontro | Limite de Usos: uma vez por Descanso Longo): você realiza um Ataque à Distância que sempre acerta o alvo. O alvo pode realizar uma Salvaguarda de Constituição para diminuir o dano recebido pelo Ataque pela metade. Ainda que o alvo seja Imune ou, de alguma maneira, consiga escapar do Ataque, ele sempre acerta e causa dano. Você também consegue acertar um Ataque à Distância ainda que o alvo fuja para outro plano de existência ou seja teletransportado para qualquer lugar. Além disso, o alvo recebe Grau 1 de Dano Perfurante Contínuo, que aumenta em 1 Grau por Rodada, por até 4 Rodadas. Esse Dano Contínuo é especial: ele não causa uma instância imediata e só começa a fazer efeito a partir do próximo Turno do alvo, como se o projétil o perseguisse, mesmo que ele fuja.
+- **Maior Resultado** (Passiva): você sempre pode rolar novamente o dano de Ataques à Distância, escolhendo o maior valor entre os resultados. Isso não se aplica ao Dano Contínuo do uso principal de Presa Ato IV.
 
-**Requisitos**: Habilidade "Tambor Rápido". 10 de Destreza.
-**Custo**: Duas Ações, 6 de Mana.
+### Chuva de Flechas
 
-Caso sua Arma à Distância atualmente equipada possua recarga, ela deve estar completamente recarregada antes de usar essa Habilidade.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Destreza | **Requisitos de Habilidades**: "Tambor Rápido" de Custo 2
 
-Você realiza 3 Ataques rápidos em seguida com uma Arma à Distância. Para Armas à Distância que precisam de recarga, você recarregará extremamente rápido entre os tiros, anulando o custo de Ações para recarregar. Ao finalizar os 3 Ataques, a Arma já fica recarregada. Você não pode mais Atacar no Turno em que usar essa Habilidade. 
+Caso a Arma à Distância atualmente equipada precise de recarga, ela deve estar completamente recarregada antes do uso desta Habilidade.
 
-O custo de Mana de Tambor Rápido é permanentemente diminuído em 1.
+- **Chuva de Flechas** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 6 PMs): você realiza 3 Ataques rápidos em seguida com uma Arma à Distância, e eles sofrem as Penalidades de Ataque normalmente. Para Armas que precisam de recarga, você recarrega extremamente rápido entre os tiros, anulando o custo de Ações para recarregar. Ao finalizar os 3 Ataques, a Arma já fica recarregada. Você não pode mais Atacar no Turno em que usar esta Habilidade.
+- **Tambor Aprimorado** (Passiva): o custo de Mana de Tambor Rápido é diminuído em 1 permanentemente.
 
-## Morte Branca (Custo 3)
+### Morte Branca
 
-**Requisitos**: Habilidade "Centena de Alvos" de Custo 2. Ser Proficiente em Armas à Distância. 10 de Destreza.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Destreza | **Requisitos de Habilidades**: "Centena de Alvos" de Custo 2
 
-Se você estiver a, pelo menos, 90m de distância de uma criatura, e realizar um Ataque à Distância, você causará 2d12 a mais de dano, de um dos tipos capazes de serem causados pela sua Arma. A cada 30m além desses 90m, você adicionará 1d12 de Dano Verdadeiro ao Ataque. Se você estiver Furtivo antes de Atacar a uma distância mínima de 90m, e acertar seu alvo com pelo menos 3 pontos a mais em relação a CA dele, você não sairá de Furtividade.
+Você precisa ser Proficiente em Armas à Distância.
 
-Para outros Ataques à Distância, os com uma distância inferior a 90m, duplique seu Bônus de Proficiência para acertar.
+- **Morte Branca** (Passiva): se você estiver a pelo menos 90 metros de distância de uma criatura e realizar um Ataque à Distância, você causa Grau 10 a mais de dano, de um dos tipos capazes de serem causados pela sua Arma. A cada 30 metros além desses 90, você adiciona Grau 5 de Dano Perfurante ao Ataque. Se você estiver Furtivo antes de Atacar a uma distância mínima de 90 metros e acertar o alvo com pelo menos 3 pontos a mais em relação à CA dele, você não deixa de estar Furtivo.
+    
+    Para outros Ataques à Distância, os de distância inferior a 90 metros, duplique o seu BA para acertar.

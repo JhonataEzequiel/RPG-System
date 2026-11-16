@@ -19,6 +19,8 @@ Por padrão, o valor máximo que um Atributo pode assumir vai depender também d
 
 Caso prefira uma fórmula, o LA é dado pelo seu Nível dividido por 2, acrescido de 3, com um teto de 10.
 
+Efeitos temporários que modifiquem o valor de um Atributo podem ultrapassar quaisquer limites, tanto positivos quanto negativos, incluindo o LA e os valores mínimo e máximo de -10 e 20.
+
 ## Descrição Básica dos Atributos
 
 ### Constituição
