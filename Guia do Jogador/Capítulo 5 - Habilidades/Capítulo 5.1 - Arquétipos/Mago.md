@@ -1,30 +1,30 @@
 O Arquétipo do Mago contém Habilidades que beneficiam usuários de Magias de forma geral.
 
-| Habilidade             | Custo de PHs | Requisitos de Atributos                          | Requisitos de Habilidades  |
-| ---------------------- | ------------ | ------------------------------------------------ | -------------------------- |
-| Historiador Curioso    | 1            | 1 de Arcano                                      | -                          |
-| Recuperação Arcana     | 1            | 3 de Arcano e 2 de Sabedoria                     | -                          |
-| Oportunista Mágico     | 1            | -                                                | -                          |
-| Magia Simples          | 1            | 3 de Arcano e 3 de Sabedoria                     | -                          |
-| Experiência Metamágica | 1            | 4 de Arcano                                      | -                          |
-| Companheiro Grimório   | 1            | 3 de Arcano                                      | -                          |
-| Assinatura de Mana     | 1            | 1 de Carisma, Arcano ou Vínculo                  | -                          |
-| Fluir da Mana          | 1            | 1 de Sabedoria                                   | -                          |
-| Conhecedor Arcano      | 1            | 4 de Arcano                                      | -                          |
-| Transferência Arcana   | 1            | 2 de Sabedoria                                   | -                          |
-| Base Três              | 1            | 2 de Sabedoria                                   | -                          |
-| Truque de Mágica       | 1            | 10 de Arcano                                     | "Base Três" de Custo 1     |
-| Arcano Aprimorado      | 2            | 6 de Sabedoria                                   | -                          |
-| Troca Equivalente      | 2            | 5 de Sabedoria                                   | -                          |
-| Visão Além do Alcance  | 2            | 6 de Sabedoria                                   | -                          |
-| Mente Focada           | 2            | 1 de Sabedoria e 4 de Arcano                     | -                          |
-| Preparação Arcana      | 2            | 5 de Sabedoria                                   | -                          |
-| Canção da Mana         | 2            | 9 de Sabedoria                                   | "Fluir da Mana" de Custo 1 |
-| Bibliotecário          | 3            | 10 de Arcano                                     | -                          |
-| Mente Incansável       | 3            | 6 de Sabedoria                                   | -                          |
-| Foco Vocal             | 3            | 8 de Arcano e 2 de Sabedoria                     | -                          |
-| Mestre das Magias      | 3            | 7 de Sabedoria e 7 de Arcano, Vínculo ou Carisma | -                          |
-| Noite Estrelada        | 3            | 10 de Arcano e 10 de Sabedoria                   | -                          |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Historiador Curioso|1|1 de Arcano|-|
+|Recuperação Arcana|1|3 de Arcano e 2 de Sabedoria|-|
+|Oportunista Mágico|1|-|-|
+|Magia Simples|1|3 de Arcano e 3 de Sabedoria|-|
+|Experiência Metamágica|1|4 de Arcano|-|
+|Companheiro Grimório|1|3 de Arcano|-|
+|Assinatura de Mana|1|1 de Carisma, Arcano ou Vínculo|-|
+|Fluir da Mana|1|1 de Sabedoria|-|
+|Conhecedor Arcano|1|4 de Arcano|-|
+|Transferência Arcana|1|2 de Sabedoria|-|
+|Base Três|1|2 de Sabedoria|-|
+|Truque de Mágica|1|10 de Arcano|"Base Três" de Custo 1|
+|Arcano Aprimorado|2|6 de Sabedoria|-|
+|Troca Equivalente|2|5 de Sabedoria|-|
+|Visão Além do Alcance|2|6 de Sabedoria|-|
+|Mente Focada|2|1 de Sabedoria e 4 de Arcano|-|
+|Preparação Arcana|2|5 de Sabedoria|-|
+|Canção da Mana|2|9 de Sabedoria|"Fluir da Mana" de Custo 1|
+|Bibliotecário|3|10 de Arcano|-|
+|Mente Incansável|3|6 de Sabedoria|-|
+|Foco Vocal|3|8 de Arcano e 2 de Sabedoria|-|
+|Mestre das Magias|3|7 de Sabedoria e 7 de Arcano, Vínculo ou Carisma|-|
+|Noite Estrelada|3|10 de Arcano e 10 de Sabedoria|-|
 
 ### Historiador Curioso
 
@@ -62,9 +62,7 @@ Você precisa ser Perito em Erudição para adquirir esta Habilidade.
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano
 
-Você precisa ter um Grimório.
-
-- **Companheiro Grimório** (Passiva | Duração: até o fim do Encontro | Limite de Usos: uma vez por Encontro): ao equipar um Grimório, o que normalmente ocorre no início de um Encontro, você recebe Grau 1 de PMs Temporários a cada três Magias anotadas nele. Os PMs Temporários se esvaem quando o Encontro é finalizado.
+- **Companheiro Grimório** (Passiva | Duração: até o fim do Encontro | Limite de Usos: uma vez por Encontro | Requisitos de Uso: ter um Grimório): ao equipar um Grimório, o que normalmente ocorre no início de um Encontro, você recebe Grau 1 de PMs Temporários a cada três Magias anotadas nele. Os PMs Temporários se esvaem quando o Encontro é finalizado.
 
 ### Assinatura de Mana
 
@@ -85,7 +83,7 @@ Caso a descrição de uma Magia mencione especificamente que seus aliados també
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Arcano
 
-Você precisa ter um Grimório.
+Você precisa ter um Grimório para adquirir esta Habilidade.
 
 - **Conhecedor Arcano** (Passiva): você é dedicado ao estudo do arcano, e por isso a sua capacidade mental é aprimorada. Ao adquirir esta Habilidade, você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas passam a fazer parte das suas Magias Conhecidas, aumentando o número delas em 2, e não podem ser trocadas depois.
     
@@ -162,9 +160,7 @@ Você deve fazer as suas escolhas no momento em que adquirir esta Habilidade, e 
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano
 
-Você precisa ter um Grimório.
-
-- **Bibliotecário** (Passiva): seus Grimórios passam a flutuar ao seu redor quando você precisa utilizar uma Magia contida neles, não exigindo mais que você os segure e liberando a mão que antes seria ocupada. Você pode ter até 3 Grimórios ao mesmo tempo por meio desta Habilidade. Você não pode segurar Grimórios adicionais, mesmo que suas mãos estejam livres, sendo o limite total de 3.
+- **Bibliotecário** (Passiva | Requisitos de Uso: ter um Grimório): seus Grimórios passam a flutuar ao seu redor quando você precisa utilizar uma Magia contida neles, não exigindo mais que você os segure e liberando a mão que antes seria ocupada. Você pode ter até 3 Grimórios ao mesmo tempo por meio desta Habilidade. Você não pode segurar Grimórios adicionais, mesmo que suas mãos estejam livres, sendo o limite total de 3.
     
     Caso você tenha a Habilidade "Companheiro Grimório" de Custo 1, o bônus dela é válido para apenas um dos seus Grimórios.
     
@@ -194,9 +190,7 @@ Você precisa ter um Grimório.
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Sabedoria
 
-Você precisa ter ao menos uma mão livre no momento de ativação desta Habilidade.
-
-- **Noite Estrelada** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 30 PMs | Alcance: 18 metros | Alvo: todas as criaturas, exceto você | Duração: 1 Encontro): você desenha no ar utilizando um de seus dedos e toda a sua reserva de Mana. O desenho pode ser visto a olho nu, independentemente da aptidão mágica dos que estiverem ao seu redor. Após um tempo, a aparência do céu é trocada, refletindo uma pintura de uma noite cheia de estrelas brilhantes, em um tom melancólico. Todos no alcance enxergam o céu assim, mas os de fora veem um céu normal.
+- **Noite Estrelada** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 30 PMs | Alcance: 18 metros | Alvo: todas as criaturas, exceto você | Duração: 1 Encontro | Requisitos de Uso: ter ao menos uma mão livre): você desenha no ar utilizando um de seus dedos e toda a sua reserva de Mana. O desenho pode ser visto a olho nu, independentemente da aptidão mágica dos que estiverem ao seu redor. Após um tempo, a aparência do céu é trocada, refletindo uma pintura de uma noite cheia de estrelas brilhantes, em um tom melancólico. Todos no alcance enxergam o céu assim, mas os de fora veem um céu normal.
     
     O custo de Mana de qualquer coisa é reduzido pela metade, arredondando para cima, o que inclui Habilidades, Magias, Habilidades de Raça etc. Todos os participantes do Encontro são afetados (caso você esteja em combate), ou todos os que estiverem no alcance (caso você esteja fora de combate).
     

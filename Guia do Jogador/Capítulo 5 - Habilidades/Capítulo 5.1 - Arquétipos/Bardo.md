@@ -32,9 +32,7 @@ Você pode optar por uma das especializações disponíveis. Cada uma concede ca
 
 **Custo de PHs**: 1
 
-Você precisa ter um Instrumento Musical.
-
-- **Hino da Coragem** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 2 PMs | Alcance: Deslocamento | Alvo: até duas criaturas | Duração: 1 Encontro): você seleciona os alvos no alcance e toca uma música que os enche de força de vontade, fazendo-os ter +2 no BA do próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantêm os bônus até acertar.
+- **Hino da Coragem** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 2 PMs | Alcance: Deslocamento | Alvo: até duas criaturas | Duração: 1 Encontro | Requisitos de Uso: ter um Instrumento Musical): você seleciona os alvos no alcance e toca uma música que os enche de força de vontade, fazendo-os ter +2 no BA do próximo Ataque e +2 no dano, caso acertem. Caso errem o Ataque, mantêm os bônus até acertar.
 
 ### Charme
 
@@ -46,9 +44,7 @@ Você precisa ter um Instrumento Musical.
 
 **Custo de PHs**: 1
 
-Você precisa ter um Instrumento Musical.
-
-- **Versatilidade Musical** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 3 PMs | Alvo: você | Duração: até o fim do seu próximo Encontro): sempre que tocar uma música fora de combate durante um Descanso Longo, você pode refletir sobre a melodia e extrair um ensinamento adicional. Você escolhe um dos seguintes bônus:
+- **Versatilidade Musical** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 3 PMs | Alvo: você | Duração: até o fim do seu próximo Encontro | Requisitos de Uso: ter um Instrumento Musical): sempre que tocar uma música fora de combate durante um Descanso Longo, você pode refletir sobre a melodia e extrair um ensinamento adicional. Você escolhe um dos seguintes bônus:
     
     - Você se torna Proficiente em um tipo de Arma em que não é Proficiente, à sua escolha.
     - Você se torna Perito em uma Perícia em que não é Perito, à sua escolha.
@@ -61,9 +57,7 @@ Você precisa ter um Instrumento Musical.
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Carisma
 
-Você precisa ter um Instrumento Musical.
-
-- **Canção Heroica** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 4 PMs por alvo | Alvo: até três criaturas | Duração: 1 Rodada): você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as Penalidades de Ataque dos alvos, à sua escolha, durante a Rodada em que a música iniciar. Caso um alvo já não tenha Penalidades de Ataque, por ter alguma Habilidade que as retire ou efeito similar, você concede +5 no BA dele.
+- **Canção Heroica** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 4 PMs por alvo | Alvo: até três criaturas | Duração: 1 Rodada | Requisitos de Uso: ter um Instrumento Musical): você toca uma música capaz de conceder coragem aos seus companheiros. Você elimina completamente as Penalidades de Ataque dos alvos, à sua escolha, durante a Rodada em que a música iniciar. Caso um alvo já não tenha Penalidades de Ataque, por ter alguma Habilidade que as retire ou efeito similar, você concede +5 no BA dele.
     
     Para continuar com esta canção após o fim da duração, é necessário manter a melodia. Quando a canção estiver prestes a acabar, mesmo fora do seu Turno, escolha um número de 1 a 4 e role 1d4. Por exemplo, como a canção dura uma Rodada, a rolagem é feita assim que a Rodada atual acabar. Você não pode escolher o mesmo número duas vezes seguidas.
     
@@ -78,17 +72,13 @@ Você precisa ter um Instrumento Musical.
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Carisma
 
-Você precisa ter um Instrumento Musical.
-
-- **Consonância** (Passiva): sempre que conjurar uma Magia de Cura enquanto toca uma música, você adiciona metade do seu BP à cura, até um máximo de +10.
+- **Consonância** (Passiva | Requisitos de Uso: ter um Instrumento Musical): sempre que conjurar uma Magia de Cura enquanto toca uma música, você adiciona metade do seu BP à cura, até um máximo de +10.
 
 ### Dissonância
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Carisma
 
-Você precisa ter um Instrumento Musical.
-
-- **Dissonância** (Passiva): sempre que conjurar uma Magia que cause dano enquanto toca uma música, você adiciona metade do seu BP ao dano, até um máximo de +10.
+- **Dissonância** (Passiva | Requisitos de Uso: ter um Instrumento Musical): sempre que conjurar uma Magia que cause dano enquanto toca uma música, você adiciona metade do seu BP ao dano, até um máximo de +10.
 
 ### Amado Coiote
 
@@ -100,9 +90,7 @@ Você precisa ter um Instrumento Musical.
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Carisma
 
-Você precisa ter um Instrumento Musical.
-
-- **Pas de Deux** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 5 PMs | Alcance: Deslocamento | Alvo: um aliado | Duração: 1 Encontro): você toca uma valsa serena, unindo a sua frequência de vida à do alvo. Os PVs Atuais de vocês são somados, assim como os PVs Máximos. Ou seja, tanto você quanto o alvo passam a ter uma única fonte de vida. Quando a Habilidade se encerra, cada um de vocês fica com o menor valor entre os seus PVs Atuais antes de ativá-la e os PVs Atuais do momento em que ela se encerrar.
+- **Pas de Deux** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 5 PMs | Alcance: Deslocamento | Alvo: um aliado | Duração: 1 Encontro | Requisitos de Uso: ter um Instrumento Musical): você toca uma valsa serena, unindo a sua frequência de vida à do alvo. Os PVs Atuais de vocês são somados, assim como os PVs Máximos. Ou seja, tanto você quanto o alvo passam a ter uma única fonte de vida. Quando a Habilidade se encerra, cada um de vocês fica com o menor valor entre os seus PVs Atuais antes de ativá-la e os PVs Atuais do momento em que ela se encerrar.
     
     As Resistências, Fraquezas e Imunidades são aplicadas individualmente. Ou seja, se um de vocês tiver alguma dessas características em relação a um tipo de dano e o outro não, os cálculos de dano devem levar em conta quem foi o alvo.
     
@@ -113,12 +101,10 @@ Você precisa ter um Instrumento Musical.
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Carisma
 
-Você precisa ter um Instrumento Musical.
+Você começa o seu Turno ditando o ritmo do restante da Rodada ao tocar uma melodia em uma determinada intensidade. Você escolhe entre Piano e Forte.
 
-Esta Habilidade deve ser usada no início do seu Turno para ter efeito. Você começa o seu Turno ditando o ritmo do restante da Rodada ao tocar uma melodia em uma determinada intensidade. Você escolhe entre Piano e Forte.
-
-- **Piano** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 3 PMs | Alcance: Deslocamento | Alvo: uma criatura | Duração: até o início do seu próximo Turno): sua melodia tem um volume baixo e é pouco perceptível. No entanto, o alvo, à sua escolha, consegue ouvi-la perfeitamente. Ele recebe +2 no BA de qualquer Teste que for fazer até o fim da duração, ou +6 caso esteja com a Condição Furtivo.
-- **Forte** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 3 PMs | Alcance: Deslocamento | Alvo: múltiplas criaturas | Duração: até o início do seu próximo Turno): sua melodia tem um volume alto e serve para desestabilizar seus oponentes. Você causa Grau 1 de Dano Psíquico em todas as criaturas no alcance. Elas também têm -2 no BA de todos os Testes até o fim da duração. Você pode escolher até três criaturas para serem imunes a esse efeito.
+- **Piano** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 3 PMs | Alcance: Deslocamento | Alvo: uma criatura | Duração: até o início do seu próximo Turno | Requisitos de Uso: ter um Instrumento Musical e usar o efeito no início do seu Turno): sua melodia tem um volume baixo e é pouco perceptível. No entanto, o alvo, à sua escolha, consegue ouvi-la perfeitamente. Ele recebe +2 no BA de qualquer Teste que for fazer até o fim da duração, ou +6 caso esteja com a Condição Furtivo.
+- **Forte** (Ativa | Custo de Ações: Ação Bônus | Custo de Mana: 3 PMs | Alcance: Deslocamento | Alvo: múltiplas criaturas | Duração: até o início do seu próximo Turno | Requisitos de Uso: ter um Instrumento Musical e usar o efeito no início do seu Turno): sua melodia tem um volume alto e serve para desestabilizar seus oponentes. Você causa Grau 1 de Dano Psíquico em todas as criaturas no alcance. Elas também têm -2 no BA de todos os Testes até o fim da duração. Você pode escolher até três criaturas para serem imunes a esse efeito.
 
 ### Diligente
 
@@ -157,6 +143,4 @@ Se duas das condições listadas em Rendição forem cumpridas dentro de uma hor
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 8 de Carisma
 
-Você precisa ter um Instrumento Musical.
-
-- **Espinho Raro** (Ativa | Custo de Ações: Duas Ações | Alcance: Deslocamento | Alvo: uma criatura | Duração: 3 Rodadas): você toca uma música focada no alvo. A música toca o coração dele, acalmando-o. A melodia é serena e única, sendo extremamente rara de se ouvir. O alvo é curado da Condição Amedrontado, mas baixa a guarda, tendo -3 de CA e Desvantagem em todas as Salvaguardas. Esta Habilidade funciona mesmo se ele não estiver Amedrontado.
+- **Espinho Raro** (Ativa | Custo de Ações: Duas Ações | Alcance: Deslocamento | Alvo: uma criatura | Duração: 3 Rodadas | Requisitos de Uso: ter um Instrumento Musical): você toca uma música focada no alvo. A música toca o coração dele, acalmando-o. A melodia é serena e única, sendo extremamente rara de se ouvir. O alvo é curado da Condição Amedrontado, mas baixa a guarda, tendo -3 de CA e Desvantagem em todas as Salvaguardas. Esta Habilidade funciona mesmo se ele não estiver Amedrontado.

@@ -1,18 +1,18 @@
 O Arquétipo do Bruxo governa o oculto e seus poderes perigosos e desconhecidos.
 
-| Habilidade            | Custo de PHs | Requisitos de Atributos      | Requisitos de Habilidades   |
-| --------------------- | ------------ | ---------------------------- | --------------------------- |
-| Domínio               | 1            | 1 de Arcano e 1 de Vínculo   | -                           |
-| Cemitério             | 1            | 1 de Arcano e 1 de Vínculo   | -                           |
-| Desordem Estrutural   | 1            | 3 de Arcano e 3 de Vínculo   | -                           |
-| Amor ao Pecado        | 1            | 1 de Arcano e 3 de Vínculo   | -                           |
-| Mente Vazia           | 1            | no máximo 0 de Sabedoria     | -                           |
-| Contrato Fechado      | 1            | -                            | "Mente Vazia" de Custo 1    |
-| Impulso Sinistro      | 2            | 3 de Arcano e 3 de Vínculo   | -                           |
-| Culto ao Desconhecido | 3            | 7 de Arcano e 6 de Vínculo   | -                           |
-| Dia das Bruxas        | 3            | 10 de Arcano e 10 de Vínculo | -                           |
-| Anjo Caído            | 3            | 5 de Arcano e 10 de Vínculo  | "Amor ao Pecado" de Custo 1 |
-| Fênix da Morte        | 3            | 10 de Arcano e 10 de Vínculo | -                           |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Domínio|1|1 de Arcano e 1 de Vínculo|-|
+|Cemitério|1|1 de Arcano e 1 de Vínculo|-|
+|Desordem Estrutural|1|3 de Arcano e 3 de Vínculo|-|
+|Amor ao Pecado|1|1 de Arcano e 3 de Vínculo|-|
+|Mente Vazia|1|no máximo 0 de Sabedoria|-|
+|Contrato Fechado|1|-|"Mente Vazia" de Custo 1|
+|Impulso Sinistro|2|3 de Arcano e 3 de Vínculo|-|
+|Culto ao Desconhecido|3|7 de Arcano e 6 de Vínculo|-|
+|Dia das Bruxas|3|10 de Arcano e 10 de Vínculo|-|
+|Anjo Caído|3|5 de Arcano e 10 de Vínculo|"Amor ao Pecado" de Custo 1|
+|Fênix da Morte|3|10 de Arcano e 10 de Vínculo|-|
 
 ### Domínio
 
@@ -65,7 +65,7 @@ Você só pode adquirir esta Habilidade caso o seu valor de Sabedoria seja 0 ou 
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Arcano e 6 de Vínculo
 
-- **Culto ao Desconhecido** (Ativa): você reza a uma entidade cósmica com a qual poucas pessoas podem se comunicar. A reza dura 10 minutos, e esta Habilidade só pode ser usada fora de combate. O Mestre rola 1d4 em segredo para determinar o efeito:
+- **Culto ao Desconhecido** (Ativa | Requisitos de Uso: estar fora de combate): você reza a uma entidade cósmica com a qual poucas pessoas podem se comunicar. A reza dura 10 minutos. O Mestre rola 1d4 em segredo para determinar o efeito:
     1. A entidade responde na noite do mesmo dia, através de um sonho. Você faz uma Salvaguarda de Sabedoria autoimposta.
         - **Sucesso**: você ganha conhecimento detalhado sobre um assunto à sua escolha.
         - **Falha**: você sofre Grau 7 de Dano Psíquico.

@@ -85,10 +85,7 @@ Você só pode adquirir esta Habilidade no Nível 1.
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: máximo de 5 de Constituição
 
-- **Canhão de Vidro** (Passiva): você não pode mais usar qualquer Armadura, nem receber qualquer bônus de CA vindo de Magias. Você recebe +7 na sua Margem de Ameaça.
-    
-    Essa Habilidade perde o efeito ao ultrapassar 5 de Constituição ou ao vestir uma Armadura.
-    
+- **Canhão de Vidro** (Passiva | Requisitos de Uso: ter no máximo 5 de Constituição e não estar usando Armadura): você não pode mais usar qualquer Armadura, nem receber qualquer bônus de CA vindo de Magias. Você recebe +7 na sua Margem de Ameaça.
 
 ### Defesa Sem Armadura
 
@@ -96,7 +93,7 @@ Você só pode adquirir esta Habilidade no Nível 1.
 
 Esta Habilidade não pode ser adquirida em conjunto com a Habilidade "Canhão de Vidro" de Custo 1.
 
-- **Defesa Sem Armadura** (Passiva): caso não utilize Armadura, sua CA é o máximo entre o dobro do seu BP e 10. Essa fórmula substitui a fórmula padrão. Roupas com efeitos extras podem ser usadas em conjunto com essa Habilidade, desde que não influenciem na CA, seja através de um efeito passivo, ou de Escalas. Caso você deseje, pode utilizar essas vestes ainda, em troca de não receber CA delas.
+- **Defesa Sem Armadura** (Passiva | Requisitos de Uso: não estar usando Armadura): sua CA é o máximo entre o dobro do seu BP e 10. Essa fórmula substitui a fórmula padrão. Roupas com efeitos extras podem ser usadas em conjunto com essa Habilidade, desde que não influenciem na CA, seja através de um efeito passivo, ou de Escalas. Caso você deseje, pode utilizar essas vestes ainda, em troca de não receber CA delas.
 
 ### À Moda Antiga
 

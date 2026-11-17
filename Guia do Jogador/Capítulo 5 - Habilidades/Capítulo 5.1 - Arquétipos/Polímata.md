@@ -1,21 +1,21 @@
 O Arquétipo do Polímata diz respeito a Habilidades que não necessariamente pertencem a outros Arquétipos ou que têm usos diversos.
 
-| Habilidade             | Custo de PHs | Requisitos de Atributos           | Requisitos de Habilidades |
-| ---------------------- | ------------ | --------------------------------- | ------------------------- |
-| Riqueza Inicial        | 1            | -                                 | -                         |
-| Bom Início             | 1            | -                                 | -                         |
-| Engrenagem             | 1            | 3 de Arcano                       | -                         |
-| Contrário              | 1            | -                                 | -                         |
-| Habitante das Cavernas | 1            | -                                 | -                         |
-| Cópia Amistosa         | 1            | 2 de Carisma                      | -                         |
-| Esquecimento           | 1            | 4 de Sabedoria                    | -                         |
-| Pacifista              | 1            | -                                 | -                         |
-| Amostra Grátis         | 2            | -                                 | -                         |
-| Reserva Extra          | 2            | -                                 | -                         |
-| Canivete               | 2            | -                                 | -                         |
-| Eremita                | 3            | 7 de Constituição ou Sabedoria    | -                         |
-| Transcender a Matéria  | 3            | 10 de Sabedoria, Arcano e Vínculo | -                         |
-| Trocar de Lado         | 3            | 10 de Arcano                      | -                         |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Riqueza Inicial|1|-|-|
+|Bom Início|1|-|-|
+|Engrenagem|1|3 de Arcano|-|
+|Contrário|1|-|-|
+|Habitante das Cavernas|1|-|-|
+|Cópia Amistosa|1|2 de Carisma|-|
+|Esquecimento|1|4 de Sabedoria|-|
+|Pacifista|1|-|-|
+|Amostra Grátis|2|-|-|
+|Reserva Extra|2|-|-|
+|Canivete|2|-|-|
+|Eremita|3|7 de Constituição ou Sabedoria|-|
+|Transcender a Matéria|3|10 de Sabedoria, Arcano e Vínculo|-|
+|Trocar de Lado|3|10 de Arcano|-|
 
 ### Riqueza Inicial
 
@@ -106,7 +106,7 @@ Você precisa estar no Nível 10 ou superior para adquirir esta Habilidade.
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Constituição ou Sabedoria
 
-- **Eremita** (Passiva): sempre que não estiver em uma zona urbana, você pode adicionar o seu valor de Sabedoria ou de Constituição ao BA de qualquer Salvaguarda ou Teste de Perícia. Esta Habilidade perde o efeito se você não estiver com todos os seus PVs.
+- **Eremita** (Passiva | Requisitos de Uso: não estar em uma zona urbana e estar com todos os seus PVs): você pode adicionar o seu valor de Sabedoria ou de Constituição ao BA de qualquer Salvaguarda ou Teste de Perícia.
 
 ### Transcender a Matéria
 

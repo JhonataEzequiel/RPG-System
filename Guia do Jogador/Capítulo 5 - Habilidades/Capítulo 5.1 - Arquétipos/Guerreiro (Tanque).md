@@ -59,13 +59,13 @@ O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas à proteção 
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Força ou de Destreza e 4 de Constituição | **Requisitos de Habilidades**: "Motor em Chamas" de Custo 1
 
-- **Motor Aprimorado** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 15 PMs | Alvo: você): quando "Motor em Chamas" estiver ativa, você pode optar por recuperar duas de suas Ações ao final do seu Turno, em vez de ter as penalidades de Deslocamento anuladas. Você pode agir novamente assim que usar esta Habilidade.
+- **Motor Aprimorado** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 15 PMs | Alvo: você | Requisitos de Uso: a Habilidade "Motor em Chamas" estar ativa): você pode optar por recuperar duas de suas Ações ao final do seu Turno, em vez de ter as penalidades de Deslocamento anuladas. Você pode agir novamente assim que usar esta Habilidade.
 
 ### Escudo de Carvalho
 
 **Custo de PHs**: 1
 
-- **Escudo de Carvalho** (Passiva): você adiciona +1 à sua CA enquanto utilizar um Escudo. Você ainda precisa atender aos requisitos do Escudo para que esse bônus se aplique.
+- **Escudo de Carvalho** (Passiva | Requisitos de Uso: estar com um Escudo equipado e atender aos requisitos dele): você adiciona +1 à sua CA.
 
 ### Ombro Direto
 
@@ -98,9 +98,7 @@ A sua pele se torna mais resistente à medida que você recebe dano e se cura, t
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força e 1 de Constituição
 
-Você precisa estar usando uma Armadura com Peso superior a 6.
-
-- **Linha de Frente** (Ativa | Custo de Ações: Ação Bônus | Alcance: 18 metros | Alvo: você): você planta seus pés em um local, agindo como uma parede protetora para seus aliados. Toda vez que um aliado estiver dentro do alcance, você recebe +2 de cura sempre que for curado de alguma maneira. Além disso, se a cura vier de um aliado, esse bônus passa a ser +5. No entanto, você não pode utilizar formas de Movimentação enquanto esta Habilidade estiver ativa.
+- **Linha de Frente** (Ativa | Custo de Ações: Ação Bônus | Alcance: 18 metros | Alvo: você | Requisitos de Uso: estar usando uma Armadura com Peso superior a 6): você planta seus pés em um local, agindo como uma parede protetora para seus aliados. Toda vez que um aliado estiver dentro do alcance, você recebe +2 de cura sempre que for curado de alguma maneira. Além disso, se a cura vier de um aliado, esse bônus passa a ser +5. No entanto, você não pode utilizar formas de Movimentação enquanto esta Habilidade estiver ativa.
 - **Desativar Linha de Frente** (Ativa | Custo de Ações: Ação Bônus): você encerra a Habilidade "Linha de Frente".
 
 ### Reinhardt
@@ -213,9 +211,7 @@ A sua resiliência acima do normal é notória.
 
 **Custo de PHs**: 2
 
-Você precisa ter um Escudo equipado.
-
-- **Defesa de Ferro** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 3 PMs | Alvo: você | Duração: até o início do seu próximo Turno): você encerra o seu Turno, levantando o Escudo à sua frente e entrando em uma posição defensiva. Você não pode mais se mover até o início do seu próximo Turno. Você tem Desvantagem em Salvaguardas de Destreza, mas tem Vantagem nas de Força e de Constituição. Adicione +3 de CA enquanto esta Habilidade estiver ativa. Se você estiver utilizando um Escudo com a Habilidade "Parede de Escudo", ela também é ativada gratuitamente ao usar esta Habilidade.
+- **Defesa de Ferro** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 3 PMs | Alvo: você | Duração: até o início do seu próximo Turno | Requisitos de Uso: estar com um Escudo equipado): você encerra o seu Turno, levantando o Escudo à sua frente e entrando em uma posição defensiva. Você não pode mais se mover até o início do seu próximo Turno. Você tem Desvantagem em Salvaguardas de Destreza, mas tem Vantagem nas de Força e de Constituição. Adicione +3 de CA enquanto esta Habilidade estiver ativa. Se você estiver utilizando um Escudo com a Habilidade "Parede de Escudo", ela também é ativada gratuitamente ao usar esta Habilidade.
 
 ### General
 
@@ -282,7 +278,7 @@ Após muitas batalhas e desafios, você sente que está se aproximando do seu au
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 1 de Carisma | **Requisitos de Habilidades**: "Último Suspiro" de Custo 3
 
-- **Honra e Glória** (Ativa): caso a Habilidade "Último Suspiro" esteja ativa, você pode escolher se sacrificar pelos seus aliados. Você tem direito a fazer uma última coisa antes disso. Qualquer Habilidade, Magia, Ataque ou outra coisa que custe mais do que uma Ação Livre passa a custar uma Ação Livre. Seus aliados que estiverem Morrendo se estabilizam completamente, como se tivessem recebido as três instâncias de cura necessárias, recuperando metade dos seus PVs Máximos, e você morre.
+- **Honra e Glória** (Ativa | Requisitos de Uso: a Habilidade "Último Suspiro" estar ativa): você pode escolher se sacrificar pelos seus aliados. Você tem direito a fazer uma última coisa antes disso. Qualquer Habilidade, Magia, Ataque ou outra coisa que custe mais do que uma Ação Livre passa a custar uma Ação Livre. Seus aliados que estiverem Morrendo se estabilizam completamente, como se tivessem recebido as três instâncias de cura necessárias, recuperando metade dos seus PVs Máximos, e você morre.
 
 ### Impenetrável
 

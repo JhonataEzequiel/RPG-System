@@ -6,13 +6,24 @@ No geral, Habilidades podem ser passivas ou ativas. As passivas concedem efeitos
 
 ## Custos e Requisitos
 
-O custo de uma Habilidade varia entre 1 e 3 Pontos de Habilidade. Quanto mais cara uma Habilidade, mais valiosa e útil ela é. As Habilidades têm requisitos, que podem variar entre nenhum e uma série de tipos diferentes. Você só pode adquirir uma Habilidade caso atenda aos requisitos. Dentre os tipos de requisitos, temos:
+O custo de uma Habilidade varia entre 1 e 3 Pontos de Habilidade. Quanto mais cara uma Habilidade, mais valiosa e útil ela é. As Habilidades têm requisitos, que podem variar entre nenhum e uma série de tipos diferentes. Você só pode adquirir uma Habilidade caso atenda aos requisitos, que só são cobrados no momento da aquisição. Os requisitos para usar os efeitos de uma Habilidade são outra coisa, explicados em "Requisitos de Uso". Dentre os tipos de requisitos de aquisição, temos:
 
 - **Requisitos de Atributos**: você precisa ter o valor de Atributo requerido pela Habilidade ou maior. Uma mesma Habilidade pode requerer múltiplos Atributos.
 - **Requisitos de Nível**: você precisa estar no Nível de personagem exigido ou maior.
-- **Requisitos de Itens**: é necessário que você tenha um ou mais itens específicos. Esse requisito não vale apenas para adquirir a Habilidade, mas também para usá-la e para que os seus efeitos passivos permaneçam. Se o item precisar ser equipado, ele deve estar equipado. Caso contrário, você precisa estar com ele. Sem o item, você não pode usar a Habilidade nem receber seus efeitos passivos.
 - **Requisitos de Habilidades**: você precisa ter adquirido previamente uma ou mais Habilidades.
 - **Outros**: algumas Habilidades possuem requisitos muito específicos que não se encaixam em nenhuma categoria.
+
+## Requisitos de Uso
+
+Além dos requisitos para adquirir uma Habilidade, alguns efeitos têm Requisitos de Uso. Trata-se de condições que precisam estar cumpridas para que o efeito possa ser usado ou, no caso de efeitos passivos, para que ele tenha efeito. Por exemplo, um efeito que melhora Ataques com Armas que causem Dano Perfurante tem como Requisito de Uso estar com uma Arma capaz de causar esse tipo de dano equipada.
+
+Os Requisitos de Uso pertencem a cada efeito, e não à Habilidade como um todo. Uma mesma Habilidade pode ter efeitos com Requisitos de Uso e efeitos sem eles, e cada efeito tem os seus. Eles também não impedem que você adquira a Habilidade: você pode adquiri-la sem cumpri-los, mas não aproveita o efeito enquanto não o fizer. Dentre os tipos de Requisitos de Uso, temos:
+
+- **Itens**: é necessário que você tenha um ou mais itens específicos. Se o item precisar ser equipado, ele deve estar equipado. Caso contrário, você precisa estar com ele.
+- **Estado ou circunstância**: o efeito exige que você, ou o cenário, esteja em uma situação específica, como estar fora de combate, estar sob uma Condição, estar com uma mão livre ou não estar usando Armadura.
+- **Outros**: alguns efeitos possuem Requisitos de Uso muito específicos que não se encaixam em nenhuma categoria.
+
+Efeitos passivos só valem enquanto os Requisitos de Uso estiverem cumpridos, voltando a valer automaticamente assim que forem cumpridos de novo. Efeitos ativos exigem que os Requisitos de Uso estejam cumpridos no momento em que são usados. A não ser que a descrição do efeito diga o contrário, deixar de cumpri-los depois disso não encerra o efeito.
 
 ## Limites de CA e BA
 
@@ -39,4 +50,5 @@ As propriedades compartilhadas são:
 - **Alvo ou Alvos**: criatura ou Objeto ao qual a Habilidade é direcionada, além do tamanho e tipo de área, caso seja uma Habilidade em área. O Alvo não indica distância: ela fica no Alcance.
 - **Duração**: quantidade de tempo que a Habilidade tem efeito.
 - **Limite de Usos**: quantidade de vezes que se pode utilizar a Habilidade.
+- **Requisitos de Uso**: condições que precisam estar cumpridas para usar o efeito ou, se ele for passivo, para que ele tenha efeito. Pertencem a cada efeito, e não à Habilidade como um todo.
 - **Descrição**: efeito da Habilidade, assim como informações adicionais.

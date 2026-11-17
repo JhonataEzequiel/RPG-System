@@ -9,15 +9,15 @@ Este documento define como toda Habilidade é escrita, tanto as adquiridas com P
 
 Descrição geral: regras que valem para todos os efeitos da Habilidade.
 
-- **Nome do Efeito 1** (Ativa | Custo de Ações: X | Custo de Mana: Y | Alcance: Z | Alvo: W | Duração: V | Limite de Usos: U): descrição do efeito.
+- **Nome do Efeito 1** (Ativa | Custo de Ações: X | Custo de Mana: Y | Alcance: Z | Alvo: W | Duração: V | Limite de Usos: U | Requisitos de Uso: R): descrição do efeito.
   - **Aprimoramento** (Custo de Mana adicional: Y): descrição do aprimoramento.
 - **Nome do Efeito 2** (Ativa | Custo de Ações: X | Alcance: Z): descrição do efeito.
-- **Nome do Efeito 3** (Passiva | Alvo: W | Duração: V): descrição do efeito.
+- **Nome do Efeito 3** (Passiva | Alvo: W | Duração: V | Requisitos de Uso: R): descrição do efeito.
 ```
 
 ## Cabeçalho
 
-O cabeçalho reúne apenas o que vale para a Habilidade inteira.
+O cabeçalho reúne apenas o que vale para a Habilidade inteira. Os requisitos do cabeçalho são os de aquisição: valem apenas no momento em que a Habilidade é adquirida. Os requisitos para usar um efeito são outra coisa e ficam no próprio efeito, no campo Requisitos de Uso.
 
 |Campo|Preenchimento|
 |---|---|
@@ -38,10 +38,28 @@ Cada efeito é um item da lista, com a sua própria linha de parênteses. Os cam
 |Alvo|Todo efeito|Apenas quem ou o que é afetado: você, uma criatura, múltiplas criaturas, um Objeto, uma Área (formato e tamanho) etc. Não indica distância.|
 |Duração|Todo efeito|Instantânea, uma quantidade de Rodadas, um Encontro, uma quantidade de horas ou de dias etc.|
 |Limite de Usos|Todo efeito|Quantas vezes o efeito pode ser usado e a cada quanto tempo, como uma vez por Encontro, por Descanso, por Descanso Curto ou por Descanso Longo.|
+|Requisitos de Uso|Todo efeito|As condições que precisam estar cumpridas para usar o efeito ou, se ele for passivo, para que ele tenha efeito: itens, estado do personagem ou circunstância. Escrito no infinitivo, como em "estar com uma Arma que cause Dano Perfurante equipada". Havendo mais de uma condição, são separadas por "e" ou por ponto e vírgula. Omitido se não houver.|
+
+## Requisitos de Uso
+
+O Requisito de Uso pertence ao efeito, e não à Habilidade. Uma Habilidade com dois efeitos pode ter um Requisito de Uso em apenas um deles, ou um diferente em cada. Por exemplo:
+
+```
+### Linha de Frente
+
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força e 1 de Constituição
+
+- **Linha de Frente** (Ativa | Custo de Ações: Ação Bônus | Alcance: 18 metros | Alvo: você | Requisitos de Uso: estar usando uma Armadura com Peso superior a 6): descrição do efeito.
+- **Desativar Linha de Frente** (Ativa | Custo de Ações: Ação Bônus): descrição do efeito.
+```
+
+Itens, equipamentos, estados do personagem e circunstâncias exigidos para usar um efeito sempre vão em Requisitos de Uso, e nunca no cabeçalho nem na descrição geral.
 
 ## Regras de Escrita
 
 - Campos que não se aplicam a um efeito são omitidos.
+- Quando mais de um efeito da mesma Habilidade tem o mesmo Requisito de Uso, ele é repetido em cada um deles. Efeitos sem o requisito não o recebem.
+- Requisitos de aquisição que não sejam de Atributos nem de Habilidades, como um Nível mínimo ou ser Perito em uma Perícia, ficam na descrição geral, em uma frase como "Você só pode adquirir esta Habilidade no Nível 1." ou "Você precisa ser Perito em Atletismo para adquirir esta Habilidade.".
 - Alcance e Alvo são campos separados. O Alcance traz apenas a distância, e o Alvo traz apenas quem ou o que é afetado, sem mencionar o alcance. Por exemplo, "Alcance: 9 metros | Alvo: múltiplas criaturas", e não "Alvo: criaturas no alcance".
 - Quando o alcance for o Deslocamento, escreve-se apenas "Deslocamento", e não "igual ao seu Deslocamento". A definição está no Capítulo 5 - Habilidades.
 - A descrição geral é omitida quando não há regras que valham para todos os efeitos.
@@ -52,7 +70,7 @@ Cada efeito é um item da lista, com a sua própria linha de parênteses. Os cam
 - Tabelas nunca ficam dentro de um item da lista, pois o Obsidian não as renderiza ali. Quando pertencem ao último efeito, vêm logo depois da lista. Caso contrário, ficam na descrição geral, e o efeito faz referência a elas.
 - Salvaguardas, tipos de dano, Graus, Condições e demais detalhes vão na descrição de cada efeito.
 - O texto é escrito em segunda pessoa, e "você" é quem possui a Habilidade.
-- Habilidades de Raça não têm os campos do cabeçalho, pois são gratuitas e não possuem requisitos. Todas têm título "####" dentro de "### Habilidades de Raça".
+- Habilidades de Raça não têm os campos do cabeçalho, pois são gratuitas e não possuem requisitos de aquisição. Os efeitos delas podem ter Requisitos de Uso normalmente. Todas têm título "####" dentro de "### Habilidades de Raça".
 
 ## Tabela-Índice de Arquétipo
 

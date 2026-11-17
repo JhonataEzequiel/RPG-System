@@ -1,37 +1,37 @@
 O Arquétipo do Guerreiro Marcial contém Habilidades relacionadas ao combate físico em geral.
 
-| Habilidade          | Custo de PHs | Requisitos de Atributos              | Requisitos de Habilidades |
-| ------------------- | ------------ | ------------------------------------ | ------------------------- |
-| Provação            | 1            | -                                    | -                         |
-| Riposta             | 1            | 2 de Destreza                        | -                         |
-| Ataque Carregado    | 1            | -                                    | -                         |
-| Dualidade Militar   | 1            | 4 de Força e 4 de Destreza           | -                         |
-| Dança Combatente    | 1            | 2 de Força ou de Destreza            | -                         |
-| Pressa de Batalha   | 1            | 2 de Força ou de Destreza            | -                         |
-| Mente Calma         | 1            | 3 de Sabedoria                       | -                         |
-| Ataque Afortunado   | 1            | 3 de Força ou de Destreza            | "Sorte" de Custo 1        |
-| Inércia             | 1            | 5 de Força, Constituição ou Destreza | -                         |
-| Foco de Ataque      | 1            | 2 de Força ou de Destreza            | -                         |
-| Infiltrador         | 1            | 4 de Força ou de Destreza            | -                         |
-| Golpe Duplo         | 2            | 4 de Força ou de Destreza            | -                         |
-| Dilacerar           | 2            | 4 de Força                           | -                         |
-| Nove Vidas          | 2            | 5 de Destreza                        | -                         |
-| Risco e Recompensa  | 2            | -                                    | -                         |
-| Rajada de Estocadas | 2            | 3 de Força ou de Destreza            | -                         |
-| Estilo de Luta      | 2            | 3 de Força e 3 de Destreza           | -                         |
-| Golpe Triplo        | 2            | -                                    | "Golpe Duplo" de Custo 2  |
-| Flanco Tático       | 3            | 5 de Força ou de Destreza            | -                         |
-| Show do Imperador   | 3            | -                                    | -                         |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Provação|1|-|-|
+|Riposta|1|2 de Destreza|-|
+|Ataque Carregado|1|-|-|
+|Dualidade Militar|1|4 de Força e 4 de Destreza|-|
+|Dança Combatente|1|2 de Força ou de Destreza|-|
+|Pressa de Batalha|1|2 de Força ou de Destreza|-|
+|Mente Calma|1|3 de Sabedoria|-|
+|Ataque Afortunado|1|3 de Força ou de Destreza|"Sorte" de Custo 1 do Arquétipo Afortunado|
+|Inércia|1|5 de Força, Constituição ou Destreza|-|
+|Foco de Ataque|1|2 de Força ou de Destreza|-|
+|Infiltrador|1|4 de Força ou de Destreza|-|
+|Golpe Duplo|2|4 de Força ou de Destreza|-|
+|Dilacerar|2|4 de Força|-|
+|Nove Vidas|2|5 de Destreza|-|
+|Risco e Recompensa|2|-|-|
+|Rajada de Estocadas|2|3 de Força ou de Destreza|-|
+|Estilo de Luta|2|3 de Força e 3 de Destreza|-|
+|Golpe Triplo|2|-|"Golpe Duplo" de Custo 2|
+|Flanco Tático|3|5 de Força ou de Destreza|-|
+|Show do Imperador|3|-|-|
 
 ### Provação
 
-Você é forjado pela batalha e pelas conquistas, portanto necessita delas para atingir patamares cada vez maiores de poder.
-
 **Custo de PHs**: 1
 
+Você é forjado pela batalha e pelas conquistas, portanto necessita delas para atingir patamares cada vez maiores de poder.
+
 - **Provação** (Passiva): você passará por duas Provações ao longo da sua jornada. Cada Provação anulará uma das Penalidades de Ataque. Ao anular a primeira Penalidade de Ataque, a segunda ainda permanece, ou seja, você ainda terá -5 para acertar o terceiro Ataque consecutivo em um único Turno. Essa Habilidade só anula as Penalidades de Ataques Físicos. Você só poderá realizar a Segunda Provação ao finalizar a Primeira Provação.
-  - **Primeira Provação**: você precisará enfrentar uma Criatura Lendária sem cair a 0 PVs em nenhum momento. Confira o Capítulo 7.3 - Criaturas para mais detalhes.
-  - **Segunda Provação**: ao atingir o valor 10 em Constituição, Destreza, ou Força, você poderá passar por essa Provação. Você deve finalizar um combate ou exploração onde a recompensa seja um Item Especial de Patamar 3. Comprar o item ou adquiri-lo de outra maneira não conclui essa Provação.
+    - **Primeira Provação**: você precisará enfrentar uma Criatura Lendária sem cair a 0 PVs em nenhum momento. Confira o Capítulo 7.3 - Criaturas para mais detalhes.
+    - **Segunda Provação**: ao atingir o valor 10 em Constituição, Destreza, ou Força, você poderá passar por essa Provação. Você deve finalizar um combate ou exploração onde a recompensa seja um Item Especial de Patamar 3. Comprar o item ou adquiri-lo de outra maneira não conclui essa Provação.
 
 ### Riposta
 
@@ -49,13 +49,13 @@ Você é forjado pela batalha e pelas conquistas, portanto necessita delas para 
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Força e 4 de Destreza
 
-- **Dualidade Militar** (Passiva): caso você esteja utilizando uma Arma em cada mão, você pode realizar Ataques de Oportunidade com as duas ao mesmo tempo.
+- **Dualidade Militar** (Passiva | Requisitos de Uso: estar utilizando uma Arma em cada mão): você pode realizar Ataques de Oportunidade com as duas ao mesmo tempo.
 
 ### Dança Combatente
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força ou de Destreza
 
-- **Dança Combatente** (Passiva | Duração: 1 Encontro): ao derrotar um inimigo em um Encontro, adicione Grau 1 de Dano Físico (Cortante, Perfurante ou de Impacto) a todos os seus Ataques pelo resto do Encontro, de acordo com o tipo causado pela sua Arma. Caso ela não cause nenhum desses tipos, esta Habilidade não tem efeito. Esse bônus é cumulativo até um máximo de 4 vezes.
+- **Dança Combatente** (Passiva | Duração: 1 Encontro | Requisitos de Uso: estar com uma Arma que cause Dano Cortante, Perfurante ou de Impacto equipada): ao derrotar um inimigo em um Encontro, adicione Grau 1 de Dano Físico (Cortante, Perfurante ou de Impacto) a todos os seus Ataques pelo resto do Encontro, de acordo com o tipo causado pela sua Arma. Esse bônus é cumulativo até um máximo de 4 vezes.
 
 ### Pressa de Batalha
 
@@ -71,7 +71,7 @@ Você é forjado pela batalha e pelas conquistas, portanto necessita delas para 
 
 ### Ataque Afortunado
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Força ou de Destreza | **Requisitos de Habilidades**: "Sorte" de Custo 1
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Força ou de Destreza | **Requisitos de Habilidades**: "Sorte" de Custo 1 do Arquétipo Afortunado
 
 - **Ataque Afortunado** (Ativa | Custo de Ações: Reação | Custo de Mana: 5 PMs | Alcance: Deslocamento | Alvo: uma criatura que esteja realizando um Ataque): você gasta um dos seus usos de Rolar Novamente, da Habilidade "Sorte", para garantir que o Ataque do alvo seja um Ataque Crítico. Você também pode ser o alvo desta Habilidade.
 
@@ -121,9 +121,7 @@ Você é forjado pela batalha e pelas conquistas, portanto necessita delas para 
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Força ou de Destreza
 
-Você precisa estar com uma Arma capaz de causar Dano Perfurante.
-
-- **Rajada de Estocadas** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 3 PMs | Alvo: uma criatura): você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu BP ao dano. Esta Habilidade sempre acerta. O alvo fica Caído caso falhe em uma Salvaguarda de Constituição.
+- **Rajada de Estocadas** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 3 PMs | Alvo: uma criatura | Requisitos de Uso: estar com uma Arma capaz de causar Dano Perfurante equipada): você ataca várias vezes em estocada, causando o dano de um Ataque normal e adicionando seu BP ao dano. Esta Habilidade sempre acerta. O alvo fica Caído caso falhe em uma Salvaguarda de Constituição.
 
 ### Estilo de Luta
 
@@ -131,10 +129,10 @@ Você precisa estar com uma Arma capaz de causar Dano Perfurante.
 
 Escolha um dos seguintes estilos de luta. Essa escolha é permanente.
 
-- **Duelista de Escudo** (Passiva): caso você esteja com uma Arma em uma mão e um Escudo na outra, seu Escudo concede +1 de CA.
-- **Leveza** (Passiva): caso utilize duas Armas ao mesmo tempo, e ambas tenham Peso inferior a 2, você adiciona +5 ao BD ao Atacar com as duas.
-- **Empunhadura Única** (Passiva): ao empunhar uma Arma com duas mãos, você aumenta sua Margem de Ameaça em 2 em Ataques de Oportunidade.
-- **Posição de Poder** (Passiva): caso utilize duas Armas ao mesmo tempo, você adiciona metade do Peso total delas ao dano.
+- **Duelista de Escudo** (Passiva | Requisitos de Uso: estar com uma Arma em uma mão e um Escudo na outra): seu Escudo concede +1 de CA.
+- **Leveza** (Passiva | Requisitos de Uso: estar utilizando duas Armas ao mesmo tempo, ambas com Peso inferior a 2): você adiciona +5 ao BD ao Atacar com as duas.
+- **Empunhadura Única** (Passiva | Requisitos de Uso: estar empunhando uma Arma com duas mãos): você aumenta sua Margem de Ameaça em 2 em Ataques de Oportunidade.
+- **Posição de Poder** (Passiva | Requisitos de Uso: estar utilizando duas Armas ao mesmo tempo): você adiciona metade do Peso total delas ao dano.
 
 ### Golpe Triplo
 

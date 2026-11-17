@@ -24,9 +24,9 @@ O Arquétipo do Velocista contém Habilidades relacionadas ao uso e ao aumento d
 
 **Custo de PHs**: 1
 
-Explorar o mundo com pouca bagagem é algo que você preza. Esta Habilidade só tem efeito enquanto você estiver carregando menos da metade da sua Capacidade de Carga. Ela é desativada automaticamente caso você deixe de cumprir essa condição e se ativa novamente, também de forma automática, caso volte a cumpri-la.
+Explorar o mundo com pouca bagagem é algo que você preza.
 
-- **Leve Como uma Pena** (Passiva): a cada hora completa de um Descanso Curto, você recupera PVs e PMs referentes a um Dado de Vida e a um Dado de Mana a mais, sem gastar dados adicionais para isso. Esses dados extras não contam para o limite de cinco dados por hora. Você também tem +3 metros de Deslocamento.
+- **Leve Como uma Pena** (Passiva | Requisitos de Uso: carregar menos da metade da sua Capacidade de Carga): a cada hora completa de um Descanso Curto, você recupera PVs e PMs referentes a um Dado de Vida e a um Dado de Mana a mais, sem gastar dados adicionais para isso. Esses dados extras não contam para o limite de cinco dados por hora. Você também tem +3 metros de Deslocamento.
 
 ### Escalador
 
@@ -90,15 +90,13 @@ Explorar o mundo com pouca bagagem é algo que você preza. Esta Habilidade só 
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 6 de Destreza
 
-- **Desfoque** (Passiva): enquanto estiver Invisível, seu Deslocamento aumenta em metade do valor dele. Esse valor é arredondado para cima até ser um múltiplo de 1,5.
+- **Desfoque** (Passiva | Requisitos de Uso: estar Invisível): seu Deslocamento aumenta em metade do valor dele. Esse valor é arredondado para cima até ser um múltiplo de 1,5.
 
 ### Guepardo
 
 **Custo de PHs**: 3 | **Requisitos de Habilidades**: "Leve Como uma Pena" de Custo 1, "Velocidade de Gato" de Custo 2
 
-Esta Habilidade só tem efeito enquanto você não estiver usando nenhuma Armadura nem Escudo.
-
-- **Guepardo** (Passiva): o seu Deslocamento é dobrado enquanto a Habilidade "Leve Como uma Pena" estiver ativa. Você dobra o Deslocamento depois de já ter calculado quaisquer outros bônus. Em vez de aumentar o seu Deslocamento em apenas 3 metros com a Habilidade "Velocidade de Gato", você o aumenta em 4,5 metros. Quaisquer bônus concedidos pela "Velocidade de Gato" não são dobrados por esta Habilidade.
+- **Guepardo** (Passiva | Requisitos de Uso: não estar usando nenhuma Armadura nem Escudo): o seu Deslocamento é dobrado enquanto a Habilidade "Leve Como uma Pena" estiver ativa. Você dobra o Deslocamento depois de já ter calculado quaisquer outros bônus. Em vez de aumentar o seu Deslocamento em apenas 3 metros com a Habilidade "Velocidade de Gato", você o aumenta em 4,5 metros. Quaisquer bônus concedidos pela "Velocidade de Gato" não são dobrados por esta Habilidade.
 
 ### Aumento de Velocidade
 
@@ -129,9 +127,7 @@ Esta Habilidade só tem efeito enquanto você não estiver usando nenhuma Armadu
 
 **Custo de PHs**: 3
 
-Você só pode usar esta Habilidade se o seu Deslocamento restante no Turno for de pelo menos 48 metros no momento da ativação.
-
-- **Relâmpago de Plasma** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 20 PMs | Alcance: Deslocamento | Alvo: todos os inimigos): você se move tão rápido, e golpeia os inimigos com tanta ferocidade, que seus golpes parecem feixes de luz. Você ataca todos os alvos ao mesmo tempo, causando o dano de três Ataques Corpo a Corpo em cada um deles. Você retorna à sua posição inicial ao fim do seu Turno, e esta Habilidade não provoca Ataques de Oportunidade. Ela sempre acerta.
+- **Relâmpago de Plasma** (Ativa | Custo de Ações: Três Ações | Custo de Mana: toda a sua Mana, com um mínimo de 20 PMs | Alcance: Deslocamento | Alvo: todos os inimigos | Requisitos de Uso: ter pelo menos 48 metros de Deslocamento restante no Turno): você se move tão rápido, e golpeia os inimigos com tanta ferocidade, que seus golpes parecem feixes de luz. Você ataca todos os alvos ao mesmo tempo, causando o dano de três Ataques Corpo a Corpo em cada um deles. Você retorna à sua posição inicial ao fim do seu Turno, e esta Habilidade não provoca Ataques de Oportunidade. Ela sempre acerta.
 
 ### Monarca do Movimento
 

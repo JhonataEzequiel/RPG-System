@@ -1,16 +1,16 @@
 O Arquétipo do Ilusionista contém Habilidades que afetam diretamente o uso de Magias de Ilusão e de efeitos similares. Também faz referência a efeitos mentais, a Dano Psíquico e à comunicação entre as diferentes partes da psique.
 
-| Habilidade            | Custo de PHs | Requisitos de Atributos       | Requisitos de Habilidades                 |
-| --------------------- | ------------ | ----------------------------- | ----------------------------------------- |
-| Ventriloquia          | 1            | 3 de Carisma e 2 de Sabedoria | -                                         |
-| Forçar Invisibilidade | 1            | 2 de Carisma e 2 de Arcano    | -                                         |
-| Trapaceiro            | 1            | 1 de Carisma ou de Arcano     | -                                         |
-| Persona               | 1            | 2 de Carisma                  | -                                         |
-| Sombra                | 2            | 3 de Carisma e 3 de Arcano    | -                                         |
-| Ego                   | 2            | 3 de Carisma ou de Arcano     | "Persona" de Custo 1                      |
-| Submundo              | 3            | 5 de Carisma ou de Arcano     | -                                         |
-| Herói                 | 3            | 10 de Carisma                 | -                                         |
-| Si-Mesmo              | 3            | 10 de Arcano ou de Carisma    | "Herói" de Custo 3, "Submundo" de Custo 3 |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Ventriloquia|1|3 de Carisma e 2 de Sabedoria|-|
+|Forçar Invisibilidade|1|2 de Carisma e 2 de Arcano|-|
+|Trapaceiro|1|1 de Carisma ou de Arcano|-|
+|Persona|1|2 de Carisma|-|
+|Sombra|2|3 de Carisma e 3 de Arcano|-|
+|Ego|2|3 de Carisma ou de Arcano|"Persona" de Custo 1|
+|Submundo|3|5 de Carisma ou de Arcano|-|
+|Herói|3|10 de Carisma|-|
+|Si-Mesmo|3|10 de Arcano ou de Carisma|"Herói" de Custo 3, "Submundo" de Custo 3|
 
 ### Ventriloquia
 
@@ -51,7 +51,7 @@ O Arquétipo do Ilusionista contém Habilidades que afetam diretamente o uso de 
 
 Ao escrever em um diário, você expõe parte da sua psique.
 
-- **Ego** (Passiva | Duração: até o fim do seu próximo Encontro): você pode escrever em um diário, desde que tenha algo com o que escrever, como Papel e Carvão. Você escreve no seu diário ao ter um Descanso Longo. Ao fazer isso, role 1d4 e receba um dos bônus a seguir, de acordo com o resultado. Eles duram até o fim do seu próximo Encontro:
+- **Ego** (Passiva | Duração: até o fim do seu próximo Encontro | Requisitos de Uso: ter algo com que escrever, como Papel e Carvão): você pode escrever em um diário. Você escreve no seu diário ao ter um Descanso Longo. Ao fazer isso, role 1d4 e receba um dos bônus a seguir, de acordo com o resultado. Eles duram até o fim do seu próximo Encontro:
     
     1. Você ganha 1 Ponto de Atuação;
     2. Você aprende uma Magia nova de custo base 1 de qualquer categoria que não seja de Ilusão, ignorando os requisitos;

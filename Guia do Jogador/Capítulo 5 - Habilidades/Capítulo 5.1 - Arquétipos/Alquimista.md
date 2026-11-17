@@ -26,9 +26,9 @@ O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consum�
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Arcano
 
-- **Artesão de Consumíveis** (Passiva): você agora consegue fabricar um item qualquer do Capítulo 4.5 - Itens Consumíveis. Para cada item criado, você dedica 10 minutos fora de combate. Ademais, será necessária uma quantia de moedas que simbolizam os materiais perdidos na fabricação, caso você não tenha os ingredientes adequados (confira o Capítulo 7.4 - Ingredientes). A quantidade gasta é metade do custo sugerido para esses itens.
+- **Artesão de Consumíveis** (Passiva | Requisitos de Uso: ter um Almofariz e um Frasco de Poção para cada Poção ou Veneno criado): você agora consegue fabricar um item qualquer do Capítulo 4.5 - Itens Consumíveis. Para cada item criado, você dedica 10 minutos fora de combate. Ademais, será necessária uma quantia de moedas que simbolizam os materiais perdidos na fabricação, caso você não tenha os ingredientes adequados (confira o Capítulo 7.4 - Ingredientes). A quantidade gasta é metade do custo sugerido para esses itens.
     
-    Você necessita de um Almofariz para criar esses itens, e de um Frasco de Poção para cada Poção ou Veneno que criar, disponíveis no Capítulo 4.8 - Outros Itens. Ao criar qualquer Poção ou Veneno, o Frasco de Poção é gasto. Ele não é recuperado após o uso, pois conterá impurezas que impedirão a confecção de novas Poções.
+    O Almofariz e o Frasco de Poção estão disponíveis no Capítulo 4.8 - Outros Itens. Ao criar qualquer Poção ou Veneno, o Frasco de Poção é gasto. Ele não é recuperado após o uso, pois conterá impurezas que impedirão a confecção de novas Poções.
     
 
 ### Derreter
@@ -69,9 +69,7 @@ O Arquétipo do Alquimista engloba o domínio sobre a criação de Itens Consum�
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano | **Requisitos de Habilidades**: "Artesão de Consumíveis" de Custo 1
 
-Você precisa ter um Almofariz.
-
-- **Dissolução** (Passiva): você agora pode misturar duas Resinas em uma só enquanto estiver fora de combate. Você leva 10 minutos para fazer isso, e a Resina resultante tem o efeito das duas anteriores e o peso de apenas uma. Você não gasta recursos adicionais para isso. Você poderá misturar uma terceira Resina junto às outras duas assim que seu Arcano atingir o valor 10.
+- **Dissolução** (Passiva | Requisitos de Uso: ter um Almofariz): você agora pode misturar duas Resinas em uma só enquanto estiver fora de combate. Você leva 10 minutos para fazer isso, e a Resina resultante tem o efeito das duas anteriores e o peso de apenas uma. Você não gasta recursos adicionais para isso. Você poderá misturar uma terceira Resina junto às outras duas assim que seu Arcano atingir o valor 10.
 
 ### Mestre em Explosões
 
@@ -105,7 +103,7 @@ Você precisa ter um Almofariz.
 
 **Custo de PHs**: 2
 
-- **Peçonha Instantânea** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 10 PMs | Alvo: uma criatura que esteja Envenenada): você Ataca o alvo e, caso acerte, faz com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez e encerrando o Dano Venenoso Contínuo. Além do dano do seu Ataque, o alvo recebe três instâncias de Grau 10 de Dano Venenoso. Para esta Habilidade ter efeito, a duração restante do Veneno tem que ser de pelo menos 2 Rodadas. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por esta Habilidade.
+- **Peçonha Instantânea** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 10 PMs | Alvo: uma criatura que esteja Envenenada | Requisitos de Uso: a duração restante do Veneno no alvo ser de pelo menos 2 Rodadas): você Ataca o alvo e, caso acerte, faz com que o Veneno dentro do corpo dele corra de forma acelerada, causando muito dano de uma vez e encerrando o Dano Venenoso Contínuo. Além do dano do seu Ataque, o alvo recebe três instâncias de Grau 10 de Dano Venenoso. O alvo se torna Imune a Dano Venenoso até o início do próximo Turno dele após ser atingido por esta Habilidade.
 
 ### Alquimista Supremo
 

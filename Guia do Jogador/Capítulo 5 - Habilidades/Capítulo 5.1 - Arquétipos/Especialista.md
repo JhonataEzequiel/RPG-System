@@ -26,9 +26,9 @@ Conhecer a si mesmo é tão importante quanto conhecer o seu oponente.
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma
 
-Você só pode adquirir esta Habilidade no Nível 14. Você não pode ter outro Atributo com valor 10 em nenhum momento, e a Habilidade perde o efeito caso você aumente outro Atributo para esse valor.
+Você só pode adquirir esta Habilidade no Nível 14, e apenas se não tiver outro Atributo com valor 10.
 
-- **Arte Nobre** (Passiva): você pode aumentar o Atributo de valor 10 além do LA, até o valor 20.
+- **Arte Nobre** (Passiva | Requisitos de Uso: não ter outro Atributo com valor 10): você pode aumentar o Atributo de valor 10 além do LA, até o valor 20.
 
 ### Armamento Único
 
@@ -60,9 +60,7 @@ Você atingiu um patamar de pensamento além do comum, tornando a sua mente mais
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma
 
-Para esta Habilidade ter efeito, você precisa estar em um Encontro com pelo menos 3 inimigos.
-
-- **Impulso Inicial** (Passiva | Duração: 1 Encontro): você começa o Encontro com uma Ação adicional nas três primeiras Rodadas. Após isso, um inimigo à escolha do Mestre recebe, uma única vez, três Ações adicionais em algum momento do Encontro, durante o Turno dele.
+- **Impulso Inicial** (Passiva | Duração: 1 Encontro | Requisitos de Uso: estar em um Encontro com pelo menos 3 inimigos): você começa o Encontro com uma Ação adicional nas três primeiras Rodadas. Após isso, um inimigo à escolha do Mestre recebe, uma única vez, três Ações adicionais em algum momento do Encontro, durante o Turno dele.
 
 ### Adaptação
 

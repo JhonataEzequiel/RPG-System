@@ -32,7 +32,7 @@ Os Revenãs Zumbis são cadáveres reanimados que mantêm a carne, ainda que apo
 
 #### Regeneração dos Mortos
 
-- **Regeneração dos Mortos** (Passiva): você se cura em Grau 6 ao final de cada Encontro. Você não recebe a cura caso esteja Morrendo.
+- **Regeneração dos Mortos** (Passiva | Requisitos de Uso: não estar Morrendo): você se cura em Grau 6 ao final de cada Encontro.
 
 #### Praga
 

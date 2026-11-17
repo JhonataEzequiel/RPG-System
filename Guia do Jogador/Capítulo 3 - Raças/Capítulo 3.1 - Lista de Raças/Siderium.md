@@ -18,7 +18,7 @@ Os Diurnos possuem pele branca ou amarelada, emitindo um leve brilho, e cabelos 
 
 #### Aurora
 
-- **Aurora** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Duração: Instantânea): você gasta a sua carga de Aurora e recupera todos os seus PVs e PMs instantaneamente. Você só pode usar esta Habilidade se tiver uma carga.
+- **Aurora** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Duração: Instantânea | Requisitos de Uso: ter uma carga de Aurora): você gasta a sua carga de Aurora e recupera todos os seus PVs e PMs instantaneamente.
 
 #### Filho da Luz
 

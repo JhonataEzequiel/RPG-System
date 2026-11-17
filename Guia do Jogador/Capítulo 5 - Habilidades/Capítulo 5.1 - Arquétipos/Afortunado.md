@@ -1,16 +1,16 @@
 O Arquétipo do Afortunado contém Habilidades relacionadas à manipulação de probabilidades ou a apostas.
 
-| Habilidade        | Custo de PHs | Requisitos de Atributos         | Requisitos de Habilidades |
-| ----------------- | ------------ | ------------------------------- | ------------------------- |
-| Sorte             | 1            | -                               | -                         |
-| Vida de Gato      | 1            | -                               | -                         |
-| Distopia          | 1            | -                               | -                         |
-| Utopia            | 1            | -                               | -                         |
-| Cartas do Destino | 2            | 3 de Arcano, Vínculo ou Carisma | -                         |
-| Jackpot           | 2            | -                               | -                         |
-| Dado de Sorte     | 2            | -                               | -                         |
-| Alterar Chances   | 2            | -                               | "Sorte" de Custo 1        |
-| Jackpot Melhorado | 3            | -                               | "Jackpot" de Custo 2      |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Sorte|1|-|-|
+|Vida de Gato|1|-|-|
+|Distopia|1|-|-|
+|Utopia|1|-|-|
+|Cartas do Destino|2|3 de Arcano, Vínculo ou Carisma|-|
+|Jackpot|2|-|-|
+|Dado de Sorte|2|-|-|
+|Alterar Chances|2|-|"Sorte" de Custo 1|
+|Jackpot Melhorado|3|-|"Jackpot" de Custo 2|
 
 ### Sorte
 
@@ -47,16 +47,16 @@ Você só pode adquirir esta Habilidade no Nível 1.
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Arcano, Vínculo ou Carisma
 
-Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A origem desse baralho é desconhecida, sendo entregue a você por algo fora do seu controle (o Mestre pode criar uma justificativa dentro da Campanha, se ele quiser). Você deve manter esse baralho oculto dos seus olhos, por exemplo, guardado no seu bolso. Você só pode Puxar Carta em combate. Os efeitos concedidos por cada naipe são:
+Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A origem desse baralho é desconhecida, sendo entregue a você por algo fora do seu controle (o Mestre pode criar uma justificativa dentro da Campanha, se ele quiser). Você deve manter esse baralho oculto dos seus olhos, por exemplo, guardado no seu bolso. Os efeitos concedidos por cada naipe são:
 
-| Naipe       | Efeito                                                                                                                                                                                                                                                                                                                                                                  |
-| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1 - Copas   | Você se cura em um valor igual a Grau 5 + Arc, Vin ou Car. Se você estiver com a Condição Exausto, seu Valor de Exaustão diminui em um.                                                                                                                                                                                                                                 |
-| 2 - Ouros   | Você aplica Fraqueza 10 a um tipo de dano, à sua escolha, em uma criatura alvo dentro do alcance do seu Deslocamento. Dura 4 Rodadas.                                                                                                                                                                                                                                   |
-| 3 - Paus    | Você reduz pela metade o Deslocamento de uma criatura alvo dentro do alcance do seu Deslocamento. Além disso, ela não pode usar nenhuma forma de Movimentação além de Andar. Caso o alvo seja bem-sucedido em uma Salvaguarda de Destreza, o Deslocamento dele diminui em apenas 1,5 metros, e ele pode usar outras formas de Movimentação normalmente. Dura 4 Rodadas. |
-| 4 - Espadas | Você adiciona o valor de um Atributo entre Arcano, Vínculo e Carisma, à sua escolha, ao dano do seu próximo Ataque que acertar. Você não pode puxar outra carta até que tenha causado dano ou que o Encontro se encerre.                                                                                                                                                |
+|Naipe|Efeito|
+|---|---|
+|1 - Copas|Você se cura em um valor igual a Grau 5 + Arc, Vin ou Car. Se você estiver com a Condição Exausto, seu Valor de Exaustão diminui em um.|
+|2 - Ouros|Você aplica Fraqueza 10 a um tipo de dano, à sua escolha, em uma criatura alvo dentro do alcance do seu Deslocamento. Dura 4 Rodadas.|
+|3 - Paus|Você reduz pela metade o Deslocamento de uma criatura alvo dentro do alcance do seu Deslocamento. Além disso, ela não pode usar nenhuma forma de Movimentação além de Andar. Caso o alvo seja bem-sucedido em uma Salvaguarda de Destreza, o Deslocamento dele diminui em apenas 1,5 metros, e ele pode usar outras formas de Movimentação normalmente. Dura 4 Rodadas.|
+|4 - Espadas|Você adiciona o valor de um Atributo entre Arcano, Vínculo e Carisma, à sua escolha, ao dano do seu próximo Ataque que acertar. Você não pode puxar outra carta até que tenha causado dano ou que o Encontro se encerre.|
 
-- **Puxar Carta** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 2 PMs): você puxa uma carta desse baralho sem ver qual é, podendo ser de um dos quatro naipes disponíveis: Copas, Ouros, Paus e Espadas. Os efeitos de cada naipe estão descritos na tabela acima.
+- **Puxar Carta** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 2 PMs | Requisitos de Uso: estar em combate): você puxa uma carta desse baralho sem ver qual é, podendo ser de um dos quatro naipes disponíveis: Copas, Ouros, Paus e Espadas. Os efeitos de cada naipe estão descritos na tabela acima.
     
     Para puxar uma carta, você deve rolar 1d4, e o número correspondente será o da carta. Após ter puxado uma carta, você não poderá puxá-la novamente até que todas as outras tenham sido puxadas. Caso o resultado do 1d4 seja o de uma carta que você já puxou, role novamente o dado.
     
@@ -69,11 +69,11 @@ Você tem acesso a um baralho de cartas que, a princípio, estão em branco. A o
 
 **Custo de PHs**: 2
 
-- **Jackpot** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Duração: 4 Rodadas): você rola 3 dados de 6 lados. Se você tirar números iguais nos 3, você tem um Jackpot, ganhando os seguintes benefícios: ao final do seu Turno, você cura todos os seus PVs de uma vez, ignorando efeitos que possam te impedir de se curar, e também regenera partes do corpo perdidas, como um braço amputado; ao final do seu Turno, você recupera todos os seus PMs de uma vez, ignorando qualquer restrição que o impeça de recuperar PMs.
+- **Jackpot** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Duração: 4 Rodadas | Requisitos de Uso: estar em combate): você rola 3 dados de 6 lados. Se você tirar números iguais nos 3, você tem um Jackpot, ganhando os seguintes benefícios: ao final do seu Turno, você cura todos os seus PVs de uma vez, ignorando efeitos que possam te impedir de se curar, e também regenera partes do corpo perdidas, como um braço amputado; ao final do seu Turno, você recupera todos os seus PMs de uma vez, ignorando qualquer restrição que o impeça de recuperar PMs.
     
     Se, após 7 tentativas, você não conseguir um Jackpot, você precisará apenas tirar 2 números iguais dos 3 dados. Depois de 12 tentativas no total, você tem um Jackpot garantido na décima terceira tentativa.
     
-    Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, você pode tentar tirar um Jackpot novamente assim que o efeito do atual se encerrar. Quando seu efeito se encerrar, a contagem de tentativas volta a zero. Ou seja, os requisitos para tirar um Jackpot voltam a ser os iniciais. Você só pode usar essa Habilidade em combate.
+    Enquanto o Jackpot estiver ativo, você não pode ativá-lo novamente. No entanto, você pode tentar tirar um Jackpot novamente assim que o efeito do atual se encerrar. Quando seu efeito se encerrar, a contagem de tentativas volta a zero. Ou seja, os requisitos para tirar um Jackpot voltam a ser os iniciais.
     
 
 ### Dado de Sorte

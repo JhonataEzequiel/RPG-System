@@ -24,9 +24,7 @@ O Arquétipo do Caçador representa o patrulheiro das florestas, especialista em
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Destreza
 
-Você precisa ser capaz de realizar um Ataque à Distância.
-
-- **Presa Ato I** (Passiva | Duração: 1 Encontro): ao realizar um Ataque à Distância, adicione +2 ao seu valor de Destreza até o fim do Encontro. Ao realizar um Ataque Corpo a Corpo, você tem -2 no valor de Destreza até o fim do Encontro. Esses efeitos não se acumulam.
+- **Presa Ato I** (Passiva | Duração: 1 Encontro | Requisitos de Uso: ser capaz de realizar um Ataque à Distância): ao realizar um Ataque à Distância, adicione +2 ao seu valor de Destreza até o fim do Encontro. Ao realizar um Ataque Corpo a Corpo, você tem -2 no valor de Destreza até o fim do Encontro. Esses efeitos não se acumulam.
 
 ### Presa Ato II
 
@@ -38,11 +36,9 @@ Você precisa ser capaz de realizar um Ataque à Distância.
 
 **Custo de PHs**: 1
 
-Você precisa ter uma Arma à Distância equipada.
-
 Você se concentra, fazendo com que o seu próximo disparo seja mais veloz e tenha maior poder de perfuração, adicionando parte da sua Mana para isso.
 
-- **Disparo Poderoso** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 1 PM | Alvo: uma criatura): você realiza um Ataque à Distância que causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante. O alvo atingido precisa passar em uma Salvaguarda de Constituição. Em caso de falha, ele tem Fraqueza 5 a Dano Perfurante até o início do próximo Turno dele. Caso o alvo seja inicialmente Imune a Dano Perfurante, ele não precisa passar pela Salvaguarda, pois não pode receber a Fraqueza. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
+- **Disparo Poderoso** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 1 PM | Alvo: uma criatura | Requisitos de Uso: estar com uma Arma à Distância equipada): você realiza um Ataque à Distância que causa o dano de um Ataque normal, mas ignora Resistências e Imunidades a Dano Perfurante. O alvo atingido precisa passar em uma Salvaguarda de Constituição. Em caso de falha, ele tem Fraqueza 5 a Dano Perfurante até o início do próximo Turno dele. Caso o alvo seja inicialmente Imune a Dano Perfurante, ele não precisa passar pela Salvaguarda, pois não pode receber a Fraqueza. Ademais, ele recebe o dano normalmente caso o Ataque acerte.
     
     Por fim, este Ataque não é afetado pelas Penalidades de Ataque, e você não pode mais Atacar neste Turno.
     
@@ -51,11 +47,9 @@ Você se concentra, fazendo com que o seu próximo disparo seja mais veloz e ten
 
 **Custo de PHs**: 1
 
-Você precisa ser capaz de voar.
-
 Os céus são a sua casa, e você se sente mais confortável lutando de cima.
 
-- **Atirador Aéreo** (Passiva): aumente a sua Margem de Ameaça em 2 pontos caso você Ataque à Distância enquanto voa. Você não pode ter Ataques Críticos caso não esteja voando.
+- **Atirador Aéreo** (Passiva | Requisitos de Uso: ser capaz de voar): aumente a sua Margem de Ameaça em 2 pontos caso você Ataque à Distância enquanto voa. Você não pode ter Ataques Críticos caso não esteja voando.
 
 ### Sentidos Aguçados
 
@@ -152,9 +146,7 @@ O projétil parece ter vida própria, perseguindo o alvo mesmo que ele fuja.
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Destreza | **Requisitos de Habilidades**: "Tambor Rápido" de Custo 2
 
-Caso a Arma à Distância atualmente equipada precise de recarga, ela deve estar completamente recarregada antes do uso desta Habilidade.
-
-- **Chuva de Flechas** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 6 PMs): você realiza 3 Ataques rápidos em seguida com uma Arma à Distância, e eles sofrem as Penalidades de Ataque normalmente. Para Armas que precisam de recarga, você recarrega extremamente rápido entre os tiros, anulando o custo de Ações para recarregar. Ao finalizar os 3 Ataques, a Arma já fica recarregada. Você não pode mais Atacar no Turno em que usar esta Habilidade.
+- **Chuva de Flechas** (Ativa | Custo de Ações: Duas Ações | Custo de Mana: 6 PMs | Requisitos de Uso: estar com uma Arma à Distância equipada e, caso ela precise de recarga, completamente recarregada): você realiza 3 Ataques rápidos em seguida com uma Arma à Distância, e eles sofrem as Penalidades de Ataque normalmente. Para Armas que precisam de recarga, você recarrega extremamente rápido entre os tiros, anulando o custo de Ações para recarregar. Ao finalizar os 3 Ataques, a Arma já fica recarregada. Você não pode mais Atacar no Turno em que usar esta Habilidade.
 - **Tambor Aprimorado** (Passiva): o custo de Mana de Tambor Rápido é diminuído em 1 permanentemente.
 
 ### Morte Branca

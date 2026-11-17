@@ -36,7 +36,7 @@ Os Halflings de Pés Andarilhos vivem na estrada, viajando pelo mundo e fazendo 
 
 #### Vagante
 
-- **Vagante** (Passiva): você tem Vantagem em Testes de Natureza fora de combate, caso não esteja sob efeito de uma Condição Negativa.
+- **Vagante** (Passiva | Requisitos de Uso: estar fora de combate e não estar sob efeito de uma Condição Negativa): você tem Vantagem em Testes de Natureza.
 
 #### Mercador
 
