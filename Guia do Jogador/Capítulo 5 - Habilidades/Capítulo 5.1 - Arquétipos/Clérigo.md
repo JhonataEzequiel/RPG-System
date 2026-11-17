@@ -1,5 +1,4 @@
-
-O Arquétipo do Fiel contém Habilidades relacionadas a poderes e deveres sacerdotais, e a paladinos.
+O Arquétipo do Clérigo contém Habilidades relacionadas a poderes e deveres sacerdotais.
 
 ## Agente Divino (Custo 1)
 
@@ -10,9 +9,9 @@ Você pode adicionar o seu Modificador de Fé como bônus na Iniciativa de um al
 
 ## Devoção (Custo 1)
 
-**Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal.
+**Requisitos**: 1 de Fé. Você precisa seguir uma divindade ou ideal (confira o Capítulo 7.7 - Religião).
 
-Todas as vezes que você tiver um Descanso Longo você pode fazer uma oração. Você rola 1d8. Se cair 6 ou inferior, você ganha +3 de Pontos de Mana Temporários até ter um Descanso Curto ou Longo. Se cair 7 você adiciona seu Modificador de Fé ao próximo Teste de Perícia que você não seja Perito, e esse bônus é perdido se você não usar ele até ter um Descanso Longo. Por último, se tirar 8, você ganha 8 Pontos de Vida Temporários além dos bônus anteriores, até ter um Descanso Longo.
+Todas as vezes que você tiver um Descanso Longo você pode fazer uma oração. Você rola Grau 3. Se cair 6 ou inferior, você ganha +5 de Pontos de Mana Temporários. Se cair 7 você adiciona seu Modificador de Fé ao próximo Teste de Perícia que você não seja Perito, e esse bônus é perdido se você não usar ele até ter um Descanso Longo. Por último, se tirar 8, você ganha 10 Pontos de Vida Temporários além dos bônus anteriores, até ter um Descanso Longo.
 
 Se você tiver um Símbolo Sagrado, você pode rolar o dado duas vezes e escolher o resultado que quiser.
 
