@@ -22,7 +22,7 @@ Os Diurnos possuem pele branca ou amarelada, emitindo um leve brilho, e cabelos 
 
 #### Filho da Luz
 
-- **Filho da Luz** (Passiva): sempre que receber PVs Temporários, você recebe um adicional de Grau 5.
+- **Filho da Luz** (Passiva | Requisitos de Uso: ter uma carga de Aurora): sempre que receber PVs Temporários, você recebe um adicional de Grau 5 caso tenha uma carga de Aurora. Você não gasta a carga com essa Habilidade.
 
 ## Siderium Noturno
 
@@ -43,4 +43,4 @@ Os Noturnos refletem o céu noturno através de sua pele, que tem uma coloraçã
 
 #### Brilho Estelar
 
-- **Brilho Estelar** (Ativa | Custo de Ações: Ação Bônus | Limite de Usos: uma vez por Descanso Curto ou Longo): você repete o último resultado de Contemplar as Estrelas, recuperando PVs ou PMs ou recebendo PVs ou PMs Temporários.
+- **Brilho Estelar** (Ativa | Custo de Ações: Ação Bônus | Limite de Usos: uma vez por Descanso): você repete o último resultado de Contemplar as Estrelas, recuperando PVs ou PMs ou recebendo PVs ou PMs Temporários.
