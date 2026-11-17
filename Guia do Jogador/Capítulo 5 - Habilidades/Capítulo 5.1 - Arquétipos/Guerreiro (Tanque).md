@@ -1,252 +1,291 @@
+O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas à proteção física, à durabilidade e à estabilidade.
 
-O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas a proteção física, durabilidade, e estabilidade.
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Provocar|1|1 de Constituição|-|
+|Respirar Fundo|1|1 de Constituição|-|
+|Motor em Chamas|1|3 de Constituição|-|
+|Motor Aprimorado|1|5 de Força ou de Destreza e 4 de Constituição|"Motor em Chamas" de Custo 1|
+|Escudo de Carvalho|1|-|-|
+|Ombro Direto|1|3 de Constituição|-|
+|Pele Dura|1|-|-|
+|Postura Defensiva|1|-|-|
+|Linha de Frente|1|2 de Força e 1 de Constituição|-|
+|Reinhardt|1|3 de Força|-|
+|Colosso|1|5 de Constituição e 3 de Força ou de Destreza|-|
+|Aura|1|2 de Constituição|-|
+|Indestrutível|1|4 de Constituição|-|
+|Tribulação|1|4 de Constituição|-|
+|Tamanho não é Documento|1|-|-|
+|Fortitude Corporal|1|1 de Constituição e 1 de Força|-|
+|Temperança|2|7 de Constituição|-|
+|Comandante|2|1 de Carisma e 1 de Constituição|-|
+|Quem com Ferro Fere|2|4 de Constituição|-|
+|Aura Aprimorada|2|5 de Constituição|"Aura" de Custo 1|
+|Tamanho é Documento|2|-|-|
+|Amigo|2|1 de Carisma e 4 de Constituição|-|
+|Além da Morte|2|3 de Constituição|-|
+|Defesa de Ferro|2|-|-|
+|General|3|6 de Carisma e 4 de Constituição|"Comandante" de Custo 2|
+|Com Ferro Será Ferido|3|8 de Constituição|"Quem com Ferro Fere" de Custo 2|
+|Gordura Grossa|3|6 de Constituição|-|
+|Atrasar Dano|3|10 de Constituição|-|
+|Aura Final|3|10 de Constituição|"Aura Aprimorada" de Custo 2|
+|Supremo Protetor|3|7 de Constituição|-|
+|Forjado no Fogo|3|10 de Constituição e 10 de outro Atributo|-|
+|Último Suspiro|3|6 de Constituição|-|
+|Honra e Glória|3|1 de Carisma|"Último Suspiro" de Custo 3|
+|Impenetrável|3|10 de Constituição|-|
 
-## Provocar (Custo 1)
+### Provocar
 
-**Custo**: Ação Bônus.
-**Duração**: 2 Rodadas.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Constituição
 
-Provoca uma criatura ao alcance de seu Deslocamento. O alvo deverá passar por um Teste de Resistência de Sabedoria CD 10 + Con para evitar de ser provocado. Caso falhe, todos os Ataques dele serão focados em você.
+- **Provocar** (Ativa | Custo de Ações: Ação Bônus | Alcance: Deslocamento | Alvo: uma criatura | Duração: 2 Rodadas): você provoca uma criatura no alcance. O alvo deve passar por uma Salvaguarda de Sabedoria para evitar ser provocado. Em caso de falha, todos os Ataques dele são focados em você.
 
-## Respirar Fundo (Custo 1)
+### Respirar Fundo
 
-**Requisitos**: 1 de Constituição.
-**Custo**: Ação Bônus.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Constituição
 
-Você se concentra para recuperar um pouco do seu vigor físico. Você se cura em 1d10 + Constituição, e pode usar essa Habilidade uma quantidade de vezes igual ao seu Modificador de Constituição até ter um Descanso Longo, com um mínimo de 0.
+- **Respirar Fundo** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Limite de Usos: uma quantidade de vezes igual ao seu Modificador de Constituição por Descanso Longo, com um mínimo de 1): você se concentra para recuperar um pouco do seu vigor físico, curando-se em Grau 4 + Con.
 
-## Motor em Chamas (Custo 1)
+### Motor em Chamas
 
-**Requisitos**: 3 de Constituição.
-**Custo**: Reação.
-**Duração**: 3 Rodadas.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Constituição
 
-Sempre que for afetado por Dano de Fogo você ignora quaisquer efeitos que diminuam seu Deslocamento, com exceção de Terreno Difícil.
+- **Motor em Chamas** (Passiva | Duração: 2 Rodadas): sempre que sofrer Dano Ígneo, você ignora quaisquer efeitos que diminuam o seu Deslocamento, com exceção de Terreno Difícil.
 
-## Motor Aprimorado (Custo 1)
+### Motor Aprimorado
 
-**Requisitos**: Habilidade "Motor em Chamas" de Custo 1. 5 de Força ou 5 de Destreza, 4 de Constituição.
-**Custo**: Ação Livre, 5 de Mana.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Força ou de Destreza e 4 de Constituição | **Requisitos de Habilidades**: "Motor em Chamas" de Custo 1
 
-Quando Motor em Chamas estiver ativo, você pode optar por recuperar duas de suas Ações ao final do seu Turno.
+- **Motor Aprimorado** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 15 PMs | Alvo: você): quando "Motor em Chamas" estiver ativa, você pode optar por recuperar duas de suas Ações ao final do seu Turno, em vez de ter as penalidades de Deslocamento anuladas. Você pode agir novamente assim que usar esta Habilidade.
 
-## Escudo de Carvalho (Custo 1)
+### Escudo de Carvalho
 
-Você adiciona metade do seu Bônus de Proficiência a sua CA enquanto utilizar um Escudo. Você ainda precisa atender aos requisitos do Escudo para que esse bônus se aplique. Esse bônus se soma as Escalas do Escudo.
+**Custo de PHs**: 1
 
-## Ombro Direto (Custo 1)
+- **Escudo de Carvalho** (Passiva): você adiciona +1 à sua CA enquanto utilizar um Escudo. Você ainda precisa atender aos requisitos do Escudo para que esse bônus se aplique.
 
-**Requisitos**: 3 de Constituição.
-**Custo**: Uma Ação.
+### Ombro Direto
 
-Essa Habilidade substitui a ação Empurrar. Você dá um escorão no alvo ao Empurrá-lo. A CD do Teste para resistir ao seu Empurrão aumenta para 10 + Con + For, e o alcance do Empurrão agora será de 1.5m por ponto no Modificador de Constituição e de Força.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Constituição
 
-## Pele Dura (Custo 1)
+- **Ombro Direto** (Ativa | Custo de Ações: Uma Ação | Alvo: uma criatura adjacente): esta Habilidade substitui a Ação Empurrar. Você dá uma ombrada no alvo ao empurrá-lo. A CD da Salvaguarda de Força para resistir ao seu empurrão passa a ser 8 + BP + Con + For, e o alcance do empurrão passa a ser de 1,5 metros para cada ponto na soma dos seus Modificadores de Constituição e de Força.
 
-A sua pele torna-se mais resistente a medida que recebe danos e se cura, tornando mais difícil para inimigos causarem um dano fatal. Cada vez que você for Nocauteado, ganhará um bônus de 5 de Resistência contra qualquer dano que você quiser. O bônus é cumulativo, e é perpétuo. Você pode adquirir até 20 de Resistência no total com esta Habilidade, somando todas as Resistências adquiridas por meio dela.
+### Pele Dura
 
-## Postura Defensiva (Custo 1)
+**Custo de PHs**: 1
 
-**Custo**: Reação.
+A sua pele se torna mais resistente à medida que você recebe dano e se cura, tornando mais difícil para os inimigos causarem um dano fatal.
 
-Você só pode usar essa Habilidade uma vez por Encontro, e não pode mais Atacar na Rodada que usar.
+- **Pele Dura** (Passiva): cada vez que você ficar Morrendo, ganha +4 de Resistência a um tipo de dano, à sua escolha. O bônus é cumulativo e perpétuo. Você pode adquirir até 20 de Resistência no total com esta Habilidade, somando todas as Resistências adquiridas por meio dela.
 
-Se o alvo estiver armado e te Atacar durante a duração, você pode realizar um Teste de Destreza, com a CD igual a CA do inimigo para desarmá-lo. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra, e pode cancelar o Ataque, mas perderá a Ação de qualquer forma, estando sujeito as Penalidades de Ataques. Ou seja, caso ele cancele seu Ataque e queira Atacar novamente, o próximo teria -5 para acertar, e o terceiro teria -10. 
+### Postura Defensiva
 
-Caso você não consiga o desarmar, o dano recebido é reduzido conforme o seu Modificador de Destreza. Em caso de sucesso, a Arma utilizada por ele será arremessada uma distância igual ao seu Deslocamento. O alvo precisará andar até a Arma e apanhá-la, caso deseje a utilizar novamente.
+**Custo de PHs**: 1
 
-Se o alvo não possuir uma Arma e você utilizar essa Habilidade quando ele estiver para Atacar, você ganha seu Nível como Pontos de Vida Temporários até o início da próxima Rodada.
+- **Postura Defensiva** (Ativa | Custo de Ações: Reação | Custo de Mana: 1 PM | Alvo: uma criatura que esteja Atacando você | Duração: até o início do seu próximo Turno | Limite de Usos: uma vez por Encontro): você não pode mais Atacar na Rodada em que usar esta Habilidade.
+    
+    Se o alvo estiver armado e Atacar você durante a duração, você pode realizar um Teste de Destreza para desarmá-lo. A CD é a CA do inimigo, e você também adiciona o seu BP ao Teste. O alvo nota que você entra em uma postura mais defensiva para realizar a manobra e pode cancelar o Ataque, mas perde a Ação de qualquer forma, estando sujeito às Penalidades de Ataque. Ou seja, caso ele cancele o Ataque e queira Atacar novamente, o próximo tem -5 no BA, e o terceiro tem -10.
+    
+    Caso você não consiga desarmá-lo, o dano recebido é reduzido em um valor igual ao seu Modificador de Destreza. Em caso de sucesso, a Arma utilizada por ele é arremessada a uma distância igual à sua distância de arremesso. O alvo precisa andar até a Arma e apanhá-la, caso deseje utilizá-la novamente.
+    
+    Se o alvo não possuir uma Arma e você utilizar esta Habilidade quando ele estiver prestes a Atacar, você ganha o seu Nível como PVs Temporários até o início do seu próximo Turno.
+    
 
-## Linha de Frente (Custo 1)
+### Linha de Frente
 
-**Requisitos**: Usar Armadura Pesada. 2 de Força e 1 de Constituição.
-**Custo**: Ação Bônus para ativar ou desativar a Habilidade.
-**Alcance**: 18m.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Força e 1 de Constituição
 
-Você planta seus pés em um local, agindo como uma parede protetora para seus aliados. Toda vez que um aliado estiver dentro do alcance você receberá +2 de cura sempre que for curado de alguma maneira. Além disso, se a cura vier de um aliado esse bônus será de +5. No entanto, você não poderá usar Ações de Movimento enquanto essa Habilidade estiver ativa.
+Você precisa estar usando uma Armadura com Peso superior a 6.
 
-## Reinhardt (Custo 1)
+- **Linha de Frente** (Ativa | Custo de Ações: Ação Bônus | Alcance: 18 metros | Alvo: você): você planta seus pés em um local, agindo como uma parede protetora para seus aliados. Toda vez que um aliado estiver dentro do alcance, você recebe +2 de cura sempre que for curado de alguma maneira. Além disso, se a cura vier de um aliado, esse bônus passa a ser +5. No entanto, você não pode utilizar formas de Movimentação enquanto esta Habilidade estiver ativa.
+- **Desativar Linha de Frente** (Ativa | Custo de Ações: Ação Bônus): você encerra a Habilidade "Linha de Frente".
 
-**Requisitos**: 3 de Força.
+### Reinhardt
 
-A sua resiliência acima do normal é notória. Você aumenta sua Capacidade de Carga em 25 kg, e ignora a Penalidade de Deslocamento nas Armaduras. Quaisquer outras penalidades ainda se aplicam.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Força
 
-## Colosso (Custo 1)
+A sua resiliência acima do normal é notória.
 
-**Requisitos**: 5 de Constituição, 3 de Força ou Destreza.
+- **Reinhardt** (Passiva): você aumenta a sua Capacidade de Carga em 15 e ignora a penalidade de Deslocamento das Armaduras. Quaisquer outras penalidades ainda se aplicam.
 
-Enquanto você não estiver utilizando um Escudo, seus Pontos de Vida Máximos aumentam em 2d4. Além disso, você recebe +1.5m de Deslocamento. Você não sofre mais Penalidade de Deslocamento ocasionada por Armaduras. 
+### Colosso
 
-Alternativamente, você pode manter a Penalidade de Deslocamento e ganhar +1 de CA enquanto estiver usando uma Armadura Pesada.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Constituição e 3 de Força ou de Destreza
 
-## Aura (Custo 1)
+- **Colosso** (Passiva): ao receber Dano Mágico, você aumenta a sua Resistência a Dano Mágico em 5 até o início do seu próximo Turno. Esse efeito não se acumula, mas, quando o seu próximo Turno chegar após receber Dano Mágico, você tem +3 metros de Deslocamento para se mover em direção ao alvo que lhe causou o dano.
 
-**Requisitos**: 2 de Constituição.
+### Aura
 
-Você agora adiciona o Modificador de Constituição como bônus à uma Salvaguarda de outro Atributo que não seja Constituição uma vez por Descanso Longo. 
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Constituição
 
-Ao finalizar um Encontro com menos da metade dos seus Pontos de Vida, você recupera 1d10 de Vida.
+- **Aura** (Passiva): você agora adiciona o Modificador de Constituição como bônus a uma Salvaguarda de outro Atributo que não seja Constituição, uma vez por Descanso Longo.
+    
+    Ao finalizar um Encontro com menos da metade dos seus PVs, você cuida de alguns de seus ferimentos rapidamente, recuperando Grau 4 de PVs.
+    
 
-## Indestrutível (Custo 1)
+### Indestrutível
 
-**Requisitos**: 4 de Constituição.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Constituição
 
-Adicione +1 Ponto de Vida por Nível permanentemente, tanto para Níveis anteriores ao momento em que você adquirir essa Habilidade, quanto futuros.
+- **Indestrutível** (Passiva): adicione +1 PV Máximo por Nível permanentemente, tanto para os Níveis anteriores ao momento em que você adquirir esta Habilidade quanto para os futuros. Alternativamente, você pode optar por adicionar +1 à sua CA.
 
-Alternativamente, adicione +1 a sua CA.
+### Tribulação
 
-## Tribulação (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Constituição
 
-**Requisitos**: 4 de Constituição.
+- **Tribulação** (Passiva): sempre que você optar por rolar o dado para adquirir PVs ao subir de Nível, adicione o seu Nível dividido por 4. Nos Níveis 5, 10, 15 e 20, adicione o seu Nível dividido por 2, em vez de por 4. Esta Habilidade não tem efeito caso você opte pela média do dado.
 
-Sempre que você optar por rolar o dado para adquirir Pontos de Vida ao subir de Nível, adicione metade do seu Bônus de Proficiência. Nos Níveis 5, 10, 15, e 20, adicione o bônus inteiro ao resultado ao invés da metade.
+### Tamanho não é Documento
 
-## Tamanho não é Documento (Custo 1)
+**Custo de PHs**: 1
 
-Sempre que você estiver enfrentando ao menos um oponente de tamanho Grande ou superior, adicione +1 de CA pelo resto do Encontro. Caso você enfrente ao menos quatro oponentes de tamanho Grande ou superior, adicione +3 de CA ao invés de +1. Esse bônus é dobrado se você for de tamanho Minúsculo.
+- **Tamanho não é Documento** (Passiva | Duração: até o fim do Encontro): sempre que estiver enfrentando ao menos um oponente de Tamanho Grande ou superior, adicione +1 de CA pelo resto do Encontro. Caso enfrente ao menos quatro oponentes de Tamanho Grande ou superior, adicione +3 de CA em vez de +1. Esse bônus é dobrado se você for de Tamanho Minúsculo.
 
-## Fortitude Corporal (Custo 1)
+### Fortitude Corporal
 
-**Requisitos**: 1 de Constituição, 1 de Força.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Constituição e 1 de Força
 
-Você pode adicionar seu Modificador de Força como bônus aos seus Pontos de Vida Máximos toda vez que subir de Nível. Essa Habilidade não se aplica retroativamente, ou seja, ela só terá efeito a partir do momento em que for adquirida. Ela também terá efeito no Nível em que adquiri-la.
+- **Fortitude Corporal** (Passiva): você pode adicionar o seu Modificador de Força aos seus PVs Máximos toda vez que subir de Nível. Esta Habilidade não se aplica retroativamente, ou seja, ela só tem efeito a partir do momento em que for adquirida. Ela também tem efeito no Nível em que você a adquirir, incluindo o Nível 1.
 
-## Temperança (Custo 2)
+### Temperança
 
-**Requisitos**: 7 de Constituição.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 7 de Constituição
 
-Você tem 3 de Resistência a todos os tipos de dano. Além disso, você ganha +2 em Salvaguardas para evitar Magias. Caso seu bônus em uma Salvaguarda qualquer seja negativo, ele será 0.
+- **Temperança** (Passiva): você tem +3 de Resistência a todos os tipos de dano. Além disso, você ganha +2 no BA de Salvaguardas para evitar Magias. Caso o seu bônus em uma Salvaguarda qualquer seja negativo, ele passa a ser 0.
 
-## Comandante (Custo 2)
+### Comandante
 
-**Requisitos**: 1 de Carisma, 1 de Constituição.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 1 de Carisma e 1 de Constituição
 
-Você ganha +5 em Testes relacionados a qualquer contexto militar fora de um Encontro, como comandar tropas ao longe, avaliar o resultado de um combate, tentar entender a história de uma região devastada por uma guerra, ou qualquer coisa do gênero.
+- **Comandante** (Passiva): você ganha +5 no BA de Testes relacionados a qualquer contexto militar fora de um Encontro, como comandar tropas ao longe, avaliar o resultado de um combate, tentar entender a história de uma região devastada por uma guerra ou qualquer coisa do gênero.
+    
+    Se você estiver usando uma Armadura com Peso igual ou superior a 7 em um Encontro, escolha até duas criaturas para receberem +4 na Iniciativa. Essa escolha é feita ao iniciar o Encontro, e você não pode ser o alvo.
+    
 
-Se você estiver usando Armadura Pesada em um Encontro, você escolhe até 2 criaturas alvo para adicionar +5 à Iniciativa delas. Essa escolha é feita ao iniciar um Encontro, e você não pode ser o alvo.
+### Quem com Ferro Fere
 
-## Quem com Ferro Fere (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Constituição
 
-**Requisitos**: 4 de Constituição.
-**Duração**: 1 Encontro.
+- **Quem com Ferro Fere** (Passiva | Duração: 1 Encontro): sua CA aumenta em 1 ponto ao receber dano, com um limite de 2 pontos.
 
-Sua CA aumenta em 1 ponto ao receber dano, com um limite de dois pontos.
+### Aura Aprimorada
 
-## Aura Aprimorada (Custo 2)
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 5 de Constituição | **Requisitos de Habilidades**: "Aura" de Custo 1
 
-**Requisitos**: Habilidade "Aura" de Custo 1. 5 de Constituição.
+- **Aura Aprimorada** (Passiva): você agora tem Vantagem em uma Salvaguarda, à sua escolha, uma vez por Descanso Longo. A cura concedida por "Aura" agora é de Grau 5 + Con.
 
-Você agora tem Vantagem em uma Salvaguarda, à sua escolha, uma vez por Descanso Longo. A cura concedida por Aura agora é de 1d12 + Con.
+### Tamanho é Documento
 
-## Tamanho é Documento (Custo 2)
+**Custo de PHs**: 2
 
-Dependendo do seu tamanho, você ganha alguns bônus.
+- **Tamanho é Documento** (Passiva): dependendo do seu Tamanho, você ganha os bônus indicados na tabela a seguir.
 
-| Tamanho   | Bônus                                                                                    |
-| --------- | ---------------------------------------------------------------------------------------- |
-| Minúsculo | Seu Deslocamento dobra, e você tem +2 em CA                                              |
-| Pequeno   | Você tem +1 em Iniciativa, e +1 em CA                                                    |
-| Médio     | Sua CA nunca poderá ser menor que 14, e passa a ser 14 se ela for atualmente menor       |
-| Grande    | Você tem +3 em Salvaguardas de Força e Constituição                                      |
-| Enorme    | Você tem Vantagem em Salvaguardas de Força e Constituição                                |
-| Colossal  | Você pode escolher ser bem sucedido em uma Salvaguarda 3 vezes ao dia, sempre que falhar |
+|Tamanho|Bônus|
+|---|---|
+|Minúsculo|Seu Deslocamento dobra, e você tem +2 de CA|
+|Pequeno|Você tem +1 na Iniciativa e +1 de CA|
+|Médio|Sua CA nunca pode ser menor que 14 + BP, e passa a ser 14 + BP caso seja atualmente menor|
+|Grande|Você tem +3 no BA de Salvaguardas de Força e de Constituição|
+|Enorme|Você tem Vantagem em Salvaguardas de Força e de Constituição|
+|Colossal|Você pode escolher ser bem-sucedido em uma Salvaguarda na qual falhou, três vezes por Descanso Longo|
 
-## Amigo (Custo 2)
+### Amigo
 
-**Requisitos**: 1 de Carisma, 4 de Constituição.
-**Custo**: Reação.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 1 de Carisma e 4 de Constituição
 
-Você seleciona uma criatura alvo fora de combate para proteger. Você só pode ter uma criatura selecionada por vez, e pode trocar o alvo entre Encontros. Sempre que essa criatura estiver dentro do alcance do seu Deslocamento e for alvo de um Ataque, você pode usar sua Reação para se jogar na frente, adicionando metade do seu Modificador de Constituição à CA dela. 
+- **Amigo** (Ativa | Custo de Ações: Reação | Alcance: Deslocamento | Alvo: a criatura selecionada): você seleciona uma criatura fora de combate para proteger. Você só pode ter uma criatura selecionada por vez e pode trocar o alvo entre Encontros. Sempre que essa criatura estiver dentro do alcance e for alvo de um Ataque, você pode usar a sua Reação para se jogar na frente, adicionando metade do seu Modificador de Constituição à CA dela.
+    
+    Caso o Ataque ainda acerte após esse bônus, você não sofre dano, e a criatura o recebe normalmente. Caso o Ataque falhe, você recebe Grau 1 de dano de um dos tipos do Ataque. Você termina a Reação em um local adjacente à criatura.
+    
+    Caso você deseje gastar 15 PMs, pode usar o seu valor de Constituição em vez do Modificador. Essa decisão deve ser tomada antes de utilizar a Habilidade.
+    
 
-Caso o Ataque ainda acerte após esse bônus, você não sofre nenhum dano — o dano é recebido normalmente pela criatura. Caso o Ataque erre, você recebe 1d4 de dano de um dos tipos do Ataque. Você termina a Reação em um local adjacente ao seu amigo, a 1.5m de distância.
+### Além da Morte
 
-Caso você deseje gastar 5 de Mana, você pode usar o seu valor de Constituição ao invés do Modificador.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 3 de Constituição
 
-## Além da Morte (Custo 2)
+- **Além da Morte** (Passiva | Limite de Usos: uma vez por Descanso Longo): você nega metade do dano de um Ataque que o deixaria Morrendo. Ao atingir o valor 10 em Constituição, você nega o dano completamente. Esta Habilidade é automática e se ativa na primeira instância de dano que cumprir esse requisito.
 
-**Requisitos**: 3 de Constituição.
+### Defesa de Ferro
 
-Uma vez por Descanso Longo, você nega metade do dano de um Ataque que o deixaria Nocauteado. No nível 10 de Constituição, você nega completamente o dano.
+**Custo de PHs**: 2
 
-## Defesa de Ferro (Custo 2)
+Você precisa ter um Escudo equipado.
 
-**Requisitos**: Você deve estar com um Escudo equipado.
-**Custo**: Uma Ação.
-**Duração**: até o início do seu próximo Turno.
+- **Defesa de Ferro** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 3 PMs | Alvo: você | Duração: até o início do seu próximo Turno): você encerra o seu Turno, levantando o Escudo à sua frente e entrando em uma posição defensiva. Você não pode mais se mover até o início do seu próximo Turno. Você tem Desvantagem em Salvaguardas de Destreza, mas tem Vantagem nas de Força e de Constituição. Adicione +3 de CA enquanto esta Habilidade estiver ativa. Se você estiver utilizando um Escudo com a Habilidade "Parede de Escudo", ela também é ativada gratuitamente ao usar esta Habilidade.
 
-Você encerra seu Turno, levantando seu Escudo à sua frente, entrando em uma posição defensiva. Você não poderá mais se mover até o início do seu próximo Turno. Você tem Desvantagem em Salvaguardas de Destreza, mas tem Vantagem nas de Força e Constituição. Adicione +3 de CA enquanto esta Habilidade estiver ativa.
+### General
 
-## General (Custo 3)
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 6 de Carisma e 4 de Constituição | **Requisitos de Habilidades**: "Comandante" de Custo 2
 
-**Requisitos**: Habilidade "Comandante" de Custo 2. 6 de Carisma, 4 de Constituição.
+- **General** (Passiva): você abdica de metade dos seus PMs e os converte em PVs.
+    
+    Além disso, duas vezes por Descanso Longo, você pode escolher ter sucesso em qualquer Teste de Constituição ou de Carisma no qual tenha falhado.
+    
+- **Ordem** (Ativa | Custo de Ações: Três Ações | Alvo: um aliado Morrendo | Limite de Usos: uma vez por aliado por Descanso Longo): sempre que um aliado seu estiver Morrendo em um Encontro de que você participe, você dá um comando com a sua voz, que o faz ficar estável automaticamente, como se tivesse recebido duas instâncias de cura. No entanto, nem você nem ele podem ficar Furtivos pelo resto do dia.
+    
 
-Você abdica de todos os seus Pontos de Mana e os converte em Pontos de Vida. Além disso, 2 vezes por Descanso Longo você pode escolher ter sucesso em qualquer Teste de Constituição ou Carisma caso falhe. 
+### Com Ferro Será Ferido
 
-**Ordem** (Três Ações): sempre que um aliado seu for Nocauteado em um Encontro que você esteja participando, você dá um comando com sua voz, que o faz ficar estável automaticamente. No entanto nem você nem ele poderão ficar Furtivos pelo resto do dia. Você só pode dar uma ordem por aliado até ter um Descanso Longo.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 8 de Constituição | **Requisitos de Habilidades**: "Quem com Ferro Fere" de Custo 2
 
-## Com Ferro Será Ferido (Custo 3)
+- **Com Ferro Será Ferido** (Passiva | Duração: 1 Encontro): em vez de aumentar a sua CA, você pode optar por acumular dano conforme recebe dano. Para cada instância de dano recebida, você acumula Grau 2, até um máximo de 12 instâncias. Ao acertar um Ataque, você pode utilizar todo esse dano acumulado de uma vez, somando-o ao dano total.
 
-**Requisitos**: Habilidade "Quem com Ferro Fere" de Custo 2. 8 de Constituição.
-**Duração**: 1 Encontro.
+### Gordura Grossa
 
-Ao invés de aumentar a sua CA, você agora pode optar por acumular dano conforme recebe dano. Para cada instância de dano recebida, você acumula 1d6, até um máximo de 12d6. Ao acertar um Ataque, você pode utilizar todo esse dano acumulado de uma vez, somando-o ao dano total. O tipo de dano será igual a um dos tipos capazes de serem causados pela sua Arma.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 6 de Constituição
 
-## Gordura Grossa (Custo 3)
+- **Gordura Grossa** (Passiva): sua gordura corporal se torna mais resistente, podendo ou não afetar a sua aparência, a seu critério. Você tem o dobro do seu valor de Constituição como Resistência a Dano Gélido, Ígneo e Elétrico.
+- **Dobrar Resistência** (Ativa | Custo de Ações: Reação | Alvo: você | Limite de Usos: uma vez por Descanso Longo): sempre que sofrer algum dos tipos de dano de "Gordura Grossa", você dobra essa Resistência.
 
-**Requisitos**: 6 de Constituição.
+### Atrasar Dano
 
-Sua gordura corporal se torna mais resistente, podendo ou não afetar a sua aparência (ao seu critério). Você tem o dobro de seu Nível de Constituição como Resistência a Dano de Gelo, Fogo, e Raio. Além disso, uma vez por Descanso Longo você pode dobrar essa Resistência como uma Reação sempre que sofrer algum desses tipos de danos.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Constituição
 
-## Atrasar Dano (Custo 3)
+- **Atrasar Dano** (Ativa | Custo de Ações: Reação | Alvo: você): ao receber um Ataque, ele causa apenas metade do dano. O restante do dano é postergado, e você o sofre quando tiver um Descanso Longo. O dano postergado é aplicado após você recuperar os PVs do Descanso Longo. Quanto mais você usar esta Habilidade em um mesmo combate, mais dano fica guardado. Caso você caia a 0 PVs durante o Encontro, o dano guardado é anulado.
 
-**Requisitos**: 10 de Constituição.
-**Custo**: Reação.
+### Aura Final
 
-Ao receber um Ataque, ele causará apenas metade do dano. O restante do dano será postergado, e você o sofrerá quando tiver um Descanso Longo como Dano Verdadeiro. O dano recebido será aplicado após recuperar toda a Vida depois do Descanso Longo. Quanto mais você usar essa Habilidade em um mesmo combate, mais dano ficará guardado. Caso você seja Nocauteado durante o Encontro, o dano guardado é anulado.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Constituição | **Requisitos de Habilidades**: "Aura Aprimorada" de Custo 2
 
-## Aura Final (Custo 3)
+- **Aura Final** (Passiva): toda vez que você receber dano, adicione Grau 1 de PVs Temporários. Esse ganho ocorre após receber a instância de dano. Você não recebe PVs Temporários caso a instância de dano o deixe com 0 PVs.
+    
+    Se, por qualquer razão, você conseguir pelo menos 50 PVs Temporários ao mesmo tempo, ao somar quaisquer bônus que concedam PVs Temporários, você pode escolher gastar todos eles para conceder +50 no BD do seu próximo Ataque que acertar. O bônus permanece até você acertar o Ataque, mas você perde os seus PVs Temporários no momento em que decidir utilizá-los para causar dano.
+    
 
-**Requisitos**: Habilidade "Aura Aprimorada" de Custo 2. 10 de Constituição.
+### Supremo Protetor
 
-Toda vez que você receber dano, adicione 1d4 de Pontos de Vida Temporários. Esse ganho ocorre após receber a instância de dano. Você não recebe Pontos de Vida Temporários caso a instância de dano te deixe Nocauteado.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Constituição
 
-Se, por qualquer razão, você consiga pelo menos 50 Pontos de Vida Temporários no total ao mesmo tempo, ao somar quaisquer bônus que o concedam Pontos de Vida Temporários, você pode escolher gastar todos os seus Pontos de Vida Temporários para conceder +50 de Dano Verdadeiro no seu próximo Ataque que acertar. O bônus permanece até acertar o Ataque.
-
-## Supremo Protetor (Custo 3)
-
-**Requisitos**: 7 de Constituição. Você precisa estar pelo menos Nível 12.
+Você precisa estar no Nível 12 ou superior para adquirir esta Habilidade.
 
 Após muitas batalhas e desafios, você sente que está se aproximando do seu auge como defensor da equipe.
 
-Você tem uma Reação adicional em todas as Rodadas, mas ela só pode ser usada para efeitos positivos que visem evitar ou mitigar um efeito negativo em um alvo, como Habilidades e Magias de proteção usadas como Reação. Ademais, você tem +1d8 de Pontos de Vida Máximos.
+- **Supremo Protetor** (Passiva): você tem uma Reação adicional em todas as Rodadas, mas ela só pode ser usada para efeitos positivos que visem evitar ou mitigar um efeito negativo em um alvo, como Habilidades e Magias de proteção usadas como Reação. Ademais, você tem Grau 3 de PVs Máximos adicionais.
 
-## Forjado no Fogo (Custo 3)
+### Forjado no Fogo
 
-**Requisitos**: 10 em Constituição, 10 em qualquer outro Atributo.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Constituição e 10 de outro Atributo, à sua escolha
 
-Quando você estiver sob o efeito de uma Condição negativa, você não sofrerá mais Desvantagens em nada, nem mesmo se essas Desvantagens forem advindas de outras fontes que não são a Condição em si. Todas as vezes que você iria receber uma Desvantagem, agora você terá Vantagem no lugar. Isso inclui Desvantagens impostas pela Condição negativa que te afligir. No entanto, você sofre 1d6 de Dano Verdadeiro Contínuo ao final dos seus Turnos enquanto a Condição durar.
+- **Forjado no Fogo** (Passiva): quando estiver sob o efeito de uma Condição Negativa, você não sofre mais Desvantagens em nada, nem mesmo se elas forem advindas de outras fontes que não a Condição em si. Todas as vezes que você receberia uma Desvantagem, passa a ter Vantagem no lugar. Isso inclui as Desvantagens impostas pela Condição Negativa que o afligir. No entanto, você sofre Grau 2 de Dano Ígneo Contínuo ao final dos seus Turnos enquanto a Condição durar.
 
-## Parrudo (Custo 3)
+### Último Suspiro
 
-**Requisitos**: 8 em Força, 8 em Destreza.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 6 de Constituição
 
-Você agora pode adicionar seu Modificador de Destreza na sua CA, e ainda adicionar o valor total de Força, ignorando a regra de que para fazer isso seria necessário ter um Modificador de Destreza menor ou igual a 0.
+- **Último Suspiro** (Passiva | Duração: 1 Encontro): caso todos os seus aliados estejam Morrendo ou Mortos e você esteja lutando sozinho, a sua CA aumenta em 3 pontos, e você tem Grau 10 de PVs Temporários. Por último, na primeira vez que cair a 0 PVs nessas circunstâncias, você já começa a Condição Morrendo com duas instâncias de cura aplicadas.
 
-## Último Suspiro (Custo 3)
+### Honra e Glória
 
-**Requisitos**: 6 de Constituição.
-**Duração**: 1 Encontro.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 1 de Carisma | **Requisitos de Habilidades**: "Último Suspiro" de Custo 3
 
-Caso todos os seus aliados forem Nocauteados ou mortos e você estiver lutando sozinho, sua CA aumentará em 3 pontos, e você terá 4d8 de Pontos de Vida Temporários. Por último, na primeira vez que for Nocauteado nestas circunstâncias, você já começará as Salvaguardas para se Estabilizar com duas vitórias.
+- **Honra e Glória** (Ativa): caso a Habilidade "Último Suspiro" esteja ativa, você pode escolher se sacrificar pelos seus aliados. Você tem direito a fazer uma última coisa antes disso. Qualquer Habilidade, Magia, Ataque ou outra coisa que custe mais do que uma Ação Livre passa a custar uma Ação Livre. Seus aliados que estiverem Morrendo se estabilizam completamente, como se tivessem recebido as três instâncias de cura necessárias, recuperando metade dos seus PVs Máximos, e você morre.
 
-## Honra e Glória (Custo 3)
+### Impenetrável
 
-**Requisitos**: Habilidade "Último Suspiro" de Custo 3. 1 de Carisma.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Constituição
 
-Caso a Habilidade "Último Suspiro" esteja ativa, você pode escolher se sacrificar pelos seus aliados. Você tem direito a fazer uma última coisa antes disso. Qualquer Habilidade, Magia, Ataque, ou outra coisa que custe mais do que uma Ação Livre agora se torna uma Ação Livre. Seus aliados se estabilizam com 1 Ponto de Vida, e você morre.
-
-## Impenetrável (Custo 3)
-
-**Requisitos**: 10 de Constituição.
-
-Você se torna Imune a Ataques Críticos.
+- **Impenetrável** (Passiva): você se torna Imune a Ataques Críticos.

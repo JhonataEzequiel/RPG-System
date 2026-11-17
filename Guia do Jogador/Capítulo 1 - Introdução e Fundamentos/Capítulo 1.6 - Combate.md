@@ -113,7 +113,7 @@ Você pode tentar Desviar de um Ataque. Desviar requer que você encerre seu Tur
 
 ## Empurrar
 
-Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa por uma Salvaguarda de Força. Em caso de falha, é empurrada 1,5 metros de distância por ponto no seu Modificador de Força. Você gasta uma Ação para Empurrar. A CD da Salvaguarda é dada por "CD = 10 + For", ou seja, seu Modificador de Força impacta a dificuldade do Teste.
+Você pode Empurrar uma criatura alvo que esteja adjacente a você. Ela passa por uma Salvaguarda de Força. Em caso de falha, é empurrada 1,5 metros de distância por ponto no seu Modificador de Força. Você gasta uma Ação para Empurrar. A CD da Salvaguarda é dada por "CD = 8 + BP + For", ou seja, seu Modificador de Força impacta a dificuldade do Teste.
 
 ## Arremessar
 

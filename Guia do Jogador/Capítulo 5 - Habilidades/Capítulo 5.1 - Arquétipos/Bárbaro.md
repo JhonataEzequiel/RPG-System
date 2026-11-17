@@ -31,7 +31,7 @@ O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalh
 
 Você só pode adquirir esta Habilidade no Nível 1.
 
-- **Mente Simples** (Passiva): todos os seus Ataques são considerados Ataques Críticos. Ataques Críticos efetuados contra você são considerados apenas Ataques normais. Você também não tem mais Falhas Críticas em nenhum Teste.
+- **Mente Simples** (Passiva): sua Margem de Ameaça aumenta em 12. Ataques Críticos efetuados contra você são considerados apenas Ataques normais. Você também não tem mais Falhas Críticas em nenhum Teste, sendo consideradas agora como Falhas normais.
     
     Em troca, você abdica da sua capacidade de escolher outras Habilidades além desta para sempre. Habilidades de Raça ainda funcionam, incluindo a "Versatilidade Inata" do Humano.
     
