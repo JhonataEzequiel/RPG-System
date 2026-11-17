@@ -138,6 +138,10 @@ Você pode se proteger atrás de elementos do cenário, ganhando alguns benefíc
 - **Cobertura Parcial**: você está atrás de alguma estrutura que, por padrão, não cobre totalmente o seu corpo, sendo necessário que você se Esgueire para que ela o cubra por completo, tornando-se uma Cobertura Total. Inimigos do outro lado da Cobertura Parcial têm Desvantagem para acertar você.
 - **Cobertura Total**: você está totalmente coberto atrás de uma estrutura e não pode ser detectado pela visão. Qualquer um que queira Atacar você precisa destruir a Cobertura primeiro, ou as tentativas de Ataque falham.
 
+## Terreno Alto
+
+Caso você esteja posicionado pelo menos 3 metros acima de uma criatura, você terá +1 no BA para acertar seus Ataques à Distância, e ela terá -1 para te acertar com quais Ataques que ela possa realizar, incluindo Corpo a Corpo, caso ela tenha alcance suficiente. Esse bônus aumenta em +1 para cada 3 metros além dos iniciais, até um máximo de 18 metros.
+
 ## Áreas de Efeito
 
 Magias e outros efeitos podem afetar todas as criaturas dentro de uma região do espaço, chamada de Área de Efeito. Toda Área de Efeito possui um Ponto de Origem, o local de onde o efeito se propaga, e um formato. Os formatos são cinco: Cone, Cubo, Cilindro, Linha e Esfera. A descrição do efeito indica o formato, seu tamanho e, quando necessário, a direção em que ele se propaga.

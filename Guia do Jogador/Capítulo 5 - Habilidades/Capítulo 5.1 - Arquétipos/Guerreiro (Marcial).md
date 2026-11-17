@@ -1,28 +1,37 @@
 O Arquétipo do Guerreiro Marcial contém Habilidades relacionadas ao combate físico em geral.
 
-| Habilidade              | Custo de PHs | Requisitos de Atributos              | Requisitos de Habilidades |
-| ----------------------- | ------------ | ------------------------------------ | ------------------------- |
-| Riposta                 | 1            | 2 de Destreza                        | -                         |
-| Ataque Carregado        | 1            | -                                    | -                         |
-| Ataque Extra Aprimorado | 1            | 10 de Força ou de Destreza           | "Ataque Extra" de Custo 3 |
-| Dualidade Militar       | 1            | 4 de Força e 4 de Destreza           | -                         |
-| Dança Combatente        | 1            | 2 de Força ou de Destreza            | -                         |
-| Pressa de Batalha       | 1            | 2 de Força ou de Destreza            | -                         |
-| Mente Calma             | 1            | 3 de Sabedoria                       | -                         |
-| Ataque Afortunado       | 1            | 3 de Força ou de Destreza            | "Sorte" de Custo 1        |
-| Inércia                 | 1            | 5 de Força, Constituição ou Destreza | -                         |
-| Foco de Ataque          | 1            | 2 de Força ou de Destreza            | -                         |
-| Infiltrador             | 1            | 4 de Força ou de Destreza            | -                         |
-| Golpe Duplo             | 2            | 4 de Força ou de Destreza            | -                         |
-| Dilacerar               | 2            | 4 de Força                           | -                         |
-| Nove Vidas              | 2            | 5 de Destreza                        | -                         |
-| Risco e Recompensa      | 2            | -                                    | -                         |
-| Rajada de Estocadas     | 2            | 3 de Força ou de Destreza            | -                         |
-| Estilo de Luta          | 2            | 3 de Força e 3 de Destreza           | -                         |
-| Golpe Triplo            | 2            | -                                    | "Golpe Duplo" de Custo 2  |
-| Ataque Extra            | 3            | 5 de Força ou de Destreza            | -                         |
-| Flanco Tático           | 3            | 5 de Força ou de Destreza            | -                         |
-| Show do Imperador       | 3            | -                                    | -                         |
+| Habilidade          | Custo de PHs | Requisitos de Atributos              | Requisitos de Habilidades |
+| ------------------- | ------------ | ------------------------------------ | ------------------------- |
+| Provação            | 1            | -                                    | -                         |
+| Riposta             | 1            | 2 de Destreza                        | -                         |
+| Ataque Carregado    | 1            | -                                    | -                         |
+| Dualidade Militar   | 1            | 4 de Força e 4 de Destreza           | -                         |
+| Dança Combatente    | 1            | 2 de Força ou de Destreza            | -                         |
+| Pressa de Batalha   | 1            | 2 de Força ou de Destreza            | -                         |
+| Mente Calma         | 1            | 3 de Sabedoria                       | -                         |
+| Ataque Afortunado   | 1            | 3 de Força ou de Destreza            | "Sorte" de Custo 1        |
+| Inércia             | 1            | 5 de Força, Constituição ou Destreza | -                         |
+| Foco de Ataque      | 1            | 2 de Força ou de Destreza            | -                         |
+| Infiltrador         | 1            | 4 de Força ou de Destreza            | -                         |
+| Golpe Duplo         | 2            | 4 de Força ou de Destreza            | -                         |
+| Dilacerar           | 2            | 4 de Força                           | -                         |
+| Nove Vidas          | 2            | 5 de Destreza                        | -                         |
+| Risco e Recompensa  | 2            | -                                    | -                         |
+| Rajada de Estocadas | 2            | 3 de Força ou de Destreza            | -                         |
+| Estilo de Luta      | 2            | 3 de Força e 3 de Destreza           | -                         |
+| Golpe Triplo        | 2            | -                                    | "Golpe Duplo" de Custo 2  |
+| Flanco Tático       | 3            | 5 de Força ou de Destreza            | -                         |
+| Show do Imperador   | 3            | -                                    | -                         |
+
+### Provação
+
+Você é forjado pela batalha e pelas conquistas, portanto necessita delas para atingir patamares cada vez maiores de poder.
+
+**Custo de PHs**: 1
+
+- **Provação** (Passiva): você passará por duas Provações ao longo da sua jornada. Cada Provação anulará uma das Penalidades de Ataque. Ao anular a primeira Penalidade de Ataque, a segunda ainda permanece, ou seja, você ainda terá -5 para acertar o terceiro Ataque consecutivo em um único Turno. Essa Habilidade só anula as Penalidades de Ataques Físicos. Você só poderá realizar a Segunda Provação ao finalizar a Primeira Provação.
+  - **Primeira Provação**: você precisará enfrentar uma Criatura Lendária sem cair a 0 PVs em nenhum momento. Confira o Capítulo 7.3 - Criaturas para mais detalhes.
+  - **Segunda Provação**: ao atingir o valor 10 em Constituição, Destreza, ou Força, você poderá passar por essa Provação. Você deve finalizar um combate ou exploração onde a recompensa seja um Item Especial de Patamar 3. Comprar o item ou adquiri-lo de outra maneira não conclui essa Provação.
 
 ### Riposta
 
@@ -35,12 +44,6 @@ O Arquétipo do Guerreiro Marcial contém Habilidades relacionadas ao combate f�
 **Custo de PHs**: 1
 
 - **Ataque Carregado** (Ativa | Custo de Ações: Três Ações | Custo de Mana: 5 PMs | Alvo: uma criatura): você carrega seu próximo Ataque Corpo a Corpo, fazendo com que ele cause mais dano e deixe o alvo Atordoado caso ele falhe em uma Salvaguarda de Constituição. Você realiza o Ataque e, se acertar, rola o dano normal e adiciona Grau 5 + seu Nível a mais ao dano. O alvo faz a Salvaguarda apenas se o Ataque acertar.
-
-### Ataque Extra Aprimorado
-
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Força ou de Destreza | **Requisitos de Habilidades**: "Ataque Extra" de Custo 3
-
-- **Ataque Extra Aprimorado** (Passiva): você não sofre mais Penalidades de Ataque.
 
 ### Dualidade Militar
 
@@ -138,12 +141,6 @@ Escolha um dos seguintes estilos de luta. Essa escolha é permanente.
 **Custo de PHs**: 2 | **Requisitos de Habilidades**: "Golpe Duplo" de Custo 2
 
 - **Golpe Triplo** (Ativa | Custo de Ações: Ação Livre | Custo de Mana: 5 PMs): você ataca uma terceira vez, causando a mesma quantidade de dano do segundo Ataque realizado por Golpe Duplo.
-
-### Ataque Extra
-
-**Custo de PHs**: 3 | **Requisitos de Atributos**: 5 de Força ou de Destreza
-
-- **Ataque Extra** (Passiva): você pode realizar dois Ataques seguidos sem se preocupar com a primeira Penalidade de Ataque. Ou seja, o segundo Ataque não recebe a penalidade de -5 no BA. Por conseguinte, o terceiro Ataque recebe uma penalidade de -5, e não de -10.
 
 ### Flanco Tático
 
