@@ -254,9 +254,7 @@ A sua resiliência acima do normal é notória.
 
 ### Supremo Protetor
 
-**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Constituição
-
-Você precisa estar no Nível 12 ou superior para adquirir esta Habilidade.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Constituição | **Outros Requisitos**: estar no Nível 12 ou superior
 
 Após muitas batalhas e desafios, você sente que está se aproximando do seu auge como defensor da equipe.
 

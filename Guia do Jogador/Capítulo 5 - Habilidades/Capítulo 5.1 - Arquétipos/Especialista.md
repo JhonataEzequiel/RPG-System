@@ -24,9 +24,7 @@ Conhecer a si mesmo é tão importante quanto conhecer o seu oponente.
 
 ### Arte Nobre
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma
-
-Você só pode adquirir esta Habilidade no Nível 14, e apenas se não tiver outro Atributo com valor 10.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma | **Outros Requisitos**: estar no Nível 14; não ter outro Atributo com valor 10
 
 - **Arte Nobre** (Passiva | Requisitos de Uso: não ter outro Atributo com valor 10): você pode aumentar o Atributo de valor 10 além do LA, até o valor 20.
 

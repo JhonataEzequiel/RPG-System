@@ -28,9 +28,7 @@ O Arquétipo do Mago contém Habilidades que beneficiam usuários de Magias de f
 
 ### Historiador Curioso
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano
-
-Você precisa ser Perito em Erudição para adquirir esta Habilidade.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano | **Outros Requisitos**: ser Perito em Erudição
 
 - **Historiador Curioso** (Passiva): sempre que estiver em um local nunca antes visitado, você tem Vantagem no primeiro Teste de Erudição que realizar. Além disso, você tem +2 no BA de Percepção em locais escuros e cavernosos, como masmorras e ruínas.
 
@@ -81,9 +79,7 @@ Caso a descrição de uma Magia mencione especificamente que seus aliados també
 
 ### Conhecedor Arcano
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Arcano
-
-Você precisa ter um Grimório para adquirir esta Habilidade.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 4 de Arcano | **Outros Requisitos**: ter um Grimório
 
 - **Conhecedor Arcano** (Passiva): você é dedicado ao estudo do arcano, e por isso a sua capacidade mental é aprimorada. Ao adquirir esta Habilidade, você escolhe duas Magias atualmente anotadas no Grimório e as aprende. Elas passam a fazer parte das suas Magias Conhecidas, aumentando o número delas em 2, e não podem ser trocadas depois.
     

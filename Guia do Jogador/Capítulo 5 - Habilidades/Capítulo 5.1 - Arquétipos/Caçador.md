@@ -85,9 +85,7 @@ A sua pontaria é incrementada devido à sua experiência com Armas à Distânci
 
 ### Preparar Terreno
 
-**Custo de PHs**: 1
-
-Você precisa ser Perito em Natureza ou em Ladroagem.
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Natureza ou em Ladroagem
 
 - **Preparar Terreno** (Passiva): você pode preparar uma Armadilha realizando um Teste de Natureza ou de Ladroagem. A Armadilha é feita com base no ambiente em que você se encontra, utilizando, muitas vezes, materiais encontrados ali. Você leva 10 minutos para preparar cada Armadilha. O seu limite de Armadilhas montadas é igual à metade do seu BP por Descanso Longo. Ou seja, você pode montar mais ao ter um Descanso Longo, e as que você já montou não são afetadas. O custo para montar uma Armadilha é gratuito. As Armadilhas ficam fixas no local de montagem, mas não somem com o tempo. Você sempre se lembra de onde deixa as suas Armadilhas.
     
@@ -151,9 +149,7 @@ O projétil parece ter vida própria, perseguindo o alvo mesmo que ele fuja.
 
 ### Morte Branca
 
-**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Destreza | **Requisitos de Habilidades**: "Centena de Alvos" de Custo 2
-
-Você precisa ser Proficiente em Armas à Distância.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Destreza | **Requisitos de Habilidades**: "Centena de Alvos" de Custo 2 | **Outros Requisitos**: ser Proficiente em Armas à Distância
 
 - **Morte Branca** (Passiva): se você estiver a pelo menos 90 metros de distância de uma criatura e realizar um Ataque à Distância, você causa Grau 10 a mais de dano. A cada 30 metros além desses 90, você adiciona Grau 5 de Dano Perfurante ao Ataque. Se você estiver Furtivo antes de Atacar a uma distância mínima de 90 metros e acertar o alvo com pelo menos 3 pontos a mais em relação à CA dele, você não deixa de estar Furtivo.
     

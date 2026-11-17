@@ -1,22 +1,20 @@
 O Arquétipo do Druida representa o habitante e defensor das florestas e matas, que consegue invocar as forças da natureza para o seu auxílio.
 
-| Habilidade             | Custo de PHs | Requisitos de Atributos         | Requisitos de Habilidades           |
-| ---------------------- | ------------ | ------------------------------- | ----------------------------------- |
-| Sentir Fauna e Flora   | 1            | 1 de Sabedoria e 1 de Carisma   | -                                   |
-| Druídico               | 1            | 2 de Sabedoria e 1 de Carisma   | -                                   |
-| Força Animal           | 1            | 3 de Carisma                    | -                                   |
-| Vida em Abundância     | 1            | 3 de Sabedoria e 3 de Carisma   | -                                   |
-| Grande Sábio           | 2            | 6 de Sabedoria e 2 de Carisma   | -                                   |
-| Instrumento de Agência | 2            | 6 de Sabedoria e 4 de Carisma   | "Grande Sábio" de Custo 2           |
-| Ondas do Mar           | 3            | 8 de Sabedoria e 7 de Carisma   | "Instrumento de Agência" de Custo 2 |
-| Sutileza Selvagem      | 3            | 10 de Sabedoria e 10 de Carisma | "Ondas do Mar" de Custo 3           |
-| Murucututu             | 3            | 10 de Sabedoria e 10 de Carisma | -                                   |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
+|---|---|---|---|
+|Sentir Fauna e Flora|1|1 de Sabedoria e 1 de Carisma|-|
+|Druídico|1|2 de Sabedoria e 1 de Carisma|-|
+|Força Animal|1|3 de Carisma|-|
+|Vida em Abundância|1|3 de Sabedoria e 3 de Carisma|-|
+|Grande Sábio|2|6 de Sabedoria e 2 de Carisma|-|
+|Instrumento de Agência|2|6 de Sabedoria e 4 de Carisma|"Grande Sábio" de Custo 2|
+|Ondas do Mar|3|8 de Sabedoria e 7 de Carisma|"Instrumento de Agência" de Custo 2|
+|Sutileza Selvagem|3|10 de Sabedoria e 10 de Carisma|"Ondas do Mar" de Custo 3|
+|Murucututu|3|10 de Sabedoria e 10 de Carisma|-|
 
 ### Sentir Fauna e Flora
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Sabedoria e 1 de Carisma
-
-Você precisa ser Perito em Natureza.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Sabedoria e 1 de Carisma | **Outros Requisitos**: ser Perito em Natureza
 
 - **Sentir Fauna e Flora** (Ativa | Custo de Ações: Ação Bônus | Alvo: você | Limite de Usos: uma vez por Descanso Curto): ao estar em contato com a natureza, em especial com fauna e flora abundantes, como em uma floresta, você pode realizar um Teste de Natureza. Você absorve um pouco da energia ao seu redor, recebendo metade do resultado do Teste como PVs Temporários. Não há Falha Crítica nem Sucesso Crítico nesse Teste.
 
@@ -68,8 +66,6 @@ Você convoca os espíritos da natureza, que o fortalecem com a força de divers
 
 ### Murucututu
 
-**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria e 10 de Carisma
-
-Você precisa ser Perito em Percepção.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Sabedoria e 10 de Carisma | **Outros Requisitos**: ser Perito em Percepção
 
 - **Murucututu** (Passiva): você sempre é bem-sucedido em Testes de Atletismo para escalar árvores e outras estruturas naturais. A sua percepção é muito mais aguçada do que a da maioria das pessoas: você não pode ser alvo de Ataques de Oportunidade e consegue enxergar criaturas com a Condição Invisível. Sempre que realizar um Ataque de Oportunidade, você tem +3 no BA. Além disso, a sua Margem de Ameaça aumenta em 1 ponto.

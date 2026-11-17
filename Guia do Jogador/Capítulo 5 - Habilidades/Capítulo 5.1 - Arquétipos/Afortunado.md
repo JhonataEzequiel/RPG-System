@@ -18,17 +18,15 @@ O Arquétipo do Afortunado contém Habilidades relacionadas à manipulação de 
 
 - **Atributo Sorte** (Passiva): você agora possui um oitavo Atributo chamado Sorte. Sorte é um Atributo especial e pode ser aumentado gastando Pontos de Atributo como qualquer outro Atributo. O valor inicial de Sorte é 0, o mínimo é -10 e o máximo é 20. A sigla do Modificador de Sorte é "Sor".
 - **Somar Sorte** (Passiva | Limite de Usos: três vezes por Descanso Longo): você pode adicionar o seu valor de Sorte a qualquer Teste que for realizar. Você deve adicionar esse valor antes de rolar o Teste.
-- **Rolar Novamente** (Passiva | Limite de Usos: uma quantidade de vezes igual ao seu Modificador de Sorte por Descanso Longo): você pode rolar novamente qualquer rolagem. Uma rolagem que envolva múltiplos dados simultaneamente — como Grau 10 de dano de uma Magia — conta como um único uso, independentemente da quantidade de dados envolvidos. Após rolar novamente, você escolhe qual dos resultados utilizar.
+- **Rolar Novamente** (Passiva | Limite de Usos: uma quantidade de vezes igual ao seu Modificador de Sorte por Descanso Longo): você pode rolar novamente qualquer rolagem. Uma rolagem que envolva múltiplos dados simultaneamente, como Grau 10 de dano de uma Magia, conta como um único uso, independentemente da quantidade de dados envolvidos. Após rolar novamente, você escolhe qual dos resultados utilizar.
 
 ### Vida de Gato
 
-**Custo de PHs**: 1
-
-Você só pode adquirir esta Habilidade no Nível 1.
+**Custo de PHs**: 1 | **Outros Requisitos**: estar no Nível 1
 
 - **Vida de Gato** (Passiva | Limite de Usos: nove vezes): você não pode mais ter a Condição Morrendo, se tornando Imune a ela. Sempre que seus PVs chegarem a 0, em vez de ficar Morrendo, você fica com 1 PV e tem a Condição Caído. Você é miraculosamente salvo da morte nessas nove vezes, escapando até dos piores desastres.
     
-    Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa", os usos desta Habilidade são restaurados. Caso contrário, não são restaurados. Ao perder todos os usos, você morre na próxima vez que cair para 0 PVs. Caso você seja um Revenã Esqueleto, a Habilidade "Se Juntar" tem prioridade em relação à essa.
+    Caso você morra e seja revivido especificamente pela Magia Sagrada "Ressurreição Completa", os usos desta Habilidade são restaurados. Caso contrário, não são restaurados. Ao perder todos os usos, você morre na próxima vez que cair para 0 PVs. Caso você seja um Revenã Esqueleto, a Habilidade "Se Juntar" tem prioridade em relação a esta.
     
 
 ### Distopia

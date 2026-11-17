@@ -5,7 +5,7 @@ Este documento define como toda Habilidade é escrita, tanto as adquiridas com P
 ```
 ### Nome da Habilidade
 
-**Custo de PHs**: X | **Requisitos de Atributos**: Y | **Requisitos de Habilidades**: Z
+**Custo de PHs**: X | **Requisitos de Atributos**: Y | **Requisitos de Habilidades**: Z | **Outros Requisitos**: W
 
 Descrição geral: regras que valem para todos os efeitos da Habilidade.
 
@@ -24,6 +24,25 @@ O cabeçalho reúne apenas o que vale para a Habilidade inteira. Os requisitos d
 |Custo de PHs|De 1 a 3.|
 |Requisitos de Atributos|O nome de cada Atributo exigido e o valor mínimo, como em "3 de Arcano, Vínculo ou Carisma". As siglas não são usadas aqui, pois denotam Modificadores. Omitido se não houver requisitos.|
 |Requisitos de Habilidades|Cada Habilidade que precisa ser adquirida antes, com o nome entre aspas e o custo dela, no formato "Nome da Habilidade Requerida" de Custo X. Quando a Habilidade requerida pertence a outro Arquétipo, o Arquétipo também é indicado, no formato "Nome da Habilidade Requerida" de Custo X do Arquétipo Y. Havendo mais de uma, são separadas por vírgulas. Omitido se não houver requisitos.|
+|Outros Requisitos|Todo requisito de aquisição que não seja de Atributos nem de Habilidades, como um Nível mínimo, ser Perito em uma Perícia, ser Proficiente em um tipo de Arma, ter um item ou não ter adquirido determinada Habilidade. Cada requisito é escrito no infinitivo, como em "ser Perito em Erudição". Havendo mais de um, são separados por ponto e vírgula. Omitido se não houver requisitos.|
+
+## Outros Requisitos
+
+Este campo é sempre o último do cabeçalho e reúne os requisitos de aquisição que não aparecem na maioria das Habilidades. Assim como os demais requisitos do cabeçalho, eles só são cobrados no momento da aquisição. Por exemplo:
+
+```
+### Memória Perfeita
+
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Erudição
+```
+
+```
+### Arte Nobre
+
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma | **Outros Requisitos**: estar no Nível 14; não ter outro Atributo com valor 10
+```
+
+Não confunda com os Requisitos de Uso. Um item que você só precisa ter no momento de adquirir a Habilidade, como um Grimório, vai em Outros Requisitos. Um item que você precisa ter para que o efeito funcione vai em Requisitos de Uso, no próprio efeito.
 
 ## Efeitos
 
@@ -59,7 +78,7 @@ Itens, equipamentos, estados do personagem e circunstâncias exigidos para usar 
 
 - Campos que não se aplicam a um efeito são omitidos.
 - Quando mais de um efeito da mesma Habilidade tem o mesmo Requisito de Uso, ele é repetido em cada um deles. Efeitos sem o requisito não o recebem.
-- Requisitos de aquisição que não sejam de Atributos nem de Habilidades, como um Nível mínimo ou ser Perito em uma Perícia, ficam na descrição geral, em uma frase como "Você só pode adquirir esta Habilidade no Nível 1." ou "Você precisa ser Perito em Atletismo para adquirir esta Habilidade.".
+- Requisitos de aquisição que não sejam de Atributos nem de Habilidades, como um Nível mínimo ou ser Perito em uma Perícia, ficam no campo Outros Requisitos do cabeçalho, e não na descrição geral.
 - Alcance e Alvo são campos separados. O Alcance traz apenas a distância, e o Alvo traz apenas quem ou o que é afetado, sem mencionar o alcance. Por exemplo, "Alcance: 9 metros | Alvo: múltiplas criaturas", e não "Alvo: criaturas no alcance".
 - Quando o alcance for o Deslocamento, escreve-se apenas "Deslocamento", e não "igual ao seu Deslocamento". A definição está no Capítulo 5 - Habilidades.
 - A descrição geral é omitida quando não há regras que valham para todos os efeitos.

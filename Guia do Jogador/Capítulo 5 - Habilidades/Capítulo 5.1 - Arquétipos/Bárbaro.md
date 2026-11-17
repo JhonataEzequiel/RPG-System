@@ -27,9 +27,7 @@ O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalh
 
 ### Mente Simples
 
-**Custo de PHs**: 1
-
-Você só pode adquirir esta Habilidade no Nível 1.
+**Custo de PHs**: 1 | **Outros Requisitos**: estar no Nível 1
 
 - **Mente Simples** (Passiva): sua Margem de Ameaça aumenta em 12. Ataques Críticos efetuados contra você são considerados apenas Ataques normais. Você também não tem mais Falhas Críticas em nenhum Teste, sendo consideradas agora como Falhas normais.
     
@@ -89,17 +87,13 @@ Você só pode adquirir esta Habilidade no Nível 1.
 
 ### Defesa Sem Armadura
 
-**Custo de PHs**: 1
-
-Esta Habilidade não pode ser adquirida em conjunto com a Habilidade "Canhão de Vidro" de Custo 1.
+**Custo de PHs**: 1 | **Outros Requisitos**: não ter adquirido a Habilidade "Canhão de Vidro" de Custo 1
 
 - **Defesa Sem Armadura** (Passiva | Requisitos de Uso: não estar usando Armadura): sua CA é o máximo entre o dobro do seu BP e 10. Essa fórmula substitui a fórmula padrão. Roupas com efeitos extras podem ser usadas em conjunto com essa Habilidade, desde que não influenciem na CA, seja através de um efeito passivo, ou de Escalas. Caso você deseje, pode utilizar essas vestes ainda, em troca de não receber CA delas.
 
 ### À Moda Antiga
 
-**Custo de PHs**: 1
-
-Você precisa ser Perito em Atletismo para adquirir esta Habilidade.
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Atletismo
 
 - **À Moda Antiga** (Ativa | Custo de Ações: Ação Bônus | Duração: 1 Encontro | Limite de Usos: uma vez por Descanso Curto): você tem -1 no BA de todos os Testes de Perícia que não sejam Atletismo. Em troca, você ganha +2 de Força.
 - **Desativar À Moda Antiga** (Ativa | Custo de Ações: Ação Bônus): você encerra a Habilidade À Moda Antiga antes do fim da duração.
@@ -174,9 +168,7 @@ Você precisa ser Perito em Atletismo para adquirir esta Habilidade.
 
 ### Diamante
 
-**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Força
-
-Você precisa ser Perito em Atletismo para adquirir esta Habilidade.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Força | **Outros Requisitos**: ser Perito em Atletismo
 
 - **Diamante** (Passiva): sua força de preensão aumenta a níveis extremos. Nos seus Testes de Atletismo, você rola o d20 três vezes e fica com o maior resultado. Além disso, você se torna imune a quaisquer tentativas de desarme.
     

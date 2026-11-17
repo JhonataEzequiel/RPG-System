@@ -27,9 +27,7 @@ O Arquétipo do Ladino contém Habilidades características do especialista em F
 
 ### Mercado Negro
 
-**Custo de PHs**: 1
-
-Você só pode adquirir esta Habilidade no Nível 1.
+**Custo de PHs**: 1 | **Outros Requisitos**: estar no Nível 1
 
 Você conhece os pormenores do submundo do crime e é capaz de vender e comprar itens de mercadores ocultos nas vielas das cidades.
 
@@ -42,9 +40,7 @@ Você conhece os pormenores do submundo do crime e é capaz de vender e comprar 
 
 ### Ataque Furtivo
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Destreza
-
-Você precisa ser Perito em Furtividade.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Destreza | **Outros Requisitos**: ser Perito em Furtividade
 
 - **Ataque Furtivo** (Passiva): caso você tenha Vantagem em um Ataque, ele causa um adicional de dano. O tipo do dano adicional é um dos tipos que você consegue causar com a sua Arma, à sua escolha. O Grau do dano adicional é igual ao seu Nível, até o Grau 10, mesmo que você tenha adquirido esta Habilidade em um Nível posterior.
 
@@ -56,17 +52,13 @@ Você precisa ser Perito em Furtividade.
 
 ### Espreitador
 
-**Custo de PHs**: 1
-
-Você precisa ser Perito em Furtividade.
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Furtividade
 
 - **Espreitador** (Passiva | Requisitos de Uso: estar adjacente a um aliado): você tem Vantagem em Testes de Furtividade.
 
 ### Ladrão
 
-**Custo de PHs**: 1
-
-Você precisa ser Perito em Ladroagem.
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Ladroagem
 
 - **Ladrão** (Passiva): nos Testes de Ladroagem, você utiliza o seu valor de Destreza, em vez do Modificador, no BA. No entanto, você tem -5 de CA ao receber um Ataque de Oportunidade.
 
@@ -87,9 +79,7 @@ Você precisa ser Perito em Ladroagem.
 
 ### Gatuno
 
-**Custo de PHs**: 1
-
-Você precisa ser Perito em Furtividade.
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Furtividade
 
 - **Gatuno** (Passiva): ao adquirir esta Habilidade, você escolhe uma das opções a seguir. A escolha não pode ser desfeita:
     
@@ -128,7 +118,7 @@ A sua especialidade é se encaixar em diferentes contextos e se disfarçar entre
 
 **Custo de PHs**: 3 | **Requisitos de Habilidades**: "Ataque Furtivo Aprimorado" de Custo 3
 
-- **Furtividade das Sombras** (Ativa | Custo de Ações: Reação | Custo de Mana: 35 PMs | Alcance: Deslocamento | Alvo: todos os inimigos no alcance | Requisitos de Uso: iniciar um Encontro Furtivo e ser o primeiro na Iniciativa): você pode Atacar todos os inimigos no alcance. Esses Ataques são considerados Ataques Furtivos. Você precisa rolar apenas um Ataque, cuja dificuldade é a maior CA entre os inimigos. Você não tem Vantagem nessa rolagem.
+- **Furtividade das Sombras** (Ativa | Custo de Ações: Reação | Custo de Mana: 35 PMs | Alcance: Deslocamento | Alvo: todos os inimigos | Requisitos de Uso: iniciar um Encontro Furtivo e ser o primeiro na Iniciativa): você pode Atacar todos os inimigos no alcance. Esses Ataques são considerados Ataques Furtivos. Você precisa rolar apenas um Ataque, cuja dificuldade é a maior CA entre os inimigos. Você não tem Vantagem nessa rolagem.
 
 ### Maior Vigarice
 

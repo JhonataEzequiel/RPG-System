@@ -19,17 +19,13 @@ O Arquétipo do Polímata diz respeito a Habilidades que não necessariamente pe
 
 ### Riqueza Inicial
 
-**Custo de PHs**: 1
-
-Você só pode adquirir esta Habilidade no Nível 1.
+**Custo de PHs**: 1 | **Outros Requisitos**: estar no Nível 1
 
 - **Riqueza Inicial** (Passiva): você tem +150 PO disponíveis para adquirir o seu Equipamento Inicial. Você pode adquirir esta Habilidade múltiplas vezes.
 
 ### Bom Início
 
-**Custo de PHs**: 1
-
-Você só pode adquirir esta Habilidade no Nível 1.
+**Custo de PHs**: 1 | **Outros Requisitos**: estar no Nível 1
 
 - **Bom Início** (Passiva): você recebe mais 1 Ponto de Atributo para alocar como quiser, respeitando o LA, além de Grau 2 de PVs Máximos.
 
@@ -90,9 +86,7 @@ Você aprendeu uma maneira de transferir conhecimento apenas por ter uma alianç
 
 ### Reserva Extra
 
-**Custo de PHs**: 2
-
-Você precisa estar no Nível 10 ou superior para adquirir esta Habilidade.
+**Custo de PHs**: 2 | **Outros Requisitos**: estar no Nível 10 ou superior
 
 - **Reserva Extra** (Passiva): escolha um Modificador entre Arc, Vin ou Car. Para cada ponto nesse Modificador, você aumenta os seus PMs Máximos em 4. Esse ganho não cessa: sempre que aumentar o Modificador escolhido ao evoluir seus Atributos, você recebe +4 de PMs Máximos.
 

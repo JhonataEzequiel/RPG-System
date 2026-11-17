@@ -12,9 +12,7 @@ O Arquétipo do Ferreiro governa todas as Habilidades relacionadas à confecçã
 
 ### Ferraria
 
-**Custo de PHs**: 1
-
-Você precisa ser Perito em Atletismo ou em Erudição para adquirir esta Habilidade.
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Atletismo ou em Erudição
 
 O tempo para forjar um item aumenta conforme o Peso dele:
 
