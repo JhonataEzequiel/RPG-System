@@ -1,70 +1,75 @@
+O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias Sanguíneas ou que têm uma temática similar.
 
-O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias de Sangue, ou que tem uma temática similar.
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Economia de Sangue|1|3 de Arcano e 3 de Vínculo|-|-|
+|Sacrifício|1|2 de Arcano e 2 de Vínculo|-|-|
+|Hemomancia Venenosa|1|2 de Arcano e 2 de Vínculo|-|-|
+|Tipo AB|1|5 de Arcano e 1 de Vínculo|-|não ter adquirido a Habilidade "Tipo O" de Custo 1|
+|Tipo O|1|1 de Arcano e 5 de Vínculo|-|não ter adquirido a Habilidade "Tipo AB" de Custo 1|
+|Oferenda|2|2 de Arcano e 5 de Vínculo|-|-|
+|Sólido de Vigor|2|4 de Arcano e 4 de Vínculo|-|-|
+|Veneno Potente Carmesim|3|7 de Arcano e 7 de Vínculo|"Hemomancia Venenosa" de Custo 1|-|
+|Cura Carmesim|3|10 de Arcano e 10 de Vínculo|"Tipo O" de Custo 1|-|
+|Roubo de Vida|3|10 de Arcano e 10 de Vínculo|"Tipo AB" de Custo 1|-|
 
-## Economia de Sangue (Custo 1)
+### Economia de Sangue
 
-**Requisitos**: 3 de Inteligência, 3 de Fé.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 3 de Arcano e 3 de Vínculo
 
-Sempre que precisar rolar um dado para decidir quantos Pontos de Vida serão sacrificados ao conjurar uma Magia de Sangue você diminui o resultado em 1d4 (mínimo de 1 ponto sacrificado).
+- **Economia de Sangue** (Passiva): sempre que precisar rolar um dado para decidir quantos PVs serão sacrificados ao conjurar uma Magia Sanguínea, você diminui o resultado em Grau 1, com um mínimo de 1 PV sacrificado.
 
-## Sacrifício (Custo 1)
+### Sacrifício
 
-**Requisitos**: 2 de Fé, 2 de Inteligência.
-**Custo**: Uma Ação, 5 de Mana.
-**Duração**: 3 Rodadas.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Arcano e 2 de Vínculo
 
-Uma vez por Encontro, você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo, ficando com 1 Ponto de Vida. Todo Ataque feito por você será considerado um Ataque Crítico. Com três Ações (ou quando a duração acabar), você restaura os seus Pontos de Vida perdidos e encerra a ativação dessa Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
+- **Sacrifício** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 5 PMs | Alvo: você | Duração: 3 Rodadas | Limite de Usos: uma vez por Encontro): você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo e ficando com 1 PV. Todo Ataque seu é considerado um Ataque Crítico. Quando a duração acabar, os efeitos de "Encerrar Sacrifício" são aplicados.
+- **Encerrar Sacrifício** (Ativa | Custo de Ações: Três Ações | Alvo: você | Requisitos de Uso: a Habilidade "Sacrifício" estar ativa): você restaura os PVs perdidos e encerra a Habilidade "Sacrifício", mas tem Desvantagem em Ataques na próxima Rodada.
 
-## Hemomancia Venenosa (Custo 1)
+### Hemomancia Venenosa
 
-**Requisitos**: 2 de Inteligência, 2 de Fé.
-**Custo**: Reação, 1 de Mana.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Arcano e 2 de Vínculo
 
-Ao causar Dano Cortante ou Perfurante com seus Ataques corpo a corpo você pode escorrer parte do seu sangue para dentro do alvo, causando Dano Venenoso igual a duas vezes os Pontos de Vida que desejar gastar. Os Pontos de Vida sacrificados não podem ser recuperados enquanto o Encontro não acabar. O máximo de Pontos de Vida gastos por instância dessa Habilidade é de 10 + Fth + Int.
+- **Hemomancia Venenosa** (Ativa | Custo de Ações: Reação | Custo de Mana: 1 PM | Alvo: uma criatura | Requisitos de Uso: ter causado Dano Cortante ou Perfurante ao alvo com um Ataque Corpo a Corpo): você escorre parte do seu sangue para dentro do alvo, causando Dano Venenoso igual ao dobro dos PVs que desejar gastar. Os PVs sacrificados não podem ser recuperados até o fim do Encontro. O máximo de PVs gastos por instância desta Habilidade é 10 + Vin + Arc.
 
-## Tipo AB (Custo 1)
+### Tipo AB
 
-**Requisitos**: 5 de Inteligência, 1 de Fé.
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Arcano e 1 de Vínculo | **Outros Requisitos**: não ter adquirido a Habilidade "Tipo O" de Custo 1
 
-Você agora pode utilizar o sangue de um aliado ao invés do seu ao conjurar Magias de Sangue que peçam por Pontos de Vida para serem conjuradas. O aliado sofrerá o dano padrão requerido pela Magia, acrescido de 1d6 de Dano Verdadeiro de Sangue por conjuração.
+- **Tipo AB** (Passiva | Alvo: um aliado): você pode utilizar o sangue de um aliado em vez do seu ao conjurar Magias Sanguíneas que exijam o sacrifício de PVs. O aliado sofre o dano padrão requerido pela Magia, acrescido de Grau 2 de Dano Sanguíneo por conjuração.
 
-Essa Habilidade não pode ser escolhida se você já tiver a Habilidade "Tipo O" de Custo 1.
+### Tipo O
 
-## Tipo O (Custo 1)
+**Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano e 5 de Vínculo | **Outros Requisitos**: não ter adquirido a Habilidade "Tipo AB" de Custo 1
 
-**Requisitos**: 5 de Fé, 1 de Inteligência.
-**Custo**: Uma Ação, 1 de Mana.
+- **Tipo O** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Alvo: um aliado): você doa parte do seu sangue ao alvo. Você gasta uma quantidade de PVs à sua escolha, e o alvo é curado pelo dobro da quantidade gasta. Ao atingir o valor 7 de Vínculo, ele é curado pelo triplo. Ao atingir o valor 10 de Vínculo e de Arcano, ele é curado pelo quádruplo.
 
-Você pode doar parte do seu sangue para um aliado. Você gasta uma quantidade de Pontos de Vida à sua escolha, e seu aliado é curado pelo dobro da quantidade gasta. No Nível 8 de Fé, ele será curado pelo triplo. No Nível 10 de Fé e Inteligência, ele será curado por quatro vezes a quantidade gasta.
+### Oferenda
 
-Essa Habilidade não pode ser escolhida se você já tiver a Habilidade "Tipo AB" de Custo 1.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 2 de Arcano e 5 de Vínculo
 
-## Oferenda (Custo 2)
+- **Oferenda** (Passiva | Duração: até o fim do próximo Encontro): ao ter um Descanso, você sempre sacrifica Grau 5 de PVs como oferenda. Você pode escolher se fará isso para uma divindade, para uma entidade diferente ou como um voto pessoal para algum ideal. Você recebe +2 no BP pela duração. Você pode escolher parar de fazer oferendas quando quiser, assim como retomá-las.
 
-**Requisitos**: 2 de Inteligência, 5 de Fé.
+### Sólido de Vigor
 
-Quando tiver um Descanso você sempre irá sacrificar 2d4 Pontos de Vida como oferenda. Você pode escolher se fará isso para uma divindade, uma entidade diferente, ou como um voto pessoal para algum ideal. Você obtém +2 no seu Bônus de Proficiência até o fim do próximo Encontro. Você pode escolher parar de fazer oferendas quando quiser, assim como retomá-las.
+**Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Arcano e 4 de Vínculo
 
-## Sólido de Vigor (Custo 2)
+- **Sólido de Vigor** (Passiva): você pode sacrificar 40 PVs e dedicar 8 horas para criar uma Pedra de Infusão qualquer por meio do seu sangue (veja o Capítulo 4.6 - Aprimoramento e Infusões). O sangue se transmuta e se materializa com novas propriedades mágicas, mas retém uma coloração avermelhada.
 
-**Requisitos**: 4 de Inteligência, 4 de Fé.
+### Veneno Potente Carmesim
 
-Você agora pode sacrificar 40 Pontos de Vida e 8 horas para criar uma Pedra de Infusão qualquer através de seu sangue. O sangue se transmuta e se materializa com novas propriedades mágicas, mas retém uma coloração avermelhada.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 7 de Arcano e 7 de Vínculo | **Requisitos de Habilidades**: "Hemomancia Venenosa" de Custo 1
 
-## Veneno Potente Carmesim (Custo 3)
+- **Veneno Potente Carmesim** (Passiva): o Dano Venenoso causado pela Habilidade "Hemomancia Venenosa" passa a ser o triplo dos PVs gastos, em vez do dobro.
 
-**Requisitos**: Habilidade "Hemomancia Venenosa" de Custo 1. 7 de Inteligência, 7 de Fé.
+### Cura Carmesim
 
-Agora todo dano adicional causado pela Habilidade "Hemomancia Venenosa" não será o dobro dos Pontos de Vida gastos, mas o triplo.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Vínculo | **Requisitos de Habilidades**: "Tipo O" de Custo 1
 
-## Cura Carmesim (Custo 3)
+- **Cura Carmesim** (Passiva): ao curar um aliado em pelo menos 50 PVs com a Habilidade "Tipo O", você também adiciona o seu BP à cura. O BP não é multiplicado pela Habilidade "Tipo O".
 
-**Requisitos**: Habilidade "Tipo O" de Custo 1. 10 de Inteligência, 10 de Fé.
+### Roubo de Vida
 
-Ao curar um aliado com a Habilidade Tipo O, você também adicionará seu Bônus de Proficiência e seu Nível à cura. Esses valores adicionais não serão multiplicados.
+**Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Vínculo | **Requisitos de Habilidades**: "Tipo AB" de Custo 1
 
-## Roubo de Vida (Custo 3)
-
-**Requisitos**: Habilidade "Tipo AB" de Custo 1. 10 de Inteligência, 10 de Fé.
-
-Você agora absorve o sangue de criaturas ao acertar um Ataque nelas. Você se cura em 1d4 sempre que acertar um Ataque em um alvo. O alvo não pode ser Imune a Dano Verdadeiro de Sangue para que essa Habilidade tenha efeito.
+- **Roubo de Vida** (Passiva | Alvo: uma criatura | Requisitos de Uso: o alvo não ser Imune a Dano Sanguíneo): você absorve o sangue de criaturas ao acertar um Ataque nelas. Você se cura em Grau 1 sempre que acertar um Ataque no alvo.

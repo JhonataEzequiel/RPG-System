@@ -1,127 +1,128 @@
+O Arquétipo do Parágono diz respeito ao indivíduo que atingiu o ápice de suas capacidades naturais, servindo como modelo para a sua espécie.
 
-O Arquétipo do Parágono diz respeito ao indivíduo que atingiu o ápice de suas capacidades naturais, servindo como modelo para sua espécie.
+| Habilidade                          | Custo de PHs | Requisitos de Atributos | Requisitos de Habilidades | Outros Requisitos                                    |
+| ----------------------------------- | ------------ | ----------------------- | ------------------------- | ---------------------------------------------------- |
+| Artesão de Runas                    | 3            | -                       | -                         | ser Anão; estar no Nível 10 ou superior              |
+| Adaptação Élfica Superior           | 3            | -                       | -                         | ser Alto Elfo; estar no Nível 10 ou superior         |
+| Visão Melhorada                     | 3            | -                       | -                         | ser Elfo da Floresta; estar no Nível 10 ou superior  |
+| Onipresença                         | 3            | -                       | -                         | ser Elfo Negro; estar no Nível 10 ou superior        |
+| Muralha de Cristal                  | 3            | -                       | -                         | ser Gnomo Feérico; estar no Nível 10 ou superior     |
+| Floresta Interior                   | 3            | -                       | -                         | ser Gnomo da Natureza; estar no Nível 10 ou superior |
+| Pequeno Prodígio                    | 3            | -                       | -                         | ser Halfling; estar no Nível 10 ou superior          |
+| Potencial Infinito                  | 3            | -                       | -                         | ser Humano; estar no Nível 10 ou superior            |
+| Aurora Aprimorada                   | 3            | -                       | -                         | ser Siderium Diurno; estar no Nível 10 ou superior   |
+| Crepúsculo                          | 3            | -                       | -                         | ser Siderium Noturno; estar no Nível 10 ou superior  |
+| Resiliência de Tartaruga            | 3            | -                       | -                         | ser Tártaro; estar no Nível 10 ou superior           |
+| Transmutar Essência                 | 3            | -                       | -                         | ser Cait-Sith; estar no Nível 10 ou superior         |
+| Barriga de Sapo                     | 3            | -                       | -                         | ser Gama; estar no Nível 10 ou superior              |
+| Espectro Final                      | 3            | -                       | -                         | ser Okuri; estar no Nível 10 ou superior             |
+| Atestado de Vida                    | 3            | -                       | -                         | ser Revenã Zumbi; estar no Nível 10 ou superior      |
+| Esqueleto Assustador e Amedrontador | 3            | -                       | -                         | ser Revenã Esqueleto; estar no Nível 10 ou superior  |
 
-## Runa de Jade (Custo 3)
+### Artesão de Runas
 
-**Requisitos**: Você é um Anão de Nível 10 ou superior.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Anão; estar no Nível 10 ou superior
 
-Você agora tem acesso a uma quarta Runa, a Runa de Jade, que pode ser aplicada em qualquer objeto que possa ser equipado. As regras anteriores de não poder ter mais de uma Runa em um único objeto ainda são válidas. 
+- **Artesão de Runas** (Passiva): você ganha uma segunda cópia de cada uma das suas Runas Mágicas. As cópias só podem ser colocadas em equipamentos diferentes dos das Runas originais e seguem as mesmas regras delas.
 
-A Runa de Jade concede um Ponto de Atuação por dia para quem estiver com o objeto em que a Runa está colocada equipado. Esse Ponto de Atuação some ao ter um Descanso Longo, e você recebe um novo ponto.
+### Adaptação Élfica Superior
 
-Essa Runa só é ativa se todas as outras estiverem ativas. Ao desativar essa Runa ou qualquer uma das outras, o Ponto de Atuação é perdido, e pode ser recuperado ao ativá-las novamente e ter um Descanso Longo.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Alto Elfo; estar no Nível 10 ou superior
 
-## Adaptação Élfica Superior (Custo 3)
+- **Adaptação Élfica Superior** (Passiva): ao falhar em um Teste, você recebe +2 de BA no seu próximo Teste, em vez de +1. As demais regras da Adaptação Élfica permanecem.
 
-**Requisitos**: Você é um Alto Elfo de Nível 10 ou superior.
+### Visão Melhorada
 
-O limite de uma vez ao dia para a Adaptação Élfica é removido. Você agora pode usar quantas vezes quiser.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Elfo da Floresta; estar no Nível 10 ou superior
 
-## Visão Melhorada (Custo 3)
+- **Visão Melhorada** (Passiva): sempre que usar a sua Habilidade Olheiro, você é o primeiro na Iniciativa, em vez de receber Vantagem nela.
 
-**Requisitos**: Você é um Elfo da Floresta de Nível 10 ou superior.
+### Onipresença
 
-Você tem os dois efeitos que originalmente você precisava escolher da Visão de Caçador ao mesmo tempo, ou seja, será o primeiro na Iniciativa, e terá +2 no seu Bônus de Proficiência.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Elfo Negro; estar no Nível 10 ou superior
 
-## Onipresença (Custo 3)
+- **Onipresença** (Passiva): o custo de Mana do Teletransporte Curto é reduzido em 3 PMs. Além disso, a sua Margem de Ameaça aumenta em 1 no próximo Ataque que você realizar após se teletransportar, caso Ataque no mesmo Turno em que se teletransportou.
 
-**Requisitos**: Você é um Elfo Negro de Nível 10 ou superior.
+### Muralha de Cristal
 
-Seu limite antigo de se teletransportar duas vezes por Descanso Longo no Nível 14 agora é removido, e você pode fazer isso 4 vezes por Descanso Curto. Você também pode se teletransportar essas 4 vezes já no Nível 10.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Gnomo Feérico; estar no Nível 10 ou superior
 
-## Fantasma Possuidor (Custo 3)
+- **Muralha de Cristal** (Passiva): ao receber dano e ter a sua Proteção das Fadas desfeita, você reflete esse dano totalmente à criatura que o causou, até um máximo igual a três vezes o seu Nível.
 
-**Requisitos**: Você é um Fjer de Nível 10 ou superior.
+### Floresta Interior
 
-Quando você possuir um objeto que naturalmente não pode se mover, você agora pode se mover com ele de acordo com a sua Natureza. Por exemplo, se você possuir uma chave você pode girá-la se estiver na fechadura, sendo capaz de abrir uma porta.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Gnomo da Natureza; estar no Nível 10 ou superior
 
-Você também pode possuir um objeto com uma Reação ao invés de uma Ação Bônus, mas isso só vale para projéteis direcionados a você. Se você possuir um projétil em movimento, você pode mudar a trajetória dele. O mestre pode pedir um Teste para que isso seja possível. Por exemplo, para mudar a trajetória de um projétil você precisaria vencer a resistência do ar passando por um Teste de Atletismo. Nesses casos, as suas estatísticas que contarão, ou seja, você utilizará seu valor de Atletismo, já que o projétil em si não teria um valor. 
+- **Floresta Interior** (Passiva | Limite de Usos: uma vez por Encontro): na primeira vez que alternar entre as formas em um Encontro, você se cura em um valor igual à metade do seu BP. Isso conta como uma instância de cura.
+- **Alternância Ágil** (Passiva): Alternar Forma passa a custar uma Ação Livre, em vez de uma Ação Bônus.
 
-Você agora tem Vantagem em Testes de Ladroagem para desarmar armadilhas se você possuir a armadilha.
+### Pequeno Prodígio
 
-## Muralha de Cristal (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Halfling; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Gnomo Feérico de Nível 10 ou superior.
+- **Pequeno Prodígio** (Passiva): você tem +5 no BA de Testes de Perícias nas quais não é Perito.
+- **Prodígio Dobrado** (Passiva | Limite de Usos: uma vez por Descanso Longo): você dobra todos os bônus do BA de um Teste de Perícia. Você pode escolher fazer isso depois de rolar o Teste.
 
-Ao receber dano e ter sua Proteção das Fadas desfeita, você o reflete. O dano refletido não pode ultrapassar o triplo do seu Nível. Além disso, sua quantidade de Pontos de Vida Temporários para receber o dano de outras fontes que não sejam Ataques aumenta em 10.
+### Potencial Infinito
 
-## Floresta Interior (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Humano; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Gnomo da Natureza de Nível 10 ou superior.
+- **Potencial Infinito** (Passiva): você se torna Perito em uma Perícia adicional e Proficiente em uma Salvaguarda adicional, à sua escolha. O seu BP também aumenta em 2 pontos.
 
-Ao alternar entre as formas, você se cura em uma quantidade de Pontos de Vida igual ao seu Bônus de Proficiência. Espíritos da Floresta agora custa uma Ação Livre ao invés de Ação Bônus, mas ainda encerra seu Turno.
+### Aurora Aprimorada
 
-## Pequeno Prodígio (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Siderium Diurno; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Halfling de Nível 10 ou superior.
+- **Aurora Aprimorada** (Passiva): o limite de cargas de Aurora que você pode ter ao mesmo tempo aumenta em 1.
 
-Você agora pode adicionar metade do seu Bônus de Proficiência à Perícias que você não é Perito. Uma vez ao dia você dobra todos os bônus de um Teste de Perícia. Você pode optar por fazer isso depois de rolar o Teste.
+### Crepúsculo
 
-## Potencial Infinito (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Siderium Noturno; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Humano de Nível 10 ou superior.
+- **Crepúsculo** (Passiva): o Limite de Usos de Brilho Estelar passa a ser uma vez por Encontro, em vez de uma vez por Descanso.
 
-Você se torna Proficiente em:
-- Uma Perícia adicional;
-- Uma Salvaguarda adicional;
-- Um tipo de Arma adicional.
-Seu bônus de Proficiência também aumenta em 2 pontos.
+### Resiliência de Tartaruga
 
-## Aurora (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Tártaro; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Siderium Diurnus de Nível 10 ou superior.
+- **Resiliência de Tartaruga** (Passiva): o seu Deslocamento aumenta em 3 metros, esteja você com o Casco ou sem ele. Você também tem +5 no BA de Testes de Atletismo e ignora os efeitos de Terreno Difícil causados por água ou lama.
 
-Você agora pode utilizar sua Habilidade Helius duas vezes até precisar se energizar novamente. No entanto, os efeitos do Requerimento Luminoso são aumentados. Você receberá 1d10 de Dano Verdadeiro acrescidos ao 1d6 padrão, e Exaustão 3 ao invés de Exaustão 1.
+### Transmutar Essência
 
-## Crepúsculo (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Cait-Sith; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Siderium Nocturnus de Nível 10 ou superior.
+- **Transmutar Essência** (Passiva): a recuperação de PVs do seu Roubo de Vida é dobrada.
 
-O custo de Mana da Luna diminui em 2 pontos. Sempre que usar sua Luna você ganha +6m de Deslocamento até o efeito escolhido da Luna cessar.
+### Barriga de Sapo
 
-## Resiliência de Tartaruga (Custo 3)
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Gama; estar no Nível 10 ou superior
 
-**Requisitos**: Você é um Tártaro de Nível 10 ou superior.
+Você só pode engolir uma criatura por vez.
 
-Seu Deslocamento com ou sem o casco aumenta em 3m. Você agora tem +5 em Testes de Atletismo, e ignora os efeitos de Terreno Difícil ocasionados por água ou lama.
+- **Engolir** (Ativa | Custo de Ações: Duas Ações | Alvo: uma criatura | Requisitos de Uso: estar agarrando uma criatura de Tamanho igual ou inferior ao seu): você tenta engolir o alvo, que precisa passar por uma Salvaguarda de Força. Em caso de sucesso, ele tem Vantagem para se soltar da sua língua. Em caso de falha, você o engole.
+    
+    Uma criatura engolida tem a Condição Incapacitado e sofre Grau 9 de Dano Ácido Contínuo. Ela pode repetir a Salvaguarda no início de cada um dos Turnos dela e, em caso de sucesso, você é forçado a cuspi-la. Caso seja Imune a Dano Ácido, ela não fica Incapacitada e tem Vantagem em Ataques contra você enquanto estiver engolida.
+    
+    Se você engolir uma criatura do seu Tamanho, a sua barriga cresce para acomodá-la, e você passa a ser considerado de um Tamanho acima do seu atual enquanto ela estiver engolida.
+    
+- **Cuspir Criatura** (Ativa | Custo de Ações: Ação Bônus | Alvo: uma criatura engolida): você cospe o alvo em um local adjacente a você.
+    
 
-## Transmutar Essência (Custo 3)
+### Espectro Final
 
-**Requisitos**: Você é um Cait-Sith de Nível 10 ou superior.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Okuri; estar no Nível 10 ou superior
 
-Ao invés de recuperar Pontos de Vida quando você utilizar o Sugador de Essências, você pode causar a quantidade que você iria curar como Dano Verdadeiro adicional. Você pode fazer isso três vezes por Descanso Curto, e também pode escolher utilizar essa Habilidade somente quando já souber o resultado do dano.
+- **Espectro Final** (Ativa | Custo de Ações: Reação | Custo de Mana: 7 PMs | Alvo: você): ao receber uma instância de Dano Físico ou de Dano Sanguíneo, você se torna completamente espectral, ficando Imune a essa instância de dano, e volta ao normal logo em seguida. A primeira vez que usar este efeito após um Descanso Longo não custa Mana.
 
-## Barriga de Sapo (Custo 3)
+### Atestado de Vida
 
-**Requisitos**: Você é um Gama de Nível 10 ou superior.
-**Custo**: Duas Ações.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Revenã Zumbi; estar no Nível 10 ou superior
 
-Ao agarrar uma criatura do seu tamanho ou menor, você pode tentar engoli-la. Ela precisará passar por um Teste de Resistência de Força CD 8 + Bônus de Proficiência + o Modificador de um Atributo à sua escolha. Em caso de sucesso, a criatura terá Vantagem para se soltar da sua língua. Em caso de falha, você engole a criatura. 
+- **Atestado de Vida** (Passiva): curas que antes não funcionavam em você, como a Magia Cura Menor, de custo 1, passam a funcionar. Você também deixa de ser afetado negativamente por Magias e outros efeitos, causados por você ou por aliados, que normalmente prejudicariam mortos-vivos.
+- **Absorver Trevas** (Passiva): ao receber uma instância de Dano Sombrio, a cura da Regeneração dos Mortos aumenta em 2 Graus. O Dano Sombrio não pode ter sido causado por você nem por aliados.
 
-Uma criatura engolida está Incapacitada, e recebe 3d8 de Dano Ácido Contínuo. Você pode cuspir uma criatura engolida com uma Ação Bônus em um local adjacente a você. A criatura pode repetir o Teste no início de cada um dos Turnos dela para se soltar, forçando você a cuspi-la. Você só pode engolir uma criatura por vez. Caso a criatura engolida seja Imune a Dano Ácido, ela não ficará Incapacitada, e terá Vantagem para te Atacar enquanto estiver engolida.
+### Esqueleto Assustador e Amedrontador
 
-Se você engolir uma criatura do seu tamanho, sua barriga crescerá para acomodá-la. Você se torna uma criatura de um grau acima do seu tamanho atual.
+**Custo de PHs**: 3 | **Outros Requisitos**: ser Revenã Esqueleto; estar no Nível 10 ou superior
 
-## Espectro Final (Custo 3)
-
-**Requisitos**: Você é um Okuri de Nível 10 ou superior.
-
-**Contato Astral** (Reação, 7 de Mana): Você se torna completamente espectral ao receber uma instância de Dano Físico ou de Sangue, se tornando Imune àquela instância de dano, e voltando ao normal logo após. A primeira ativação dessa Habilidade após um Descanso Longo não custa Mana.
-
-**Mundo dos Mortos** (Passiva): Você pode escolher ficar completamente Imune a Dano Físico e Dano de Sangue enquanto estiver na Forma Espectral, atravessando finalmente a linha tênue entre o mundo físico e o espectral. No entanto, a Forma Espectral custará 15 de Mana ao invés de 5, mesmo que seja a primeira vez que for ativada após um Descanso Longo.
-
-## Atestado de Vida (Custo 3)
-
-**Requisitos**: Você é um Revenã Zumbi de Nível 10 ou superior.
-
-Curas que antes não funcionavam em você, como a Magia Cura Menor, de custo 1, agora funcionam. Você não é mais afetado negativamente por Magias e outros efeitos advindos de você ou aliados que normalmente afetariam mortos-vivos negativamente.
-
-Ao receber Dano Sombrio, os efeitos da sua regeneração da Biologia Necrótica são aumentados. O dado de cura sobe para 1d8 ao invés de 1d4. A duração desse aumento é de um Encontro. Inclusive, você mesmo pode causar Dano Sombrio em si mesmo, por exemplo, ao usar um Sortilégio de dano. Esse aumento só ocorre uma vez por Descanso Longo.
-
-## Esqueleto Assustador e Amedrontador (Custo 3)
-
-**Requisitos**: Você é um Revenã Esqueleto de Nível 10 ou superior.
-
-**Osso Duro de Roer** (Passiva): A distância de acoplamento aumenta para 150m. Suas Resistências a Dano Perfurante e Dano de Fogo aumentam em 4.
-
-**Susto** (Duas Ações, 3 de Mana): Você agora pode Arremessar sua cabeça e reaparecer no local aonde ela cair. Seu corpo atual é descartado, e novos ossos aparecem no local de pouso da cabeça, formando um novo corpo. Se você reaparecer adjacente a alguma criatura, ela deve passar por um Teste de Resistência de Sabedoria CD 14 + Proficiência, até um máximo de 2 criaturas ao mesmo tempo. Em caso de falha, a criatura tem a Condição Amedrontado por 3 Rodadas. Você pode gastar 1 Ponto de Mana adicional para fazer com que o seus itens sejam carregados com você. Pequenas mãozinhas surgem logo abaixo do seu crânio quando você o arremessa, e elas carregam seus itens até o novo local. Quando o corpo novo surge, você já está com eles equipados. Você não pode utilizar Susto caso esteja sob efeito de uma Condição Negativa.
+- **Esqueleto Assustador e Amedrontador** (Passiva): você tem +5 no BA de Testes de Intimidação. Além disso, o Limite de Usos de Se Juntar aumenta em um, passando a ser duas vezes por Descanso Longo.
