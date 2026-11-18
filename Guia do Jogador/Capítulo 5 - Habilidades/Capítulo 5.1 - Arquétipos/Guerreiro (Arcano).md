@@ -1,20 +1,20 @@
 O Arquétipo do Guerreiro Arcano contém Habilidades que focam em misturar estratégias marciais com efeitos mágicos.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Energia Confiscada|1|3 de Constituição e 1 de Sabedoria|-|
-|Ataque Mágico Extra|1|-|"Provação" de Custo 1 do Arquétipo Guerreiro (Marcial)|
-|Iniciado em Arcanos Menores|1|2 de Destreza ou de Força|-|
-|Vínculo Bélico|1|3 de Sabedoria e 3 de Arcano, Vínculo ou Carisma|-|
-|Memória Perfeita|1|-|-|
-|Forma Mágica|2|4 de Constituição, 2 de Arcano e 1 de Sabedoria|-|
-|Um Com os Céus|2|5 de Destreza e 5 de Vínculo|-|
-|Mãos Espectrais|2|3 de Força ou de Destreza e 3 de Arcano|-|
-|Um Com a Terra|3|10 de Destreza e 10 de Vínculo|"Um Com os Céus" de Custo 2|
-|Respiração|3|8 de Destreza e 1 de Sabedoria|-|
-|Sol|3|10 de Sabedoria e 10 de Carisma|"Respiração" de Custo 3|
-|Lua|3|10 de Sabedoria e 10 de Carisma|"Respiração" de Custo 3|
-|Dor Permanente|3|10 de Arcano|-|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Energia Confiscada|1|3 de Constituição e 1 de Sabedoria|-|-|
+|Ataque Mágico Extra|1|-|"Provação" de Custo 1 do Arquétipo Guerreiro (Marcial)|-|
+|Iniciado em Arcanos Menores|1|2 de Destreza ou de Força|-|-|
+|Vínculo Bélico|1|3 de Sabedoria e 3 de Arcano, Vínculo ou Carisma|-|-|
+|Memória Perfeita|1|-|-|ser Perito em Erudição|
+|Forma Mágica|2|4 de Constituição, 2 de Arcano e 1 de Sabedoria|-|-|
+|Um Com os Céus|2|5 de Destreza e 5 de Vínculo|-|-|
+|Mãos Espectrais|2|3 de Força ou de Destreza e 3 de Arcano|-|-|
+|Um Com a Terra|3|10 de Destreza e 10 de Vínculo|"Um Com os Céus" de Custo 2|-|
+|Respiração|3|8 de Destreza e 1 de Sabedoria|-|-|
+|Sol|3|10 de Sabedoria e 10 de Carisma|"Respiração" de Custo 3|-|
+|Lua|3|10 de Sabedoria e 10 de Carisma|"Respiração" de Custo 3|-|
+|Dor Permanente|3|10 de Arcano|-|-|
 
 ### Energia Confiscada
 
@@ -44,7 +44,7 @@ O Arquétipo do Guerreiro Arcano contém Habilidades que focam em misturar estra
 
 ### Memória Perfeita
 
-**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Erudição ou Atletismo
+**Custo de PHs**: 1 | **Outros Requisitos**: ser Perito em Erudição
 
 Você consegue se lembrar de qualquer acontecimento com perfeição e é particularmente bom em analisar o comportamento dos seus adversários.
 

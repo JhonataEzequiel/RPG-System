@@ -1,22 +1,22 @@
 O Arquétipo do Ladino contém Habilidades características do especialista em Furtividade e Ladroagem.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Acrobata|1|-|-|
-|Mercado Negro|1|-|-|
-|Ataque Furtivo|1|3 de Destreza|-|
-|Ataque Invisível|1|-|"Ataque Furtivo" de Custo 1|
-|Espreitador|1|-|-|
-|Ladrão|1|-|-|
-|Retirada Tática|1|-|-|
-|Andarilho Silencioso|1|3 de Destreza|-|
-|Gatuno|1|-|-|
-|Destrancar Rapidamente|2|-|-|
-|Justiça Cega|2|1 de Destreza e 3 de Carisma|-|
-|Impostor|3|7 de Carisma e 4 de Destreza|-|
-|Ataque Furtivo Aprimorado|3|-|"Ataque Furtivo" de Custo 1|
-|Furtividade das Sombras|3|-|"Ataque Furtivo Aprimorado" de Custo 3|
-|Maior Vigarice|3|-|"Ladrão" de Custo 1|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Acrobata|1|-|-|-|
+|Mercado Negro|1|-|-|estar no Nível 1|
+|Ataque Furtivo|1|3 de Destreza|-|ser Perito em Furtividade|
+|Ataque Invisível|1|-|"Ataque Furtivo" de Custo 1|-|
+|Espreitador|1|-|-|ser Perito em Furtividade|
+|Ladrão|1|-|-|ser Perito em Ladroagem|
+|Retirada Tática|1|-|-|-|
+|Andarilho Silencioso|1|3 de Destreza|-|-|
+|Gatuno|1|-|-|ser Perito em Furtividade|
+|Destrancar Rapidamente|2|-|-|-|
+|Justiça Cega|2|1 de Destreza e 3 de Carisma|-|-|
+|Impostor|3|7 de Carisma e 4 de Destreza|-|-|
+|Ataque Furtivo Aprimorado|3|-|"Ataque Furtivo" de Custo 1|-|
+|Furtividade das Sombras|3|-|"Ataque Furtivo Aprimorado" de Custo 3|-|
+|Maior Vigarice|3|-|"Ladrão" de Custo 1|-|
 
 ### Acrobata
 

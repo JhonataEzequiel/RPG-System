@@ -1,30 +1,30 @@
 O Arquétipo do Mago contém Habilidades que beneficiam usuários de Magias de forma geral.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Historiador Curioso|1|1 de Arcano|-|
-|Recuperação Arcana|1|3 de Arcano e 2 de Sabedoria|-|
-|Oportunista Mágico|1|-|-|
-|Magia Simples|1|3 de Arcano e 3 de Sabedoria|-|
-|Experiência Metamágica|1|4 de Arcano|-|
-|Companheiro Grimório|1|3 de Arcano|-|
-|Assinatura de Mana|1|1 de Carisma, Arcano ou Vínculo|-|
-|Fluir da Mana|1|1 de Sabedoria|-|
-|Conhecedor Arcano|1|4 de Arcano|-|
-|Transferência Arcana|1|2 de Sabedoria|-|
-|Base Três|1|2 de Sabedoria|-|
-|Truque de Mágica|1|10 de Arcano|"Base Três" de Custo 1|
-|Arcano Aprimorado|2|6 de Sabedoria|-|
-|Troca Equivalente|2|5 de Sabedoria|-|
-|Visão Além do Alcance|2|6 de Sabedoria|-|
-|Mente Focada|2|1 de Sabedoria e 4 de Arcano|-|
-|Preparação Arcana|2|5 de Sabedoria|-|
-|Canção da Mana|2|9 de Sabedoria|"Fluir da Mana" de Custo 1|
-|Bibliotecário|3|10 de Arcano|-|
-|Mente Incansável|3|6 de Sabedoria|-|
-|Foco Vocal|3|8 de Arcano e 2 de Sabedoria|-|
-|Mestre das Magias|3|7 de Sabedoria e 7 de Arcano, Vínculo ou Carisma|-|
-|Noite Estrelada|3|10 de Arcano e 10 de Sabedoria|-|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Historiador Curioso|1|1 de Arcano|-|ser Perito em Erudição|
+|Recuperação Arcana|1|3 de Arcano e 2 de Sabedoria|-|-|
+|Oportunista Mágico|1|-|-|-|
+|Magia Simples|1|3 de Arcano e 3 de Sabedoria|-|-|
+|Experiência Metamágica|1|4 de Arcano|-|-|
+|Companheiro Grimório|1|3 de Arcano|-|-|
+|Assinatura de Mana|1|1 de Carisma, Arcano ou Vínculo|-|-|
+|Fluir da Mana|1|1 de Sabedoria|-|-|
+|Conhecedor Arcano|1|4 de Arcano|-|ter um Grimório|
+|Transferência Arcana|1|2 de Sabedoria|-|-|
+|Base Três|1|2 de Sabedoria|-|-|
+|Truque de Mágica|1|10 de Arcano|"Base Três" de Custo 1|-|
+|Arcano Aprimorado|2|6 de Sabedoria|-|-|
+|Troca Equivalente|2|5 de Sabedoria|-|-|
+|Visão Além do Alcance|2|6 de Sabedoria|-|-|
+|Mente Focada|2|1 de Sabedoria e 4 de Arcano|-|-|
+|Preparação Arcana|2|5 de Sabedoria|-|-|
+|Canção da Mana|2|9 de Sabedoria|"Fluir da Mana" de Custo 1|-|
+|Bibliotecário|3|10 de Arcano|-|-|
+|Mente Incansável|3|6 de Sabedoria|-|-|
+|Foco Vocal|3|8 de Arcano e 2 de Sabedoria|-|-|
+|Mestre das Magias|3|7 de Sabedoria e 7 de Arcano, Vínculo ou Carisma|-|-|
+|Noite Estrelada|3|10 de Arcano e 10 de Sabedoria|-|-|
 
 ### Historiador Curioso
 

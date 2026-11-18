@@ -1,29 +1,29 @@
 O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalha. Normalmente não utilizam Armadura e são extremamente resilientes.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Mente Simples|1|-|-|
-|Força Intimidadora|1|3 de Força|-|
-|Devorador de Pânico|1|-|"Força Intimidadora" de Custo 1|
-|Rachadura Celestial|1|3 de Força|-|
-|Marcas de Guerra|1|0 de Sabedoria|-|
-|Fúria|1|2 de Força, Constituição ou Destreza|-|
-|Descuidado|1|-|-|
-|Canhão de Vidro|1|Máximo de 5 de Constituição|-|
-|Defesa Sem Armadura|1|-|-|
-|À Moda Antiga|1|-|-|
-|Berserk|1|3 de Constituição|-|
-|Ataque Descontrolado|2|6 de Força|-|
-|Marcas de Guerra Melhorada|2|-|"Marcas de Guerra" de Custo 1|
-|Sem Controle|2|6 de Constituição e 2 de Força ou de Destreza|-|
-|Força Salvadora|3|10 de Força|"Força Intimidadora" de Custo 1|
-|Fúria Aprimorada|3|9 de Força|"Fúria" de Custo 1|
-|Engodo da Ira|3|-|"Fúria" de Custo 1|
-|Crítico Garantido|3|10 de Força ou de Destreza|-|
-|Violência|3|10 de Força|-|
-|Potência Pura|3|8 de Força|-|
-|Diamante|3|10 de Força|-|
-|Guiado Por Ódio|3|10 de Constituição|-|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Mente Simples|1|-|-|estar no Nível 1|
+|Força Intimidadora|1|3 de Força|-|-|
+|Devorador de Pânico|1|-|"Força Intimidadora" de Custo 1|-|
+|Rachadura Celestial|1|3 de Força|-|-|
+|Marcas de Guerra|1|0 de Sabedoria|-|-|
+|Fúria|1|2 de Força, Constituição ou Destreza|-|-|
+|Descuidado|1|-|-|-|
+|Canhão de Vidro|1|Máximo de 5 de Constituição|-|não ter adquirido a Habilidade "Defesa Sem Armadura" de Custo 1|
+|Defesa Sem Armadura|1|-|-|não ter adquirido a Habilidade "Canhão de Vidro" de Custo 1|
+|À Moda Antiga|1|-|-|ser Perito em Atletismo|
+|Berserk|1|3 de Constituição|-|-|
+|Ataque Descontrolado|2|6 de Força|-|-|
+|Marcas de Guerra Melhorada|2|-|"Marcas de Guerra" de Custo 1|-|
+|Sem Controle|2|6 de Constituição e 2 de Força ou de Destreza|-|-|
+|Força Salvadora|3|10 de Força|"Força Intimidadora" de Custo 1|-|
+|Fúria Aprimorada|3|9 de Força|"Fúria" de Custo 1|-|
+|Engodo da Ira|3|-|"Fúria" de Custo 1|-|
+|Crítico Garantido|3|10 de Força ou de Destreza|-|-|
+|Violência|3|10 de Força|-|-|
+|Potência Pura|3|8 de Força|-|-|
+|Diamante|3|10 de Força|-|ser Perito em Atletismo|
+|Guiado Por Ódio|3|10 de Constituição|-|-|
 
 ### Mente Simples
 
@@ -81,7 +81,7 @@ O Arquétipo do Bárbaro contém Habilidades que governam a ferocidade em batalh
 
 ### Canhão de Vidro
 
-**Custo de PHs**: 1 | **Requisitos de Atributos**: máximo de 5 de Constituição
+**Custo de PHs**: 1 | **Requisitos de Atributos**: máximo de 5 de Constituição | **Outros Requisitos**: não ter adquirido a Habilidade "Defesa Sem Armadura" de Custo 1
 
 - **Canhão de Vidro** (Passiva | Requisitos de Uso: ter no máximo 5 de Constituição e não estar usando Armadura): você não pode mais usar qualquer Armadura, nem receber qualquer bônus de CA vindo de Magias. Você recebe +7 na sua Margem de Ameaça.
 

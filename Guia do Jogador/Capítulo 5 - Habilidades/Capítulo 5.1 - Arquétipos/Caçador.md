@@ -1,24 +1,24 @@
 O Arquétipo do Caçador representa o patrulheiro das florestas, especialista em observar os seus arredores. Normalmente, ele se utiliza de Ataques à Distância para abater os seus alvos, portanto as Habilidades que beneficiam exclusivamente esse tipo de ofensiva estão aqui.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Presa Ato I|1|2 de Destreza|-|
-|Presa Ato II|1|3 de Destreza|"Presa Ato I" de Custo 1|
-|Disparo Poderoso|1|-|-|
-|Atirador Aéreo|1|-|-|
-|Sentidos Aguçados|1|2 de Sabedoria|-|
-|Descrição Avançada|1|2 de Sabedoria|-|
-|Mira Melhorada|1|3 de Destreza|-|
-|Sobrevivente Sadio|1|-|-|
-|Preparar Terreno|1|-|-|
-|Presa Ato III|2|3 de Sabedoria|"Presa Ato II" de Custo 1|
-|Dono da Floresta|2|-|"Preparar Terreno" de Custo 1|
-|Tambor Rápido|2|4 de Destreza|-|
-|Marca de Caçador|2|3 de Destreza e 1 de Sabedoria|-|
-|Centena de Alvos|2|5 de Destreza|-|
-|Presa Ato IV|3|6 de Destreza e 4 de Sabedoria|"Presa Ato III" de Custo 2|
-|Chuva de Flechas|3|10 de Destreza|"Tambor Rápido" de Custo 2|
-|Morte Branca|3|10 de Destreza|"Centena de Alvos" de Custo 2|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Presa Ato I|1|2 de Destreza|-|-|
+|Presa Ato II|1|3 de Destreza|"Presa Ato I" de Custo 1|-|
+|Disparo Poderoso|1|-|-|-|
+|Atirador Aéreo|1|-|-|-|
+|Sentidos Aguçados|1|2 de Sabedoria|-|-|
+|Descrição Avançada|1|2 de Sabedoria|-|-|
+|Mira Melhorada|1|3 de Destreza|-|-|
+|Sobrevivente Sadio|1|-|-|-|
+|Preparar Terreno|1|-|-|ser Perito em Natureza ou em Ladroagem|
+|Presa Ato III|2|3 de Sabedoria|"Presa Ato II" de Custo 1|-|
+|Dono da Floresta|2|-|"Preparar Terreno" de Custo 1|-|
+|Tambor Rápido|2|4 de Destreza|-|-|
+|Marca de Caçador|2|3 de Destreza e 1 de Sabedoria|-|-|
+|Centena de Alvos|2|5 de Destreza|-|-|
+|Presa Ato IV|3|6 de Destreza e 4 de Sabedoria|"Presa Ato III" de Custo 2|-|
+|Chuva de Flechas|3|10 de Destreza|"Tambor Rápido" de Custo 2|-|
+|Morte Branca|3|10 de Destreza|"Centena de Alvos" de Custo 2|ser Proficiente em Armas à Distância|
 
 ### Presa Ato I
 

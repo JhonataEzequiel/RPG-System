@@ -1,41 +1,41 @@
 O Arquétipo do Guerreiro Tanque contém Habilidades relacionadas à proteção física, à durabilidade e à estabilidade.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Provocar|1|1 de Constituição|-|
-|Respirar Fundo|1|1 de Constituição|-|
-|Motor em Chamas|1|3 de Constituição|-|
-|Motor Aprimorado|1|5 de Força ou de Destreza e 4 de Constituição|"Motor em Chamas" de Custo 1|
-|Escudo de Carvalho|1|-|-|
-|Ombro Direto|1|3 de Constituição|-|
-|Pele Dura|1|-|-|
-|Postura Defensiva|1|-|-|
-|Linha de Frente|1|2 de Força e 1 de Constituição|-|
-|Reinhardt|1|3 de Força|-|
-|Colosso|1|5 de Constituição e 3 de Força ou de Destreza|-|
-|Aura|1|2 de Constituição|-|
-|Indestrutível|1|4 de Constituição|-|
-|Tribulação|1|4 de Constituição|-|
-|Tamanho não é Documento|1|-|-|
-|Fortitude Corporal|1|1 de Constituição e 1 de Força|-|
-|Temperança|2|7 de Constituição|-|
-|Comandante|2|1 de Carisma e 1 de Constituição|-|
-|Quem com Ferro Fere|2|4 de Constituição|-|
-|Aura Aprimorada|2|5 de Constituição|"Aura" de Custo 1|
-|Tamanho é Documento|2|-|-|
-|Amigo|2|1 de Carisma e 4 de Constituição|-|
-|Além da Morte|2|3 de Constituição|-|
-|Defesa de Ferro|2|-|-|
-|General|3|6 de Carisma e 4 de Constituição|"Comandante" de Custo 2|
-|Com Ferro Será Ferido|3|8 de Constituição|"Quem com Ferro Fere" de Custo 2|
-|Gordura Grossa|3|6 de Constituição|-|
-|Atrasar Dano|3|10 de Constituição|-|
-|Aura Final|3|10 de Constituição|"Aura Aprimorada" de Custo 2|
-|Supremo Protetor|3|7 de Constituição|-|
-|Forjado no Fogo|3|10 de Constituição e 10 de outro Atributo|-|
-|Último Suspiro|3|6 de Constituição|-|
-|Honra e Glória|3|1 de Carisma|"Último Suspiro" de Custo 3|
-|Impenetrável|3|10 de Constituição|-|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Provocar|1|1 de Constituição|-|-|
+|Respirar Fundo|1|1 de Constituição|-|-|
+|Motor em Chamas|1|3 de Constituição|-|-|
+|Motor Aprimorado|1|5 de Força ou de Destreza e 4 de Constituição|"Motor em Chamas" de Custo 1|-|
+|Escudo de Carvalho|1|-|-|-|
+|Ombro Direto|1|3 de Constituição|-|-|
+|Pele Dura|1|-|-|-|
+|Postura Defensiva|1|-|-|-|
+|Linha de Frente|1|2 de Força e 1 de Constituição|-|-|
+|Reinhardt|1|3 de Força|-|-|
+|Colosso|1|5 de Constituição e 3 de Força ou de Destreza|-|-|
+|Aura|1|2 de Constituição|-|-|
+|Indestrutível|1|4 de Constituição|-|-|
+|Tribulação|1|4 de Constituição|-|-|
+|Tamanho não é Documento|1|-|-|-|
+|Fortitude Corporal|1|1 de Constituição e 1 de Força|-|-|
+|Temperança|2|7 de Constituição|-|-|
+|Comandante|2|1 de Carisma e 1 de Constituição|-|-|
+|Quem com Ferro Fere|2|4 de Constituição|-|-|
+|Aura Aprimorada|2|5 de Constituição|"Aura" de Custo 1|-|
+|Tamanho é Documento|2|-|-|-|
+|Amigo|2|1 de Carisma e 4 de Constituição|-|-|
+|Além da Morte|2|3 de Constituição|-|-|
+|Defesa de Ferro|2|-|-|-|
+|General|3|6 de Carisma e 4 de Constituição|"Comandante" de Custo 2|-|
+|Com Ferro Será Ferido|3|8 de Constituição|"Quem com Ferro Fere" de Custo 2|-|
+|Gordura Grossa|3|6 de Constituição|-|-|
+|Atrasar Dano|3|10 de Constituição|-|-|
+|Aura Final|3|10 de Constituição|"Aura Aprimorada" de Custo 2|-|
+|Supremo Protetor|3|7 de Constituição|-|estar no Nível 12 ou superior|
+|Forjado no Fogo|3|10 de Constituição e 10 de outro Atributo|-|-|
+|Último Suspiro|3|6 de Constituição|-|-|
+|Honra e Glória|3|1 de Carisma|"Último Suspiro" de Custo 3|-|
+|Impenetrável|3|10 de Constituição|-|-|
 
 ### Provocar
 

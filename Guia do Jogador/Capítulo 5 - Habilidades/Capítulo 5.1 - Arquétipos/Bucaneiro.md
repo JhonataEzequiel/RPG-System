@@ -2,16 +2,16 @@ O Arquétipo do Bucaneiro domina as Armas de Fogo e Bestas, criando modificaçõ
 
 **Regra geral de modificações de Armas de Fogo e Bestas**: o tempo necessário para aplicar uma peça que não é de fácil acesso, como uma coronha ou uma empunhadura, reflete o tempo para fazer uma modificação na Arma para que ela suporte aquela peça, por isso pode ser longo.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Alterar Armamentos|1|-|-|
-|Mira Acoplada|1|-|"Alterar Armamentos" de Custo 1|
-|Supressor|1|-|"Alterar Armamentos" de Custo 1|
-|Compensador|1|-|"Alterar Armamentos" de Custo 1|
-|Corda Robusta|1|-|"Alterar Armamentos" de Custo 1|
-|Pente Estendido|2|-|"Alterar Armamentos" de Custo 1|
-|Empunhaduras|2|-|"Alterar Armamentos" de Custo 1|
-|Coronha|3|-|"Alterar Armamentos" de Custo 1|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Alterar Armamentos|1|-|-|ser Proficiente em Armas à Distância|
+|Mira Acoplada|1|-|"Alterar Armamentos" de Custo 1|-|
+|Supressor|1|-|"Alterar Armamentos" de Custo 1|-|
+|Compensador|1|-|"Alterar Armamentos" de Custo 1|-|
+|Corda Robusta|1|-|"Alterar Armamentos" de Custo 1|-|
+|Pente Estendido|2|-|"Alterar Armamentos" de Custo 1|-|
+|Empunhaduras|2|-|"Alterar Armamentos" de Custo 1|-|
+|Coronha|3|-|"Alterar Armamentos" de Custo 1|-|
 
 ### Alterar Armamentos
 

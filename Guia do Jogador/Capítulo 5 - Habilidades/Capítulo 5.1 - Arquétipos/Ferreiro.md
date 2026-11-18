@@ -1,14 +1,14 @@
 O Arquétipo do Ferreiro governa todas as Habilidades relacionadas à confecção de Armas, Armaduras e itens de metal não mecânicos.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Ferraria|1|-|-|
-|Afiação|1|-|-|
-|Aprendiz do Erro|1|-|"Ferraria" de Custo 1|
-|Magnata do Ferro|1|-|"Aprendiz do Erro" de Custo 1|
-|Ferraria Intermediária|2|-|"Ferraria" de Custo 1|
-|Ferraria Avançada|3|-|"Ferraria Intermediária" de Custo 2|
-|Ferraria Mágica|3|3 de Arcano|"Ferraria Avançada" de Custo 3|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Ferraria|1|-|-|ser Perito em Atletismo ou em Erudição|
+|Afiação|1|-|-|-|
+|Aprendiz do Erro|1|-|"Ferraria" de Custo 1|-|
+|Magnata do Ferro|1|-|"Aprendiz do Erro" de Custo 1|-|
+|Ferraria Intermediária|2|-|"Ferraria" de Custo 1|-|
+|Ferraria Avançada|3|-|"Ferraria Intermediária" de Custo 2|-|
+|Ferraria Mágica|3|3 de Arcano|"Ferraria Avançada" de Custo 3|-|
 
 ### Ferraria
 

@@ -1,16 +1,16 @@
 O Arquétipo do Druida representa o habitante e defensor das florestas e matas, que consegue invocar as forças da natureza para o seu auxílio.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Sentir Fauna e Flora|1|1 de Sabedoria e 1 de Carisma|-|
-|Druídico|1|2 de Sabedoria e 1 de Carisma|-|
-|Força Animal|1|3 de Carisma|-|
-|Vida em Abundância|1|3 de Sabedoria e 3 de Carisma|-|
-|Grande Sábio|2|6 de Sabedoria e 2 de Carisma|-|
-|Instrumento de Agência|2|6 de Sabedoria e 4 de Carisma|"Grande Sábio" de Custo 2|
-|Ondas do Mar|3|8 de Sabedoria e 7 de Carisma|"Instrumento de Agência" de Custo 2|
-|Sutileza Selvagem|3|10 de Sabedoria e 10 de Carisma|"Ondas do Mar" de Custo 3|
-|Murucututu|3|10 de Sabedoria e 10 de Carisma|-|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Sentir Fauna e Flora|1|1 de Sabedoria e 1 de Carisma|-|ser Perito em Natureza|
+|Druídico|1|2 de Sabedoria e 1 de Carisma|-|-|
+|Força Animal|1|3 de Carisma|-|-|
+|Vida em Abundância|1|3 de Sabedoria e 3 de Carisma|-|-|
+|Grande Sábio|2|6 de Sabedoria e 2 de Carisma|-|-|
+|Instrumento de Agência|2|6 de Sabedoria e 4 de Carisma|"Grande Sábio" de Custo 2|-|
+|Ondas do Mar|3|8 de Sabedoria e 7 de Carisma|"Instrumento de Agência" de Custo 2|-|
+|Sutileza Selvagem|3|10 de Sabedoria e 10 de Carisma|"Ondas do Mar" de Custo 3|-|
+|Murucututu|3|10 de Sabedoria e 10 de Carisma|-|ser Perito em Percepção|
 
 ### Sentir Fauna e Flora
 

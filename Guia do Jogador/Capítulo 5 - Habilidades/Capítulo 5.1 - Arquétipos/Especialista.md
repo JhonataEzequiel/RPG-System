@@ -1,15 +1,15 @@
 O Arquétipo do Especialista contém Habilidades características daqueles que decidem melhorar uma quantidade limitada de Atributos.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Divergente|1|5 de Sabedoria|-|
-|Arte Nobre|1|10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma|-|
-|Armamento Único|1|-|-|
-|Minhas Regras|2|-|-|
-|Esperteza|2|-|-|
-|Polivalente|3|10 de Sabedoria|"Divergente" de Custo 1|
-|Impulso Inicial|3|10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma|-|
-|Adaptação|3|10 de Sabedoria e 10 de Constituição|"Divergente" de Custo 1|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Divergente|1|5 de Sabedoria|-|-|
+|Arte Nobre|1|10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma|-|estar no Nível 14; não ter outro Atributo com valor 10|
+|Armamento Único|1|-|-|-|
+|Minhas Regras|2|-|-|-|
+|Esperteza|2|-|-|-|
+|Polivalente|3|10 de Sabedoria|"Divergente" de Custo 1|-|
+|Impulso Inicial|3|10 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma|-|-|
+|Adaptação|3|10 de Sabedoria e 10 de Constituição|"Divergente" de Custo 1|-|
 
 ### Divergente
 

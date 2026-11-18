@@ -1,16 +1,16 @@
 O Arquétipo do Afortunado contém Habilidades relacionadas à manipulação de probabilidades ou a apostas.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Sorte|1|-|-|
-|Vida de Gato|1|-|-|
-|Distopia|1|-|-|
-|Utopia|1|-|-|
-|Cartas do Destino|2|3 de Arcano, Vínculo ou Carisma|-|
-|Jackpot|2|-|-|
-|Dado de Sorte|2|-|-|
-|Alterar Chances|2|-|"Sorte" de Custo 1|
-|Jackpot Melhorado|3|-|"Jackpot" de Custo 2|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Sorte|1|-|-|-|
+|Vida de Gato|1|-|-|estar no Nível 1|
+|Distopia|1|-|-|-|
+|Utopia|1|-|-|-|
+|Cartas do Destino|2|3 de Arcano, Vínculo ou Carisma|-|-|
+|Jackpot|2|-|-|-|
+|Dado de Sorte|2|-|-|-|
+|Alterar Chances|2|-|"Sorte" de Custo 1|-|
+|Jackpot Melhorado|3|-|"Jackpot" de Custo 2|-|
 
 ### Sorte
 

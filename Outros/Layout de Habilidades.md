@@ -93,9 +93,9 @@ Itens, equipamentos, estados do personagem e circunstâncias exigidos para usar 
 
 ## Tabela-Índice de Arquétipo
 
-Opcionalmente, cada Arquétipo pode começar com uma tabela para consulta rápida. Ela segue os mesmos formatos do cabeçalho: os Atributos escritos por extenso e as Habilidades requeridas com o custo e, quando for o caso, o Arquétipo.
+Opcionalmente, cada Arquétipo pode começar com uma tabela para consulta rápida. Ela segue os mesmos formatos do cabeçalho: os Atributos escritos por extenso, as Habilidades requeridas com o custo e, quando for o caso, o Arquétipo, e os Outros Requisitos escritos como no cabeçalho, separados por ponto e vírgula. Campos sem requisitos recebem "-".
 
-| Habilidade         | Custo de PHs | Requisitos de Atributos | Requisitos de Habilidades                                |
-| ------------------ | ------------ | ----------------------- | -------------------------------------------------------- |
-| Nome da Habilidade | X            | 3 de Arcano             | "Nome da Habilidade Requerida" de Custo X                |
-| Nome da Habilidade | X            | -                       | "Nome da Habilidade Requerida" de Custo X do Arquétipo Y |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Nome da Habilidade|X|3 de Arcano|"Nome da Habilidade Requerida" de Custo X|-|
+|Nome da Habilidade|X|-|"Nome da Habilidade Requerida" de Custo X do Arquétipo Y|ser Perito em Erudição|

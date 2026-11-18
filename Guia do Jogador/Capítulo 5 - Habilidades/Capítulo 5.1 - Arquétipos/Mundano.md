@@ -1,18 +1,18 @@
 Este Arquétipo herda o nome da Pedra de Infusão Mundana, descrita nas regras de Infusão, no Capítulo 4.6 - Aprimoramento e Infusões. Diz respeito a personagens generalistas. Nas Habilidades que utilizem o seu Atributo de menor valor, caso haja empate entre dois ou mais Atributos, você pode escolher qual deles utilizar.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|
-|---|---|---|---|
-|Equilíbrio|1|-|-|
-|Bônus Generalista|1|2 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|
-|Sem Especialidade|1|-|-|
-|Coveiro da Realeza|1|-|"Sem Especialidade" de Custo 1|
-|Do Nada à Nata|1|-|-|
-|Pau Para Toda Obra|2|3 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|
-|Equilíbrio Aprimorado|2|-|"Equilíbrio" de Custo 1|
-|Agente Punitivo|2|3 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma|-|
-|Equilíbrio Supremo|3|-|"Equilíbrio Aprimorado" de Custo 2|
-|Escalonador|3|4 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|
-|Véu Despedaçado|3|7 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Equilíbrio|1|-|-|-|
+|Bônus Generalista|1|2 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|-|
+|Sem Especialidade|1|-|-|-|
+|Coveiro da Realeza|1|-|"Sem Especialidade" de Custo 1|-|
+|Do Nada à Nata|1|-|-|estar no Nível 1; não escolher outras Habilidades no Nível 1|
+|Pau Para Toda Obra|2|3 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|-|
+|Equilíbrio Aprimorado|2|-|"Equilíbrio" de Custo 1|-|
+|Agente Punitivo|2|3 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo ou Carisma|-|-|
+|Equilíbrio Supremo|3|-|"Equilíbrio Aprimorado" de Custo 2|-|
+|Escalonador|3|4 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|-|
+|Véu Despedaçado|3|7 de Constituição, Sabedoria, Força, Destreza, Arcano, Vínculo e Carisma|-|-|
 
 ### Equilíbrio
 
