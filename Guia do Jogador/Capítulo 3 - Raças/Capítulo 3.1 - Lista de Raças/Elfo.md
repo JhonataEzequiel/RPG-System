@@ -24,7 +24,7 @@ Os Elfos da Floresta vivem próximos a locais verdes e abundantes em natureza, n
 
 #### Olheiro
 
-- **Olheiro** (Passiva | Limite de Usos: uma vez por Encontro): você analisa o local ao seu redor antes de começar um Encontro, estando um passo à frente de seus inimigos e aliados. Você tem Vantagem na Iniciativa.
+- **Olheiro** (Passiva): você analisa o local ao seu redor antes de começar um Encontro, estando um passo à frente de seus inimigos e aliados. Você tem Vantagem na Iniciativa.
 
 #### Bem no Alvo
 

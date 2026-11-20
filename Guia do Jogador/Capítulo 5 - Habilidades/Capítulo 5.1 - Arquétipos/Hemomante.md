@@ -1,17 +1,17 @@
 O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias Sanguíneas ou que têm uma temática similar.
 
-|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
-|---|---|---|---|---|
-|Economia de Sangue|1|3 de Arcano e 3 de Vínculo|-|-|
-|Sacrifício|1|2 de Arcano e 2 de Vínculo|-|-|
-|Hemomancia Venenosa|1|2 de Arcano e 2 de Vínculo|-|-|
-|Tipo AB|1|5 de Arcano e 1 de Vínculo|-|não ter adquirido a Habilidade "Tipo O" de Custo 1|
-|Tipo O|1|1 de Arcano e 5 de Vínculo|-|não ter adquirido a Habilidade "Tipo AB" de Custo 1|
-|Oferenda|2|2 de Arcano e 5 de Vínculo|-|-|
-|Sólido de Vigor|2|4 de Arcano e 4 de Vínculo|-|-|
-|Veneno Potente Carmesim|3|7 de Arcano e 7 de Vínculo|"Hemomancia Venenosa" de Custo 1|-|
-|Cura Carmesim|3|10 de Arcano e 10 de Vínculo|"Tipo O" de Custo 1|-|
-|Roubo de Vida|3|10 de Arcano e 10 de Vínculo|"Tipo AB" de Custo 1|-|
+| Habilidade              | Custo de PHs | Requisitos de Atributos      | Requisitos de Habilidades        | Outros Requisitos                                   |
+| ----------------------- | ------------ | ---------------------------- | -------------------------------- | --------------------------------------------------- |
+| Economia de Sangue      | 1            | 3 de Arcano e 3 de Vínculo   | -                                | -                                                   |
+| Sacrifício              | 1            | 2 de Arcano e 2 de Vínculo   | -                                | -                                                   |
+| Hemomancia Venenosa     | 1            | 2 de Arcano e 2 de Vínculo   | -                                | -                                                   |
+| Tipo AB                 | 1            | 5 de Arcano e 1 de Vínculo   | -                                | não ter adquirido a Habilidade "Tipo O" de Custo 1  |
+| Tipo O                  | 1            | 1 de Arcano e 5 de Vínculo   | -                                | não ter adquirido a Habilidade "Tipo AB" de Custo 1 |
+| Oferenda                | 2            | 2 de Arcano e 5 de Vínculo   | -                                | -                                                   |
+| Sólido de Vigor         | 2            | 4 de Arcano e 4 de Vínculo   | -                                | -                                                   |
+| Veneno Potente Carmesim | 3            | 7 de Arcano e 7 de Vínculo   | "Hemomancia Venenosa" de Custo 1 | -                                                   |
+| Cura Carmesim           | 3            | 10 de Arcano e 10 de Vínculo | "Tipo O" de Custo 1              | -                                                   |
+| Sanguessuga             | 3            | 10 de Arcano e 10 de Vínculo | "Tipo AB" de Custo 1             | -                                                   |
 
 ### Economia de Sangue
 
@@ -24,7 +24,7 @@ O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias Sanguí
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 2 de Arcano e 2 de Vínculo
 
 - **Sacrifício** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 5 PMs | Alvo: você | Duração: 3 Rodadas | Limite de Usos: uma vez por Encontro): você faz seu sangue borbulhar, tornando seu corpo completamente instável por um tempo e ficando com 1 PV. Todo Ataque seu é considerado um Ataque Crítico. Quando a duração acabar, os efeitos de "Encerrar Sacrifício" são aplicados.
-- **Encerrar Sacrifício** (Ativa | Custo de Ações: Três Ações | Alvo: você | Requisitos de Uso: a Habilidade "Sacrifício" estar ativa): você restaura os PVs perdidos e encerra a Habilidade "Sacrifício", mas tem Desvantagem em Ataques na próxima Rodada.
+- **Encerrar Sacrifício** (Ativa | Custo de Ações: Três Ações | Alvo: você | Requisitos de Uso: a Habilidade "Sacrifício" estar ativa): você restaura os PVs perdidos ao ativar o Sacrifício e encerra a Habilidade, mas tem Desvantagem em Ataques na próxima Rodada.
 
 ### Hemomancia Venenosa
 
@@ -36,13 +36,13 @@ O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias Sanguí
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 5 de Arcano e 1 de Vínculo | **Outros Requisitos**: não ter adquirido a Habilidade "Tipo O" de Custo 1
 
-- **Tipo AB** (Passiva | Alvo: um aliado): você pode utilizar o sangue de um aliado em vez do seu ao conjurar Magias Sanguíneas que exijam o sacrifício de PVs. O aliado sofre o dano padrão requerido pela Magia, acrescido de Grau 2 de Dano Sanguíneo por conjuração.
+- **Tipo AB** (Passiva | Alvo: um aliado | Alcance: Deslocamento): você pode utilizar o sangue de um aliado em vez do seu ao conjurar Magias Sanguíneas que exijam o sacrifício de PVs. O aliado sofre o dano padrão requerido pela Magia, acrescido de Grau 2 de Dano Sanguíneo por conjuração.
 
 ### Tipo O
 
 **Custo de PHs**: 1 | **Requisitos de Atributos**: 1 de Arcano e 5 de Vínculo | **Outros Requisitos**: não ter adquirido a Habilidade "Tipo AB" de Custo 1
 
-- **Tipo O** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Alvo: um aliado): você doa parte do seu sangue ao alvo. Você gasta uma quantidade de PVs à sua escolha, e o alvo é curado pelo dobro da quantidade gasta. Ao atingir o valor 7 de Vínculo, ele é curado pelo triplo. Ao atingir o valor 10 de Vínculo e de Arcano, ele é curado pelo quádruplo.
+- **Tipo O** (Ativa | Custo de Ações: Uma Ação | Custo de Mana: 1 PM | Alvo: um aliado | Alcance: Deslocamento): você doa parte do seu sangue ao alvo. Você gasta uma quantidade de PVs à sua escolha, e o alvo é curado pelo dobro da quantidade gasta. Ao atingir o valor 7 de Vínculo, ele é curado pelo triplo. Ao atingir o valor 10 de Vínculo e de Arcano, ele é curado pelo quádruplo.
 
 ### Oferenda
 
@@ -54,7 +54,7 @@ O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias Sanguí
 
 **Custo de PHs**: 2 | **Requisitos de Atributos**: 4 de Arcano e 4 de Vínculo
 
-- **Sólido de Vigor** (Passiva): você pode sacrificar 40 PVs e dedicar 8 horas para criar uma Pedra de Infusão qualquer por meio do seu sangue (veja o Capítulo 4.6 - Aprimoramento e Infusões). O sangue se transmuta e se materializa com novas propriedades mágicas, mas retém uma coloração avermelhada.
+- **Sólido de Vigor** (Passiva): você pode sacrificar 40 PVs e dedicar 8 horas para criar uma Pedra de Infusão qualquer por meio do seu sangue (veja o Capítulo 4.6 - Aprimoramento e Infusões). Uma Pedra Exclusiva requer 80 PVs e 24 horas. O sangue se transmuta e se materializa com novas propriedades mágicas, mas retém uma coloração avermelhada.
 
 ### Veneno Potente Carmesim
 
@@ -68,7 +68,7 @@ O Arquétipo do Hemomante diz respeito a Habilidades que impactam Magias Sanguí
 
 - **Cura Carmesim** (Passiva): ao curar um aliado em pelo menos 50 PVs com a Habilidade "Tipo O", você também adiciona o seu BP à cura. O BP não é multiplicado pela Habilidade "Tipo O".
 
-### Roubo de Vida
+### Sanguessuga
 
 **Custo de PHs**: 3 | **Requisitos de Atributos**: 10 de Arcano e 10 de Vínculo | **Requisitos de Habilidades**: "Tipo AB" de Custo 1
 

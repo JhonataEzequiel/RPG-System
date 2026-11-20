@@ -1,23 +1,23 @@
 O Arquétipo do Parágono diz respeito ao indivíduo que atingiu o ápice de suas capacidades naturais, servindo como modelo para a sua espécie.
 
-| Habilidade                          | Custo de PHs | Requisitos de Atributos | Requisitos de Habilidades | Outros Requisitos                                    |
-| ----------------------------------- | ------------ | ----------------------- | ------------------------- | ---------------------------------------------------- |
-| Artesão de Runas                    | 3            | -                       | -                         | ser Anão; estar no Nível 10 ou superior              |
-| Adaptação Élfica Superior           | 3            | -                       | -                         | ser Alto Elfo; estar no Nível 10 ou superior         |
-| Visão Melhorada                     | 3            | -                       | -                         | ser Elfo da Floresta; estar no Nível 10 ou superior  |
-| Onipresença                         | 3            | -                       | -                         | ser Elfo Negro; estar no Nível 10 ou superior        |
-| Muralha de Cristal                  | 3            | -                       | -                         | ser Gnomo Feérico; estar no Nível 10 ou superior     |
-| Floresta Interior                   | 3            | -                       | -                         | ser Gnomo da Natureza; estar no Nível 10 ou superior |
-| Pequeno Prodígio                    | 3            | -                       | -                         | ser Halfling; estar no Nível 10 ou superior          |
-| Potencial Infinito                  | 3            | -                       | -                         | ser Humano; estar no Nível 10 ou superior            |
-| Aurora Aprimorada                   | 3            | -                       | -                         | ser Siderium Diurno; estar no Nível 10 ou superior   |
-| Crepúsculo                          | 3            | -                       | -                         | ser Siderium Noturno; estar no Nível 10 ou superior  |
-| Resiliência de Tartaruga            | 3            | -                       | -                         | ser Tártaro; estar no Nível 10 ou superior           |
-| Transmutar Essência                 | 3            | -                       | -                         | ser Cait-Sith; estar no Nível 10 ou superior         |
-| Barriga de Sapo                     | 3            | -                       | -                         | ser Gama; estar no Nível 10 ou superior              |
-| Espectro Final                      | 3            | -                       | -                         | ser Okuri; estar no Nível 10 ou superior             |
-| Atestado de Vida                    | 3            | -                       | -                         | ser Revenã Zumbi; estar no Nível 10 ou superior      |
-| Esqueleto Assustador e Amedrontador | 3            | -                       | -                         | ser Revenã Esqueleto; estar no Nível 10 ou superior  |
+|Habilidade|Custo de PHs|Requisitos de Atributos|Requisitos de Habilidades|Outros Requisitos|
+|---|---|---|---|---|
+|Artesão de Runas|3|-|-|ser Anão; estar no Nível 10 ou superior|
+|Adaptação Élfica Superior|3|-|-|ser Alto Elfo; estar no Nível 10 ou superior|
+|Visão Melhorada|3|-|-|ser Elfo da Floresta; estar no Nível 10 ou superior|
+|Onipresença|3|-|-|ser Elfo Negro; estar no Nível 10 ou superior|
+|Muralha de Cristal|3|-|-|ser Gnomo Feérico; estar no Nível 10 ou superior|
+|Floresta Interior|3|-|-|ser Gnomo da Natureza; estar no Nível 10 ou superior|
+|Pequeno Prodígio|3|-|-|ser Halfling; estar no Nível 10 ou superior|
+|Potencial Infinito|3|-|-|ser Humano; estar no Nível 10 ou superior|
+|Aurora Aprimorada|3|-|-|ser Siderium Diurno; estar no Nível 10 ou superior|
+|Crepúsculo|3|-|-|ser Siderium Noturno; estar no Nível 10 ou superior|
+|Resiliência de Tartaruga|3|-|-|ser Tártaro; estar no Nível 10 ou superior|
+|Transmutar Essência|3|-|-|ser Cait-Sith; estar no Nível 10 ou superior|
+|Barriga de Sapo|3|-|-|ser Gama; estar no Nível 10 ou superior|
+|Espectro Final|3|-|-|ser Okuri; estar no Nível 10 ou superior|
+|Atestado de Vida|3|-|-|ser Revenã Zumbi; estar no Nível 10 ou superior|
+|Esqueleto Assustador e Amedrontador|3|-|-|ser Revenã Esqueleto; estar no Nível 10 ou superior|
 
 ### Artesão de Runas
 
@@ -35,7 +35,7 @@ O Arquétipo do Parágono diz respeito ao indivíduo que atingiu o ápice de sua
 
 **Custo de PHs**: 3 | **Outros Requisitos**: ser Elfo da Floresta; estar no Nível 10 ou superior
 
-- **Visão Melhorada** (Passiva): sempre que usar a sua Habilidade Olheiro, você é o primeiro na Iniciativa, em vez de receber Vantagem nela.
+- **Visão Melhorada** (Passiva): essa Habilidade substitui a sua Habilidade Olheiro. Você é sempre o primeiro na Iniciativa.
 
 ### Onipresença
 
@@ -61,7 +61,7 @@ O Arquétipo do Parágono diz respeito ao indivíduo que atingiu o ápice de sua
 **Custo de PHs**: 3 | **Outros Requisitos**: ser Halfling; estar no Nível 10 ou superior
 
 - **Pequeno Prodígio** (Passiva): você tem +5 no BA de Testes de Perícias nas quais não é Perito.
-- **Prodígio Dobrado** (Passiva | Limite de Usos: uma vez por Descanso Longo): você dobra todos os bônus do BA de um Teste de Perícia. Você pode escolher fazer isso depois de rolar o Teste.
+- **Prodígio Dobrado** (Passiva | Limite de Usos: uma vez por Descanso Longo): você dobra o seu BA em um Teste de Perícia, o que inclui todos os bônus que o compõem. Você pode escolher fazer isso depois de rolar o Teste.
 
 ### Potencial Infinito
 
@@ -101,7 +101,7 @@ Você só pode engolir uma criatura por vez.
 
 - **Engolir** (Ativa | Custo de Ações: Duas Ações | Alvo: uma criatura | Requisitos de Uso: estar agarrando uma criatura de Tamanho igual ou inferior ao seu): você tenta engolir o alvo, que precisa passar por uma Salvaguarda de Força. Em caso de sucesso, ele tem Vantagem para se soltar da sua língua. Em caso de falha, você o engole.
     
-    Uma criatura engolida tem a Condição Incapacitado e sofre Grau 9 de Dano Ácido Contínuo. Ela pode repetir a Salvaguarda no início de cada um dos Turnos dela e, em caso de sucesso, você é forçado a cuspi-la. Caso seja Imune a Dano Ácido, ela não fica Incapacitada e tem Vantagem em Ataques contra você enquanto estiver engolida.
+    Uma criatura engolida continua com a Condição Agarrado, tem a Condição Incapacitado e sofre Grau 9 de Dano Ácido Contínuo. Ela pode repetir a Salvaguarda no início de cada um dos Turnos dela e, em caso de sucesso, você é forçado a cuspi-la. Caso seja Imune a Dano Ácido, ela não fica Incapacitada e tem Vantagem em Ataques contra você enquanto estiver engolida.
     
     Se você engolir uma criatura do seu Tamanho, a sua barriga cresce para acomodá-la, e você passa a ser considerado de um Tamanho acima do seu atual enquanto ela estiver engolida.
     
@@ -119,7 +119,7 @@ Você só pode engolir uma criatura por vez.
 **Custo de PHs**: 3 | **Outros Requisitos**: ser Revenã Zumbi; estar no Nível 10 ou superior
 
 - **Atestado de Vida** (Passiva): curas que antes não funcionavam em você, como a Magia Cura Menor, de custo 1, passam a funcionar. Você também deixa de ser afetado negativamente por Magias e outros efeitos, causados por você ou por aliados, que normalmente prejudicariam mortos-vivos.
-- **Absorver Trevas** (Passiva): ao receber uma instância de Dano Sombrio, a cura da Regeneração dos Mortos aumenta em 2 Graus. O Dano Sombrio não pode ter sido causado por você nem por aliados.
+- **Absorver Trevas** (Passiva): a cada instância de Dano Sombrio que receber, a cura da Regeneração dos Mortos aumenta em 2 Graus, respeitando o limite de Grau 10. O Dano Sombrio não pode ter sido causado por você nem por aliados.
 
 ### Esqueleto Assustador e Amedrontador
 
